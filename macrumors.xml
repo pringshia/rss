@@ -14,12 +14,75 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 07 Sep 2023 10:14:08 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 07 Sep 2023 11:04:44 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>PSA: Make Sure to Update, iOS 16.6.1 and macOS 13.5.2 Address Actively Exploited Vulnerability</title>
+		<link>https://www.macrumors.com/2023/09/07/ios-16-6-1-macos-13-5-2-active-vulnerabilities/</link>
+		<comments>https://forums.macrumors.com/threads/psa-make-sure-to-update-ios-16-6-1-and-macos-13-5-2-address-actively-exploited-vulnerability.2400732/</comments>
+		<pubDate>Thu, 07 Sep 2023 10:39:44 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/07/ios-16-6-1-macos-13-5-2-active-vulnerabilities/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 16</category>
+		<category>macOS Ventura</category>
+		
+
+		<description><![CDATA[The macOS 13.5.2, iOS 16.6.1, iPadOS 16.6.1, and watchOS 9.6.2 updates that Apple released today includes fixes for security vulnerabilities that Apple says may have been actively exploited in the wild.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/macbook-air-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-903333" /><br/>
+According to Apple's <a href="https://support.apple.com/en-us/HT201222">security support page</a>, in iOS, iPadOS, and macOS, processing a maliciously crafted image could lead to arbitrary code execution, allowing a hacker to gain access to the operating system with a simple picture. Apple fixed the ImageIO process by addressing a buffer overflow issue to improve memory handling.<br/>
+<br/>
+In iOS, iPadOS, and watchOS, a maliciously crafted attachment in the Wallet app could also lead to arbitrary code execution. Apple addressed the validation issue with improved logic.<br/>
+<br/>
+As these updates include important security fixes, everyone should install iOS 16.6.1, iPadOS 16.6.1, macOS 13.5.2, and watchOS 9.6.2 as soon as possible. Apple recommends these software updates for all users.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-16/">iOS 16</a>, <a href="https://www.macrumors.com/roundup/ipados-16/">iPadOS 16</a>, <a href="https://www.macrumors.com/roundup/macos-13/">macOS Ventura</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-16.238">iOS 16</a>, <a href="https://forums.macrumors.com/forums/macos-ventura.239">macOS Ventura</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/07/ios-16-6-1-macos-13-5-2-active-vulnerabilities/">PSA: Make Sure to Update, iOS 16.6.1 and macOS 13.5.2 Address Actively Exploited Vulnerability</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/psa-make-sure-to-update-ios-16-6-1-and-macos-13-5-2-address-actively-exploited-vulnerability.2400732/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases iOS 16.6.1, iPadOS 16.6.1, and watchOS 9.6.2 With Bug Fixes</title>
+		<link>https://www.macrumors.com/2023/09/07/apple-releases-ios-16-6-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-ios-16-6-1-ipados-16-6-1-and-watchos-9-6-2-with-bug-fixes.2400728/</comments>
+		<pubDate>Thu, 07 Sep 2023 10:22:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/07/apple-releases-ios-16-6-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 16</category>
+		
+
+		<description><![CDATA[Apple today released iOS 16.6.1, iPadOS 16.6.1, and watchOS 9.6.2, minor updates for the iOS, iPadOS, and watchOS operating systems that came out last September. The launch of iOS 16.6.1 comes over a month after the <a href="https://www.macrumors.com/2023/07/24/apple-releases-ios-16-6/">release of iOS 16.6</a>, an update that brought bug fixes. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iOS-16.6.1-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-909341" /><br/>
+‌‌<a href="https://www.macrumors.com/roundup/ios-16/">iOS 16</a>‌‌‌.6.1 and iPadOS 16.6.1  can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General &gt; Software Update. It can take a few minutes for the updates to propagate to all users because of demand. <br/>
+<br/>
+watchOS 9.6.2 can be downloaded for free through the Apple Watch app on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> by opening it up and going to General > Software Update. To install the new software, the Apple Watch needs to have at least 50 percent battery, it needs to be placed on a charger, and it needs to be in range of the ‌‌‌‌‌‌‌&zwnj;iPhone&zwnj;‌‌‌‌‌‌‌.<br/>
+<br/>
+According to Apple's release notes for the updates, they includes unspecified bug fixes and security improvements. <br/>
+<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-16/">iOS 16</a>, <a href="https://www.macrumors.com/roundup/ipados-16/">iPadOS 16</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ios-16.238">iOS 16</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/07/apple-releases-ios-16-6-1/">Apple Releases iOS 16.6.1, iPadOS 16.6.1, and watchOS 9.6.2 With Bug Fixes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-16-6-1-ipados-16-6-1-and-watchos-9-6-2-with-bug-fixes.2400728/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases macOS Ventura 13.5.2</title>
+		<link>https://www.macrumors.com/2023/09/07/apple-releases-macos-ventura-13-5-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-macos-ventura-13-5-2.2400727/</comments>
+		<pubDate>Thu, 07 Sep 2023 10:20:17 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/07/apple-releases-macos-ventura-13-5-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Ventura</category>
+		
+
+		<description><![CDATA[Apple today released <a href="https://www.macrumors.com/roundup/macos-13/">macOS Ventura</a> 13.5.2, a bug fix update for the &zwnj;macOS Ventura&zwnj; operating system released last October. &zwnj;macOS Ventura&zwnj; 13.5.2 comes almost a month after the <a href="https://www.macrumors.com/2023/08/17/apple-releases-macos-ventura-13-5-1/">launch of macOS Ventura 13.5.1</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/06/Ventura-Macs-Feature-Red.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-848978" /><br/>
+The ‌‌‌‌&zwnj;macOS Ventura&zwnj;‌‌‌‌ 13.5.2 update can be downloaded for free on all eligible Macs using the Software Update section of System Settings.<br/>
+<br/>
+&zwnj;macOS Ventura&zwnj; 13.5.2 focuses on minor bug fixes and security improvements, and it does not include any notable new features. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-13/">macOS Ventura</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-ventura.239">macOS Ventura</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/07/apple-releases-macos-ventura-13-5-2/">Apple Releases macOS Ventura 13.5.2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-macos-ventura-13-5-2.2400727/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>China Expanding Government iPhone Ban</title>
@@ -446,113 +509,6 @@ In the cohort of existing Android fans, 66% overall said they would not be buyin
 Apple has kept the Lightning port on the ‌iPhone‌ for over 10 years. The company's proprietary charging port was introduced in September 2012 with the iPhone 5, but in recent years Apple's Macs and iPads have all transitioned to the more common USB-C charging standard. Apple's expected decision to switch the iPhone to USB-C this year was facilitated by pressure to comply with new regulations implemented in Europe for all consumer mobile and laptop devices to use a universal charging standard.<br/>
 <ul><li><a href="https://www.macrumors.com/2023/09/04/what-not-to-expect-apple-september-iphone-15-event/">What Not to Expect at Apple's 'Wonderlust' September 12 Event</a></li></ul><br/>
 Apple is expected to unveil its new iPhone 15 lineup at its <a href="https://www.macrumors.com/2023/08/29/apple-september-12-event-announcement/">"Wonderlust" September 12 event</a>, alongside the Apple Watch Series 9 and a second-generation Apple Watch Ultra, <a href="https://www.macrumors.com/2023/08/28/iphone-15-apple-event-four-other-announcements/">among other possible new products</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/android/">Android</a>, <a href="https://www.macrumors.com/guide/sellcell/">SellCell</a>, <a href="https://www.macrumors.com/guide/usb-c-iphone/">USB-C iPhone</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/06/usb-c-iphone-tempts-android-users-to-switch/">USB-C iPhone 15 May Tempt Some Android Owners to Switch, Survey Suggests</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/usb-c-iphone-15-may-tempt-some-android-owners-to-switch-survey-suggests.2400581/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Signs New Deal With Arm to License Chip Designs Beyond 2040</title>
-		<link>https://www.macrumors.com/2023/09/06/apple-inks-new-deal-arm-chip-designer/</link>
-		<comments>https://forums.macrumors.com/threads/apple-signs-new-deal-with-arm-to-license-chip-designs-beyond-2040.2400573/</comments>
-		<pubDate>Wed, 06 Sep 2023 00:49:06 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/06/apple-inks-new-deal-arm-chip-designer/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>Arm</category>
-		
-
-		<description><![CDATA[Apple has signed a new deal with British chip design company Arm to license its chip technology that extends beyond 2040, reports <em><a href="https://www.reuters.com/technology/apple-inks-new-long-term-deal-with-arm-chip-technology-filing-2023-09-05/">Reuters</a></em>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/02/arm-logo-blue-bg.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-783300" /><br/>
-News of the deal emerged in documents filed on Tuesday for Arm's initial public offering, which the company has priced at &#36;52 billion. <br/>
-<br/>
-"We have entered into a new long-term agreement with Apple that extends beyond 2040, continuing our longstanding relationship of collaboration with Apple and Apple's access to the Arm architecture," said Arm in the <a href="https://www.sec.gov/Archives/edgar/data/1973239/000119312523228059/d393891df1a.htm">IPO document</a>.<br/>
-<br/>
-Arm's hardware underpins all of Apple's custom silicon processors such as the A15 in the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> and the <a href="https://www.macrumors.com/guide/m2/">M2</a> in the MacBook Pro, since Apple licenses the Arm instruction set. <br/>
-<br/>
-The document reveals that companies including Apple, AMD, Google, Intel, Nvidia, Samsung, and TSMC, have "indicated an interest" in buying "up to an aggregate" of &#36;735 million in Arm shares. TSMC, the world's largest contract chipmaker, has said it will decide this week whether to invest in the chip designer. By holding Arm's shares, chipmakers will hope to have sway over Arm's management.<br/>
-<br/>
-Japan-based SoftBank has been preparing for an IPO since its plan to sell Arm to Nvidia became <a href="https://www.macrumors.com/2021/12/02/ftc-lawsuit-block-nvidia-arm-acquisition/">subject to regulatory scrutiny</a>. California-based Nvidia in January 2022 <a href="https://www.macrumors.com/2022/02/08/nvidia-abandons-arm-acquistion/">abandoned</a> the purchase when it became clear that the deal would be blocked by the FTC.<br/>
-<br/>
-The relationship between Apple and Arm is one of the longest in the chip business – Apple was one of the first companies to partner with the firm when it was founded in 1990, prior to the release of Apple's Newton handheld computer, which used an Arm-based chip.<br/>
-<ul><li><a href="https://www.macrumors.com/2023/01/14/apples-biggest-hardware-flops/">Apple's Biggest Hardware Flops of All Time</a></li></ul><br/>
-The Newton was a <a href="https://www.macrumors.com/2023/01/14/apples-biggest-hardware-flops/">flop</a>, but Arm wasn't. It went on to develop integrated circuit design data that is generally considered to be the "blueprint" for semiconductors. Arm licenses its chip designs to over 500 companies, and its architecture is used in 95 percent of the world's smartphones.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/arm/">Arm</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/06/apple-inks-new-deal-arm-chip-designer/">Apple Signs New Deal With Arm to License Chip Designs Beyond 2040</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-signs-new-deal-with-arm-to-license-chip-designs-beyond-2040.2400573/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Retail Stores Updating Overnight After &#039;Wonderlust&#039; Event in Preparation for iPhone 15 Launch</title>
-		<link>https://www.macrumors.com/2023/09/05/apple-retail-stores-overnight-event-update/</link>
-		<comments>https://forums.macrumors.com/threads/apple-retail-stores-updating-overnight-after-wonderlust-event-in-preparation-for-iphone-15-launch.2400538/</comments>
-		<pubDate>Tue, 05 Sep 2023 13:32:21 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/05/apple-retail-stores-overnight-event-update/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		<category>September 2023 Apple Event</category>
-		
-
-		<description><![CDATA[Employees at Apple retail stores are planning for overnight updates following the September 12 "Wonderlust" event, according to <a href="https://twitter.com/markgurman/status/1699151590039376107"><em>Bloomberg</em>'s Mark Gurman</a>. Apple retail workers will be getting stores ready for the launch of the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models and other devices.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/08/iPhone-15-Pro-Colors-Mock-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-907572" /><br/>
-Gurman suggests that the overnight update could be because Apple is planning for near-immediate availability of new products after the event, but it could also be time that is used to put up new marketing materials. It is not unusual for Apple retail stores to receive overnight updates ahead of new product launches.<br/>
-<br/>
-If Apple follows past product debut timelines, the &zwnj;iPhone 15&zwnj; models will be available for pre-order on the Friday after the event (September 15), with a launch to follow the next Friday, which would be September 22. While there were rumors several weeks ago about potential delays for some of the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models, more recent information has suggested those issues have been solved.<br/>
-<br/>
-We are now expecting all four of the &zwnj;iPhone 15&zwnj; models to launch simultaneously, though it is likely that the 15 Pro and Pro Max will be available in more limited supply than the standard &zwnj;iPhone 15&zwnj; models.<br/>
-<br/>
-Apple at the event is also expected to introduce new <a href="https://www.macrumors.com/guide/apple-watch-series-9/">Apple Watch Series 9</a> models, the <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra</a> 2, and a version of the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2 that come with a USB-C case. With the new <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> models and the &zwnj;AirPods Pro&zwnj; transitioning to USB-C, the store downtime could be related to a push to inform customers about the change, but it could also be aimed at the &zwnj;iPhone 15 Pro&zwnj; Max, which will have a unique "periscope" telephoto lens.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/september-2023-apple-event/">September 2023 Apple Event</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/05/apple-retail-stores-overnight-event-update/">Apple Retail Stores Updating Overnight After &#039;Wonderlust&#039; Event in Preparation for iPhone 15 Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-retail-stores-updating-overnight-after-wonderlust-event-in-preparation-for-iphone-15-launch.2400538/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Everything You Need to Know About the iPhone 15 Camera Specifications</title>
-		<link>https://www.macrumors.com/2023/09/05/iphone-15-series-camera-specs/</link>
-		<comments>https://forums.macrumors.com/threads/everything-you-need-to-know-about-the-iphone-15-camera-specifications.2400534/</comments>
-		<pubDate>Tue, 05 Sep 2023 12:38:41 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/05/iphone-15-series-camera-specs/</guid>
-		<dc:creator>Marko Zivkovic</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		
-
-		<description><![CDATA[With every <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> iteration, Apple adds new functionality to the camera system, and the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> series is no exception. <em>MacRumors</em> has obtained detailed information about the camera systems of the &zwnj;iPhone 15&zwnj; lineup, from the standard &zwnj;iPhone 15&zwnj; with upgraded 48-megapixel camera to the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max with its new periscope telephoto lens.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Blue-Three-Quarters-Perspective-Camera-Closeup-Feature-2.5.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-909014" /><br/>
-<h3>iPhone 15 and 15 Plus</h3><br/>
-<ul><li><strong>Main Camera</strong>: 48-megapixel image sensor, ƒ/1.6 aperture</li><br/>
-<li><strong>Ultra Wide Camera</strong>: 12-megapixel image sensor, ƒ/2.4 aperture</li></ul><br/>
-<br/>
-The base &zwnj;iPhone 15&zwnj; and &zwnj;iPhone 15&zwnj; Plus models are expected to feature an all-new 48-megapixel Sony image sensor, which is a substantial upgrade from the 12-megapixel Main camera on the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a>. The increase in megapixels will allow for higher resolution images with improved detail. It's worth noting that this claim has been made repeatedly by a variety of sources – including industry analysts <a href="https://www.macrumors.com/2023/05/14/iphone-15-and-15-plus-48mp-camera/">Jeff Pu</a> and <a href="https://www.macrumors.com/2023/07/26/kuo-iphone-15-iphone-15-plus-feature-48mp-camera/">Ming-Chi Kuo</a>, along with <a href="https://www.macrumors.com/2023/07/27/iphone-15-still-to-have-smaller-sensor-than-pros/">Weibo user "Digital Chat Station</a>."<br/>
-<br/>
-The &zwnj;iPhone 15&zwnj; is not expected to use the Sony IMX-803 image sensor from the <a href="https://www.macrumors.com/roundup/iphone-14-pro/">iPhone 14 Pro</a>, and will instead use a different Sony sensor with improved capabilities. <br/>
-<br/>
-There is evidence that Apple tested different configurations of the base model &zwnj;iPhone 15&zwnj;, one of which featured the <a href="https://www.macrumors.com/2023/08/04/iphone-16-pro-stacked-camera-sensor/">rumored stacked camera sensor system</a>, while the other did not. It is currently unclear whether or not the stacked sensor system is present on the final units. Stacked camera sensors allow for faster readout speeds and improved low-light imaging.<br/>
-<br/>
-No significant upgrades are expected for the Ultra Wide camera, which is expected to continue to have a 12-megapixel resolution and an ƒ/2.4 aperture.<br/>
-<br/>
-<h3>iPhone 15 Pro</h3><br/>
-<ul><li><strong>Main Camera</strong>: 48 megapixels, Sony IMX-803 image sensor, ƒ/1.78 aperture</li><br/>
-<li><strong>Telephoto Camera</strong>: 12.7 megapixels, ƒ/2.8 aperture</li><br/>
-<li><strong>Ultra Wide Camera</strong>: 13.4 megapixels, ƒ/2.2 aperture</li></ul><br/>
-<br/>
-As far as the &zwnj;iPhone 15 Pro&zwnj; is concerned, improvements focus mainly on the Telephoto and Ultra Wide cameras, with the Main camera still using the same Sony IMX-803 image sensor found in the &zwnj;iPhone 14 Pro&zwnj;. This information contradicts <a href="https://twitter.com/UniverseIce/status/1649963708729417728">previous rumors</a> suggesting that the &zwnj;iPhone 15 Pro&zwnj; and Pro Max would use the Sony IMX-903 image sensor. Both the Ultra Wide and Telephoto cameras will receive upgrades compared to the &zwnj;iPhone 14 Pro&zwnj;'s 12-megapixel cameras, allowing for improved image quality and higher resolution photos.<br/>
-<br/>
-<h3>iPhone 15 Pro Max</h3><br/>
-<ul><li><strong>Main Camera</strong>: 48 megapixels, Sony IMX-803 image sensor, ƒ/1.78 aperture</li><br/>
-<li><strong>Telephoto Camera</strong>: 12.7 megapixels, ƒ/2.8 aperture, periscope lens</li><br/>
-<li><strong>Ultra Wide Camera</strong>: 13.4 megapixels, ƒ/2.2 aperture</li></ul><br/>
-<br/>
-The &zwnj;iPhone 15 Pro&zwnj; Max is the most interesting in the lineup by far. <em>MacRumors</em> has confirmed with industry sources that the &zwnj;iPhone 15 Pro&zwnj; Max will be equipped with an entirely new periscope lens system for the Telephoto camera, confirming previous <a href="https://www.macrumors.com/2022/07/14/periscope-lens-iphone-15-pro-max-kuo/">claims from Apple analyst Ming-Chi Kuo</a>. With periscope zoom technology, we can expect significant improvements to the &zwnj;iPhone 15 Pro&zwnj; Max's zoom capabilities. The &zwnj;iPhone 14 Pro&zwnj; Max, for example, is limited to 3x zoom, but the &zwnj;iPhone 15 Pro&zwnj; Max is expected to have between 5x and 10x zoom.<br/>
-<br/>
-Unlike most cameras that have an image sensor directly underneath the camera lens, folded optics systems use angled mirrors to reflect light toward the image sensor. The directional shift is what allows for optical zoom that surpasses what's possible using a standard telephoto camera system.<br/>
-<br/>
-Apple likely decided to make the periscope lens exclusive to the &zwnj;iPhone 15 Pro&zwnj; Max for now due to space constraints. According to information from our sources, the camera module used in the &zwnj;iPhone 15 Pro&zwnj; Max is, to a certain extent, larger than the camera module in the &zwnj;iPhone 14 Pro&zwnj; models and the smaller &zwnj;iPhone 15 Pro&zwnj;. Apple appears to have increased the size of the camera module to accommodate the periscope lens hardware, which in turn required other internal components like the midframe assembly to be shifted accordingly.<br/>
-<br/>
-In 2024, the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> Pro models are expected to increase in size to 6.3 inches and 6.9 inches, giving Apple space for the periscope lens in both the Pro and Pro Max models. <a href="https://www.macrumors.com/2023/05/16/iphone-16-pro-models-larger-periscope/">As noted by Apple analyst Ming-Chi Kuo</a>, periscope zoom will not be limited to the larger Pro Max in the &zwnj;iPhone 16&zwnj; lineup.<br/>
-<br/>
-Along with periscope zoom, the &zwnj;iPhone 15 Pro&zwnj; Max will include the same 48-megapixel IMX-803 image sensor and Ultra Wide and Telephoto cameras as the &zwnj;iPhone 15 Pro&zwnj;.<br/>
-<br/>
-It's worth noting that the information presented here is <strong>pre-production information</strong>, and may not necessarily reflect the exact hardware of mass production units, but it represents our best visibility into what Apple has been planning for the new &zwnj;iPhone&zwnj; lineup.<br/>
-<br/>
-To read more on what to expect, check out our dedicated rumor roundups for the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/05/iphone-15-series-camera-specs/">Everything You Need to Know About the iPhone 15 Camera Specifications</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-you-need-to-know-about-the-iphone-15-camera-specifications.2400534/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
