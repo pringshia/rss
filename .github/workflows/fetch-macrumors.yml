@@ -1,0 +1,34 @@
+name: Macrumors Feed
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs once a day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch RSS Feed
+        run: |
+          wget -O macrumors.xml http://feeds.macrumors.com/MacRumors-All
+        # Replace 'https://example.com/rss-feed-url' with the actual RSS feed URL
+
+      - name: Commit Changes
+        run: |
+          git config user.name 'GitHub Actions'
+          git config user.email 'actions@github.com'
+          git add macrumors.xml
+          git commit -m 'Update Macrumors feed'
+          git push
+
+      - name: Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+
