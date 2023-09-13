@@ -14,12 +14,327 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 13 Sep 2023 09:03:27 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 13 Sep 2023 13:03:18 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>New Apple ID Sign-In Options: Phone Number on File or Trusted Device</title>
+		<link>https://www.macrumors.com/2023/09/13/new-apple-id-sign-in-options-ios-17/</link>
+		<comments>https://forums.macrumors.com/threads/new-apple-id-sign-in-options-phone-number-on-file-or-trusted-device.2401566/</comments>
+		<pubDate>Wed, 13 Sep 2023 11:58:14 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/13/new-apple-id-sign-in-options-ios-17/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 17</category>
+		<category>macOS Sonoma</category>
+		<category>Apple ID</category>
+		
+
+		<description><![CDATA[The upcoming iOS 17, iPadOS 17, and macOS Sonoma updates for the iPhone, iPad, and Mac include a couple of new sign-in methods for an Apple ID account.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/iOS-17-Passkey-With-Apple-ID-Feature-3.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-901156" /><br/>
+First, it is now possible to sign into an Apple ID with any phone number or secondary email address on file with the account. We were able to sign into an Apple ID with a phone number on the Apple ID website using a Mac running macOS Ventura, so it's unclear if this feature specifically requires the new software updates or is simply a backend change.<br/>
+<br/>
+Second, starting with an iOS 17 update <a href="https://www.macrumors.com/2023/09/13/ios-17-features-coming-later-this-year/">coming later this year</a>, there will be a new Apple ID proximity sign-in feature. This will allow you to bring an existing signed-in and trusted iPhone or iPad into proximity with a new device being set up, pair the devices by scanning an on-screen "particle cloud," and complete sign-in automatically.<br/>
+<br/>
+iOS 17, iPadOS 17, and macOS Sonoma also <a href="https://www.macrumors.com/2023/06/20/ios-17-macos-sonoma-apple-id-passkey/">added passkey support to Apple IDs</a>.<br/>
+<br/>
+Apple announced that iOS 17 and iPadOS 17 will be released on Monday, September 18, while macOS Sonoma launches Tuesday, September 26.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>, <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a>, <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/13/new-apple-id-sign-in-options-ios-17/">New Apple ID Sign-In Options: Phone Number on File or Trusted Device</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-apple-id-sign-in-options-phone-number-on-file-or-trusted-device.2401566/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 15 Pro Supports Recording ProRes Video Directly to External Storage</title>
+		<link>https://www.macrumors.com/2023/09/13/iphone-15-pro-external-storage-prores/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-15-pro-supports-recording-prores-video-directly-to-external-storage.2401559/</comments>
+		<pubDate>Wed, 13 Sep 2023 11:33:25 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/13/iphone-15-pro-external-storage-prores/</guid>
+		<dc:creator>Steve Moser</dc:creator>
+		<category>iPhone 15</category>
+		<category>iPhone 15 Pro</category>
+		
+
+		<description><![CDATA[Apple's <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> release candidate build that was released yesterday includes code that reveals the new requirements for recording ProRes video with an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> directly to external storage.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-pro-max-camera.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-910485" /><br/>
+During yesterday's event, Apple said that the &zwnj;iPhone 15 Pro&zwnj; could record up to ProRes 4K at 60 fps to external storage thanks to the new USB-C port. The code reveals that ProRes 2.8K at 60 fps is also supported when recording to external storage devices. This is a significant improvement over the <a href="https://www.macrumors.com/roundup/iphone-14-pro/">iPhone 14 Pro</a>, which only supported ProRes 2.8K and 4K at 30 fps, and did not allow for recording directly to a storage device. Also, according to the code, external storage devices must be formatted to either exFAT or APFS for this feature to work, but there is no word on whether there are disk speed requirements.<br/>
+<br/>
+ProRes is a high-quality video codec that is often used by professional filmmakers, and video recorded in the ProRes format takes up a lot of storage space. Recording 4K 60fps ProRes video is a feature that Apple was only able to add because of the new A17 Pro chip and the option to connect to an external storage drive.<br/>
+<br/>
+The external storage requirement for recording 4K 60fps video prevents <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users from filling up their onboard storage, and the formatting requirements prevent users from experiencing poor performance when recording to external storage devices. Users who want to record ProRes video to an external storage device will need to make sure that the device meets Apple's requirements. <br/>
+<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/13/iphone-15-pro-external-storage-prores/">iPhone 15 Pro Supports Recording ProRes Video Directly to External Storage</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-pro-supports-recording-prores-video-directly-to-external-storage.2401559/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 15 Pro and Pro Max Feature More Repairable Design With Removable Back Glass</title>
+		<link>https://www.macrumors.com/2023/09/13/iphone-15-pro-models-more-repairable/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-15-pro-and-pro-max-feature-more-repairable-design-with-removable-back-glass.2401557/</comments>
+		<pubDate>Wed, 13 Sep 2023 11:27:37 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/13/iphone-15-pro-models-more-repairable/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iPhone 15</category>
+		<category>iPhone 15 Pro</category>
+		
+
+		<description><![CDATA[During its <a href="https://www.macrumors.com/2023/09/12/everything-apple-announced-fall-2023-event/">event</a> this week, Apple announced that the iPhone 15 Pro and iPhone 15 Pro Max feature a more repairable internal design, with a redesigned frame that allows for the back glass panel to be easily removed from the devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Internal-Chassis.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-910920" /><br/>
+Apple already applied this change <a href="https://www.macrumors.com/2022/09/15/iphone-14-removable-back-glass/">to the lower-end iPhone 14 and iPhone 14 Plus</a> last year, making them the first iPhone models that can officially be opened from both the front and back sides of the device for repairs since the iPhone 4S, released in 2011. The internal redesign did not extend to the iPhone 14 Pro models.<br/>
+<br/>
+Removable back glass will likely result in significantly lower repair fees for iPhone 15 Pro models with cracked back glass for customers without AppleCare+ coverage. Apple's out-of-warranty fees for the more repairable iPhone 14 and iPhone 14 Plus with back glass damage range from &#36;169 to &#36;199, compared to &#36;499 to &#36;549 for iPhone 14 Pro models. Apple has yet to disclose repair fees for the iPhone 15 series on its website.<br/>
+<br/>
+iFixit's Kyle Wiens last year said the iPhone 14 represented "<a href="https://www.macrumors.com/2022/09/19/ifixit-iphone-14-teardown/">the most substantial iPhone redesign</a>" since the iPhone X given the increased repairability. He added that the changes were "such a big deal that it should have been Apple's big announcement—the iPhone has been redesigned from the inside out to make it easier to repair."<br/>
+<br/>
+The entire iPhone 15 series can be pre-ordered starting this Friday, September 15 at 5 a.m. Pacific Time, and the devices launch on Friday, September 22.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/13/iphone-15-pro-models-more-repairable/">iPhone 15 Pro and Pro Max Feature More Repairable Design With Removable Back Glass</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-pro-and-pro-max-feature-more-repairable-design-with-removable-back-glass.2401557/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>You Can Now Use Your iPhone to Find a Lost Siri Remote in tvOS 17 and iOS 17</title>
+		<link>https://www.macrumors.com/2023/09/13/siri-remote-firmware-update-lost-functionality/</link>
+		<comments>https://forums.macrumors.com/threads/you-can-now-use-your-iphone-to-find-a-lost-siri-remote-in-tvos-17-and-ios-17.2401552/</comments>
+		<pubDate>Wed, 13 Sep 2023 11:02:36 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/13/siri-remote-firmware-update-lost-functionality/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple TV</category>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple yesterday released new firmware for the second and third-generation <a href="https://www.macrumors.com/guide/siri/">Siri</a> Remotes, and the update appears to enable the tvOS 17 feature that is designed to allow an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> to locate a misplaced <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> remote. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/siri-remote-find-my.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-910907" /><br/>
+With the new firmware, tvOS 17, and <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, if a &zwnj;Siri&zwnj; Remote becomes lost, the &zwnj;Apple TV&zwnj; remote control available in the Control Center on an &zwnj;iPhone&zwnj; can be used to locate the missing remote. <br/>
+<br/>
+Users will see a Find My-like interface that guides them toward the remote, with the size of the onscreen circle increasing to guide movement in the correct direction.<br/>
+<br/>
+<a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a> for the &zwnj;Siri&zwnj; Remote is available on the second and third-generation &zwnj;Siri&zwnj; Remotes. The updated firmware is necessary, and there is no established method for getting the &zwnj;Siri&zwnj; Remote to update. The &zwnj;Apple TV&zwnj; will need to be up to date, on, and connected to the &zwnj;Siri&zwnj; Remote to initiate, but there is no way to force the new firmware to download. <br/>
+<br/>
+Prior to the launch of the latest &zwnj;Apple TV&zwnj; 4K, there were rumors that Apple would build &zwnj;Find My&zwnj; functionality into the &zwnj;Siri&zwnj; Remote. That didn't happen, but this new tvOS 17 option is essentially the same thing. The new &zwnj;Siri&zwnj; Remote feature has not been available previously as it required new firmware to function.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fun fact: This is the FIRST update to the Siri Remote (3rd Generation). It came out close to a year ago. <a href="https://t.co/3LaYD2gwQz">https://t.co/3LaYD2gwQz</a></p>&mdash; Aaron (@aaronp613) <a href="https://twitter.com/aaronp613/status/1701734124321480779?ref_src=twsrc%5Etfw">September 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div><br/>
+Locating the remote through the Control Center is possible because of deeper integration between the &zwnj;iPhone&zwnj; and the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> with the tvOS 17 and &zwnj;iOS 17&zwnj; updates. Locating the &zwnj;Siri&zwnj; Remote is a feature that is limited to the &zwnj;Apple TV&zwnj; 4K models released in 2021 and 2022. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a>, <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/13/siri-remote-firmware-update-lost-functionality/">You Can Now Use Your iPhone to Find a Lost Siri Remote in tvOS 17 and iOS 17</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/you-can-now-use-your-iphone-to-find-a-lost-siri-remote-in-tvos-17-and-ios-17.2401552/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases iTunes for Windows Update With Support for iPhone 15 Models</title>
+		<link>https://www.macrumors.com/2023/09/13/apple-itunes-for-windows-iphone-15/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-itunes-for-windows-update-with-support-for-iphone-15-models.2401548/</comments>
+		<pubDate>Wed, 13 Sep 2023 10:45:11 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/13/apple-itunes-for-windows-iphone-15/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Microsoft</category>
+		<category>iTunes</category>
+		<category>Windows</category>
+		
+
+		<description><![CDATA[Apple today released an iTunes 12.12.10 update for Windows users, and the new software adds both security improvements and support for new devices that include the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-846163" src="https://images.macrumors.com/article-new/2022/05/itunes-for-windows.jpg" alt="" width="2000" height="1125" /><br/>
+iTunes for Windows is not updated on a regular basis, and this is the first new software release <a href="https://www.macrumors.com/2023/06/01/itunes-windows-vulnerability/">since May</a> when Apple addressed a major security vulnerability.<br/>
+<br/>
+Following the update, Windows users should be able to connect the new <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> models to their PCs for device management purposes.<br/>
+<br/>
+iTunes has been phased out on the Mac for several years now and it has been replaced with Finder and the TV app, but Apple has continued to keep the Windows version available.<br/>
+<br/>
+iTunes for Windows can be downloaded from the <a href="https://apps.microsoft.com/store/detail/itunes/9PB2MZ1ZMB1S?hl=en-us&amp;gl=US">Microsoft Store</a> or <a href="https://support.apple.com/en-us/HT210384">from Apple's website</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/microsoft/">Microsoft</a>, <a href="https://www.macrumors.com/guide/itunes/">iTunes</a>, <a href="https://www.macrumors.com/guide/windows/">Windows</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-apps.2">Mac Apps</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/13/apple-itunes-for-windows-iphone-15/">Apple Releases iTunes for Windows Update With Support for iPhone 15 Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-itunes-for-windows-update-with-support-for-iphone-15-models.2401548/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Deals: First iPhone 15 Accessory Sales Hit With Up to 30% Off Cases and USB-C Chargers</title>
+		<link>https://www.macrumors.com/2023/09/13/deals-iphone-15-accessory-sales/</link>
+		<comments>https://forums.macrumors.com/threads/deals-first-iphone-15-accessory-sales-hit-with-up-to-30-off-cases-and-usb-c-chargers.2401546/</comments>
+		<pubDate>Wed, 13 Sep 2023 10:33:03 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/13/deals-iphone-15-accessory-sales/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[With the <a href="https://www.macrumors.com/2023/09/12/apple-announces-iphone-15-pro/">imminent launch</a> of the iPhone 15 and iPhone 15 Pro, popular third-party Apple accessory companies have introduced all-new accessories for Apple's latest smartphones. Today we're tracking all of the new accessories that you can already get on sale, thanks to deals from Casely, Hyper, OtterBox, Pad & Quill, and Satechi.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-pro-hands-on.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-910540" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+There are a few iPhone 15 case sales in the list below, including 15 percent off at <a href="https://www.shareasale.com/r.cfm?b=1592498&u=63177&m=100061">Casely</a>, 15 percent off at <a href="http://www.shareasale.com/r.cfm?B=695070&U=63177&M=54540&urllink=">Pad & Quill</a>, and 25 percent off at <a href="http://www.dpbolvw.net/click-462641-12147972-1440024949000">OtterBox</a>. For the latter sale, you'll need to purchase a screen protector or power accessory for your iPhone 15 first and then you'll get 25 percent off an OtterBox case.<br/>
+<br/>
+Otherwise, you'll find multiple sales on charging accessories compatible with the new line of iPhones, with up to 30 percent off <a href="https://click.linksynergy.com/fs-bin/click?id=J2shFQg6J/U&offerid=592602.5&type=3&subid=0">Hyper</a> accessories and 20 percent off <a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=&afftrack=">Satechi</a> accessories. Given that the iPhone 15 is the first iPhone to support USB-C, this is a good opportunity to purchase quality USB-C chargers and cables.<br/>
+<br/>
+<ul><li><a href="https://www.shareasale.com/r.cfm?b=1592498&u=63177&m=100061">Casely</a> - Take 15 percent off sitewide with code IPHONE15</li><br/>
+<li><a href="https://click.linksynergy.com/fs-bin/click?id=J2shFQg6J/U&offerid=592602.5&type=3&subid=0">Hyper</a> - Take up to 30 percent off charging accessories</li><br/>
+<li><a href="http://www.dpbolvw.net/click-462641-12147972-1440024949000">OtterBox</a> - Take 25 percent off iPhone 15 cases when buying a screen protector or power product</li><br/>
+<li><a href="http://www.shareasale.com/r.cfm?B=695070&U=63177&M=54540&urllink=">Pad & Quill</a> - Take 15 percent off iPhone 15 Pro and Pro Max wallet cases</li><br/>
+<li><a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=&afftrack=">Satechi</a> - Take 20 percent off iPhone 15 accessories with code IPHONE</li></ul> If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/13/deals-iphone-15-accessory-sales/">Deals: First iPhone 15 Accessory Sales Hit With Up to 30% Off Cases and USB-C Chargers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-first-iphone-15-accessory-sales-hit-with-up-to-30-off-cases-and-usb-c-chargers.2401546/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Reveals More iOS 17 Features Not Available Until Later This Year</title>
+		<link>https://www.macrumors.com/2023/09/13/ios-17-features-coming-later-this-year/</link>
+		<comments>https://forums.macrumors.com/threads/apple-reveals-more-ios-17-features-not-available-until-later-this-year.2401542/</comments>
+		<pubDate>Wed, 13 Sep 2023 10:15:50 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/13/ios-17-features-coming-later-this-year/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple announced that iOS 17 will be <a href="https://www.macrumors.com/2023/09/12/ios-17-launch-date-announced-apple/">released on Monday, September 18</a> for the iPhone XS and newer. The free software update includes a wide range of new features, but not all of them will be available right away, according to Apple.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/General-iOS-17-Feature-Orange-Purple.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-898582" /><br/>
+Below, we have listed three features that Apple's website says are "coming later this year" as part of a future update, such as iOS 17.1 or iOS 17.2. In addition, Apple <a href="https://www.macrumors.com/2023/09/12/ios-17-macos-sonoma-all-new-features/">shared a PDF this week</a> outlining even more iOS 17 features that are now labeled as "coming later this year," and we have listed those additions below.<br/>
+<br/>
+<h2>Journal App</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/06/Journal-App-iOS-17.jpeg" alt="" width="2612" height="1828" class="aligncenter size-full wp-image-898865" /><br/>
+An all-new Journal app will allow iPhone users to reflect on their day and memories, complete with text, photos, music, audio recordings, and more. The app will provide personalized suggestions based on recent on-device activity.<br/>
+<br/>
+<h2>Collaborative Apple Music Playlists</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/06/apple-music-collaborative-playlist.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-898803" /><br/>
+A new Collaborative Playlists feature for Apple Music will allow multiple people to add, reorder, and remove songs in a shared playlist.<br/>
+<br/>
+<h2>AirDrop Transfers via Internet</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/06/airdrop-ios-17.jpg" alt="" width="2466" height="1382" class="aligncenter size-full wp-image-900709" /><br/>
+If you send content like an image or video to another user via AirDrop, the transfer will be able to continue over an internet connection if you leave AirDrop range, so long as both you and the recipient are signed in to an iCloud account.<br/>
+<br/>
+<h2>More Features Coming Later This Year</h2><ul><li>React to a message with any sticker through the Tapback menu in the Messages app.</li><br/>
+<li>A catch-up arrow for group conversations in the Messages app.</li><br/>
+<li>Sync additional settings with Messages in iCloud, such as Text Message Forwarding, Send & Receive accounts, and SMS filters across devices.</li><br/>
+<li>Play or pause a podcast or Apple News+ audio story in the Apple News widget.</li><br/>
+<li>Favorite Songs playlist in Music app.</li><br/>
+<li>Intelligent form detection and enhanced AutoFill for PDFs.</li><br/>
+<li>Audio Focus feature for Apple Fitness+ that prioritizes the volume of either the music or the trainers' voices depending on your preference.</li><br/>
+<li>Apple ID proximity sign-in with an existing signed-in and trusted iPhone or iPad.</li></ul>Apple is already testing both iOS 17.1 and iOS 17.2 internally, according to our website's analytic logs. iOS 17.1 is likely to be released in October, while iOS 17.2 should be available in December, based on Apple's previous software release cycles.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/13/ios-17-features-coming-later-this-year/">Apple Reveals More iOS 17 Features Not Available Until Later This Year</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-reveals-more-ios-17-features-not-available-until-later-this-year.2401542/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Watch Series 8 vs. Series 9 Buyer&#039;s Guide: 10+ Upgrades Compared</title>
+		<link>https://www.macrumors.com/guide/apple-watch-series-8-vs-series-9/</link>
+		<comments>https://forums.macrumors.com/threads/apple-watch-series-8-vs-series-9-buyers-guide-10-upgrades-compared.2401524/</comments>
+		<pubDate>Wed, 13 Sep 2023 09:21:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/apple-watch-series-8-vs-series-9&#038;post_date=1694632867/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Apple Watch</category>
+		<category>Buyer's Guide</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[The <a href="https://www.macrumors.com/guide/apple-watch-series-9/">Apple Watch Series 9</a> replaces the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 8</a> in Apple's smartwatch lineup, so how different are the two successive smartwatch generations?<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/Apple-Watch-Series-8-vs-Series-9-Buyers-Guide-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-910858" /><br/>
+In 2022, Apple unveiled the &zwnj;Apple Watch Series 8&zwnj;, introducing features like body temperature sensing and Crash Detection. The &zwnj;Apple Watch Series 8&zwnj; has now been discontinued by Apple, and as year-old models, prices at third-party resellers are falling. As such, some customers may be weighing up whether to upgrade to a discounted Series 8‌ or the latest Series 9‌.<br/>
+<br/>
+The &zwnj;Apple Watch Series 8&zwnj; and Series 9 share the overwhelming majority of their features, so should you consider buying or sticking with the Series 8 to save money? This breakdown also serves as a way to see all the differences that the new Apple Watch brings to the table.<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th>&zwnj;Apple Watch Series 8&zwnj;</th><br/>
+ <th>&zwnj;Apple Watch Series 9&zwnj;</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Retina display with up to 1,000 nits of brightness</td><br/>
+ <td>Retina display with up to 2,000 nits of brightness</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td>Display can get dimmer in dark rooms and at night (down to 1 nit of brightness)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td>Double Tap gesture to stop a timer, play and pause music, snooze an alarm, answer and end a phone call, take a photo with the Camera Remote, open the Smart Stack, and scroll through widgets in the stack, all without touching the display</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>S8 chip (based on A13 Bionic chip)</td><br/>
+ <td>S9 chip (based on A15 Bionic chip: 60% more transistors, 30% faster)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Neural Engine</td><br/>
+ <td>4-core Neural Engine (up to twice as fast)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td><a href="https://www.macrumors.com/guide/siri/">Siri</a> processed in the cloud via internet connection</td><br/>
+ <td>&zwnj;Siri&zwnj; processed on-device for requests that do not need information from the internet, resulting in quicker and more reliable responses</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td>&zwnj;Siri&zwnj; can access health and fitness data</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Dictation</td><br/>
+ <td>25% more accurate dictation</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>First-generation Ultra Wideband chip</td><br/>
+ <td>Second-generation Ultra Wideband chip</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td>Precision Finding for <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models, providing distance and direction, as well as visual, haptic, and audio guidance to a misplaced <a href="https://www.macrumors.com/guide/iphone/">iPhone</a></td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td><a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> integration: When a user gets within four meters of a playing &zwnj;HomePod&zwnj;, the Apple Watch launches Now Playing to control playback. If nothing is playing, media suggestions appear at the top of the Smart Stack.</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>32GB storage</td><br/>
+ <td>64GB storage</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Aluminum models available in Starlight, Midnight, Silver, and (PRODUCT)RED</td><br/>
+ <td>Aluminum models available in Starlight, Midnight, Silver, (PRODUCT)RED, and Pink</td><br/>
+ </tr><br/>
+ </table><br/>
+<div class="clear"></div><br/>
+<br/>
+Overall, the &zwnj;Apple Watch Series 9&zwnj; is a very minor upgrade over the Series 8, with the S9 chip, Double Tap, and Precision Finding for &zwnj;iPhone 15&zwnj; models being the most significant changes. As a result, it is very difficult to recommend upgrading.<br/>
+<br/>
+Most &zwnj;Apple Watch Series 8&zwnj; users will not be able to justify upgrading to the Series 9, but some customers coming from an older device could still have good reason to preference the latest model, namely those who heavily use a &zwnj;HomePod&zwnj;, plan to buy an &zwnj;iPhone 15&zwnj; model and can take advantage of Precision Finding, need additional storage for downloaded media, or think one-handed use with the Double Tap gesture would be useful.<br/>
+<br/>
+The &zwnj;Apple Watch Series 9&zwnj; is very similar to the Series 8, so most customers who have an older Apple Watch model and are looking for an upgrade may prefer to look for a discounted &zwnj;Apple Watch Series 8&zwnj;. If the Series 8 can be found for a substantially lower price, it remains a solid buy for most users with an older model. To understand how the Series 8 stacks up against its predecessor, see our other <a href="https://www.macrumors.com/guide/apple-watch-series-7-vs-series-8/">buyer's guide</a> from last year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 8</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/apple-watch-series-8-vs-series-9/">Apple Watch Series 8 vs. Series 9 Buyer&#039;s Guide: 10+ Upgrades Compared</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-watch-series-8-vs-series-9-buyers-guide-10-upgrades-compared.2401524/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 15 Rumor Report Card: The Biggest Hits and Misses</title>
+		<link>https://www.macrumors.com/2023/09/13/iphone-15-rumor-report-card/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-15-rumor-report-card-the-biggest-hits-and-misses.2401522/</comments>
+		<pubDate>Wed, 13 Sep 2023 09:13:29 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/13/iphone-15-rumor-report-card/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iPhone 15</category>
+		<category>iPhone 15 Pro</category>
+		
+
+		<description><![CDATA[Apple this week unveiled four new iPhone 15 models <a href="https://www.macrumors.com/2023/09/12/everything-apple-announced-fall-2023-event/">at its "Wonderlust" event</a>. As always, there were many rumors leading up to the event that gave us an idea of what to expect from the devices, but not all of them were accurate.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Rumor-Report-Card-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-910731" /><br/>
+Below, we have recapped some of the bigger hits and misses from the iPhone 15 rumor mill.<br/>
+<br/>
+<h2>Hits</h2><ul><li>All four iPhone 15 models were widely rumored to be <a href="https://www.macrumors.com/2023/02/16/iphone-15-pro-usb-c-port/">equipped with a USB-C port</a>.</li><br/>
+<li>iPhone 15 Pro models have a <a href="https://www.macrumors.com/2023/03/29/iphone-15-pro-action-button-rumor/">customizable Action button</a>, and the <a href="https://www.macrumors.com/2023/07/26/ios-17-beta-action-button-iphone-15-pro/">nine supported types of actions</a> were accurately leaked.</li><br/>
+<li>iPhone 15 Pro models have an <a href="https://www.macrumors.com/2023/08/29/apple-buys-all-3nm-tsmc-chips-2023/">A17 chip manufactured with a 3nm process</a>, an <a href="https://www.macrumors.com/2023/09/07/iphone-15-pro-128gb-storage-8gb-ram-trendforce/">increased 8GB of RAM</a>, <a href="https://www.macrumors.com/2023/01/27/wifi-6e-iphone-15-pro-models/">Wi-Fi 6E support</a>, and a <a href="https://www.macrumors.com/2023/06/19/iphone-15-new-u1-chip-vision-pro-headset/">second-generation Ultra Wideband chip</a>.</li><br/>
+<li>iPhone 15 Pro models have <a href="https://www.macrumors.com/2023/03/05/iphone-15-pro-front-glass-leak/">thinner bezels around the screen</a>.</li><br/>
+<li>iPhone 15 Pro pricing <a href="https://www.macrumors.com/2023/09/07/iphone-15-pro-will-still-start-at-999-trendforce/">starts at &#36;999 for the 6.1-inch model</a>, only Pro Max costs more.</li><br/>
+<li>iPhone 15 Pro Max is exclusively <a href="https://www.macrumors.com/2023/04/18/iphone-15-pro-max-5-6x-optical-zoom/">capable of 5x optical zoom</a>.</li><br/>
+<li>iPhone 15 and iPhone 15 Plus <a href="https://www.macrumors.com/2022/09/18/dynamic-island-all-iphone-15-models-rumor/">have the Dynamic Island</a>, a <a href="https://www.macrumors.com/2023/04/17/iphone-15-and-15-plus-frosted-glass-rumor/">frosted glass back</a>, and a <a href="https://www.macrumors.com/2023/07/26/kuo-iphone-15-iphone-15-plus-feature-48mp-camera/">48-megapixel main camera lens</a>.</li><br/>
+<li>iPhone 15 Pro and iPhone 15 Pro Max have a <a href="https://www.macrumors.com/2023/08/24/apple-iphone-15-pro-colors/">lightweight titanium frame</a> available <a href="https://www.macrumors.com/2023/08/30/kuo-iphone-15-colors-and-more/">in Blue, Black, White, and Natural</a>.</li><br/>
+<li>iPhone 15 Pro models have a <a href="https://www.macrumors.com/2023/07/30/iphone-15-pro-removable-back-glass/">more repairable design like the iPhone 14 and 14 Plus</a>.</li><br/>
+<li>iPhone 15 and iPhone 15 Plus are available <a href="https://www.macrumors.com/2023/08/30/kuo-iphone-15-colors-and-more/">in Black, Pink, Yellow, Blue, and Green</a>.</li><br/>
+<li>Apple <a href="https://www.macrumors.com/2023/05/05/iphone-15-pro-solid-state-buttons-cancellation/">abandoned plans to add solid-state buttons</a> to the iPhone 15 Pro models, with the devices retaining physical buttons.</li><br/>
+<li><a href="https://www.macrumors.com/2023/09/12/apple-announces-finewoven/">"FineWoven" branding</a> was used for non-leather Apple accessories.</li><br/>
+<li>There is <a href="https://www.macrumors.com/2023/09/08/no-iphone-15-ultra-says-gurman/">no "iPhone 15 Ultra"</a> (an <a href="https://www.macrumors.com/2023/08/21/iphone-15-ultra-could-replace-pro-max/">earlier rumor</a> is a miss).</li><br/>
+<li>Alongside the iPhone 15, the AirPods Pro charging case was <a href="https://www.macrumors.com/2023/09/12/apple-announces-usb-c-iphone-airpods-earpods/">updated with a USB-C port</a>.</li></ul><br/>
+<br/>
+<h2>Misses</h2><ul><li>iPhone 15 Pro models <a href="https://www.macrumors.com/2023/08/16/some-iphone-15-models-feature-thunderbolt-speeds/">do not support Thunderbolt</a>.</li><br/>
+<li>iPhone 15 Pro models <a href="https://www.macrumors.com/2023/02/23/iphone-15-color-options/">do not have a dark red color option</a>.</li><br/>
+<li>Rumors about price increases for <a href="https://www.macrumors.com/2023/09/07/iphone-15-pro-models-rumored-to-see-price-increase/"><strong>both</strong> the Pro and Pro Max</a> models were wrong.</li><br/>
+<li>All four iPhone 15 models are not available with <a href="https://www.macrumors.com/2023/08/21/iphone-15-could-come-with-color-matched-cables/">color-matched braided USB-C cables</a>.</li><br/>
+<li>There is <a href="https://www.macrumors.com/2023/08/07/iphone-15-pro-2tb-storage-option/">no 2TB storage option</a> that was rumored for the iPhone 15 Pro models, with the highest capacity remaining 1TB.</li><br/>
+<li>iPhone 15 models <a href="https://www.macrumors.com/2023/03/27/iphone-15-esim-only-france-rumor/">did not become eSIM-only in France</a>.</li><br/>
+<li>It was generally expected that iPhone 15 Pro models <a href="https://www.macrumors.com/2023/05/09/iphone-15-pro-battery-life-boost/">would have longer battery life</a> with the more power-efficient A17 chip.</li></ul><h3>Honorable Mention</h3><br/>
+The second-generation Apple Watch Ultra is <a href="https://www.macrumors.com/2023/08/01/apple-watch-ultra-2-black-titanium-rumor/">not available in Black Titanium</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/08/Apple-Watch-Ultra-Black-Feature.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-905396" /><br/>
+With so many rumors shared leading up to the iPhone event, this list is far from comprehensive, so feel free to discuss other hits and misses in the comments section.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/13/iphone-15-rumor-report-card/">iPhone 15 Rumor Report Card: The Biggest Hits and Misses</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-rumor-report-card-the-biggest-hits-and-misses.2401522/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple to Release watchOS 10 on Monday, September 18</title>
@@ -55,9 +370,9 @@ Apple yesterday <a href="https://www.macrumors.com/2023/09/12/apple-releases-wat
 		</item>
 		
 		<item>
-		<title>iPhone 14 Pro vs. iPhone 15 Pro Buyer&#039;s Guide: 35+ Upgrades Compared</title>
+		<title>iPhone 14 Pro vs. iPhone 15 Pro Buyer&#039;s Guide: 30+ Upgrades Compared</title>
 		<link>https://www.macrumors.com/guide/iphone-14-pro-vs-iphone-15-pro/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-14-pro-vs-iphone-15-pro-buyers-guide-35-upgrades-compared.2401473/</comments>
+		<comments>https://forums.macrumors.com/threads/iphone-14-pro-vs-iphone-15-pro-buyers-guide-30-upgrades-compared.2401473/</comments>
 		<pubDate>Wed, 13 Sep 2023 06:02:05 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/guide/iphone-14-pro-vs-iphone-15-pro&#038;post_date=1694620925/</guid>
 		<dc:creator>Hartley Charlton</dc:creator>
@@ -86,7 +401,7 @@ Although the &zwnj;iPhone 14 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; share most 
  <td>Aerospace-grade titanium chassis with contoured edges</td><br/>
  </tr><br/>
  <tr><br/>
- <td>–</td><br/>
+ <td></td><br/>
  <td>Thinner borders around the display for slightly smaller overall footprint</td><br/>
  </tr><br/>
  <tr><br/>
@@ -118,7 +433,7 @@ Although the &zwnj;iPhone 14 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; share most 
  <td>16-core Neural Engine (up to 2x faster)</td><br/>
  </tr><br/>
  <tr><br/>
- <td>–</td><br/>
+ <td></td><br/>
  <td>Dedicated AV1 decoder</td><br/>
  </tr><br/>
  <tr><br/>
@@ -134,16 +449,12 @@ Although the &zwnj;iPhone 14 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; share most 
  <td>0.5x, 1x, 2x, 3x, and 5x optical zoom (5x on Pro Max only)</td><br/>
  </tr><br/>
  <tr><br/>
- <td>–</td><br/>
+ <td></td><br/>
  <td>13mm, 24mm, 28mm, 35mm, 77mm, and 120mm focal length picker (120mm on Pro Max only)</td><br/>
  </tr><br/>
  <tr><br/>
  <td>48-megapixel super-high-resolution photos</td><br/>
  <td>24- and 48-megapixel super-high-resolution photos</td><br/>
- </tr><br/>
- <tr><br/>
- <td>48-megapixel ProRAW capture</td><br/>
- <td>48-megapixel ProRAW and 48-megapixel HEIF capture with 4x more resolution</td><br/>
  </tr><br/>
  <tr><br/>
  <td>Smart HDR 4</td><br/>
@@ -166,23 +477,23 @@ Although the &zwnj;iPhone 14 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; share most 
  <td>Improved Action mode and low-light video</td><br/>
  </tr><br/>
  <tr><br/>
- <td>–</td><br/>
+ <td></td><br/>
  <td>Log video recording</td><br/>
  </tr><br/>
  <tr><br/>
- <td>–</td><br/>
+ <td></td><br/>
  <td>Academy Color Encoding System</td><br/>
  </tr><br/>
  <tr><br/>
- <td>–</td><br/>
+ <td></td><br/>
  <td>Record spatial video for <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></td><br/>
  </tr><br/>
  <tr><br/>
- <td>–</td><br/>
+ <td></td><br/>
  <td>Shoot and instantly transfer 48-megapixel ProRAW images to Mac via USB 3</td><br/>
  </tr><br/>
  <tr><br/>
- <td>–</td><br/>
+ <td></td><br/>
  <td>Improved audio quality on phone calls</td><br/>
  </tr><br/>
  <tr><br/>
@@ -190,7 +501,7 @@ Although the &zwnj;iPhone 14 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; share most 
  <td>Wi‑Fi 6E connectivity </td><br/>
  </tr><br/>
  <tr><br/>
- <td>–</td><br/>
+ <td></td><br/>
  <td>Thread networking technology</td><br/>
  </tr><br/>
  <tr><br/>
@@ -198,12 +509,8 @@ Although the &zwnj;iPhone 14 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; share most 
  <td>Second-generation Ultra Wideband chip (connects from 3x further away)</td><br/>
  </tr><br/>
  <tr><br/>
- <td>–</td><br/>
+ <td></td><br/>
  <td>Precision Finding for <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a> friends</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Emergency SOS via satellite</td><br/>
- <td>Emergency SOS via satellite and Roadside Assistance via satellite</td><br/>
  </tr><br/>
  <tr><br/>
  <td>Lightning port</td><br/>
@@ -234,9 +541,9 @@ The &zwnj;iPhone 15 Pro&zwnj; also brings advancements to photography and videog
 <br/>
 This is not to mention Roadside Assistance via satellite, new color options, the second-generation ultra wideband chip, and the A17 Pro chip – Apple's first chip made with a &zwnj;3nm&zwnj; fabrication process, which radically improves the gaming capabilities of the device.<br/>
 <br/>
-Due to the scale and breadth of these improvements, some &zwnj;iPhone 14 Pro&zwnj; users can justify upgrading to the &zwnj;iPhone 15 Pro&zwnj;, especially if they value the new design, USB-C port, Action button, and camera improvements. It is only worth sticking with the &zwnj;iPhone 14 Pro&zwnj; if you are holding off for an even more substantial upgrade in the future.<br/>
+Due to the scale and breadth of these improvements, some &zwnj;iPhone 14 Pro&zwnj; users can justify upgrading to the &zwnj;iPhone 15 Pro&zwnj;, especially if they value the new design, USB-C port, Action button, and camera improvements. It is worth sticking with the &zwnj;iPhone 14 Pro&zwnj; if you are holding off for an even more substantial upgrade in the future.<br/>
 <br/>
-Customers coming from an older model also have good reason to preference the latest model over the &zwnj;iPhone 14 Pro&zwnj; due to the relatively large number of improvements and additional features offered by the &zwnj;iPhone 15 Pro&zwnj;, but it depends on just how inexpensively last year's Pro models can now be obtained.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-14-pro/">iPhone 14 Pro</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-14-Pro">iPhone 14 Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/iphone-14-pro-vs-iphone-15-pro/">iPhone 14 Pro vs. iPhone 15 Pro Buyer&#039;s Guide: 35+ Upgrades Compared</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-14-pro-vs-iphone-15-pro-buyers-guide-35-upgrades-compared.2401473/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Customers coming from an older model also have good reason to preference the latest model over the &zwnj;iPhone 14 Pro&zwnj; due to the relatively large number of improvements and additional features offered by the &zwnj;iPhone 15 Pro&zwnj;, but it depends on just how inexpensively last year's Pro models can now be obtained.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-14-pro/">iPhone 14 Pro</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-14-Pro">iPhone 14 Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/iphone-14-pro-vs-iphone-15-pro/">iPhone 14 Pro vs. iPhone 15 Pro Buyer&#039;s Guide: 30+ Upgrades Compared</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-14-pro-vs-iphone-15-pro-buyers-guide-30-upgrades-compared.2401473/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -484,284 +791,6 @@ In a <a href="https://www.apple.com/newsroom/2023/09/apple-upgrades-airpods-pro-
 Apple also said the updated AirPods Pro have additional IP54-rated dust resistance for both the earbuds and the charging case.<br/>
 <br/>
 The updated AirPods Pro are <a href="https://www.apple.com/shop/product/MTJV3AM/A/airpods-pro">available to order starting today</a> for &#36;249, and will be available in stores beginning Friday, September 22. Apple is not selling the USB-C charging case separately, and it has discontinued the AirPods Pro with a Lightning case. The standard third-generation AirPods and the AirPods Max were not updated today.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a>, <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/september-2023-apple-event/">September 2023 Apple Event</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Neutral)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a>, <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/12/new-airpods-pro-features/">New AirPods Pro Feature Lossless Audio With Vision Pro and Additional Dust Resistance</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-airpods-pro-feature-lossless-audio-with-vision-pro-and-additional-dust-resistance.2401361/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 15&#039;s USB-C Port Can Charge Your Apple Watch and AirPods</title>
-		<link>https://www.macrumors.com/2023/09/12/iphone-15-usb-c-port-apple-watch-airpods-charging/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-15s-usb-c-port-can-charge-your-apple-watch-and-airpods.2401360/</comments>
-		<pubDate>Tue, 12 Sep 2023 18:22:25 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/12/iphone-15-usb-c-port-apple-watch-airpods-charging/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		
-
-		<description><![CDATA[Now that the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models have a USB-C port instead of a Lightning port, it is possible to use an &zwnj;iPhone 15&zwnj; to charge the AirPods or Apple Watch directly.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-USB-C-Port-Event-Still.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-910412" /><br/>
-You'll need an appropriate cable to charge with an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, such as a USB-C to USB-C cable for the new <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2 USB-C Charging Case, or a USB-C Apple Watch charging puck, but it's a useful function that wasn't available with Lightning.<br/>
-<br/>
-Apple highlighted the new functionality in its <a href="https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/">iPhone 15 Pro announcement</a> and it makes sense because USB-C Macs can be used for charging the AirPods and Apple Watch, but it is novel because we aren't accustomed to charging accessories with an &zwnj;iPhone&zwnj;.<br/>
-<br/>
-If your AirPods or Apple Watch run out of battery while you don't have access to a charger, it is convenient to be able to use the &zwnj;iPhone&zwnj;'s battery for a little extra juice rather than carrying around a battery pack.<br/>
-<br/>
-USB-C brings other conveniences, such as the ability to use the same charging cable for Macs, iPads, iPhones, and other USB-C accessories. On the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models, it also brings faster USB 3 transfer speeds of up to 10Gb/s, provided you're using the right cable. &zwnj;iPhone 15&zwnj; models are limited to USB 2 charging speeds, the same as the Lighting port.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/12/iphone-15-usb-c-port-apple-watch-airpods-charging/">iPhone 15&#039;s USB-C Port Can Charge Your Apple Watch and AirPods</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15s-usb-c-port-can-charge-your-apple-watch-and-airpods.2401360/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Everything Apple Announced at Today&#039;s Event in Six Minutes</title>
-		<link>https://www.macrumors.com/2023/09/12/everything-apple-announced-fall-2023-event/</link>
-		<comments>https://forums.macrumors.com/threads/everything-apple-announced-at-todays-event-in-six-minutes.2401351/</comments>
-		<pubDate>Tue, 12 Sep 2023 17:40:45 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/12/everything-apple-announced-fall-2023-event/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		<category>September 2023 Apple Event</category>
-		
-
-		<description><![CDATA[Apple today held its "Wonderlust" fall event, introducing the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, &zwnj;iPhone 15&zwnj; Plus, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, &zwnj;iPhone 15 Pro&zwnj; Max, <a href="https://www.macrumors.com/guide/apple-watch-series-9/">Apple Watch Series 9</a>, and <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra</a> 2. It took Apple an hour and a half to introduce all of the new devices, but we've recapped everything in a super quick six minute video for our readers who want a short but detailed overview of all of the new announcements.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/RrwpZwAhEOU" title="Everything Apple Announced at the Fall iPhone Event in 6 Minutes!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-We've also rounded up all of our event coverage, so make sure to take a look at our articles to avoid missing any new details about Apple's latest devices.<br/>
-<h2>iPhone 15 Pro and iPhone 15 Pro Max</h2><br/>
-<ul><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-announces-iphone-15-pro/">Apple Announces iPhone 15 Pro With Titanium Design, Action Button, A17 Pro Chip, and More</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/new-iphone-15-pro-color-options-no-gold/">Apple Reveals New iPhone 15 Pro Colors: Black Titanium, White Titanium, Blue Titanium, and Natural Titanium, But No Gold This Year</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-max-pricing/">iPhone 15 Pro Max Now Starts at 256GB of Storage for &#36;1,199</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-action-button-everything-it-can-do/">iPhone 15 Pro: Here's Everything the New Action Button Can Do</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/titanium-iphone-15-pro-weight/">Titanium iPhone 15 Pro Weighs 19 Grams Less Than iPhone 14 Pro</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-100-pound-cheaper-uk/">iPhone 15 Pro £100 Cheaper in the UK Than Last Year's Equivalent Models</a></li><br/>
-        <li><a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-pricing/">Pricing on iPhone 15 Pro Models Technically Didn't Change</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-max-25x-digital-zoom/">iPhone 15 Pro Max's 5x Optical Zoom Lens Enables 25x Digital Zoom</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-models-wi-fi-6e/">iPhone 15 Pro Models Support Wi-Fi 6E</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-thread-support/">Apple Adds Thread Networking Technology to iPhone 15 Pro</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-hands-on/">Hands-On With the New iPhone 15 and iPhone 15 Pro Models</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-pre-order-setup/">Apple Lets Customers 'Get Ready' For iPhone 15 Launch With Pre-Order Setup</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-usb-c-port-apple-watch-airpods-charging/">iPhone 15’s USB-C Port Can Charge Your Apple Watch and AirPods</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-models-have-8gb-ram/">iPhone 15 Pro and iPhone 15 Pro Max Feature Increased 8GB of RAM</a></li><br/>
-</ul><br/>
-<h2>iPhone 15 and iPhone 15 Plus</h2><br/>
-<ul><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-announces-iphone-15-and-15-plus/">Apple Announces iPhone 15 and iPhone 15 Plus With USB-C Port, Dynamic Island, and More</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-usb-port-limited-to-lightning-speeds/">iPhone 15's USB-C Port Remains Limited to Lightning Speeds</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-no-color-matched-cables/">iPhone 15 Models Do Not Come With Rumored Color-Matched Braided USB-C Cables</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-qi-charging-no-improvement/">iPhone 15 Models Still Limited to 7.5W on Qi Chargers, Fast Charging Has Not Improved</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/iphone-15-still-has-sim-card-tray-outside-us/">iPhone 15 Models Sold Outside U.S. Still Have Physical SIM Card Tray</a></li><br/>
-</ul><br/>
-<h2>Apple Watch Series 9</h2><br/>
-<ul><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-watch-series-9-unveiled/">Apple Watch Series 9 Unveiled With S9 Chip, 'Double Tap' Gesture, and More</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-watch-series-9-double-tap/">Apple Watch Series 9 Gains New 'Double Tap' Gesture Control Feature</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/09/12/apple-watch-ultra-2-series-9-hands-on/">Hands-On With the New Apple Watch Series 9 and Apple Watch Ultra 2 Models</a></li><br/>
-</ul><br/>
-<h2>Apple Watch Ultra 2</h2><br/>
-<ul><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-announces-apple-watch-ultra-2/">Apple Unveils Apple Watch Ultra 2 Featuring Faster S9 Chip, New Ultra Wideband Chip, and Apple's Brightest Ever Display</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-watch-series-9-and-ultra-2-64gb-storage/">Apple Watch Series 9 and Ultra 2 Feature 64GB of Storage</a></li><br/>
-</ul><br/>
-<h2>Software</h2><br/>
-<ul><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/ios-17-launch-date-announced-apple/">iOS 17 to Launch on September 18, Featuring StandBy Mode, NameDrop, Interactive Widgets, and More</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/macos-sonoma-official-release-date-announced/">macOS Sonoma to Launch on September 26, Featuring Desktop Widgets, Safari Profiles, Game Mode, and More</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-releases-tvos-17-rc/">Apple Seeds Release Candidate Version of tvOS 17 to Developers</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-releases-watchos-10-rc/">Apple Seeds Release Candidate Version of watchOS 10 to Developers</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-releases-ios-17-rc/">Apple Seeds Release Candidate Versions of iOS 17 and iPadOS 17 to Developers</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-seeds-macos-sonoma-14-rc/">Apple Seeds Release Candidate Version of macOS 14 Sonoma to Developers</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-releases-new-airpods-firmware-2/">Apple Releases New Firmware for AirPods Pro, AirPods, and AirPods Max</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/studio-display-17-firmware-rc/">Apple Releases Studio Display 17 Firmware Release Candidate</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/ios-17-macos-sonoma-all-new-features/">Apple Shares Lists of All New Features in iOS 17 and macOS Sonoma</a></li><br/>
-</ul><br/>
-<h2>Cases and Accessories</h2><br/>
-<ul><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-announces-finewoven/">Apple Announces 'FineWoven' Material, Will No Longer Make Leather Accessories</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-releases-usb-c-lightning-adapter-and-more/">Apple Releases USB-C to Lightning Adapter for iPhone 15 and Shorter Thunderbolt 4 Pro Cable</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/every-iphone-15-case/">Here is Every iPhone 15 and iPhone 15 Pro Case That Launched Today</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/every-apple-watch-band-2023/">Here is Every Apple Watch Band That Launched Today</a></li><br/>
-</ul><br/>
-<h2>Other Announcements</h2><br/>
-<ul><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-event-live-blog-september-2023/">Apple Event Live Blog: iPhone 15, New Apple Watch Models, and More Expected</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-announces-usb-c-iphone-airpods-earpods/">Apple Introduces New AirPods Pro Charging Case and EarPods With USB-C</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-discontinues-iphone-13-mini/">Apple Discontinues 5.4-Inch iPhone 13 Mini, Still Sells iPhone 13 and iPhone 14</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/new-devices-feature-same-battery/">All of Apple's New Devices Feature the Same Battery Life as Previous Generations</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-adds-6tb-and-12tb-icloud-tiers/">Apple Adds 6TB and 12TB iCloud+ Storage Tiers</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/olivia-rodrigo-iphone-15-pro/">Olivia Rodrigo Debuts First Music Video Shot on iPhone 15 Pro</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/apple-discontinues-magsafe-battery-pack-and-duo/">Apple Discontinues MagSafe Battery Pack and MagSafe Duo Charger</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/09/12/roadside-assistance-via-satellite/">Apple Announces New Roadside Assistance via Satellite Feature for iPhone 14 and iPhone 15</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/09/12/new-airpods-pro-features/">New AirPods Pro Feature Lossless Audio With Vision Pro and Additional Dust Resistance</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/09/13/emergency-sos-via-satellite-spain-switzerland/">Emergency SOS via Satellite Coming to Spain and Switzerland Later This Month</a></li><br/>
-</ul><br/>
-The &zwnj;Apple Watch Series 9&zwnj; and &zwnj;Apple Watch Ultra&zwnj; 2 can be preordered starting today. Preorders for the &zwnj;iPhone 15&zwnj; models will take place on Friday, September 15. All of the new devices are set to launch on Friday, September 22.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/september-2023-apple-event/">September 2023 Apple Event</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/12/everything-apple-announced-fall-2023-event/">Everything Apple Announced at Today&#039;s Event in Six Minutes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-apple-announced-at-todays-event-in-six-minutes.2401351/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Lets Customers &#039;Get Ready&#039; For iPhone 15 Launch With Pre-Order Setup</title>
-		<link>https://www.macrumors.com/2023/09/12/iphone-15-pre-order-setup/</link>
-		<comments>https://forums.macrumors.com/threads/apple-lets-customers-get-ready-for-iphone-15-launch-with-pre-order-setup.2401345/</comments>
-		<pubDate>Tue, 12 Sep 2023 17:23:55 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/12/iphone-15-pre-order-setup/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		
-
-		<description><![CDATA[Following the introduction of the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, &zwnj;iPhone 15&zwnj; Plus, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, and &zwnj;iPhone 15 Pro&zwnj; Max, Apple is letting customers prepare for pre-orders, which are set to begin on Friday, September 15 at 5:00 a.m. Pacific Time.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-get-ready-apple.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-910547" /><br/>
-Prospective &zwnj;iPhone 15&zwnj; buyers can use the <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a> app to select their preferred phone, confirm their status with their carrier, add accessories, choose an <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a>+ plan, and add a preferred payment method ahead of when pre-orders go live. Payment in full and other payment options are supported.<br/>
-<br/>
-<a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Upgrade Program members are able to select their iPhones and complete pre-approval steps like checking upgrade eligibility, securing credit lines, and confirming shipping details.<br/>
-<br/>
-The "Get Ready" feature is designed to allow customers to pre-order their iPhones with the tap of a button to make the purchasing process quicker.<br/>
-<br/>
-The &zwnj;iPhone 15&zwnj; is priced starting at &#36;799, while the &zwnj;iPhone 15&zwnj; Plus is priced starting at &#36;899. The &zwnj;iPhone 15 Pro&zwnj; is priced starting at &#36;999, and the &zwnj;iPhone 15 Pro&zwnj; Max is priced starting at &#36;1,199. After pre-orders take place on September 15, a launch will follow on Friday, September 22.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/12/iphone-15-pre-order-setup/">Apple Lets Customers &#039;Get Ready&#039; For iPhone 15 Launch With Pre-Order Setup</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-lets-customers-get-ready-for-iphone-15-launch-with-pre-order-setup.2401345/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Hands-On With the New iPhone 15 and iPhone 15 Pro Models</title>
-		<link>https://www.macrumors.com/2023/09/12/iphone-15-hands-on/</link>
-		<comments>https://forums.macrumors.com/threads/hands-on-with-the-new-iphone-15-and-iphone-15-pro-models.2401323/</comments>
-		<pubDate>Tue, 12 Sep 2023 16:05:03 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/12/iphone-15-hands-on/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		<category>September 2023 Apple Event</category>
-		
-
-		<description><![CDATA[Following today's keynote event that saw Apple introducing the new <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, &zwnj;iPhone 15&zwnj; Plus, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, and &zwnj;iPhone 15 Pro&zwnj; Max, Apple allowed members of the media in attendance to spend some hands-on time with the new devices. <em>MacRumors</em> videographer Dan Barbera was at <a href="https://www.macrumors.com/guide/apple-park/">Apple Park</a> for the event, so he's able to give us an early look at the &zwnj;iPhone 15&zwnj; lineup, as well as his first thoughts.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ifzb4pwzRVM" title="Hands-On With Apple&#39;s New iPhone 15 &amp; iPhone 15 Pro Models!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-The &zwnj;iPhone 15 Pro&zwnj; models are made from titanium, and they are noticeably lighter than the <a href="https://www.macrumors.com/roundup/iphone-14-pro/">iPhone 14 Pro</a> models. There are contoured edges that improve the feel of the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> in the hand, and the Pro models are overall much more comfortable to hold. Apple also cut down on bezel size for even more display than ever, and the Action Button that replaces the Mute Switch is super convenient.<br/>
-<br/>
-Apple added a 5x zoom lens to the &zwnj;iPhone 15 Pro&zwnj; Max and at its 120mm focal length, you can get great portrait shots. There are options on both Pro models to change the focal length of the Main camera, which you can do just by tapping. It can be set to 24mm, 28mm, or 35mm, and the ability to change focal length is useful for pro photographers. <br/>
-<br/>
-As for the standard &zwnj;iPhone 15&zwnj; models, they're more Pro-like than ever with the addition of the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a> and the new matte glass back. Apple say it is using back glass that has color infused throughout the material, and it's a nice look, especially with the pastel color options.<br/>
-<br/>
-For more on what Dan thought of the &zwnj;iPhone 15&zwnj; models, make sure to check out his full video, and for more of our coverage, <a href="https://www.macrumors.com/guide/september-2023-apple-event/">visit our 2023 Apple Event hub</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/september-2023-apple-event/">September 2023 Apple Event</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/12/iphone-15-hands-on/">Hands-On With the New iPhone 15 and iPhone 15 Pro Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/hands-on-with-the-new-iphone-15-and-iphone-15-pro-models.2401323/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Shares Lists of All New Features in iOS 17 and macOS Sonoma</title>
-		<link>https://www.macrumors.com/2023/09/12/ios-17-macos-sonoma-all-new-features/</link>
-		<comments>https://forums.macrumors.com/threads/apple-shares-lists-of-all-new-features-in-ios-17-and-macos-sonoma.2401318/</comments>
-		<pubDate>Tue, 12 Sep 2023 15:39:01 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/12/ios-17-macos-sonoma-all-new-features/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iOS 17</category>
-		<category>September 2023 Apple Event</category>
-		
-
-		<description><![CDATA[Apple today shared in-depth lists of <a href="https://www.apple.com/ios/ios-17/pdf/iOS_All_New_Features.pdf">all new features coming with the iOS 17</a>, <a href="https://www.apple.com/ipados/ipados-17/pdf/iPadOS_All_New_Features.pdf">iPadOS 17</a>, and <a href="https://www.apple.com/macos/sonoma-preview/pdf/macOS_All_New_Features.PDF">macOS Sonoma</a> software updates, which are all set to be released later this month. The lists are available as PDFs on Apple's website.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/General-iOS-17-Feature-Orange-Purple.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-898582" /><br/>
-A key new feature of iOS 17 is <a href="https://www.macrumors.com/how-to/use-standby-mode-iphone/">StandBy</a>, a new full-screen view that provides glanceable information designed to be viewed from a distance when an iPhone is on its side and charging. The customizable interface can show a clock in various styles, a calendar, favorite photos, the weather forecast, music playback controls, widgets, and more.<br/>
-<br/>
-Additional new features on iOS 17 include Contact Posters, NameDrop, Live Voicemail, Check In, the ability to download Apple Maps for offline use, and much more, with a full overview of the update available in our <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17 roundup</a>.<br/>
-<br/>
-iPadOS 17 has many of the same features as iOS 17, plus adds widgets on the Lock Screen, Live Activities support, a Health app for the iPad, and more. For a comprehensive look at everything new for the iPad, read our <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17 roundup</a>.<br/>
-<br/>
-macOS Sonoma has an assortment of new features and enhancements for the Mac, including interactive widgets on the desktop, Apple TV-like aerial screensavers, enhancements to apps like Messages and Safari, a new Game mode that prioritizes CPU and GPU performance for gaming, and more, with more details available in our <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma roundup</a>.<br/>
-<br/>
-iOS 17 and iPadOS 17 will be released on Monday, September 18, while macOS Sonoma will be released on Tuesday, September 26, according to Apple.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/september-2023-apple-event/">September 2023 Apple Event</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/12/ios-17-macos-sonoma-all-new-features/">Apple Shares Lists of All New Features in iOS 17 and macOS Sonoma</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-shares-lists-of-all-new-features-in-ios-17-and-macos-sonoma.2401318/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Adds Thread Networking Technology to iPhone 15 Pro</title>
-		<link>https://www.macrumors.com/2023/09/12/iphone-15-pro-thread-support/</link>
-		<comments>https://forums.macrumors.com/threads/apple-adds-thread-networking-technology-to-iphone-15-pro.2401316/</comments>
-		<pubDate>Tue, 12 Sep 2023 15:24:11 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/12/iphone-15-pro-thread-support/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iPhone 15 Pro</category>
-		<category>September 2023 Apple Event</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and &zwnj;iPhone 15 Pro&zwnj; Max include support for the Thread mesh networking protocol. Thread networking technology is listed as a new feature for the Pro models, but it is not included in the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and &zwnj;iPhone 15&zwnj; Plus. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-pro-gray.jpg" alt="" width="1876" height="1055" class="aligncenter size-full wp-image-910519" /><br/>
-Apple says that the &zwnj;iPhone 15 Pro&zwnj; is the first smartphone with a Thread radio, which can be used to directly control Thread-enabled smart home products. Thread has previously been added to the <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a> and <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, but no other Apple devices have Thread connectivity.<br/>
-<br/>
-In the press release for the &zwnj;iPhone 15 Pro&zwnj; models, Apple explains that Thread opens up "future opportunities for Home app integrations."<br/>
-<br/>
-Thread is a mesh smart home network system that improves the connectivity and responsiveness of connected products. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/september-2023-apple-event/">September 2023 Apple Event</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-thread-support/">Apple Adds Thread Networking Technology to iPhone 15 Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-adds-thread-networking-technology-to-iphone-15-pro.2401316/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 15 Pro Models Support Wi-Fi 6E</title>
-		<link>https://www.macrumors.com/2023/09/12/iphone-15-pro-models-wi-fi-6e/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-15-pro-models-support-wi-fi-6e.2401312/</comments>
-		<pubDate>Tue, 12 Sep 2023 14:58:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/12/iphone-15-pro-models-wi-fi-6e/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iPhone 15 Pro</category>
-		<category>September 2023 Apple Event</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and the &zwnj;iPhone 15 Pro&zwnj; Max are the first iPhones to support next-generation Wi-Fi 6E connectivity, with the standard <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models continuing to be limited to Wi-Fi 6.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/apple-iphone-15-white-titanium.jpg" alt="" width="2084" height="1172" class="aligncenter size-full wp-image-910514" /><br/>
-With Wi-Fi 6E support, the &zwnj;iPhone 15 Pro&zwnj; and Pro Max can connect to the 6GHz band offered by Wi-Fi 6E routers for faster speeds, improved latency, and less interference from other devices.<br/>
-<br/>
-Connecting to Wi-Fi 6E does require a Wi-Fi 6E router, but there are multiple options on the market now. There are still a limited number of devices that have Wi-Fi 6E support, so for now, the 6GHz band has a lot less congestion.<br/>
-<br/>
-Apple has been adding Wi-Fi 6E support to its devices since 2022. <a href="https://support.apple.com/en-us/HT213433">It is available</a> in the latest <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models, the 14 and 16-inch MacBook Pro, the <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a>, the <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a>, and the <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a> machines.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/september-2023-apple-event/">September 2023 Apple Event</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-models-wi-fi-6e/">iPhone 15 Pro Models Support Wi-Fi 6E</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-pro-models-support-wi-fi-6e.2401312/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Announces New Roadside Assistance via Satellite Feature for iPhone 14 and iPhone 15</title>
-		<link>https://www.macrumors.com/2023/09/12/roadside-assistance-via-satellite/</link>
-		<comments>https://forums.macrumors.com/threads/apple-announces-new-roadside-assistance-via-satellite-feature-for-iphone-14-and-iphone-15.2401306/</comments>
-		<pubDate>Tue, 12 Sep 2023 14:39:52 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/12/roadside-assistance-via-satellite/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 14</category>
-		<category>iPhone 14 Pro</category>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		<category>Emergency SOS via Satellite</category>
-		<category>September 2023 Apple Event</category>
-		
-
-		<description><![CDATA[At today's <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> event, Apple introduced an add-on feature to Emergency SOS via Satellite called Roadside Assistance via Satellite. The feature is similar to Emergency SOS, but it allows <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users to contact roadside assistance if they have car trouble in an area without cellular or Wi-Fi connectivity.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/apple-roadside-assistance.jpg" alt="" width="1596" height="897" class="aligncenter size-full wp-image-910510" /><br/>
-Roadside Assistance via Satellite is available for the &zwnj;iPhone 15&zwnj; models, but it is also a feature that is retroactively available for the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> lineup. Available in the United States, roadside assistance is being offered through a partnership with AAA.<br/>
-<br/>
-The functionality is included in an AAA membership, but Apple said that &zwnj;iPhone&zwnj; users can also get access separately. The company did not provide details on what it would cost without an AAA membership, but AAA is priced starting at &#36;65 per year.<br/>
-<br/>
-As with Emergency SOS via Satellite, you can text roadside assistance and choose what you need help with. Options demonstrated at the event included flat tire, no fuel, locked out, vehicle stuck, and vehicle does not start.<br/>
-<br/>
-Apple includes two years of Emergency SOS via Satellite and Roadside Assistance via Satellite connectivity for free with the purchase of an &zwnj;iPhone 14&zwnj; or &zwnj;iPhone 15&zwnj;. Note that in the case of Roadside Assistance, you need the satellite connectivity and to pay the additional fee to AAA.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a>, <a href="https://www.macrumors.com/roundup/iphone-14-pro/">iPhone 14 Pro</a>, <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/emergency-sos-via-satellite/">Emergency SOS via Satellite</a>, <a href="https://www.macrumors.com/guide/september-2023-apple-event/">September 2023 Apple Event</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-14">iPhone 14 (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#iPhone-14-Pro">iPhone 14 Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/12/roadside-assistance-via-satellite/">Apple Announces New Roadside Assistance via Satellite Feature for iPhone 14 and iPhone 15</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-announces-new-roadside-assistance-via-satellite-feature-for-iphone-14-and-iphone-15.2401306/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 15 Pro Max&#039;s 5x Optical Zoom Lens Enables 25x Digital Zoom</title>
-		<link>https://www.macrumors.com/2023/09/12/iphone-15-pro-max-25x-digital-zoom/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-15-pro-maxs-5x-optical-zoom-lens-enables-25x-digital-zoom.2401302/</comments>
-		<pubDate>Tue, 12 Sep 2023 14:21:52 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/12/iphone-15-pro-max-25x-digital-zoom/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iPhone 15 Pro</category>
-		<category>September 2023 Apple Event</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max features a new Telephoto lens that uses a tetraprism design to enable 5x optical zoom, an improvement over the 3x zoom that's available in the &zwnj;iPhone 15 Pro&zwnj; and the prior-generation <a href="https://www.macrumors.com/roundup/iphone-14-pro/">iPhone 14 Pro</a> and Pro Max models. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-pro-max-camera.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-910485" /><br/>
-5x optical zoom allows for 25x digital zoom, and while that's the most zoom an Apple device has offered, it still falls below the competition. <br/>
-<br/>
-Samsung's latest Galaxy S23 Ultra smartphone has 100x Space Zoom that can capture images from 330 feet away. The Pixel 7 Pro has 30x digital "Super Res Zoom" with its 5x optical zoom lens.  Apple has never leaned into digital zoom because the quality is poor. Optical zoom provides a crisp, clear image using the camera hardware, but digital zoom uses software enhancement to crop in. <br/>
-<br/>
-5x optical zoom is an &zwnj;iPhone 15 Pro&zwnj; Max-specific feature that is not available on the &zwnj;iPhone 15 Pro&zwnj;. Both devices share other camera improvements, though. The 48-megapixel main camera has a larger sensor that lets in more light, and it can be set to 24mm, 28mm, and 35mm focal lengths. <br/>
-<br/>
-There's also an updated 13mm Ultra Wide camera, and second-generation sensor-shift optical image stabilization.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/september-2023-apple-event/">September 2023 Apple Event</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-max-25x-digital-zoom/">iPhone 15 Pro Max&#039;s 5x Optical Zoom Lens Enables 25x Digital Zoom</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-pro-maxs-5x-optical-zoom-lens-enables-25x-digital-zoom.2401302/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
