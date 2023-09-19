@@ -14,12 +14,182 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 19 Sep 2023 01:03:52 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 19 Sep 2023 05:04:19 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Silicon&#039;s Next Big Upgrade Could Arrive in 2026</title>
+		<link>https://www.macrumors.com/2023/09/19/apple-silicon-next-upgrade-in-2026/</link>
+		<comments>https://forums.macrumors.com/threads/apple-silicons-next-big-upgrade-could-arrive-in-2026.2403235/</comments>
+		<pubDate>Tue, 19 Sep 2023 04:49:03 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/19/apple-silicon-next-upgrade-in-2026/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>TSMC</category>
+		<category>Ming-Chi Kuo</category>
+		<category>Apple Silicon</category>
+		
+
+		<description><![CDATA[Apple could upgrade to considerably more advanced 2-nanometer chip fabrication technology as soon as 2026, according to analyst <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/10/Apple-Silicon-Teal-Feature.jpg" alt="" width="1920" height="1080" class="alignnone size-full wp-image-767478" /><br/>
+In a recent <a href="https://medium.com/@mingchikuo/台積電投資arm與ims之分析-analysis-of-tsmcs-investment-in-arm-and-ims-8b3b9daea440">post on Medium</a>, Kuo explained that Apple will likely begin to use TSMC's 2-nanometer chip fabrication technology to produce <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> chips as early as 2026. The <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>'s A17 Pro chip is the industry's first 3-nanometer chip, sporting performance and efficiency improvements thanks to its increased transistor density.<br/>
+<br/>
+If so, this would mirror its use of the 5-nanometer node through the A14, A15, and A16 Bionic chips from 2020 to 2022, where the technology persisted for three years through successive chip generations. The 2026 timeframe would also presumably mean the 3-nanometer node persists for three years through the A17 Pro, "A18," and "A19" from 2023 to 2025.<br/>
+<br/>
+Like 3-nanometer, 2-nanometer further reduces the smallest possible dimension used in chip manufacturing and increases transistor density, resulting in improved performance and efficiency.<br/>
+<br/>
+According to Kuo, TSMC is strengthening its vertical integration capabilities with chip designer ARM in an effort to ensure a smooth transition from the current 3-nanometer technology to the next-generation 2-nanometer process. Apple and Nvidia are expected to be among the first clients to place orders for 2-nanometer chips.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tsmc/">TSMC</a>, <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a>, <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/19/apple-silicon-next-upgrade-in-2026/">Apple Silicon&#039;s Next Big Upgrade Could Arrive in 2026</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-silicons-next-big-upgrade-could-arrive-in-2026.2403235/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>How to Use All the New AirPods Pro Features in iOS 17</title>
+		<link>https://www.macrumors.com/how-to/new-airpods-pro-features-ios-17-how-to-use/</link>
+		<comments>https://forums.macrumors.com/threads/how-to-use-all-the-new-airpods-pro-features-in-ios-17.2403227/</comments>
+		<pubDate>Tue, 19 Sep 2023 03:56:49 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/new-airpods-pro-features-ios-17-how-to-use&#038;post_date=1695131809/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>AirPods Pro</category>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> is finally here, and so are new features for second-generation <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a>, such as the particularly impressive Adaptive Audio, the ability mute/unmute yourself when on a phone call, and more. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/10/airpods-pro-2-thumbnail.jpg" alt="" width="1280" height="720" class="aligncenter size-full wp-image-867903" /><br/>
+Keep reading to learn what use cases the new noise control features are designed for, and how you can control them in &zwnj;iOS 17&zwnj; when your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> is connected to &zwnj;AirPods Pro&zwnj; 2 with updated firmware. To skip to a specific feature, hit one of the links below.<br/>
+<ul><li><a href="#firmware">How to Check Your AirPods Pro Firmware</a></li><br/>
+<li><a href="#adaptive">How to Use Adaptive Audio</a></li><br/>
+<li><a href="#conversation">How to Use Conversation Awareness</a></li><br/>
+<li><a href="#volume">How to Use Personalized Volume</a></li><br/>
+<li><a href="#mute">How to Use Mute Controls</a></li><br/>
+<li><a href="#other">Other AirPods Pro Updates</a></li></ul><br/>
+<br/>
+The new features are available on iPhones running &zwnj;iOS 17&zwnj; when paired with second-generation &zwnj;AirPods Pro&zwnj; updated with the latest firmware. That includes second-generation &zwnj;AirPods Pro&zwnj; with the new USB-C <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a> Charging Case, as well as second-generation &zwnj;AirPods Pro&zwnj; with the Lightning &zwnj;MagSafe&zwnj; Charging Case.<br/>
+<br/>
+<div id="firmware"></div><h2>Check Your AirPods Pro Firmware</h2><br/>
+Apple does not offer instructions on how to upgrade AirPods software, but firmware is generally installed over-the-air while the ‌‌AirPods‌‌ are connected to an iOS device. Putting the ‌‌‌‌‌AirPods‌‌‌‌‌ in the case, connecting the ‌‌‌‌‌AirPods‌‌‌‌‌ to a power source, and then pairing the ‌‌‌‌‌AirPods‌‌‌‌‌ to an iOS device or Mac should force the update.<br/>
+<br/>
+You can check your‌ ‌‌‌‌‌‌‌&zwnj;AirPods Pro&zwnj;‌‌‌‌‌‌‌‌ firmware by connecting them to your &zwnj;iPhone&zwnj; and following these steps:<br/>
+<ol><li>Open the Settings app.</li><br/>
+<li>Tap <strong>[your name]'s AirPods Pro</strong>.</li><br/>
+<li>Scroll down to the "About" section.</li><br/>
+<li>Look for the <strong>Version</strong> number <strong>6A301</strong>.</li></ol><img src="https://images.macrumors.com/article-new/2023/09/airpods-firmware-version.jpg" alt="settings" width="2738" height="2716" class="aligncenter size-full wp-image-912259" /><br/>
+<br/>
+If your &zwnj;AirPods Pro&zwnj; are updated with the correct version number (as of September 2023) you're ready to enjoy the new features in &zwnj;iOS 17&zwnj;.<br/>
+<br/>
+<div id="adaptive"></div><h2>Adaptive Audio</h2><br/>
+When the second-generation ‌&zwnj;AirPods Pro&zwnj;‌ were introduced, their Adaptive Transparency feature offered a new way to reduce loud environmental noise for more comfortable everyday listening.<br/>
+<br/>
+Adaptive Audio, or Adaptive Noise Control, takes that approach to the next level by dynamically blending the existing Transparency and Active Noise Cancellation modes together to deliver the best audio experience in the moment. Adaptive Audio tailors the noise control as you move between different environments and interactions.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/airpods-pro-adaptive-audio.jpg" alt="" width="800" height="447" class="aligncenter size-full wp-image-912251" /><br/>
+This way, loud or distracting noises surrounding, such as the sound of a leaf blower, are automatically reduced, while other noises, like the sudden beep of a car horn, will still be audible. <br/>
+<br/>
+To enable or disable Adaptive Audio on &zwnj;AirPods Pro&zwnj;, connect them to your &zwnj;iPhone&zwnj; and follow one of these series of steps.<br/>
+<h3>Method 1:</h3><br/>
+<ol><li>Open <strong>Settings</strong>.</li><br/>
+<li>Tap <strong>[your name]'s AirPods Pro</strong>.</li><br/>
+<li>Under "Noise Control," tap <strong>Adaptive</strong>.</li></ol><img src="https://images.macrumors.com/article-new/2023/09/airpods-pro-2-adaptive-audio1.jpg" alt="settings" width="2738" height="2716" class="aligncenter size-full wp-image-912252" /><br/>
+<br/>
+<h3>Method 2:</h3><br/>
+<ol><li>Bring up the Control Center from your &zwnj;iPhone&zwnj; by swiping down from the upper right corner of the screen (on an ‌&zwnj;iPhone&zwnj;‌ with a Home button, swipe up from the bottom of the screen).</li><br/>
+<li>Long press on the &zwnj;AirPods Pro&zwnj; volume slider.</li><br/>
+<li>Tap the <strong>Noise Control</strong> button.</li><br/>
+<li>Select <strong>Adaptive</strong>.</li></ol><img src="https://images.macrumors.com/article-new/2023/09/airpods-pro-2-adaptive-audio2.jpg" alt="settings" width="4137" height="2716" class="aligncenter size-full wp-image-912253" /><br/>
+<br/>
+<h3>Button Control</h3><br/>
+You can also switch to Adaptive Audio with a long button press, but first you need to assign it to your &zwnj;AirPods Pro&zwnj; 2 controls, like so:<br/>
+<ol><li>Open <strong>Settings</strong>.</li><br/>
+<li>Tap <strong>[your name]'s AirPods Pro</strong>.</li><br/>
+<li>Under "Press and Hold AirPods," tap <strong>Left</strong> or <strong>Right</strong>.</li><br/>
+<li>Select <strong>Noise Control</strong>, then check <strong>Adaptive</strong>. You can also check <strong>Noise Cancellation</strong> and/or <strong>Transparency</strong> to switch between these modes using the same button, or check <strong>Off</strong> to turn off Noise Control using another long press.</li></ol><img src="https://images.macrumors.com/article-new/2023/09/airpods-pro-2-adaptive-audio3.jpg" alt="settings" width="4137" height="2716" class="aligncenter size-full wp-image-912254" /><br/>
+<br/>
+<div id="conversation"></div><h2>Conversation Awareness</h2><br/>
+Conversation Awareness is able to detect when someone starts talking to you, and will lower the volume of the audio you're listening to and cut down on background noise accordingly.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/10/airpods-pro-conversation-boost.jpg" alt="" width="3570" height="2000" class="aligncenter size-full wp-image-819503" /><br/>
+Conversation Awareness also helps when you're on a call, by reducing noise around you while you speak. As a sub-component of Adaptive Audio, this feature also enhances the voices in front of you so you can hear what's going on.<br/>
+<br/>
+To enable or disable Conversation Awareness, connect your &zwnj;AirPods Pro&zwnj; 2 to your &zwnj;iPhone&zwnj; and follow these steps.<br/>
+<ol><li>Open <strong>Settings</strong>.</li><br/>
+<li>Tap <strong>[your name]'s AirPods Pro</strong>.</li><br/>
+<li>Scroll down to the "Audio" section and toggle on/off the switch next to <strong>Conversation Awareness</strong>.</li></ol><img src="https://images.macrumors.com/article-new/2023/09/airpods-pro-conversation-awareness.jpg" alt="settings" width="2738" height="2716" class="aligncenter size-full wp-image-912255" /><br/>
+<br/>
+<div id="volume"></div><h2>Personalized Volume</h2><br/>
+Similar to Adaptive Audio, Personalized Volume uses machine learning to fine-tune your listening experience by understanding environmental conditions and listening preferences. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2019/10/airpods-pro-person.jpg" alt="" width="816" height="544" class="aligncenter size-full wp-image-715974" /><br/>
+Thanks to this feature, your ‌‌&zwnj;iPhone&zwnj;‌‌ is able to learn more about the volume that you prefer over time, and will tweak it as necessary to match your desired sound level.<br/>
+To enable or disable Personalized Volume, connect your &zwnj;AirPods Pro&zwnj; 2 to your &zwnj;iPhone&zwnj; and follow these steps.<br/>
+<ol><li>Open <strong>Settings</strong>.</li><br/>
+<li>Tap <strong>[your name]'s AirPods Pro</strong>.</li><br/>
+<li>Scroll down to "Audio" and toggle on/off the switch next to <strong>Personalized Volume</strong>.</li></ol><img src="https://images.macrumors.com/article-new/2023/09/airpods-pro-personalized-volume.jpg" alt="settings" width="2738" height="2716" class="aligncenter size-full wp-image-912256" /><br/>
+<br/>
+<div id="mute"></div><h2>Mute Controls</h2><br/>
+Up until now, ‌&zwnj;AirPods Pro&zwnj;‌ have not included an assignable on-board mute function. With ‌&zwnj;iOS 17&zwnj;‌, however, that's no longer the case. If you press the stem of your ‌‌&zwnj;AirPods Pro&zwnj;‌‌ earbuds, you will be able to mute and unmute yourself while you're on a call.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/08/airpods-pro-2-mute.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-907711" /><br/>
+You can assign mute and unmute call controls to activate with a single press or a double press of the button on your AiPods Pro 2. Connect your &zwnj;AirPods Pro&zwnj; 2 to your &zwnj;iPhone&zwnj; and follow these steps to set your preference.<br/>
+<ol> <li>Open <strong>Settings</strong>.</li><br/>
+<li>Tap <strong>[your name]'s AirPods Pro</strong>.</li><br/>
+<li>Scroll down to "Call Controls", then tap <strong>Mute & Unmute</strong>.</li><br/>
+<li>Select either <strong>Press Once</strong> or <strong>Press Twice</strong>.</li></ol><img src="https://images.macrumors.com/article-new/2023/09/airpods-pro-mute-unmute.jpg" alt="settings" width="4137" height="2716" class="aligncenter size-full wp-image-912257" /><br/>
+<br/>
+<div id="other"></div><h2>Other AirPods Changes</h2><br/>
+AirPods have been criticized in the past for sluggish performance when attempting to automatically switch between Apple devices. Fortunately, ‌‌&zwnj;AirPods Pro&zwnj;‌‌ 2 automatically switch between Apple devices much quicker in ‌‌&zwnj;iOS 17&zwnj;‌‌.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/Hey-Siri-vs-Siri.jpeg" alt="" width="1600" height="894" class="aligncenter size-full wp-image-898361" /><br/>
+And don't forget, Apple has simplified the voice command to invoke <a href="https://www.macrumors.com/guide/siri/">Siri</a> on iPhones running &zwnj;iOS 17&zwnj; and this also works with second-generation ‌&zwnj;AirPods Pro&zwnj;‌. Instead of "Hey ‌&zwnj;Siri&zwnj;‌," you can simply say "‌&zwnj;Siri&zwnj;‌" to activate the voice assistant when wearing your AirPods. You can also issue multiple queries and commands in succession without having to say "‌&zwnj;Siri&zwnj;‌" again.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a>, <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Buy Now)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a>, <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/new-airpods-pro-features-ios-17-how-to-use/">How to Use All the New AirPods Pro Features in iOS 17</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/how-to-use-all-the-new-airpods-pro-features-in-ios-17.2403227/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 15 Camera: Apple Explains UI Design Decisions, Limitations, and Hidden Features</title>
+		<link>https://www.macrumors.com/2023/09/19/iphone-15-camera-features-limitations/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-15-camera-apple-explains-ui-design-decisions-limitations-and-hidden-features.2403213/</comments>
+		<pubDate>Tue, 19 Sep 2023 01:15:35 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/19/iphone-15-camera-features-limitations/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>iPhone 15</category>
+		<category>iPhone 15 Pro</category>
+		
+
+		<description><![CDATA[Apple's new <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> series includes several new camera features, but not all of them will be visible to casual photographers, and Apple says it is relying on third-party developers to make these extra controls accessible to enthusiasts and filmmakers.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Blue-Three-Quarters-Perspective-Camera-Closeup-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-909012" /><br/>
+In an interview with <em><a href="https://petapixel.com/2023/09/18/apple-explains-what-the-iphone-can-and-cant-do-and-why/">PetaPixel</a></em>, Jon McCormack, Apple's vice president of camera software engineering, explained the company's rationale behind this middle-ground approach, while also shedding light on some of the decisions it took when finalizing the &zwnj;iPhone 15&zwnj; feature set.<br/>
+<blockquote>"It really is, in my mind, all about allowing people to go chase their vision and this goes from the harried parent of a toddler where their vision is, 'can I get my kid in frame as they take their first step' all the way through to a pro or a creative who has got a very specific artistic vision in mind and want to get there as quickly as possible," said McCormack. <br/>
+<br/>
+"Behind the big red button… the thing you're worrying about is the frame and the moment because honestly, that's the most inspiring part of any photograph or any video."</blockquote><h2>iPhone 15 Pro: Focal Lengths</h2><br/>
+<a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> users can choose from 24mm, 28mm, and 35mm focal lengths when taking photos, simply by tapping the 1x button in the Camera app. However, for technical reasons, these focal length options aren't available when shooting video, and the Camera offers a zoom ring instead.<br/>
+<br/>
+"When you're shooting [photos], we gather a bunch of data to let you keep shooting and then sort of keep processing in the background, so we have more time and this is just something we can't do in video," McCormack told <em>PetaPixel</em>.<br/>
+<br/>
+<h2>iPhone 15 Pro: Log Video Encoding</h2><br/>
+When encoding video in log mode, the camera uses a logarithmic curve to more efficiently compress the colors in such a way as to offer a wider dynamic range. This allows filmmakers to maximize dynamic range as much as possible without overexposing, or push the shadows as much as possible to minimize noise.<br/>
+<br/>
+"We go for a middle-ground exposure," said McCormack. "When you go into log, there's no tone mapping so you can have much more precise control over what your exposure is." <br/>
+<br/>
+However, while the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> can now shoot in ProRes Log, there are no on-screen controls or waveform in the native Camera app to control exposure. Instead, Apple is relying on third-party app developers to bring these controls to power users, which serves to keep the standard Camera interface uncluttered. Apple said it will also be providing LUT profiles to editors on September 22.<br/>
+<br/>
+<h2>iPhone 15 Pro: External Video Transfer via USB-C</h2><br/>
+The &zwnj;iPhone 15 Pro&zwnj; and Pro Max support USB3 transfer speeds from the new USB-C port, but only ProRes files recorded in 4K at 60p can be recorded to an externally attached SSD. All other video and phot modes must be saved to the &zwnj;iPhone&zwnj; first and transferred later. Apple told PetaPixel this was an in-house design decision focused on supporting ProRes workflows.<br/>
+<br/>
+<h2>iPhone 15: 24 vs 48 Megapixels</h2><br/>
+Last year, Apple limited the default camera settings to 12MP, but this year it is limited to 24MP, despite the main camera's sensor's 48MP capabilities. The reason for this, McCormack explained, is that there is slightly more dynamic range when shooting in 24MP.<br/>
+<blockquote>"When shooting at 24-megapixels, we shoot 12 high and 12 low — we actually shoot multiple of those — and we pick and then merge. There is, basically, a bigger bracket between the 12 high and the 12 low. Then, the 48 is an 'extended dynamic range,' versus 'high dynamic range,' which basically just limits the amount of processing. Because just in the little bit of processing time available [in the 24 megapixel] we can get a bit more dynamic range into Deep Fusion. So what you end up with in the 24, it's a bit of a 'Goldilocks moment' in that you get all of the extra dynamic range that comes from the 12 and the detail transfer that comes in from the 48."</blockquote>McCormack also said there's zero shutter lag when shooting at 24-megapixels, whereas shooting at full 48-megapixel resolution doesn't provide an instantaneous shutter.<br/>
+<br/>
+<h2>Keeping Photography Approachable</h2><br/>
+Ultimately, Apple's goal is to ensure that &zwnj;iPhone&zwnj; photography remains approachable, according to Maxime Veron, senior director of &zwnj;iPhone&zwnj; product marketing. "For the vast majority of our customers, we just aim to process everything in the background so that the process is invisible and out of the way so that people can take great photos and videos and capture beautiful, true-to-life moments in one click," she told PetaPixel.<br/>
+<br/>
+Veron added that at the same time, Apple wants to meet the ever-growing demands of its enthusiast customers, allowing them to use the same hardware to capture images that can grace the cover of a magazine.<br/>
+<br/>
+The full interview can be found at <a href="https://petapixel.com/2023/09/18/apple-explains-what-the-iphone-can-and-cant-do-and-why/"><em>PetaPixel</em></a>. All of Apple's new &zwnj;iPhone 15&zwnj; models are now available to order and launch this Friday.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15">iPhone 15 (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/19/iphone-15-camera-features-limitations/">iPhone 15 Camera: Apple Explains UI Design Decisions, Limitations, and Hidden Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-camera-apple-explains-ui-design-decisions-limitations-and-hidden-features.2403213/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iOS 17 Features: The Ultimate Mega Guide</title>
@@ -745,7 +915,7 @@ More detail on all of the new features in &zwnj;watchOS 10&zwnj; can be <a href=
 tvOS 17, which arrives with build number 21J354, can be downloaded using the Settings app on the &zwnj;Apple TV&zwnj;. Go to System > Software Update to get the new software. &zwnj;Apple TV&zwnj; owners who have automatic software updates activated will be upgraded to tvOS 17 automatically.<br/>
 <br/>
 In tvOS 17, Apple has added a <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> app for &zwnj;FaceTime&zwnj; calls on a larger screen. The feature works through an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> or <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> running <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>/<a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>, with the iOS device serving as the camera and the TV serving as the display. With a Split View option, you can place your &zwnj;FaceTime&zwnj; call on one side of the TV and a TV show or game on the other side for SharePlay experiences.<br/>
-<br/>
+<ul><li><a href="https://www.macrumors.com/how-to/use-iphone-facetime-camera-apple-tv/">How to Use iPhone as a FaceTime Camera on Apple TV</a></li></ul><br/>
 <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> Sing, the karaoke feature on the &zwnj;Apple TV&zwnj;, can use the same Continuity Camera functionality to let you see yourself as you sing, complete with filters.<br/>
 <br/>
 Apple redesigned Control Center to make it easier to get to key settings and information without having to open up the Settings app. Control Center also displays the system status, time, and the profile of the person signed in.<br/>
@@ -1109,252 +1279,6 @@ ProRes video files are very large. Apple says a one-minute 10-bit ProRes video i
 Introduced on the iPhone 13 Pro models, ProRes refers to a family of codecs from Apple that can compress videos into smaller file sizes with "impressive image quality preservation." Apple says ProRes is designed as a final delivery format for high-quality videos like commercials, feature films, and broadcasts.<br/>
 <br/>
 ProRes video recording is still not supported at all on the standard iPhone 15 and iPhone 15 Plus.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/18/iphone-15-pro-128gb-prores-1080p-only/">Apple Says 128GB iPhone 15 Pro Limited to 1080p ProRes Video Recording Unless External Storage Connected</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-says-128gb-iphone-15-pro-limited-to-1080p-prores-video-recording-unless-external-storage-connected.2402975/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 15 vs. iPhone 15 Pro Buyer&#039;s Guide: 35+ Differences Compared</title>
-		<link>https://www.macrumors.com/guide/iphone-15-vs-iphone-15-pro/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-15-vs-iphone-15-pro-buyers-guide-35-differences-compared.2402964/</comments>
-		<pubDate>Mon, 18 Sep 2023 04:41:32 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/iphone-15-vs-iphone-15-pro&#038;post_date=1695048092/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Buyer's Guide</category>
-		<category>Featured</category>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> are among Apple's newest <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> models and follow last year's <a href="https://www.macrumors.com/guide/iphone-14-vs-iphone-14-pro/">iPhone 14 and iPhone 14 Pro</a>, but how different are the two latest 6.1-inch &zwnj;iPhone&zwnj; models, and what exactly does a "Pro" device give you?<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-vs-15-Pro-Buyers-Guide.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-911649" /><br/>
-Last year, the biggest new <a href="https://www.macrumors.com/guide/iphone-14-vs-iphone-14-pro/">differences between the iPhone 14 and iPhone 14 Pro</a> were always-on functionality, the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a>, three hours of battery life, and rear cameras with different apertures. With &zwnj;iPhone 15&zwnj; and &zwnj;iPhone 15 Pro&zwnj;, both devices share new features like the USB-C port, second-generation Ultra Wideband chip, and next-generation portraits, but Apple's "Pro" and non-Pro &zwnj;iPhone&zwnj; models are more different than ever.<br/>
-<br/>
-Our guide helps to answer the question of how to decide which of these two &zwnj;iPhone&zwnj; models is best for you, and serves as a way to clearly see what additional features and upgrades the &zwnj;iPhone 15 Pro&zwnj; brings to the table.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;iPhone 15&zwnj;</th><br/>
- <th>&zwnj;iPhone 15 Pro&zwnj;</th><br/>
- </tr><br/>
- <tr><br/>
- <td>Aluminum and glass design</td><br/>
- <td>Titanium and glass design</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Slightly smaller due to slimmer borders around the display</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Weighs 171g or 201g</td><br/>
- <td>Weighs 187g or 221g</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Ring/Silent switch</td><br/>
- <td>Action button</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>ProMotion with adaptive refresh rates up to 120Hz</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Always-on display</td><br/>
- </tr><br/>
- <tr><br/>
- <td>A16 Bionic chip (5nm)</td><br/>
- <td>A17 Pro chip (<a href="https://www.macrumors.com/guide/3nm/">3nm</a>)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>6-core CPU</td><br/>
- <td>6-core CPU (up to 10% faster)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>5-core GPU</td><br/>
- <td>6-core GPU with with hardware-accelerated ray tracing (up to 20% faster)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>16-core Neural Engine</td><br/>
- <td>16-core Neural Engine (up to 2x faster)</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Dedicated AV1 decoder</td><br/>
- </tr><br/>
- <tr><br/>
- <td>6GB memory</td><br/>
- <td>8GB memory</td><br/>
- </tr><br/>
- <tr><br/>
- <td>"Advanced" dual-camera system</td><br/>
- <td>"Pro" triple camera system</td><br/>
- </tr><br/>
- <tr><br/>
- <td>48-megapixel Main camera with ƒ/1.6 aperture</td><br/>
- <td>48-megapixel Main camera with ƒ/1.78 aperture and larger sensor</td><br/>
- </tr><br/>
- <tr><br/>
- <td>12-megapixel Ultra Wide camera with ƒ/2.4 aperture</td><br/>
- <td>12-megapixel Ultra Wide camera with ƒ/2.2 aperture</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>12-megapixel Telephoto camera with ƒ/2.8 aperture (unit with larger sensor, folded tetraprism design, and autofocus 3D sensor-shift module on Pro Max model only)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>0.5x, 1x, and 2x optical zoom</td><br/>
- <td>0.5x, 1x, 2x, 3x, and 5x optical zoom (5x on Pro Max only)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Sensor-shift optical image stabilization</td><br/>
- <td>Second-generation sensor-shift optical image stabilization</td><br/>
- </tr><br/>
- <tr><br/>
- <td>True Tone flash</td><br/>
- <td>Adaptive True Tone flash</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>LiDAR scanner</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Night mode portraits</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Macro photography</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Apple ProRAW</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Shoot and instantly transfer 48-megapixel ProRAW images to Mac via USB 3</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Record video directly to an external drive</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>ProRes video recording up to 4K at 30 fps (60 fps with external recording)</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Macro video recording, including slo‑mo and time‑lapse</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Log video recording</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Academy Color Encoding System</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Record spatial video for <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></td><br/>
- </tr><br/>
- <tr><br/>
- <td>USB 2 transfer speeds (up to 480Mb/s)</td><br/>
- <td>USB 3 transfer speeds (up to 10Gb/s, 20x faster)</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>DisplayPort support for up to 4K HDR video output</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Wi‑Fi 6 connectivity</td><br/>
- <td>Wi‑Fi 6E connectivity </td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Thread networking technology</td><br/>
- </tr><br/>
- <tr><br/>
- <td>20- or 26-hour battery life</td><br/>
- <td>23- or 29-hour battery life</td><br/>
- </tr><br/>
- <tr><br/>
- <td>128GB, 256GB, and 512GB storage options</td><br/>
- <td>128GB, 256GB, 512GB, and 1TB storage options (no 128GB on Pro Max)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Yellow, Blue, Pink, Green, and Black color options</td><br/>
- <td>Natural Titanium, Blue Titanium, White Titanium, and Black Titanium color options</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Starts at &#36;799</td><br/>
- <td>Starts at &#36;999</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-The &zwnj;iPhone 15 Pro&zwnj; offers a large number of upgrades over the standard &zwnj;iPhone 15&zwnj;. With just &#36;200 difference to obtain a display with ProMotion and always-on functionality, the Action Button, and longer battery life, many customers will be able to justify getting the &zwnj;iPhone 15 Pro&zwnj; over the &zwnj;iPhone 15&zwnj;. Other differences, such as the A17 Pro chip and 2GB additional memory are notable, but most significant are perhaps the devices' fundamentally different rear camera setups. The &zwnj;iPhone 15 Pro&zwnj; unlocks 10 additional camera features and offers four additional or different pieces of camera hardware. Due to the scale and breadth of the &zwnj;iPhone 15 Pro&zwnj;'s improvements and features, most customers will be happy to choose the high-end model.<br/>
-<br/>
-The standard &zwnj;iPhone 15&zwnj; still offers many of the &zwnj;iPhone 15 Pro&zwnj;'s most compelling capabilities, such as USB-C, &zwnj;Dynamic Island&zwnj;, and a 48-megapixel main camera, at a lower price point. It will only be worth getting the &zwnj;iPhone 15&zwnj; over the &zwnj;iPhone 15 Pro&zwnj; if you want a lighter device, do not care for the "Pro" rear camera setup or features like ProMotion and the always-on display, or cannot justify the &#36;200 to upgrade to the high-end model. In this instance, you will still benefit from the device's generous roster of advanced features. The &zwnj;iPhone 15&zwnj; is still a very well designed and balanced device, especially for average customers and those coming from a much older model.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15">iPhone 15 (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/iphone-15-vs-iphone-15-pro/">iPhone 15 vs. iPhone 15 Pro Buyer&#039;s Guide: 35+ Differences Compared</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-vs-iphone-15-pro-buyers-guide-35-differences-compared.2402964/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Tim Cook Watched Entire Third Season of &#039;Ted Lasso&#039; on Apple Vision Pro, Which Remains on Track for Early 2024</title>
-		<link>https://www.macrumors.com/2023/09/18/tim-cook-watched-ted-lasso-apple-vision-pro/</link>
-		<comments>https://forums.macrumors.com/threads/tim-cook-watched-entire-third-season-of-ted-lasso-on-apple-vision-pro-which-remains-on-track-for-early-2024.2402826/</comments>
-		<pubDate>Mon, 18 Sep 2023 03:23:42 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/18/tim-cook-watched-ted-lasso-apple-vision-pro/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Vision Pro</category>
-		<category>Tim Cook</category>
-		<category>CBS</category>
-		
-
-		<description><![CDATA[Apple CEO Tim Cook confirmed in an interview with <em>CBS Sunday Morning</em>'s John Dickerson that the company's Vision Pro headset remains on schedule for release in early 2024, and revealed that he's already using it on a regular basis. <br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/M-FBYmIhRoo?si=Xf7CJ11sifs_ojXP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-When asked how he uses the upcoming headset, Cook said he watched "the entire third season of 'Ted Lasso' on the Vision Pro," and admitted there are "some things I have access to that other people don't have access to, so I'm doing that, but that I can't talk to you about."<br/>
-<br/>
-Cook went on to say that the challenges Apple has faced creating the headset are "more complex" than making something like the iPhone, so it requires "more innovation, not only in the development but also in the manufacturing." However, the Apple chief batted away any suggestion that the company was <a href="https://www.macrumors.com/2023/07/03/apple-vision-pro-drastic-production-cuts/">facing production issues</a> with the Vision Pro, saying the device was "on track" for a launch early next year.<br/>
-<br/>
-In the course of the interview, Cook also touched on other topics including Apple's environmental initiatives (he hopes other companies "rip it off"), whether Apple should be advertising on X, formerly known as Twitter, when its owner Elon Musk has been accused of promoting anti-Semitism on the platform ("It's something we constantly ask ourselves"), and the post-pandemic return to working in the office. <br/>
-<br/>
-In between a walk-and-talk around Apple's Austin, Texas campus, Cook was also filmed taking a sales call with a surprised customer. "The caller wanted to upgrade their iPhone," Cook later explained to Dickerson. When asked if he told her to hold out for the iPhone 15, Cook laughed. "I didn't exactly say that."   <br/>
-<br/>
-You can watch the full interview above or view it on YouTube <a href="https://www.youtube.com/watch?v=M-FBYmIhRoo">here</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a>, <a href="https://www.macrumors.com/guide/cbs/">CBS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/18/tim-cook-watched-ted-lasso-apple-vision-pro/">Tim Cook Watched Entire Third Season of &#039;Ted Lasso&#039; on Apple Vision Pro, Which Remains on Track for Early 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tim-cook-watched-entire-third-season-of-ted-lasso-on-apple-vision-pro-which-remains-on-track-for-early-2024.2402826/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>How to Find Your Apple TV Siri Remote Using Your iPhone</title>
-		<link>https://www.macrumors.com/how-to/find-apple-siri-remote-with-iphone/</link>
-		<comments>https://forums.macrumors.com/threads/how-to-find-your-apple-tv-siri-remote-using-your-iphone.2402756/</comments>
-		<pubDate>Mon, 18 Sep 2023 02:26:55 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/how-to/find-apple-siri-remote-with-iphone&#038;post_date=1695040015/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple TV</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[In iOS 17 and tvOS 17, Apple has added a feature that lets Apple TV users locate a misplaced Siri Remote using their iPhone. Keep reading to learn how it's done.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/find-siri-remote-iphone.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-911918" /><br/>
-Prior to the launch of the latest ‌Apple TV‌ 4K, there were rumors that Apple would build ‌Find My‌ functionality into the ‌Siri‌ Remote. That didn't happen, but in its latest major software updates, Apple has introduced a new iPhone option that does essentially the same thing. <br/>
-<br/>
-In early September, Apple quietly released new firmware for its second and third-generation Siri Remotes. With the new firmware, tvOS 17, and iOS 17, if a ‌Siri‌ Remote becomes lost, the ‌Apple TV‌ remote control available in the Control Center on an ‌iPhone‌ can be used to locate the missing remote.<br/>
-<br/>
-When enabled, users will see a Find My-like interface on their iPhone that guides them toward the remote, with an onscreen circle that changes in size to guide movement in the right direction. <br/>
-<br/>
-Note that Find My for the ‌Siri‌ Remote is available on the second and third-generation ‌Siri‌ Remotes, and the feature is limited to the ‌Apple TV‌ 4K models released in 2021 and 2022.<br/>
-<br/>
-Also, bear in mind that the updated firmware is necessary, and there is no established method for getting the ‌Siri‌ Remote to update. The ‌Apple TV‌ will need to be up to date, on, and connected to the ‌Siri‌ Remote to initiate, but there is no way to force the new firmware to download.<br/>
-<br/>
-<h2>Find Your Siri Remote With Your iPhone</h2><br/>
-<ol><li>Bring up the Control Center from your iPhone by swiping down from the upper right corner of the screen (on an ‌iPhone‌ with a Home button, swipe up from the bottom of the screen).</li><br/>
-<li>Tap the <strong>Apple TV Remote</strong> button (if it's not there, you can <a href="https://www.macrumors.com/how-to/customize-control-center-ios-11/#customize">manually add it to Control Center</a>).</li><br/>
-<li>Tap the chevron next to the name of the connected Siri Remote.<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/find-apple-tv-remote-with-iphone1.jpg" alt="control center" width="2738" height="2716" class="aligncenter size-full wp-image-911920" /><br/>
-<li>Tap the <strong>Find</strong> button next to the misplaced Siri Remote.</li><br/>
-<li>Use the onscreen Find My-like interface to locate the remote. The size of the circle increases to guide movement in the correct direction. When your iPhone is right next to the remote, the screen shows a solid white orb.</li><br/>
-<li>Tap the <strong>X</strong> button to close the location interface.<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/find-apple-tv-remote-with-iphone2.jpg" alt="remote" width="2738" height="2716" class="aligncenter size-full wp-image-911921" /></ol>In our experience, the proximity accuracy of the feature is equivalent to locating an AirTag with Find My, so it's really helpful for locating your Siri Remote even if it's just hidden between the sofa cushions.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/find-apple-siri-remote-with-iphone/">How to Find Your Apple TV Siri Remote Using Your iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/how-to-find-your-apple-tv-siri-remote-using-your-iphone.2402756/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
