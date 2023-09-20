@@ -14,12 +14,159 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 20 Sep 2023 09:02:47 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 20 Sep 2023 13:03:32 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Project Bongo: An In-Depth Overview of the iPhone 15 Pro&#039;s Canceled Haptic Buttons</title>
+		<link>https://www.macrumors.com/2023/09/20/iphone-15-haptic-button-overview/</link>
+		<comments>https://forums.macrumors.com/threads/project-bongo-an-in-depth-overview-of-the-iphone-15-pros-canceled-haptic-buttons.2403517/</comments>
+		<pubDate>Wed, 20 Sep 2023 12:31:41 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/20/iphone-15-haptic-button-overview/</guid>
+		<dc:creator>Marko Zivkovic</dc:creator>
+		<category>iPhone 15 Pro</category>
+		<category>Haptic Buttons</category>
+		<category>Bongo</category>
+		
+
+		<description><![CDATA[With the introduction of the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> on September 12, Apple omitted one of the most innovative features and ambitious undertakings initially planned for the device – haptic volume and power buttons.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/04/iP15-Pro-Upper-Perspective-ZOOM.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-892267" /><br/>
+As the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> has evolved, Apple has periodically improved vibration technology. In 2011 with the &zwnj;iPhone&zwnj; 4S, Apple began using linear resonant actuators, which greatly reduced the amount of noise produced and significantly improved response times. In 2015, the Taptic Engine was introduced with the &zwnj;iPhone&zwnj; 6s, and Apple has used it in each &zwnj;iPhone&zwnj; iteration since then. The Taptic Engine is used for <a href="https://www.macrumors.com/guide/haptic-touch-vs-3d-touch-whats-the-difference/">Haptic Touch</a>, where users receive haptic feedback by long-pressing certain areas on their &zwnj;iPhone&zwnj;'s display.<br/>
+<br/>
+Project Bongo, as it was known internally, was effectively a redesign of the volume and power buttons on the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, both in terms of function as well as appearance. As opposed to traditional mechanical buttons, haptic buttons do not move when pressed. Instead, they detect pressure and emulate the press of a physical button through the use of haptic engines which create vibrations – haptic feedback.<br/>
+<br/>
+Here's the sequence of events that would happen when a haptic button was pressed on the &zwnj;iPhone 15&zwnj;:<br/>
+<ul><li>The flexure located underneath the button sensed the pressure applied to the button.</li><br/>
+<li>The strain gauges detected the change in pressure, and converted it into a change in resistance which could then be measured.</li><br/>
+<li>After this, a signal was sent to the main logic board indicating the button was pressed.</li><br/>
+<li>The main logic board then sent power to the Bongo Haptic Engine.</li><br/>
+<li>The Bongo Haptic Engine produced vibration by generating an electromagnetic field through the core and coil, which oscillated and moved towards and away from the attraction plate.</li><br/>
+<li>Haptic feedback was then generated through vibrations, and a slight movement upwards towards the finger mimicked the sensation of a physical button being pressed down.</li></ul><br/>
+<br/>
+The assembly featured two strain gauges, one on each side of the button. Strain gauges detected changes in pressure and converted those into resistance changes within an electrical circuit. The change in resistance resulted in a change in voltage, which was able to be measured. The difference in potential between the two strain gauges was used to determine the position of the origin of the pressure (Volume Up or Volume Down).<br/>
+<br/>
+For the Bongo project, Apple developed the "Bongo Haptic Engine," which is an electromagnetically driven reluctance motor. Reluctance motors are an advanced type of electromotor commonly used in microelectronics. Through the use of a reluctance motor, Apple was able to implement vibration speeds faster than that of a traditional vibration motor, while also offering a faster response times. The Bongo Haptic Engine was intended to provide more nuanced vibration feedback, as well as a better user experience.<br/>
+<br/>
+The Bongo Haptic Engine consisted of a ferromagnetic core and a copper coil, which together formed a solenoid. The haptic engine created vibrations by oscillating relative to an attraction plate located directly underneath it. This generated the vibrations that constituted haptic feedback.<br/>
+<br/>
+We previously <a href="https://www.macrumors.com/2023/04/13/iphone-15-pro-volume-button-renders/">showcased the exact design</a> of the Bongo module and its associated flex cables back in April of 2023. This was the final design iteration before Apple abruptly canceled the project in favor of traditional physical buttons.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/04/iP15-Pro-Volume-Module-Lower-Perspective.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-892248" /><br/>
+From its inception, Project Bongo was kept in development and tested throughout multiple development phases, <a href="https://www.macrumors.com/2023/04/13/iphone-15-pro-two-button-volume/">eventually being canceled late in the EVT (Engineering Validation Test) stage</a> due to unsatisfactory test results and high hardware failure rates. With the sudden cancelation of the Bongo project, the buttons for the &zwnj;iPhone 15&zwnj; were redesigned during subsequent development stages – CRB and DVT. As a result, the final mass production units of the &zwnj;iPhone 15 Pro&zwnj; feature standard mechanical volume and power buttons rather than haptic buttons.<br/>
+<br/>
+From a design perspective, the most obvious change the Bongo project sought to bring was the inclusion of a unified volume button as opposed to two separate buttons – volume up and volume down. The unified volume button may have been a nod to early &zwnj;iPhone&zwnj; designs, as every &zwnj;iPhone&zwnj; prior to the &zwnj;iPhone&zwnj; 4 featured a unified volume button.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/04/iP15-Pro-Volume-Module-Lower-Perspective-ZOOM.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-892266" /><br/>
+Project Bongo also had its own dedicated firmware for two devices, &zwnj;iPhone 15 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; Max, and could be found in two variants – internal and customer. Code related to the Bongo project indicates that it would have had a deep sleep mode as well.<br/>
+<br/>
+As far as future iPhones are concerned, there are indications Apple is working on a replacement for the Bongo project for the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> lineup, with plans to add capacitive buttons. It is still early in the development cycle, though, and as we saw with the &zwnj;iPhone 15&zwnj; lineup, things can change fairly far into the process.<br/>
+<br/>
+For more information, check out our dedicated roundup page for the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/haptic-buttons/">Haptic Buttons</a>, <a href="https://www.macrumors.com/guide/bongo/">Bongo</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/20/iphone-15-haptic-button-overview/">Project Bongo: An In-Depth Overview of the iPhone 15 Pro&#039;s Canceled Haptic Buttons</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/project-bongo-an-in-depth-overview-of-the-iphone-15-pros-canceled-haptic-buttons.2403517/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>PSA: An iPhone 15 Can Charge Another iPhone</title>
+		<link>https://www.macrumors.com/2023/09/20/iphone-15-can-charge-another-iphone/</link>
+		<comments>https://forums.macrumors.com/threads/psa-an-iphone-15-can-charge-another-iphone.2403502/</comments>
+		<pubDate>Wed, 20 Sep 2023 11:16:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/20/iphone-15-can-charge-another-iphone/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple's <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models use a USB-C port instead of a Lightning port for charging and data transfer purposes, and the new port allows the iPhones to charge a wide range of USB-C devices, including another <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-to-iphone-charging-marques-brownlee.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-912691" /><br/>
+As demonstrated by Marques Brownlee, plugging a Lightning based &zwnj;iPhone&zwnj; into a <a href="https://www.macrumors.com/guide/usb-c-iphone/">USB-C iPhone</a> 15 with a USB-C to Lightning cable lets the &zwnj;iPhone 15&zwnj; provide power to the older &zwnj;iPhone&zwnj;.<br/>
+<br/>
+When you plug a Lightning &zwnj;iPhone&zwnj; into an &zwnj;iPhone 15&zwnj;, the &zwnj;iPhone 15&zwnj; will always provide power to the Lightning &zwnj;iPhone&zwnj;, even if the &zwnj;iPhone 15&zwnj;'s battery is lower.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Have you ever wondered what happened when you plugged random things into the iPhone 15&#39;s new USB port? Well wonder no more<br><br>Full iPhone 15/15 Pro Unboxing and first looks is now live: <a href="https://t.co/Q5loMQGoh1">https://t.co/Q5loMQGoh1</a> <a href="https://t.co/TUGh7jlg08">pic.twitter.com/TUGh7jlg08</a></p>&mdash; Marques Brownlee (@MKBHD) <a href="https://twitter.com/MKBHD/status/1704118860645818516?ref_src=twsrc%5Etfw">September 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div><br/>
+If you plug an &zwnj;iPhone 15&zwnj; into another &zwnj;iPhone 15&zwnj;, the two devices communicate with one another, determine which &zwnj;iPhone&zwnj; has the lower battery, and transfer power that way. So if you have a low battery and a friend with an &zwnj;iPhone 15&zwnj; has a full battery, you can plug your &zwnj;iPhone&zwnj; into your friend's &zwnj;iPhone&zwnj; and get yours to charge.<br/>
+<br/>
+With a USB-C Android phone, if the Android device has USB Power Delivery support and you connect to an &zwnj;iPhone&zwnj; with a lower battery level, the Android device will be able to provide battery power. If the Android phone does not have USB PD, the result is inconsistent and there's no way to predict which phone will be the charger and which will get the charge.<br/>
+<br/>
+The &zwnj;iPhone 15&zwnj;'s USB-C port <a href="https://www.macrumors.com/2023/09/12/iphone-15-usb-c-port-apple-watch-airpods-charging/">can be used to charge</a> an Apple Watch or the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2 with USB-C Charging Case using a USB-C to USB-C cord, and it should also be able to work with most other USB-C devices in some capacity.<br/>
+<br/>
+Unfortunately, when charging another device with an &zwnj;iPhone 15&zwnj;, the charge is limited to 4.5W. That's appropriate for small devices like the Apple Watch, but it's not going to provide much power for an &zwnj;iPhone&zwnj;, so expect slow charging speeds when using &zwnj;iPhone&zwnj; to &zwnj;iPhone&zwnj; charging functionality.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/20/iphone-15-can-charge-another-iphone/">PSA: An iPhone 15 Can Charge Another iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/psa-an-iphone-15-can-charge-another-iphone.2403502/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Explains Why iPhone 15 Pro Max is Limited to 5x Optical Zoom</title>
+		<link>https://www.macrumors.com/2023/09/20/apple-interview-iphone-15-pro-max-5x-optical-zoom/</link>
+		<comments>https://forums.macrumors.com/threads/apple-explains-why-iphone-15-pro-max-is-limited-to-5x-optical-zoom.2403489/</comments>
+		<pubDate>Wed, 20 Sep 2023 09:52:53 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/20/apple-interview-iphone-15-pro-max-5x-optical-zoom/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iPhone 15 Pro</category>
+		
+
+		<description><![CDATA[In an interview with <a href="https://www.numerama.com/tech/1503972-pourquoi-liphone-15-a-un-zoom-x5-plutot-que-x10-apple-livre-ses-secrets-photographiques.html"><em>Numerama</em>'s Nicolas Lellouche</a>, Apple's VP of camera software engineering Jon McCormack explained why the iPhone 15 Pro Max's tetraprism lens system is limited to <a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-max-25x-digital-zoom/">5x optical zoom</a>, instead of 10x like on Samsung's Galaxy S23 Ultra. The interview is in French, so quotes below are computer translated.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Max-5x-Optical-Zoom-Limit-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-912661" /><br/>
+Apple says the Telephoto lens on the iPhone 15 Pro Max features the company's most advanced camera stabilization system yet, with a combination of optical image stabilization and an autofocus 3D sensor-shift module. McCormack said the iPhone's 5x zoom lens can be stabilized "incredibly well" compared to a 10x lens.<br/>
+<br/>
+"The 5x zoom is something that we can stabilize incredibly well," McCormack said in the interview. "If you look at the 10x zoom, unless you have the steadiest hands in the world or a tripod, it's really difficult to use."<br/>
+<br/>
+Apple's senior director of iPhone product marketing Maxime Veron, who was also interviewed, added that the iPhone 15 Pro Max's 5x lens opens at ƒ/2.8, allowing for "excellent light management." By comparison, the Galaxy S23 Ultra's 10x lens has a ƒ/4.9 aperture.  A lower aperture allows for more light to be captured by the camera's sensor, which can be especially beneficial for Night mode photos.<br/>
+<br/>
+5x optical zoom is exclusive to the iPhone 15 Pro Max, with the iPhone 15 Pro remaining limited to 3x optical zoom. It has been rumored that Apple plans to expand the tetraprism lens system to <a href="https://www.macrumors.com/2023/09/18/iphone-16-pro-tetraprism-lens-rumor/">both iPhone 16 Pro models next year</a>.<br/>
+<br/>
+McCormack and Veron discuss the latest camera innovations on all iPhone 15 models in more detail in the <a href="https://www.numerama.com/tech/1503972-pourquoi-liphone-15-a-un-zoom-x5-plutot-que-x10-apple-livre-ses-secrets-photographiques.html"><em>Numerama</em> interview</a>. The devices launch Friday.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/20/apple-interview-iphone-15-pro-max-5x-optical-zoom/">Apple Explains Why iPhone 15 Pro Max is Limited to 5x Optical Zoom</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-explains-why-iphone-15-pro-max-is-limited-to-5x-optical-zoom.2403489/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>MacRumors Giveaway: Win an iPhone 15 Pro from iMazing</title>
+		<link>https://www.macrumors.com/2023/09/20/macrumors-giveaway-imazing-iphone-15-pro/</link>
+		<comments>https://forums.macrumors.com/threads/macrumors-giveaway-win-an-iphone-15-pro-from-imazing.2403483/</comments>
+		<pubDate>Wed, 20 Sep 2023 09:14:14 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/20/macrumors-giveaway-imazing-iphone-15-pro/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>Giveaway</category>
+		
+
+		<description><![CDATA[To celebrate the launch of the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models, we've teamed up with <a href="https://imazing.com/?utm_source=macrumors&utm_medium=sponsorship&utm_campaign=imazing3beta">iMazing</a> to offer <em>MacRumors</em> readers a chance to win an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and a copy of the iMazing <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> backup software.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-pro-giveaway-imazing.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-912634" /><br/>
+iMazing is Mac and Windows software that provides tools for iOS device management, going above and beyond what's possible with Apple's Finder-based &zwnj;iPhone&zwnj; management system on the Mac and iTunes on Windows. With <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> coming up, iMazing is testing iMazing 3, a revamped version of the software.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/imazing-1.png" alt="" width="1600" height="900" class="aligncenter size-full wp-image-912635" /><br/>
+A <a href="https://imazing.com//blog/imazing-3-mac-beta?utm_source=macrumors&amp;utm_medium=sponsorship&amp;utm_campaign=imazing3beta">beta version of iMazing 3 is available</a> for testing right now, and the updated app has been rebuilt with a more intuitive and responsive interface that makes it easier for users to get to what they need on a connected &zwnj;iPhone&zwnj; or <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/imazing-2.png" alt="" width="1600" height="900" class="aligncenter size-full wp-image-912636" /><br/>
+When opening the app, users are greeted with a Discover screen that provides users with quick access to iMazing's most-used features for tasks like <a href="https://imazing.com/iphone-photos-transfer?utm_source=macrumors&utm_medium=sponsorship&utm_campaign=imazing3beta">downloading the photos</a> from any iOS device, accessing and <a href="https://imazing.com/transfer-iphone-text-messages-to-computer?utm_source=macrumors&utm_medium=sponsorship&utm_campaign=imazing3beta">exporting text messages</a> from an &zwnj;iPhone&zwnj; to a computer, <a href="https://imazing.com/backup-iphone-ipad?utm_source=macrumors&utm_medium=sponsorship&utm_campaign=imazing3beta">backing up</a>, <a href="https://imazing.com/transfer-all-data-to-any-other-iphone-or-ipad?utm_source=macrumors&utm_medium=sponsorship&utm_campaign=imazing3beta">updating to a new device</a>, and using the <a href="https://imazing.com/iphone-quick-transfer?utm_source=macrumors&utm_medium=sponsorship&utm_campaign=imazing3beta">drag and drop Quick Transfer</a> to get files from a Mac to the right app on an &zwnj;iPhone&zwnj;.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/imazing-3.png" alt="" width="1600" height="900" class="aligncenter size-full wp-image-912638" /><br/>
+While the Discover section gets users up and running with iMazing's most useful functions right away, there's also a Home screen with an overview of what you can do, and a Tools section that offers access to the entire iMazing catalog of options for doing everything from downloading your WhatsApp messages to saving copies of apps. When you connect an &zwnj;iPhone&zwnj; or an &zwnj;iPad&zwnj; to iMazing, you can also see additional information on storage and the health of the battery.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/imazing-4.png" alt="" width="1600" height="900" class="aligncenter size-full wp-image-912639" /><br/>
+Convenience was the main focus of the iMazing 3 redesign, and creating and managing backups is more straightforward than before to make the app accessible to users of all skill levels. For more advanced users, iMazing 3 has a Devices screen that allows multiple connected devices to be managed at once through bulk actions, simplifying fleet management.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/imazing-6.png" alt="" width="1600" height="900" class="aligncenter size-full wp-image-912640" /><br/>
+In the future, iMazing 3 is set to gain improved spyware detection, automatic photo transfers, enterprise improvements, and more. iMazing 3 is a native app on the Mac, and the iMazing team worked to ensure feature parity between Macs and PCs so the app is simple to use on all platforms. iMazing 3 is compatible with <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>, and Apple's latest iPhones.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/imazing-7.png" alt="" width="1600" height="900" class="aligncenter size-full wp-image-912641" /><br/>
+iMazing 3 is set to come out later this year, but available features can be tried in a beta capacity right now. iMazing is currently <a href="https://imazing.com/store?coupon=MACRUMORS-iMAZING3&amp;utm_source=macrumors&amp;utm_medium=sponsorship&amp;utm_campaign=imazing3beta">offering <em>MacRumors</em> readers a 30 percent discount</a> on iMazing 2 and iMazing 3 for macOS and Windows through September 30, 2023 with the promo code MACRUMORS-iMAZING3. The discount is applicable to the current version of iMazing 2 and the upcoming final iMazing 3 release.<br/>
+<br/>
+One lucky <em>MacRumors</em> reader will win an &zwnj;iPhone 15 Pro&zwnj; and a copy of iMazing to go with it. To enter to win, use the widget below and enter an email address. Email addresses will be used solely for contact purposes to reach the winner(s) and send the prize(s). You can earn additional entries by subscribing to our <a href="https://my.leadpages.net/leadbox/145ef7173f72a2%3A104a9fa76b46dc/5754903989321728/">weekly newsletter</a>, subscribing to our <a href="https://www.youtube.com/user/macrumors">YouTube channel</a>, following us on <a href="https://twitter.com/macrumors">Twitter</a>, following us on <a href="https://www.instagram.com/macrumors/">Instagram</a>, or visiting the <em>MacRumors</em> <a href="https://www.facebook.com/MacRumors">Facebook page</a>.<br/>
+<br/>
+Due to the complexities of international laws regarding giveaways, only <strong>U.S. residents who are 18 years or older, UK residents who are 18 years or older, and Canadian residents (excluding Quebec) who have reached the age of majority in their province or territory are eligible to enter</strong>. All federal, state, provincial, and/or local taxes, fees, and surcharges are the sole responsibility of the prize winner. To offer feedback or get more information on the giveaway restrictions, please refer to <a href="http://forums.macrumors.com/threads/macrumors-giveaways-why-are-they-only-open-to-u-s-residents.1918337/">our Site Feedback section</a>, as that is where discussion of the rules will be redirected.<br/>
+<br/>
+<div class="center-wrap"><a class="e-widget no-button" href="https://gleam.io/wlHUb/imazing-giveaway" rel="nofollow">iMazing Giveaway</a><br/>
+<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script></div>The contest will run from today (September 20) at 9:00 a.m. Pacific Time through 9:00 a.m. Pacific Time on September 27. The winner will be chosen randomly on or shortly after September 27 and will be contacted by email. The winner will have 48 hours to respond and provide a shipping address before a new winner is chosen.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/giveaway/">Giveaway</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/20/macrumors-giveaway-imazing-iphone-15-pro/">MacRumors Giveaway: Win an iPhone 15 Pro from iMazing</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macrumors-giveaway-win-an-iphone-15-pro-from-imazing.2403483/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Ordered an iPhone 15? Verizon Has 23% Off Cases and USB-C Accessories for Your New iPhone</title>
@@ -508,136 +655,6 @@ Shoppers should note that for both websites, <strong>most of the deals below wil
 <h2>Bluetooth Speakers</h2><br/>
 <img src="https://images.macrumors.com/article-new/2023/07/soundcore-yellow.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-904551" /><ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09VKZPST7">Soundcore Motion Boom Plus</a> - &#36;149.99 with on-page coupon, down from &#36;179.99</li><br/>
 </ul> Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/19/deals-anker-discounts-accessories/">Deals: Anker Discounts Huge Selection of USB-C Charging Accessories, Bluetooth Trackers, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-anker-discounts-huge-selection-of-usb-c-charging-accessories-bluetooth-trackers-and-more.2403269/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple TV Can Be Restored With an iPhone Starting With iOS 17</title>
-		<link>https://www.macrumors.com/2023/09/19/apple-tv-can-now-be-restored-with-an-iphone/</link>
-		<comments>https://forums.macrumors.com/threads/apple-tv-can-be-restored-with-an-iphone-starting-with-ios-17.2403268/</comments>
-		<pubDate>Tue, 19 Sep 2023 07:35:58 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/19/apple-tv-can-now-be-restored-with-an-iphone/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple TV</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Starting with the iOS 17 and tvOS 17 software updates released on Monday, any Apple TV HD or Apple TV 4K model experiencing problems can be restored with a nearby iPhone, according to a new <a href="https://support.apple.com/en-us/HT213828">Apple support document</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/tvOS-17-iPhone-Recovery-Mode.jpg" alt="" width="1560" height="884" class="aligncenter size-full wp-image-912357" /><br/>
-If a black screen with an iPhone appears on the TV, users can unlock their iPhone, hold it close to the Apple TV, and follow the on-screen recovery steps on the iPhone. When the recovery process is completed, the Apple TV will reboot. <br/>
-<br/>
-On the Apple TV HD, there is a USB-C port that allows the device to be restored with a Mac over a wired connection. However, there is no USB-C port on any of the Apple TV 4K models, so Apple advised customers to contact Apple support to restore those models. With the new iPhone-based restore method, that is no longer necessary.<br/>
-<br/>
-Read our <a href="https://www.macrumors.com/2023/09/18/apple-releases-tvos-17/">tvOS 17 release post</a> for an overview of other new Apple TV features, such as a FaceTime app and a redesigned Control Center.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a>, <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/19/apple-tv-can-now-be-restored-with-an-iphone/">Apple TV Can Be Restored With an iPhone Starting With iOS 17</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-tv-can-be-restored-with-an-iphone-starting-with-ios-17.2403268/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 15 Reviews: A Major Upgrade for Standard Models</title>
-		<link>https://www.macrumors.com/review/iphone-15/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-15-reviews-a-major-upgrade-for-standard-models.2403249/</comments>
-		<pubDate>Tue, 19 Sep 2023 06:34:23 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/review/iphone-15&#038;post_date=1695141263/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15</category>
-		
-
-		<description><![CDATA[Apple's new <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> 15 and &zwnj;iPhone&zwnj; 15 Plus begin arriving to customers and launch in stores on Friday, September 22. Ahead of time, the first reviews of the devices have been shared by select media outlets and YouTube channels.<br/>
-<br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-review-the–verge.jpeg" alt="" width="2400" height="1600" class="alignnone size-full wp-image-912298" /><em>Image via The Verge</em></div><br/>
-The &zwnj;iPhone&zwnj; 15 and &zwnj;iPhone&zwnj; 15 Plus offer a new design, the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a>, a USB-C port, the A16 Bionic chip, a 48-megapixel main camera, Smart HDR 5, Apple's second-generation Ultra Wideband chip for Precision Finding with <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a> friends, and more. <br/>
-<br/>
-<ul><li><a href="https://www.macrumors.com/guide/iphone-14-vs-iphone-15/">iPhone 14 vs. iPhone 15 Buyer's Guide: 20 Upgrades Compared</a></li></ul><br/>
-<br/>
-Reviewers are generally in agreement that the &zwnj;iPhone&zwnj; 15 represents a significant update of Apple's standard &zwnj;iPhone&zwnj; models, sporting bigger and more useful upgrades than in many previous years. We've rounded up both written and video reviews of the &zwnj;iPhone&zwnj; 15 and &zwnj;iPhone&zwnj; 15 Plus below.<br/>
-<br/>
-<h2>Written Reviews</h2><br/>
-The &zwnj;iPhone&zwnj; 15 features a new design with contoured edges, frosted back glass, and the &zwnj;Dynamic Island&zwnj;. It is also available in a refreshed selection of color options, including Black, Blue, Green, Yellow, and Pink. <a href="https://www.pocket-lint.com/apple-iphone-15-review/"><em>Pocket-Lint</em>'s Britta O'Boyle</a> on the &zwnj;iPhone&zwnj; 15's revamped design:<br/>
-<br/>
-<blockquote>There's a matte glass back in place of the coloured glossy finish we've been accustomed to since the iPhone XR and its vibrant, colourful back. The iPhone 15 completely pivots on this design feature, opting for a much more subtle, pastel finish. The colours - of which there are six to choose from - have been infused into the glass and the result is a very, light shade of colour. And I mean very light, almost non-existent.<br/>
-<br/>
-The aluminium frame - no titanium here like on the Pro models - does have a stronger colour presence however, matching the colour within the glass rear and complimenting it beautifully. It's not just the softness in colour that makes the iPhone 15 stand out though. Like the iPhone 15 Pro models, the rear of the iPhone 15 is almost soft-to-touch with a lovely smooth finish that makes this phone really rather delightful to hold - trust me on this. The edges are also slightly contoured, removing the sharpness where the rear met the frame on the iPhone 14.<br/>
-<br/>
-[...]<br/>
-<br/>
-Flip the iPhone 15 onto its silky soft matte back and you'll notice some big changes to the front. The bezels have reduced slightly - not as much as the iPhone 15 Pro, but enough to make a noticeable difference if you look close enough. You probably won't though, because it will be the lack of notch at the top of the display that will likely capture your attention first.</blockquote><br/>
-<br/>
-<a href="https://www.theverge.com/23879726/apple-iphone-15-plus-review"><em>The Verge</em>'s Dan Seifert</a> on the &zwnj;iPhone&zwnj; 15's USB-C port, which is limited to USB 2.0 speeds, just like the Lightning connector:<br/>
-<br/>
-<blockquote>The other big hardware change this year is the swap from Lightning to USB-C for charging and data transfer. This change has been a long time coming, and I applaud it, even if Apple is literally years late to doing so. It does mean that the piles of Lightning cables and accessories you’ve accumulated are obsolete now (Apple gives you a new braided cable in the box with the phone), but it also means you don’t have to carry multiple charging cables for your iPhone, iPad, laptop, and other accessories. And hey, you can now use the same charging cable as your Android-toting friends and loved ones, which will certainly come in handy at some point.<br/>
-<br/>
-The USB-C port supports wired charging up to 27W and can output to a display at 4K60 resolution. But it's limited to USB 2.0 data transfers: just 480Mbps, 20 times slower than the USB 3 data speeds available on an iPhone Pro or an iPad Air and 80 times slower than what comes on all Macs at this point. Most people will never plug their phone into a computer to transfer data off of it, but the limitation shows up in other areas, like when I plugged a USB-C ethernet adapter into the iPhone 15 and only got half of my gigabit internet speed. Or when switching to a new phone and using a cable to move your data over and having to wait as gigabytes of data are squeezed through the USB 2 connection. It just feels like a stingy limitation on an &#36;800-plus phone considering faster USB speeds have been out for 15 years.</blockquote><br/>
-<br/>
-<a href="https://mobilesyrup.com/2023/09/19/apple-iphone-15-review/"><em>MobileSyrup</em>'s Patrick O'Rourke</a> on the A16 Bionic chip, first introduced in last year's <a href="https://www.macrumors.com/roundup/iphone-14-pro/">iPhone 14 Pro</a> models:<blockquote>It’s important to note that the iPhone 15 and iPhone 15 Plus feature the same A16 Bionic chip as the iPhone 14 line. It looks like this is Apple’s new cadence of release; the top-tier phone features the high-end chip, while the base-level device gets last year’s processor. Does this matter anymore when Apple’s chips are so far ahead of the competition? It doesn’t, and at this point, Apple knows it.<br/>
-<br/>
-[...]<br/>
-<br/>
-During my time with the iPhone 15 and iPhone 15 Plus, I didn't encounter any slowdown, whether I was running high-end apps or being an internet power user in Firefox. Would I prefer Apple to stick with including its most powerful chip in all of its new smartphones? Definitely, especially as the promise of console-level gaming looms on with the iPhone 15 Pro and its A17 Pro chip, while the iPhone 15 and iPhone 15 Plus are stuck with the A16. However, this likely won't matter to the iPhone 15's audience.</blockquote><br/>
-<br/>
-<a href="https://www.wired.com/review/apple-iphone-15/"><em>Wired</em>'s Lauren Goode</a> on the &zwnj;iPhone&zwnj; 15's multitude of camera improvements:<blockquote>The entire camera system on the iPhone 15 does offer more granular control over your photos than the iPhone 14 does, even if some of the resulting images aren't stunningly better than the prior generation's. The biggest update is that the iPhone 15 has the ability to capture both 24-megapixel and 48-megapixel images, which can be preset under "Resolution Control" in your phone's camera settings. But this feature is optimized for shooting at 1X in decent light, whereas if you shoot at .5X, or ultrawide, the camera will default back to 12-megapixel captures.<br/>
-<br/>
-The iPhone 15 now has an additional 2X optical zoom option, whereas the iPhone 14 only offered .5 and 1X zooms. Portrait mode on iPhone 15 can be activated automatically when the camera detects a portrait-worthy image, though in my experience, the iPhone 15 has yet to deem any of my subjects worthy of portraiture. Also, in Portrait mode, you can now control the depth of the image and zoom out to capture even more data from the scene. This is admittedly a nice feature add.</blockquote><br/>
-<br/>
-<h2>Video Reviews</h2><br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/piYf4gDthjY?si=P_qcXAdJWPTCsm7u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/3LHiCTJsp2I?si=YHMz5RtHIvhNnyw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/QY5JvusXEWI?si=ic148kPG6Akiq9Ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/BVaonw4lH2g?si=ovmNO8TU1719mgXC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15">iPhone 15 (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/review/iphone-15/">iPhone 15 Reviews: A Major Upgrade for Standard Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-reviews-a-major-upgrade-for-standard-models.2403249/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 15 Pro Reviews: Improvements Go Well Beyond USB-C</title>
-		<link>https://www.macrumors.com/review/iphone-15-pro/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-15-pro-reviews-improvements-go-well-beyond-usb-c.2403246/</comments>
-		<pubDate>Tue, 19 Sep 2023 06:16:33 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/review/iphone-15-pro&#038;post_date=1695140193/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15 Pro</category>
-		
-
-		<description><![CDATA[Apple's new iPhone 15 Pro and iPhone 15 Pro Max will begin arriving to customers and launch in stores this Friday, September 22. Ahead of time, the first reviews of the devices have been shared by select media outlets and YouTube channels.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-pro-hands-on.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-910540" /><br/>
-Key new features of the iPhone 15 Pro models include a USB-C port, lightweight titanium frame, customizable Action button, faster A17 Pro chip, an increased 8GB of RAM, thinner bezels around the screen, and several camera improvements, including an upgraded Telephoto lens with up to 5x optical zoom on the Pro Max model.<br/>
-<br/>
-<ul><li><a href="https://www.macrumors.com/guide/iphone-14-pro-vs-iphone-15-pro/">iPhone 14 Pro vs. iPhone 15 Pro Buyer's Guide: 30+ Upgrades Compared</a></li></ul><br/>
-<br/>
-We've rounded up both written and video reviews of the iPhone 15 Pro models below.<br/>
-<br/>
-<h2>Written Reviews</h2><br/>
-<a href="https://www.theverge.com/23879619/apple-iphone-15-pro-max-review"><em>The Verge</em>'s Allison Johnson</a> on the USB-C port:<blockquote>I know we all have a lot of mixed feelings about USB-C, but let me tell you about a beautiful thing that happened: the 15 Pro Max's battery was low, so I unplugged the USB-C charging cable from my MacBook Air and plugged it right into the phone. No searching for another cable. No dongles. Just a USB-C charger powering a USB-C iPhone.</blockquote>Johnson says the Action button can function as a physical shutter button when the Camera app is open, instead of the volume buttons:<blockquote>I set the Action Button on the 15 Pro Max to open the camera, which I thought I'd really like. It even acts as a shutter when you use the Action Button to open the camera, and I love a physical shutter button. But it’s a bit of a reach, and after the first week, I’m not finding it any easier than swiping the homescreen to launch the camera and pressing the volume down button to snap shots. I have some other ideas for the Action Button, though, and the beauty is you can experiment with it until you find something you like.</blockquote><a href="https://www.cnbc.com/2023/09/19/apple-iphone-15-pro-review-lighter-weight-makes-a-huge-difference.html"><em>CNBC</em>'s Kif Leswing</a> on the titanium frame:<blockquote>Apple says that the 6-inch iPhone 15 Pro is 187 grams, or 9% lighter than last year's model. The iPhone 15 Pro Max, with a bigger 6.7-inch screen, weighs 8% less. But in practice, it feels like an even bigger reduction. Going back to my old iPhone 14 Pro, it feels like a brick. The weight difference between this year's Pros and last year's is noticeable even with a case.</blockquote><a href="https://www.tomsguide.com/reviews/iphone-15-pro#section-iphone-15-pro-review-battery-life-and-charging"><em>Tom's Guide</em>'s Mark Spoonaeur</a> on battery life:<blockquote>On our battery test, which involves continuous web surfing at 150 nits of screen brightness, the iPhone 15 Pro lasted 10 hours and 53 minutes. That’s 40 minutes longer than the iPhone 14 Pro and nearly 2 hours longer than the Pixel 7 Pro. We consider 11 hours or more to be excellent.</blockquote><a href="https://techcrunch.com/2023/09/19/apples-iphone-15-pro-max-goes-to-disneyland/"><em>TechCrunch</em>'s Matthew Panzarino</a> on the iPhone 15 Pro Max's new 5x optical zoom capability:<blockquote>And we haven't even started talking about the 120mm tetraprism-enabled 5x telephoto lens. This thing is an incredible achievement in every way. It doesn't just work, it's probably the best camera Apple has ever made.</blockquote>An example of a photo shot at 5x by Panzarino:<img src="https://images.macrumors.com/article-new/2023/09/TechCrunch-5x-Photo-on-iPhone-15-Pro-Max.jpeg" alt="" width="2048" height="1364" class="aligncenter size-full wp-image-912295" /><div class="center-wrap"><em>Image Credit: Matthew Panzarino</em></div><br/>
-<h2>Video Reviews</h2><br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/_ZajW9gBzVQ?si=fWeUE3xz44p3UTIK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/piYf4gDthjY?si=jnqerBaa-bHHk0r_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/gksBWEV5rIk?si=8nnuegUcRLqE90mS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/5EZ3YkUiwA8?si=Vx_LRugtDbhhHurK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/a0qnLTnHC7Y?si=E5zKBGNkHcvslA6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/-k7t1cZKxaY?si=JvTRw6z-PAs0z1_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/review/iphone-15-pro/">iPhone 15 Pro Reviews: Improvements Go Well Beyond USB-C</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-pro-reviews-improvements-go-well-beyond-usb-c.2403246/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Silicon&#039;s Next Big Upgrade Could Arrive in 2026</title>
-		<link>https://www.macrumors.com/2023/09/19/apple-silicon-next-upgrade-in-2026/</link>
-		<comments>https://forums.macrumors.com/threads/apple-silicons-next-big-upgrade-could-arrive-in-2026.2403235/</comments>
-		<pubDate>Tue, 19 Sep 2023 04:49:03 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/19/apple-silicon-next-upgrade-in-2026/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>TSMC</category>
-		<category>Ming-Chi Kuo</category>
-		<category>Apple Silicon</category>
-		
-
-		<description><![CDATA[Apple could upgrade to considerably more advanced 2-nanometer chip fabrication technology as soon as 2026, according to analyst <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/10/Apple-Silicon-Teal-Feature.jpg" alt="" width="1920" height="1080" class="alignnone size-full wp-image-767478" /><br/>
-In a recent <a href="https://medium.com/@mingchikuo/台積電投資arm與ims之分析-analysis-of-tsmcs-investment-in-arm-and-ims-8b3b9daea440">post on Medium</a>, Kuo explained that Apple will likely begin to use TSMC's 2-nanometer chip fabrication technology to produce <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> chips as early as 2026. The <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>'s A17 Pro chip is the industry's first 3-nanometer chip, sporting performance and efficiency improvements thanks to its increased transistor density.<br/>
-<br/>
-If so, this would mirror its use of the 5-nanometer node through the A14, A15, and A16 Bionic chips from 2020 to 2022, where the technology persisted for three years through successive chip generations. The 2026 timeframe would also presumably mean the 3-nanometer node persists for three years through the A17 Pro, "A18," and "A19" from 2023 to 2025.<br/>
-<br/>
-Like 3-nanometer, 2-nanometer further reduces the smallest possible dimension used in chip manufacturing and increases transistor density, resulting in improved performance and efficiency.<br/>
-<br/>
-According to Kuo, TSMC is strengthening its vertical integration capabilities with chip designer ARM in an effort to ensure a smooth transition from the current 3-nanometer technology to the next-generation 2-nanometer process. Apple and Nvidia are expected to be among the first clients to place orders for 2-nanometer chips.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tsmc/">TSMC</a>, <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a>, <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/19/apple-silicon-next-upgrade-in-2026/">Apple Silicon&#039;s Next Big Upgrade Could Arrive in 2026</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-silicons-next-big-upgrade-could-arrive-in-2026.2403235/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
