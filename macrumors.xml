@@ -14,12 +14,62 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 19 Sep 2023 13:02:46 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 19 Sep 2023 17:10:16 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Satechi Debuts New MagSafe-Compatible Wallet Stand for iPhone 15</title>
+		<link>https://www.macrumors.com/2023/09/19/satechi-magsafe-wallet-stand/</link>
+		<comments>https://forums.macrumors.com/threads/satechi-debuts-new-magsafe-compatible-wallet-stand-for-iphone-15.2403353/</comments>
+		<pubDate>Tue, 19 Sep 2023 14:21:18 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/19/satechi-magsafe-wallet-stand/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Satechi</category>
+		
+
+		<description><![CDATA[Satechi today announced the launch of a <a href="https://satechi.net/products/vegan-leather-magnetic-wallet-stand">new Magnetic Wallet Stand</a> that is designed as an accessory to be used with the new <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models that are releasing this Friday.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/satechi-wallet-stand.jpg" alt="" width="2000" height="1124" class="aligncenter size-full wp-image-912510" /><br/>
+The Magnetic Wallet Stand attaches to the back of any <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a> <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, and Satechi says that it was created to have a "strong and reliable attachment" to keep the wallet from coming off of the &zwnj;iPhone&zwnj;. Up to four credit cards, debit cards, or ID cards can be stored in the wallet, and there is a cutout for quickly showing an ID.<br/>
+<br/>
+NFC passthrough is available from the front pocket, enabling Tap to Pay functionality without the need to remove a card from the wallet.<br/>
+<br/>
+In addition to serving as a wallet, the accessory can be unfolded and used as a secure stand to prop up the &zwnj;iPhone&zwnj; for <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls, watching videos, playing games with a Bluetooth controller, and more. It can attach to the &zwnj;iPhone&zwnj; in either horizontal or vertical orientation when used as a stand accessory.<br/>
+<br/>
+Made from a leather alternative, the Magnetic Wallet Stand can be purchased in seven colors. Black, brown, navy blue, and orange are <a href="https://satechi.net/products/vegan-leather-magnetic-wallet-stand">available from the Satechi website</a>, and <a href="https://www.apple.com/shop/product/HQZA2ZM/A/satechi-magnetic-wallet-stand-magsafe-compatible">Apple is selling the Wallet Stand</a> in black as well as three exclusive colors, including forest green, purple, and blue.<br/>
+<br/>
+Satechi's new Magnetic Wallet Stand is available starting today and it is priced at &#36;40.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/satechi/">Satechi</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/19/satechi-magsafe-wallet-stand/">Satechi Debuts New MagSafe-Compatible Wallet Stand for iPhone 15</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/satechi-debuts-new-magsafe-compatible-wallet-stand-for-iphone-15.2403353/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 15 Models Feature New Setting to Strictly Prevent Charging Beyond 80%</title>
+		<link>https://www.macrumors.com/2023/09/19/iphone-15-80-percent-battery-limit-option/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-15-models-feature-new-setting-to-strictly-prevent-charging-beyond-80.2403348/</comments>
+		<pubDate>Tue, 19 Sep 2023 14:04:13 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/19/iphone-15-80-percent-battery-limit-option/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iPhone 15</category>
+		<category>iPhone 15 Pro</category>
+		
+
+		<description><![CDATA[All of the iPhone 15 and iPhone 15 Pro models feature a new battery health setting that prevents the devices from charging beyond 80% at all times when enabled, as <a href="https://www.theverge.com/2023/9/19/23880735/got-any-questions-about-the-iphone-15-pro-lets-answer-them?commentID=24d0c490-9f62-4ea3-8bc6-51ca0809befa">confirmed by <em>The Verge</em>'s Allison Johnson</a> during a Q&A session today.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Lineup-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-911423" /><br/>
+The new setting is separate from the pre-existing <a href="https://support.apple.com/en-us/HT210512">Optimized Battery Charging</a> feature on iPhones, which intelligently delays charging past 80% until a more appropriate time by learning the device's daily charging routine. When the 80% hard limit is enabled, the iPhone will never charge past that point whatsoever.<br/>
+<br/>
+On all iPhone 15 models, there are three options under Settings → Battery → Battery Health & Charging → Charging Optimization:<ul><li>Optimized Battery Charging</li><br/>
+<li>80% Limit</li><br/>
+<li>None</li></ul>As with Optimized Battery Charging, the 80% hard limit can improve an iPhone battery's lifespan by reducing the time that the battery is fully charged.<br/>
+<br/>
+The new setting was previously discovered in iOS 17 code by software researcher <a href="https://twitter.com/stevemoser">Steve Moser</a>.<br/>
+<br/>
+Apple says all of the iPhone 15 models have the same battery life as iPhone 14 models. The devices launch this Friday.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15">iPhone 15 (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/19/iphone-15-80-percent-battery-limit-option/">iPhone 15 Models Feature New Setting to Strictly Prevent Charging Beyond 80%</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-models-feature-new-setting-to-strictly-prevent-charging-beyond-80.2403348/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Emoji Coming to Future iOS 17 Update Include Shaking Head, Brown Mushroom, Lime, Phoenix and More</title>
@@ -985,176 +1035,18 @@ App launching app Launcher has interactive folder widgets so you can nest severa
 <h2>Other Apps With Interactive Widgets</h2><br/>
 <ul><br/>
 <li><a href="https://apps.apple.com/us/app/things-3/id904237743">Things</a> (&#36;9.99) - Task management app Things now supports interactive widgets so you can complete to-dos right from the &zwnj;Home Screen&zwnj;.</li><br/>
- 	<li><a href="https://apps.apple.com/us/app/tripit-travel-planner/id311035142">TripIt</a> (Free, Premium Subscription) - Travel planning app TripIt has interactive widgets that let you scroll through your entire travel itinerary from the Lock Screen or &zwnj;Home Screen&zwnj;.</li><br/>
+ 	<li><a href="https://apps.apple.com/us/app/tripit-travel-planner/id311035142">TripIt</a> (Free, Premium Subscription) - Travel planning app TripIt has interactive widgets that let you scroll through your entire travel itinerary from the &zwnj;Home Screen&zwnj;.</li><br/>
  	<li><a href="https://apps.apple.com/us/app/calendars-5-by-readdle/id697927927">Calendars</a> (&#36;30) - Calendars includes new widgets, such as a Load Indicator widget, an icon with the current date, and month calendar options, all of which can be used without opening the app. There's also support for StandBy mode.</li><br/>
  	<li><a href="https://apps.apple.com/app/focus-time-management/id975017240">Focus</a> (Free, Premium Subscription) - Interactive widgets in productivity app Focus let you start a timer with a tap from the Home or Lock Screen. There's also a StandBy Focus widget and a redesigned Apple Watch app.</li><br/>
  	<li><a href="https://apps.apple.com/app/id1425368544">Timery for Toggl</a> (Free, Premium Subscription) - Time-tracking app Timery, which is designed to work with Toggl, has interactive widgets that can be used for quickly setting timers, tracking time, and showing report details. There's a StandBy widget and a refreshed design for the Apple Watch.</li><br/>
- 	<li><a href="https://apps.apple.com/us/app/chronicling/id6445992145">Chronicling</a> (Free, Premium Subscription) - Event tracking app Chronicling has interactive widgets for event logging from the &zwnj;Home Screen&zwnj; or Lock Screen, as well as a new watchOS app and StandBy support.</li><br/>
+ 	<li><a href="https://apps.apple.com/us/app/chronicling/id6445992145">Chronicling</a> (Free, Premium Subscription) - Event tracking app Chronicling has interactive widgets for event logging from the &zwnj;Home Screen&zwnj;, as well as a new watchOS app and StandBy support.</li><br/>
  	<li><a href="https://apps.apple.com/cg/app/smartgym-gym-home-workouts/id922744883">SmartGym</a> (Free, Premium Subscription) - Fitness app SmartGym has an interactive widget that lets you swap between various metrics like heart rate and calories burned for your workouts. There's also a redesigned Apple Watch app and support for StandBy mode on &zwnj;iPhone&zwnj;.</li><br/>
  	<li><a href="https://apps.apple.com/us/app/liftin-workout-tracker/id1445041669">Liftin'</a> (Free, Premium Subscription) - Weightlifting app Liftin' has interactive widgets that let you start a workout, plus there are widgets optimized for the Apple Watch Smart Stack and Live Activities.</li><br/>
-<li><a href="https://apps.apple.com/app/id1579036143">Home Widget</a> (Free, Premium Upgrade) - <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> app Home Widget offers a selection of widgets that can be used to control smart home devices from the Lock Screen or the &zwnj;Home Screen&zwnj;.</li><br/>
+<li><a href="https://apps.apple.com/app/id1579036143">Home Widget</a> (Free, Premium Upgrade) - <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> app Home Widget offers a selection of widgets that can be used to control smart home devices from the &zwnj;Home Screen&zwnj;.</li><br/>
 <li><a href="https://forums.macrumors.com/threads/just-install-ios-17-heres-12-things-to-do-first.2403091/post-32502899">Overcast</a> (Free, &#36;9.99 Premium Option) - Podcast app Overcast has interactive widgets that let you control episode playback without having to open the app.</li><br/>
 </ul><br/>
 <h2>Read More</h2><br/>
 Find an app with interactive widgets that we didn't mention here? Let us know in the comments below.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/18/ios-17-interactive-widget-list/">iOS 17: Revamp Your Home Screen With These Apps Featuring Interactive Widgets</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-revamp-your-home-screen-with-these-apps-featuring-interactive-widgets.2403084/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Launches New 6TB and 12TB iCloud+ Plans</title>
-		<link>https://www.macrumors.com/2023/09/18/apple-launches-new-icloud-plus-plans/</link>
-		<comments>https://forums.macrumors.com/threads/apple-launches-new-6tb-and-12tb-icloud-plans.2403039/</comments>
-		<pubDate>Mon, 18 Sep 2023 10:17:04 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/18/apple-launches-new-icloud-plus-plans/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iCloud</category>
-		
-
-		<description><![CDATA[Apple <a href="https://www.apple.com/newsroom/2023/09/apple-expands-the-power-of-icloud-with-new-icloud-plus-plans/">today launched</a> the two new <a href="https://www.macrumors.com/guide/icloud/">iCloud</a>+ plans that it announced during last week's iPhone-centric event. The 6TB and 12TB &zwnj;iCloud&zwnj;+ plans can now be purchased through the &zwnj;iCloud&zwnj;+ interface as higher-tier options that join the existing 50GB, 200GB, and 2TB storage plans.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/icloud-plus-storage-tiers.jpg" alt="" width="1600" height="898" class="aligncenter size-full wp-image-910389" /><br/>
-The 6TB plan is priced at &#36;29.99 per month, while the 12TB plan is priced at &#36;59.99 per month. Apple suggests that the 6TB plan is ideal for photographers and content creators, while it says the the 12TB plan is aimed at "advanced users."<br/>
-<br/>
-Apple's new 6TB and 12TB plans can be shared with family members, allowing multiple people to take advantage of the storage increase if Family Sharing is in use.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/icloud-plus-new-tiers.jpg" alt="" width="3276" height="1843" class="aligncenter size-full wp-image-912164" /><br/>
-&zwnj;iCloud&zwnj;+ has a number of benefits, including Private Relay for private Safari browsing, Hide My Email for generating single-use email addresses for each website, <a href="https://www.macrumors.com/guide/homekit-secure-video/">HomeKit Secure Video</a> to store footage from <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> cameras, and support for custom email domains that can be used with an &zwnj;iCloud&zwnj; email address.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/icloud/">iCloud</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-music-apple-pay-card-icloud-fitness.134">Apple Music, Apple Pay/Card, iCloud, Fitness+</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/18/apple-launches-new-icloud-plus-plans/">Apple Launches New 6TB and 12TB iCloud+ Plans</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-launches-new-6tb-and-12tb-icloud-plans.2403039/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases iOS 17 With StandBy, Live Voicemail, Improved Autocorrect, FaceTime Video Messages and Tons More</title>
-		<link>https://www.macrumors.com/2023/09/18/apple-releases-ios-17/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-ios-17-with-standby-live-voicemail-improved-autocorrect-facetime-video-messages-and-tons-more.2403033/</comments>
-		<pubDate>Mon, 18 Sep 2023 10:05:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/18/apple-releases-ios-17/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple today released <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> and <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>, the latest operating system updates that are designed for the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. As with all of Apple's software updates, &zwnj;iOS 17&zwnj; and &zwnj;iPadOS 17&zwnj; are available for free. &zwnj;iOS 17&zwnj; <a href="https://www.macrumors.com/roundup/ios-17/">is compatible with</a> the &zwnj;iPhone&zwnj; XR/&zwnj;iPhone&zwnj; XS and later, while &zwnj;iPadOS 17&zwnj; runs on the <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a> 5 and later, the &zwnj;iPad&zwnj; 6 and later, <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> 3 and later, the second-generation 12.9-inch <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> and later, all 11-inch &zwnj;iPad Pro&zwnj; models, and the 10.5-inch &zwnj;iPad Pro&zwnj;.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/ej9lpaE3LiI" title="iOS 17: All NEW Features You Need to Know!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-Apple's updated software, which is build 21A329, can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update. It can take a few minutes for the updates to propagate to all users due to high demand.<br/>
-<br/>
-While you download &zwnj;iOS 17&zwnj;, make sure to <a href="https://www.macrumors.com/roundup/ios-17/"><strong>check out our dedicated iOS 17 roundup</strong></a> for a full rundown of all of the features in the update. We've highlighted a few of the most notable additions below, but this is a huge update with hundreds of changes.<br/>
-<br/>
-&zwnj;iOS 17&zwnj; expands on last year's Lock Screen updates with the addition of interactive widgets and StandBy, a new feature that turns the &zwnj;iPhone&zwnj; into a mini home hub when it is charging. You can now see voicemail transcriptions in real time, and leave video messages in <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a>. &zwnj;FaceTime&zwnj; also now works on the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> with tvOS 17.<br/>
-<br/>
-With NameDrop, exchanging contacts is as simple as touching two phones together, and Messages has been overhauled with new safety features and updates to the way that stickers work. Autocorrect is better than ever, Spotlight search has been improved, private browsing in Safari is more secure with <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> lock, and there's now a mood tracking feature in the Health app.<br/>
-<br/>
-Passwords can be shared in <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Keychain and <a href="https://www.macrumors.com/guide/airtags/">AirTags</a> can be shared among family members too, plus there are new features for the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a>. Apple has also added updates to <a href="https://www.macrumors.com/guide/siri/">Siri</a>, Mail, Reminders, Notes, Home, and more. Full release notes for the update are below.<blockquote>iOS 17 brings big updates to Phone, Messages, and FaceTime that give you new ways to express yourself as you communicate. StandBy delivers a new full-screen experience with glanceable information designed to view from a distance when you turn iPhone on its side while charging. AirDrop makes it easier to share and connect with those around you and adds NameDrop for contact sharing. Enhancements to the keyboard make entering text faster and easier than ever before. iOS 17 also includes updates to Widgets, Safari, Music, AirPlay, and more.<br/>
-<br/>
-<strong>Phone</strong><br/>
-- Contact Posters let you customize how you appear on other people's devices when you call them with a customized poster<br/>
-- Live Voicemail displays a live transcription as someone leaves a message and allows you to pick up the call<br/>
-<br/>
-<strong>Messages</strong><br/>
-- Stickers iMessage app brings all your stickers into one place including Live Stickers, Memoji, Animoji, emoji stickers, and your third party sticker packs<br/>
-- Live Stickers can be created by lifting the subject from photos or videos and stylizing them with effects like Shiny, Puffy, Comic, and Outline<br/>
-- Check In automatically notifies a family member or friend when you arrive at a destination safely and can share helpful information with them in case of a delay<br/>
-- Audio message transcription is available for audio messages you receive so you can read them in the moment and listen later<br/>
-- Search improvements help you find messages faster by allowing you to combine search filters such as people, keywords, and content types like photos or links to find exactly what you are looking for<br/>
-- Swipe to reply to a message inline by swiping to the right on any bubble<br/>
-- One-time verification code cleanup automatically deletes verification codes from the Messages app after using them with AutoFill in other apps<br/>
-<br/>
-<strong>FaceTime</strong><br/>
-- Leave a video or audio message to capture exactly what you want to say when someone does not pick up your FaceTime call<br/>
-- Enjoy FaceTime calls on Apple TV by using your iPhone as a camera (Apple TV 4K 2nd generation and later)<br/>
-- Reactions layer 3D effects like hearts, balloons, confetti, and more around you in video calls and can be triggered with gestures<br/>
-- Video effects allow you to adjust the intensity of Studio Lighting and Portrait mode<br/>
-<br/>
-<strong>StandBy</strong><br/>
-- Full-screen experience with glanceable information like clocks, photos, and widgets designed to view from a distance when iPhone is on its side and charging in places such as your nightstand, kitchen counter, or desk<br/>
-- Clocks are available in a variety of styles including Digital, Analog, Solar, Float, and World Clock, with elements you can personalize like the accent color<br/>
-- Photos automatically shuffle through your best shots or showcase a specific album you choose<br/>
-- Widgets give you access to information at a distance and appear in Smart Stacks that deliver the right information at the right time<br/>
-- Night Mode lets clocks, photos, and widgets take on a red tone in low light<br/>
-- Preferred view per MagSafe charger remembers your preference for each place you charge with MagSafe, whether that's a clock, photos, or widgets<br/>
-<br/>
-<strong>Widgets</strong><br/>
-- Interactive widgets let you take actions, like mark a reminder as complete, directly from the widget by tapping it on the Home Screen, Lock Screen, or in StandBy<br/>
-- iPhone widgets on Mac enable you to add widgets from your iPhone to your Mac desktop<br/>
-<br/>
-<strong>AirDrop</strong><br/>
-- NameDrop lets you exchange contact information with someone new by bringing your iPhones close together<br/>
-- New way to initiate AirDrop allows you to share content or start a SharePlay session over AirDrop by bringing your iPhones close together<br/>
-<br/>
-<strong>Keyboard</strong><br/>
-- Improved autocorrect accuracy makes typing even easier by leveraging a powerful transformer-based language model (iPhone 12 and later)<br/>
-- Easier autocorrect editing temporarily underlines corrected words and lets you revert back to what you originally typed with just a tap<br/>
-- Enhanced sentence corrections can correct more types of grammatical mistakes when you finish sentences (iPhone 12 and later)<br/>
-- Inline predictive text shows single and multi-word predictions as you type that can be added by tapping space bar (iPhone 12 and later)<br/>
-<br/>
-<strong>Safari and Passwords</strong><br/>
-- Profiles keep your browsing separate for topics like work and personal, separating your history, cookies, extensions, Tab Groups, and favorites<br/>
-- Private Browsing enhancements include locking your private browsing windows when you're not using them, blocking known trackers from loading, and removing identifying tracking from URLs<br/>
-- Password and passkey sharing lets you create a group of passwords to share with trusted contacts that stays up to date as members of the group make changes<br/>
-- One-time verification code AutoFill from Mail autofill in Safari so you can log in without leaving the browser<br/>
-<br/>
-<strong>Music</strong><br/>
-- SharePlay makes it easy for everyone to control and play Apple Music in the car<br/>
-- Crossfade smoothly transitions between songs by fading out the currently playing song while fading in the next so the music never stops<br/>
-<br/>
-<strong>AirPlay</strong><br/>
-- Intelligent AirPlay device list makes finding the right AirPlay-compatible TV or speaker even easier by showing your devices in order of relevance, based on your preferences<br/>
-- Suggested AirPlay device connections are proactively shown to you as a notification to make it even more seamless to connect to your preferred AirPlay devices<br/>
-- Automatic AirPlay device connections are made between your iPhone and the most relevant AirPlay-compatible device so all you have to do is tap "Play" to begin enjoying your content<br/>
-<br/>
-<strong>AirPods</strong><br/>
-- Adaptive Audio delivers a new listening mode that dynamically blends Active Noise Cancellation and Transparency to tailor the noise control experience based on the conditions of your environment (AirPods Pro (2nd generation) with firmware version 6A300 or later)<br/>
-- Personalized Volume adjusts the volume of your media in response to your environment and listening preferences over time (AirPods Pro (2nd generation) with firmware version 6A300 or later)<br/>
-- Conversation Awareness lowers your media volume and enhances the voices of the people in front of the user, all while reducing background noise (AirPods Pro (2nd generation) with firmware version 6A300 or later)<br/>
-- Press to mute and unmute your microphone by pressing the AirPods stem or the Digital Crown on AirPods Max when on a call (AirPods (3rd generation), AirPods Pro (1st and 2nd generation), or AirPods Max with firmware version 6A300 or later)<br/>
-<br/>
-<strong>Maps</strong><br/>
-- Offline Maps allow you to select an area you want to access, search, and explore rich information for places to download for use when your iPhone doesn't have a Wi-Fi or cellular signal<br/>
-- EV routing improvements give you routes based on real-time EV charger availability for supported chargers<br/>
-<br/>
-<strong>Siri</strong><br/>
-- Option to say "Siri" in addition to "Hey Siri" for an even more natural way to make requests<br/>
-- Back-to-back requests can be issued without needing to reactivate Siri in between commands (iPhone 11 and later)<br/>
-<br/>
-<strong>Visual Look Up</strong><br/>
-- Expanded domains in Visual Look Up help you discover similar recipes from photos of food, Maps information from photos of storefronts, and the meaning of signs and symbols on things like laundry tags<br/>
-- Multiple or single subjects can be lifted from the background of photos and videos and placed into apps like Messages<br/>
-- Visual Look Up in Video helps you learn about objects that appear in paused video frames<br/>
-- Visual Look Up for subjects in photos enables you to look up information about objects you lift from photos directly from the callout bar<br/>
-<br/>
-<strong>Health</strong><br/>
-- State of Mind reflection allows you to log your momentary emotion and daily mood, choose what factors are having the biggest impact on you, and describe your feelings<br/>
-- Interactive charts give you insights into your state of mind, how it has changed over time, and what factors may have influence such as exercise, sleep, and mindful minutes<br/>
-- Mental health assessments help you understand your current risk for depression and anxiety and if you might benefit from getting support<br/>
-- Screen Distance leverages the TrueDepth camera that powers Face ID to encourage you to increase the distance you view your device to reduce digital eye strain and can help reduce the risk of myopia in children<br/>
-<br/>
-<strong>Privacy</strong><br/>
-- Sensitive Content Warnings can be enabled to prevent users from unexpectedly being shown images containing nudity in Messages, AirDrop, Contact Posters in the Phone app, and FaceTime messages<br/>
-- Expanded Communication Safety protections for children now detect videos containing nudity in addition to photos that children may receive or attempt to send in Messages, AirDrop, Contact Posters in the Phone app, FaceTime messages, and the system Photo picker<br/>
-- Improved sharing permissions give you even more control over what you share with apps, with an embedded photo picker and an add-only Calendar permission<br/>
-- Link tracking protection removes extra information from links shared in Messages, Mail, and Safari Private Browsing that some websites use in their URLs to track you across other websites, and links still work as expected<br/>
-<br/>
-<strong>Accessibility</strong><br/>
-- Assistive Access distills apps and experiences to their essential features in Phone and FaceTime, Messages, Camera, Photos, and Music, including large text, visual alternatives, and focused choices to lighten cognitive load<br/>
-- Live Speech lets you type what you want to say and have it be spoken out loud in phone calls, FaceTime calls, and for in-person conversations<br/>
-- Personal Voice enables users who are at risk of losing their voice to privately and securely create a voice that sounds like them on iPhone, and use it with Live Speech in phone and FaceTime calls<br/>
-- Point and Speak in Magnifier Detection Mode uses iPhone to read text out loud on physical objects with small text labels, such as keypads on doors and buttons on appliances<br/>
-<br/>
-<strong>This release also includes other features and improvements:</strong><br/>
-- Roadside Assistance via satellite lets you contact AAA to help you with vehicle issues when out of Wi-Fi or cellular range (iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max)<br/>
-- Pets in the People album in Photos surfaces individual pets in the album just like friends or family members<br/>
-- Photos Album widget lets you select a specific album from the Photos app to appear in the widget<br/>
-- Item sharing in Find My allows you to share an AirTag or Find My network accessory with up to five other people<br/>
-- Activity History in Home displays a recent history of events for door locks, garage doors, security systems, and contact sensors<br/>
-- Grid Forecast in Home shows when your electrical grid has cleaner energy sources available (Contiguous US only)<br/>
-- Grocery Lists in Reminders automatically group related items into sections as you add them<br/>
-- Inline PDFs and document scans in Notes are presented full-width, making them easy to view and mark them up<br/>
-- New Memoji stickers in Keyboard include Halo, Smirk, and Peekaboo<br/>
-- App Shortcuts in Spotlight Top Hit offer you app shortcuts to your next action when you search for an app<br/>
-- Redesigned Sharing tab in Fitness provides highlights of your friends' activity like workout streaks and awards<br/>
-- Email or phone number sign-in lets you sign into your iPhone with any email address or phone number listed in your Apple ID account<br/>
-- New drawing tools in Freeform include a fountain pen, watercolor brush, ruler and more to create expressive boards<br/>
-- Crash Detection optimizations (iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max)</blockquote><br/>
-<h2>More Information and Discussion</h2><br/>
-Don't forget to <a href="https://www.macrumors.com/roundup/ios-17/">visit our full iOS 17 roundup</a> as well as <a href="https://www.macrumors.com/roundup/ipados-17/">our iPadOS 17 roundup</a>. You can also discuss all of the new features in our <a href="https://forums.macrumors.com/forums/ios-17.241/">dedicated iOS 17 forum</a> and our <a href="https://forums.macrumors.com/forums/ipados-17.242/">iPadOS 17 forum</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/18/apple-releases-ios-17/">Apple Releases iOS 17 With StandBy, Live Voicemail, Improved Autocorrect, FaceTime Video Messages and Tons More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-17-with-standby-live-voicemail-improved-autocorrect-facetime-video-messages-and-tons-more.2403033/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
