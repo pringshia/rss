@@ -14,12 +14,51 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 20 Sep 2023 21:02:45 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 21 Sep 2023 01:03:14 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>WSJ: Apple&#039;s 5G Modem Prototypes &#039;Three Years Behind Qualcomm&#039;s Best Chip&#039;</title>
+		<link>https://www.macrumors.com/2023/09/21/apple-wsj-5gm-modem-project-challenges/</link>
+		<comments>https://forums.macrumors.com/threads/wsj-apples-5g-modem-prototypes-three-years-behind-qualcomms-best-chip.2403600/</comments>
+		<pubDate>Thu, 21 Sep 2023 00:57:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/21/apple-wsj-5gm-modem-project-challenges/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>Wall Street Journal</category>
+		<category>Qualcomm</category>
+		<category>Apple vs. Qualcomm</category>
+		<category>Apple 5G Modem</category>
+		
+
+		<description><![CDATA[In the last few years, Apple has spent billions of dollars attempting to develop its own modem chip to replace the Qualcomm modem chips that it uses in iPhones, but a new paywalled <em><a href="https://www.wsj.com/tech/apple-iphone-modem-chip-failure-6fe33d19">Wall Street Journal</a></em> report suggests Apple's approach to the project has been dogged by unrealistic goals, a poor understanding of the challenges involved, and completely unusable prototypes.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/02/5G-Modem-Feature-Blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-886940" /><br/>
+Apple's plan to design its own in-house modem led to the hiring of thousands of engineers: Apple <a href="https://www.macrumors.com/2019/07/25/apple-intel-acquisition/">acquired</a> the majority of Intel's smartphone modem business in 2019, and as it filled the project's ranks with Intel engineers and others hired from Qualcomm, company executives set a goal to have the modem chip ready for fall 2023. <br/>
+<br/>
+The modem chip project was codenamed Sinope, after the nymph in Greek mythology who outsmarted Zeus. <br/>
+<br/>
+However, "it soon became apparent to many of the wireless experts on the project that meeting the goal was impossible," according to the report.<br/>
+<br/>
+The obstacles to finishing the chip were "largely of Apple's own making," according to former company engineers and executives familiar with the project who spoke to <em>WSJ</em>. Teams working on the project were "slowed by technical challenges, poor communication and managers split over the wisdom of trying to design the chips rather than buy them." <br/>
+<br/>
+From the report:<br/>
+<blockquote>Apple had planned to have its modem chip ready to use in the new iPhone models. But tests late last year found the chip was too slow and prone to overheating. Its circuit board was so big it would take up half an iPhone, making it unusable.<br/>
+<br/>
+Teams were siloed in separate groups across the U.S. and abroad without a global leader. Some managers discouraged the airing of bad news about delays or setbacks from engineers, leading to unrealistic goals and blown deadlines.<br/>
+<br/>
+"Just because Apple builds the best silicon on the planet, it's ridiculous to think that they could also build a modem," said former Apple wireless director Jaydeep Ranade, who left the company in 2018, the year the project began.</blockquote>Apple's ability to design its own microprocessors for iPhones and iPads reportedly caused the company to think it could build modem chips. However, such chips transmit and receive wireless data from various types of wireless networks, and must comply with strict connectivity standards to serve wireless carriers around the world, making them a significantly more challenging undertaking.<br/>
+<br/>
+Executives reportedly better understood the challenge after Apple tested its prototypes late last year. The results weren't good, according to people familiar with the tests who spoke to <em>WSJ</em>. The chip was too slow and prone to overheating, while its circuit board was so big it would take up half an iPhone, making it unusable. The chips were "essentially three years behind Qualcomm's best modem chip," and using them threatened to make iPhone wireless speeds slower than its competitors.<br/>
+<br/>
+Apple was forced to <a href="https://www.macrumors.com/2019/04/16/apple-qualcomm-settlement/">settle its lawsuit</a> with Qualcomm and has since used Qualcomm 5G modem chips for its latest ‌iPhone‌ and iPad lineups. As it stands, 2025 may be the soonest that the technology is finally advanced enough for Apple to phase out Qualcomm, according to the report's sources. <br/>
+<br/>
+"These delays indicate Apple didn't anticipate the complexity of the effort," said Serge Willenegger, a former longtime Qualcomm executive who spoke to <em>WSJ</em>. "Cellular is a monster." Underlining the significance of Apple's setback, the company last week <a href="https://www.macrumors.com/2023/09/11/apple-extends-deal-with-qualcomm-as-modem-delayed/">extended</a> its agreement to obtain modems from Qualcomm for three more years.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/wsj-com/">Wall Street Journal</a>, <a href="https://www.macrumors.com/guide/qualcomm/">Qualcomm</a>, <a href="https://www.macrumors.com/guide/apple-vs-qualcomm/">Apple vs. Qualcomm</a>, <a href="https://www.macrumors.com/guide/apple-5g-modem/">Apple 5G Modem</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/21/apple-wsj-5gm-modem-project-challenges/">WSJ: Apple&#039;s 5G Modem Prototypes &#039;Three Years Behind Qualcomm&#039;s Best Chip&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/wsj-apples-5g-modem-prototypes-three-years-behind-qualcomms-best-chip.2403600/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>New &#039;Orion&#039; App Turns Your iPad Into an HDMI Display for a Console or Mac</title>
@@ -550,30 +589,6 @@ Amazon has a delivery estimate ranging between September 27 and September 30. B&
 The iPad Pro deal today follows in the footsteps of a <a href="https://www.macrumors.com/2023/09/18/deals-9th-10th-gen-ipad/">few other iPad deals</a> we tracked yesterday. This includes the 10th generation iPad for &#36;399.00 and the 9th generation iPad for &#36;269.99, both of which are still available.<br/>
 <br/>
 Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/19/deals-128gb-wi-fi-ipad-pro/">Deals: Get Apple&#039;s 128GB Wi-Fi 12.9-Inch iPad Pro for &#36;100 Off at &#36;999</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-get-apples-128gb-wi-fi-12-9-inch-ipad-pro-for-100-off-at-999.2403306/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Starts Selling Refurbished 2023 M2 Ultra Mac Pro at a Discount</title>
-		<link>https://www.macrumors.com/2023/09/19/refurbished-m2-ultra-mac-pro/</link>
-		<comments>https://forums.macrumors.com/threads/apple-starts-selling-refurbished-2023-m2-ultra-mac-pro-at-a-discount.2403304/</comments>
-		<pubDate>Tue, 19 Sep 2023 10:16:56 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/19/refurbished-m2-ultra-mac-pro/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>Mac Pro</category>
-		<category>Apple Refurbished Products</category>
-		
-
-		<description><![CDATA[Apple today added the <a href="https://www.macrumors.com/guide/m2/">M2</a> Ultra <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a> models to its <a href="https://www.apple.com/shop/refurbished/mac/mac-pro">online store for refurbished products</a> in the United States, offering the newest version of the desktop machine at a discounted price for the first time since its launch.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/01/Mac-Pro-Feature-Red.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-880542" /><br/>
-A refurbished version of the base &zwnj;M2&zwnj; Ultra &zwnj;Mac Pro&zwnj; with 24-core CPU, 60-core GPU, 64GB RAM, and 1TB SSD is priced at &#36;5,949, &#36;1,050 off of the regular &#36;6,999 price for a 16 percent discount.<br/>
-<br/>
-Apple has multiple &zwnj;M2&zwnj; Ultra &zwnj;Mac Pro&zwnj; configurations available for purchase at the current time, all with similar discounts and up to &#36;1,500 off of the standard price. Supplies of the &zwnj;M2&zwnj; Ultra &zwnj;Mac Pro&zwnj; models will shift over time as Apple adds new machines, so if you're after a specific configuration, you may need to check the refurbished site often.<br/>
-<br/>
-Introduced in June 2023, the &zwnj;M2&zwnj; Ultra &zwnj;Mac Pro&zwnj; models were the final Macs to transition to Apple silicon. Aside from the new Apple chip design, the &zwnj;Mac Pro&zwnj; models have the same design as the prior-generation Intel &zwnj;Mac Pro&zwnj;. Refurbished &zwnj;Mac Pro&zwnj; models ship with power cord, a mouse, and a Magic Keyboard with <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>.<br/>
-<br/>
-All of Apple's refurbished Macs are close to identical to new products. They are subject to a refurbishment process that includes full functionality testing, with any defective modules replaced, as well as a thorough cleaning and inspection. Refurbished products are eligible for <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a>+ and have the same 14-day return period as new Apple devices.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-refurbished/">Apple Refurbished Products</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Pro">Mac Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-pro.1">Mac Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/19/refurbished-m2-ultra-mac-pro/">Apple Starts Selling Refurbished 2023 M2 Ultra Mac Pro at a Discount</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-starts-selling-refurbished-2023-m2-ultra-mac-pro-at-a-discount.2403304/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
