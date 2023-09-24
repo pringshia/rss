@@ -14,12 +14,127 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Sun, 24 Sep 2023 09:03:04 PDT</lastBuildDate>
+	<lastBuildDate>Sun, 24 Sep 2023 13:02:22 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>macOS Sonoma Launching This Week With These New Features</title>
+		<link>https://www.macrumors.com/2023/09/24/macos-sonoma-launch-date-and-features/</link>
+		<comments>https://forums.macrumors.com/threads/macos-sonoma-launching-this-week-with-these-new-features.2404446/</comments>
+		<pubDate>Sun, 24 Sep 2023 12:45:54 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/24/macos-sonoma-launch-date-and-features/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple previously announced that macOS Sonoma will be <a href="https://www.macrumors.com/2023/09/12/macos-sonoma-official-release-date-announced/">released this Tuesday, September 26</a>. The free software update includes many new features and changes for the Mac, including the five that we have highlighted below.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/Apple-WWDC23-macOS-Sonoma-hero.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-900893" /><br/>
+In addition to these five features, we have shared the full release notes for macOS Sonoma below for a complete overview of everything new.<br/>
+<br/>
+<h2>Desktop Widgets</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/06/macOS-Sonoma-Widgets.jpeg" alt="" width="1600" height="894" class="aligncenter size-full wp-image-898329" /><br/>
+macOS Sonoma brings widgets to the desktop on the Mac, and they are now fully interactive like on the iPhone. It is even possible to use widgets from your iPhone apps automatically, without having to install the corresponding Mac apps.<br/>
+<br/>
+<ul><li><strong>Related:</strong> <a href="https://www.macrumors.com/guide/how-widgets-work-macos-sonoma/">Here's How Interactive Widgets Work in macOS Sonoma</a></li></ul><br/>
+<br/>
+<h2>Game Mode</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/06/Apple-WWDC23-macOS-Sonoma-gaming-230605.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-898499" /><br/>
+<br/>
+macOS Sonoma <a href="https://www.macrumors.com/2023/06/05/macos-14-game-mode/">features a new Game Mode</a> that temporarily prioritizes CPU and GPU performance for gaming on Apple silicon Macs. Game Mode also reduces audio latency for AirPods and input latency for select game controllers connected via Bluetooth.<br/>
+<br/>
+<h2>Web Apps in Dock</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/09/macOS-Sonoma-Web-App-1.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-913423" /><br/>
+<br/>
+On macOS Sonoma, any website can be added to the Dock as a web app for convenient access. To create a web app, load the website in Safari, open the File menu, and select Add to Dock. Web apps offer a simplified toolbar and support push notifications.<br/>
+<br/>
+<ul><li><strong>Related:</strong> <a href="https://www.macrumors.com/2023/06/14/how-web-apps-work-macos-sonoma/">Here's How Web Apps Work in macOS Sonoma</a></li></ul><br/>
+<br/>
+<h2>New Screen Savers and Wallpapers</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/08/macos-sonoma-new-aerial-wallpaper.jpg" alt="" width="2381" height="1339" class="aligncenter size-full wp-image-908212" /><br/>
+macOS Sonoma adds <a href="https://www.macrumors.com/2023/08/30/macos-sonoma-beta-7-wallpapers/">new Apple TV-like aerial screen savers</a> that feature slow-motion videos of places around the world, such as Yosemite National Park and Dubai. Each screen saver can transition to a matching desktop wallpaper.<br/>
+<br/>
+<h2>Safari Profiles</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/09/macOS-Sonoma-Safari-Profiles.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-913427" /><br/>
+The latest version of Safari introduced support for profiles, allowing you to keep your browsing separate for work, personal life, and more. Apple says each profile has separate history, cookies, extensions, Tab Groups, and favorites. <br/>
+<br/>
+<h2>macOS Sonoma Compatibility</h2>macOS Sonoma is compatible with the following Macs:<ul><li><strong>MacBook Pro:</strong> 2018 and later</li><br/>
+<li><strong>MacBook Air:</strong> 2018 and later</li><br/>
+<li><strong>Mac mini:</strong> 2018 and later</li><br/>
+<li><strong>iMac:</strong> 2019 and later</li><br/>
+<li><strong>iMac Pro:</strong> 2017</li><br/>
+<li><strong>Mac Studio:</strong> 2022 and later</li><br/>
+<li><strong>Mac Pro:</strong> 2019 and later</li></ul><h2>macOS Sonoma Release Notes</h2><blockquote>macOS Sonoma brings all‑new capabilities that elevate your productivity and creativity. Discover even more ways to personalize your Mac with stunning screensavers and widgets that you can add to your desktop. Elevate your presence on video calls with a new way to present your work that keeps you a part of the presentation. Safari profiles and web apps help you organize your browsing in all-new ways. Game Mode boosts your gaming performance. Sonoma also brings big updates to Messages, Keyboard, and Accessibility. And when you upgrade, you get the latest security and privacy protections available for Mac.<br/>
+<br/>
+<strong>Screen Savers</strong><br/>
+- Stunning screen savers of locations from around the world seamlessly become your desktop wallpaper when you log-in<br/>
+- Shuffle settings for rotating through screensavers by theme including Landscape, Cityscape, Underwater, and Earth<br/>
+<br/>
+<strong>Widgets</strong><br/>
+- Widgets can be placed anywhere on the desktop and adapt to the color of your wallpaper while working in apps<br/>
+- iPhone widgets can be added to your Mac when your iPhone is nearby or on the same Wi-Fi network<br/>
+- Interactive widgets let you take actions directly from the widget such as running a shortcut, pausing media, and more<br/>
+<br/>
+<strong>Video Conferencing</strong><br/>
+- Presenter Overlay keeps you front and center while sharing your screen in FaceTime or third-party video conferencing apps (Mac with Apple silicon)<br/>
+- Reactions layer 3D effects like hearts, balloons, confetti, and more around you in video calls and can be triggered with gestures (Mac with Apple silicon, Continuity Camera with iPhone 12 and later)<br/>
+<br/>
+<strong>Safari and Passwords</strong><br/>
+- Profiles keep your browsing separate for topics like work and personal, separating your history, cookies, extensions, Tab Groups, and favorites<br/>
+- Web apps let you use any website like an app, complete with an icon in the Dock for faster access and a simplified toolbar for easier browsing<br/>
+- Enhanced Private Browsing locks your private browsing windows when you’re not using them, blocks known trackers from loading, and removes tracking that identifies you from URLs<br/>
+- Password and passkey sharing allows you to easily share accounts with trusted contacts<br/>
+<br/>
+<strong>Messages</strong><br/>
+- Live Stickers sync from iOS and iPadOS to macOS, giving you access to the Live Stickers you create on your iPhone and iPad<br/>
+- Search filters for people, keywords, and content types like photos or links help you more easily find what you are looking for<br/>
+- Swipe to reply inline on any iMessage bubble<br/>
+<br/>
+<strong>Gaming</strong><br/>
+- Game Mode gives games the highest priority on the CPU and GPU, delivering more consistent frame rates and lower latency to wireless controllers and AirPods (Mac with Apple silicon)<br/>
+<br/>
+<strong>Keyboard</strong><br/>
+- Improved autocorrect accuracy makes typing even easier by leveraging a more powerful transformer-based language model<br/>
+- Inline predictive text shows single- and multi-word predictions that you can add by pressing the Space bar<br/>
+- Improved Dictation experience supports using your voice and keyboard together to enter and edit text<br/>
+<br/>
+<strong>AirPods</strong><br/>
+- Adaptive Audio delivers a new listening mode that dynamically blends Active Noise Cancellation and Transparency to tailor the noise control experience based on the conditions of your environment (AirPods Pro (2nd generation) with the latest firmware)<br/>
+- Personalized Volume adjusts the volume of your media in response to your environment and listening preferences over time (AirPods Pro (2nd generation) with the latest firmware)<br/>
+- Conversation Awareness lowers your media volume and enhances the voices of the people in front of the user, all while reducing background noise (AirPods Pro (2nd generation) with the latest firmware)<br/>
+- Press to mute and unmute your microphone by pressing the AirPods stem or the Digital Crown on AirPods Max when on a call (AirPods (3rd generation), AirPods Pro (1st and 2nd generation), or AirPods Max with the latest firmware)<br/>
+- Improved AirPods automatic switching now detects Mac up to 2X faster (AirPods (2nd and 3rd generation), AirPods Pro (1st and 2nd generation), AirPods Max with the latest firmware)<br/>
+<br/>
+<strong>Privacy</strong><br/>
+- Sensitive Content Warnings can be enabled to help prevent users from unexpectedly viewing sensitive images in Messages<br/>
+- Expanded Communication Safety protections for children now detect videos containing nudity in addition to photos shared through Messages and the system Photos picker<br/>
+- Improved sharing permissions let you choose which photos to share and add calendar events without providing access to your entire photo library or calendar<br/>
+<br/>
+<strong>Accessibility</strong><br/>
+- Live Speech lets you type what you want to say and reads it aloud in FaceTime calls or in-person conversations<br/>
+- Personal Voice helps users at risk of speech loss create a voice that sounds like them in a private and secure way using on-device machine learning<br/>
+- Made for iPhone compatible hearing devices can be paired and used with Mac (MacBook Pro (2021), Mac Studio (2022), and Mac computers with M2 chip)<br/>
+<br/>
+<strong>This release also includes other features and improvements:</strong><br/>
+- One-Time verification code AutoFill from Mail helps you quickly sign into sites in Safari, without leaving the browser<br/>
+- Inline PDFs and document scans in Notes are presented full-width making them easy to view<br/>
+- Grocery Lists in Reminders automatically group related items into sections as you add them<br/>
+- Visual Look Up for recipes helps you find similar dishes from photo<br/>
+- Visual Look Up in video helps you learn about objects that appear in paused video frames<br/>
+- Pets in the People album in Photos surfaces individual pets just like friends or family members<br/>
+- Option to say "Siri" in addition to "Hey Siri" for a more natural way to activate Siri (Mac with Apple silicon, AirPods Pro (2nd generation))<br/>
+- High performance mode in Screen Sharing supports color workflows and improves responsiveness while remotely accessing a Mac (Mac with Apple silicon)<br/>
+- Item sharing in Find My allows you to share an AirTag with up to five other people<br/>
+- Activity History in Home displays a recent history of events for door locks, garage doors, security systems, and contact sensors<br/>
+- Battery health management updated on 13-inch MacBook Air with M2 chip to better optimize long term battery health<br/>
+<br/>
+Some features may not be available for all regions or on all Apple devices.</blockquote>macOS Sonoma should be released at approximately 10 a.m. Pacific Time / 1 p.m. Eastern Time on Tuesday. Once the update is available, it can be installed from the System Settings app under General → Software Update.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/24/macos-sonoma-launch-date-and-features/">macOS Sonoma Launching This Week With These New Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macos-sonoma-launching-this-week-with-these-new-features.2404446/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Top Stories: iOS 17, iPhone 15, and New Apple Watches Released</title>
@@ -660,26 +775,6 @@ For customers who forgot to pre-order one of the new models or simply decided to
 Raises are provided alongside employee reviews, which are done in the fall. Last year, Apple was offering bigger raises of eight to 10 percent to combat labor shortages and employee unionization efforts, but as <em>Bloomberg</em> notes, unionization campaigns have not gained traction and wage growth in the United States is down.<br/>
 <br/>
 Most of Apple's retail employees in the United States earn now &#36;22 to &#36;30 per hour, and are given restricted stock units valued at up to &#36;2,000 annually. <br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/21/apple-retail-employees-2023-raises/">Apple Retail Employees Getting Smaller Raises of Approximately 4% in 2023</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-retail-employees-getting-smaller-raises-of-approximately-4-in-2023.2403745/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Says Fingerprints Can &#039;Temporarily Alter the Color&#039; of iPhone 15 Pro&#039;s Titanium Frame</title>
-		<link>https://www.macrumors.com/2023/09/21/apple-on-iphone-15-pro-fingerprints/</link>
-		<comments>https://forums.macrumors.com/threads/apple-says-fingerprints-can-temporarily-alter-the-color-of-iphone-15-pros-titanium-frame.2403741/</comments>
-		<pubDate>Thu, 21 Sep 2023 14:48:53 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/21/apple-on-iphone-15-pro-fingerprints/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPhone 15 Pro</category>
-		
-
-		<description><![CDATA[In a <a href="https://support.apple.com/en-us/HT207123">support document</a> updated today, Apple indicates that fingerprints might "temporarily alter the color" of the titanium frame on the iPhone 15 Pro and iPhone 15 Pro Max. Fortunately, Apple says this is not a permanent condition, as the fingerprints can be wiped off just like on any other iPhone to restore a clean finish.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Fingerprints.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-913020" /><br/>
-"For iPhone 15 Pro and iPhone 15 Pro Max, the oil from your skin might temporarily alter the color of the outside band," says Apple. "Wiping your iPhone with a soft, slightly damp, lint-free cloth will restore the original look."<br/>
-<br/>
-Photos of iPhone 15 Pro models with visible fingerprints on the titanium frame have been circulating on social media since the devices were announced last week, but customers should not be concerned about permanent damage. None of this information should be a surprise, but now it is on the record from Apple.<br/>
-<br/>
-All of the iPhone 15 models launch this Friday, with orders already beginning to arrive to customers <a href="https://www.macrumors.com/2023/09/21/iphone-15-orders-nz-australia/">in Australia and New Zealand</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/21/apple-on-iphone-15-pro-fingerprints/">Apple Says Fingerprints Can &#039;Temporarily Alter the Color&#039; of iPhone 15 Pro&#039;s Titanium Frame</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-says-fingerprints-can-temporarily-alter-the-color-of-iphone-15-pros-titanium-frame.2403741/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
