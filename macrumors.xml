@@ -14,12 +14,100 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 25 Sep 2023 05:04:15 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 25 Sep 2023 09:03:04 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iPhone 16 to Feature First A-Series Chip Designed Specifically for Standard Models</title>
+		<link>https://www.macrumors.com/2023/09/25/iphone-16-first-chip-designed-for-standard/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-16-to-feature-first-a-series-chip-designed-specifically-for-standard-models.2404586/</comments>
+		<pubDate>Mon, 25 Sep 2023 06:14:12 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/iphone-16-first-chip-designed-for-standard/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>iPhone 16</category>
+		<category>Apple Silicon</category>
+		<category>Phone Chip Expert</category>
+		
+
+		<description><![CDATA[The A17 chip designed for the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> and &zwnj;iPhone 16&zwnj; Plus will be made using a fundamentally different manufacturing process to the A17 Pro in the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> to cut costs, according to a rumor that has now been clarified by a reliable source.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/A17-Feature-Dark.jpg" alt="" width="1920" height="1080" class="alignnone size-full wp-image-901448" /><br/>
+A <a href="https://weibo.com/u/1833340431">Weibo user</a> who claims to be an integrated circuit expert with 25 years of experience working on Intel's Pentium processors was first to <a href="https://www.macrumors.com/2023/06/23/apple-to-switch-tech-behind-a17-to-cut-costs/">float the rumor in June</a>. Now, the same source has clarified Apple's apparent plan for its standard iPhones' chip in 2024.<br/>
+<br/>
+The &zwnj;iPhone 15 Pro&zwnj;'s A17 Pro chip is fabricated <a href="https://www.macrumors.com/2023/05/15/apple-tsmc-3nm-production-capacity/">using TSMC's N3B process</a>, but Apple reportedly plans to switch to the lower-cost N3E process for next year's standard A17 chip designed for the &zwnj;iPhone 16&zwnj; and &zwnj;iPhone 16&zwnj; Plus. This will mark the first time that Apple has designed a chip specifically for its standard <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> models. In previous years, Apple simply gave the entire &zwnj;iPhone&zwnj; lineup the same chip before staggering them by one year between the standard and the Pro models starting with 2022's <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a>.<br/>
+<br/>
+The A15 Bionic chip in the &zwnj;iPhone 14&zwnj; and ‌‌&zwnj;iPhone 14&zwnj;‌‌ Plus is a higher binned variant with one additional GPU core than the A15 used in the ‌<a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a>‌ and ‌‌&zwnj;iPhone 13&zwnj;‌‌ mini, so some cross-generational differences despite outwardly featuring the same chip would not be unheard of, but this would effectively be the retention of the same name on a fundamentally different chip.<br/>
+<br/>
+N3B is TSMC's original <a href="https://www.macrumors.com/guide/3nm/">3nm</a> node created in partnership with Apple. N3E, on the other hand, is the simpler and cheaper node that most other TSMC clients will use. N3E has fewer EUV layers and lower transistor density than N3B, resulting in lower efficiency. N3B has also been ready for mass production for longer than N3E, but it has much lower yield. N3B was effectively designed as a trial node and is not compatible with TSMC's successor processes including N3P, N3X, and N3S, meaning that Apple has to redesign its future chips to take advantage of TSMC's innovations.<br/>
+<br/>
+Apple was originally believed to be planning to use N3B for the A16 Bionic chip, but had to revert to N4 because it was not ready in time. It is likely the case that Apple is using the N3B CPU and GPU core design <a href="https://www.macrumors.com/2022/12/23/iphone-14-pro-setback-removed-graphics-processor/">originally designed for the A16 Bionic</a> in the A17 Pro, before switching to the original A17 designs with N3E later in 2024. This architecture will presumably be iterated on through TSMC's successor nodes for chips like the "A18" and "A19."<br/>
+<br/>
+The Weibo user was first to say that the standard &zwnj;iPhone 14&zwnj; models would retain the A15 Bionic chip, with the A16 being exclusive to the &zwnj;iPhone 14&zwnj; Pro models – a rumor that went on to be widely corroborated and turned out true. Earlier this month, Haitong International Securities analyst Jeff Pu <a href="https://www.macrumors.com/2023/09/12/iphone-16-rumored-to-feature-enhanced-a17-and-8gb/">corroborated the rumor</a> about 2024's A17 chip being fabricated with N3E, adding that the &zwnj;iPhone 16&zwnj; and &zwnj;iPhone 16&zwnj; Plus will also feature 8GB of memory, up from 6GB on the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and &zwnj;iPhone 15&zwnj; Plus.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a>, <a href="https://www.macrumors.com/guide/phone-chip-expert/">Phone Chip Expert</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/iphone-16-first-chip-designed-for-standard/">iPhone 16 to Feature First A-Series Chip Designed Specifically for Standard Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-to-feature-first-a-series-chip-designed-specifically-for-standard-models.2404586/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Deals: Woot&#039;s Massive Apple Accessory Blowout Has Up to 90% Off iPhone Cases and All-Time Low Price on MagSafe Duo</title>
+		<link>https://www.macrumors.com/2023/09/25/deals-woot-apple-accessory/</link>
+		<comments>https://forums.macrumors.com/threads/deals-woots-massive-apple-accessory-blowout-has-up-to-90-off-iphone-cases-and-all-time-low-price-on-magsafe-duo.2404585/</comments>
+		<pubDate>Mon, 25 Sep 2023 06:07:10 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/deals-woot-apple-accessory/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Woot today kicked off a <a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Fplus%2Fnew-apple-accessory-blowout%3Fref%3Dw_cnt_gw_dly_snb">new Apple accessory blowout sale</a>, offering as much as 90 percent off select first-party Apple accessories. This includes iPhone cases as recent as the iPhone 14 and MagSafe chargers.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/woot-925-sale-2.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-913575" /><em><small>Note: MacRumors is an affiliate partner with Woot. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+All accessories in this sale are in new condition and come with a one year Apple limited warranty. Amazon Prime members can get free standard shipping on Woot, and you'll have until September 30 to shop these deals, but they could disappear faster if stock runs out.<br/>
+<br/>
+<div class="center-wrap"><a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Fplus%2Fnew-apple-accessory-blowout%3Fref%3Dw_cnt_gw_dly_snb"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 90% OFF</div>Woot Apple Accessory Sale</div></a></div><br/>
+<br/>
+During this event, Woot has Apple's MagSafe Duo Charger for <a href="https://www.tkqlhce.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-duo-fast-wireless-charger%3Fref%3Dw_cnt_wp_0_4"><strong>&#36;94.99</strong></a>, down from &#36;129.99, which is a new all-time low price on the accessory. You'll also find deals on iPhone leather cases, Beats earbuds, Apple Watch bands, AirTag accessories, and more. The steepest discounts are available on older products, like the iPhone 12 mini Leather Sleeve.<br/>
+<br/>
+<h2>Chargers</h2><br/>
+<ul><li><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-charger-21%3Fref%3Dw_cnt_wp_0_17">MagSafe Charger</a> - &#36;29.99, down from &#36;39.00</li><br/>
+<li><a href="https://www.tkqlhce.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-duo-fast-wireless-charger%3Fref%3Dw_cnt_wp_0_4">MagSafe Duo Charger</a> - &#36;94.99, down from &#36;129.99</li></ul><br/>
+<h2>Cases</h2><br/>
+<ul><li><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-iphone-14-plus-leather-case-with-magsafe%3Fref%3Dw_cnt_wp_0_5">iPhone 14 Plus Leather Case</a> - &#36;34.99, down from &#36;59.00</li><br/>
+<li><a href="https://www.anrdoezrs.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-iphone-14-pro-leather-case-with-magsafe%3Fref%3Dw_cnt_wp_0_3">iPhone 14 Pro Leather Case</a> - &#36;34.99, down from &#36;59.00</li><br/>
+<li><a href="https://www.anrdoezrs.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-iphone-14-pro-max-leather-case-with-magsafe%3Fref%3Dw_cnt_wp_0_1">iPhone 14 Pro Max Leather Case</a> - &#36;34.99, down from &#36;59.00</li></ul><br/>
+<h2>Audio</h2><br/>
+<ul><li><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fnew-beats-studio-buds-plus-anc-bluetooth-earbuds-2%3Fref%3Dw_cnt_wp_0_2">Beats Studio Buds+</a> - &#36;99.95, down from &#36;169.95</li></ul><br/>
+<h2>AirTag</h2><br/>
+<ul><li><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2F1-or-2-pack-apple-airtag-leather-key-ring%3Fref%3Dw_cnt_wp_0_6">AirTag Leather Key Ring</a> - &#36;12.99, down from &#36;35.00</li><br/>
+<li><a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2F1-or-2-pack-apple-airtag-leather-loop%3Fref%3Dw_cnt_wp_0_8">AirTag Leather Loop</a> - &#36;12.99, down from &#36;35.00</li></ul> Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/deals-woot-apple-accessory/">Deals: Woot&#039;s Massive Apple Accessory Blowout Has Up to 90% Off iPhone Cases and All-Time Low Price on MagSafe Duo</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-woots-massive-apple-accessory-blowout-has-up-to-90-off-iphone-cases-and-all-time-low-price-on-magsafe-duo.2404585/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 15 Pro Max Teardown: X70 Modem for Faster 5G, 5x Optical Zoom Lens, A17 Pro Chip, and More</title>
+		<link>https://www.macrumors.com/2023/09/25/iphone-15-pro-max-teardown-ifixit/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-15-pro-max-teardown-x70-modem-for-faster-5g-5x-optical-zoom-lens-a17-pro-chip-and-more.2404576/</comments>
+		<pubDate>Mon, 25 Sep 2023 05:39:09 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/iphone-15-pro-max-teardown-ifixit/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iPhone 15 Pro</category>
+		<category>iFixit</category>
+		<category>Teardown</category>
+		
+
+		<description><![CDATA[Repair website iFixit today shared a <a href="https://www.youtube.com/watch?v=hmQHgWNAg24">video teardown</a> of the new iPhone 15 Pro Max, providing a closer look inside the top-of-the-line device.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Cameras.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-913544" /><br/>
+While the iPhone 15 Pro Max has a similar internal design as the iPhone 14 Pro Max, the device has a redesigned frame that <a href="https://www.macrumors.com/2023/09/13/iphone-15-pro-models-more-repairable/">allows the back glass panel to be easily removed</a>, resulting in <a href="https://www.macrumors.com/2023/09/17/iphone-15-pro-cracked-glass-repair-fees-lower/">lower repair fees</a> for cracked glass for customers without AppleCare+ coverage. This change was first made to the iPhone 14 and iPhone 14 Plus last year.<br/>
+<br/>
+The teardown provides a brief glimpse at the iPhone 15 Pro Max's upgraded Telephoto lens with a tetraprism system, which enables 5x optical zoom. iFixit said the Main and Ultra Wide lenses on the device appear to look the same as the ones on the iPhone 14 Pro Max, in line with <a href="https://twitter.com/Tech_Reve/status/1705409878481908094">information shared on social media</a> last week. This suggests camera improvements beyond 5x optical zoom are the result of the A17 Pro chip and software optimizations. <br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/hmQHgWNAg24?si=188W1HfRxEASkBYj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
+iFixit says the iPhone 15 Pro Max has a similar logic board as the iPhone 15 Pro. In addition to the A17 Pro chip, the teardown confirms that the device is equipped with Qualcomm's Snapdragon X70 modem, which <a href="https://speedsmart.net/blog/post/2005/iPhone-15-Pro-up-to-24-Faster-5G-Download-Speeds">reportedly enables faster 5G speeds</a> as expected.<br/>
+<br/>
+Overall, iFixit gave the iPhone 15 Pro Max a low repairability score of 4/10, in part due to <a href="https://www.macrumors.com/2023/09/19/ifixit-lowers-iphone-14-repairability-score/">Apple's parts pairing requirement</a> that it says harms independent repair shops.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ifixit/">iFixit</a>, <a href="https://www.macrumors.com/guide/teardown/">Teardown</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/iphone-15-pro-max-teardown-ifixit/">iPhone 15 Pro Max Teardown: X70 Modem for Faster 5G, 5x Optical Zoom Lens, A17 Pro Chip, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-pro-max-teardown-x70-modem-for-faster-5g-5x-optical-zoom-lens-a17-pro-chip-and-more.2404576/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple to Launch iPad Mini 7 Later This Year, Industry Report Suggests</title>
@@ -500,7 +588,6 @@ Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Rou
 		<guid isPermaLink="false">https://www.macrumors.com/2023/09/22/the-macrumors-show-iphone-15-features/</guid>
 		<dc:creator>Hartley Charlton</dc:creator>
 		<category>Featured</category>
-		<category>Featured (sticky)</category>
 		<category>The MacRumors Show</category>
 		
 
@@ -676,87 +763,6 @@ Pink could be a good choice, especially when combined with the Pink Sport Band, 
 Your choice of color may also be dependent on how often you upgrade your ‌Apple Watch. If you upgrade every year or two, you may be more confident in buying a more striking new color. If you upgrade more often, it can be a good idea to get a different color every time since a new color can certainly add some novelty to purchasing a new ‌Apple Watch and make it feel more different from your previous device. Alternatively, if you plan to keep your ‌Apple Watch for many years and upgrade less often, it may be wiser to consider a neutral color or one that is more similar to one you have enjoyed previously.<br/>
 <br/>
 Customers with multiple Apple devices may also want to get an Apple Watch color that complements their other devices. For example, if you have a Midnight <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> and <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, it will be best complemented by the Midnight &zwnj;Apple Watch Series 9&zwnj;. If you already have a Gold <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> Pro, it will likely be best accompanied by a Gold stainless steel &zwnj;Apple Watch Series 9&zwnj;. Likewise, if you have a Starlight Apple Watch, it will obviously match the Starlight &zwnj;iPhone 14&zwnj; and <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/apple-watch-series-9-colors-and-finishes/">Apple Watch Series 9 Colors and Finishes: Which Should You Choose?</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-watch-series-9-colors-and-finishes-which-should-you-choose.2403871/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Deals: Anker Discounts Collection of USB-C Portable Batteries and Wall Chargers for Your New iPhone 15</title>
-		<link>https://www.macrumors.com/2023/09/22/deals-anker-usb-c-batteries-chargers/</link>
-		<comments>https://forums.macrumors.com/threads/deals-anker-discounts-collection-of-usb-c-portable-batteries-and-wall-chargers-for-your-new-iphone-15.2403862/</comments>
-		<pubDate>Fri, 22 Sep 2023 08:00:44 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/22/deals-anker-usb-c-batteries-chargers/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Anker has returned today with a collection of discounts on Amazon that offer sales on USB-C accessories perfect for the iPhone 15 and iPhone 15 Pro. These deals can only be found on Amazon and many of them require you to clip an on-page coupon before you'll see the savings.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/anker-922.jpg" alt="" width="1600" height="800" class="aligncenter size-full wp-image-913185" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Accessories on sale include a few of Anker's portable batteries with USB-C ports, a MagSafe-compatible charger stand, and a few USB-C wall chargers. This includes a <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSGH355C%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1MTQQ9ONIG1WQ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1MTQQ9ONIG1WQ_1695392107984">Compact Power Strip</a> with two USB-C ports, two USB-A ports, and two AC outlets.<br/>
-<br/>
-Another highlight of the sale is Anker's <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09TT8GZK9%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1HY9ZNVDCHPZF%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1HY9ZNVDCHPZF_1695391752782">MagSafe Charger Stand</a>, which includes space to simultaneously charge an iPhone, AirPods, and Apple Watch. This one includes a 30W USB-C wall charger and a 1.5m USB-C to USB-C cable.<br/>
-<br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C4YTB56H%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1MTQQ9ONIG1WQ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1MTQQ9ONIG1WQ_1695392060864">3-Port Compact USB-C Charger</a> - &#36;47.99 with on-page coupon, down from &#36;59.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSGH355C%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1MTQQ9ONIG1WQ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1MTQQ9ONIG1WQ_1695392107984">6-in-1 USB-C Compact Power Strip</a> - &#36;93.49 with on-page coupon, down from &#36;109.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09VPHVT2Z%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1MTQQ9ONIG1WQ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1MTQQ9ONIG1WQ_1695391997901">Power Bank 24,000 mAh with Smart Digital Display</a> - &#36;99.99, down from &#36;149.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYNZXFM2%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1MTQQ9ONIG1WQ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1MTQQ9ONIG1WQ_1695392166960">Power Bank 20,000 mAh</a> - &#36;110.49 with on-page coupon, down from &#36;129.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09TT8GZK9%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1HY9ZNVDCHPZF%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1HY9ZNVDCHPZF_1695391752782">MagSafe Charger Stand</a> - &#36;119.96 with on-page coupon, down from &#36;149.95</li></ul><br/>
-<br/>
-Earlier in the week, we tracked a <a href="https://www.macrumors.com/2023/09/19/deals-anker-discounts-accessories/">few other Anker discounts on Amazon</a>, many of which are still live. This includes sales on Eufy Bluetooth trackers, Bluetooth speakers, USB-C hubs, and more.<br/>
-<br/>
-Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/22/deals-anker-usb-c-batteries-chargers/">Deals: Anker Discounts Collection of USB-C Portable Batteries and Wall Chargers for Your New iPhone 15</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-anker-discounts-collection-of-usb-c-portable-batteries-and-wall-chargers-for-your-new-iphone-15.2403862/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Explains Why Only USB-C AirPods Pro Support Lossless Audio With Vision Pro</title>
-		<link>https://www.macrumors.com/2023/09/22/apple-on-airpods-pro-vision-pro-lossless-audio/</link>
-		<comments>https://forums.macrumors.com/threads/apple-explains-why-only-usb-c-airpods-pro-support-lossless-audio-with-vision-pro.2403852/</comments>
-		<pubDate>Fri, 22 Sep 2023 07:37:10 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/22/apple-on-airpods-pro-vision-pro-lossless-audio/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>AirPods Pro</category>
-		<category>Vision Pro</category>
-		
-
-		<description><![CDATA[In a <a href="https://www.youtube.com/watch?v=Rs6nA1egGWg">video interview with Brian Tong</a>, Apple's VP of Sensing and Connectivity Ron Huang explained why only the updated second-generation AirPods Pro with a USB-C charging case <a href="https://www.macrumors.com/2023/09/13/apple-vision-pro-lossless-new-airpods-pro-2-only/">support lossless audio with Apple's upcoming Vision Pro headset</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/Vision-Pro-Person.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-913199" /><br/>
-Huang revealed that the H2 chip in the USB-C AirPods Pro supports the 5GHz band of wireless frequencies for ultra-low latency and less interference, while the H2 chip in the original second-generation AirPods Pro with a Lightning case is limited to the 2.4GHz band. Apple says it is this 5GHz support that enables the updated AirPods Pro to support lossless audio with the Vision Pro, which is slated for release in the U.S. in early 2024.<br/>
-<br/>
-The topic is briefly discussed at around the 26-minute mark of the video, as highlighted by <a href="https://9to5mac.com/2023/09/22/airpods-pro-2-apple-vision-pro-lossless-explanation/"><em>9to5Mac</em>'s Zac Hall</a> earlier today:<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rs6nA1egGWg?si=mCAtzxHhrBiYm9ih&amp;start=1560" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<br/>
-The updated second-generation AirPods Pro began arriving to customers and launched in stores today. The earbuds are regularly priced at &#36;249 in the U.S., but they are already <a href="https://www.macrumors.com/2023/09/21/deals-new-airpods-pro-2/">on sale for &#36;199.99 on Amazon</a> with the USB-C charging case.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a>, <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Buy Now)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a>, <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/22/apple-on-airpods-pro-vision-pro-lossless-audio/">Apple Explains Why Only USB-C AirPods Pro Support Lossless Audio With Vision Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-explains-why-only-usb-c-airpods-pro-support-lossless-audio-with-vision-pro.2403852/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Deals: Apple&#039;s 512GB 15-Inch MacBook Air Drops to New Record Low Price of &#36;1,249 (&#36;250 Off) [Updated]</title>
-		<link>https://www.macrumors.com/2023/09/22/deals-512gb-15-inch-macbook-air/</link>
-		<comments>https://forums.macrumors.com/threads/deals-apples-512gb-15-inch-macbook-air-drops-to-new-record-low-price-of-1-249-250-off-updated.2403845/</comments>
-		<pubDate>Fri, 22 Sep 2023 07:11:07 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/22/deals-512gb-15-inch-macbook-air/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Amazon has all-time low prices on Apple's new 15.3-inch MacBook Air notebooks, with the highlight of the sale being a new &#36;250 discount on the 512GB model. You can get the 512GB 15.3-inch MacBook Air for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C76D4RWJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,249.00</strong></a>, down from &#36;1,499.00.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/MacBook-Air-15-Inch-Feature-Purple.jpg" alt="" width="1600" height="894" class="aligncenter size-full wp-image-898576" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-This sale is available in all four colors: Space Gray, Midnight, Starlight, and Silver. All models are in stock and have an estimated delivery date between September 24 and September 28. These notebooks debuted in June and this is a new all-time low price on the 512GB model.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C75NTC96%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-inch MacBook Air (512GB) for &#36;1,249.00</div></a></div><br/>
-<br/>
-Additionally, Amazon has the 256GB 15.3-inch MacBook Air on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C75NSLJY%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,049.00</strong></a>, down from &#36;1,299.00. This one is available in two colors (Midnight and Starlight), and has an estimated delivery date between September 24 and September 28 as well. At &#36;250 off, it's another all-time low price.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C75NSLJY%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-inch MacBook Air (256GB) for &#36;1,049.00</div></a></div><br/>
-<br/>
-The new MacBook Air features a large 15.3-inch Liquid Retina display, M2 processor, six-speaker system, two Thunderbolt ports, a 3.5mm headphone jack, and MagSafe. The 15.3-inch MacBook Air is mostly similar to the 2022 13.6-inch MacBook Air, but there are some key differences that we highlighted <a href="https://www.macrumors.com/guide/13-vs-15-inch-macbook-air/">in our buyer's guide</a>.<br/>
-<br/>
-Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<br/>
-<br/>
-<strong>Update:</strong> Amazon has further discounted the 256GB 15-inch MacBook Air, now available for &#36;1,049.00, down from &#36;1,299.00, and this article now reflects that price change. This is a new record low price.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/22/deals-512gb-15-inch-macbook-air/">Deals: Apple&#039;s 512GB 15-Inch MacBook Air Drops to New Record Low Price of &#36;1,249 (&#36;250 Off) [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-apples-512gb-15-inch-macbook-air-drops-to-new-record-low-price-of-1-249-250-off-updated.2403845/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
