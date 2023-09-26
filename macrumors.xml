@@ -14,12 +14,272 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 26 Sep 2023 09:02:57 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 26 Sep 2023 13:03:17 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Releases watchOS 10.0.2 for Apple Watch Ultra 2 and Series 9</title>
+		<link>https://www.macrumors.com/2023/09/26/apple-releases-watchos-10-0-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-watchos-10-0-2-for-apple-watch-ultra-2-and-series-9.2404873/</comments>
+		<pubDate>Tue, 26 Sep 2023 12:54:28 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/26/apple-releases-watchos-10-0-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today released watchOS 10.0.2, a minor update to the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> operating system that came out earlier this month. watchOS 10.0.2 comes five days after the <a href="https://www.macrumors.com/2023/09/21/apple-releases-watchos-10-0-1/">release of watchOS 10.0.1</a>, another minor update.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-912513" src="https://images.macrumors.com/article-new/2023/09/watchOS-10-Launch-Feature.jpg" alt="" width="2560" height="1440" /><br/>
+According to Apple's release notes for the update, watchOS 10.0.2 includes bug fixes and important security updates for the Apple Watch.<br/>
+<br/>
+&zwnj;watchOS 10&zwnj;‌.0.2 can be downloaded for free through the Apple Watch app on an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> running <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> by opening it up and going to General &gt; Software Update. To install the new software, the Apple Watch needs to have at least 50 percent battery and it needs to be placed on a charger.<br/>
+<br/>
+Today's update appears to be limited to the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and the <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>, <a href="https://www.macrumors.com/roundup/watchos-9/">watchOS 9</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/26/apple-releases-watchos-10-0-2/">Apple Releases watchOS 10.0.2 for Apple Watch Ultra 2 and Series 9</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-watchos-10-0-2-for-apple-watch-ultra-2-and-series-9.2404873/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases iOS 17.0.2 and iPadOS 17.0.2 for All iPhones and iPads</title>
+		<link>https://www.macrumors.com/2023/09/26/apple-releases-ios-17-0-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-ios-17-0-2-and-ipados-17-0-2-for-all-iphones-and-ipads.2404870/</comments>
+		<pubDate>Tue, 26 Sep 2023 12:47:27 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/26/apple-releases-ios-17-0-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released iOS 17.0.2 and iPadOS 17.0.2 updates, with the software coming five days after the <a href="https://www.macrumors.com/2023/09/21/apple-releases-ios-17-0-1/">releases of iOS 17.0.1</a> and iPadOS 17.0.1.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iOS-17.0.2-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-913923" /><br/>
+Today's iOS 17.0.2 and iPadOS 17.0.2 updates arrive as build 21A351 and can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update.<br/>
+<br/>
+Note that iOS 17.0.2 was <a href="https://www.macrumors.com/2023/09/22/warning-update-your-iphone-15-to-ios-17-0-2/">previously made available</a> for <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> owners, and those who purchased an &zwnj;iPhone 15&zwnj; were prompted to install the update during the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> setup process.<br/>
+<br/>
+Apple has now made iOS 17.0.2 available for all iPhones compatible with <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> instead of limiting it to the &zwnj;iPhone 15&zwnj;, but &zwnj;iPhone 15&zwnj; users already have the software and will not see the update.<br/>
+<br/>
+According to Apple's release notes, iOS 17.0.2 fixes an issue that could prevent transferring data directly from another &zwnj;iPhone&zwnj; during setup, an issue that affected the &zwnj;iPhone 15&zwnj; models. The <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> release notes are the same, but mention transferring from another &zwnj;iPad&zwnj;.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/26/apple-releases-ios-17-0-2/">Apple Releases iOS 17.0.2 and iPadOS 17.0.2 for All iPhones and iPads</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-17-0-2-and-ipados-17-0-2-for-all-iphones-and-ipads.2404870/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple&#039;s Eddy Cue Explains Why Google is iPhone&#039;s Default Search Engine</title>
+		<link>https://www.macrumors.com/2023/09/26/apple-on-why-google-is-default-on-iphone/</link>
+		<comments>https://forums.macrumors.com/threads/apples-eddy-cue-explains-why-google-is-iphones-default-search-engine.2404859/</comments>
+		<pubDate>Tue, 26 Sep 2023 12:04:58 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/26/apple-on-why-google-is-default-on-iphone/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Google</category>
+		<category>Eddy Cue</category>
+		
+
+		<description><![CDATA[Apple's services chief Eddy Cue today testified in the antitrust trial between the U.S. Department of Justice and Google, answering questions about a deal that sees Google set as the default search engine on the iPhone, iPad, and Mac.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/04/applegoogle.jpg" alt="" width="1306" height="734" class="aligncenter size-full wp-image-736930" /><br/>
+According to a <a href="https://www.theverge.com/2023/9/26/23891037/apple-eddy-cue-testimony-us-google">report from <em>The Verge</em></a> today, Google pays Apple billions of dollars per year in order for Google to be set as the default search engine on Apple platforms. The exact amount that Google pays Apple has not been publicly disclosed during the trial, as a lot of the testimony in the case has taken place behind closed doors.<br/>
+<br/>
+Cue reportedly last negotiated the deal between Apple and Google in 2016. When asked why Apple chose Google as its default search engine, Cue said "there wasn't a valid alternative to Google at the time," and he said there still isn't one.<br/>
+<br/>
+"We make Google be the default search engine because we've always thought it was the best," added Cue. "We pick the best one and let users easily change it."<br/>
+<br/>
+Cue acknowledged that Apple feels it is more committed to privacy than Google, but argued that the deal between the two companies requires Google to allow users to search without logging in, and said that Apple has built several privacy protections into its Safari web browser in order to ensure that users are safeguarded.<br/>
+<br/>
+Cue also admitted that Apple does not allow users to change the default search engine during the iPhone's setup process, but he said this decision supports Apple's goal of getting users "up and running as fast as possible."<br/>
+<br/>
+To change the iPhone's default search engine at any point after setup, users can simply open the Settings app, tap Safari, tap Search Engine, and select one of the available options: Google, Yahoo, Bing, DuckDuckGo, or Ecosia.<br/>
+<br/>
+<a href="https://www.theverge.com/2023/9/26/23891037/apple-eddy-cue-testimony-us-google"><em>The Verge</em></a> and <a href="https://www.nytimes.com/2023/09/26/technology/google-antitrust-trial-secrecy.html"><em>The New York Times</em></a> have additional coverage of Cue's testimony.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/google/">Google</a>, <a href="https://www.macrumors.com/guide/eddy-cue/">Eddy Cue</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/26/apple-on-why-google-is-default-on-iphone/">Apple&#039;s Eddy Cue Explains Why Google is iPhone&#039;s Default Search Engine</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-eddy-cue-explains-why-google-is-iphones-default-search-engine.2404859/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Safari 17 With Profiles, Locked Private Browsing Windows and More</title>
+		<link>https://www.macrumors.com/2023/09/26/apple-releases-safari-17/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-safari-17-with-profiles-locked-private-browsing-windows-and-more.2404852/</comments>
+		<pubDate>Tue, 26 Sep 2023 11:46:59 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/26/apple-releases-safari-17/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>macOS Monterey</category>
+		<category>macOS Ventura</category>
+		<category>Safari</category>
+		
+
+		<description><![CDATA[Apple today released Safari 17, the newest version of the Safari browser. Safari 17 can be downloaded on macOS Monterey and <a href="https://www.macrumors.com/roundup/macos-13/">macOS Ventura</a>, and it brings some of the <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> features to older operating systems.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/01/safari-icon-blue-banner.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-833485" /><br/>
+Safari 17 introduces support for Profiles, so browsing can be separated into topics like work and personal, plus it adds enhanced private browsing functionality that locks the private browser when it is not in use.<br/>
+<br/>
+Apple says that search has been improved to provide more relevant results, and multiple tabs can be selected to add them to the tab bar or a Tab Group. Apple's full release notes for the update are below:<blockquote>Safari 17 introduces new features, even faster performance, and improved security.<br/>
+<br/>
+- Profiles keep your browsing separate for topics like work and personal, separating your history, cookies, extensions, Tab Groups, and Favorites<br/>
+- Enhanced Private Browsing locks your private browsing windows when you're not using them, blocks known trackers from loading, and removes identifying tracking from URLs<br/>
+- Streamlined search offers more relevant, faster, and easier-to-read results<br/>
+- Multiple tab selection allows you to select multiple tabs at once and move them around the tab bar or create a Tab Group<br/>
+<br/>
+Some features may not be available for all regions, or on all Apple devices.</blockquote>Safari can be downloaded from the System Settings menu on &zwnj;macOS Ventura&zwnj; or in System Preferences on macOS Monterey.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-13/">macOS Ventura</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari/">Safari</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/macos-monterey.234">macOS Monterey</a>, <a href="https://forums.macrumors.com/forums/macos-ventura.239">macOS Ventura</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/26/apple-releases-safari-17/">Apple Releases Safari 17 With Profiles, Locked Private Browsing Windows and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-17-with-profiles-locked-private-browsing-windows-and-more.2404852/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Studio Display Firmware 17 With Improvements to Built-In Camera</title>
+		<link>https://www.macrumors.com/2023/09/26/apple-studio-display-firmware-17/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-studio-display-firmware-17-with-improvements-to-built-in-camera.2404841/</comments>
+		<pubDate>Tue, 26 Sep 2023 11:10:56 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/26/apple-studio-display-firmware-17/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>Displays</category>
+		
+
+		<description><![CDATA[Alongside <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, Apple today released a Studio Display 17 firmware update after several months of beta testing. The update includes improvements to the camera, and it is available after updating to &zwnj;macOS Sonoma&zwnj;.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-839183" src="https://images.macrumors.com/article-new/2022/03/apple-studio-display-blue.jpg" alt="" width="2250" height="1266" /><br/>
+The Studio Display firmware can be updated by connecting the display to a Mac. Studio Display owners can go to System Preferences &gt; Software Update to install the firmware.<br/>
+<br/>
+According to Apple's release notes, the update adds support for zoom, recenter, and manual framing for the built-in camera in the Studio Display, plus it includes minor stability improvements.<br/>
+<br/>
+Apple has been improving the Studio Display camera since the device first launched and it <a href="https://www.macrumors.com/review/apple-studio-display/">was criticized</a> for poor camera quality. Back in April of 2022, Apple released firmware to improve the functionality of the built-in camera, improving the contrast, colors, and overall look.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/displays/">Apple Pro Display XDR</a>, <a href="https://www.macrumors.com/roundup/studio-display/">Apple Studio Display</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-accessories.77">Mac Accessories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/26/apple-studio-display-firmware-17/">Apple Releases Studio Display Firmware 17 With Improvements to Built-In Camera</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-studio-display-firmware-17-with-improvements-to-built-in-camera.2404841/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Kuo: Low-Cost Apple Vision Pro Might Be Canceled</title>
+		<link>https://www.macrumors.com/2023/09/26/low-cost-vision-pro-canceled/</link>
+		<comments>https://forums.macrumors.com/threads/kuo-low-cost-apple-vision-pro-might-be-canceled.2404831/</comments>
+		<pubDate>Tue, 26 Sep 2023 10:13:14 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/26/low-cost-vision-pro-canceled/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Vision Pro</category>
+		<category>Featured</category>
+		<category>Ming-Chi Kuo</category>
+		
+
+		<description><![CDATA[Apple <a href="https://medium.com/@mingchikuo/apple-vision-pro-shipment-growth-may-be-below-market-expectations-apple-vision-pro出貨成長可能低於市場預期-7a5eeb613ab0">may have canceled plans</a> to produce a lower-cost version of the <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> headset, according to Apple analyst <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a>. There were multiple rumors of a lower-cost model coming out sometime around 2025, but that may not happen.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Blue-Magenta.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-898550" /><br/>
+Kuo does not give a reason for why the lower-cost headset may have been nixed, but he says that unless Apple significantly cuts down on cost, significant shipment growth in Vision Pro shipments may not happen in 2025. Kuo expects Apple to ship approximately 400,000 to 600,000 headsets in 2024, and he says that while it will provide an "excellent experience," it may take "longer than the market expects" to become Apple's next star product. <br/>
+<br/>
+A second-generation version of the &zwnj;Apple Vision Pro&zwnj; is expected to go into mass production by the first half of 2027 "at the latest," and Kuo says that it is possible there will be no hardware updates for the Vision Pro until then.<br/>
+<br/>
+Both <em>The Information</em> and <em>Bloomberg</em> have suggested that Apple is <a href="https://www.macrumors.com/2023/01/17/apple-cheaper-ar-vr-headset/">working on a more affordable version</a> of the &zwnj;Apple Vision Pro&zwnj; headset. The initial version will be priced at &#36;3,500, which will put it out of reach of many Apple customers. <br/>
+<br/>
+The rumors have said that Apple is developing a budget-friendly model that could be closer in price to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, but given the high price of the current model, it is unclear how rapidly Apple could bring component costs down. If Apple does indeed continue work on a more affordable model, it could feature lower resolution internal displays and cheaper build materials. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/26/low-cost-vision-pro-canceled/">Kuo: Low-Cost Apple Vision Pro Might Be Canceled</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-low-cost-apple-vision-pro-might-be-canceled.2404831/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases macOS Sonoma With New Widget Features, Safari Updates, Screen Sharing Improvements and More</title>
+		<link>https://www.macrumors.com/2023/09/26/apple-releases-macos-sonoma/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-macos-sonoma-with-new-widget-features-safari-updates-screen-sharing-improvements-and-more.2404826/</comments>
+		<pubDate>Tue, 26 Sep 2023 10:01:37 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/26/apple-releases-macos-sonoma/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple <a href="https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/">today released macOS 14 Sonoma</a>, the newest version of the operating system that runs on the Mac. <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> has been in beta testing for several months, and it is compatible with the 2019 and later <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, the &zwnj;iMac&zwnj; Pro, the 2018 and later <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a>, the 2018 and later MacBook Pro, the 2019 and later <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a>, and the <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/macos-sonoma-4.jpg" alt="" width="2336" height="1314" class="aligncenter size-full wp-image-900182" /><br/>
+The ‌&zwnj;macOS Sonoma&zwnj; update can be downloaded for free on all eligible Macs using the Software Update section of System Settings.<br/>
+<br/>
+&zwnj;macOS Sonoma&zwnj; adds interactive widgets to the desktop, bringing them out of the Today view and making them more prominent and useful. With Continuity, you can even see and interact with your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> widgets on your Mac.<br/>
+<br/>
+There are a range of new Apple TV-like screensavers that feature slow-motion videos of worldwide locations, along with matching desktop wallpapers. Apple added a new Game Mode for Macs with Apple silicon chips, and this option prioritizes games on the CPU and GPU for smoother performance.<br/>
+<br/>
+Video conferencing gets a boost with a Presenter Overlay effect for sharing content, plus there's a high performance mode for Screen Sharing that offers higher frame rates and low-latency audio so pros can access their content creation workflows from anywhere.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/tgeqM3RqhF4" title="macOS Sonoma: Best Features You Need to Know!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
+Safari's Private Browsing mode is locked behind <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>, Profiles can be used to separate work and personal browsing, and there are improved tracking and fingerprinting protections to preserve your privacy. You can save your favorite websites as web apps on the desktop or the dock, and they will work as regular apps with a simplified toolbar.<br/>
+<br/>
+Many of the features that are in <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> are also in &zwnj;macOS Sonoma&zwnj;. The Messages app supports a new stickers experience that turns all emoji into stickers, the People album can recognize pets, and Visual Lookup works with videos and can recognize food and identify symbols on labels and signs.<br/>
+<br/>
+<a href="https://www.macrumors.com/guide/airtags/">AirTags</a> can be shared with other people using <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a>, <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Keychain passwords can be shared with friends and family members, the Notes app supports inline PDFs, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> can now be activated without saying "Hey." Apple's full release notes for the update are below.<blockquote>macOS Sonoma brings all‑new capabilities that elevate your productivity and creativity. Discover even more ways to personalize your Mac with stunning screensavers and widgets that you can add to your desktop. Elevate your presence on video calls with a new way to present your work that keeps you a part of the presentation. Safari profiles and web apps help you organize your browsing in all-new ways. Game Mode boosts your gaming performance. Sonoma also brings big updates to Messages, Keyboard, and Accessibility. And when you upgrade, you get the latest security and privacy protections available for Mac.<br/>
+<br/>
+<strong>Screen Savers</strong><br/>
+Stunning screen savers of locations from around the world seamlessly become your desktop wallpaper when you log-in<br/>
+- Shuffle settings for rotating through screensavers by theme including Landscape, Cityscape, Underwater, and Earth<br/>
+<br/>
+<strong>Widgets</strong><br/>
+- Widgets can be placed anywhere on the desktop and adapt to the color of your wallpaper while working in apps<br/>
+- iPhone widgets can be added to your Mac when your iPhone is nearby or on the same Wi-Fi network<br/>
+- Interactive widgets let you take actions directly from the widget such as running a shortcut, pausing media, and more<br/>
+<br/>
+<strong>Video Conferencing</strong><br/>
+- Presenter Overlay keeps you front and center while sharing your screen in FaceTime or third-party video conferencing apps (Mac with Apple silicon)<br/>
+- Reactions layer 3D effects like hearts, balloons, confetti, and more around you in video calls and can be triggered with gestures (Mac with Apple silicon, Continuity Camera with iPhone 12 and later)<br/>
+<br/>
+<strong>Safari and Passwords</strong><br/>
+- Profiles keep your browsing separate for topics like work and personal, separating your history, cookies, extensions, Tab Groups, and favorites<br/>
+- Web apps let you use any website like an app, complete with an icon in the Dock for faster access and a simplified toolbar for easier browsing<br/>
+- Enhanced Private Browsing locks your private browsing windows when you're not using them, blocks known trackers from loading, and removes tracking that identifies you from URLs<br/>
+- Password and passkey sharing allows you to easily share accounts with trusted contacts<br/>
+<br/>
+<strong>Messages</strong><br/>
+- Live Stickers sync from iOS and iPadOS to macOS, giving you access to the Live Stickers you create on your iPhone and iPad<br/>
+- Search filters for people, keywords, and content types like photos or links help you more easily find what you are looking for<br/>
+- Swipe to reply inline on any iMessage bubble<br/>
+<br/>
+<strong>Gaming</strong><br/>
+- Game Mode gives games the highest priority on the CPU and GPU, delivering more consistent frame rates and lower latency to wireless controllers and AirPods (Mac with Apple silicon)<br/>
+<br/>
+<strong>Keyboard</strong><br/>
+- Improved autocorrect accuracy makes typing even easier by leveraging a more powerful transformer-based language model<br/>
+- Inline predictive text shows single- and multi-word predictions that you can add by pressing the Space bar<br/>
+- Improved Dictation experience supports using your voice and keyboard together to enter and edit text<br/>
+<br/>
+<strong>AirPods</strong><br/>
+- Adaptive Audio delivers a new listening mode that dynamically blends Active Noise Cancellation and Transparency to tailor the noise control experience based on the conditions of your environment (AirPods Pro (2nd generation) with the latest firmware)<br/>
+- Personalized Volume adjusts the volume of your media in response to your environment and listening preferences over time (AirPods Pro (2nd generation) with the latest firmware)<br/>
+- Conversation Awareness lowers your media volume and enhances the voices of the people in front of the user, all while reducing background noise (AirPods Pro (2nd generation) with the latest firmware)<br/>
+- Press to mute and unmute your microphone by pressing the AirPods stem or the Digital Crown on AirPods Max when on a call (AirPods (3rd generation), AirPods Pro (1st and 2nd generation), or AirPods Max with the latest firmware)<br/>
+- Improved AirPods automatic switching now detects Mac up to 2X faster (AirPods (2nd and 3rd generation), AirPods Pro (1st and 2nd generation), AirPods Max with the latest firmware)<br/>
+<br/>
+<strong>Privacy</strong><br/>
+- Sensitive Content Warnings can be enabled to help prevent users from unexpectedly viewing sensitive images in Messages<br/>
+- Expanded Communication Safety protections for children now detect videos containing nudity in addition to photos shared through Messages and the system Photos picker<br/>
+- Improved sharing permissions let you choose which photos to share and add calendar events without providing access to your entire photo library or calendar<br/>
+<br/>
+<strong>Accessibility</strong><br/>
+- Live Speech lets you type what you want to say and reads it aloud in FaceTime calls or in-person conversations<br/>
+- Personal Voice helps users at risk of speech loss create a voice that sounds like them in a private and secure way using on-device machine learning<br/>
+- Made for iPhone compatible hearing devices can be paired and used with Mac (MacBook Pro (2021), Mac Studio (2022), and Mac computers with M2 chip)<br/>
+<br/>
+<strong>This release also includes other features and improvements:</strong><br/>
+- One-Time verification code AutoFill from Mail helps you quickly sign into sites in Safari, without leaving the browser<br/>
+- Inline PDFs and document scans in Notes are presented full-width making them easy to view<br/>
+- Grocery Lists in Reminders automatically group related items into sections as you add them<br/>
+- Visual Look Up for recipes helps you find similar dishes from photo<br/>
+- Visual Look Up in video helps you learn about objects that appear in paused video frames<br/>
+- Pets in the People album in Photos surfaces individual pets just like friends or family members<br/>
+- Option to say "Siri" in addition to "Hey Siri" for a more natural way to activate Siri (Mac with Apple silicon, AirPods Pro (2nd generation))<br/>
+- High performance mode in Screen Sharing supports color workflows and improves responsiveness while remotely accessing a Mac (Mac with Apple silicon)<br/>
+- Item sharing in Find My allows you to share an AirTag with up to five other people<br/>
+- Activity History in Home displays a recent history of events for door locks, garage doors, security systems, and contact sensors<br/>
+- Battery health management updated on 13-inch MacBook Air with M2 chip to better optimize long term battery health<br/>
+<br/>
+Some features may not be available for all regions or on all Apple devices.</blockquote><h2>Read More</h2><br/>
+For a deeper look at all of the new features in &zwnj;macOS Sonoma&zwnj;, we have a <a href="https://www.macrumors.com/roundup/macos-sonoma/">dedicated macOS Sonoma roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/26/apple-releases-macos-sonoma/">Apple Releases macOS Sonoma With New Widget Features, Safari Updates, Screen Sharing Improvements and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-macos-sonoma-with-new-widget-features-safari-updates-screen-sharing-improvements-and-more.2404826/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Kuo: iPhone 15 Pro Overheating Issues Likely Due to Thermal Compromises, Not 3nm Node</title>
+		<link>https://www.macrumors.com/2023/09/26/iphone-15-pro-overheating/</link>
+		<comments>https://forums.macrumors.com/threads/kuo-iphone-15-pro-overheating-issues-likely-due-to-thermal-compromises-not-3nm-node.2404820/</comments>
+		<pubDate>Tue, 26 Sep 2023 09:12:57 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/26/iphone-15-pro-overheating/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iPhone 15 Pro</category>
+		<category>Ming-Chi Kuo</category>
+		
+
+		<description><![CDATA[Complaints about heat issues with the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models are not related to TSMC's 3-nanometer node that was used for the A17 Pro chip, according to well-respected <a href="https://medium.com/@mingchikuo/the-iphone-15-pro-series-overheating-issues-are-unrelated-to-tsmcs-advanced-3nm-node-iphone-15-5f354b1ab155">Apple analyst Ming-Chi Kuo</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Lineup-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-911423" /><br/>
+Kuo says that overheating could be caused by "compromises made in the thermal system design" that allowed Apple to cut down on the weight of the &zwnj;iPhone 15 Pro&zwnj; models. Kuo says that the reduced heat dissipation area and titanium frame have negatively impacted the thermal efficiency of the devices. <br/>
+<br/>
+Apple is expected to address the thermal issues through software updates, but improvements will be limited unless Apple plans to lower processor performance. Kuo believes that if Apple is unable to "properly address this issue," shipments could be impacted over the life cycle of the &zwnj;iPhone 15 Pro&zwnj;.<br/>
+<br/>
+There <a href="https://forums.macrumors.com/threads/iphone-15pros-overheating-during-gaming-severe-throttling.2403584/">have been reports</a> about the &zwnj;iPhone 15 Pro&zwnj; models becoming hot to the touch, and some tests have suggested that when this happens, the processor is throttled in order to cool the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> down. These tests have been benchmarks and extreme use cases that may not impact users in day-to-day life, but it remains to be seen how the &zwnj;iPhone 15 Pro&zwnj; models will run console-quality games like Resident Evil Village and Death Stranding.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/26/iphone-15-pro-overheating/">Kuo: iPhone 15 Pro Overheating Issues Likely Due to Thermal Compromises, Not 3nm Node</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-iphone-15-pro-overheating-issues-likely-due-to-thermal-compromises-not-3nm-node.2404820/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>macOS Sonoma Optimizes Latest 13-Inch MacBook Air&#039;s Battery Health</title>
@@ -668,210 +928,6 @@ In addition, <a href="https://twitter.com/ParkerOrtolani/status/1705377239850951
 Apple describes FineWoven as a "durable micro-twill" material made from 68% post-consumer recycled polyester, and said the material has a significantly lower carbon footprint than leather. Earlier this month, Apple announced that it would no longer use leather in any new products or accessories, as part of its environmental responsibility efforts.<br/>
 <br/>
 It's hard to measure exactly how much negative feedback there is for the new FineWoven cases, but the material certainly appears to be proving quite unpopular so far. We've reached out to Apple for comment, and we'll update this story if we hear back.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/finewoven/">FineWoven</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/finewoven-iphone-case-continued-criticism/">Apple&#039;s FineWoven Cases for iPhone 15 Continue to Be Heavily Criticized</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-finewoven-cases-for-iphone-15-continue-to-be-heavily-criticized.2404651/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>FineWoven Magnetic Link for Apple Watch Now Available to Order</title>
-		<link>https://www.macrumors.com/2023/09/25/finewoven-magnetic-link-now-available-to-order/</link>
-		<comments>https://forums.macrumors.com/threads/finewoven-magnetic-link-for-apple-watch-now-available-to-order.2404644/</comments>
-		<pubDate>Mon, 25 Sep 2023 11:32:40 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/finewoven-magnetic-link-now-available-to-order/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Watch Bands</category>
-		
-
-		<description><![CDATA[Apple's new Magnetic Link bands for the Apple Watch are <a href="https://www.apple.com/shop/product/MTJ53AM/A/41mm-evergreen-magnetic-link-s-m">now available to order</a> on Apple's online store, as <a href="https://twitter.com/ParkerOrtolani/status/1706366154917245005">spotted by Parker Ortolani</a>. Priced at &#36;99, the bands are made with Apple's <a href="https://www.macrumors.com/2023/09/21/apples-finewoven-iphone-cases-poor-reviews/">controversial new FineWoven material</a> instead of leather.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/Apple-Watch-FineWoven-Magnetic-Link.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-913658" /><br/>
-Apple describes FineWoven as a "durable micro-twill" material with a "soft, suede-like feel." Apple says the material is made from 68% post-consumer recycled polyester, and has a significantly lower carbon footprint than leather, which the company no longer uses for accessories. However, FineWoven cases for iPhone 15 models have been heavily criticized since they were released earlier this month, with some customers and media outlets complaining that the material is very susceptible to visible scratches and stains.<br/>
-<br/>
-The bands are available in 41mm and 45mm sizes, and they are backwards compatible with other Apple Watch case sizes. Color options include Evergreen, Taupe, and Pacific Blue, and all of the bands are estimated to ship in 4-5 weeks.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-watch-bands/">Apple Watch Bands</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/finewoven-magnetic-link-now-available-to-order/">FineWoven Magnetic Link for Apple Watch Now Available to Order</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/finewoven-magnetic-link-for-apple-watch-now-available-to-order.2404644/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Deals: Apple&#039;s M1 MacBook Air Available for All-Time Low Price of &#36;749.99 (&#36;249 Off)</title>
-		<link>https://www.macrumors.com/2023/09/25/deals-apples-m1-macbook-air-5/</link>
-		<comments>https://forums.macrumors.com/threads/deals-apples-m1-macbook-air-available-for-all-time-low-price-of-749-99-249-off.2404638/</comments>
-		<pubDate>Mon, 25 Sep 2023 10:22:16 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/deals-apples-m1-macbook-air-5/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Today we're tracking the return of an all-time low price on the 256GB M1 MacBook Air, which is available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08N5M7S6K%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;749.99</strong></a> on Amazon, down from &#36;999.00. This deal originally debuted during Prime Day back in July and it remains one of the best MacBook-related discounts of 2023 so far.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/06/M1-MacBook-Air-Deals-Feature-Warm.jpg" alt="" width="2125" height="1195" class="aligncenter size-full wp-image-850533" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-You can get the notebook in Gold and Silver at this price, and there's an estimated delivery date of September 27 to September 30 for the MacBook Air. As of writing, the Space Gray model is not matching this record low price.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08N5M7S6K%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;249 OFF</div>M1 MacBook Air (256GB) for &#36;749.99</div></a></div><br/>
-<br/>
-There are many internal and external differences between the 13.3-inch M1 MacBook Air and the newer 13.6-inch and 15.3-inch M2 MacBook Air models, but as an entry-level computer the M1 device should work great for common tasks, especially at this all-time low pricing. You can <a href="https://www.macrumors.com/guide/m1-vs-m2-macbook-air/">read our guide</a> to get a better look at all the similarities and differences between the generations.<br/>
-<br/>
-Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/deals-apples-m1-macbook-air-5/">Deals: Apple&#039;s M1 MacBook Air Available for All-Time Low Price of &#36;749.99 (&#36;249 Off)</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-apples-m1-macbook-air-available-for-all-time-low-price-of-749-99-249-off.2404638/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16 to Feature First A-Series Chip Designed Specifically for Standard Models</title>
-		<link>https://www.macrumors.com/2023/09/25/iphone-16-first-chip-designed-for-standard/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-to-feature-first-a-series-chip-designed-specifically-for-standard-models.2404586/</comments>
-		<pubDate>Mon, 25 Sep 2023 06:14:12 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/iphone-16-first-chip-designed-for-standard/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>iPhone 16</category>
-		<category>Apple Silicon</category>
-		<category>Phone Chip Expert</category>
-		
-
-		<description><![CDATA[The A17 chip designed for the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> and &zwnj;iPhone 16&zwnj; Plus will be made using a fundamentally different manufacturing process to the A17 Pro in the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> to cut costs, according to a rumor that has now been clarified by a reliable source.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/A17-Feature-Dark.jpg" alt="" width="1920" height="1080" class="alignnone size-full wp-image-901448" /><br/>
-A <a href="https://weibo.com/u/1833340431">Weibo user</a> who claims to be an integrated circuit expert with 25 years of experience working on Intel's Pentium processors was first to <a href="https://www.macrumors.com/2023/06/23/apple-to-switch-tech-behind-a17-to-cut-costs/">float the rumor in June</a>. Now, the same source has clarified Apple's apparent plan for its standard iPhones' chip in 2024.<br/>
-<br/>
-The &zwnj;iPhone 15 Pro&zwnj;'s A17 Pro chip is fabricated <a href="https://www.macrumors.com/2023/05/15/apple-tsmc-3nm-production-capacity/">using TSMC's N3B process</a>, but Apple reportedly plans to switch to the lower-cost N3E process for next year's standard A17 chip designed for the &zwnj;iPhone 16&zwnj; and &zwnj;iPhone 16&zwnj; Plus. This will mark the first time that Apple has designed a chip specifically for its standard <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> models. In previous years, Apple simply gave the entire &zwnj;iPhone&zwnj; lineup the same chip before staggering them by one year between the standard and the Pro models starting with 2022's <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a>.<br/>
-<br/>
-The A15 Bionic chip in the &zwnj;iPhone 14&zwnj; and ‌‌&zwnj;iPhone 14&zwnj;‌‌ Plus is a higher binned variant with one additional GPU core than the A15 used in the ‌<a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a>‌ and ‌‌&zwnj;iPhone 13&zwnj;‌‌ mini, so some cross-generational differences despite outwardly featuring the same chip would not be unheard of, but this would effectively be the retention of the same name on a fundamentally different chip.<br/>
-<br/>
-N3B is TSMC's original <a href="https://www.macrumors.com/guide/3nm/">3nm</a> node created in partnership with Apple. N3E, on the other hand, is the simpler and cheaper node that most other TSMC clients will use. N3E has fewer EUV layers and lower transistor density than N3B, resulting in lower efficiency. N3B has also been ready for mass production for longer than N3E, but it has much lower yield. N3B was effectively designed as a trial node and is not compatible with TSMC's successor processes including N3P, N3X, and N3S, meaning that Apple has to redesign its future chips to take advantage of TSMC's innovations.<br/>
-<br/>
-Apple was originally believed to be planning to use N3B for the A16 Bionic chip, but had to revert to N4 because it was not ready in time. It is likely the case that Apple is using the N3B CPU and GPU core design <a href="https://www.macrumors.com/2022/12/23/iphone-14-pro-setback-removed-graphics-processor/">originally designed for the A16 Bionic</a> in the A17 Pro, before switching to the original A17 designs with N3E later in 2024. This architecture will presumably be iterated on through TSMC's successor nodes for chips like the "A18" and "A19."<br/>
-<br/>
-The Weibo user was first to say that the standard &zwnj;iPhone 14&zwnj; models would retain the A15 Bionic chip, with the A16 being exclusive to the &zwnj;iPhone 14&zwnj; Pro models – a rumor that went on to be widely corroborated and turned out true. Earlier this month, Haitong International Securities analyst Jeff Pu <a href="https://www.macrumors.com/2023/09/12/iphone-16-rumored-to-feature-enhanced-a17-and-8gb/">corroborated the rumor</a> about 2024's A17 chip being fabricated with N3E, adding that the &zwnj;iPhone 16&zwnj; and &zwnj;iPhone 16&zwnj; Plus will also feature 8GB of memory, up from 6GB on the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and &zwnj;iPhone 15&zwnj; Plus.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a>, <a href="https://www.macrumors.com/guide/phone-chip-expert/">Phone Chip Expert</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/iphone-16-first-chip-designed-for-standard/">iPhone 16 to Feature First A-Series Chip Designed Specifically for Standard Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-to-feature-first-a-series-chip-designed-specifically-for-standard-models.2404586/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Deals: Woot&#039;s Massive Apple Accessory Blowout Has Up to 90% Off iPhone Cases and All-Time Low Price on MagSafe Duo</title>
-		<link>https://www.macrumors.com/2023/09/25/deals-woot-apple-accessory/</link>
-		<comments>https://forums.macrumors.com/threads/deals-woots-massive-apple-accessory-blowout-has-up-to-90-off-iphone-cases-and-all-time-low-price-on-magsafe-duo.2404585/</comments>
-		<pubDate>Mon, 25 Sep 2023 06:07:10 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/deals-woot-apple-accessory/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Woot today kicked off a <a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Fplus%2Fnew-apple-accessory-blowout%3Fref%3Dw_cnt_gw_dly_snb">new Apple accessory blowout sale</a>, offering as much as 90 percent off select first-party Apple accessories. This includes iPhone cases as recent as the iPhone 14 and MagSafe chargers.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/woot-925-sale-2.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-913575" /><em><small>Note: MacRumors is an affiliate partner with Woot. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-All accessories in this sale are in new condition and come with a one year Apple limited warranty. Amazon Prime members can get free standard shipping on Woot, and you'll have until September 30 to shop these deals, but they could disappear faster if stock runs out.<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Fplus%2Fnew-apple-accessory-blowout%3Fref%3Dw_cnt_gw_dly_snb"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 90% OFF</div>Woot Apple Accessory Sale</div></a></div><br/>
-<br/>
-During this event, Woot has Apple's MagSafe Duo Charger for <a href="https://www.tkqlhce.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-duo-fast-wireless-charger%3Fref%3Dw_cnt_wp_0_4"><strong>&#36;94.99</strong></a>, down from &#36;129.99, which is a new all-time low price on the accessory. You'll also find deals on iPhone leather cases, Beats earbuds, Apple Watch bands, AirTag accessories, and more. The steepest discounts are available on older products, like the iPhone 12 mini Leather Sleeve.<br/>
-<br/>
-<h2>Chargers</h2><br/>
-<ul><li><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-charger-21%3Fref%3Dw_cnt_wp_0_17">MagSafe Charger</a> - &#36;29.99, down from &#36;39.00</li><br/>
-<li><a href="https://www.tkqlhce.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-duo-fast-wireless-charger%3Fref%3Dw_cnt_wp_0_4">MagSafe Duo Charger</a> - &#36;94.99, down from &#36;129.99</li></ul><br/>
-<h2>Cases</h2><br/>
-<ul><li><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-iphone-14-plus-leather-case-with-magsafe%3Fref%3Dw_cnt_wp_0_5">iPhone 14 Plus Leather Case</a> - &#36;34.99, down from &#36;59.00</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-iphone-14-pro-leather-case-with-magsafe%3Fref%3Dw_cnt_wp_0_3">iPhone 14 Pro Leather Case</a> - &#36;34.99, down from &#36;59.00</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-iphone-14-pro-max-leather-case-with-magsafe%3Fref%3Dw_cnt_wp_0_1">iPhone 14 Pro Max Leather Case</a> - &#36;34.99, down from &#36;59.00</li></ul><br/>
-<h2>Audio</h2><br/>
-<ul><li><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fnew-beats-studio-buds-plus-anc-bluetooth-earbuds-2%3Fref%3Dw_cnt_wp_0_2">Beats Studio Buds+</a> - &#36;99.95, down from &#36;169.95</li></ul><br/>
-<h2>AirTag</h2><br/>
-<ul><li><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2F1-or-2-pack-apple-airtag-leather-key-ring%3Fref%3Dw_cnt_wp_0_6">AirTag Leather Key Ring</a> - &#36;12.99, down from &#36;35.00</li><br/>
-<li><a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2F1-or-2-pack-apple-airtag-leather-loop%3Fref%3Dw_cnt_wp_0_8">AirTag Leather Loop</a> - &#36;12.99, down from &#36;35.00</li></ul> Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/deals-woot-apple-accessory/">Deals: Woot&#039;s Massive Apple Accessory Blowout Has Up to 90% Off iPhone Cases and All-Time Low Price on MagSafe Duo</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-woots-massive-apple-accessory-blowout-has-up-to-90-off-iphone-cases-and-all-time-low-price-on-magsafe-duo.2404585/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 15 Pro Max Teardown: X70 Modem for Faster 5G, 5x Optical Zoom Lens, A17 Pro Chip, and More</title>
-		<link>https://www.macrumors.com/2023/09/25/iphone-15-pro-max-teardown-ifixit/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-15-pro-max-teardown-x70-modem-for-faster-5g-5x-optical-zoom-lens-a17-pro-chip-and-more.2404576/</comments>
-		<pubDate>Mon, 25 Sep 2023 05:39:09 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/iphone-15-pro-max-teardown-ifixit/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPhone 15 Pro</category>
-		<category>iFixit</category>
-		<category>Teardown</category>
-		
-
-		<description><![CDATA[Repair website iFixit today shared a <a href="https://www.youtube.com/watch?v=hmQHgWNAg24">video teardown</a> of the new iPhone 15 Pro Max, providing a closer look inside the top-of-the-line device.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Cameras.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-913544" /><br/>
-While the iPhone 15 Pro Max has a similar internal design as the iPhone 14 Pro Max, the device has a redesigned frame that <a href="https://www.macrumors.com/2023/09/13/iphone-15-pro-models-more-repairable/">allows the back glass panel to be easily removed</a>, resulting in <a href="https://www.macrumors.com/2023/09/17/iphone-15-pro-cracked-glass-repair-fees-lower/">lower repair fees</a> for cracked glass for customers without AppleCare+ coverage. This change was first made to the iPhone 14 and iPhone 14 Plus last year.<br/>
-<br/>
-The teardown provides a brief glimpse at the iPhone 15 Pro Max's upgraded Telephoto lens with a tetraprism system, which enables 5x optical zoom. iFixit said the Main and Ultra Wide lenses on the device appear to look the same as the ones on the iPhone 14 Pro Max, in line with <a href="https://twitter.com/Tech_Reve/status/1705409878481908094">information shared on social media</a> last week. This suggests camera improvements beyond 5x optical zoom are the result of the A17 Pro chip and software optimizations. <br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/hmQHgWNAg24?si=188W1HfRxEASkBYj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-iFixit says the iPhone 15 Pro Max has a similar logic board as the iPhone 15 Pro. In addition to the A17 Pro chip, the teardown confirms that the device is equipped with Qualcomm's Snapdragon X70 modem, which <a href="https://speedsmart.net/blog/post/2005/iPhone-15-Pro-up-to-24-Faster-5G-Download-Speeds">reportedly enables faster 5G speeds</a> as expected.<br/>
-<br/>
-Overall, iFixit gave the iPhone 15 Pro Max a low repairability score of 4/10, in part due to <a href="https://www.macrumors.com/2023/09/19/ifixit-lowers-iphone-14-repairability-score/">Apple's parts pairing requirement</a> that it says harms independent repair shops.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ifixit/">iFixit</a>, <a href="https://www.macrumors.com/guide/teardown/">Teardown</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/iphone-15-pro-max-teardown-ifixit/">iPhone 15 Pro Max Teardown: X70 Modem for Faster 5G, 5x Optical Zoom Lens, A17 Pro Chip, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-pro-max-teardown-x70-modem-for-faster-5g-5x-optical-zoom-lens-a17-pro-chip-and-more.2404576/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple to Launch iPad Mini 7 Later This Year, Industry Report Suggests</title>
-		<link>https://www.macrumors.com/2023/09/25/apple-ipad-mini-7-release-late-2023/</link>
-		<comments>https://forums.macrumors.com/threads/apple-to-launch-ipad-mini-7-later-this-year-industry-report-suggests.2404552/</comments>
-		<pubDate>Mon, 25 Sep 2023 03:16:36 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/apple-ipad-mini-7-release-late-2023/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPad mini</category>
-		<category>DigiTimes</category>
-		
-
-		<description><![CDATA[Apple could be preparing to release a seventh-generation iPad mini before the end of the year, based on a new report by <em><a href="https://www.digitimes.com/news/a20230922VL207/digitimes-research-pc-ce-tablet.html">DigiTimes</a></em>. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/03/ipad-mini-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-888416" /><br/>
-In an article discussing stagnating global tablet demand in the second half of 2023, the Taiwan-based outlet forecasts an uptick in Apple's share of the market owing to orders for a "small-size" iPad in the fourth quarter. From the report (see bold): <blockquote>In the second quarter, iPad shipments had a sequential decline higher than those of non-iPad tablets, resulting in iPads' combined shipment share seeing two consecutive quarters of decline. However, the share will gradually pick up during the second half because of Apple's inventory replenishment needs in the third quarter and <strong>orders for a new small-size iPad in the fourth quarter</strong>, the figures show.</blockquote><em>DigiTimes</em> obtains its information from the suppliers who manufacture parts for iPhones and other Apple products. Its sources often provide reliable information, but the site has a mixed track record when it comes to interpreting that information and accurately deciphering Apple's plans. It is often best to view information from the site with some skepticism until the info is corroborated by additional sources, especially when it comes to rumors.<br/>
-<br/>
-That said, <em>Bloomberg</em>'s Mark Gurman earlier this year <a href="https://www.macrumors.com/2023/01/08/airpods-apple-watch-ipad-apple-tv-2023/">reported</a> that an iPad mini update with a minor "spec bump" is not out of the question. Last month, the leaker known as "ShrimpApplePro" also <a href="https://www.macrumors.com/2023/08/01/ipad-mini-7-could-be-coming-later-this-year/">suggested</a> a seventh-generation iPad mini was in the works at Apple, and said that they had seen evidence that at least one new iPad model is coming this year.<br/>
-<br/>
-However, Apple analyst Ming-Chi Kuo in <a href="https://www.macrumors.com/2023/01/30/new-ipad-mini-launching-next-year/">January</a> said he believes that the seventh-generation ‌iPad mini‌ is most likely to begin mass production in the first quarter of 2024, and Kuo recently <a href="https://www.macrumors.com/2023/09/12/kuo-new-ipads-unlikely-to-launch-this-year/">said</a> he does not expect any new iPad models this year.<br/>
-<br/>
-If anything happens before the holidays, a chip upgrade may be the most likely feature of a new ‌iPad mini‌. The ‌sixth-generation iPad mini‌ currently contains the A15 Bionic chip, while the new iPhone 15 and iPhone 15 Pro use the A16 and A17 Pro chip, respectively. A minor spec bump could also include upgrades to the front and rear cameras, potentially bringing features like Photonic Engine to the ‌iPad‌ for the first time. <br/>
-<br/>
-The latest iPad Pro models brought connectivity upgrades like Wi-Fi 6E and Bluetooth 5.3 to the ‌iPad‌ for the first time, so it seems highly likely that these capabilities will also make their way to the ‌iPad mini in the next update‌.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/digitimes-com/">DigiTimes</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad_Mini">iPad Mini (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/apple-ipad-mini-7-release-late-2023/">Apple to Launch iPad Mini 7 Later This Year, Industry Report Suggests</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-launch-ipad-mini-7-later-this-year-industry-report-suggests.2404552/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Resident Evil Village for iPhone 15 Pro and iPad Launches October 30</title>
-		<link>https://www.macrumors.com/2023/09/25/resident-evil-village-iphone-15-pro-ipad-oct-30/</link>
-		<comments>https://forums.macrumors.com/threads/resident-evil-village-for-iphone-15-pro-and-ipad-launches-october-30.2404542/</comments>
-		<pubDate>Mon, 25 Sep 2023 01:51:36 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/resident-evil-village-iphone-15-pro-ipad-oct-30/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPad Air</category>
-		<category>iPad Pro 11&quot;</category>
-		<category>iPad Pro 12.9&quot;</category>
-		<category>iPhone 15 Pro</category>
-		<category>TouchArcade</category>
-		<category>Capcom</category>
-		
-
-		<description><![CDATA[<em><a href="https://www.capcom-games.com/apple/en-us/">Resident Evil Village</a></em> will be released for <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> on October 30, Capcom announced during the Tokyo Game Show over the weekend (via <em><a href="https://toucharcade.com/2023/09/24/resident-evil-village-iphone-ipad-release-date-price-resident-evil-4-remake-unlock-mobile-tgs-2023/">TouchArcade</a></em>).<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/resident-evil-village.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-913495" /><br/>
-During the event, Capcom also revealed pricing for the mobile ports of <em>Resident Evil 4 Remake</em> and <em>Resident Evil Village</em>. While both games are free to start, they will require &#36;59.99 and &#36;39.99 in-app purchases, respectively, to unlock the full experience. <br/>
-<br/>
-Pre-orders have since gone live for <a href="https://apps.apple.com/app/resident-evil-4/id6462360082"><em>Resident Evil 4 Remake</em> on the App Store</a>, which still lists the game as "Coming Soon – Expected December 31, 2023." Both games will support on screen controls, game controllers, multi-touch, HDR, and more.<br/>
-<br/>
-For those who haven't been following these games, <em>Resident Evil 4 Remake</em> and <em>Resident Evil Village</em> were showcased during Apple's &zwnj;iPhone 15 Pro&zwnj; announcement. The &zwnj;iPhone 15 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; Max are powered by an A17 Pro chip that features a brand new GPU with hardware-accelerated ray tracing, enabling ported console games to be played on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> at near-equivalent performance.<br/>
-<br/>
-DisplayPort support is built into the USB-C port on all <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models, meaning that the devices can also output video at up to 4K/60Hz natively to a DisplayPort-equipped external display or TV with a supported USB-C to DisplayPort cable. On previous iPhones with a Lightning port, video mirroring is limited to 1080p with Apple's Lightning-to-HDMI or Lightning-to-VGA adapters.<br/>
-<br/>
-Since Apple's &zwnj;iPhone 15&zwnj; event, Capcom confirmed that <em>Resident Evil 4 Remake</em> will come to macOS and iPadOS devices with an <a href="https://www.macrumors.com/guide/m1/">M1</a> or better. <em>Resident Evil Village</em> is already available on macOS, so the iOS and iPadOS release will be an independent purchase when it arrives just before Halloween with support for &zwnj;M1&zwnj; and <a href="https://www.macrumors.com/guide/m2/">M2</a> &zwnj;iPad&zwnj; models. As a result, <em>Resident Evil 4 Remake</em> will have cross-progression on iOS, iPadOS, and macOS, while <em>Resident Evil Village</em> will have cross-progression on iPadOS and iOS only. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a>, <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/toucharcade/">TouchArcade</a>, <a href="https://www.macrumors.com/guide/capcom/">Capcom</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#11-iPad-Pro">11" iPad Pro (Caution)</a>, <a href="https://buyersguide.macrumors.com/#12-9-iPad-Pro">12.9" iPad Pro (Caution)</a>, <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/resident-evil-village-iphone-15-pro-ipad-oct-30/">Resident Evil Village for iPhone 15 Pro and iPad Launches October 30</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/resident-evil-village-for-iphone-15-pro-and-ipad-launches-october-30.2404542/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 15 and iPhone 15 Pro Launch in Over 20 More Countries Later This Week</title>
-		<link>https://www.macrumors.com/2023/09/25/iphone-15-pro-launch-over-20-countries-this-week/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-15-and-iphone-15-pro-launch-in-over-20-more-countries-later-this-week.2404534/</comments>
-		<pubDate>Mon, 25 Sep 2023 00:43:10 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/25/iphone-15-pro-launch-over-20-countries-this-week/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> series is set to launch in over 20 additional countries and territories on September 29, including Macao, Malaysia, Turkey, Vietnam, and others. Apple has not provided a complete list of the countries.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-lineup-store.jpg" alt="" width="2976" height="1538" class="aligncenter size-full wp-image-911377" /><br/>
-Unlike last year's <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> series, all of the latest &zwnj;iPhone 15&zwnj; models were available to order when the first wave of launches took place in over 40 countries and regions on Friday, September 22. <br/>
-<br/>
-Likewise, the &zwnj;iPhone 15&zwnj;, &zwnj;iPhone 15&zwnj; Plus, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, and &zwnj;iPhone 15 Pro&zwnj; Max will all be available to order on day one when the second wave of launches takes place on Friday, September 29. <br/>
-<br/>
-The &zwnj;iPhone 15&zwnj; and &zwnj;iPhone 15 Pro&zwnj; introduce over <a href="https://www.macrumors.com/guide/iphone-14-pro-vs-iphone-15-pro/">30 new capabilities and improvements</a>, including USB-C and <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a> across the lineup, as well as a new titanium design and Action button on the high-end models. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15">iPhone 15 (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/25/iphone-15-pro-launch-over-20-countries-this-week/">iPhone 15 and iPhone 15 Pro Launch in Over 20 More Countries Later This Week</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-and-iphone-15-pro-launch-in-over-20-more-countries-later-this-week.2404534/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
