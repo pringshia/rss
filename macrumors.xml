@@ -14,12 +14,37 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 25 Sep 2023 21:03:20 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 26 Sep 2023 01:03:09 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Watch Users Report Weather Complication Issues in watchOS 10</title>
+		<link>https://www.macrumors.com/2023/09/26/watchos-10-weather-complication-issues/</link>
+		<comments>https://forums.macrumors.com/threads/apple-watch-users-report-weather-complication-issues-in-watchos-10.2404733/</comments>
+		<pubDate>Tue, 26 Sep 2023 00:21:43 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/26/watchos-10-weather-complication-issues/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple Watch</category>
+		<category>Apple Watch SE</category>
+		<category>Apple Watch Ultra</category>
+		
+
+		<description><![CDATA[Some Apple Watch users on <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> have reported experiencing issues with Weather complications failing to display data on the watch face, despite the Weather app itself presenting no such issues. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/weather-complications.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-913698" /><br/>
+Apple Watch users have taken to the <a href="https://forums.macrumors.com/threads/watchos-10-and-weather-rain-complication-problem.2403847/"><em>MacRumors</em> forums</a>, <a href="https://discussions.apple.com/thread/255145549">Apple's Support Community</a>, and other platforms to share their experiences. <em><a href="https://9to5mac.com/2023/09/25/watchos-10-weather-bug/?extended-comments=1#comments">9to5Mac</a></em> has highlighted the problem, and some <em>MacRumors</em> staff have seen its occurrence on their own watches. <br/>
+<br/>
+Affected complications appear blank where weather data should be showing, and yet tapping the complication reveals the expected information in the Weather app. The issue appears to be happening on various models whether they are on watchOS 10.0 or have been updated to the latest watchOS 10.0.1 update.<br/>
+<br/>
+Until Apple issues an update to correct the problem, one temporary workaround that users have had the most success with is to open the Watch app on <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and toggle the 24-Hour Time switch in the Clock app settings, wait a few seconds, then toggle it back to its original position. The paired Watch should update, and the affected complications should display weather data again (until they don't again – your mileage may vary).<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/clock-app-24-hour-setting.jpg" alt="" width="2737" height="1426" class="aligncenter size-full wp-image-913699" /><br/>
+Has your Apple Watch been affected by the Weather complications issue? Let us know in the comments.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a>, <a href="https://www.macrumors.com/roundup/apple-watch-se/">Apple Watch SE</a>, <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#Apple_Watch_SE">Apple Watch SE (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#Apple_Watch_Ultra">Apple Watch Ultra (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/26/watchos-10-weather-complication-issues/">Apple Watch Users Report Weather Complication Issues in watchOS 10</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-watch-users-report-weather-complication-issues-in-watchos-10.2404733/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iPhone 16 to Include an Additional Capacitive &#039;Capture&#039; Button</title>
@@ -677,30 +702,6 @@ We saw a new all-time low price hit the 512GB 15-inch MacBook Air this week, now
 <br/>
 <br/>
 Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/22/best-apple-deals-of-the-week-9-22-23/">Best Apple Deals of the Week: New AirPods Pro 2 With USB-C Drop to &#36;199.99 Alongside iPhone 15 Accessory Sales</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-new-airpods-pro-2-with-usb-c-drop-to-199-99-alongside-iphone-15-accessory-sales.2403898/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The MacRumors Show: iPhone 15 Features We&#039;re Excited About and Should You Upgrade?</title>
-		<link>https://www.macrumors.com/2023/09/22/the-macrumors-show-iphone-15-features/</link>
-		<comments>https://forums.macrumors.com/threads/the-macrumors-show-iphone-15-features-were-excited-about-and-should-you-upgrade.2403885/</comments>
-		<pubDate>Fri, 22 Sep 2023 09:55:36 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/22/the-macrumors-show-iphone-15-features/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>The MacRumors Show</category>
-		
-
-		<description><![CDATA[On this week's episode of <a href="https://podcasts.apple.com/us/podcast/our-top-iphone-15-features-should-you-upgrade/id1602394741?i=1000628838273">The MacRumors Show</a>, we discuss Apple's new FineWoven accessories, some of our favorite <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> features, and who should consider upgrading.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/D3R79ycZ8xc?si=-aoz69Jj9C2ha3x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos</em></div><br/>
-Apple's FineWoven material replaces leather across <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> cases, AirTag accessories, and Apple Watch bands. Many early reviews of the FineWoven items <a href="https://www.macrumors.com/2023/09/21/apples-finewoven-iphone-cases-poor-reviews/">have been negative</a>, criticizing the material's feel, quality, and durability, so we talk over our early thoughts on the new accessories. The &zwnj;iPhone 15&zwnj; and <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> introduce <a href="https://www.macrumors.com/guide/iphone-14-pro-vs-iphone-15-pro/">over 30 new capabilities and improvements</a>, including USB-C and <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a> across the lineup, as well as a new titanium design and Action button on the high-end models. We dive into some of our favorite standout features and weigh up who should consider upgrading to the latest devices.<br/>
-<br/>
-Listen to <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a> in <a href="https://podcasts.apple.com/podcast/id1602394741">Apple Podcasts</a>, <a href="https://open.spotify.com/show/41XOHIA6w8IxAKJZvrnx90">Spotify</a>, <a href="https://overcast.fm/itunes1602394741">Overcast</a>, <a href="https://pca.st/itunes/1602394741">Pocket Casts</a>, <a href="https://castro.fm/itunes/1602394741">Castro</a>, <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvNjk1NTlmZTgtMzMxOC00ZDI5LTkyMmYtYWJlMTAwNjhjYTYzLzg1OTRmODNjLTBkN2QtNDhkOS04OTcxLWFkZmEwMTAzOWEzMS9kODA4NmM5Ni1iNmQ4LTRkNWMtYTZiMy1hZGZhMDEwM2M4NmQvcG9kY2FzdC5yc3M%3d">Google Podcasts</a>, or your preferred podcasts app. You can also <a href="https://audioboom.com/channels/5096144.rss">copy our RSS feed</a> directly into your podcast player. Watch a video version of the show <a href="https://www.youtube.com/playlist?list=PLD8VmuL7qc7ii5uyjzSRk3UM7KI_c4qC5">on the <em>MacRumors</em> YouTube channel</a>.<br/>
-<br/>
-<div class="center-wrap"><iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.podcasts.apple.com/us/podcast/the-macrumors-show/id1602394741" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe></div><br/>
-If you haven't already listened to the <a href="https://www.macrumors.com/2023/09/15/the-macrumors-show-ijustine-talks-iphone-15/">previous episode of The MacRumors Show</a>, take a look back at our discussion with iJustine where we talk through our immediate reactions to the announcement of the &zwnj;iPhone 15&zwnj;, &zwnj;iPhone 15 Pro&zwnj;, <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a>, and <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a>.<br/>
-<br/>
-Subscribe to &zwnj;The MacRumors Show&zwnj; for more episodes, where we discuss some of the topical news breaking here on <em>MacRumors</em>, often joined by exciting guests like <a href="https://www.macrumors.com/2023/08/25/the-macrumors-show-iphone-15-jon-rettinger/">Jon Rettinger</a>, <a href="https://www.macrumors.com/2023/02/10/the-macrumors-show-andru-edwards-iphone-ultra/">Andru Edwards</a>, <a href="https://www.macrumors.com/2023/06/07/the-macrumors-show-wwdc23-recap-andru-edwards-kevin-nether/">Kevin Nether</a>, <a href="https://www.macrumors.com/2023/05/26/the-macrumors-show-arnold-kim/">Arnold Kim</a>, <a href="https://www.macrumors.com/2023/05/19/the-macrumors-show-ben-sullins-apple-car/">Ben Sullins</a>, <a href="https://www.macrumors.com/2023/04/07/the-macrumors-show-marcus-kane-headset-design/">Marcus Kane</a>, <a href="https://www.macrumors.com/2023/03/24/the-macrumors-show-christopher-lawley-talks-ipados/">Christopher Lawley</a>, <a href="https://www.macrumors.com/2023/03/10/the-macrumors-show-frank-mcshan-yellow-iphone-14/">Frank McShan</a>, <a href="https://www.macrumors.com/2023/02/24/the-macrumors-show-david-lewis-talks-apple-audio/">David Lewis</a>, <a href="https://www.macrumors.com/2023/01/27/the-macrumors-show-tyler-stalman-new-macs/">Tyler Stalman</a>, <a href="https://www.macrumors.com/2022/12/23/the-macrumors-show-apple-2022-jon-prosser-sam-kohl/">Jon Prosser</a>, <a href="https://www.macrumors.com/2022/09/02/the-macrumors-show-apple-event-expectations/">Sam Kohl</a>, <a href="https://www.macrumors.com/2022/12/16/the-macrumors-show-quinn-nelson-iphone-15-rumors/">Quinn Nelson</a>, <a href="https://www.macrumors.com/2022/11/09/the-macrumors-show-john-gruber-talks-macos-ventura/">John Gruber</a>, <a href="https://www.macrumors.com/2022/10/28/the-macrumors-show-ipados-16-ft-federico-viticci/">Federico Viticci</a>, <a href="https://www.macrumors.com/2022/09/20/the-macrumors-show-sara-dietschy-talks-iphone-14/">Sara Dietschy</a>, <a href="https://www.macrumors.com/2022/09/09/iphone-14-event-reactions-with-luke-miani/">Luke Miani</a>, <a href="https://www.macrumors.com/2022/08/26/the-macrumors-show-thomas-frank-talks-productivity/">Thomas Frank</a>, <a href="https://www.macrumors.com/2022/07/21/the-macrumors-show-jonathan-morrison/">Jonathan Morrison</a>, <a href="https://www.macrumors.com/2022/07/12/the-macrumors-show-ross-young/">Ross Young</a>, <a href="https://www.macrumors.com/2022/06/21/the-macrumors-show-ian-zelbo/">Ian Zelbo</a>, and <a href="https://www.macrumors.com/2022/03/25/the-macrumors-show-rene-ritchie-talks-mac-studio/">Rene Ritchie</a>. You can also head over to <a href="https://forums.macrumors.com/threads/the-macrumors-show-discussion-thread.2383023/">The MacRumors Show</a> forum thread to engage with us directly. Remember to rate and review the show, and let us know what subjects you would like the podcast to cover in the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/22/the-macrumors-show-iphone-15-features/">The MacRumors Show: iPhone 15 Features We&#039;re Excited About and Should You Upgrade?</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-macrumors-show-iphone-15-features-were-excited-about-and-should-you-upgrade.2403885/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
