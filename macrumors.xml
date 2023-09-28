@@ -14,12 +14,74 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 28 Sep 2023 01:04:11 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 28 Sep 2023 05:04:01 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>How to View Your UK Bank Account Balance and Deposits in Apple Wallet</title>
+		<link>https://www.macrumors.com/how-to/view-uk-bank-account-balance-apple-wallet/</link>
+		<comments>https://forums.macrumors.com/threads/how-to-view-your-uk-bank-account-balance-and-deposits-in-apple-wallet.2405247/</comments>
+		<pubDate>Thu, 28 Sep 2023 03:09:55 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/view-uk-bank-account-balance-apple-wallet&#038;post_date=1695906595/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>United Kingdom</category>
+		<category>Apple Wallet</category>
+		
+
+		<description><![CDATA[In iOS 17.1, <a href="https://www.macrumors.com/2023/09/27/ios-17-1-beta-1-features/">currently in beta</a>, <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users in the UK can now view the account balance of their bank cards and credit cards right within Apple's Wallet app. Keep reading to learn how it works.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/uk-bank-account-apple-wallet-2.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-914320" /><br/>
+Apple's Wallet app on &zwnj;iPhone&zwnj; has been able to display <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a> transactions made using your bank and credit cards for a while now, but if you are a Wallet app user in the United Kingdom, a new integration in iOS 17.1 means you can view your current account balance from your bank, along with a history of your deposits and payments. If you have a credit card, you can also view your remaining credit.<br/>
+<br/>
+To get the additional account information, your bank needs to support the Open Banking API that Apple has implemented. Supporting banks currently include Barclays, Monzo, Startling, HSBC, Lloyds, and RBS, with more banks likely to come on board when iOS 17.1 is released to the public.<br/>
+<br/>
+The following steps show you how integration is securely authorized through the Wallet app. It's a simple enough process, and Apple will automatically redirect you to your bank app to authenticate the connection. Note that until iOS 17.1 is officially released, <strong>the iOS 17.1 developer beta must be installed on your iPhone</strong> for this to work.<br/>
+<ol><li>Open the Wallet app on your &zwnj;iPhone&zwnj;.</li><br/>
+<li>Tap a card from a supporting bank.</li><br/>
+<li>Tap <strong>Get Started</strong> under "See Balances and Full Transaction History for This Account."</li><br/>
+<li>Tap <strong>Continue</strong> to connect your account to Wallet.</li><br/>
+<li>Check the account details that you are about to give Wallet permission to access, then tap <strong>Continue</strong>.</li><br/>
+<li>In your bank app, enter your &zwnj;iPhone&zwnj;'s passcode or use <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> to grant Wallet permission to access the specified account details.</li></ol><img src="https://images.macrumors.com/article-new/2023/09/view-uk-bank-account-balance-apple-wallet.jpg" alt="" width="4137" height="2716" class="aligncenter size-full wp-image-914317" /><br/>
+<br/>
+After following these steps, you'll be directed back to the Wallet app, where you will now see the available balance of your account underneath the bank card, along with your transaction history. If it's a credit card, you'll also see the remaining balance available, while a tap on the balance will also reveal your credit limit.<br/>
+<br/>
+With Apple users in the UK still unable to make use of Apple Cash or <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a>, it's nice to see Apple exclusively supporting a British banking standard in its Wallet app. Note that Open Banking is UK-specific: No US equivalent is currently available.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/united-kingdom/">United Kingdom</a>, <a href="https://www.macrumors.com/guide/apple-wallet/">Apple Wallet</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/view-uk-bank-account-balance-apple-wallet/">How to View Your UK Bank Account Balance and Deposits in Apple Wallet</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/how-to-view-your-uk-bank-account-balance-and-deposits-in-apple-wallet.2405247/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Jony Ive and OpenAI in Advanced Talks to Build &#039;the iPhone of Artificial Intelligence&#039;</title>
+		<link>https://www.macrumors.com/2023/09/28/jony-ive-iphone-artificial-intelligence-openai/</link>
+		<comments>https://forums.macrumors.com/threads/jony-ive-and-openai-in-advanced-talks-to-build-the-iphone-of-artificial-intelligence.2405241/</comments>
+		<pubDate>Thu, 28 Sep 2023 02:00:08 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/28/jony-ive-iphone-artificial-intelligence-openai/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Financial Times</category>
+		<category>Jony Ive</category>
+		
+
+		<description><![CDATA[Former Apple designer Jony Ive and OpenAI's Sam Altman are in advanced talks with SoftBank's Masayoshi Son to launch a &#36;1 billion venture to build "the iPhone of artificial intelligence," according to the <em><a href="https://www.ft.com/content/4c64ffc1-f57b-4e22-a4a5-f9f90a7419b7">Financial Times</a></em>. The news follows a report on Wednesday that <a href="https://www.macrumors.com/2023/09/27/jony-ive-openai-design-ai-hardware/">claimed</a> Ive and Altman are in discussions about creating an AI gadget.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/jony-ive.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-914301" /><br/>
+According to <em>FT</em>, Altman wants Ive's design agency LoveFrom to help develop the ChatGPT creator's first consumer device. From the paywalled report:<br/>
+<blockquote>Altman and Ive have held brainstorming sessions at the designer's San Francisco studio about what a new consumer product centered on OpenAI's technology would look like, the people said.<br/>
+<br/>
+They hope to create a more natural and intuitive user experience for interacting with AI, in the way that the iPhone's innovations in touchscreen computing unleashed the mass-market potential of the mobile internet.<br/>
+<br/>
+The process of identifying a design or device remains at an early stage with many different ideas on the table, they said.</blockquote>Son, Softbank's founder and CEO, has been involved in some of the discussions, which have centered around creating a company drawing from Softbank, Altman's OpenAI, and Ive's LoveFrom design agency. <br/>
+<br/>
+Son is said to be pitching a central role for British chip designer Arm, in which the Japanese conglomerate holds a 90% stake. Son is also offering &#36;1 billion investment in the venture, according to the report.<br/>
+<br/>
+Ive is said to have been concerned about the compulsive nature of smartphone users' behavior, and the designer sees the project as an opportunity to create a way of interacting with computers that is less reliant on screens.<br/>
+<br/>
+Discussions are said to be "serious," but no deal has been agreed, and it could be several months before any official announcement, cautioned people with knowledge of the matter. Any resulting device would likely remain years away from launching.<br/>
+<br/>
+Ive left Apple to begin LoveFrom in 2019, recruiting at least four of his former Apple colleagues to work with him at the firm, including Wan Si, Chris Wilson, Patch Kessler, and Jeff Tiller.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ft-com/">Financial Times</a>, <a href="https://www.macrumors.com/guide/jony-ive/">Jony Ive</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/28/jony-ive-iphone-artificial-intelligence-openai/">Jony Ive and OpenAI in Advanced Talks to Build &#039;the iPhone of Artificial Intelligence&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/jony-ive-and-openai-in-advanced-talks-to-build-the-iphone-of-artificial-intelligence.2405241/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Meta Debuts &#36;500 Quest 3 as Apple Prepares to Launch &#36;3,500 Vision Pro Headset Next Year</title>
@@ -518,60 +580,6 @@ Altman is one of the biggest investors in consumer hardware startup Humane, with
 OpenAI's ChatGPT chatbot has made waves in the tech world since it was launched to the public less than a year ago. The company's annual revenue pace has exceeded &#36;1 billion, thanks to ChatGPT subscriptions and paid access to the chatbot's latest and most advanced incarnation, GPT-4. In May 2023, OpenAI released an <a href="https://www.macrumors.com/2023/05/18/openai-chatgpt-ios-app/">official ChatGPT app</a> for the iPhone and iPad. <br/>
 <br/>
 For Apple's part, the company has significantly ramped up its spending on artificial intelligence, according to a <a href="https://www.macrumors.com/2023/09/06/apple-conversational-ai-spending/">previous report</a> by <em>The Information</em>. Apple's "Foundational Models" team that works on conversational AI includes just 16 people, but Apple is said to be spending millions of dollars per day training its language models, which could one day be <a href="https://www.macrumors.com/2023/03/15/apple-engineers-working-on-chatgpt-like-ai/">integrated into Siri</a>. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/jony-ive/">Jony Ive</a>, <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/27/jony-ive-openai-design-ai-hardware/">Jony Ive Could Develop AI Hardware Device With OpenAI&#039;s Sam Altman</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/jony-ive-could-develop-ai-hardware-device-with-openais-sam-altman.2405003/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Get the New AirPods Pro 2 With USB-C for &#36;199.99 Thanks to Amazon&#039;s &#36;49 Discount [Updated]</title>
-		<link>https://www.macrumors.com/2023/09/27/new-airpods-pro-2-usb-c/</link>
-		<comments>https://forums.macrumors.com/threads/get-the-new-airpods-pro-2-with-usb-c-for-199-99-thanks-to-amazons-49-discount-updated.2405016/</comments>
-		<pubDate>Wed, 27 Sep 2023 03:01:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/27/new-airpods-pro-2-usb-c/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Last week, Apple launched the all-new AirPods Pro 2 with the USB-C/MagSafe Charging Case. At the same time, we began tracking the first ever discount on the earbuds, and today that &#36;49 markdown is back at Amazon.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/AirPods-USB-C-Port-Magenta.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-911675" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-You can get the new model of the AirPods Pro 2 for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;199.99</strong></a>, down from &#36;249.00. Given that the accessory isn't even a week old yet, this is the best deal we've seen so far, and Amazon provides an estimated delivery date of late September/early October.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>AirPods Pro 2 (USB-C) for &#36;199.99</div></a></div><br/>
-<br/>
-There are a few minor changes to the AirPods Pro 2 besides the addition of USB-C, including additional dust resistance and support for lossless audio with the Vision Pro headset. Apple doesn't sell the USB-C/MagSafe Charging Case separately, so if you want USB-C support you'll have to purchase a full new set of earbuds.<br/>
-<br/>
-Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<br/>
-<br/>
-<strong>Update:</strong> This deal has now expired. If the AirPods Pro 2 return to &#36;199.99, we'll be sure to update this article again.<br/>
-<br/>
-<strong>Update 2:</strong> The &#36;199.99 sale price briefly reappeared this afternoon, but has once again expired. If you don't see the deal on Amazon, be sure to check back later, as it could return later in the day. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/27/new-airpods-pro-2-usb-c/">Get the New AirPods Pro 2 With USB-C for &#36;199.99 Thanks to Amazon&#039;s &#36;49 Discount [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/get-the-new-airpods-pro-2-with-usb-c-for-199-99-thanks-to-amazons-49-discount-updated.2405016/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Explains How Game Mode Works in macOS Sonoma</title>
-		<link>https://www.macrumors.com/2023/09/27/apple-explains-how-game-mode-works-in-macos-sonoma/</link>
-		<comments>https://forums.macrumors.com/threads/apple-explains-how-game-mode-works-in-macos-sonoma.2404997/</comments>
-		<pubDate>Wed, 27 Sep 2023 02:24:36 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/27/apple-explains-how-game-mode-works-in-macos-sonoma/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>macOS Sonoma</category>
-		<category>Game Mode</category>
-		
-
-		<description><![CDATA[In <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, Game Mode prioritizes CPU and GPU performance for gaming purposes on Macs. For those unfamiliar with Game Mode, Apple on Tuesday published a <a href="https://support.apple.com/en-us/HT213658">support document</a> providing more information on how to use the new feature. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/Mac-Gaming.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-899793" /><blockquote>Game Mode optimizes your gaming experience by giving your game the highest priority access to your CPU and GPU, lowering usage for background tasks. And it doubles the Bluetooth sampling rate, which reduces input latency and audio latency for wireless accessories like game controllers and AirPods.</blockquote>Game Mode requires a Mac with <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a>. Here's how to turn it on in &zwnj;macOS Sonoma&zwnj;.<br/>
-<h2>How to Turn on Game Mode</h2><br/>
-Game Mode turns on automatically when you use these steps to view your game in full screen:<br/>
-<ol><li>Move your pointer over the green button in the upper-left corner of the game window.</li><br/>
-<li>Choose Enter Full Screen from the menu that appears.</li></ol>When you enter full screen in this way, a Game mode menu appears in the menu bar. You can use this menu to confirm that Game mode is turned on for your game. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/macos-sonoma-2021-imac-game-mode-menu-bar-turn-game-mode-off.jpg" alt="" width="1560" height="540" class="aligncenter size-full wp-image-913973" /><br/>
-<h2>How to Turn Off Game Mode</h2><br/>
-Game Mode turns off automatically when you stop viewing your game in full screen, but you can also turn it off while your game is still in full screen mode: From the Game Mode menu in the menu bar, choose Turn Game Mode off. Note that Game Mode will remain off for the game you were playing until you turn it on again, even if you quit and reopen the game.<br/>
-<ul><li><a href="https://www.macrumors.com/how-to/ps5-dualsense-edge-controller-iphone-ipad-apple-tv/">How to Pair a PS5 DualSense Edge Controller With Your Mac</a></li></ul><br/>
-Have you seen better gaming performance on your Mac using Game Mode? If so, what games have you been playing? Let us know in the comments.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/game-mode/">Game Mode</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/27/apple-explains-how-game-mode-works-in-macos-sonoma/">Apple Explains How Game Mode Works in macOS Sonoma</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-explains-how-game-mode-works-in-macos-sonoma.2404997/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
