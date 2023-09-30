@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Fri, 29 Sep 2023 21:02:24 PDT</lastBuildDate>
+	<lastBuildDate>Sat, 30 Sep 2023 01:03:40 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -220,11 +220,11 @@ If you have any Private Browsing tabs open in Safari and then leave your compute
 <img src="https://images.macrumors.com/article-new/2023/09/private-browsing-authenticate.jpg" alt="safari" width="1672" height="740" class="aligncenter size-full wp-image-914542" /><br/>
 If you don't tend to leave your Mac unlocked or find the authentication requirement annoying, you can turn it off pretty easily: Go to Safari -> Settings..., click the Privacy section, then uncheck the box next to Require &zwnj;Touch ID&zwnj; to view locked tabs.<br/>
 <br/>
-<h2 id="26._per-website_extension_settings">26. Per-Website Extension Settings</h2><br/>
-In Safari, third-party extensions now have per-website privacy settings where relevant, allowing you to control access for all extensions with access to user data.<br/>
+<h2 id="26._per-website_app_extension_settings">26. Per-Website App Extension Settings</h2><br/>
+In Safari, third-party app extensions have gained per-website privacy settings where relevant, allowing you to control access for all extensions with access to user data.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2023/09/per-app-extension-settings.jpg" alt="safari" width="1672" height="984" class="aligncenter size-full wp-image-914546" /><br/>
-You can find these new options in the Websites section of Safari's Settings window.<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/per-website-app-extension-settings.jpg" alt="safari" width="1672" height="1184" class="aligncenter size-full wp-image-914769" /><br/>
+You can find the "Edit websites..." for each app extension in the Extensions section of Safari's Settings window.<br/>
 <br/>
 <h2 id="27._disable_pointer_acceleration">27. Disable Pointer Acceleration</h2><br/>
 Gamers rejoice – you can now disable pointer acceleration in &zwnj;macOS Sonoma&zwnj;. By default in macOS, the pointer moves more quickly for fast mouse movements and more precisely for slow mouse movements. Previously there was no way to prevent this natively, but that's changed.<br/>
