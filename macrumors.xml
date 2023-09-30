@@ -14,12 +14,34 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Fri, 29 Sep 2023 17:10:12 PDT</lastBuildDate>
+	<lastBuildDate>Fri, 29 Sep 2023 21:02:24 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Wallet&#039;s New Bank Account Feature Likely to Expand to U.S.</title>
+		<link>https://www.macrumors.com/2023/09/29/apple-wallet-connected-cards-feature-in-us/</link>
+		<comments>https://forums.macrumors.com/threads/apple-wallets-new-bank-account-feature-likely-to-expand-to-u-s.2405603/</comments>
+		<pubDate>Fri, 29 Sep 2023 20:11:59 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/09/29/apple-wallet-connected-cards-feature-in-us/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		<category>Apple Wallet</category>
+		
+
+		<description><![CDATA[Starting with the <a href="https://www.macrumors.com/2023/09/27/ios-17-1-beta-1-features/">iOS 17.1 beta</a> released this week, iPhone users in the U.K. can <a href="https://www.macrumors.com/how-to/view-uk-bank-account-balance-apple-wallet/">add debit and credit cards from select banks</a> in the country to the Wallet app and view their available balances and latest transactions for those accounts.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/uk-bank-account-apple-wallet-2.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-914320" /><br/>
+Apple calls this feature Connected Cards, and it's currently available in the U.K. only, but there is now evidence to suggest it will expand to the U.S. in the future.<br/>
+<br/>
+As discovered by software researcher <a href="https://twitter.com/aaronp613/status/1707956080628687258">Aaron</a> (<a href="https://twitter.com/aaronp613/status/1707956080628687258">@aaronp613</a>), the following fine print is shown in the Wallet app when setting up the feature in the U.K.:<blockquote>You permit Apple (Apple Payments Services Ltd (UK) or Apple Processing LLC (US)) to consolidate your account information and provide it to you. We do not store or share this information.</blockquote>Based on this fine print, <em>MacRumors</em> discovered a <a href="https://www.apple.com/legal/privacy/data/en/connected-cards/">legal document on Apple's website</a> explicitly mentioning that the Connected Cards feature will eventually be available to U.S. residents, with personal data to be processed by Apple Processing LLC:<blockquote>If you are in the United States, Connected Cards is provided by Apple Processing LLC; if you are in the United Kingdom, Connected Cards is provided by Apple Payment Services Ltd (together, "Apple").</blockquote>It's unclear when Connected Cards will launch in the U.S., or which banks will participate in the country. In the U.K., the feature relies on the country's open banking framework, but it's unclear how it would work stateside. Earlier this year, the U.S. Consumer Financial Protection Bureau said it expected to <a href="https://www.consumerfinance.gov/about-us/blog/laying-the-foundation-for-open-banking-in-the-united-states/">finalize an open banking rule in 2024</a>.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Apple is working on expanding the new &quot;Connected Cards&quot; feature in iOS 17.1 to the US via &quot;Apple Processing LLC&quot;<br><br>As found in the code: You permit Apple (Apple Payments Services Ltd (UK) or Apple Processing LLC (US)) to consolidate your account information and provide it to you. <a href="https://t.co/t8QxSWa3dL">pic.twitter.com/t8QxSWa3dL</a></p>&mdash; Aaron (@aaronp613) <a href="https://twitter.com/aaronp613/status/1707956080628687258?ref_src=twsrc%5Etfw">September 30, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-wallet/">Apple Wallet</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/29/apple-wallet-connected-cards-feature-in-us/">Apple Wallet&#039;s New Bank Account Feature Likely to Expand to U.S.</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-wallets-new-bank-account-feature-likely-to-expand-to-u-s.2405603/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>macOS Sonoma: 50 New Features and Changes Worth Checking Out</title>
@@ -1030,79 +1052,6 @@ Epic CEO Tim Sweeney in a memo sent out to employees and <a href="https://www.ep
 Sweeney says that layoffs are the only way to stabilize the company's finances. Employees will be provided with severance that includes six months of base pay and six months of paid healthcare.<br/>
 <br/>
 As for the fight against Apple, Sweeney claims that &zwnj;Epic Games&zwnj; is taking steps to cut down on legal expenses, but will continue on with its legal battles so the "metaverse can thrive and bring opportunity to Epic and all other developers."<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/28/epic-games-layoffs/">Epic Games Lays Off Over 800 Employees as Apple Legal Battle Drags On</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/epic-games-lays-off-over-800-employees-as-apple-legal-battle-drags-on.2405337/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s iCloud Website Updated With iOS 17 and macOS Sonoma Features</title>
-		<link>https://www.macrumors.com/2023/09/28/apple-icloud-website-update/</link>
-		<comments>https://forums.macrumors.com/threads/apples-icloud-website-updated-with-ios-17-and-macos-sonoma-features.2405328/</comments>
-		<pubDate>Thu, 28 Sep 2023 11:07:46 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/09/28/apple-icloud-website-update/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iCloud</category>
-		
-
-		<description><![CDATA[Alongside the launch of <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>, and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, Apple has updated its <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> website with design changes and some of the new features that came in the software updates.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/06/iCloud-General-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-803318" /><br/>
-Apple says that the &zwnj;iCloud&zwnj; homepage is now customizable, with options to select specific folders for Notes, a specific mailbox in the Mail app, favorite <a href="https://www.macrumors.com/guide/photos/">Photos</a>, and more. Tiles are now interactive, so you can do things like mark a Reminder as complete or archive an email, plus there are browser notifications that can be set up for &zwnj;iCloud&zwnj; apps.<br/>
-<br/>
-Apple has also redesigned Calendar, Contacts, Reminders, and <a href="https://www.macrumors.com/guide/icloud-drive/">iCloud Drive</a>. The full release notes for the new version of the &zwnj;iCloud&zwnj; website are below.<blockquote><h3>General</h3><br/>
-<strong>Customize What You See in Tiles</strong><br/>
-Choose a specific folder for Notes, a mailbox for Mail, display just your favorite Photos, and more. You can also configure your homepage to show multiple layouts of the same tile so you can see more content from your favorite apps. Access layout options in the menu in the lower-left corner of a tile.<br/>
-<br/>
-<strong>Quick Actions From Tiles</strong><br/>
-Mark reminders as complete, flag an email, see a preview of a file in Drive, and more. Perform actions from tiles by hovering on content and selecting to reveal quick actions. If you're on a touch device, swipe to the left.<br/>
-<br/>
-<strong>Browser Notifications</strong><br/>
-Get notified of new email or event invitations and updates with browser notifications on a PC for Mail and Calendar. You can configure browser notifications in iCloud Settings on the web.<br/>
-<br/>
-<strong>Updated Design</strong><br/>
-New design and layouts across Calendar, Contacts, Reminders, Drive, and more.<br/>
-<br/>
-<h3>iCloud Mail</h3><br/>
-<strong>Attach from iCloud</strong><br/>
-Attach photos and files to email messages directly from iCloud.<br/>
-<br/>
-<strong>Undo Send</strong><br/>
-Easily unsend an email message that you just sent before it reaches the recipient's inbox.<br/>
-<br/>
-<h3>iCloud Calendar</h3><br/>
-<strong>Calendar Identity Control</strong><br/>
-Control the email address others see in event invitations and even use your Custom Email Domain to unite your Calendar and Mail identities. Manage it all from iCloud Calendar settings.<br/>
-<br/>
-<h3>iCloud Drive</h3><br/>
-<strong>List View</strong><br/>
-Switch between viewing your files as icons or in as a list with the toggle in the upper left corner.<br/>
-<br/>
-<strong>Preview Your Files</strong><br/>
-Press the Space bar after selecting a file or photo to get a quick preview before opening or downloading it. You can also access quick view through the options menu.<br/>
-<br/>
-<strong>Access File Options</strong><br/>
-Easily access actions like renaming a file or downloading a copy through the options menu.<br/>
-<br/>
-<h3>iCloud Photos</h3><br/>
-<strong>Memories</strong><br/>
-See your Memories and play them in a full-screen view by clicking on the memory.<br/>
-<br/>
-<strong>Slideshow</strong><br/>
-To view your selection in a slideshow, select Play Slideshow from the menu in the upper right corner.<br/>
-<br/>
-<h3>Notes</h3><br/>
-<strong>Linked Notes</strong><br/>
-Create links to other notes by typing &gt;&gt; or Command + K as a shortcut to add links while writing in your note.<br/>
-<br/>
-<strong>Shared Folders</strong><br/>
-Collaborate with others on an entire folder of notes.<br/>
-<br/>
-<strong>Enhanced Search</strong><br/>
-Use suggested search to refine your search against categories like shared notes, checklists, tags and more.<br/>
-<br/>
-<h3>Reminders</h3><br/>
-<strong>Customize Your Reminders</strong><br/>
-Add dates, locations, flags, and more using the edit details button.</blockquote>Apple's &zwnj;iCloud&zwnj; website is available at <a href="https://www.icloud.com">iCloud.com</a> on any web browser, and it is particularly useful to those who are on a PC and may not otherwise have access to their &zwnj;iCloud&zwnj; content on the machine.<br/>
-<br/>
-<em>(Thanks, Tim!)</em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/icloud/">iCloud</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-music-apple-pay-card-icloud-fitness.134">Apple Music, Apple Pay/Card, iCloud, Fitness+</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/09/28/apple-icloud-website-update/">Apple&#039;s iCloud Website Updated With iOS 17 and macOS Sonoma Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-icloud-website-updated-with-ios-17-and-macos-sonoma-features.2405328/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
