@@ -14,12 +14,35 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 04 Oct 2023 13:03:08 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 04 Oct 2023 17:10:12 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Releases Safari Technology Preview 180 With Bug Fixes and Performance Improvements</title>
+		<link>https://www.macrumors.com/2023/10/04/apple-releases-safari-technology-preview-180/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-180-with-bug-fixes-and-performance-improvements.2406351/</comments>
+		<pubDate>Wed, 04 Oct 2023 14:44:42 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/04/apple-releases-safari-technology-preview-180/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Blurb</category>
+		<category>Safari Technology Preview</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser Apple <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed the &zwnj;Safari Technology Preview&zwnj; to test features that may be introduced into future release versions of Safari.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-785724" src="https://images.macrumors.com/article-new/2021/02/Safari-Technology-Preview-Feature.jpg" alt="" width="2368" height="1332" /><br/>
+&zwnj;Safari Technology Preview&zwnj; 180 includes fixes and updates for Accessibility, CSS, JavaScript, Loading, Media, Web Animations, and Web API.<br/>
+<br/>
+The current &zwnj;Safari Technology Preview&zwnj; release is compatible with machines running macOS Ventura and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, the latest version of macOS that Apple released in September 2023. <br/>
+<br/>
+The &zwnj;Safari Technology Preview&zwnj; update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has <a href="https://developer.apple.com/safari/download/">downloaded the browser</a>. Full release notes for the update are available <a href="https://developer.apple.com/safari/technology-preview/release-notes/">on the Safari Technology Preview website</a>.<br/>
+<br/>
+Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback from developers and users on its browser development process. &zwnj;Safari Technology Preview&zwnj; can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/04/apple-releases-safari-technology-preview-180/">Apple Releases Safari Technology Preview 180 With Bug Fixes and Performance Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-180-with-bug-fixes-and-performance-improvements.2406351/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iOS 17.1 Beta: All the New Features So Far</title>
@@ -739,27 +762,6 @@ The same bug fix should eventually be included in iOS 17.1, which is <a href="ht
 Apple added that the overheating issues were also related to some apps overloading the A17 Pro chip, including Instagram, Uber, and racing game Asphalt 9: Legends. Apple said it was working with the developers of these apps to address the situation. Instagram already released an app update with a fix on Wednesday. Uber also updated its app today, but whether it addresses this issue remains to be determined.<br/>
 <br/>
 Not all iPhone 15 Pro users have experienced overheating, and it's unclear how many users have been impacted by the issue, but it should be fixed soon.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/03/apple-preparing-ios-17-0-3/">Apple Preparing iOS 17.0.3, Likely With Bug Fix for iPhone 15 Pro Overheating Issue</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-preparing-ios-17-0-3-likely-with-bug-fix-for-iphone-15-pro-overheating-issue.2406150/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>watchOS 10.1 Beta 2 Adds Support for Double Tap</title>
-		<link>https://www.macrumors.com/2023/10/03/watchos-10-1-double-tap-support/</link>
-		<comments>https://forums.macrumors.com/threads/watchos-10-1-beta-2-adds-support-for-double-tap.2406141/</comments>
-		<pubDate>Tue, 03 Oct 2023 11:02:05 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/03/watchos-10-1-double-tap-support/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[The second watchOS 10.1 update that Apple <a href="https://www.macrumors.com/2023/09/27/apple-seeds-watchos-10-1-beta-1-to-developers/">released to developers today</a> adds support for Double Tap, a main new feature for the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a> devices.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/09/apple-watch-ultra-double-tap.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-913385" /><br/>
-Double Tap lets Apple Watch users double tap an index finger and thumb together to interact with the Apple Watch using one hand. The sensors in the Apple Watch are able to detect the fine movements, registering it as a tap on the display.<br/>
-<br/>
-The Double Tap gesture can be used to perform single-tap actions such as answering or ending a phone call, stopping a timer, playing and pausing music, snoozing or turning off an alarm, and more.<br/>
-<br/>
-Because Double Tap is enabled through the S9 chip in the &zwnj;Apple Watch Series 9&zwnj; and Apple Watch Ultra, it is a feature that is limited to these models.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/03/watchos-10-1-double-tap-support/">watchOS 10.1 Beta 2 Adds Support for Double Tap</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/watchos-10-1-beta-2-adds-support-for-double-tap.2406141/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
