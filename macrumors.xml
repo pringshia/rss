@@ -14,12 +14,110 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 05 Oct 2023 09:03:26 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 05 Oct 2023 13:03:07 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Nanoleaf Debuts Matter-Enabled Smart Holiday String Lights</title>
+		<link>https://www.macrumors.com/2023/10/05/nanoleaf-matter-holiday-lights/</link>
+		<comments>https://forums.macrumors.com/threads/nanoleaf-debuts-matter-enabled-smart-holiday-string-lights.2406484/</comments>
+		<pubDate>Thu, 05 Oct 2023 12:22:58 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/05/nanoleaf-matter-holiday-lights/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>HomeKit</category>
+		<category>Nanoleaf</category>
+		<category>Matter</category>
+		
+
+		<description><![CDATA[Nanoleaf today announced the upcoming launch of the <a href="https://nanoleaf.me/en-US/products/seasonal/holiday-string-lights/">Nanoleaf Smart Holiday String Lights</a>, which are able to integrate with Matter-compatible smart home platforms like <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/nanoleaf-holiday-lights-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-915782" /><br/>
+The two 10-meter light strands include 250 addressable LEDs that can be set to 16 million colors and multiple shades of white that range from 2700 to 6500K. With IP44 water resistance, the 250 lumen lights are able to be used indoors or outdoors.<br/>
+<br/>
+Lights can be controlled with the Nanoleaf app, with the Home app, or with <a href="https://www.macrumors.com/guide/siri/">Siri</a> voice commands. With the Nanoleaf app, there are customizable color palettes and light animations, plus an option to sync with music that's playing. There are nine preset scenes such as Holiday Magic and Crackling Fireplace.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/nanoleaf-holiday-lights-2.jpg" alt="" width="1500" height="2000" class="aligncenter size-full wp-image-915783" /><br/>
+Because Nanoleaf's lights are Matter-enabled, a Matter-compatible smart home hub like the <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a> or recent <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> 4K is required to use them with &zwnj;HomeKit&zwnj;.<br/>
+<br/>
+The Nanoleaf Smart Holiday String Lights can be <a href="https://nanoleaf.me/en-US/products/seasonal/holiday-string-lights/">pre-ordered from the Nanoleaf website</a> for &#36;120. Orders will begin shipping in mid-October.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a>, <a href="https://www.macrumors.com/guide/nanoleaf/">Nanoleaf</a>, <a href="https://www.macrumors.com/guide/matter/">Matter</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/05/nanoleaf-matter-holiday-lights/">Nanoleaf Debuts Matter-Enabled Smart Holiday String Lights</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/nanoleaf-debuts-matter-enabled-smart-holiday-string-lights.2406484/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Launches SF Symbols 5 With 700+ New Icons for Developers to Use in Apps</title>
+		<link>https://www.macrumors.com/2023/10/05/sf-symbols-5/</link>
+		<comments>https://forums.macrumors.com/threads/apple-launches-sf-symbols-5-with-700-new-icons-for-developers-to-use-in-apps.2406472/</comments>
+		<pubDate>Thu, 05 Oct 2023 11:25:30 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/05/sf-symbols-5/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple today introduced SF Symbols 5, a new version of the library of iconography that it provides to developers for use in apps. The icons have been created to integrate with San Francisco, the system font that Apple uses for its devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/sf-symbols-5.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-915777" /><br/>
+There are more than 5,000 symbols in total, with SF Symbols 5 adding 700 characters. Some of the new symbols in the update include game controller buttons, weather conditions, additional currencies, and automotive indicators. The symbols are available in apps running <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>, <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, tvOS 17, and <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>.<br/>
+<br/>
+The update also introduces symbol animations with behaviors like bounce, scale, and pulse defining how symbols and their layers move. Apple says that the animated effects bring "bring vitality to interfaces and provide feedback to user input while communicating changes in status and ongoing activity." To support animations, symbols have been redrawn and optimized for motion.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/sf-symbols-5-new-additions.jpg" alt="" width="1632" height="982" class="aligncenter size-full wp-image-915778" /><br/>
+Apple included improved tools for developers who want to create custom symbols, including a library of enclosure shapes, badges, and slashes, along with updated annotation tools. A new inspector allows for animation previews for system symbols and custom symbols.<br/>
+<br/>
+Developers are able to use Apple's SF Symbols wherever there are interface icons, including navigation bars, toolbars, tab bars, and context menus.<br/>
+<br/>
+SF Symbols 5 can be <a href="https://developer.apple.com/sf-symbols/">downloaded from Apple's developer site</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/05/sf-symbols-5/">Apple Launches SF Symbols 5 With 700+ New Icons for Developers to Use in Apps</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-launches-sf-symbols-5-with-700-new-icons-for-developers-to-use-in-apps.2406472/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Vision Pro to Support Screen Mirroring via AirPlay and Other Tidbits</title>
+		<link>https://www.macrumors.com/2023/10/05/apple-vision-pro-screen-mirroring-tidbits/</link>
+		<comments>https://forums.macrumors.com/threads/apple-vision-pro-to-support-screen-mirroring-via-airplay-and-other-tidbits.2406464/</comments>
+		<pubDate>Thu, 05 Oct 2023 10:05:53 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/05/apple-vision-pro-screen-mirroring-tidbits/</guid>
+		<dc:creator>Steve Moser</dc:creator>
+		<category>Vision Pro</category>
+		<category>visionOS</category>
+		
+
+		<description><![CDATA[Apple's upcoming Vision Pro headset will support screen mirroring via <a href="https://www.macrumors.com/guide/airplay/">AirPlay</a> or <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a>, according to code found in the <a href="https://www.macrumors.com/2023/10/03/apple-releases-visionos-beta-4/">beta 4 release of visionOS 1.0</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/visionos-windows.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-900014" /><br/>
+Code in beta 4 includes the following strings:<br/>
+<br/>
+<ul><li>Select a device to mirror content to from your <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></li><br/>
+<li>Only one activity is available when mirroring or sharing your view through &zwnj;AirPlay&zwnj; or &zwnj;FaceTime&zwnj;.</li></ul><br/>
+This suggests that users will be able to mirror their Vision Pro display to an external monitor or TV, or share their view with others through &zwnj;AirPlay&zwnj; or &zwnj;FaceTime&zwnj;. Other headsets like Meta Quest have similar features which can help to reduce the feeling of isolation of the headset user from others.<br/>
+<br/>
+<h3>Reset EyeSight Data</h3><br/>
+Apple's <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1.0 beta 4 also includes a new option to reset EyeSight data. EyeSight is the feature that displays a user's simulated eyes on the external display of the &zwnj;Apple Vision Pro&zwnj;. The option reads:<br/>
+<br/>
+<ul><li>You can reset EyeSight by going to Settings > People Awareness and tapping Reset Personalized EyeSight. This will remove personalized eye details from EyeSight, like your eye shape and measurements, but EyeSight will still use your skin tone where available. After you have reset EyeSight, you can restore it by recapturing your Persona.</li></ul><br/>
+<br/>
+<h3>Sharing of Persona Data</h3><br/>
+The code indicates that a user's Persona will be sent to all participants in a &zwnj;FaceTime&zwnj; call in order to allow other participants to view the user's Persona. &zwnj;Apple Vision Pro&zwnj; can generate Personas via machine learning that allow users to share virtual representations of themselves that reflect face and hand movements in real time with others over &zwnj;FaceTime&zwnj;.<br/>
+<br/>
+<ul><li>For &zwnj;FaceTime&zwnj; calls on a &zwnj;visionOS&zwnj; device, your Persona will be sent securely to all of the people on the call so they can view your Persona. After a call is completed, your Persona may remain stored encrypted on the other call participants’ devices for up to 30 days. The other call participants will be able to access your Persona only when they are on a call with you.</li></ul><br/>
+The code also indicates that Personas, but not the data used to generate them, could be stored on Apple's servers, albeit in a manner that isn't accessible to Apple.<br/>
+<br/>
+<ul><li>To create your Persona and personalized EyeSight, &zwnj;Apple Vision Pro&zwnj; cameras capture images and 3D measurements of your face, head, upper body, and facial expressions. The data used to build your Persona and EyeSight do not leave your device. Your Persona may be stored on Apple servers, encrypted in a way that Apple cannot access.</li></ul><br/>
+<br/>
+<h3>Additional New Alerts</h3><br/>
+&zwnj;visionOS&zwnj; 1.0 beta 4 also includes the following new alerts:<br/>
+<br/>
+<ul><li>Calling unavailable while in Travel Mode</li><br/>
+<li>Brighten your lighting to use your Persona.</li><br/>
+<li>This video has excess motion, and could cause discomfort if expanded.</li></ul><br/>
+<br/>
+Apple has stated that &zwnj;Apple Vision Pro&zwnj; will launch in the U.S. in early 2024 before expanding to other countries at later dates.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/05/apple-vision-pro-screen-mirroring-tidbits/">Apple Vision Pro to Support Screen Mirroring via AirPlay and Other Tidbits</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-to-support-screen-mirroring-via-airplay-and-other-tidbits.2406464/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iPad Air 6: Potential New Features and Launch Timing</title>
@@ -81,9 +179,9 @@ iOS 17.1 is expected to be released in late October, so users not interested in 
 		</item>
 		
 		<item>
-		<title>Deals: Get the 13-Inch M2 MacBook Pro for New All-Time Low Price of &#36;999 (&#36;300 Off)</title>
+		<title>Deals: Get the 13-Inch M2 MacBook Pro for New All-Time Low Price of &#36;999 (&#36;300 Off) [Update: Expired]</title>
 		<link>https://www.macrumors.com/2023/10/05/deals-13-inch-m2-macbook-pro-2/</link>
-		<comments>https://forums.macrumors.com/threads/deals-get-the-13-inch-m2-macbook-pro-for-new-all-time-low-price-of-999-300-off.2406430/</comments>
+		<comments>https://forums.macrumors.com/threads/deals-get-the-13-inch-m2-macbook-pro-for-new-all-time-low-price-of-999-300-off-update-expired.2406430/</comments>
 		<pubDate>Thu, 05 Oct 2023 06:14:17 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2023/10/05/deals-13-inch-m2-macbook-pro-2/</guid>
 		<dc:creator>Mitchel Broussard</dc:creator>
@@ -102,7 +200,9 @@ The 512GB 13-inch M2 MacBook Pro is available for <a href="https://buy.geni.us/P
 <br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3C8XMXM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>13-Inch MacBook Pro (M2, 512GB) for &#36;1,199.00</div></a></div><br/>
 <br/>
-Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/05/deals-13-inch-m2-macbook-pro-2/">Deals: Get the 13-Inch M2 MacBook Pro for New All-Time Low Price of &#36;999 (&#36;300 Off)</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-get-the-13-inch-m2-macbook-pro-for-new-all-time-low-price-of-999-300-off.2406430/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<br/>
+<br/>
+<strong>Update:</strong> As of the afternoon of 10/5, Amazon has ended these deals. We aren't sure if they will restock soon or not, so be sure to check back if you're interested.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/05/deals-13-inch-m2-macbook-pro-2/">Deals: Get the 13-Inch M2 MacBook Pro for New All-Time Low Price of &#36;999 (&#36;300 Off) [Update: Expired]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-get-the-13-inch-m2-macbook-pro-for-new-all-time-low-price-of-999-300-off-update-expired.2406430/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -594,124 +694,6 @@ Apple previously offered the Beats Solo3 in Satin Gold and Satin Silver, but the
 Released in 2016, the Beats Solo3 are now very old headphones with outdated technologies, such as micro-USB charging and Bluetooth 4.0, but they do have a W1 chip for quick and easy pairing with Apple devices. The headphones are more affordable than the new <a href="https://www.macrumors.com/2023/07/19/beats-studio-pro-debut/">Beats Studio Pro</a>, which are regularly priced at &#36;349.95.<br/>
 <br/>
 It's unclear how long Apple will continue to sell the Solo3, so keep in mind that the headphones could be discontinued sooner rather than later.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/beats/">Beats</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/04/beats-solo3-now-available-in-gold-and-silver/">Apple&#039;s Old Beats Solo3 Headphones Available in Gold and Silver Again</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-old-beats-solo3-headphones-available-in-gold-and-silver-again.2406288/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Google Debuts New Pixel 8 and Pixel 8 Pro Smartphones, Pixel Watch 2, and Refreshed Pixel Buds Pro</title>
-		<link>https://www.macrumors.com/2023/10/04/google-pixel-8-smartphones/</link>
-		<comments>https://forums.macrumors.com/threads/google-debuts-new-pixel-8-and-pixel-8-pro-smartphones-pixel-watch-2-and-refreshed-pixel-buds-pro.2406275/</comments>
-		<pubDate>Wed, 04 Oct 2023 07:54:12 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/04/google-pixel-8-smartphones/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Google</category>
-		
-
-		<description><![CDATA[Google today refreshed its product lineup with new Pixel smartphones, a new Pixel watch, and updated Pixel earbuds, all of which will compete with Apple devices.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/google-pixel-announcements.jpg" alt="" width="2060" height="1159" class="aligncenter size-full wp-image-915310" /><br/>
-The Pixel 8 and Pixel 8 Pro are Google's latest smartphones, and the Pixel 8 Pro is the high-end model that has all of Google's most recent technological advancements. It features a 6.7-inch 1 to 120Hz display, similar to the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max, while the standard Pixel 8 has a 120Hz 6.2-inch display.<br/>
-<br/>
-Google has updated the design of its Pixel smartphones, adding a polished aluminum frame and matte glass for the Pro and a satin metal frame and polished back glass for the standard Pixel. Google says the devices have softer silhouettes compared to the prior-generation models, and they come in new colors. Google is using Gorilla Glass Victus for both, but the Pro has Corning's Gorilla Glass Victus 2 for better durability.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/google-pixel-8-and-8-pro.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-915318" /><br/>
-The Pixel 8 and Pixel 8 Pro are equipped with Google's Tensor G3 chip with enhanced AI capabilities that can filter out more spam calls, improve image processing, erase background noise from videos, and boost call quality. There's also a Titan <a href="https://www.macrumors.com/guide/m2/">M2</a> security chip, and with this combo, the Pixel phones have facial recognition secure enough to be used to sign in to apps and make payments.<br/>
-<br/>
-According to Google, the triple-lens rear camera system of the Pixel 8 Pro features better performance in low light and improvements to zoom and video capture Google added a new Video Boost technology for HDR+ and enhanced color grading, and the camera also supports Night Sight Video.<br/>
-<br/>
-With the updated Tensor chip, Google is promising that the Pixel 8 devices will get operating system and security updates for seven years, which will rival what Apple delivers with iOS.<br/>
-<br/>
-One of the main selling points of the Pixel 8 Pro is a new thermometer, which can tell you the temperature of an object with just a camera scan. Google is also touting updated Google Assistant functionality, with the Assistant able to translate, read aloud, and summarize web pages, as well as distill key points about what's on the screen.<br/>
-<br/>
-The Pixel 8 Pro is priced starting at &#36;999, which is the same starting price as Apple's &zwnj;iPhone 15 Pro&zwnj;, and the Pixel 8 is priced starting at &#36;699. Best Buy is currently offering pre-order bonuses for both devices, with <a href="https://howl.me/ckIMzlP4MXC">Pixel 8 Pro purchases including a free Pixel Watch 2</a> and <a href="https://howl.me/ckIMzmouv1Q">Pixel 8 pre-orders including free Pixel Buds Pro</a>, with more details on those devices below. Pre-order customers can also receive up to &#36;800 off with a qualified trade-in.<br/>
-<br/>
-Google's new smartphones were introduced alongside the Pixel Watch 2 (<a href="https://howl.me/ckIMATg3ne2">&#36;349.99 for Wi-Fi</a> and <a href="https://howl.me/ckIMASGbw3K">&#36;399.99 for cellular</a>), which incorporates more advanced heart rate tracking and stress detection from Fitbit. There are new body-response and skin temperature sensors that work alongside heart rate and heart rate variability to detect potential signs of stress or reactions from alcohol, caffeine, and other substances.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/pixel-watch-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-915312" /><br/>
-The Pixel Watch 2 directly adopts an Apple feature, Safety Check. Google says that with Safety Check, you can let friends and family know where you are, setting a timer for a check in. When that timer expires, Safety Check prompts you to confirm that you are okay, and if there is no response, real-time location information is shared with emergency contacts.<br/>
-<br/>
-As for battery life, the Pixel Watch 2 is now able to last for up to 24 hours, and it charges to full in 75 minutes. Design wise, it is lighter than the prior model, and it has a thinner domed cover over the circular face.<br/>
-<br/>
-Google is also updating the <a href="https://howl.me/ckIMFeCRY5e">&#36;199.99 Pixel Buds Pro</a> with new colors and new AI-powered features such as clearer calling for reduced noise, hearing wellness measurements that keep track of how loud your music is, conversation detection that pauses music when you start speaking, and improved latency through a new low-latency mode. Aside from the new colors, the updated feature set is available to all Pixel Buds Pro through a software update.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/pixel-buds-pro.jpg" alt="" width="2000" height="1113" class="aligncenter size-full wp-image-915316" /><br/>
-More information about Google's new products <a href="https://store.google.com/?hl=en-US">can be found on Google's website</a>.<br/>
-<br/>
-<small><em>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</em></small><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/google/">Google</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/04/google-pixel-8-smartphones/">Google Debuts New Pixel 8 and Pixel 8 Pro Smartphones, Pixel Watch 2, and Refreshed Pixel Buds Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/google-debuts-new-pixel-8-and-pixel-8-pro-smartphones-pixel-watch-2-and-refreshed-pixel-buds-pro.2406275/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Tim Cook Nets &#36;41.5 Million After Selling Over 500,000 Apple Shares</title>
-		<link>https://www.macrumors.com/2023/10/04/tim-cook-nets-41-million-from-apple-stock-sale/</link>
-		<comments>https://forums.macrumors.com/threads/tim-cook-nets-41-5-million-after-selling-over-500-000-apple-shares.2406274/</comments>
-		<pubDate>Wed, 04 Oct 2023 07:37:07 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/04/tim-cook-nets-41-million-from-apple-stock-sale/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Tim Cook</category>
-		<category>AAPL</category>
-		
-
-		<description><![CDATA[Apple CEO Tim Cook netted around &#36;41.5 million after taxes this week after selling 511,000 shares of Apple stock that he received as part of a performance-based award, according to a <a href="https://www.sec.gov/Archives/edgar/data/320193/000032019323000089/xslF345X05/wk-form4_1696381457.xml">filing</a> released by the U.S. Securities and Exchange Commission.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/05/Tim-Cook-MacBook-16x9.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-894618" /><br/>
-The stock award was determined based on Apple's total shareholder return relative to the other companies in the S&P 500 between the first day of Apple's 2021 fiscal year and the final day of Apple's 2023 fiscal year. Based on this metric, Apple ranked 141 of the 480 companies that were included in the S&P 500.<br/>
-<br/>
-Cook still owns nearly 3.3 million shares of Apple following the sale, the filing indicates.<br/>
-<br/>
-Cook was awarded an additional 73,010 restricted stock units, with one-third of the units to vest on April 1 each year in 2026, 2027, and 2028. He was also awarded 219,030 performance-based restricted stock units that are scheduled to vest on October 1, 2026, but this amount is subject to change based on Apple's S&P 500 performance.<br/>
-<br/>
-In a 2015 interview with <em><a href="https://fortune.com/2015/03/26/tim-cook/">Fortune</a></em>, Cook said that he planned to give away all his wealth, after paying for his nephew's college education. Cook said that he would take a "systematic approach to philanthropy."<br/>
-<br/>
-Cook has been CEO of Apple since 2011, and he has worked at the company for 25 years.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a>, <a href="https://www.macrumors.com/guide/aapl/">AAPL</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/04/tim-cook-nets-41-million-from-apple-stock-sale/">Tim Cook Nets &#36;41.5 Million After Selling Over 500,000 Apple Shares</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tim-cook-nets-41-5-million-after-selling-over-500-000-apple-shares.2406274/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Deals: Apple Watch Ultra 2 Drops to New Record Low Price of &#36;774 Along With More Deals on Series 9 and SE</title>
-		<link>https://www.macrumors.com/2023/10/04/deals-apple-watch-ultra-2-record-low/</link>
-		<comments>https://forums.macrumors.com/threads/deals-apple-watch-ultra-2-drops-to-new-record-low-price-of-774-along-with-more-deals-on-series-9-and-se.2406267/</comments>
-		<pubDate>Wed, 04 Oct 2023 06:59:35 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/04/deals-apple-watch-ultra-2-record-low/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[The Apple Watch Series 9 and Apple Watch Ultra 2 have been out for a few weeks now, and Amazon is still offering launch discounts on both wearables. You can get &#36;9 off the Apple Watch Series 9 and up to &#36;25 off the Apple Watch Ultra 2, with no coupon code required.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/Apple-Watch-Series-9-and-Ultra-2-Deals-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-913210" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Although not particularly steep discounts, Amazon's prices are solid for anyone who's planning to pick up one of the new Apple Watches soon. Most models can be delivered as soon as October 6 for Prime members and around October 9 for free delivery options.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYVS23%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;25 OFF</div>Apple Watch Ultra 2 for &#36;774.00</div></a></div><br/>
-<br/>
-Amazon only has one Apple Watch Ultra 2 model at the new all-time low price of <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYVS23%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;774.00</strong></a> (Indigo Alpine Loop, Large). You'll find a large collection of other models at &#36;779.99, which is still a solid &#36;19 discount for these brand new watches. <br/>
-<br/>
-Another highlight is the 40mm GPS Apple Watch SE at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BDJM3151%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;219.99</strong></a> with an on-page coupon discount, down from &#36;249.99. Only one color is available at this second-best price, the Midnight Aluminum with Midnight Sport Band. You can also get the 44mm GPS Apple Watch SE model at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BDJ9M1HG%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;249.99</strong></a> with an on-page coupon discount, down from &#36;279.00. <br/>
-<br/>
-<h2>Apple Watch Ultra 2</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYVS23%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Indigo Alpine Loop</a> - &#36;774.00, down from &#36;799.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX779JN%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Olive Alpine Loop</a> - &#36;779.99, down from &#36;799.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWZ5VVM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Blue Ocean Band</a> - &#36;779.99, down from &#36;799.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX7C4CL%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Blue/Black Trail Loop</a> - &#36;779.99, down from &#36;799.00</li><br/>
-</ul><br/>
-<h2>Apple Watch Series 9 (GPS)</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">41mm (PRODUCT)RED Aluminum</a> - &#36;389.99, down from &#36;399.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX7PGCS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">41mm Midnight Aluminum</a> - &#36;389.99, down from &#36;399.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9H4NP%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">41mm Silver Aluminum</a> - &#36;389.99, down from &#36;399.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXF9R4Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">45mm (PRODUCT)RED Aluminum</a> - &#36;419.99, down from &#36;429.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX13ZGM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm Midnight Aluminum</a> - &#36;419.99, down from &#36;429.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX6SF1J%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm Silver Aluminum</a> - &#36;419.99, down from &#36;429.00</li></ul><br/>
-<h2>Apple Watch Series 9 (Cellular)</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX94FM3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">41mm (PRODUCT)RED Aluminum</a> - &#36;489.99, down from &#36;499.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3TX7H%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">41mm Midnight Aluminum</a> - &#36;489.99, down from &#36;499.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX58Q84%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">41mm Silver Aluminum</a> - &#36;489.99, down from &#36;499.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXDRLMQ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">41mm Starlight Aluminum</a> - &#36;489.99, down from &#36;499.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">45mm (PRODUCT)RED Aluminum</a> - &#36;519.99, down from &#36;529.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCS22B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm Midnight Aluminum</a> - &#36;519.99, down from &#36;529.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX1V8RQ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm Pink Aluminum</a> - &#36;519.99, down from &#36;529.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWZ55H7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm Silver Aluminum</a> - &#36;519.99, down from &#36;529.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWWWSS5%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm Starlight Aluminum</a> - &#36;519.99, down from &#36;529.00</li></ul> <br/>
-<h2>Apple Watch SE</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BDJM3151%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">40mm GPS Midnight Aluminum</a> - &#36;219.99 with on-page coupon, down from &#36;249.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BDJ9M1HG%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">44mm GPS Silver Aluminum</a> - &#36;249.99 with on-page coupon, down from &#36;279.00</li></ul> Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/04/deals-apple-watch-ultra-2-record-low/">Deals: Apple Watch Ultra 2 Drops to New Record Low Price of &#36;774 Along With More Deals on Series 9 and SE</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/deals-apple-watch-ultra-2-drops-to-new-record-low-price-of-774-along-with-more-deals-on-series-9-and-se.2406267/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
