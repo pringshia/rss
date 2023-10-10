@@ -14,12 +14,296 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 10 Oct 2023 09:03:17 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 10 Oct 2023 13:02:20 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 17.1 Beta 3 Prevents Action Button From Activating the Camera or Flashlight in a Pocket</title>
+		<link>https://www.macrumors.com/2023/10/10/ios-17-1-action-button-tweak/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-1-beta-3-prevents-action-button-from-activating-the-camera-or-flashlight-in-a-pocket.2407118/</comments>
+		<pubDate>Tue, 10 Oct 2023 12:32:56 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/ios-17-1-action-button-tweak/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple in the third beta of iOS 17.1 tweaked the functionality of the Action Button to prevent certain actions from being triggered while the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> is in a pocket or a bag. The Camera, Flashlight, Voice Memo, Focus, and Magnifier functions will no longer activate when the Action Button is pressed if the &zwnj;iPhone&zwnj; is tucked away in a pocket.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-pro-action-button-settings.jpg" alt="" width="3024" height="1624" class="aligncenter size-full wp-image-910653" /><br/>
+Actions that make sense to trigger in a pocket like the mute function and a shortcut can still be activated while the &zwnj;iPhone&zwnj; is inside of a pocket by long pressing on the Action Button, but other features are disabled.<br/>
+<br/>
+In earlier versions of <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> and iOS 17.1, all of the Action Button functions can be accidentally activated in a pocket, draining &zwnj;iPhone&zwnj; battery and causing unwanted recordings and images.<br/>
+<br/>
+Though the Action Button requires a long press to activate, there have still been complaints about it triggering unintentionally while in a pocket, which this change will prevent for functions that cannot be used when the &zwnj;iPhone&zwnj; is in a pocket.<br/>
+<br/>
+Note that these changes apply only to the Action Button, so it is still possible to accidentally trigger the Camera or the Flashlight from the Lock Screen while the &zwnj;iPhone&zwnj; is in a pocket.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/ios-17-1-action-button-tweak/">iOS 17.1 Beta 3 Prevents Action Button From Activating the Camera or Flashlight in a Pocket</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-1-beta-3-prevents-action-button-from-activating-the-camera-or-flashlight-in-a-pocket.2407118/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Wallet App Now Shows Balances for Discover Credit Cards</title>
+		<link>https://www.macrumors.com/2023/10/10/apple-wallet-app-discover-card-balance/</link>
+		<comments>https://forums.macrumors.com/threads/apple-wallet-app-now-shows-balances-for-discover-credit-cards.2407117/</comments>
+		<pubDate>Tue, 10 Oct 2023 12:25:53 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/apple-wallet-app-discover-card-balance/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[U.S. Discover users who add their credit cards to Apple Wallet can now see their total card balance and transaction history right on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> with iOS 17.1 beta 3, which came out today.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/uk-bank-account-apple-wallet-2-discover-1.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-916302" /><br/>
+Apple added the transaction and card balance functionality to the Wallet app as part of its Connected Cards feature, according to <em><a href="https://9to5mac.com/2023/10/10/apple-wallet-app-integrates-balances-discover-us-credit-cards/">9to5Mac</a></em>. Tapping on one of the listed transactions in the Wallet app will take users to the Discover app or website for more information. As of right now, this feature is only available for Discover card holders as Apple must work with each U.S. credit card provider or bank to implement support.<br/>
+<br/>
+A limited number of credit cards have previously supported full transaction history, such as American Express but total credit card balance has not been available.<br/>
+<br/>
+Apple in the initial iOS 17.1 beta began allowing &zwnj;iPhone&zwnj; users in the UK to view the account balances of their bank cards and credit cards <a href="https://www.macrumors.com/how-to/view-uk-bank-account-balance-apple-wallet/">in the Wallet app</a>. UK banks support Apple's Open Banking API to integrate with the Wallet app, and the feature is much more widely available to UK users. Barclays, Monzo, Starling, HSBC, Lloyds, and RBS all support card balances in the Wallet app.<br/>
+<br/>
+Following the release of the UK banking feature, <em>MacRumors</em> discovered that code in iOS 17.1 and references on Apple's website suggested that the feature <a href="https://www.macrumors.com/2023/09/29/apple-wallet-connected-cards-feature-in-us/">would expand to the United States</a>, which turned out to be accurate.<br/>
+<br/>
+Apple will likely partner with additional U.S. banks and credit institutions as the launch of iOS 17.1 approaches.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/apple-wallet-app-discover-card-balance/">Apple Wallet App Now Shows Balances for Discover Credit Cards</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-wallet-app-now-shows-balances-for-discover-credit-cards.2407117/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Warning for iOS 17.1 Beta Testers: Update to Beta 3 or Your Wallet App May Crash</title>
+		<link>https://www.macrumors.com/2023/10/10/ios-17-1-wallet-crash/</link>
+		<comments>https://forums.macrumors.com/threads/warning-for-ios-17-1-beta-testers-update-to-beta-3-or-your-wallet-app-may-crash.2407113/</comments>
+		<pubDate>Tue, 10 Oct 2023 12:04:33 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/ios-17-1-wallet-crash/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released the <a href="https://www.macrumors.com/2023/10/10/apple-seeds-ios-17-1-beta-3-to-developers/">third developer beta of iOS 17.1</a>, an update that is set to come out in October. With this beta, Apple has a warning about the Wallet app, which may not function as intended for those running an earlier iOS 17.1 beta.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/Apple-Wallet-16x9.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-899453" /><br/>
+According to the release notes for the update, now that beta 3 has been released, the Wallet app might crash on launch for those who have not yet updated and are still on iOS 17.1 beta 1 or iOS 17.1 beta 2. Note that this impacts those who have used Apple's "Connected Cards" feature, which is the function that allows UK users to see their debit and credit card balance info directly in the Wallet app.<br/>
+<br/>
+If you're on an earlier beta and wondering why the Wallet app isn't working, the answer is Apple changed something in the backend. You can fix the Wallet app by upgrading to beta 3. Right now, the update is only available to developers, so public beta testers could potentially run into issues. Apple will likely release the third public beta of iOS 17.1 tomorrow.<br/>
+<br/>
+Apple also says that the connection between a card and a bank account could unexpectedly revoke, and that users who encounter this issue will need to follow an "Update Your Connection" repair flow that includes going to Settings, navigating to <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a> &amp; Wallet &gt; Connections, and re-connecting a card.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/ios-17-1-wallet-crash/">Warning for iOS 17.1 Beta Testers: Update to Beta 3 or Your Wallet App May Crash</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/warning-for-ios-17-1-beta-testers-update-to-beta-3-or-your-wallet-app-may-crash.2407113/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Kuo: 2024 Apple Watch &#039;Unlikely&#039; to Have &#039;Significant&#039; Innovation</title>
+		<link>https://www.macrumors.com/2023/10/10/kuo-2024-apple-watch-no-significant-innovation/</link>
+		<comments>https://forums.macrumors.com/threads/kuo-2024-apple-watch-unlikely-to-have-significant-innovation.2407108/</comments>
+		<pubDate>Tue, 10 Oct 2023 11:33:08 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/kuo-2024-apple-watch-no-significant-innovation/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple Watch</category>
+		<category>Ming-Chi Kuo</category>
+		<category>Apple Watch X</category>
+		
+
+		<description><![CDATA[The 2024 Apple Watch is "unlikely" to offer "significant innovative experiences," according to supply chain analyst Ming-Chi Kuo.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/Apple-Watch-Series-9.jpg" alt="" width="2880" height="1620" class="aligncenter size-full wp-image-910331" /><br/>
+For instance, in a <a href="https://medium.com/@mingchikuo/apple-watch-estimates-and-predictions-apple-watch%E4%BC%B0%E7%AE%97%E8%88%87%E9%A0%90%E6%B8%AC-71aaeea2ffd4">post on Medium</a> today, Kuo said the Apple Watch will not be equipped with a micro-LED display or blood glucose monitoring in 2024. He believes these features are at least two years away from being added to the Apple Watch.<br/>
+<br/>
+It's unclear if Kuo's prediction rules out the launch of the <a href="https://www.macrumors.com/2023/08/13/gurman-apple-watch-x-redesign-planned/">rumored "Apple Watch X"</a> next year. <em>Bloomberg</em>'s Mark Gurman said a significantly overhauled "Apple Watch X" would launch in either 2024 or 2025, to mark the tenth anniversary of the device. The original Apple Watch was announced in September 2014 and released in April 2015.<br/>
+<br/>
+The information shared today by Kuo is quite vague, so there are a lot of possibilities and unanswered questions for now. For example, perhaps Kuo is referring to the model that will succeed the Apple Watch Series 9, and the "Apple Watch X" will be an additional high-end model that does offer more innovative changes. This would be similar to the iPhone X launching shortly after the iPhone 8 and iPhone 8 Plus in 2017.<br/>
+<br/>
+Gurman said the "Apple Watch X" would be equipped with a thinner case, and potentially a magnetic band attachment system. And if the device doesn't launch until 2025, perhaps the <a href="https://www.macrumors.com/2023/10/03/microled-apple-watch-still-on-track-for-2025/">rumored micro-LED display will also be ready</a>.<br/>
+<br/>
+Kuo added that Apple Watch shipments are expected to decline to 36-38 million units in 2023, a decline of approximately 15% on a year-over-year basis. However, he said that Apple Watch integration with Apple's upcoming <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Vision Pro</a> headset could "create an unparalleled and innovative health management experience" that boosts shipments.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a>, <a href="https://www.macrumors.com/guide/apple-watch-x/">Apple Watch X</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/kuo-2024-apple-watch-no-significant-innovation/">Kuo: 2024 Apple Watch &#039;Unlikely&#039; to Have &#039;Significant&#039; Innovation</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-2024-apple-watch-unlikely-to-have-significant-innovation.2407108/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases New Firmware for AirPods Pro 2</title>
+		<link>https://www.macrumors.com/2023/10/10/apple-releases-new-airpods-pro-2-firmware-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-new-firmware-for-airpods-pro-2.2407106/</comments>
+		<pubDate>Tue, 10 Oct 2023 11:26:33 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/apple-releases-new-airpods-pro-2-firmware-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>AirPods Pro</category>
+		
+
+		<description><![CDATA[Apple today introduced new firmware for both the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2 with Lightning port and the &zwnj;AirPods Pro&zwnj; 2 with USB-C port. The new firmware is 6A303, up from the 6A301 update that was released in September.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-867348" src="https://images.macrumors.com/article-new/2022/09/airpods-pro-2-pink.jpg" alt="" width="2500" height="1406" /><br/>
+Apple does not provide details on what features might be included in the refreshed firmware, so it is unclear what's new. Apple added multiple new &zwnj;AirPods Pro&zwnj; 2 features in <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> such as Adaptive Audio, Conversation Awareness, and Personalized Volume, so there could be refinements to those updates.<br/>
+<br/>
+Apple does not offer instructions on how to upgrade AirPods software, but firmware is generally installed over-the-air while the ‌‌AirPods‌‌ are connected to an iOS device. Putting the ‌‌‌‌‌AirPods‌‌‌‌‌ in the case, connecting the ‌‌‌‌‌AirPods‌‌‌‌‌ to a power source, and then pairing the ‌‌‌‌‌AirPods‌‌‌‌‌ to an iOS device or Mac should force the update.<br/>
+<br/>
+You can check your ‌‌‌‌‌‌‌&zwnj;AirPods Pro&zwnj;‌‌‌‌‌‌‌ firmware by following these steps:<br/>
+<ul><br/>
+ 	<li>Connect your ‌‌‌‌‌‌&zwnj;AirPods Pro&zwnj;‌‌‌‌‌‌ to your iOS device.</li><br/>
+ 	<li>Open the Settings app.</li><br/>
+ 	<li>Tap General.</li><br/>
+ 	<li>Tap About.</li><br/>
+ 	<li>Tap ‌‌‌‌‌AirPods‌‌‌‌‌.</li><br/>
+ 	<li>Look at the number next to "Firmware Version."</li><br/>
+</ul><br/>
+If we learn more about what's new in these firmware releases, we'll update this article.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/apple-releases-new-airpods-pro-2-firmware-2/">Apple Releases New Firmware for AirPods Pro 2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-firmware-for-airpods-pro-2.2407106/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Amazon Prime Big Deal Days: Get Apple Watch Ultra 2 for &#36;749 (&#36;50 Off)</title>
+		<link>https://www.macrumors.com/2023/10/10/amazon-prime-big-deal-days-apple-watch-ultra/</link>
+		<comments>https://forums.macrumors.com/threads/amazon-prime-big-deal-days-get-apple-watch-ultra-2-for-749-50-off.2407104/</comments>
+		<pubDate>Tue, 10 Oct 2023 10:47:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/amazon-prime-big-deal-days-apple-watch-ultra/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Prime Day</category>
+		
+
+		<description><![CDATA[Amazon's Prime Big Deal Days event is in full swing today, and you can get the Apple Watch Ultra 2 for &#36;749.99 in multiple styles, down from &#36;799.00. This is a new all-time low price on the wearable.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/apple-watch-ultra-2-prime-day.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-916105" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+Amazon has nearly every model of the new Apple Watch Ultra 2 for &#36;749.00 during Prime Day, down from &#36;799.00. This version of the wearable just launched in September and this sale beats the previous low price by about &#36;20.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>Apple Watch Ultra 2 for &#36;749.00</div></a></div><br/>
+<br/>
+We will continue to track Prime Day deals as the event continues, so be sure to keep an eye on our front page for more news. We'll also be regularly updating this article as prices have been fluctuating and several products have gone in and out of stock throughout the event. Remember that you can <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3Ftag%3Dmacrumors-20%26geniuslink%3Dtrue"><strong>sign up for Amazon Prime for free for one month</strong></a> to take advantage of the deals.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/prime-day/">Prime Day</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/amazon-prime-big-deal-days-apple-watch-ultra/">Amazon Prime Big Deal Days: Get Apple Watch Ultra 2 for &#36;749 (&#36;50 Off)</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-prime-big-deal-days-get-apple-watch-ultra-2-for-749-50-off.2407104/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.1 Will Fix iPhone 12 Radiation Levels in France</title>
+		<link>https://www.macrumors.com/2023/10/10/ios-17-1-iphone-12-radiation-fix/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-1-will-fix-iphone-12-radiation-levels-in-france.2407097/</comments>
+		<pubDate>Tue, 10 Oct 2023 10:28:27 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/ios-17-1-iphone-12-radiation-fix/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>France</category>
+		
+
+		<description><![CDATA[Apple <a href="https://support.apple.com/en-us/HT213923">today said</a> that the upcoming iOS 17.1 software that is set to be released later in October will lower <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> 12 radiation levels.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/06/purple-iphone-12-and-12-mini.jpg" alt="" width="1440" height="810" class="aligncenter size-full wp-image-805183" /><br/>
+France in September ordered Apple to cease &zwnj;iPhone&zwnj; 12 sales and implement a "fix" for devices that would bring them into compliance with European electromagnetic radiation standards. Apple <a href="https://support.apple.com/en-us/HT213923">in a support document said</a> that it is disabling the off-body detection feature that allows for slightly higher transmit power when an &zwnj;iPhone&zwnj; is not held or in a pocket.<br/>
+<br/>
+The detection feature is going to be disabled only in France, and Apple says that it is being turned off despite the fact that the country's Agence Française Nationale des Fréquences or ANFR regulatory group made an error when doing its radiation tests. <br/>
+<br/>
+ANFR used a testing protocol that did not account for the &zwnj;iPhone&zwnj;'s off-body detection mechanism, which Apple says has been "thoroughly tested and verified internationally to be an effective mechanism to comply with SAR requirements."<blockquote>iPhone has sensors that can detect when it is sitting on a static surface, like a table, as opposed to being held in the hand or placed in a pocket. This off-body detection mechanism, which has been used in all iPhones for over a decade, allows the device to increase transmit power slightly in off-body scenarios to optimize performance.<br/>
+<br/>
+The specific test protocol used by ANFR requires that devices meet the on-body SAR limits, even when the device is tested off-body on a static surface. This decision is not consistent with international standards, which allow for independent testing of power control mechanisms that may not be activated during standard SAR tests.</blockquote>According to Apple, the &zwnj;iPhone&zwnj; 12 is safe to use "and always has been." The company's iPhones must meet international energy transmission standards for health and safety to ensure limited energy transmission when a device is in contact with the human body.<br/>
+<br/>
+With the iOS 17.1 update, &zwnj;iPhone&zwnj; 12 models in France will no longer increase their allowed power when the off-body state is detected, so coverage in areas where cellular signal is low may cause slightly lower cellular performance in some off-body use cases, though most users are not expected to notice a change. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/france/">France</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/ios-17-1-iphone-12-radiation-fix/">iOS 17.1 Will Fix iPhone 12 Radiation Levels in France</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-1-will-fix-iphone-12-radiation-levels-in-france.2407097/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Amazon Prime Big Deal Days: 10.2-Inch iPad Drops to &#36;249 All-Time Low Price</title>
+		<link>https://www.macrumors.com/2023/10/10/amazon-prime-big-deal-days-ipad/</link>
+		<comments>https://forums.macrumors.com/threads/amazon-prime-big-deal-days-10-2-inch-ipad-drops-to-249-all-time-low-price.2407096/</comments>
+		<pubDate>Tue, 10 Oct 2023 10:28:02 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/amazon-prime-big-deal-days-ipad/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Prime Day</category>
+		
+
+		<description><![CDATA[Prime Day deals have been appearing throughout the day, and now we're highlighting the best price of the year on Apple's 10.2-inch iPad. You can get the 64GB Wi-Fi tablet for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G9CJM1Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;249.00</strong></a>, down from &#36;329.00. This is a record low price, and it's accompanied by numerous best-ever prices across the 2021 iPad lineup.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ipad-prime-day.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-916104" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+The 256GB Wi-Fi iPad is available for &#36;389.00 (&#36;90 off), and you'll also find both cellular tablets on sale at all-time low prices. It's been months since we last tracked deals this steep on the 10.2-inch iPad, so now's a great time to buy for anyone who has been waiting for a good deal.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G9CJM1Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;80 OFF</div>iPad (64GB Wi-Fi) for &#36;249.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G96TFF7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;90 OFF</div>iPad (256GB Wi-Fi) for &#36;389.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G9GLLRN%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;80 OFF</div>iPad (64GB Cellular) for &#36;379.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G96P9RM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;90 OFF</div>iPad (256GB Cellular) for &#36;519.00</div></a></div><br/>
+<br/>
+We will continue to track Prime Day deals as the event continues, so be sure to keep an eye on our front page for more news. We'll also be regularly updating this article as prices have been fluctuating and several products have gone in and out of stock throughout the event. Remember that you can <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3Ftag%3Dmacrumors-20%26geniuslink%3Dtrue"><strong>sign up for Amazon Prime for free for one month</strong></a> to take advantage of the deals.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/prime-day/">Prime Day</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/amazon-prime-big-deal-days-ipad/">Amazon Prime Big Deal Days: 10.2-Inch iPad Drops to &#36;249 All-Time Low Price</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-prime-big-deal-days-10-2-inch-ipad-drops-to-249-all-time-low-price.2407096/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Third Betas of iOS 17.1 and iPadOS 17.1 to Developers</title>
+		<link>https://www.macrumors.com/2023/10/10/apple-seeds-ios-17-1-beta-3-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-third-betas-of-ios-17-1-and-ipados-17-1-to-developers.2407094/</comments>
+		<pubDate>Tue, 10 Oct 2023 10:18:04 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/apple-seeds-ios-17-1-beta-3-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today seeded the third betas of iOS 17.1 and iPadOS 17.1 to developers for testing purposes, with the betas coming one week after Apple <a href="https://www.macrumors.com/2023/10/03/apple-seeds-ios-17-1-beta-2-to-developers/">released the second betas</a> of iOS 17.1 and iPadOS 17.1.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-912331" src="https://images.macrumors.com/article-new/2023/09/iOS-17.1-Feature-Purple.jpg" alt="" width="2500" height="1406" /><br/>
+Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the ‌<a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>‌ Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
+<br/>
+iOS 17.1 adds the option to favorite songs, albums, playlists, artists, and more, with favorited content added to the Library and used for suggestions. Favoriting can be done from the Lock Screen using the Now Playing widget, plus when starting a playlist, you'll now see Song Suggestions.<br/>
+<br/>
+AirDrop transfers can be finished over the internet so close proximity does not need to be maintained, and an Apple Watch running watchOS 10.1 can now use NameDrop with an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> running iOS 17.1.<br/>
+<br/>
+Other new features include a flashlight indicator in the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a> for non <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models, and a Wallet feature that lets those in the UK connect their banks to see balances and transactions. More information is <a href="https://www.macrumors.com/2023/09/27/ios-17-1-beta-1-features/">available in our iOS 17.1 features article</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/apple-seeds-ios-17-1-beta-3-to-developers/">Apple Seeds Third Betas of iOS 17.1 and iPadOS 17.1 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-betas-of-ios-17-1-and-ipados-17-1-to-developers.2407094/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases iOS 16.7.1 for Older iPhones and iPads</title>
+		<link>https://www.macrumors.com/2023/10/10/apple-releases-ios-16-7-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-ios-16-7-1-for-older-iphones-and-ipads.2407093/</comments>
+		<pubDate>Tue, 10 Oct 2023 10:17:29 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/apple-releases-ios-16-7-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 16</category>
+		
+
+		<description><![CDATA[Apple today released iOS 16.7.1 and iPadOS 16.7.1, new software updates that can be downloaded on iPhones and iPads that are not able to run <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, or those that have not yet been updated to the new operating system. iOS 16.7.1 comes a few weeks <a href="https://www.macrumors.com/2023/09/21/apple-releases-ios-17-0-1/">after Apple released iOS 16.7</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/iOS-16.7.1-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-916227" /><br/>
+The software can be downloaded on eligible iPhones and iPads over-the-air by going to Settings &gt; General &gt; Software Update.<br/>
+<br/>
+With &zwnj;iOS 17&zwnj; now out, iOS 16 updates are limited to security improvements and performance optimizations. New features will be added to &zwnj;iOS 17&zwnj; rather than iOS 16.<br/>
+<br/>
+The iOS 16.7.1 update likely addresses <a href="https://www.macrumors.com/2023/10/04/apple-releases-ios-17-0-3/">the same kernel vulnerability</a> that Apple fixed in iOS 17.0.3 last week. The issue was exploited on versions of iOS before 16.6, according to Apple.<div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ios-16.238">iOS 16</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/apple-releases-ios-16-7-1/">Apple Releases iOS 16.7.1 for Older iPhones and iPads</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-16-7-1-for-older-iphones-and-ipads.2407093/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Third Beta of macOS Sonoma 14.1 to Developers</title>
+		<link>https://www.macrumors.com/2023/10/10/apple-seeds-macos-sonoma-14-1-beta-3/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-third-beta-of-macos-sonoma-14-1-to-developers.2407087/</comments>
+		<pubDate>Tue, 10 Oct 2023 10:11:23 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/apple-seeds-macos-sonoma-14-1-beta-3/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today seeded the third beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.1 update to developers for beta testing, with the update coming one week after the <a href="https://www.macrumors.com/2023/10/03/apple-seeds-macos-sonoma-14-1-beta-2/">launch of the second 14.1 beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
+Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Under Beta updates, toggle on the Sonoma Developer Beta. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the developer beta.<br/>
+<br/>
+&zwnj;macOS Sonoma&zwnj; 14.1 includes updates for the Music app, introducing an option to favorite songs, albums, artists, and more, plus there's a new Coverage section in System Settings for keeping track of <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a>+. No other major new additions have been found in the beta as of yet, but there are several promised features that did not make it into the &zwnj;macOS Sonoma&zwnj; launch.<br/>
+<br/>
+Apple says that these features are coming in an update later this year, so we could begin seeing some of them in this beta.<br/>
+<br/>
+Additions we are waiting on include interactive Music widgets, <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Sync improvements, the option to use Stickers through the Tapback menu in Messages, Intelligent form detection and Enhanced AutoFill for PDF documents and forms, an option to complete words by pressing the space bar, collaborative playlists in the Music app, and a favorite songs playlist.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/apple-seeds-macos-sonoma-14-1-beta-3/">Apple Seeds Third Beta of macOS Sonoma 14.1 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-macos-sonoma-14-1-to-developers.2407087/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Third Beta of watchOS 10.1 to Developers</title>
+		<link>https://www.macrumors.com/2023/10/10/apple-releases-watchos-10-1-beta-3/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-third-beta-of-watchos-10-1-to-developers.2407090/</comments>
+		<pubDate>Tue, 10 Oct 2023 10:05:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/10/apple-releases-watchos-10-1-beta-3/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today seeded the third beta of an upcoming watchOS 10.1 update to developers for testing purposes, with the beta coming a week after the <a href="https://www.macrumors.com/2023/10/03/apple-seeds-watchos-10-1-beta-2-to-developers/">release of the second watchOS 10.1 beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
+To install the ‌<a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>‌.1 update, developers will need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the ‌&zwnj;watchOS 10&zwnj;‌.1 Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
+<br/>
+Once beta updates have been activated, ‌watchOS 10.1‌ can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
+<br/>
+watchOS 10.1 adds NameDrop support for sharing contact information with another Apple Watch or an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, plus it includes Double Tap.<br/>
+<br/>
+NameDrop can be used by tapping into the Apple Watch Contacts app, selecting your profile, and tapping on the "Share" option. From there, touching the Apple Watch to another Apple Watch running watchOS 10.1 or an &zwnj;iPhone&zwnj; running <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> will initiate a contact transfer.<br/>
+<br/>
+Double Tap is a gesture exclusive to the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and the Apple Watch Ultra, and it allows users to tap their thumb and index fingers together to do things like bring up the Smart Stack, start a call, pause a song, and more.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/apple-releases-watchos-10-1-beta-3/">Apple Seeds Third Beta of watchOS 10.1 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-watchos-10-1-to-developers.2407090/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Removable Key That Works as a Mouse Could Come to Future MacBook</title>
@@ -89,7 +373,7 @@ Keep up with all of this week's best discounts on Apple products and related acc
 
 		<description><![CDATA[Amazon's second major discount event of the year has kicked off, and in this article we're focusing on accessory discounts for smartphones, tablets, smartwatches, and more that are available during Prime Big Deal Days. You'll need an Amazon Prime membership to access the sale, and <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime"><strong>you can sign up for Prime on Amazon</strong></a>. There's a 30 day free trial, and the service costs &#36;14.99/month thereafter, or &#36;139/year.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2023/10/Prime-Big-Deal-Days-Feature-1.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-915753" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Prime-Big-Deal-Days-Feature-Best-Tech-Accessories.jpg" alt="" width="2002" height="1126" class="alignnone size-full wp-image-916308" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
 As is typical for Prime Day deals, these markdowns are very time sensitive, so sales listed below may disappear fast, and new ones may appear even faster. With this in mind, we'll keep this article updated throughout the event, and keep an eye on the MacRumors front page as we'll be posting particularly great deals in separate articles this week.<br/>
 <br/>
@@ -226,7 +510,7 @@ We will continue to track Prime Day deals as the event continues, so be sure to 
 
 		<description><![CDATA[Amazon is hosting another Prime Day event this year, called <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2F">Amazon Prime Big Deal Days</a> and offering shoppers the first chance to save on holiday shopping from a major retailer. Similar to the first Prime Day, it will last for two days and you'll find a large selection of deals and offers across Amazon's storefront, covering savings on tech, clothing, video games, groceries, and much, much more.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2023/10/Prime-Big-Deal-Days-Feature-1.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-915753" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Prime-Big-Deal-Days-Feature-Best-Apple-Discounts.jpg" alt="" width="2002" height="1126" class="alignnone size-full wp-image-916310" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
 For our coverage, we're focusing entirely on Apple and Apple-related discounts that can be purchased during this 48-hour event on Amazon. As of today, this includes deals on AirPods, Apple Watch, iPad, and MacBook Air.<br/>
 <br/>
@@ -249,12 +533,12 @@ AirPods are always a hot item during holiday discount events, and Amazon is brin
 <br/>
 Most of the deals on the new Apple Watch Series 9 are smaller &#36;10 discounts on Amazon right now, but there is one steep markdown on the 45mm GPS Apple Watch Series 9. You can get the Pink Aluminum model for &#36;389.99, which is a &#36;39 discount and a new all-time low price.<br/>
 <br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX7R7Y7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;39 OFF</div>Apple Watch Series 9 (45mm GPS) for &#36;389.99</div></a></div><h2>Apple Watch Ultra 2</h2><br/>
+<div class="center-wrap"><em><strong>Update: Sold out</strong></em></div><div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX7R7Y7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;39 OFF</div>Apple Watch Series 9 (45mm GPS) for &#36;389.99</div></a></div><h2>Apple Watch Ultra 2</h2><br/>
 <img src="https://images.macrumors.com/article-new/2023/10/apple-watch-ultra-2-prime-day.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-916105" /><br/>
 <br/>
 You can get the Apple Watch Ultra 2 for the new all-time low price of &#36;749.00 during Prime Day, down from &#36;799.00. This version of the wearable just launched in September and nearly every model is available at this record low price on Amazon.<br/>
 <br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX7J5Z3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>Apple Watch Ultra 2 for &#36;749.00</div></a></div><h2>Apple Watch SE (2nd Gen)</h2><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX4JGWL%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>Apple Watch Ultra 2 for &#36;749.00</div></a></div><h2>Apple Watch SE (2nd Gen)</h2><br/>
 <img src="https://images.macrumors.com/article-new/2023/10/apple-watch-se-prime-big-deal.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-916019" /><br/>
 <br/>
 Prime Day has the best deals of the year on the second generation Apple Watch SE, starting at just &#36;199.00 for select 40mm GPS models, down from &#36;249.00. You can get three models at this price, including Midnight Aluminum, Silver Aluminum, and Starlight Aluminum.<br/>
@@ -414,589 +698,6 @@ Valve added that those who wish to continue playing <em>CS:GO</em> on macOS will
 Despite Valve's refund offer to Mac users, the news that a macOS version of <em>Counter-Strike 2</em> is not in active development will come as a bitter blow to many players. Though <em>CS:GO</em> launched all the way back in 2012, it's still one of the most popular FPS games available today, with tens of millions of players logging in each month. So even if less than 1 percent of the user base is on Mac, that could still account for hundreds of thousands of players.<br/>
 <br/>
 Regardless of numbers, one of the reasons Valve is reluctant to develop <em>CS2</em> for Mac is that Apple devices do not provide native support for the Vulkan API that the game is based on. Vulkan was designed to succeed OpenGL and address some of the latter's shortcomings, and while there is an open-source library called MoltenVK that provides a Vulkan implementation on top of Apple's Metal graphics API, it still lacks some of Vulkan's advanced features.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/valve/">Valve</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/">Valve Says Counter-Strike 2 for macOS Not Happening Because There Aren&#039;t Enough Players on Mac to Justify It</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/valve-says-counter-strike-2-for-macos-not-happening-because-there-arent-enough-players-on-mac-to-justify-it.2407023/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Vision Pro Supports Up to 100Hz Refresh Rate</title>
-		<link>https://www.macrumors.com/2023/10/09/vision-pro-100hz-refresh-rate/</link>
-		<comments>https://forums.macrumors.com/threads/apple-vision-pro-supports-up-to-100hz-refresh-rate.2406972/</comments>
-		<pubDate>Mon, 09 Oct 2023 13:47:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/vision-pro-100hz-refresh-rate/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Vision Pro</category>
-		
-
-		<description><![CDATA[The Vision Pro headset that Apple plans to release next year has displays that support up to a 100Hz refresh rate, according to code in the <a href="https://www.macrumors.com/2023/10/03/apple-releases-visionos-beta-4/">latest beta of visionOS</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/vision-pro-headset-1.jpg" alt="" width="2698" height="1518" class="aligncenter size-full wp-image-898460" /><br/>
-Apple says that the Vision Pro headset runs at a 90Hz refresh rate most of the time, but in an online WWDC session, the company revealed that it is also able to switch to 96Hz to support video content filmed at 24 frames per second.<br/>
-<br/>
-Code <a href="https://twitter.com/M1Astra/status/1709429656829534557">found by M1 Astra</a> confirms that the actual maximum Vision Pro refresh rate is 100Hz, but 100Hz is a mode that only activates to "compensate for detected 50Hz flicker from artificial lighting."<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Apple Vision Pro refresh rate revealed according to visionOS beta 4. There seems to be refresh rate modes, 100Hz, 96Hz, and 90Hz. &quot;Adjusted to 100Hz to compensate for detected 50Hz flicker from artifical lighting.&quot; &quot;Travel mode requires 90Hz at all times.&quot; <br>More in the images. <a href="https://t.co/KatDpjxIha">pic.twitter.com/KatDpjxIha</a></p>&mdash; M1 (@M1Astra) <a href="https://twitter.com/M1Astra/status/1709429656829534557?ref_src=twsrc%5Etfw">October 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-The headset will be able to switch between the 90Hz, 96Hz, and 100Hz modes, but for the most part, it will work at 90Hz. In "Travel Mode," which is a mode that can be set when the headset is used on the go such as on a flight, 90Hz is the maximum.<br/>
-<br/>
-The two displays in the Vision Pro headset are custom micro-OLED screens with a total of 23 million pixels, more pixels than a 4K TV for each eye. The Vision Pro headset is set to come out next year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/vision-pro-100hz-refresh-rate/">Apple Vision Pro Supports Up to 100Hz Refresh Rate</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-supports-up-to-100hz-refresh-rate.2406972/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Breakability Test Pits iPhone 15 Pro Max Against Galaxy Z Fold5, Pixel Fold and More</title>
-		<link>https://www.macrumors.com/2023/10/09/iphone-15-breakability-test/</link>
-		<comments>https://forums.macrumors.com/threads/breakability-test-pits-iphone-15-pro-max-against-galaxy-z-fold5-pixel-fold-and-more.2406961/</comments>
-		<pubDate>Mon, 09 Oct 2023 12:22:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/iphone-15-breakability-test/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Device insurance provider Allstate Protection Plans today shared the results of one of its annual device drop tests, and this time around, the company broke some of the most expensive smartphones on the market, including the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max.<br/>
-<br/>
-<div class="center-wrap"><iframe title="Allstate Protection Plans Our Most Expensive Breakability Test Ever" src="https://www.youtube.com/embed/fbdVZbV2VpU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-The drop and dunk tests included the &#36;1,200 &zwnj;iPhone 15 Pro&zwnj; Max, the &#36;1,200 Samsung Galaxy S23 Ultra, the &#36;1,799 Samsung Galaxy Z Fold5, and the &#36;1,799 Google Pixel Fold. These are the most expensive smartphone options from Apple, Google, and Samsung, and all of these phones are constructed from glass.<br/>
-<br/>
-For these tests, Allstate dunked each smartphone in water for 30 minutes and then dropped them onto a sidewalk from six feet up using an apparatus to drop them from the same height and angle.<br/>
-<br/>
-As all of these smartphones have decent water resistance ratings, they were working fine following the dunk test, but glass and concrete sidewalks don't mix well, so no smartphone fared well on the drop test.<br/>
-<br/>
-In the front screen-down drop test, the &zwnj;iPhone 15 Pro&zwnj; Max shattered on the first drop and was unusable with shards of raised and loose glass. The same thing happened to the Galaxy S23.<br/>
-<br/>
-The Z Fold5 and the Google Pixel Fold were able to withstand two screen-down drops with frame damage, screen dents, and scuffing, which Allstate attributes to the raised lip around the interior edge of each display. Screen down in this case refers to the "main" screen visible when the device is opened. When the two smartphones were dropped on their closed outer displays, they both shattered.<br/>
-<br/>
-In back-down drop tests, the &zwnj;iPhone 15 Pro&zwnj; Max and Samsung Galaxy S23 Ultra both shattered immediately. The &zwnj;iPhone 15 Pro&zwnj; Max remained functional, but two of the cameras were no longer working because of damage to the camera glass.<br/>
-<br/>
-Allstate Protection Plans has been doing these tests for years now on each <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> generation, and there hasn't been a lot of improvement despite Apple's glass upgrades. Apple is using a stronger back glass and a "Ceramic Shield" material for the front, but glass is glass and it continues to break.<br/>
-<br/>
-Drop tests are variable and the results depend on the angle the smartphone happens to fall at, the material it hits, the speed of the drop, and more. While Allstate Protection Plans uses the same variables for its tests, there's always an element of unpredictability and these experiments don't reflect real-world results.<br/>
-<br/>
-It should come as no surprise that it's best not to drop a smartphone made of glass onto concrete. Apple sells a range of &zwnj;iPhone&zwnj; cases for customers to choose from, plus it offers <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a>+, covering two incidents of accidental damage each year for a &#36;29 deductible. &zwnj;AppleCare&zwnj;+ is a good idea if you plan to go caseless.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/iphone-15-breakability-test/">Breakability Test Pits iPhone 15 Pro Max Against Galaxy Z Fold5, Pixel Fold and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/breakability-test-pits-iphone-15-pro-max-against-galaxy-z-fold5-pixel-fold-and-more.2406961/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>&#039;Green Bubbles and Blue Bubbles Want to Be Together&#039; Says Samsung Ad Pushing Apple to Adopt RCS</title>
-		<link>https://www.macrumors.com/2023/10/09/samsung-pushes-apple-to-adopt-rcs/</link>
-		<comments>https://forums.macrumors.com/threads/green-bubbles-and-blue-bubbles-want-to-be-together-says-samsung-ad-pushing-apple-to-adopt-rcs.2406956/</comments>
-		<pubDate>Mon, 09 Oct 2023 11:32:15 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/samsung-pushes-apple-to-adopt-rcs/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Samsung</category>
-		<category>Google</category>
-		<category>RCS</category>
-		
-
-		<description><![CDATA[Samsung today joined Google in attempting to convince Apple to adopt the Rich Communication Services or RCS messaging standard that Google has been pushing.<br/>
-<br/>
-<div class="center-wrap"><iframe title="Green bubbles and blue bubbles want to be together. Help Apple #GetTheMessage." src="https://www.youtube.com/embed/Rvr6XSFKJA8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-In a short ad that's a riff on Romeo and Juliet, Samsung features two smartphone interfaces texting each other. "Juliet" is the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> in the metaphor and her parents (aka Apple) won't allow for the adoption of RCS. "What did green ever do to them? We're bubbles too," laments the "Romeo" Android smartphone. "And literally everyone wants us to be together. Ugh," writes Juliet.<br/>
-<br/>
-It's ultimately a bit of a confusing ad, but Samsung makes it clear with the title of the video: "Green bubbles and blue bubbles want to be together." Samsung also includes the "Help Apple #GetTheMessage" tagline and hashtag that Google has been using for its RCS campaign.<br/>
-<br/>
-Google has been hounding Apple about adopting RCS for several years now using ads, billboards, websites, social media campaigns, and more, but Apple has refused.<br/>
-<br/>
-RCS, or Rich Communication Services, is a communication protocol designed by and adopted by Google. Google has been pushing Apple to implement support for RCS, but Apple devices continue to support the older SMS protocol. Google claims that Apple is responsible for all the issues that Android and &zwnj;iPhone&zwnj; users have texting one another, including lack of encryption, broken group chats, pixelated pictures and videos, and the green bubbles.<br/>
-<br/>
-Apple CEO <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> <a href="https://www.macrumors.com/2022/09/08/tim-cook-on-ios-rcs-buy-your-mom-an-iphone/">in September 2022</a> said that RCS is not a priority for Apple and that it is not a feature that &zwnj;iPhone&zwnj; users are asking for.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/samsung/">Samsung</a>, <a href="https://www.macrumors.com/guide/google/">Google</a>, <a href="https://www.macrumors.com/guide/rcs/">RCS</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/samsung-pushes-apple-to-adopt-rcs/">&#039;Green Bubbles and Blue Bubbles Want to Be Together&#039; Says Samsung Ad Pushing Apple to Adopt RCS</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/green-bubbles-and-blue-bubbles-want-to-be-together-says-samsung-ad-pushing-apple-to-adopt-rcs.2406956/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>OLED iPad Mini and iPad Air Could Follow 2024&#039;s iPad Pro</title>
-		<link>https://www.macrumors.com/2023/10/09/oled-ipad-mini-and-ipad-air-2026/</link>
-		<comments>https://forums.macrumors.com/threads/oled-ipad-mini-and-ipad-air-could-follow-2024s-ipad-pro.2406938/</comments>
-		<pubDate>Mon, 09 Oct 2023 08:40:16 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/oled-ipad-mini-and-ipad-air-2026/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>iPad Air</category>
-		<category>iPad Pro 11&quot;</category>
-		<category>iPad Pro 12.9&quot;</category>
-		<category>iPad mini</category>
-		<category>OLED</category>
-		<category>OLED iPad Pro</category>
-		<category>Omdia</category>
-		
-
-		<description><![CDATA[Apple is considering bringing OLED displays to the <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a> and <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> from 2026, according to a <a href="https://omdia.tech.informa.com/blogs/2023/apple-ipad-panel-purchasing-plan-and-forecast">report</a> from technology research firm Omdia. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/06/OLED-iPad-Air.jpg" alt="" width="2363" height="1329" class="alignnone size-full wp-image-806474" /><br/>
-In a detailed report forecasting Apple's <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> panel purchasing plans published earlier today, Omdia explains that 2024 will mark the beginning of a transition to OLED in its tablet lineup. The potential transition to OLED on Apple's two mid-range tablets is apparently part of its OLED strategy from 2026 onwards.<br/>
-<br/>
-Apple has ostensibly not yet committed to bringing the more advanced display technology to its mid-range tablets, and may be planning to review how the market responds to the first <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models that feature OLED displays, which are expected to launch next year, before locking in new display panels for the &zwnj;iPad mini&zwnj; and &zwnj;iPad Air&zwnj;.<br/>
-<br/>
-The report also corroborates details about the rumored <a href="https://www.macrumors.com/guide/oled-ipad-pro/">iPad Pro models with OLED displays</a> that are widely expected to launch next year, with the panels due to be supplied by LG and Samsung. Apple is said to currently be seeking more suppliers for OLED displays designed for the &zwnj;iPad&zwnj;.<br/>
-<br/>
-The next-generation &zwnj;iPad Pro&zwnj; is expected to launch in 2024 and be the first major update to the product since 2018, introducing "<a href="https://www.macrumors.com/2023/08/27/new-ipad-pro-and-redesigned-magic-keyboard/">fundamental changes</a>" that include larger OLED displays, the M3 chip, and support for a completely <a href="https://www.macrumors.com/2023/08/27/new-ipad-pro-and-redesigned-magic-keyboard/">redesigned Magic Keyboard</a> accessory.<br/>
-<br/>
-Omdia added that after the 11th-generation &zwnj;iPad&zwnj; launches, Apple may "gradually migrate from 10.2-inch iPads to 10.9-inch iPads," suggesting that the ninth-generation model will be discontinued.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a>, <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>, <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/oled/">OLED</a>, <a href="https://www.macrumors.com/guide/oled-ipad-pro/">OLED iPad Pro</a>, <a href="https://www.macrumors.com/guide/omdia/">Omdia</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#11-iPad-Pro">11" iPad Pro (Caution)</a>, <a href="https://buyersguide.macrumors.com/#12-9-iPad-Pro">12.9" iPad Pro (Caution)</a>, <a href="https://buyersguide.macrumors.com/#iPad_Mini">iPad Mini (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/oled-ipad-mini-and-ipad-air-2026/">OLED iPad Mini and iPad Air Could Follow 2024&#039;s iPad Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/oled-ipad-mini-and-ipad-air-could-follow-2024s-ipad-pro.2406938/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Amazon Prime Big Deal Days: Take &#36;50 Off 2nd Gen Apple Watch SE Models, Starting at Just &#36;199 [Updated]</title>
-		<link>https://www.macrumors.com/2023/10/09/amazon-prime-big-deal-days-apple-watch-se/</link>
-		<comments>https://forums.macrumors.com/threads/amazon-prime-big-deal-days-take-50-off-2nd-gen-apple-watch-se-models-starting-at-just-199-updated.2406935/</comments>
-		<pubDate>Mon, 09 Oct 2023 08:29:53 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/amazon-prime-big-deal-days-apple-watch-se/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Prime Day</category>
-		
-
-		<description><![CDATA[Prime Day deals have hit the second generation Apple Watch SE today, starting at just <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;199.00</strong></a> for select 40mm GPS models, down from &#36;249.00. You can get three models at this price, including Midnight Aluminum, Silver Aluminum, and Starlight Aluminum.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/apple-watch-se-prime-big-deal.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-916019" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-These are the lowest prices we've ever seen on Apple Watch SE. We're also tracking a sale on the 40mm GPS model at &#36;249.00 (&#36;30 off) and a few cellular devices. You can find all of these discounts in the lists below.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>Apple Watch SE (40mm GPS) for &#36;199.00</div></a></div><strong>40mm GPS</strong><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Midnight Aluminum</a> - &#36;199.00, down from &#36;249.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX8RVB8%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Silver Aluminum</a> - &#36;199.00, down from &#36;249.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX2F5NJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Starlight Aluminum</a> - &#36;199.00, down from &#36;249.00</li></ul><br/>
-<strong>44mm GPS</strong><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYCT6C%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Starlight Aluminum</a> - &#36;229.00, down from &#36;279.00</li></ul><br/>
-<strong>40mm Cellular</strong><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX2FJZ6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Midnight Aluminum</a> - &#36;249.00, down from &#36;299.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX41VL9%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Silver Aluminum</a> - &#36;249.00, down from &#36;299.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX7PF7V%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Starlight Aluminum</a> - &#36;249.00, down from &#36;299.00</li></ul><br/>
-<strong>44mm Cellular</strong><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXB1D3Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Midnight Aluminum</a> - &#36;279.00, down from &#36;329.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3YF12%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Silver Aluminum</a> - &#36;279.00, down from &#36;329.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCHR51%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Starlight Aluminum</a> - &#36;279.00, down from &#36;329.00</li></ul> We will continue to track Prime Day deals as the event continues, so be sure to keep an eye on our front page for more news. Remember that you can <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3Ftag%3Dmacrumors-20%26geniuslink%3Dtrue"><strong>sign up for Amazon Prime for free for one month</strong></a> to take advantage of the deals.<br/>
-<br/>
-<strong>Update:</strong> Steeper discounts have hit the Apple Watch SE, and so we've updated this article with the new prices.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/prime-day/">Prime Day</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/amazon-prime-big-deal-days-apple-watch-se/">Amazon Prime Big Deal Days: Take &#36;50 Off 2nd Gen Apple Watch SE Models, Starting at Just &#36;199 [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-prime-big-deal-days-take-50-off-2nd-gen-apple-watch-se-models-starting-at-just-199-updated.2406935/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple CEO Tim Cook Talks the Future of iPhone, Driving an EV, and More in New Interview</title>
-		<link>https://www.macrumors.com/2023/10/09/cook-talks-iphone-future-and-more-in-new-interview/</link>
-		<comments>https://forums.macrumors.com/threads/apple-ceo-tim-cook-talks-the-future-of-iphone-driving-an-ev-and-more-in-new-interview.2406931/</comments>
-		<pubDate>Mon, 09 Oct 2023 08:15:04 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/cook-talks-iphone-future-and-more-in-new-interview/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Tim Cook</category>
-		<category>Environmental Responsibility</category>
-		<category>Apple Environment</category>
-		
-
-		<description><![CDATA[Apple CEO <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> has explained why the company releases a new <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> every year, what the device will be like in the future, what he is personally doing to reduce his carbon footprint, and more in a new <a href="https://brut.media/in/science-and-technology/tim-cook-speaks-to-brut-bc5fd23c-d951-4a9c-850f-55951d24f303">interview with <em>Brut.</em></a><br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/08/tim-cook-2022-iphone-14.jpg" alt="" width="800" height="448" class="alignnone size-full wp-image-906012" /><br/>
-The brief interview, shot at an Apple data center and solar power facility in Denmark, delves mainly into Cook's opinion on various environmental issues such as "greenwashing." Cook explained that Apple wants to contrast its secrecy about its products with openness about its environmental efforts because it wants to be copied by others. Cook added that Apple still has more work to do in terms of renewable power and use of recycled materials to reach its environmental goals.<br/>
-<br/>
-When asked if "we really need a new &zwnj;iPhone&zwnj; every year," Cook answered:<blockquote>I think having an iPhone every year for those people that want it is a great thing. And what we do is we allow people to trade in their phone. And so we then resell that phone if it's still working. And if it's not working, we've got ways of disassembling it and taking the materials to make a new iPhone out of.</blockquote><br/>
-<br/>
-The interviewer then asked what the &zwnj;iPhone&zwnj; will be like 20 or 30 years into the future:<blockquote>I think it'll be carbon neutral. I think obviously it will be way ahead of where it currently is, but I wouldn't want to give you all of our secrets in that regard. I'll just say from an environmental point of view, it'll be carbon neutral.</blockquote><br/>
-<br/>
-When asked what Cook does personally to help the environment, he responded:<blockquote>I do drive an electric car. I try to avoid plastics and plastic bottles. I recycle. I compost. All of these things I try to do, everything I do, I try my best to do something that has a lower carbon footprint.</blockquote><br/>
-<br/>
-See the full interview video over on <em>Brut.</em>'s <a href="https://brut.media/in/science-and-technology/tim-cook-speaks-to-brut-bc5fd23c-d951-4a9c-850f-55951d24f303">website</a> or <a href="https://www.tiktok.com/@brutamerica/video/7287338638239747371">TikTok</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a>, <a href="https://www.macrumors.com/guide/environmental-responsibility/">Environmental Responsibility</a>, <a href="https://www.macrumors.com/guide/apple-environment/">Apple Environment</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/cook-talks-iphone-future-and-more-in-new-interview/">Apple CEO Tim Cook Talks the Future of iPhone, Driving an EV, and More in New Interview</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-ceo-tim-cook-talks-the-future-of-iphone-driving-an-ev-and-more-in-new-interview.2406931/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Amazon Prime Big Deal Days: 15-Inch MacBook Air Drops to Record Low Prices at &#36;250 Off</title>
-		<link>https://www.macrumors.com/2023/10/09/amazon-prime-big-deal-days-15-inch-macbook-air/</link>
-		<comments>https://forums.macrumors.com/threads/amazon-prime-big-deal-days-15-inch-macbook-air-drops-to-record-low-prices-at-250-off.2406914/</comments>
-		<pubDate>Mon, 09 Oct 2023 06:36:25 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/amazon-prime-big-deal-days-15-inch-macbook-air/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Prime Day</category>
-		
-
-		<description><![CDATA[Amazon has begun to discount a few Apple products ahead of its fall "Prime Big Deal Days" event, which officially begins tomorrow. One of the best deals you can already get is on the 15-inch M2 MacBook Air, which is &#36;250 off and at all-time low prices right now.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/15-inch-macbook-air-prime-big-deal.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-916018" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-The 256GB model is available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C75ZRQLB%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;1,049.00</strong></a>, down from &#36;1,299.00. Amazon has all four colors available at this price, and you'll find an October 10 through October 14 shipping estimate for most options.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C75ZRQLB%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-Inch MacBook Air (256GB) for &#36;1,049.00</div></a></div><br/>
-<br/>
-The 512GB model is available at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C76D4RWJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,249.00</strong></a> in all four colors, down from &#36;1,499.00. Both sales represent a match for the best prices we've ever seen on this 2023 15-inch MacBook Air.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C76D4RWJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-Inch MacBook Air (512GB) for &#36;1,249.00</div></a></div><br/>
-<br/>
-We will continue to track Prime Day deals as the event continues, so be sure to keep an eye on our front page for more news. Remember that you can <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3Ftag%3Dmacrumors-20%26geniuslink%3Dtrue"><strong>sign up for Amazon Prime for free for one month</strong></a> to take advantage of the deals.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/prime-day/">Prime Day</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/amazon-prime-big-deal-days-15-inch-macbook-air/">Amazon Prime Big Deal Days: 15-Inch MacBook Air Drops to Record Low Prices at &#36;250 Off</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-prime-big-deal-days-15-inch-macbook-air-drops-to-record-low-prices-at-250-off.2406914/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Gurman: Vision Pro 2 Development Focusing on Size, Weight, and Prescription Lenses</title>
-		<link>https://www.macrumors.com/2023/10/09/vision-pro-2-focusing-on-size-weight-lenses/</link>
-		<comments>https://forums.macrumors.com/threads/gurman-vision-pro-2-development-focusing-on-size-weight-and-prescription-lenses.2406901/</comments>
-		<pubDate>Mon, 09 Oct 2023 04:35:24 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/vision-pro-2-focusing-on-size-weight-lenses/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Vision Pro</category>
-		<category>Bloomberg</category>
-		<category>Mark Gurman</category>
-		
-
-		<description><![CDATA[Early work on Apple's second-generation Vision Pro headset focuses on reducing the device's size and weight, as well as an improved experience for users who need prescription lenses, according to <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Orange.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-898552" /><br/>
-In the <a href="https://www.bloomberg.com/news/newsletters/2023-10-08/apple-plans-smaller-lighter-vision-headset-meta-works-on-cheaper-quest-3-ar-lnhh1ulx">latest edition</a> of his "Power On" newsletter, Gurman explained that Apple's Vision Products Group has moved onto next-generation headset models and is considering several options, including lower-end and more powerful versions. The work, which remains early, seeks to make the device lighter and slightly smaller to address complaints that the first-generation Vision Pro feels too heavy on the head.<br/>
-<br/>
-Apple is also apparently exploring how to make a headset purchase simpler for those who wear glasses. The first-generation Vision Pro requires wearers of glasses to separately purchase Zeiss prescription lenses that snap on to the displays using magnets. The company reportedly made this decision to reduce the overall thickness of the headset, but the need to stock thousands of different lens combinations is reportedly proving difficult.<br/>
-<br/>
-With the second-generation, Apple is considering shipping custom-built Vision Pro headsets with preinstalled prescription lenses directly from the factory. Gurman notes that this invokes a different set of problems with sharing a headset, reselling it, and when a user's optical prescription changes over time.<br/>
-<br/>
-According to other reports, the second-generation Vision Pro headset is not expected to launch until around <a href="https://www.macrumors.com/2023/05/16/apple-second-gen-headset-low-high-end/">2025</a> to <a href="https://www.macrumors.com/2023/09/26/low-cost-vision-pro-canceled/">2027</a>. The first-generation launches early next year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/vision-pro-2-focusing-on-size-weight-lenses/">Gurman: Vision Pro 2 Development Focusing on Size, Weight, and Prescription Lenses</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/gurman-vision-pro-2-development-focusing-on-size-weight-and-prescription-lenses.2406901/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Will Apple Release New Macs Soon? Here&#039;s What the Latest Rumors Say</title>
-		<link>https://www.macrumors.com/2023/10/09/will-apple-release-new-macs-this-year/</link>
-		<comments>https://forums.macrumors.com/threads/will-apple-release-new-macs-soon-heres-what-the-latest-rumors-say.2406899/</comments>
-		<pubDate>Mon, 09 Oct 2023 04:12:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/will-apple-release-new-macs-this-year/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple often releases new Macs in the fall, but whether that will happen this year is far from certain. It's the second week of October now, and if Apple plans to launch Macs before the holidays, recent history suggests it will happen this month. Here's what we know so far.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/02/spring-2022-possible-macs.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-837944" /><br/>
-It's been over 120 days since Apple released a new Mac, the last being <a href="https://www.macrumors.com/guide/m2/">M2</a> versions of the <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a>, <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a>, and 15-inch <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, all of which arrived in June. Prior to that, in January, Apple released &zwnj;M2&zwnj; Pro and &zwnj;M2&zwnj; Max versions of the 14-inch and 16-inch MacBook Pro, alongside new M2-powered <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> models.<br/>
-<br/>
-Meanwhile, the 13-inch &zwnj;MacBook Air&zwnj; and 13-inch MacBook Pro  haven't been updated in over 450 days, and the <a href="https://www.macrumors.com/roundup/imac/">iMac</a> hasn't seen an update in over 880 days (Apple unveiled the <a href="https://www.macrumors.com/guide/m1/">M1</a> 24-inch &zwnj;iMac&zwnj; way back in April 2021). It's these last three models that are most due updates, but that's not to say Apple will prioritize them for updates over other Macs.<br/>
-<br/>
-If you look at the last decade, Apple often holds an annual fall event in which it launches new Macs and iPads. While Apple that didn't happen last year, there were October events in 2013, 2014, 2016, 2018, 2020, and 2021. <br/>
-<br/>
-<em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> recently told <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a> that he <a href="https://www.macrumors.com/2023/09/09/gurman-october-apple-event-unlikely/">does not</a> expect Apple to hold an October event because the company does not have enough new products and features to justify it. <br/>
-<br/>
-However, that doesn't mean we won't be seeing any more new Macs from Apple this year. Apple could choose to release new models via press release instead, like it did in January 2023 for the 14-inch and 16-inch MacBook Pro models. At the same time, Apple may not have any new models forthcoming this side of Christmas 2023. So what do the rumors say?<br/>
-<br/>
-<h3>Mac Pro, Mac Studio, MacBook Air</h3><br/>
-It's worth repeating that Apple this year has already updated the &zwnj;Mac Pro&zwnj;, &zwnj;Mac Studio&zwnj;, and 15-inch &zwnj;MacBook Air&zwnj;. These updates were released in June 2023, so there is little chance that they will be superseded by newer models before 2024.<br/>
-<br/>
-However, Apple has not yet updated the smaller 13-inch &zwnj;MacBook Air&zwnj; this year. This model was originally announced in June 2022, so there is scope for a refresh soon. According to <em>Bloomberg</em>'s &zwnj;Mark Gurman&zwnj;, the 13-inch &zwnj;MacBook Air&zwnj; could be one of the <a href="https://www.macrumors.com/2023/07/17/apple-m3-macs-october-event/">first beneficiaries of Apple's new M3 chip</a>, but it is unclear if this upgrade will arrive in late 2023 or early 2024.<br/>
-<br/>
-<h3>Mac Mini, 14-inch and 16-inch MacBook Pro</h3><br/>
-Apple updated the 14-inch and 16-inch MacBook Pro with &zwnj;M2&zwnj; Pro and &zwnj;M2&zwnj; Max chips in January, and most rumors suggest refreshed models are coming next year. According to Gurman, the next version of these two machines are expected to feature M3 Pro and M3 Max chips and will "<a href="https://www.macrumors.com/2023/07/23/new-macbook-pro-and-mac-mini-with-m3-2024-launch/">probably</a>" launch by the middle of 2024 at the latest.<br/>
-<br/>
-On the other hand, a <a href="https://www.macrumors.com/2023/10/05/new-14-16-inch-macbook-pro-models-2023/">supply chain report in October</a> claimed that Apple is preparing to release new 14-inch and 16-inch MacBook Pro models with more power-efficient mini-LED displays before the year is out.<br/>
-<br/>
-As for the &zwnj;Mac mini&zwnj;, Apple updated the machine with &zwnj;M2&zwnj; chips in January 2023, while M3-powered models are not expected to emerge until late 2024 at the earliest, according to Gurman.<br/>
-<br/>
-<h3>iMac, 13-inch MacBook Pro</h3><br/>
-That leaves the &zwnj;iMac&zwnj; and 13-inch MacBook Pro. Apple's 24-inch &zwnj;iMac&zwnj; was refreshed with a new design, &zwnj;M1&zwnj; chips, and new color options in April 2021. While the ‌&zwnj;iMac&zwnj;‌ did not receive an upgrade to the &zwnj;M2&zwnj; chip this year, a refreshed model with the M3 chip is expected to launch soon, potentially towards the end of this year.<br/>
-<br/>
-The 13-inch MacBook Pro was updated with the &zwnj;M2&zwnj; chip in June 2022, so this is another model that could see an upgrade soon, possibly later this year. <br/>
-<br/>
-With that said, supply chain analyst <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a> in September <a href="https://www.macrumors.com/2023/09/08/kuo-first-m3-macbooks-unlikely-2023/">claimed</a> that Apple is unlikely to release any new MacBook models with the M3 chip this year. However, Kuo only ruled out new MacBooks, so there is still potential for a new &zwnj;iMac&zwnj; this year.<br/>
-<br/>
-<h2>Summing Up</h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/06/New-Macs-2023.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-900100" /><br/>
-As things stand, we could still see at least one Mac with a new M3 chip before the end of the year. The as-yet-unannounced M3 chip is widely expected to be fabricated with TSMC's <a href="https://www.macrumors.com/guide/3nm/">3nm</a> process for significant performance and power efficiency improvements compared to the current 5nm-based &zwnj;M2&zwnj; chip, which debuted in June 2022.<br/>
-<br/>
-Given that Apple launched new 14-inch and 16-inch MacBook Pro models in January, and more recently new 15-inch &zwnj;MacBook Air&zwnj;, &zwnj;Mac Studio&zwnj;, and &zwnj;Mac Pro&zwnj; models in June, Gurman believes the first beneficiaries of the new M3 chip will be the next &zwnj;iMac&zwnj;, 13-inch &zwnj;MacBook Air&zwnj;, and 13-inch MacBook Pro.<br/>
-<br/>
-Gurman has said that if these products do come out in 2023, Apple is likely to unveil them via press release rather than with an event.<br/>
-<br/>
-Lastly, <em>MacRumors</em> received information in early October indicating that Apple was preparing to <a href="https://www.macrumors.com/2023/10/03/trade-in-changes-may-indicate-new-mac-this-month/">accept some of its latest Mac models for trade-in</a>, suggesting it may be proceeding with plans to release new Mac models. Whether this correlates with the launch of at least one new machine around mid-October however remains to be seen.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/will-apple-release-new-macs-this-year/">Will Apple Release New Macs Soon? Here&#039;s What the Latest Rumors Say</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/will-apple-release-new-macs-soon-heres-what-the-latest-rumors-say.2406899/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Video Shows Off Prototype Touchscreen iMac... From 1999</title>
-		<link>https://www.macrumors.com/2023/10/09/video-of-prototype-touchscreen-imac-g3/</link>
-		<comments>https://forums.macrumors.com/threads/video-shows-off-prototype-touchscreen-imac-from-1999.2406894/</comments>
-		<pubDate>Mon, 09 Oct 2023 03:24:16 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/video-of-prototype-touchscreen-imac-g3/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[<a href="https://www.macrumors.com/guide/touchscreen-mac/">Touchscreen Mac</a> rumors are not new, but it turns out that neither are touchscreen Macs. In 1999, a company called Elo produced and sold touchscreen versions of the <a href="https://www.macrumors.com/roundup/imac/">iMac</a> G3 through Apple's Value Added Reseller program for use as kiosk machines, and <a href="https://www.youtube.com/watch?v=oZGswRH4wbM">YouTuber Michael MJD</a> recently managed to get hold of one. <br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/oZGswRH4wbM?si=uuHYHNbawfNWWSJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-The "ready-to-go tabletop kiosks" featured Elo's own iTouch touch-on-tube interface, which used surface acoustic waves instead of an overlay to detect where users touched the screen. You can see a prototype Elo &zwnj;iMac&zwnj; in action in <a href="https://www.youtube.com/watch?v=oZGswRH4wbM">Michael MJD's video</a>, which also covers the history of the machine as well as its technical specifications. Given the simplicity of the hardware modification, it's a pretty impressive feat.<br/>
-<br/>
-Rumors of Apple developing its own touchscreen &zwnj;iMac&zwnj; date back to 2010, initially fueled by Apple patents for a <a href="https://www.macrumors.com/2010/08/23/apple-discloses-methods-for-transitioning-between-mouse-based-and-touch-interfaces/">touchscreen desktop computer</a> and then reports of touch panels making their way through Apple's supply chain. <br/>
-<br/>
-Former Apple CEO Steve Jobs appeared to put the kibosh on those rumors in 2010 when he said that "touch surfaces don't want to be vertical" due to arm fatigue associated with holding up a finger to the screen. <br/>
-<br/>
-In the years that followed, Apple firmly established <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> at its touchscreen products, with no change in its position on touchscreen for Macs. As recently as 2021, Apple's hardware engineering chief John Ternus said the Mac was "totally optimized for indirect input" and said the company did not feel there was a good reason to change that.<br/>
-<br/>
-Despite the years of resistance, however, Apple has reportedly started working on adding touchscreens to Macs. According to <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, a new MacBook Pro with an OLED display could be the <a href="https://www.macrumors.com/2023/01/11/touchscreen-macs-report/">first touchscreen Mac in 2025</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/video-of-prototype-touchscreen-imac-g3/">Video Shows Off Prototype Touchscreen iMac... From 1999</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/video-shows-off-prototype-touchscreen-imac-from-1999.2406894/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Top Stories: iPhone 15 Pro Overheating Fix, Apple Watch Double Tap, and More</title>
-		<link>https://www.macrumors.com/2023/10/07/top-stories-iphone-15-pro-overheating-fix/</link>
-		<comments>https://forums.macrumors.com/threads/top-stories-iphone-15-pro-overheating-fix-apple-watch-double-tap-and-more.2406703/</comments>
-		<pubDate>Sat, 07 Oct 2023 06:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/07/top-stories-iphone-15-pro-overheating-fix/</guid>
-		<dc:creator>MacRumors Staff</dc:creator>
-		<category>Featured</category>
-		<category>Top Stories</category>
-		
-
-		<description><![CDATA[After a few weeks of controversy over potential overheating in the new iPhone 15 Pro models, Apple this week released a software update to help address the issue, which the company says is not the result of the new titanium casing or other thermal design problems.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/top-stories-7oct2023.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-915933" /><br/>
-Apple is also continuing work on the next round of more significant software updates led by iOS 17.1, and we're keeping tabs on everything that's new. Notably, the latest watchOS 10.1 beta enables the Double Tap feature that was one of the main promotional selling points of the latest Apple Watch Series 9 and Apple Watch Ultra 2 models, so read on for all the details on these stories and more! <br/>
-<br/>
-<h2>Apple Releases iOS 17.0.3 With Fix for iPhone 15 Pro Overheating</h2><br/>
-Apple this week <a href="https://www.macrumors.com/2023/10/04/apple-releases-ios-17-0-3/">released iOS 17.0.3 with a fix</a> for an issue that may cause the iPhone 15 Pro models to run warmer than expected. The software update also includes several <a href="https://www.macrumors.com/2023/10/04/ios-17-0-3-enterprise-bug-fixes/">enterprise-related bug fixes</a> and important security updates, according to Apple.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/iOS-17.0.3-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-915213" /><br/>
-Apple said the iPhone 15 Pro's titanium frame was <a href="https://www.macrumors.com/2023/09/30/apple-iphone-15-pro-overheating-details/">not a contributing factor to the overheating</a>, and it said the software update does not lower the A17 Pro chip's performance to address the issue.<br/>
-<br/>
-<h2>iOS 17.1 Beta: All the New Features So Far</h2><br/>
-Apple this week made the <a href="https://www.macrumors.com/2023/10/04/ios-17-1-public-beta-2/">second beta of iOS 17.1</a> available to developers and public beta testers, and there are some new features as usual.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/iOS-17.1-On-iPhone-15-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-915210" /><br/>
-We've put together a list of <a href="https://www.macrumors.com/guide/ios-17-1-beta-features/">all of the new features and changes introduced in the iOS 17.1 betas so far</a>. The software update is expected to be released later this month for the iPhone XS and newer, so there are likely still a few more beta versions to come.<br/>
-<br/>
-<h2>Warning: BMW Wireless Charging May Break iPhone 15's Apple Pay Chip</h2><br/>
-If you have an iPhone 15 and drive a BMW, it might be best to avoid charging the device with the vehicle's wireless charging pad for now.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/BMW-Logo-iPhone-15-Pro.jpg" alt="" width="1489" height="744" class="aligncenter size-full wp-image-914891" /><br/>
-Over the past few weeks, some BMW owners have complained that their <a href="https://www.macrumors.com/2023/10/01/bmw-charging-may-break-iphone-15-nfc-chip/">iPhone 15's NFC chip no longer works after charging the device</a> with their vehicle's wireless charging pad. It's unclear if the issue has been resolved with iOS 17.0.3 or the iOS 17.1 beta.<br/>
-<br/>
-<h2>watchOS 10.1 Beta 2 Adds Support for Double Tap</h2><br/>
-The new Double Tap gesture for the Apple Watch Series 9 and Apple Watch Ultra 2 is <a href="https://www.macrumors.com/2023/10/03/watchos-10-1-double-tap-support/">functional starting with the second beta of watchOS 10.1</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/apple-watch-ultra-double-tap-feature-green.jpg" alt="" width="2210" height="1243" class="aligncenter size-full wp-image-915455" /><br/>
-Double Tap lets you <a href="https://www.macrumors.com/2023/10/04/new-apple-watch-double-tap-gesture/">tap your index finger and thumb together twice</a> to perform common actions on the Apple Watch, such as stopping a timer, playing and pausing music, snoozing an alarm, answering and ending a phone call, and more, all without touching the screen.<br/>
-<br/>
-<h2>Original Apple Watch is Now Obsolete, Including &#36;17,000 Gold Model</h2><br/>
-All first-generation Apple Watch models released in 2015 have now been declared obsolete by Apple, meaning they are no longer eligible for repairs or other service at Apple Stores and Apple Authorized Service Provider locations.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/Apple-Watch-Edition-Gold-2015-Feature.jpg" alt="" width="2117" height="1191" class="aligncenter size-full wp-image-915086" /><br/>
-This includes the original 18-karat gold Apple Watch Edition model which sold for up to &#36;17,000 at launch. The solid-gold Apple Watch option was discontinued in 2016 and replaced with more reasonably priced but still premium-priced Apple Watch Edition models made with cermamic or titanium for future years.<br/>
-<br/>
-<h2>How to Get the Most Out of the iPhone 15 Pro's Action Button</h2><br/>
-On our YouTube channel, we recently shared a video highlighting some <a href="https://www.macrumors.com/2023/10/03/iphone-15-pro-action-button-tools/">useful ways to take advantage of the customizable Action button</a> on the iPhone 15 Pro and iPhone 15 Pro Max.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/Best-Shortcuts-You-Need-to-Try-Thumb-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-915252" /><br/>
-For example, Federico Viticci of <em>MacStories</em> came up with a way for two separate shortcuts to be assigned to the Action button. He calls this solution MultiButton, and we provide a closer look at it in our video.<br/>
-<br/>
-<h3>MacRumors Newsletter</h3><br/>
-Each week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.<br/>
-<br/>
-So if you want to have <a href="https://mailchi.mp/macrumors/oct-5-2023">top stories</a> like the above recap delivered to your email inbox each week, <b><a href="http://eepurl.com/OHdUX">subscribe to our newsletter</a></b>!<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/top-stories/">Top Stories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/07/top-stories-iphone-15-pro-overheating-fix/">Top Stories: iPhone 15 Pro Overheating Fix, Apple Watch Double Tap, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/top-stories-iphone-15-pro-overheating-fix-apple-watch-double-tap-and-more.2406703/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>18 Tips to Make Your iPhone 15&#039;s Battery Last Longer</title>
-		<link>https://www.macrumors.com/guide/iphone-15-battery-tips/</link>
-		<comments>https://forums.macrumors.com/threads/18-tips-to-make-your-iphone-15s-battery-last-longer.2406651/</comments>
-		<pubDate>Fri, 06 Oct 2023 14:45:16 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/iphone-15-battery-tips&#038;post_date=1696639516/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		
-
-		<description><![CDATA[With every new operating system release and new <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, there are complaints about issues with battery life, and this year is no exception. There are often periods of rapid battery drain following an update or release due to behind-the-scenes syncing, but sometimes problems can persist longer.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iphone-15-blue-23.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-911509" /><br/>
-Battery life problems can be caused by new features Apple has implemented, bugs that need to be fixed, or simply an uptick in usage after an update. Whatever the cause, we've rounded up some suggestions on how you can maximize your &zwnj;iPhone&zwnj;'s battery life in situations where every last minute is important.<br/>
-<br/>
-Note that there aren't many suggestions that don't disable key features on the &zwnj;iPhone&zwnj;, so you need to balance battery drain with the feature set that you want enabled, turning things off and on as needed when better battery life is required. Not all of these tips are specific to <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> and the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models, but these steps will absolutely help preserve battery on your new device.<br/>
-<br/>
-<h2 id="1._turn_off_live_activities">1. Turn Off Live Activities</h2><br/>
-Live Activities let apps keep an ongoing notification on the Lock Screen or <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a>, and in &zwnj;iOS 17&zwnj;, Live Activities are used more than ever before. Combined with the Always-On display of the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> Pro and <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models, Live Activities can noticeably drain the battery.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-849710" src="https://images.macrumors.com/article-new/2022/06/ios-16-live-activities-feature.jpg" alt="" width="2500" height="1406" /><br/>
-Live Activities can be disabled by following these steps:<br/>
-<ol><br/>
- <li>Open up the Settings app.</li><br/>
- <li>Go to <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> & Passcode.</li><br/>
- <li>Enter your passcode to unlock the &zwnj;iPhone&zwnj;.</li><br/>
- <li>Scroll down and toggle off Live Activities.</li><br/>
-</ol><br/>
-This will prevent Live Activities from showing up on the Lock Screen, but you'll want to take this one step further. In the individual app sections in the Settings app, you can disable Live Activities on an app-by-app basis, or avoid using Live Activities features within apps.<br/>
-<br/>
-You can't fully disable the &zwnj;Dynamic Island&zwnj;, but you can swipe left on any running animation to dismiss it.<br/>
-<br/>
-<h2 id="2._delete_lock_screen_and_home_screen_widgets">2. Delete Lock Screen and Home Screen Widgets</h2><br/>
-In &zwnj;iOS 17&zwnj;, Apple further improved widgets, introducing interactivity. <a href="https://www.macrumors.com/guide/home-screen/">Widgets</a> can now be used right on the Lock Screen, so you can do things like control smart home products or check off Reminders without opening an app.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/04/iOS-17-Widgets.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-892127" /><br/>
-If you're not using a particular widget often, it might be best to remove it to preserve battery life, though it is worth exploring whether using a widget is less battery intensive than opening up an app.<br/>
-<br/>
-On the Lock Screen specifically, you can use an option that doesn't have widgets, which makes it easy to switch over. Specific Lock Screens can be linked to a Focus mode, so you can even set up something that removes widgets and nixes unimportant notifications.<br/>
-<br/>
-For details on adding widgets, removing widgets, and creating Lock Screens, we have a <a href="https://www.macrumors.com/guide/ios-16-lock-screen/">dedicated Lock Screen guide</a> and a guide on <a href="https://www.macrumors.com/guide/ios-17-lock-screen/">interactive widgets</a>.<br/>
-<br/>
-<h2 id="_turn_off_live_voicemail"> Turn Off Live Voicemail</h2><br/>
-Live Voicemail is a feature that lets you get a real-time readout of a voicemail that someone is leaving so you can answer the phone if it's something important. Since Live Voicemail shows up right on the Lock Screen, it's not doing your battery any favors.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/Live-Voicemail-iOS-17.jpg" alt="" width="1306" height="793" class="aligncenter size-full wp-image-898863" /><br/>
-If you want to disable it, you can do so by going to Settings > Phone > Live Voicemail and toggling it off.<br/>
-<br/>
-<h2 id="4._turn_off_proximity_airdrop_sharing">4. Turn Off Proximity AirDrop Sharing</h2><br/>
-When you hold two iPhones running &zwnj;iOS 17&zwnj; together, or an &zwnj;iPhone&zwnj; running &zwnj;iOS 17&zwnj; and an Apple Watch running watchOS 10.1, the &zwnj;iPhone&zwnj; initiates a proximity-based AirDrop or contact transfer protocol. If you're continually triggering this, it can drain battery, so if you've got your &zwnj;iPhone&zwnj; near another &zwnj;iPhone&zwnj; and the AirDrop interface keeps popping up, you might want to turn it off.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/08/airdrop-proximity-sharing.jpg" alt="" width="2000" height="1327" class="aligncenter size-full wp-image-905665" /><br/>
-To do so, go to Settings > General > AirDrop and toggle off "Bringing Devices Together."<br/>
-<br/>
-<h2 id="5._take_advantage_of_offline_maps">5. Take Advantage of Offline Maps</h2><br/>
-In &zwnj;iOS 17&zwnj;, you can download <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> for offline usage. It's useful for when you don't have a cellular connection, but it's also good to use even if you do. If you're traveling in an area where you have a somewhat spotty connection, downloading a map for that spot and then turning off cellular will preserve your battery life without impacting your ability to get around.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/Apple-Maps-Offline.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-899235" /><br/>
-We have a dedicated how-to that <a href="https://www.macrumors.com/how-to/download-offline-maps-ios-apple-maps/">walks you through downloading a map for offline usage</a>, but it's as simple as searching for a location in Maps, tapping the download button, and then selecting the area of the map to download.<br/>
-<br/>
-<h2 id="6._disable_haptic_keyboard_feedback">6. Disable Haptic Keyboard Feedback</h2><br/>
-Apple has a keyboard option that gives you haptic feedback when you tap the on-screen keys. It vibrates with each key tap for a more satisfying typing experience, but what you might not know is that it drains battery.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-872406" src="https://images.macrumors.com/article-new/2022/11/haptic-keyboard-feedback.jpg" alt="" width="2000" height="1961" /><br/>
-Apple said <a href="https://www.macrumors.com/2022/09/20/ios-16-haptic-keyboard-battery-life/">in a support document</a> last year that keyboard haptics might affect battery life, so it's not something you want to use when you don't have battery to spare. It's not on by default, but if you've enabled it, you can turn it off by following these steps:<br/>
-<ol><br/>
- <li>Open up the Settings app.</li><br/>
- <li>Tap on Sounds & Haptics.</li><br/>
- <li>Tap on Keyboard Feedback.</li><br/>
- <li>Toggle off Haptic.</li><br/>
-</ol><br/>
-<h2 id="7._turn_off_always-on_display_iphone_15_pro">7. Turn Off Always-On Display (iPhone 15 Pro)</h2><br/>
-As the name suggests, the Always-On display on the &zwnj;iPhone 15 Pro&zwnj; models leaves the time, your wallpaper, widgets, and Live Activities visible on the Lock Screen even when your &zwnj;iPhone&zwnj; is locked.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-864733" src="https://images.macrumors.com/article-new/2022/09/turn-off-always-on-display.jpg" alt="settings" width="640" height="408" /><br/>
-The display is using a 1Hz refresh rate to preserve battery, and Apple <a href="https://www.macrumors.com/2022/09/15/apple-details-iphone-14-pro-always-on-display/">has neat tricks</a> like turning off the display when a connected Apple Watch is no longer nearby (signaling that the &zwnj;iPhone&zwnj; owner is out of the room) or the &zwnj;iPhone&zwnj; is in a pocket, but Always-On display still drains battery faster than no Always-On display.<br/>
-<br/>
-You can turn off the Always-On display by following these steps:<br/>
-<ol><br/>
- <li>Open up the Settings app.</li><br/>
- <li>Tap on Display & Brightness.</li><br/>
- <li>Tap on Always On Display.</li><br/>
- <li>Toggle off Always On Display.</li><br/>
-</ol><br/>
-It's not really clear just how much battery life the Always-On display drains because it's going to vary from use case to use case, but even if it's only a few percent, it's worth turning off, especially if it's not a feature that you find useful.<br/>
-<br/>
-<h2 id="8._choose_non-animated_wallpapers">8. Choose Non-Animated Wallpapers</h2><br/>
-Some of the fancy wallpapers that are available for the Lock Screen are animated, and an animated wallpaper will drain just a bit more battery than a static wallpaper. If you're optimizing and don't care much for the animations, choose something that's not going to update throughout the day.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-860266" src="https://images.macrumors.com/article-new/2022/08/ios-16-weather-lock-screen.jpg" alt="" width="2000" height="1961" /><br/>
-The Weather wallpaper, for example, changes based on the conditions, and the Photo Shuffle option swaps through your selected photos during the day. The Astronomy wallpaper also changes based on current conditions.<br/>
-<br/>
-<h2 id="9._use_focus_modes">9. Use Focus Modes</h2><br/>
-Using Apple's built-in Focus option can cut down on the number of notifications that you're receiving during the day, and fewer notifications means less opportunity for apps to wake up your display and cause battery drain.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/06/ios-16-lock-screen-focus.jpg" alt="" width="2000" height="1250" class="aligncenter size-full wp-image-850799" /><br/>
-Focus modes let you choose which apps and people can send you notifications and when, so during work hours you can make sure you're only getting work notifications, and during personal time, you can limit your work notifications. You can limit notifications when driving, when you're asleep, when you're working out, and in any other scenario you can think of. Focus filters even let you filter out select emails, messages, calendars, and more.<br/>
-<br/>
-You'll still get all of your notifications when the Focus mode ends, but all in one alert rather than multiple. Turning off unwanted notifications from apps is still the best method for saving battery life, but Focus lets you keep your notifications while still cutting down on the number that you receive at any given time.<br/>
-<br/>
-Apple made Focus modes are relatively easy to set up, but it still takes some work to get everything running, so <a href="https://www.macrumors.com/guide/ios-16-focus/">we have a dedicated Focus guide</a>. You can find all of the Focus features in the Focus section of the Settings app.<br/>
-<br/>
-<h2 id="10._use_scheduled_summary">10. Use Scheduled Summary</h2><br/>
-It's also worth making sure that any app that sends non-important notifications is relegated to the Scheduled Summary, which saves up notifications and sends them to you once or twice a day.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-823339" src="https://images.macrumors.com/article-new/2021/10/ios-15-2-notification-summary.jpg" alt="" width="773" height="768" /><br/>
-You can toggle on Scheduled Summary for apps in the Notifications section of the Settings app, where you can specify which apps should have their notifications include in Scheduled Summary and when you want them delivered.<br/>
-<br/>
-<h2 id="11._limit_when_and_how_often_apps_can_access_location">11. Limit When and How Often Apps Can Access Location</h2><br/>
-It's always good to check in on privacy and access settings to make sure apps and services aren't doing things you don't want them to be doing.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-872415" src="https://images.macrumors.com/article-new/2022/11/ios-16-location-services.jpg" alt="" width="2000" height="1299" /><br/>
-Limiting the apps that have access to your location and how often apps can access that data can save battery life.<br/>
-<ol><br/>
- <li>Open up the Settings app.</li><br/>
- <li>Choose Privacy & Security.</li><br/>
- <li>Tap Location Services.</li><br/>
- <li>Review the list and edit settings by tapping on the name of each app in the list.</li><br/>
-</ol><br/>
-You have four possible choices for location settings for each app, though not all four choices will always be available for every app depending on what it does. You can select the following: Never, Ask Next Time Or When I Share, While Using the App, and Always.<br/>
-<br/>
-Never will prevent an app from ever accessing your location, and unless there's a specific need for an app to know where you are, such as a mapping app, setting location access to Never is the best choice.<br/>
-<br/>
-Ask Next Time Or When I Share will prompt an app to ask you with a pop-up the next time that it wants your location, so you can temporarily approve it. With this setting, location access is off until expressly allowed via the pop-up.<br/>
-<br/>
-While Using the App allows the app to detect your location only when the app is open and being actively used. If you close the app or switch over to another app, location access ends.<br/>
-<br/>
-Always allows an app to have access to your location at all times, regardless of whether it's open or closed. This will result in the most battery drain and should be limited to only the apps that you need the most.<br/>
-<br/>
-A <em>lot</em> of apps will ask for location information that don't really need it to function (for example, a banking app might want location access to show nearby ATMs, which is also available through entering a zip code), so clearing the cruft will ensure no apps are accessing your location without express permission.<br/>
-<br/>
-You can also turn off Location Services all together, but it's not ideal because it can impact crucial apps like Maps.<br/>
-<br/>
-<h2 id="12._limit_apps_using_bluetooth">12. Limit Apps Using Bluetooth</h2><br/>
-Your &zwnj;iPhone&zwnj; lets you know when apps have requested Bluetooth access, and there are quite a few apps that want Bluetooth access for location tracking, scanning for Chromecast devices, or other not-so-useful reasons.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-872416" src="https://images.macrumors.com/article-new/2022/11/app-bluetooth-permissions.jpg" alt="" width="2000" height="1961" /><br/>
-Checking on the apps using Bluetooth is worthwhile to make sure that you don't have a sneaky app connecting to Bluetooth sources without your permission and draining battery. To get to Bluetooth settings:<br/>
-<ol><br/>
- <li>Open the Settings app.</li><br/>
- <li>Tap on Privacy & Security.</li><br/>
- <li>Tap Bluetooth.</li><br/>
-</ol><br/>
-Apps like Facebook, MAX, Hulu, and others don't need Bluetooth access for the most part, so toggle off any app that doesn't need a Bluetooth connection to function. If a feature in an app stops working, you can just turn it right back on.<br/>
-<br/>
-Disabling Bluetooth entirely is also an option, but it's used for AirPods, Apple Watches, and other accessories, so turning it off isn't feasible for most people.<br/>
-<br/>
-<h2 id="13._use_low_power_mode">13. Use Low Power Mode</h2><br/>
-Using Low Power Mode liberally is an obvious choice for maintaining battery without having to hassle with a lot of settings, and you can toggle it on from Control Center, the Battery section of the Settings app, or using <a href="https://www.macrumors.com/guide/siri/">Siri</a>. <a href="https://support.apple.com/en-us/HT205234">Low Power Mode</a> cuts down on background activity, turns off your display after inactivity more quickly, limits display refresh rate, limits email fetch, cuts down on visual effects, and more.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-858449" src="https://images.macrumors.com/article-new/2022/08/ios-16-beta-6-battery-percent-low-power.jpg" alt="" width="2000" height="1125" /><br/>
-Low Power Mode can be set to turn on at a certain battery percentage using Shortcuts, which is a handy way to have it automatically turn on when you need it.<br/>
-<br/>
-<h2 id="14._use_wi-fi_and_airplane_mode">14. Use Wi-Fi and Airplane Mode</h2><br/>
-When you can, it's best to connect to Wi-Fi to maximize battery life, and it's one of the battery preserving tips that Apple offers. At home or at work, make sure you connect to Wi-Fi rather than using cellular signal. Nothing drains a battery quite like a 5G connection, especially one that's unstable.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-872417" src="https://images.macrumors.com/article-new/2022/11/airplane-mode-ios-16.jpg" alt="" width="1954" height="1099" /><br/>
-If you're in an area with no Wi-Fi and you know you have low cellular signal, turn on Airplane Mode or turn off your cellular connection so it's not draining your battery trying to connect. This of course only works when you don't need a cellular connection in the moment, but it can have a big impact and you probably can't do much with low signal anyway.<br/>
-<br/>
-<h2 id="15._manage_apps_draining_battery">15. Manage Apps Draining Battery</h2><br/>
-Your &zwnj;iPhone&zwnj; tells you which apps are eating up the most battery so you can make sure nothing is secretly draining your battery without your knowledge. You can check your battery usage statistics by opening up the Settings app and tapping on the Battery section.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-872418" src="https://images.macrumors.com/article-new/2022/11/ios-16-battery-settings.jpg" alt="" width="2000" height="1961" /><br/>
-Battery usage charts let you see your battery level over the last 24 hours or for the last 10 days, plus you can see which apps have used the most battery life. If there's an app that you don't need that's draining an excessive amount of battery, delete it. If you do need the app, moderate how often you're using it and what permissions it has like location.<br/>
-<br/>
-Note that with the &zwnj;iPhone 15&zwnj; models, you can preserve your battery health with a new feature that prevents the &zwnj;iPhone&zwnj; from charging up past 80 percent. This isn't something you're going to want to enable if you're worried about battery life on a long day out, but if you keep it on while you're home, you can have a healthy battery for a longer period of time. Get to this setting by going to Settings > Battery > Battery Health & Charging > Charging Optimization > 80% Limit.<br/>
-<br/>
-<h2 id="16._limit_background_activity">16. Limit Background Activity</h2><br/>
-Almost all apps use background refresh to update even when they're not open, and limited background activity and background refresh is a longtime favorite option for cutting down on battery usage.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-872419" src="https://images.macrumors.com/article-new/2022/11/ios-16-background-app-refresh.jpg" alt="" width="2000" height="1961" /><br/>
-You can turn off Background App Refresh all together or choose which apps can refresh in the background.<br/>
-<ol><br/>
- <li>Open the Settings app.</li><br/>
- <li>Select General.</li><br/>
- <li>Tap on Background App Refresh.</li><br/>
-</ol><br/>
-From there, you can tap on the Background App Refresh option to turn Background App Refresh off altogether or choose to have it activate only when connected to Wi-Fi, which doesn't drain battery as much as downloading over cellular.<br/>
-<br/>
-You can also choose to turn Background App Refresh on just for your most used apps by tapping on the toggle next to each app in the list.<br/>
-<br/>
-<h2 id="17._turn_down_screen_brightness">17. Turn Down Screen Brightness</h2><br/>
-This is a rather obvious suggestion, but the dimmer your display, the less battery you're using. If you're indoors, drop that brightness down as low as you can tolerate, and hold off on using your &zwnj;iPhone&zwnj; in the sun until you can find a shady spot if you really want to maximize battery.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/ios-17-display-brightness.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-915944" /><br/>
-The easiest way to drop brightness is to swipe down on the right side of the display to access Control Center and lower the brightness slider. It's also a good idea to make sure you have your display set to Auto-Lock after the shortest interval (30 seconds), which you can do by going to Display & Brightness > Auto-Lock.<br/>
-<br/>
-<h2 id="18._change_your_mail_settings">18. Change Your Mail Settings</h2><br/>
-Along with turning off Background App Refresh, changing when and how often the Mail app checks for new emails can save you some battery.<br/>
-<ol><br/>
- <li>Open up the Settings app.</li><br/>
- <li>Tap Mail.</li><br/>
- <li>Tap Accounts.</li><br/>
- <li>Tap "Fetch New Data" at the bottom. <img class="aligncenter size-full wp-image-729024" src="https://images.macrumors.com/article-new/2020/02/mailfetch.jpg" alt="" width="1600" height="1557" /></li><br/>
-</ol><br/>
-You can turn off Push (which lets you know right away when a new email message is available) and adjust Fetch settings on a per account basis for accounts that don't support Push (like Gmail accounts).<br/>
-<br/>
-Adjusting the Fetch settings to have longer intervals before checking for new messages can help save battery life, as can turning off Fetch all together in favor of manual checks that will download new messages only when the Mail app is opened.<br/>
-<br/>
-You can choose the following settings: Automatically, Manually, Hourly, Every 30 Minutes, and Every 15 Minutes.<br/>
-<br/>
-<h2 id="iphone_15_overheating">iPhone 15 Overheating</h2><br/>
-There has been a lot of talk of overheating issues with the &zwnj;iPhone 15&zwnj; models, particularly the &zwnj;iPhone 15 Pro&zwnj; models. Apple released iOS 17.0.3 on October 4 to address a bug that could cause the &zwnj;iPhone 15&zwnj; models to run hotter than expected, plus the company said that some apps like Instagram and Uber were causing processor strain that resulted in overheating. Apple has fixed the issue both with the update and by working with app developers to solve any efficiency problems.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/iOS-17.0.3-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-915213" /><br/>
-If you're having issues with heat and battery life, make sure your &zwnj;iPhone&zwnj; is <a href="https://www.macrumors.com/2023/10/04/apple-releases-ios-17-0-3/">updated to iOS 17.0.3</a> by going to Settings > General > Software Update.<br/>
-<br/>
-<h2 id="conclusion">Conclusion</h2><br/>
-There are endless things to do to preserve battery life, and unfortunately, everything you use your phone for is going to drain battery, so it's all about finding what works for you, what you don't need, and where you can compromise to extend battery life.<br/>
-<br/>
-Have a favorite battery saving tip we haven't listed here? Let us know in the comments below.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15">iPhone 15 (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/iphone-15-battery-tips/">18 Tips to Make Your iPhone 15&#039;s Battery Last Longer</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/18-tips-to-make-your-iphone-15s-battery-last-longer.2406651/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
