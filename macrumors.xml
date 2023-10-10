@@ -14,12 +14,35 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 09 Oct 2023 13:03:16 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 09 Oct 2023 17:10:48 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Vision Pro Supports Up to 100Hz Refresh Rate</title>
+		<link>https://www.macrumors.com/2023/10/09/vision-pro-100hz-refresh-rate/</link>
+		<comments>https://forums.macrumors.com/threads/apple-vision-pro-supports-up-to-100hz-refresh-rate.2406972/</comments>
+		<pubDate>Mon, 09 Oct 2023 13:47:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/09/vision-pro-100hz-refresh-rate/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Vision Pro</category>
+		
+
+		<description><![CDATA[The Vision Pro headset that Apple plans to release next year has displays that support up to a 100Hz refresh rate, according to code in the <a href="https://www.macrumors.com/2023/10/03/apple-releases-visionos-beta-4/">latest beta of visionOS</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/vision-pro-headset-1.jpg" alt="" width="2698" height="1518" class="aligncenter size-full wp-image-898460" /><br/>
+Apple says that the Vision Pro headset runs at a 90Hz refresh rate most of the time, but in an online WWDC session, the company revealed that it is also able to switch to 96Hz to support video content filmed at 24 frames per second.<br/>
+<br/>
+Code <a href="https://twitter.com/M1Astra/status/1709429656829534557">found by M1 Astra</a> confirms that the actual maximum Vision Pro refresh rate is 100Hz, but 100Hz is a mode that only activates to "compensate for detected 50Hz flicker from artificial lighting."<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Apple Vision Pro refresh rate revealed according to visionOS beta 4. There seems to be refresh rate modes, 100Hz, 96Hz, and 90Hz. &quot;Adjusted to 100Hz to compensate for detected 50Hz flicker from artifical lighting.&quot; &quot;Travel mode requires 90Hz at all times.&quot; <br>More in the images. <a href="https://t.co/KatDpjxIha">pic.twitter.com/KatDpjxIha</a></p>&mdash; M1 (@M1Astra) <a href="https://twitter.com/M1Astra/status/1709429656829534557?ref_src=twsrc%5Etfw">October 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+The headset will be able to switch between the 90Hz, 96Hz, and 100Hz modes, but for the most part, it will work at 90Hz. In "Travel Mode," which is a mode that can be set when the headset is used on the go such as on a flight, 90Hz is the maximum.<br/>
+<br/>
+The two displays in the Vision Pro headset are custom micro-OLED screens with a total of 23 million pixels, more pixels than a 4K TV for each eye. The Vision Pro headset is set to come out next year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/09/vision-pro-100hz-refresh-rate/">Apple Vision Pro Supports Up to 100Hz Refresh Rate</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-supports-up-to-100hz-refresh-rate.2406972/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Breakability Test Pits iPhone 15 Pro Max Against Galaxy Z Fold5, Pixel Fold and More</title>
@@ -806,25 +829,6 @@ One other thing to consider is the introduction of Apple's Vision Pro headset. A
 <br/>
 <h2>Summing Up</h2><br/>
 Summing up, we could see at least one &zwnj;iPad&zwnj; unveiled in October, perhaps an &zwnj;iPad mini&zwnj;, an &zwnj;iPad Air&zwnj;, or an 11th-generation low-cost ‌&zwnj;iPad&zwnj;‌, but these will be minor refreshes. It would be reasonable for at least one or two of these models to be updated in October 2023, but 2024 launches cannot be ruled out.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/06/will-apple-release-new-ipads-this-year/">Will Apple Unveil New iPads in 2023? Here&#039;s Your October Rumor Update</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/will-apple-unveil-new-ipads-in-2023-heres-your-october-rumor-update.2406566/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Twitter May Be Planning to Add More Premium Tiers</title>
-		<link>https://www.macrumors.com/2023/10/05/twitter-premium-tier-changes/</link>
-		<comments>https://forums.macrumors.com/threads/twitter-may-be-planning-to-add-more-premium-tiers.2406511/</comments>
-		<pubDate>Thu, 05 Oct 2023 15:47:31 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/05/twitter-premium-tier-changes/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Twitter</category>
-		
-
-		<description><![CDATA[Social network X, previously known as Twitter, may soon offer more than one subscription tier. Code in the app suggests that the Premium offering could be split into three, including Premium Basic, Premium Standard, and Premium Plus.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/07/X-twitter-logo.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-904140" /><br/>
-Premium Basic lists "full ads" in the For You feed, while Premium Standard says it has "half ads" in For You. Premium Plus says there will be no ads in For You. Given the specific mention of the For You feed, it sounds like all of the tiers will continue to have ads in replies. Revenue from reply ads is used for paying content creators on the social network.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">X Premium will be broken up into 3 tiers: <br><br>Premium Basic - Full Ads<br>Premium Standard - Half Ads<br>Premium Plus - No Ads <a href="https://t.co/I0CyaQf2ME">pic.twitter.com/I0CyaQf2ME</a></p>&mdash; Aaron (@aaronp613) <a href="https://twitter.com/aaronp613/status/1710060481296105874?ref_src=twsrc%5Etfw">October 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-At the current time, a Premium subscription is priced at &#36;8 per month or &#36;84 per year, and there is no word yet on what the new tiers might be priced at. There are also no other details on the differences between the plans or launch information. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/twitter/">Twitter</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/05/twitter-premium-tier-changes/">Twitter May Be Planning to Add More Premium Tiers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/twitter-may-be-planning-to-add-more-premium-tiers.2406511/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
