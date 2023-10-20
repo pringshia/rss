@@ -14,12 +14,93 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 19 Oct 2023 13:03:20 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 19 Oct 2023 17:10:35 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple GPT: What We Know About Apple&#039;s Work on Generative AI</title>
+		<link>https://www.macrumors.com/guide/apple-gpt/</link>
+		<comments>https://forums.macrumors.com/threads/apple-gpt-what-we-know-about-apples-work-on-generative-ai.2408127/</comments>
+		<pubDate>Thu, 19 Oct 2023 15:17:01 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/apple-gpt&#038;post_date=1697764621/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>Mega Guides</category>
+		<category>Apple GPT</category>
+		
+
+		<description><![CDATA[With the explosive popularity of generative AI tools like ChatGPT, there have been rumors that Apple is working on its own AI product, and that some kind of "Apple GPT" artificial intelligence bot could launch in the future.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/03/hey-siri-banner-apple.jpg" alt="" width="1200" height="630" class="aligncenter size-full wp-image-840591" /><br/>
+This guide highlights everything we know about Apple's experiments with AI, and it will be updated regularly as new rumors come out.<br/>
+<br/>
+<h2 id="internal_testing_and_development">Internal Testing and Development</h2><br/>
+Apple's AI chief John Giannandrea is leading development on large language models within Apple, and Giannandrea reports directly to Apple CEO <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a>. Giannandrea <a href="https://www.macrumors.com/2023/09/06/apple-conversational-ai-spending/">established a team</a> that works on conversational AI four years ago, and work has since ramped up.<br/>
+<br/>
+For the last several months, Apple <a href="https://www.macrumors.com/2023/07/19/apple-experimenting-with-chatgpt-tool/">has been testing</a> an "Apple GPT" rival that could compete with ChatGPT. According to <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, work on AI is a priority for Apple, with the company designing an "Ajax" framework for large language models.<br/>
+<br/>
+Apple has an internal chatbot that some engineers have been referring to as "Apple GPT," but Apple would not, of course, ever use that naming for a consumer product. Apple employees need special permission to use the chatbot, and its output cannot be used to develop new product features for customers. It is used for product prototyping and it is able to answer questions about the data that was used to train it.<br/>
+<br/>
+Ajax is said to be more capable than the prior-generation ChatGPT 3.5, and it has been trained on more than 200 billion parameters. As of September 2023, OpenAI's newer models are allegedly more powerful than Ajax.<br/>
+<br/>
+Apple reportedly does not have a "clear strategy" for how it will create a generative AI product for consumers. Apple is experimenting with <a href="https://www.macrumors.com/guide/siri/">Siri</a> enhancements, software that generates videos and images, and multimodal AI technology that works with images, videos, and text.<br/>
+<br/>
+Apple is said to be spending <a href="https://www.macrumors.com/2023/09/06/apple-conversational-ai-spending/">millions of dollars a day</a> on conversational AI research as training language models requires a lot of hardware.<br/>
+<br/>
+<h2 id="ai_for_siri">AI for Siri</h2><br/>
+Apple's work on generative AI could eventually be incorporated into its &zwnj;Siri&zwnj; voice assistant. Apple in February 2023 <a href="https://www.macrumors.com/2023/03/15/apple-engineers-working-on-chatgpt-like-ai/">held an AI summit</a> and briefed employees on its large language model work.<br/>
+<br/>
+Because of the way &zwnj;Siri&zwnj; is built, it may take Apple quite a bit of time to update its database to support new capabilities. Former &zwnj;Siri&zwnj; engineer John Burkey told <em>The New York Times</em> that &zwnj;Siri&zwnj;'s "cumbersome design" means that adding new phrases requires rebuilding the &zwnj;Siri&zwnj; database, which can take up to six weeks each time, while more complicated features like search tools can take upwards of a year.<br/>
+<br/>
+There are also privacy concerns that Apple needs to contend with to bring generative AI capabilities to &zwnj;Siri&zwnj;. Apple has always been more cautious than its competitors, putting privacy ahead of functionality, a decision that has caused &zwnj;Siri&zwnj; to lag behind Alexa, Google Assistant, and other voice-based personal assistant options.<br/>
+<br/>
+<em>The Information</em> suggests that Apple is aiming to create a feature that would let &zwnj;Siri&zwnj; automate multi-step tasks, automatically performing tasks that are accomplished with Shortcuts today.<br/>
+<br/>
+<h2 id="third-party_ai_bans_at_apple">Third-Party AI Bans at Apple</h2><br/>
+Apple employees <a href="https://www.macrumors.com/2023/05/19/apple-bans-employees-from-using-chatgpt/">have been banned</a> from using ChatGPT, GitHub Copilot, and other artificial intelligence tools. Apple is concerned that AI tools could leak confidential company data.<br/>
+<br/>
+The U.S. government, healthcare institutions, and banks have also prevented employees from using ChatGPT because of similar fears. Tech companies like Verizon, Google, Samsung, and others have banned generative AI tools too.<br/>
+<br/>
+<h2 id="ai_competition">AI Competition</h2><br/>
+Almost every major tech company has some kind of AI product in the works. In addition to OpenAI's popular ChatGPT chatbot, Google, Microsoft, and Amazon have all adopted generative AI for various purposes.<br/>
+<ul><br/>
+ <li><strong><a href="https://bard.google.com">Google</a></strong> - Google has developed Bard, a chat-based AI tool. Google has also integrated generative AI into its search products and apps, plus Bard can integrate with Google Flights, Maps, Drive, and more.</li><br/>
+ <li><strong><a href="https://www.bing.com/?/ai">Microsoft</a></strong> - Microsoft has partnered with OpenAI for a version of ChatGPT that is integrated with its Bing search engine.</li><br/>
+ <li><strong><a href="https://www.aboutamazon.com/news/devices/amazon-alexa-generative-ai">Amazon</a></strong> - Amazon is working to enhance its Alexa voice assistant with generative AI.</li><br/>
+ <li><strong>Meta</strong> - Meta is incorporating generative AI into several of its apps. WhatsApp and Messenger, for example, can use generative AI to make custom stickers, while there's a Meta AI beta available for WhatsApp, Messenger, and Instagram.</li><br/>
+</ul><br/>
+<h2 id="apples_current_use_of_ai_and_machine_learning">Apple's Current Use of AI and Machine Learning</h2><br/>
+Apple is already using artificial intelligence and machine learning for a long list of functions in its products. AI is used for almost everything, with a small sampling below.<br/>
+<ul><br/>
+ <li><strong>Photos</strong> - Apple uses machine learning to enhance photos that are taken with the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>'s camera. This includes everything from Deep Fusion for cutting down on noise in images to the new <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> Portrait Mode tools that let you enable portrait images after a photo has been taken.</li><br/>
+ <li><strong>Spotlight Search</strong> - Spotlight search and search throughout the iOS operating system is powered by AI.</li><br/>
+ <li><strong>Visual Lookup</strong> - The feature that lets the &zwnj;iPhone&zwnj; detect the content in photos is a machine learning feature.</li><br/>
+ <li><strong>Crash Detection and Fall Detection</strong> - Fall Detection and Crash Detection both use machine learning to determine whether someone has been in a crash or had a fall based on the information collected by the various sensors in Apple devices.</li><br/>
+ <li><strong>ECG</strong> - The ECG feature on the Apple Watch looks at heart rhythm data to determine whether someone is likely to be experiencing atrial fibrillation.</li><br/>
+ <li><strong>Autocorrect</strong> - Apple's autocorrect system and word suggestion options are powered by machine learning.</li><br/>
+ <li><strong>Siri Suggestions</strong> - When your &zwnj;iPhone&zwnj; suggests something, such as sending someone a birthday message or adding an event in your Mail app to the Calendar, it's using machine learning algorithms.</li><br/>
+</ul><br/>
+Apple's devices have dedicated Neural Engines inside specifically for powering machine learning capabilities.<br/>
+<br/>
+<h2 id="tim_cook_on_ai">Tim Cook on AI</h2><br/>
+Back in May 2023, Apple CEO &zwnj;Tim Cook&zwnj; said that the potential of artificial intelligence is "very interesting," but he said there are a "number of issues that need to be sorted" with the technology. He explained that it is "very important to be deliberate and thoughtful" when deciding how and when AI should be used.<br/>
+<br/>
+Cook <a href="https://www.macrumors.com/2023/08/03/apple-q3-2023-earnings-call-takeaways/">has also said</a> that AI and machine learning are "core fundamental technologies integral to virtually every product" that Apple has created, and that AI work is "absolutely critical" to the company. Cook has confirmed that Apple has been experimenting with generative AI "for years."<br/>
+<br/>
+<h2 id="potential_launch_date">Potential Launch Date</h2><br/>
+Both <em>The Information</em> and analyst Jeff Pu claim that Apple will have some kind of generative AI feature available on the &zwnj;iPhone&zwnj; and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> <a href="https://www.macrumors.com/2023/10/19/apple-generative-ai-late-2024-jeff-pu/">around late 2024</a>, which is when iOS 18 will be coming out.<br/>
+<br/>
+Pu said in October that Apple is building a few hundred AI servers in 2023, with more to come in 2024. Apple will reportedly offer a combination of cloud-based AI and AI with on-device processing.<br/>
+<br/>
+Apple analyst <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a> <a href="https://www.macrumors.com/2023/08/02/no-sign-of-apple-generative-ai-coming-2024/">said in August</a> that there is "no sign" of generative AI technology coming in 2024, and he claimed that Apple's work on generative AI is "significantly behind its competitors."<br/>
+<br/>
+<h2 id="guide_feedback">Guide Feedback</h2><br/>
+Have questions about Apple GPT or want to offer feedback on this guide? <a href="mailto:guides@macrumors.com">Send us an email here</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/guide/apple-gpt/">Apple GPT: What We Know About Apple&#039;s Work on Generative AI</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-gpt-what-we-know-about-apples-work-on-generative-ai.2408127/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Amazon Alexa Now Supports Apple Podcasts in Over 40 Countries</title>
@@ -35,7 +116,7 @@
 
 		<description><![CDATA[Alexa now natively supports Apple Podcasts on Amazon Echo and Amazon Fire TV devices in over 40 countries following the latest expansion of this integration.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2021/05/Podcasts-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-798617" /><br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Amazon-Alexa-and-Apple-Podcasts-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-917847" /><br/>
 Apple Podcasts for Alexa is now available in Argentina, Australia, Austria, Belgium, Brazil, Canada, Chile, Colombia, Costa Rica, Denmark, Ecuador, Finland, France, Germany, Hong Kong, India, Indonesia, Ireland, Italy, Japan, Luxembourg, Malaysia, Mexico, the Netherlands, New Zealand, Norway, Peru, Philippines, Poland, Portugal, Puerto Rico, Singapore, South Africa, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, Türkiye, the U.K., and the U.S., according to an <a href="https://support.apple.com/en-us/HT210759">Apple support document</a> updated today.<br/>
 <br/>
 This integration allows you to ask Alexa to play podcasts from the Apple Podcasts app. You can link your Apple ID in the Alexa app to keep playback in sync across your Apple devices and supported Alexa devices. For example, you can start listening to a podcast episode through the Apple Podcasts app on CarPlay during your commute, and continue listening with your Echo speaker at home by asking Alexa to resume the podcast.<br/>
@@ -147,7 +228,7 @@ Pu was the first source to report that Apple had <a href="https://www.macrumors.
 		<category>Featured</category>
 		<category>Artificial Intelligence</category>
 		<category>Jeff Pu</category>
-		<category>AppleGPT</category>
+		<category>Apple GPT</category>
 		
 
 		<description><![CDATA[Apple plans to start implementing generative AI technology on the iPhone and iPad in late 2024 at the earliest, according to Jeff Pu, an analyst who covers Apple's supply chain for Hong Kong-based investment firm Haitong International Securities.  <br/>
@@ -165,7 +246,7 @@ In July, <em>Bloomberg</em>'s Mark Gurman said Apple was <a href="https://www.ma
 <br/>
 Apple has publicly confirmed its interest in generative AI, and it has mentioned the technology in <a href="https://www.macrumors.com/2023/06/02/apple-seeking-generative-ai-engineers-for-ar-vr/">job listings posted on its website</a> in recent months.<br/>
 <br/>
-"We've been working on generative AI for years and have done a lot of research," said Apple CEO Tim Cook, in an <a href="https://www.forbes.com/sites/davidphelan/2023/09/29/apples-tim-cook-talks-about-ai-apps-vision-pro-and-iphone-gaming/">interview with <em>Forbes</em></a> last month. "And we're going to approach it really thoughtfully and think about it deeply, because we're fully aware of the not-good uses that it can have, and the issues around bias and hallucination and so forth."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/artificial-intelligence/">Artificial Intelligence</a>, <a href="https://www.macrumors.com/guide/jeff-pu/">Jeff Pu</a>, <a href="https://www.macrumors.com/guide/applegpt/">AppleGPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/19/apple-generative-ai-late-2024-jeff-pu/">Apple Rumored to Follow ChatGPT With Generative AI Features on iPhone as Soon as iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-rumored-to-follow-chatgpt-with-generative-ai-features-on-iphone-as-soon-as-ios-18.2408078/">Discuss this article</a> in our forums<br/><br/>]]></description>
+"We've been working on generative AI for years and have done a lot of research," said Apple CEO Tim Cook, in an <a href="https://www.forbes.com/sites/davidphelan/2023/09/29/apples-tim-cook-talks-about-ai-apps-vision-pro-and-iphone-gaming/">interview with <em>Forbes</em></a> last month. "And we're going to approach it really thoughtfully and think about it deeply, because we're fully aware of the not-good uses that it can have, and the issues around bias and hallucination and so forth."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/artificial-intelligence/">Artificial Intelligence</a>, <a href="https://www.macrumors.com/guide/jeff-pu/">Jeff Pu</a>, <a href="https://www.macrumors.com/guide/apple-gpt/">Apple GPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/19/apple-generative-ai-late-2024-jeff-pu/">Apple Rumored to Follow ChatGPT With Generative AI Features on iPhone as Soon as iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-rumored-to-follow-chatgpt-with-generative-ai-features-on-iphone-as-soon-as-ios-18.2408078/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -676,28 +757,6 @@ The company has reportedly not yet finalized the design of the foldable &zwnj;iP
 A main issue is said to be the device's panel and hinges, with Apple being particularly concerned about the display creasing. The company is purportedly looking to Samsung and LG to provide a display that mitigates the creasing effect using mechanical design solutions. Apple is seemingly able to obtain sufficient supply of the device's hinge, but is still seeking a design that is more cost-effective and easy to mass produce, which could require further simplification and reduction in the number of parts.<br/>
 <br/>
 Mass production of Apple's first foldable is expected to commence in 2025. <em>&zwnj;DigiTimes&zwnj;</em> believes the foldable could boost &zwnj;iPad&zwnj; shipments, sparking an uptick in otherwise shrinking global tablet sales.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/digitimes-com/">DigiTimes</a>, <a href="https://www.macrumors.com/guide/foldable-ipad/">Foldable iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/18/foldable-ipad-now-in-intensive-development-could-be-announced-as-soon-as-late-2024/">Foldable iPad Now in &#039;Intensive Development,&#039; Could Be Announced as Soon as Next Year</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/foldable-ipad-now-in-intensive-development-could-be-announced-as-soon-as-next-year.2407934/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Kuo: MacBook Sales Down 30% Amid No New Products for Remainder of 2023</title>
-		<link>https://www.macrumors.com/2023/10/18/kuo-macbook-sales-down-amid-no-new-products/</link>
-		<comments>https://forums.macrumors.com/threads/kuo-macbook-sales-down-30-amid-no-new-products-for-remainder-of-2023.2407932/</comments>
-		<pubDate>Wed, 18 Oct 2023 03:59:58 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/18/kuo-macbook-sales-down-amid-no-new-products/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Ming-Chi Kuo</category>
-		
-
-		<description><![CDATA[MacBook sales have dropped significantly amid Apple's decision to launch no new Macs for the remainder of 2023, Apple supply chain analyst <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/MacBook-Air-15-Inch-Feature-Teal.jpg" alt="" width="1600" height="894" class="alignnone size-full wp-image-898577" /><br/>
-In a new <a href="https://medium.com/@mingchikuo/4q23-macbook供應鏈出貨顯著衰退25-35-yoy-需警戒同時是macbook關鍵供應商之ai股票-4q23-macbook-supply-chain-shipments-9cdc1c26b65a">post on Medium</a>, Kuo claimed that MacBook sales as a whole are expected to be around 30% lower this year compared to 2022, reducing to about 17 million units. He highlighted that demand for the 15-inch <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> has dropped substantially following the end of the back-to-school period, revising shipment forecasts down by approximately 20% or more. <br/>
-<br/>
-In September, Kuo <a href="https://www.macrumors.com/2023/09/08/kuo-first-m3-macbooks-unlikely-2023/">reported</a> that Apple is unlikely to release any new MacBook models with the M3 chip this year. With no new product launches for the rest of 2023, Kuo now expects MacBook shipment momentum to be significantly lower than in previous seasons. He added that declining work-from-home demand and the waning appeal of Apple silicon and mini-LED displays are also driving MacBook sales down.<br/>
-<br/>
-Kuo believes that one reason for Apple choosing to withhold the launch of any products is to clear inventory ahead of new releases next year. Apple apparently expects the M3 series of chips to boost Mac sales in 2024, but Kuo says this is yet to be seen.<br/>
-<br/>
-In a <a href="https://www.macrumors.com/2023/09/27/kuo-2024-macbooks-ipads-3nm/">previous report</a>, Kuo seemed skeptical of new MacBooks with M3 chips boosting sales. He warned that demand for these devices might still be "below expectations" due to a "lack of growth drivers." Kuo was essentially saying that Apple will no longer have the growth catalysts that it did over the past few years, such as a pandemic-driven work-from-home boost in demand or the newness of Apple silicon, which spurred many customers to upgrade from Intel-based Macs. However, given Mac and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> sales already significantly declined in 2023, Apple will at least have more favorable year-over-year sales comparisons in 2024.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/18/kuo-macbook-sales-down-amid-no-new-products/">Kuo: MacBook Sales Down 30% Amid No New Products for Remainder of 2023</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-macbook-sales-down-30-amid-no-new-products-for-remainder-of-2023.2407932/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
