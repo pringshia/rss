@@ -14,12 +14,37 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 23 Oct 2023 17:10:14 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 23 Oct 2023 21:03:23 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Amazon Adds Support for Passkeys, Allowing for More Secure Logins</title>
+		<link>https://www.macrumors.com/2023/10/23/amazon-adds-support-for-passkeys/</link>
+		<comments>https://forums.macrumors.com/threads/amazon-adds-support-for-passkeys-allowing-for-more-secure-logins.2408484/</comments>
+		<pubDate>Mon, 23 Oct 2023 19:00:32 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/23/amazon-adds-support-for-passkeys/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Amazon</category>
+		<category>Passkeys</category>
+		
+
+		<description><![CDATA[Amazon <a href="https://www.aboutamazon.com/news/retail/amazon-passwordless-sign-in-passkey">today announced</a> that it has added passkey support to its desktop sites and mobile apps, allowing customers to sign in to their accounts without the need for a password.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/amazon-app-passkey.jpg" alt="" width="2000" height="1127" class="aligncenter size-full wp-image-918179" /><br/>
+Passkeys are a more secure alternative to passwords because a passkey cannot be shared with another person through a phishing attempt or leaked online through a database hack. Passkeys do not require customers to remember a password or add a two-factor authentication code, but they do require a verified device.<br/>
+<br/>
+Passkeys can be set up in the Amazon settings, and on an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, or Mac, logging in to an Amazon account can be done with a <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> scan once the feature is turned on. To enable it, go to Your Account &gt; Login and Security, and choose the Set up option next to Passkeys.<br/>
+<br/>
+Apple <a href="https://www.macrumors.com/2022/06/08/apple-passkeys-next-generation-passwords/">implemented support for passkeys</a> with iOS 16 and macOS Ventura. Passkeys work through a public key that's stored on a website server and paired with a private key that's kept on a specific device. On Apple's devices, passkeys are authenticated with &zwnj;Face ID&zwnj; or &zwnj;Touch ID&zwnj;, and two keys must match to allow for a user to log in.<br/>
+<br/>
+Passkeys rely on <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Keychain, which in turn requires two-factor authentication for further protection. Passkeys sync across all of a user's &zwnj;iPhone&zwnj;, &zwnj;iPad&zwnj;, and Mac devices, but they can also be used on non-Apple devices through a QR code system.<br/>
+<br/>
+Amazon says that passkey support is available today for all Amazon customers using browsers, and that it will be rolling out to the Amazon app for iOS devices in the near future.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/amazon/">Amazon</a>, <a href="https://www.macrumors.com/guide/passkeys/">Passkeys</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/23/amazon-adds-support-for-passkeys/">Amazon Adds Support for Passkeys, Allowing for More Secure Logins</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-adds-support-for-passkeys-allowing-for-more-secure-logins.2408484/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Updated Matter 1.2 Specification Supports New Device Types and Brings Performance Improvements</title>
@@ -677,32 +702,6 @@ Due to the complexities of international laws regarding giveaways, only <strong>
 <br/>
 <div class="center-wrap"><a class="e-widget no-button" href="https://gleam.io/adbpk/tuo-giveaway" rel="nofollow">TUO Giveaway</a><br/>
 <script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script></div>The contest will run from today (October 20) at 9:00 a.m. Pacific Time through 9:00 a.m. Pacific Time on October 27. The winners will be chosen randomly on or shortly after October 27 and will be contacted by email. The winners will have 48 hours to respond and provide a shipping address before new winners are chosen.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/giveaway/">Giveaway</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/20/macrumors-giveaway-tuo-smart-button/">MacRumors Giveaway: Win a HomePod Mini and Smart Button From TUO</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macrumors-giveaway-win-a-homepod-mini-and-smart-button-from-tuo.2408198/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The MacRumors Show: Luke Miani Talks the Future of iPad and More</title>
-		<link>https://www.macrumors.com/2023/10/20/the-macrumors-show-luke-miani-talks-future-of-ipad/</link>
-		<comments>https://forums.macrumors.com/threads/the-macrumors-show-luke-miani-talks-the-future-of-ipad-and-more.2408193/</comments>
-		<pubDate>Fri, 20 Oct 2023 08:15:47 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/20/the-macrumors-show-luke-miani-talks-future-of-ipad/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>The MacRumors Show</category>
-		
-
-		<description><![CDATA[YouTuber Luke Miani joins us on this week's episode of <a href="https://podcasts.apple.com/us/podcast/the-future-of-ipad-ft-luke-miani/id1602394741?i=1000632024259">The MacRumors Show</a> to discuss the new <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> with USB-C, the direction of the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> lineup, and Vision Pro. <br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/DTbSrGrlEPw?si=im2OMzWCC4XT1qri" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos</em></div><br/>
-We talk through our immediate thoughts on Apple's <a href="https://www.macrumors.com/2023/10/17/new-apple-pencil-with-usb-c-announced/">newly announced</a> &zwnj;Apple Pencil&zwnj; model featuring a USB-C port for pairing and charging, leading us to contemplate how to clean up the &zwnj;iPad&zwnj; lineup as a whole. We compare Apple's Vision Pro headset to the &zwnj;iPad&zwnj; and consider whether it is destined for similar criticisms or if it truly offers more potential in the long-term. We also discuss the latest rumors about a <a href="https://www.macrumors.com/guide/foldable-ipad/">foldable iPad</a>, which a <a href="https://www.macrumors.com/2023/10/18/foldable-ipad-now-in-intensive-development-could-be-announced-as-soon-as-late-2024/">recent report</a> suggested could be announced as soon as next year, and whether such a device could breathe new life into the &zwnj;iPad&zwnj; lineup. <br/>
-<br/>
-See more of Luke's work over on his <a href="https://www.youtube.com/@lukemiani">YouTube channel</a> or follow him on X (formerly Twitter) <a href="https://twitter.com/LukeMiani">@LukeMiani</a>. <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a> is now on X <a href="https://twitter.com/macrumorsshow">@macrumorsshow</a><a href="https://twitter.com/macrumorsshow"></a>, so be sure to give us a follow to keep up with the podcast!<br/>
-<br/>
-Listen to &zwnj;The MacRumors Show&zwnj; on <a href="https://podcasts.apple.com/podcast/id1602394741">Apple Podcasts</a>, <a href="https://open.spotify.com/show/41XOHIA6w8IxAKJZvrnx90">Spotify</a>, <a href="https://overcast.fm/itunes1602394741">Overcast</a>, <a href="https://pca.st/itunes/1602394741">Pocket Casts</a>, <a href="https://castro.fm/itunes/1602394741">Castro</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzUwOTYxNDQucnNz">Google Podcasts</a>, or your preferred podcasts app. You can also <a href="https://audioboom.com/channels/5096144.rss">copy our RSS feed</a> directly into your podcast player. Watch a video version of the show <a href="https://www.youtube.com/playlist?list=PLD8VmuL7qc7ii5uyjzSRk3UM7KI_c4qC5">on the <em>MacRumors</em> YouTube channel</a>.<br/>
-<br/>
-<div class="center-wrap"><iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.podcasts.apple.com/us/podcast/the-macrumors-show/id1602394741" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe></div><br/>
-If you haven't already listened to the <a href="https://www.macrumors.com/2023/10/13/the-macrumors-show-former-apple-executive-mike-bell/">previous episode of The MacRumors Show</a>, catch up for our discussion with Lucid Senior Vice President of Digital and former Apple executive Mike Bell about the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, AirPort, Vision Pro, <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a>, and more.<br/>
-<br/>
-Subscribe to &zwnj;The MacRumors Show&zwnj; for more episodes, where we discuss some of the topical news breaking here on <em>MacRumors</em>, often joined by exciting guests like <a href="https://www.macrumors.com/2023/10/06/the-macrumors-show-sara-dietschy-apple-accessories/">Sara Dietschy</a>, <a href="https://www.macrumors.com/2023/09/15/the-macrumors-show-ijustine-talks-iphone-15/">iJustine</a>, <a href="https://www.macrumors.com/2023/08/25/the-macrumors-show-iphone-15-jon-rettinger/">Jon Rettinger</a>, <a href="https://www.macrumors.com/2023/02/10/the-macrumors-show-andru-edwards-iphone-ultra/">Andru Edwards</a>, <a href="https://www.macrumors.com/2023/06/07/the-macrumors-show-wwdc23-recap-andru-edwards-kevin-nether/">Kevin Nether</a>, <a href="https://www.macrumors.com/2023/05/26/the-macrumors-show-arnold-kim/">Arnold Kim</a>, <a href="https://www.macrumors.com/2023/05/19/the-macrumors-show-ben-sullins-apple-car/">Ben Sullins</a>, <a href="https://www.macrumors.com/2023/04/07/the-macrumors-show-marcus-kane-headset-design/">Marcus Kane</a>, <a href="https://www.macrumors.com/2023/03/24/the-macrumors-show-christopher-lawley-talks-ipados/">Christopher Lawley</a>, <a href="https://www.macrumors.com/2023/03/10/the-macrumors-show-frank-mcshan-yellow-iphone-14/">Frank McShan</a>, <a href="https://www.macrumors.com/2023/02/24/the-macrumors-show-david-lewis-talks-apple-audio/">David Lewis</a>, <a href="https://www.macrumors.com/2023/01/27/the-macrumors-show-tyler-stalman-new-macs/">Tyler Stalman</a>, <a href="https://www.macrumors.com/2022/12/23/the-macrumors-show-apple-2022-jon-prosser-sam-kohl/">Jon Prosser</a>, <a href="https://www.macrumors.com/2022/09/02/the-macrumors-show-apple-event-expectations/">Sam Kohl</a>, <a href="https://www.macrumors.com/2022/12/16/the-macrumors-show-quinn-nelson-iphone-15-rumors/">Quinn Nelson</a>, <a href="https://www.macrumors.com/2022/11/09/the-macrumors-show-john-gruber-talks-macos-ventura/">John Gruber</a>, <a href="https://www.macrumors.com/2022/10/28/the-macrumors-show-ipados-16-ft-federico-viticci/">Federico Viticci</a>, <a href="https://www.macrumors.com/2022/08/26/the-macrumors-show-thomas-frank-talks-productivity/">Thomas Frank</a>, <a href="https://www.macrumors.com/2022/07/21/the-macrumors-show-jonathan-morrison/">Jonathan Morrison</a>, <a href="https://www.macrumors.com/2022/07/12/the-macrumors-show-ross-young/">Ross Young</a>, <a href="https://www.macrumors.com/2022/06/21/the-macrumors-show-ian-zelbo/">Ian Zelbo</a>, and <a href="https://www.macrumors.com/2022/03/25/the-macrumors-show-rene-ritchie-talks-mac-studio/">Rene Ritchie</a>. You can also head over to <a href="https://forums.macrumors.com/threads/the-macrumors-show-discussion-thread.2383023/">The MacRumors Show</a> forum thread to engage with us directly. Remember to rate and review the show, and let us know what subjects you would like the podcast to cover in the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/20/the-macrumors-show-luke-miani-talks-future-of-ipad/">The MacRumors Show: Luke Miani Talks the Future of iPad and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-macrumors-show-luke-miani-talks-the-future-of-ipad-and-more.2408193/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
