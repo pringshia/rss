@@ -14,12 +14,46 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 24 Oct 2023 01:03:36 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 24 Oct 2023 05:04:42 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 17.1: How to Shuffle a Photo Album on Your Lock Screen</title>
+		<link>https://www.macrumors.com/how-to/iphone-lock-screen-shuffle-between-photos-album/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-1-how-to-shuffle-a-photo-album-on-your-lock-screen.2408507/</comments>
+		<pubDate>Tue, 24 Oct 2023 04:11:05 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/iphone-lock-screen-shuffle-between-photos-album&#038;post_date=1698156665/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple is expected to release iOS 17.1 later today, and <a href="https://www.macrumors.com/guide/ios-17-1-beta-features/">amongst other features</a> the update includes a new Lock Screen personalization option for iPhones. Here's how to make your Lock Screen wallpaper shuffle through photos from a specific album in your photo library.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/06/shuffle-photos-lock-screen.jpg" alt="" width="3840" height="2500" class="aligncenter size-full wp-image-848808" /><br/>
+In recent versions of iOS, Apple has made it possible for users to customize the Lock Screen in ways that were simply not possible in earlier versions of its mobile software, and one feature in particular that has proven popular is the ability to shuffle photos on your Lock Screen wallpaper at specific intervals or whenever you wake or tap the screen. <br/>
+<br/>
+In iOS 17.1, Apple has extended this feature so that you can now shuffle pictures from a specific album from your photo library, rather than having to manually select individual photos or rely on Apple's preset options of People, Pets, Nature, and Cities. The following steps show you how it's done on iPhones running iOS 17.1.<br/>
+<ol><li>Wake your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and use <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> to unlock it, but don't swipe up on the Lock Screen.</li><br/>
+<li>Press and hold on the Lock Screen until the wallpaper gallery appears, then tap the blue <strong>+</strong> button in the bottom-right corner of the screen.</li><br/>
+<li>Select <strong>Photo Shuffle</strong> from the wallpaper menu.<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/lock-screen-photo-shuffle.jpg" alt="Lock Screen" width="2738" height="2716" class="aligncenter size-full wp-image-918216" /><br/>
+<li>Tap the new <strong>Album</strong> option, then choose the album of photos from your library that you'd like to shuffle between.</li><br/>
+<li>Next, choose a <strong>Shuffle Frequency</strong>: <strong>Daily</strong>, <strong>Hourly</strong>, <strong>On Lock</strong>, or <strong>On Tap</strong>.<br/>
+<li>Tap <strong>Use Album</strong> to move on.<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/choose-shuffle-album.jpg" alt="shuffle" width="2738" height="2716" class="aligncenter size-full wp-image-918217" /><br/>
+<li>Tap the screen to preview the photos in your chosen album as they will appear on your Lock Screen, and tap the clock to adjust the font style and color so that the time, date, and any widgets remain legible against all of your pictures.</li><br/>
+<li>Tap <strong>Done</strong> in the top-right corner to finish, then choose either <strong>Set as Wallpaper Pair</strong> to finish or <strong>Customize Home Screen</strong> to tweak its look separately, then tap <strong>Done</strong>.<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/photo-shuffle-preview.jpg" alt="photo shuffle" width="2738" height="2716" class="aligncenter size-full wp-image-918219" /></ol>Tap your new album-specific photo shuffle wallpaper in the gallery to make it live. Then you can tap or wake your &zwnj;iPhone&zwnj;'s screen to change the photo, or wait for it to change automatically, depending on your chosen option.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/iphone-lock-screen-shuffle-between-photos-album/">iOS 17.1: How to Shuffle a Photo Album on Your Lock Screen</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-1-how-to-shuffle-a-photo-album-on-your-lock-screen.2408507/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Amazon Adds Support for Passkeys, Allowing for More Secure Logins</title>
@@ -187,6 +221,7 @@ We've gathered a few more monitors and TVs on sale below, but be sure to head to
 		<pubDate>Mon, 23 Oct 2023 01:51:54 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2023/10/23/apple-mac-launch-event-coming-october-30-or-31/</guid>
 		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
 		<category>iMac</category>
 		<category>MacBook Pro 13&quot;</category>
 		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
@@ -400,7 +435,7 @@ Other music services including Spotify have not supported this option even thoug
 		<category>Kosutami</category>
 		
 
-		<description><![CDATA[<strong>Update:</strong> Kosutami has since revealed that the LcdUTest app shown on the HomePod's larger display panel is faked, but the <a href="https://x.com/KosutamiSan/status/1716312059569467839?s=20">HomePod in the picture is not</a>.<br/>
+		<description><![CDATA[<strong>Update:</strong>Kosutami has since revealed that the LcdUTest app shown on the HomePod's display has been superimposed and doesn't exist in the original picture, but the <a href="https://x.com/KosutamiSan/status/1716312059569467839?s=20">LCD display panel shown on the HomePod is real</a>.<br/>
 <br/>
 <hr /><br/>
 <br/>
@@ -665,43 +700,6 @@ Verizon has discounts on both models of the AirPods 3, priced at &#36;149.99 for
 Apple's 10th generation iPad hit &#36;399.00 this week on Amazon in every color, and they're all still on sale today. This is &#36;50 in savings and a solid second-best discount on the tablet.<br/>
 <br/>
 Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/20/best-apple-deals-of-the-week-10-20-23/">Best Apple Deals of the Week: Sonos Takes &#36;100 Off Move Speaker and Anker&#039;s Pre-Black Friday Sale Has Big USB-C Accessory Discounts</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-sonos-takes-100-off-move-speaker-and-ankers-pre-black-friday-sale-has-big-usb-c-accessory-discounts.2408204/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>MacRumors Giveaway: Win a HomePod Mini and Smart Button From TUO</title>
-		<link>https://www.macrumors.com/2023/10/20/macrumors-giveaway-tuo-smart-button/</link>
-		<comments>https://forums.macrumors.com/threads/macrumors-giveaway-win-a-homepod-mini-and-smart-button-from-tuo.2408198/</comments>
-		<pubDate>Fri, 20 Oct 2023 09:16:54 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/20/macrumors-giveaway-tuo-smart-button/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>Giveaway</category>
-		
-
-		<description><![CDATA[For this week's giveaway, we've teamed up with <a href="https://findtuo.com/pages/smart-button">accessory company TUO</a> to offer <em>MacRumors</em> readers a chance to win a <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a> and a Matter-compatible TUO Smart Button to go along with it.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/tuo-smart-button-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-917945" /><br/>
-<a href="https://findtuo.com/pages/smart-button">Priced at &#36;34.95</a>, TUO Smart Button is a simple accessory that is able to activate any of your home automations with the press of a button. TUO is the first Matter-certified Smart Button that supports Thread.<br/>
-<br/>
-With Matter integration, it can be added to a <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> setup so long as you have an Apple Matter hub, which includes the <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> 2, &zwnj;HomePod mini&zwnj;, and <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> 4K. Thread allows for better connectivity and interaction with other Thread-enabled products as long as you have a Thread border router. In the &zwnj;HomeKit&zwnj; ecosystem, the &zwnj;HomePod&zwnj; 2, &zwnj;HomePod mini&zwnj;, and the &zwnj;Apple TV&zwnj; 4K (latest &#36;149 model) have Border router support, as do many other &zwnj;HomeKit&zwnj; devices.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/tuo-smart-button-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-917946" /><br/>
-The Smart Button has a simple, straightforward design and it can be placed anywhere in the home. It comes with a magnetic wall plate and a set of stickers that you can add to denote what the button does. Because it's so compact (about an inch and a half), it is unassuming and blends well with decor.<br/>
-<br/>
-While there's a single button, it supports a total of three gestures, including a single press, a double press, and a long press. That means three separate actions or automations can be activated with the TUO Smart Button. According to TUO, the button can even be used as an "unofficial" doorbell when it's set up to play a sound on a connected smart speaker.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/tuo-smart-button-3.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-917947" /><br/>
-Automations in &zwnj;HomeKit&zwnj; can encompass several actions, like turning off all of the lights in one room at a time, so the TUO Smart Button offers quite a bit of flexibility with the three button options. The entire top part of the TUO can be pressed down, so it is easy to activate your automations even with the small size of the device.<br/>
-<br/>
-The TUO Smart Button uses a CR2032 battery that is able to last around a year depending on how much the button is used. Aside from Thread, it is also able to connect to a &zwnj;HomeKit&zwnj; setup using Bluetooth. If you don't have &zwnj;HomeKit&zwnj;, or have a home with multiple smart home platforms, the Smart Button also works with other Matter-supported systems.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/tuo-smart-button-4.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-917948" /><br/>
-We have five TUO Smart Buttons and five &zwnj;HomePod mini&zwnj; speakers to give away to <em>MacRumors</em> readers. To enter to win, use the widget below and enter an email address. Email addresses will be used solely for contact purposes to reach the winner(s) and send the prize(s). You can earn additional entries by subscribing to our <a href="http://eepurl.com/OHdUX">weekly newsletter</a>, subscribing to our <a href="https://www.youtube.com/user/macrumors">YouTube channel</a>, following us on <a href="https://twitter.com/macrumors">Twitter</a>, following us on <a href="https://www.instagram.com/macrumors/">Instagram</a>, or visiting the <em>MacRumors</em> <a href="https://www.facebook.com/MacRumors">Facebook page</a>.<br/>
-<br/>
-Due to the complexities of international laws regarding giveaways, only <strong>U.S. residents who are 18 years or older, UK residents who are 18 years or older, and Canadian residents (excluding Quebec) who have reached the age of majority in their province or territory are eligible to enter</strong>. All federal, state, provincial, and/or local taxes, fees, and surcharges are the sole responsibility of the prize winner. To offer feedback or get more information on the giveaway restrictions, please refer to <a href="http://forums.macrumors.com/threads/macrumors-giveaways-why-are-they-only-open-to-u-s-residents.1918337/">our Site Feedback section</a>, as that is where discussion of the rules will be redirected.<br/>
-<br/>
-<div class="center-wrap"><a class="e-widget no-button" href="https://gleam.io/adbpk/tuo-giveaway" rel="nofollow">TUO Giveaway</a><br/>
-<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script></div>The contest will run from today (October 20) at 9:00 a.m. Pacific Time through 9:00 a.m. Pacific Time on October 27. The winners will be chosen randomly on or shortly after October 27 and will be contacted by email. The winners will have 48 hours to respond and provide a shipping address before new winners are chosen.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/giveaway/">Giveaway</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/20/macrumors-giveaway-tuo-smart-button/">MacRumors Giveaway: Win a HomePod Mini and Smart Button From TUO</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macrumors-giveaway-win-a-homepod-mini-and-smart-button-from-tuo.2408198/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
