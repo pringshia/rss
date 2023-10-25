@@ -14,12 +14,248 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 25 Oct 2023 09:02:49 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 25 Oct 2023 13:03:06 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Everything You Can Do With the Double Tap Gesture on Apple Watch</title>
+		<link>https://www.macrumors.com/2023/10/25/watchos-10-1-double-tap-gesture/</link>
+		<comments>https://forums.macrumors.com/threads/everything-you-can-do-with-the-double-tap-gesture-on-apple-watch.2408671/</comments>
+		<pubDate>Wed, 25 Oct 2023 12:46:22 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/watchos-10-1-double-tap-gesture/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[With the <a href="https://www.macrumors.com/2023/10/25/apple-releases-watchos-10-1/">watchOS 10.1 update</a> that came out today, Apple has added Double Tap to the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a> devices. Double Tap was announced when the new models were introduced, but it took some time for Apple to implement it. With Double Tap, you can activate some Apple Watch functions with just one hand.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Apple-Watch-Ultra-2-double-tap-gesture-230912-Faeture-Blue.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-915440" /><br/>
+Using Double Tap requires you to tap your thumb and index finger together twice, and when you do this, you'll see a little icon on the Apple Watch to let you know that the tap was recognized. Double Tap uses the sensors in the Apple Watch to detect minute movements and blood flow when the fingers are positioned in a certain way. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/apple-watch-ultra-double-tap-feature-green.jpg" alt="" width="2210" height="1243" class="aligncenter size-full wp-image-915455" /><br/>
+There are a number of things you can do with Double Tap, and Apple has made it work with some of the most common actions that you might need to perform with one hand.<br/>
+<ul><br/>
+ 	<li>Open the Smart Stack from the watch face, and then Double Tap again to scroll through widgets.</li><br/>
+ 	<li>Answer phone or <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls.</li><br/>
+ 	<li>Hang up phone or &zwnj;FaceTime&zwnj; calls.</li><br/>
+ 	<li>When you get an iMessage, Double Tap to view it, and then Double Tap again if you need to scroll.</li><br/>
+ 	<li>Reply to a Message using dictation and then send it with Double Tap.</li><br/>
+ 	<li>Act on notifications - Apple says a Double Tap on an incoming notification will activate the primary action, such as snoozing a reminder or replying to a message.</li><br/>
+ 	<li>Pause, resume, and end a timer.</li><br/>
+ 	<li>Stop and resume the stopwatch.</li><br/>
+ 	<li>Snooze an alarm.</li><br/>
+ 	<li>Play and pause music, podcasts, or audiobooks (or skip a track, depending on settings).</li><br/>
+ 	<li>Change to the Elevation view in the Compass app.</li><br/>
+ 	<li>Start or stop automatic Workout reminders when a workout is detected.</li><br/>
+<li>Take a photo with the Camera Remote.</li><br/>
+<li>Record a voice memo in the Voice Memo app.</li><br/>
+<li>Change Flashlight modes.</li><br/>
+</ul><br/>
+In the Apple Watch app under Gestures, you can opt to change the playback option from play/pause to skip, and the Smart Stack option from Advance (swaps through the widgets) to Select (opens a widget's associated app).<br/>
+<br/>
+While Double Tap can be used with third-party apps through incoming notifications, there is no Double Tap API for third-party apps at the current time. Developers can still customize their apps for Double Tap to an extent by assigning the action that should occur when a Double Tap gesture is used on an incoming notification.<br/>
+<br/>
+Double Tap is limited to the &zwnj;Apple Watch Series 9&zwnj; and the &zwnj;Apple Watch Ultra 2&zwnj; because, as Apple executives said in a <a href="https://www.tomsguide.com/features/apple-watch-9-how-apple-redefined-the-smartwatch">recent interview with <em>Tom's Guide</em></a>, the S9 chip in the new models is the first that is powerful enough for the gesture system.<br/>
+<br/>
+To use Double Tap, &zwnj;Apple Watch Ultra 2&zwnj; and &zwnj;Apple Watch Series 9&zwnj; owners will need to update their devices to watchOS 10.1 through the Apple Watch app on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. watchOS 10.1 requires an &zwnj;iPhone&zwnj; running <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or later.<br/>
+<br/>
+Note that Double Tap <a href="https://support.apple.com/en-us/HT213942">will not work</a> when Low Power Mode, Sleep Focus, Theater Mode, or Water Lock is activated, and you must first raise your wrist to wake the Apple Watch to perform the gesture. Double Tap also does not work on watches that are paired as a <a href="https://www.macrumors.com/guide/family-setup/">Family Setup</a> watch.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/watchos-10-1-double-tap-gesture/">Everything You Can Do With the Double Tap Gesture on Apple Watch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-you-can-do-with-the-double-tap-gesture-on-apple-watch.2408671/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>New AirPods and AirPods Max Launching in 2024, Updated AirPods Pro Coming in 2025</title>
+		<link>https://www.macrumors.com/2023/10/25/airpods-lineup-overhaul-2024/</link>
+		<comments>https://forums.macrumors.com/threads/new-airpods-and-airpods-max-launching-in-2024-updated-airpods-pro-coming-in-2025.2408657/</comments>
+		<pubDate>Wed, 25 Oct 2023 10:31:59 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/airpods-lineup-overhaul-2024/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>AirPods</category>
+		<category>AirPods Max</category>
+		<category>AirPods Pro</category>
+		<category>Featured</category>
+		<category>Bloomberg</category>
+		<category>Mark Gurman</category>
+		
+
+		<description><![CDATA[Apple plans to begin a major overhaul of its AirPods lineup starting next year, according to <a href="https://www.bloomberg.com/news/articles/2023-10-25/apple-airpods-plans-4th-generation-low-end-3rd-generation-pro-and-usb-c-max"><em>Bloomberg</em>'s Mark Gurman</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/08/airpods-school.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-905460" /><br/>
+The standard AirPods and the <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a> will see a refresh in 2024, while the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> will be updated in 2025. For the AirPods and &zwnj;AirPods Pro&zwnj;, Apple will update the design of the earbuds and the case, while also improving audio quality.<br/>
+<br/>
+When the AirPods are refreshed, Apple will phase out the second-generation and third-generation models, offering two fourth-generation models at different price points instead.<br/>
+<br/>
+Both of the fourth-generation AirPods models will look like a cross between the current AirPods and the &zwnj;AirPods Pro&zwnj;, with Apple introducing shorter stems. The higher-end version of the standard AirPods will feature Active Noise Cancellation, a feature that has thus far been limited to the &zwnj;AirPods Pro&zwnj; and the &zwnj;AirPods Max&zwnj;.<br/>
+<br/>
+Fit will be "improved," but it is unclear if Apple plans to add silicone ear tips. As for the case, it will gain speakers for <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a> alerts, similar to the current &zwnj;AirPods Pro&zwnj;, and a USB-C charging port.<br/>
+<br/>
+The &zwnj;AirPods Max&zwnj; will see the inclusion of a USB-C port for charging purposes instead of a Lightning port, and Apple will also debut new colors. No other notable features are expected at this time.<br/>
+<br/>
+In 2025, the &zwnj;AirPods Pro&zwnj; will be updated with a new design and a faster chip, plus the earbuds could get some previously-rumored <a href="https://www.macrumors.com/2023/03/12/gurman-airpods-to-gain-hearing-health-features/">hearing health features</a>. Rumors have suggested Apple is working on functionality that would let the &zwnj;AirPods Pro&zwnj; collect hearing data and better serve as a hearing aid replacement.<br/>
+<br/>
+There is no clear word yet on when in 2024 and 2025 we might see AirPod refreshes, but Apple typically introduces new models in the latter half of the year around when new iPhones come out. Gurman says that the AirPods will come out "later next year" and the &zwnj;AirPods Max&zwnj; will come out "around the end of next year."<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/airpods/">AirPods 3</a>, <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a>, <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods">AirPods (Caution)</a>, <a href="https://buyersguide.macrumors.com/#AirPods-Max">AirPods Max (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/airpods-lineup-overhaul-2024/">New AirPods and AirPods Max Launching in 2024, Updated AirPods Pro Coming in 2025</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-airpods-and-airpods-max-launching-in-2024-updated-airpods-pro-coming-in-2025.2408657/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases iOS 17.1 and iPadOS 17.1 With AirDrop Over Internet, Music Favorites Options and More</title>
+		<link>https://www.macrumors.com/2023/10/25/apple-releases-ios-17-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-ios-17-1-and-ipados-17-1-with-airdrop-over-internet-music-favorites-options-and-more.2408654/</comments>
+		<pubDate>Wed, 25 Oct 2023 10:10:15 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/apple-releases-ios-17-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released iOS 17.1 and iPadOS 17.1, the first major updates to the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> and <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> operating system updates that came out in September.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/iOS-17.1-Feature-Fall.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-915265" /><br/>
+iOS 17.1 and iPadOS 17.1 can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update.<br/>
+<br/>
+In the new updates, Apple has added support for continuing a large AirDrop file transfer over the internet when out of AirDrop range. The <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> app includes options to favorite songs, albums, and playlists, and there are now song suggestions at the end of every playlist.<br/>
+<br/>
+Though not mentioned in the notes, Apple says the update "fixes" <a href="https://www.macrumors.com/2023/10/10/ios-17-1-iphone-12-radiation-fix/">iPhone 12 radiation levels</a> in France by disabling a feature that boosts cellular signal when the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> is not held by a person, and it improves Screen Time syncing across devices. There are several bug fixes, with iOS 17.1 addressing an issue that could cause display image persistence and a bug that could cause the Significant Location setting to reset when transferring or pairing an Apple Watch for the first time.<br/>
+<br/>
+On the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, the &zwnj;iPadOS 17&zwnj; update adds support for <a href="https://www.macrumors.com/2023/10/17/new-apple-pencil-with-usb-c-announced/">the USB-C Apple Pencil</a> that was announced last week. Apple's full release notes for the update are below.<br/>
+<blockquote><strong>AirDrop</strong><br/>
+- Content continues to transfer over the internet when you step out of AirDrop range<br/>
+<br/>
+<strong>StandBy</strong><br/>
+- New options to control when the display turns off (iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15 Pro, and iPhone 15 Pro Max)<br/>
+<br/>
+<strong>Music</strong><br/>
+- Favorites expanded to include songs, albums, and playlists, and you can filter to display your favorites in the library<br/>
+- New cover art collection offers designs that change colors to reflect the music in your playlist<br/>
+- Song suggestions appear at the bottom of every playlist, making it easy to add music that matches the vibe of your playlist<br/>
+<br/>
+<strong>This update also includes the following improvements and bug fixes:</strong><br/>
+- Option to choose a specific album to use with Photo Shuffle on the Lock Screen<br/>
+- Home key support for Matter locks<br/>
+- Improved reliability of Screen Time settings syncing across devices<br/>
+- Fixes an issue that may cause the Significant Location privacy setting to reset when transferring an Apple Watch or pairing it for the first time<br/>
+- Resolves an issue where the names of incoming callers may not appear when you are on another call<br/>
+- Addresses an issue where custom and purchased ringtones may not appear as options for your text tone<br/>
+- Fixes an issue that may cause the keyboard to be less responsive<br/>
+- Crash detection optimizations (all iPhone 14 and iPhone 15 models)<br/>
+- Fixes an issue that may cause display image persistence<br/>
+<br/>
+Some features may not be available for all regions or on all Apple devices. For information on the security content of Apple software updates, please visit this website: https://support.apple.com/kb/HT201222</blockquote><br/>
+More information on the new features in the &zwnj;iOS 17&zwnj; update can be found in our &zwnj;iOS 17&zwnj; roundup.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/apple-releases-ios-17-1/">Apple Releases iOS 17.1 and iPadOS 17.1 With AirDrop Over Internet, Music Favorites Options and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-17-1-and-ipados-17-1-with-airdrop-over-internet-music-favorites-options-and-more.2408654/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases macOS Sonoma 14.1</title>
+		<link>https://www.macrumors.com/2023/10/25/apple-releases-macos-sonoma-14-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-macos-sonoma-14-1.2408652/</comments>
+		<pubDate>Wed, 25 Oct 2023 10:08:34 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/apple-releases-macos-sonoma-14-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today released <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.1, the first major update to the &zwnj;macOS Sonoma&zwnj; operating system that initially <a href="https://www.macrumors.com/2023/09/26/apple-releases-macos-sonoma/">came out in late September</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/macos-sonoma-feature-purple-green.jpg" alt="" width="2585" height="1454" class="aligncenter size-full wp-image-898568" /><br/>
+The ‌‌&zwnj;macOS Sonoma&zwnj; 14.1‌ update can be downloaded for free on all eligible Macs using the Software Update section of System Settings. Apple has also released macOS 13.6.1 and macOS 12.7.1 updates for older machines. <br/>
+<br/>
+With &zwnj;macOS Sonoma&zwnj; 14.1, Apple has added a new warranty section that lets you see the <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a>+ status of your Mac and connected AirPods, plus there are now options to favorite songs, albums, and playlists in the <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> app. Apple's full release notes for the update are below.<br/>
+<blockquote>This update provides enhancements, bug fixes, and security updates for your Mac including:<br/>
+<ul><br/>
+ 	<li>Favorites expanded in Music to include songs, albums, and playlists, and you can filter to display your favorites in the library</li><br/>
+ 	<li>Apple warranty status for Mac, AirPods, and Beats headphones and earbuds are available in System Settings</li><br/>
+ 	<li>Fixes an issue where the System Services settings within Location Services may reset</li><br/>
+ 	<li>Fixes an issue that may prevent encrypted external drives from mounting</li><br/>
+</ul><br/>
+Some features may not be available for all regions, or on all Apple devices.<br/>
+<br/>
+For detailed information about the security content of this update, please visit: https://support.apple.com/kb/HT201222</blockquote><br/>
+More information on the features in &zwnj;macOS Sonoma&zwnj; can be <a href="https://www.macrumors.com/roundup/macos-sonoma/">found in our macOS Sonoma roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/apple-releases-macos-sonoma-14-1/">Apple Releases macOS Sonoma 14.1</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-macos-sonoma-14-1.2408652/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases watchOS 10.1 With Double Tap, NameDrop and More</title>
+		<link>https://www.macrumors.com/2023/10/25/apple-releases-watchos-10-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-watchos-10-1-with-double-tap-namedrop-and-more.2408650/</comments>
+		<pubDate>Wed, 25 Oct 2023 10:03:09 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/apple-releases-watchos-10-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today released watchOS 10.1, the latest version of the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> operating system that was <a href="https://www.macrumors.com/2023/09/18/apple-releases-watchos-10/">released in September</a>. watchOS 10.1 comes four weeks after watchOS 10.0.2, <a href="https://www.macrumors.com/2023/09/26/apple-releases-watchos-10-0-2/">a minor update</a> that brought bug fixes.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/watchOS-10-Launch-Feature.jpg" alt="" width="2560" height="1440" class="aligncenter size-full wp-image-912513" /><br/>
+‌&zwnj;watchOS 10&zwnj;‌‌.1 can be downloaded for free through the Apple Watch app on an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> running <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or later by opening it up and going to General &gt; Software Update. To install the new software, the Apple Watch needs to have at least 50 percent battery and it needs to be placed on a charger.<br/>
+<br/>
+There are several new Apple Watch features enabled in watchOS 10.1, including NameDrop. NameDrop lets you tap an Apple Watch to another Apple Watch or &zwnj;iPhone&zwnj; to exchange contact information with someone.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/apple-watch-namedrop.jpg" alt="" width="3024" height="1640" class="aligncenter size-full wp-image-911345" /><br/>
+The update <a href="https://www.apple.com/newsroom/2023/10/apple-watch-double-tap-gesture-now-available-with-watchos-10-1/">also includes Double Tap</a>, a gesture that is available on the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and the <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a>. Double Tap can be activated by tapping the index finger and thumb together twice, and it can be used to answer phone calls, end phone calls, stop alarms, and more.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Apple-Watch-Ultra-2-double-tap-gesture-230912-Faeture-Blue.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-915440" /><br/>
+Along with these two features, there are a handful of bug fixes, including an issue that could cause cities not to sync in the Weather app and a bug that could cause the elevation to be incorrect for some users. Apple's full release notes for the update are below.<br/>
+<blockquote>watchOS 10.1 includes new features, improvements, and bug fixes, including:<br/>
+<ul><br/>
+ 	<li>Double tap gesture can be used to perform the primary action in notifications and most apps so you can answer a call, play and pause music, stop a timer, and more (Available on Apple Watch Series 9 and Apple Watch Ultra 2)</li><br/>
+ 	<li>NameDrop allows you to exchange contact information with someone new by simply bringing your Apple Watch near their iPhone with iOS 17 or Apple Watch (Available on Apple Watch SE 2, Apple Watch Series 7 and later, and Apple Watch Ultra)</li><br/>
+ 	<li>My Card is available as a complication for quick access to NameDrop</li><br/>
+ 	<li>Fix for bug that causes the climate section in the Home app to be blank</li><br/>
+ 	<li>Addresses an issue that causes a white selection border to be unexpectedly displayed after turning off AssistiveTouch</li><br/>
+ 	<li>Fixes an issue where cities may not sync between iPhone and watch in Weather</li><br/>
+ 	<li>Resolves an issue where the scroll bar may unexpectedly be visible on the display</li><br/>
+ 	<li>Fix for bug that causes elevation to be incorrect for some users<br/>
+For information on the security content of Apple software updates, please visit this website: https://support.apple.com/kb/HT201222</li><br/>
+</ul></blockquote>More details on everything new in the &zwnj;watchOS 10&zwnj; update can be found in our <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10 roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/apple-releases-watchos-10-1/">Apple Releases watchOS 10.1 With Double Tap, NameDrop and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-watchos-10-1-with-double-tap-namedrop-and-more.2408650/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Brings Enhance Dialogue to Original HomePod and HomePod mini With 17.1 Update</title>
+		<link>https://www.macrumors.com/2023/10/25/apple-releases-homepod-software-17-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-brings-enhance-dialogue-to-original-homepod-and-homepod-mini-with-17-1-update.2408655/</comments>
+		<pubDate>Wed, 25 Oct 2023 10:02:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/apple-releases-homepod-software-17-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>HomePod</category>
+		<category>HomePod mini</category>
+		
+
+		<description><![CDATA[Apple today released the <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> 17.1 software for the &zwnj;HomePod&zwnj; and <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a>, bringing support for Enhance Dialogue to additional devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/01/HomePod-2-and-Mini-feature-2.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-882635" /><br/>
+Enhance Dialogue is a feature that boosts the volume of spoken voices to make dialogue easier to hear over effects, action, and music in a movie or TV show. The feature works when a &zwnj;HomePod&zwnj; or &zwnj;HomePod mini&zwnj; is paired to an <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> and used as the audio output option.<br/>
+<br/>
+Prior to today, Enhance Dialogue was available on the second-generation &zwnj;HomePod&zwnj;, and it was a feature that was first introduced in tvOS 17. With tvOS 17.1 and &zwnj;HomePod&zwnj; software 17.1, Enhance Dialogue can be enabled on any &zwnj;HomePod&zwnj; (or set of HomePods) paired to an &zwnj;Apple TV&zwnj; 4K. Apple's full release notes for the update are below.<blockquote>Software version 17.1 adds support for Enhance Dialogue on HomePod mini and HomePod (1st generation) so you can hear spoken voices more clearly over effects, action, and music in a movie or TV show when paired with Apple TV 4K. This update also includes bug fixes and stability improvements.</blockquote>Enabling Enhance Dialogue can be done by playing a TV show or movie, bringing up the playback controls with the <a href="https://www.macrumors.com/guide/siri/">Siri</a> Remote, and choosing the Enhance Dialogue feature from the Audio Options button. It can be enabled for all content by going to Settings > Video and Audio > Enhance Dialogue.<br/>
+<br/>
+‌‌‌‌‌&zwnj;HomePod&zwnj;‌‌‌‌‌‌ software is installed automatically on the ‌‌‌‌‌‌&zwnj;HomePod&zwnj;‌‌ unless the feature is disabled‌‌‌‌, but the ‌‌‌‌‌‌&zwnj;HomePod&zwnj;‌‌‌‌‌‌ can also be manually updated in the Home app by following the instructions in our <a href="https://www.macrumors.com/how-to/homepod-software-update/">HomePod‌‌ update how to</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a>, <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#HomePod">HomePod (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#Homepod-Mini">HomePod Mini (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/homepod-homekit-carplay-home-auto-technology.193">HomePod, HomeKit, CarPlay, Home & Auto Technology</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/apple-releases-homepod-software-17-1/">Apple Brings Enhance Dialogue to Original HomePod and HomePod mini With 17.1 Update</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-brings-enhance-dialogue-to-original-homepod-and-homepod-mini-with-17-1-update.2408655/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases tvOS 17.1</title>
+		<link>https://www.macrumors.com/2023/10/25/apple-releases-tvos-17-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-tvos-17-1.2408653/</comments>
+		<pubDate>Wed, 25 Oct 2023 10:01:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/apple-releases-tvos-17-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple TV</category>
+		
+
+		<description><![CDATA[Apple today released tvOS 17.1, the first major update to the tvOS 17 operating system that initially <a href="https://www.macrumors.com/2023/09/18/apple-releases-tvos-17/">came out in September 2023</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-869857" src="https://images.macrumors.com/article-new/2022/10/Apple-TV-2022-Feature-Blue.jpg" alt="" width="2500" height="1406" /><br/>
+tvOS 17.1 can be downloaded using the Settings app on the ‌<a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>‌. Go to System &gt; Software Update to get the new software. ‌&zwnj;Apple TV&zwnj;‌ owners who have automatic software updates activated will be upgraded to tvOS 17.1 automatically.<br/>
+<br/>
+The Enhance Dialogue feature first announced in tvOS 17 for the second-generation <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> has expanded to the original &zwnj;HomePod&zwnj; and the <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a> in tvOS 17.1, though the HomePods will also need the &zwnj;HomePod&zwnj; 17.1 software that came out today.<br/>
+<br/>
+tvOS 17.1 also includes a new favoriting option in the Music app on the ‌&zwnj;Apple TV&zwnj;‌, along with some other minor Music changes.<br/>
+<br/>
+tvOS updates tend to be minor in scale, focusing on small features and bug fixes rather than notable outward-facing changes. Apple's notes for tvOS 17.1 can be found in its <a href="https://support.apple.com/en-us/HT207936">tvOS support document</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/apple-releases-tvos-17-1/">Apple Releases tvOS 17.1</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-tvos-17-1.2408653/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>New &#039;Scary Fast&#039; Macs May Launch on Wednesday, November 8</title>
@@ -52,13 +288,15 @@ The M3 chip is widely expected to be fabricated using TSMC's <a href="https://ww
 		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/apple-services-price-increases/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
 		<category>Featured</category>
+		<category>Apple News</category>
+		<category>Apple Arcade</category>
 		<category>Apple TV Plus</category>
 		<category>Apple One</category>
 		
 
 		<description><![CDATA[Apple today announced that it is increasing the prices of some of its subscription-based services, including Apple TV+, Apple Arcade, and Apple News+, for new and existing subscribers in the U.S. and <a href="https://www.macg.co/services/2023/10/augmentation-imminente-des-abonnements-apple-arcade-apple-tv-et-apple-one-140063">many other countries around the world</a>.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2023/10/Apple-TV-Arcade-and-News-Price-Increase-Feature.jpg" alt="" width="910" height="511" class="alignnone size-full wp-image-918548" /><br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Apple-TV-Arcade-and-News-Price-Increase-Feature-2.jpg" alt="" width="2500" height="1404" class="aligncenter size-full wp-image-918551" /><br/>
 The price changes in the U.S. are as follows:<ul><li><strong>Apple TV+:</strong> &#36;6.99 per month → &#36;9.99 per month</li><br/>
 <li><strong>Apple Arcade:</strong> &#36;4.99 per month → &#36;6.99 per month</li><br/>
 <li><strong>Apple News+:</strong> &#36;9.99 per month → &#36;12.99 per month</li></ul>For those who subscribe to Apple TV+ on an annual basis, the price has increased from &#36;69 per year to &#36;99 per year accordingly.<br/>
@@ -71,7 +309,7 @@ In the U.S., these are the first-ever price increases for Apple Arcade and Apple
 <br/>
 In a statement shared with <em>MacRumors</em>, Apple said it is "focused on delivering the best experiences possible for our customers by consistently adding high-quality entertainment, content, and innovative features to our services."<br/>
 <br/>
-There are no price increases for Apple Music and Apple Fitness+ today.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV Plus</a>, <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/apple-services-price-increases/">Apple TV+, Apple Arcade, and Apple News+ Receiving Price Increases</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-tv-apple-arcade-and-apple-news-receiving-price-increases.2408634/">Discuss this article</a> in our forums<br/><br/>]]></description>
+There are no price increases for Apple Music and Apple Fitness+ today.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-news/">Apple News</a>, <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>, <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV Plus</a>, <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/apple-services-price-increases/">Apple TV+, Apple Arcade, and Apple News+ Receiving Price Increases</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-tv-apple-arcade-and-apple-news-receiving-price-increases.2408634/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -371,203 +609,6 @@ Apple has never held a worldwide event at night before, so this is a first for t
 Given the late hour of the event, it will be online only, with no in-person component. The "Scary Fast" event will be able to be streamed via the Events website, on YouTube, and through the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app.<br/>
 <br/>
 <em>MacRumors</em> will have full coverage of the September 12 event as well, both on MacRumors.com and through our <a href="https://twitter.com/macrumorslive?lang=en">MacRumorsLive Twitter account</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-event/">Apple Event</a>, <a href="https://www.macrumors.com/guide/october-2023-apple-event/">October 2023 Apple Event</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/apple-scary-fast-event-livestream/">Apple Adds &#039;Scary Fast&#039; Event Livestream Placeholder to YouTube and Website</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-adds-scary-fast-event-livestream-placeholder-to-youtube-and-website.2408544/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Announces October Event for Macs: &#039;Scary Fast&#039;</title>
-		<link>https://www.macrumors.com/2023/10/24/apple-october-mac-event-2023/</link>
-		<comments>https://forums.macrumors.com/threads/apple-announces-october-event-for-macs-scary-fast.2408536/</comments>
-		<pubDate>Tue, 24 Oct 2023 09:01:05 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/apple-october-mac-event-2023/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>Apple Event</category>
-		<category>October 2023 Apple Event</category>
-		
-
-		<description><![CDATA[Apple today announced its second fall event of 2023, with the online event set to be held on Monday, October 30 at 5:00 p.m. Pacific Time. Apple's October event will be about the Mac, and the company is expected to refresh several Macs in the lineup. Apple's <a href="https://www.apple.com/apple-events/">Events website</a> features an Apple logo on a black background that morphs into the Mac Finder icon, confirming the event's Mac focus. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/apple-october-scary-fast-event.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-918335" /><br/>
-As with prior events, this October event will be prerecorded, and it will be held online only with no in-person component.<br/>
-<br/>
-Mac rumors have been confusing in recent months, but there are several possibilities. We could see a refreshed version of the 24-inch <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, as that machine is still using an <a href="https://www.macrumors.com/guide/m1/">M1</a> Apple silicon chip. <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> has said <a href="https://www.macrumors.com/2023/10/22/gurman-apple-to-announce-new-macs-this-month/">not to expect a MacBook Air refresh</a>, but the 13-inch MacBook Pro, 14-inch MacBook Pro, and 16-inch MacBook Pro could potentially get new chips.<br/>
-<br/>
-It is not clear if the refresh will focus on new M3-series chips, but depending on what's being overhauled, we could see the &zwnj;iMac&zwnj; and the MacBook Pro models adopting the 3-nanometer M3 chip lineup.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/w3edrMIXMKw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-Given the confusion surrounding the Mac lineup right now, this is one of the more mysterious events we've had, though we are likely to hear more as October 30 approaches.<br/>
-<br/>
-Apple plans to stream the event <a href="https://www.apple.com/apple-events/">live on its website</a>, on YouTube, and through the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app. For those unable to watch, MacRumors will be providing full event coverage on MacRumors.com and the <a href="https://twitter.com/macrumorslive">MacRumorsLive Twitter account</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-event/">Apple Event</a>, <a href="https://www.macrumors.com/guide/october-2023-apple-event/">October 2023 Apple Event</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/apple-october-mac-event-2023/">Apple Announces October Event for Macs: &#039;Scary Fast&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-announces-october-event-for-macs-scary-fast.2408536/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Webex App Will Soon Be Available on Apple TV for Video Conferencing</title>
-		<link>https://www.macrumors.com/2023/10/24/webex-app-will-soon-be-available-on-apple-tv-for-video-conferencing/</link>
-		<comments>https://forums.macrumors.com/threads/webex-app-will-soon-be-available-on-apple-tv-for-video-conferencing.2408535/</comments>
-		<pubDate>Tue, 24 Oct 2023 09:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/webex-app-will-soon-be-available-on-apple-tv-for-video-conferencing/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple TV</category>
-		
-
-		<description><![CDATA[Cisco today <a href="https://blog.webex.com/hybrid-work/webex-apple-watch-and-tv/">announced</a> that its Webex Meetings app will soon be available for the Apple TV, allowing for video conferencing on a TV.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/Apple-TV-2x2-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-918248" /><br/>
-tvOS 17's new Continuity Camera support will allow Webex users to wirelessly connect their iPhone or iPad to the second-generation Apple TV 4K or newer and use the device's camera and microphone to participate in meetings. After installing the Webex app on the Apple TV, users will scan a QR code on the TV with their iPhone to log in.<br/>
-<br/>
-Apple previously <a href="https://www.apple.com/newsroom/2023/06/tvos-17-brings-facetime-and-video-conferencing-to-apple-tv-4k/">announced</a> that video conferencing apps like Webex and Zoom would launch on the Apple TV later this year. Continuity Camera is the same feature that powers Apple's own FaceTime app for video calls on tvOS 17.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/webex-app-will-soon-be-available-on-apple-tv-for-video-conferencing/">Webex App Will Soon Be Available on Apple TV for Video Conferencing</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/webex-app-will-soon-be-available-on-apple-tv-for-video-conferencing.2408535/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Stores Begin Same-Unit iPhone 15 Repairs as Parts Now Available</title>
-		<link>https://www.macrumors.com/2023/10/24/iphone-15-same-unit-repairs/</link>
-		<comments>https://forums.macrumors.com/threads/apple-stores-begin-same-unit-iphone-15-repairs-as-parts-now-available.2408534/</comments>
-		<pubDate>Tue, 24 Oct 2023 08:54:20 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/iphone-15-same-unit-repairs/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPhone 15</category>
-		<category>iPhone 15 Pro</category>
-		<category>Apple Authorized Service Providers</category>
-		
-
-		<description><![CDATA[For a brief period following the release of new iPhone models, Apple Stores and Apple Authorized Service Providers must replace the entire device if a customer requires a repair, as individual parts are not immediately available.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Internal-Chassis.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-910920" /><br/>
-Starting this week, parts are available for all four iPhone 15 models, allowing Apple Stores and Apple Authorized Service Providers to complete same-unit repairs for these devices, according to an internal memo obtained by <em>MacRumors</em>. This includes the back glass, battery, speakers, display, rear camera, and mid-frame.<br/>
-<br/>
-A whole-unit replacement is still required for repairs involving the Taptic Engine or the main microphone on the iPhone 15 Pro or the iPhone 15 Pro Max, as those parts will not be available until a later time, according to the memo.<br/>
-<br/>
-All four iPhone 15 models are equipped with removable back glass, allowing technicians to open the devices from both the front and back sides for repairs. This change results in <a href="https://www.macrumors.com/2023/09/17/iphone-15-pro-cracked-glass-repair-fees-lower/">significantly lower repair fees</a> for iPhone 15 models with cracked back glass for customers without AppleCare+ compared to models without removable back glass. Apple first made this design change with the lower-end iPhone 14 and iPhone 14 Plus last year.<br/>
-<br/>
-In the U.S., Apple's battery replacement fee is set at &#36;99 for all four iPhone 15 models, which is unchanged from the iPhone 14 series.<br/>
-<br/>
-To book an iPhone 15 repair appointment, visit <a href="https://getsupport.apple.com/">Apple's Get Support page</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/aasp/">Apple Authorized Service Providers</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15">iPhone 15 (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/iphone-15-same-unit-repairs/">Apple Stores Begin Same-Unit iPhone 15 Repairs as Parts Now Available</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-stores-begin-same-unit-iphone-15-repairs-as-parts-now-available.2408534/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Accessory Maker Pad &amp; Quill Shutting Down, Offering 50% Off Sitewide</title>
-		<link>https://www.macrumors.com/2023/10/24/pad-quill-shutting-down/</link>
-		<comments>https://forums.macrumors.com/threads/apple-accessory-maker-pad-quill-shutting-down-offering-50-off-sitewide.2408529/</comments>
-		<pubDate>Tue, 24 Oct 2023 07:47:33 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/pad-quill-shutting-down/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		<category>Pad &amp;amp; Quill</category>
-		
-
-		<description><![CDATA[Popular Apple accessory maker <a href="https://www.padandquill.com">Pad & Quill</a> has announced that it is going out of business, and in the process it is offering shoppers 50 percent off everything on its website. Pad & Quill sells a wide variety of Apple product accessories, so this event covers everything from iPhone cases to iPad folios, laptop bags, and Apple Watch bands.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/03/Pad-and-Quill-Winter-Clearance-Sale-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-789821" /><em><small>Note: MacRumors is an affiliate partner with Pad & Quill. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Pad & Quill has been known for its high-quality leather accessories for over a decade now, following its debut in 2010. The company began with a focus on iPad and iPhone cases and expanded to unique leather goods including large bags, wallets, journals, and other Apple-related accessories like Apple Watch bands.<br/>
-<br/>
-Regarding the closure, Pad & Quill President Brian Holmes stated: "We at Pad & Quill have had headwinds that are too large to overcome, and we have decided to close the business. We are thankful for our customers over the years. It's been a blast creating unique accessories for Apple products."<br/>
-<br/>
-In terms of the going out of business sale, shoppers should note that all purchases made during this event are final. This is a huge sale, covering everything on Pad & Quill's website, so we've highlighted a few of the best on offer below. A selection of the items on sale even reach beyond 50 percent off.<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.padandquill.com"target="_blank"><div class="fancybutton"><div class="fancybadge">50% OFF SITEWIDE</div>Pad & Quill Going Out Of Business Sale</div></a></div><ul><li><a href="https://www.padandquill.com/leather-techfolio-pro-cord-organizer.html">Techfolio PRO Leather Cord Organizer</a> - &#36;44.99, down from &#36;179.95</li><br/>
-<li><a href="https://www.padandquill.com/pocket-book-wallet-case-iphone-15-pro-max.html">Pocket Book Wallet Case for iPhone 15 Pro Max</a> - &#36;49.98, down from &#36;99.95</li><br/>
-<li><a href="https://www.padandquill.com/cartella-2021-macbook-pro-16-inch-case.html">Cartella Slim Case for 16-inch MacBook Pro</a> - &#36;64.98, down from &#36;129.95</li><br/>
-<li><a href="https://www.padandquill.com/oxford-slim-leather-ipad-pro-case-11.html">Oxford Slim Leather Case for 11-inch iPad Pro</a> - &#36;69.98, down from &#36;139.95</li></ul> Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/pad-quill/">Pad &amp; Quill</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/pad-quill-shutting-down/">Apple Accessory Maker Pad &amp; Quill Shutting Down, Offering 50% Off Sitewide</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-accessory-maker-pad-quill-shutting-down-offering-50-off-sitewide.2408529/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Watch SE 3: Everything We Know So Far</title>
-		<link>https://www.macrumors.com/2023/10/24/apple-watch-se-3-everything-we-know/</link>
-		<comments>https://forums.macrumors.com/threads/apple-watch-se-3-everything-we-know-so-far.2408525/</comments>
-		<pubDate>Tue, 24 Oct 2023 07:05:07 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/apple-watch-se-3-everything-we-know/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Apple Watch SE</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[The third-generation <a href="https://www.macrumors.com/roundup/apple-watch-se/">Apple Watch SE</a> is expected to launch next year, but with few rumors about the new low-cost Apple smartwatch, what can we expect to see?<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/Apple-Watch-SE-3-Mock-Feature.jpg" alt="" width="2250" height="1265" class="alignnone size-full wp-image-918243" /><br/>
-Earlier this year, technology research firm Omdia <a href="https://www.macrumors.com/2023/02/08/apple-watch-series-x-larger-display-rumor/">reported</a> that the third-generation &zwnj;Apple Watch SE&zwnj; will feature the same display sizes as the Apple Watch Series 8. The Apple Watch Series 8 and Series 9 have the same display size as the Apple Watch Series 7, which introduced a slightly more rounded and larger casing design to accommodate bigger displays that have slimmer bezels.<br/>
-<br/>
-As such, it seems highly likely that the third-generation &zwnj;Apple Watch SE&zwnj; will adopt the design of the Apple Watch Series 7, as well as its larger displays and casing sizes. This means it would be available in 41mm and 45mm case sizes, compared to 40mm and 44mm for the current &zwnj;Apple Watch SE&zwnj;, providing almost 20% more display area.<br/>
-<br/>
-The second-generation &zwnj;Apple Watch SE&zwnj; features the S8 chip, which is based on the A13 Bionic and effectively analogous to the previous S6 and S7 chips. With a third-generation version of the &zwnj;Apple Watch SE&zwnj;, it is highly likely that the device will get an upgrade to the S9 chip, which is based on A15 Bionic chip, at minimum. It could even get the "S10" chip from next year's other Apple Watch models.<br/>
-<br/>
-The S9 contains 60% more transistors to deliver 30% faster performance compared to the &zwnj;Apple Watch SE&zwnj;'s S8 chip. It also has a four-core Neural Engine that is up to twice as fast. These improvements allow <a href="https://www.macrumors.com/guide/siri/">Siri</a> requests to be processed on-device, resulting in quicker and more reliable responses, as well as access to health and fitness data. Dictation is also 25% more accurate as a result of the processor bump.<br/>
-<br/>
-<ul><br/>
-<li><a href="https://www.macrumors.com/guide/apple-watch-se-vs-series-9/">Apple Watch SE vs. Series 9 Buyer's Guide: 25+ Differences Compared</a></li><br/>
-</ul><br/>
-<br/>
-The second-generation &zwnj;Apple Watch SE&zwnj; features Apple's second-generation optical heart sensor. Apple introduced the third-generation optical heart sensor on the Series 6 back in 2020, so in 2024, it could finally be time to bring the updated sensor to the low-cost Apple Watch.<br/>
-<br/>
-Fast charging was introduced on the Apple Watch Series 7 to reach up to 80% charge in about 45 minutes. The functionality was withheld from the second-generation &zwnj;Apple Watch SE&zwnj;, but it seems like a feature that Apple could decide to finally bring over with the third-generation of the device. <br/>
-<br/>
-<h3>What Will Stay the Same?</h3><br/>
-The second-generation &zwnj;Apple Watch SE&zwnj; introduced a color-matched nylon composite back case to reduce costs. The third-generation model is likely to carry over this feature, reserving the more premium ceramic back case for the main Apple Watch line.<br/>
-<br/>
-The blood oxygen sensor and Blood Oxygen app, electrical heart sensor and ECG app, and body temperature sensing functionality are likely to be exluded from the third-generation &zwnj;Apple Watch SE&zwnj;. Both the first- and second-generation &zwnj;Apple Watch SE&zwnj; models have offered a more basic selection of health monitoring features, with Apple upselling customers to the main Apple Watch series to obtain capabilities like ECG capture. If it does gain any new health features from the main Apple Watch line, ECG is the most likely since it was introduced on 2018's Series 4.<br/>
-<br/>
-Likewise, the &zwnj;Apple Watch SE&zwnj; has never possessed an Ultra Wideband chip, so the chance of Apple giving the new model the second-generation Ultra Wideband chip also seems slim.<br/>
-<br/>
-<h3>Release Date</h3><br/>
-The previous generations of the &zwnj;Apple Watch SE&zwnj; launched in September 2020 and September 2022, as outlined in the <a href="https://buyersguide.macrumors.com/#Apple_Watch_SE">MacRumors Buyer's Guide</a>. The &zwnj;Apple Watch SE&zwnj; is expected to <a href="https://www.macrumors.com/2023/07/30/no-apple-watch-se-3-expected-this-year/">stick to a two-year upgrade cycle</a> going forward, according to <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, suggesting that the third-generation model will arrive in September 2024.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-watch-se/">Apple Watch SE</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch_SE">Apple Watch SE (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/apple-watch-se-3-everything-we-know/">Apple Watch SE 3: Everything We Know So Far</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-watch-se-3-everything-we-know-so-far.2408525/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>OLED iPad and MacBook Rumored to Feature Specialized Display Materials</title>
-		<link>https://www.macrumors.com/2023/10/24/oled-ipad-and-macbook-specialized-materials/</link>
-		<comments>https://forums.macrumors.com/threads/oled-ipad-and-macbook-rumored-to-feature-specialized-display-materials.2408513/</comments>
-		<pubDate>Tue, 24 Oct 2023 05:06:35 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/oled-ipad-and-macbook-specialized-materials/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>OLED</category>
-		<category>LG Display</category>
-		<category>The Elec</category>
-		<category>OLED iPad Pro</category>
-		
-
-		<description><![CDATA[Future <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> and MacBook models equipped with OLED panels will adopt new, specialized display materials, <a href="https://www.thelec.kr/news/articleView.html?idxno=23616"><em>The Elec</em></a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/11/Oled-iPads-and-MackBook-Pro-Notch.jpg" alt="" width="2500" height="1403" class="alignnone size-full wp-image-824300" /><br/>
-Apple has apparently collaborated with LG Display to integrate new OLED material sets in some of its future devices, including forthcoming &zwnj;iPad Pro&zwnj; and MacBook models. LG's "RDE" OLED material set will apparently be used in the upcoming 11- and 13-inch &zwnj;iPad Pro&zwnj; models, while a next-generation MacBook, slated to launch in 2027, will adopt LG's subsequent "RDG" OLED material set.<br/>
-<br/>
-Historically, LG Display's initial "RD" series material set was indiscriminately applied to both IT products and vehicles, but with "RDE" and subsequent sets, LG aims to demarcate its OLED materials, ensuring specialized applications for different industries. This means that future OLED Apple devices will have access to an OLED materials set that is tailored for its unique requirements.<br/>
-<br/>
-The OLED panels designed for upcoming &zwnj;iPad Pro&zwnj; and MacBook models features a two-stack tandem structure, which consists of two light-emitting layers stacked together. The two-stack OLED design can generate the same brightness levels as its single-stack counterparts, but with significantly reduced power consumption and extended lifespan. The <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> currently uses a single stack OLED display with one light-emitting layer.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/oled/">OLED</a>, <a href="https://www.macrumors.com/guide/lg-display/">LG Display</a>, <a href="https://www.macrumors.com/guide/theelec-kr/">The Elec</a>, <a href="https://www.macrumors.com/guide/oled-ipad-pro/">OLED iPad Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/oled-ipad-and-macbook-specialized-materials/">OLED iPad and MacBook Rumored to Feature Specialized Display Materials</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/oled-ipad-and-macbook-rumored-to-feature-specialized-display-materials.2408513/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 17.1: How to Shuffle a Photo Album on Your Lock Screen</title>
-		<link>https://www.macrumors.com/how-to/iphone-lock-screen-shuffle-between-photos-album/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-1-how-to-shuffle-a-photo-album-on-your-lock-screen.2408507/</comments>
-		<pubDate>Tue, 24 Oct 2023 04:11:05 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/how-to/iphone-lock-screen-shuffle-between-photos-album&#038;post_date=1698156665/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Apple is expected to release iOS 17.1 this week, and <a href="https://www.macrumors.com/guide/ios-17-1-beta-features/">amongst other features</a> the update includes a new Lock Screen personalization option for iPhones. Here's how to make your Lock Screen wallpaper shuffle through photos from a specific album in your photo library.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/06/shuffle-photos-lock-screen.jpg" alt="" width="3840" height="2500" class="aligncenter size-full wp-image-848808" /><br/>
-In recent versions of iOS, Apple has made it possible for users to customize the Lock Screen in ways that were simply not possible in earlier versions of its mobile software, and one feature in particular that has proven popular is the ability to shuffle photos on your Lock Screen wallpaper at specific intervals or whenever you wake or tap the screen. <br/>
-<br/>
-In iOS 17.1, Apple has extended this feature so that you can now shuffle pictures from a specific album from your photo library, rather than having to manually select individual photos or rely on Apple's preset options of People, Pets, Nature, and Cities. The following steps show you how it's done on iPhones running iOS 17.1.<br/>
-<ol><li>Wake your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and use <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> to unlock it, but don't swipe up on the Lock Screen.</li><br/>
-<li>Press and hold on the Lock Screen until the wallpaper gallery appears, then tap the blue <strong>+</strong> button in the bottom-right corner of the screen.</li><br/>
-<li>Select <strong>Photo Shuffle</strong> from the wallpaper menu.<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/lock-screen-photo-shuffle.jpg" alt="Lock Screen" width="2738" height="2716" class="aligncenter size-full wp-image-918216" /><br/>
-<li>Tap the new <strong>Album</strong> option, then choose the album of photos from your library that you'd like to shuffle between.</li><br/>
-<li>Next, choose a <strong>Shuffle Frequency</strong>: <strong>Daily</strong>, <strong>Hourly</strong>, <strong>On Lock</strong>, or <strong>On Tap</strong>.<br/>
-<li>Tap <strong>Use Album</strong> to move on.<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/choose-shuffle-album.jpg" alt="shuffle" width="2738" height="2716" class="aligncenter size-full wp-image-918217" /><br/>
-<li>Tap the screen to preview the photos in your chosen album as they will appear on your Lock Screen, and tap the clock to adjust the font style and color so that the time, date, and any widgets remain legible against all of your pictures.</li><br/>
-<li>Tap <strong>Done</strong> in the top-right corner to finish, then choose either <strong>Set as Wallpaper Pair</strong> to finish or <strong>Customize Home Screen</strong> to tweak its look separately, then tap <strong>Done</strong>.<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/photo-shuffle-preview.jpg" alt="photo shuffle" width="2738" height="2716" class="aligncenter size-full wp-image-918219" /></ol>Tap your new album-specific photo shuffle wallpaper in the gallery to make it live. Then you can tap or wake your &zwnj;iPhone&zwnj;'s screen to change the photo, or wait for it to change automatically, depending on your chosen option.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/iphone-lock-screen-shuffle-between-photos-album/">iOS 17.1: How to Shuffle a Photo Album on Your Lock Screen</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-1-how-to-shuffle-a-photo-album-on-your-lock-screen.2408507/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
