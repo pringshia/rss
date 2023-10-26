@@ -14,12 +14,283 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 25 Oct 2023 13:03:06 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 25 Oct 2023 17:10:34 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 17.1 Features: What&#039;s New in iOS 17.1</title>
+		<link>https://www.macrumors.com/guide/ios-17-1-features/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-1-features-whats-new-in-ios-17-1.2408690/</comments>
+		<pubDate>Wed, 25 Oct 2023 16:00:42 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-17-1-features&#038;post_date=1698285642/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released iOS 17.1, introducing a range of new features for iPhones that run the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> operating system. While Apple outlined some of the major new additions in its release notes, there are also several hidden features that were not mentioned.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/iOS-17.1-Update-Available-Next-Week-With-New-Features-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-917892" /><br/>
+In this guide, we've rounded up all of the feature additions and changes we found in iOS 17.1.<br/>
+<br/>
+<h2 id="airdrop_over_internet">AirDrop Over Internet</h2><br/>
+AirDrop transfers can now be completed over a cellular connection or Wi-Fi if you walk out of the range of the person you're sharing with. That means you will not have to stay close to someone if you are transferring a large number of files.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-914263" src="https://images.macrumors.com/article-new/2023/09/ios-17-1-airdrop.jpg" alt="" width="1290" height="1796" /><br/>
+There is a new "Out of Range" toggle in the AirDrop section of the Settings menu that you can toggle to allow or disallow transfers over cellular.<br/>
+<br/>
+<h2 id="apple_music_favorites">Apple Music Favorites</h2><br/>
+You can favorite songs, albums, playlists, and artists in the iOS 17.1 Music app. Favorited music is added to the Library and improves recommendations. Favoriting replaces the prior "Love" system and favoriting can be done from the Lock Screen's Now Playing widget.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-914260" src="https://images.macrumors.com/article-new/2023/09/apple-music-favorite.jpg" alt="" width="1290" height="822" /><br/>
+A star next to a track in an album means that it's a favorite, while a dot is next to the most played track. With the favorites system, the Music app now suggests songs to add to playlists so you don't run out of content.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-914261" src="https://images.macrumors.com/article-new/2023/09/apple-music-song-suggestions.jpg" alt="" width="1290" height="1229" /><br/>
+Eventually, Apple plans to provide a Favorite Songs playlist and offer collaborative playlists, but these features do not appear to be implemented as of yet.<br/>
+<br/>
+<h2 id="apple_music_playlists">Apple Music Playlists</h2><br/>
+iOS 17.1 provides color-matched playlist artwork options that can be selected as a new customization option for your playlists. There are eight artwork styles that feature geometric shapes and gradients, with the colors featured pulled from the album artwork of the first song in the playlist.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-914404" src="https://images.macrumors.com/article-new/2023/09/iOS-17-Playlist-Artwork-Feature-1.jpg" alt="" width="2500" height="1406" /><br/>
+<br/>
+<h2 id="play_favorite_songs_quick_action">Play Favorite Songs Quick Action</h2><br/>
+If you long press on the <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> icon on the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a>, you can now choose a "Play Favorite Songs" option.<br/>
+<br/>
+<h2 id="double_tap_on_apple_watch">Double Tap on Apple Watch</h2><br/>
+Double Tap is enabled in the watchOS 10.1 update that is also in beta testing, and the settings for it can be managed using the Apple Watch app.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-915258" src="https://images.macrumors.com/article-new/2023/10/watchos-10-1-double-tap.jpg" alt="" width="2901" height="1632" /><br/>
+<br/>
+Double Tap allows <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a> owners to tap their thumb and index fingers together to control the Apple Watch with one hand. The gesture can be used for opening up the Smart Stack, answering/ending calls, playing/pausing music, stopping alarms and timers, and more.<br/>
+<br/>
+<h2 id="standby_display_options">StandBy Display Options</h2><br/>
+Apple added a new "Display" section to the StandBy section of the Settings app, which houses some new customization options. The display can be set to turn off automatically, after 20 seconds, or never.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-915259" src="https://images.macrumors.com/article-new/2023/10/standby-display-settings-ios-17-1.jpg" alt="" width="2000" height="1125" /><br/>
+The existing <a href="https://www.macrumors.com/guide/night-mode/">Night Mode</a> function that adds a red tint and dims the screen has been relocated to this section, as has the Motion to Wake toggle. The Display section also replaces the prior Always On toggle that limited the display to turning off intelligently.<br/>
+<br/>
+<h2 id="action_button_update">Action Button Update</h2><br/>
+In iOS 17.1, Apple <a href="https://www.macrumors.com/2023/10/10/ios-17-1-action-button-tweak/">changed the functionality</a> of the Action Button to prevent certain actions from being triggered while the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> is in a pocket or a bag. The Camera, Flashlight, Voice Memo, Focus, and Magnifier functions will no longer activate when the Action Button is pressed if the ‌&zwnj;iPhone&zwnj;‌ is tucked away in a pocket.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-911022" src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Action-Button-Translate.jpg" alt="" width="1600" height="900" /><br/>
+Actions that make sense to trigger in a pocket like the mute function and a shortcut can still be activated while the ‌&zwnj;iPhone&zwnj;‌ is inside of a pocket by long pressing on the Action Button, but other features are disabled.<br/>
+<br/>
+<h2 id="uk_bank_balances_in_the_wallet_app">UK Bank Balances in the Wallet App</h2><br/>
+UK users can <a href="https://forums.macrumors.com/threads/apple-seeds-first-betas-of-ios-17-1-and-ipados-17-1-to-developers.2405112/post-32568420">add their UK bank accounts</a> to the Wallet app in iOS 17.1, allowing them to see their account balances, payments, purchases, and deposits.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-914320" src="https://images.macrumors.com/article-new/2023/09/uk-bank-account-apple-wallet-2.jpg" alt="" width="1920" height="1080" /><br/>
+<br/>
+<h2 id="wallet_app_and_discover_cards">Wallet App and Discover Cards</h2><br/>
+U.S. Discover users who add their credit cards to Apple Wallet can see their total card balance and transaction history right on the &zwnj;iPhone&zwnj; with iOS 17.1.<br/>
+<br/>
+<h2 id="books_app">Books App</h2><br/>
+The "Reading Now" section in the Apple Books app has been renamed to "Read Now."<br/>
+<br/>
+<h2 id="dynamic_island_flashlight_indicator">Dynamic Island Flashlight Indicator</h2><br/>
+When the flashlight is activated on an <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> Pro, &zwnj;iPhone 14&zwnj; Pro Max, <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, or &zwnj;iPhone 15&zwnj; Plus, there is now a flashlight icon in the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a> that lets you know that It is on. The flashlight icon for the &zwnj;Dynamic Island&zwnj; was previously limited to the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and &zwnj;iPhone 15 Pro&zwnj; Max.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-914275" src="https://images.macrumors.com/article-new/2023/09/dynamic-island-flashlight.jpg" alt="" width="1179" height="561" /><br/>
+<br/>
+<h2 id="controller_support">Controller Support</h2><br/>
+iOS 17.1 <a href="https://x.com/aaronp613/status/1707161935358157268?s=20">includes support</a> for the Nintendo Switch N64 Controller.<br/>
+<br/>
+<h2 id="extend_wallpaper">Extend Wallpaper</h2><br/>
+When you are setting up a new wallpaper, Apple has added an "Extend" option that can be used if the image does not fit the display.<br/>
+<br/>
+<h2 id="photo_shuffle">Photo Shuffle</h2><br/>
+When you add a Photo Shuffle Lock Screen in iOS 17.1, you can select a specific album of photos that will be shown on the Lock Screen rather than having to rely on Apple's pre-selected options like People, Pets, or Nature.<br/>
+<br/>
+When selecting any of the main Photo Shuffle images, you're brought into a customization screen where you can choose your Favorites album or opt for any other album you have created, giving you complete control over the images that show up on the Lock Screen. There was previously a tool for manually selecting photos, but being able to choose an entire album is quicker.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-915205" src="https://images.macrumors.com/article-new/2023/09/ios-17-1-photo-shuffle.jpg" alt="" width="2595" height="2796" /><br/>
+Photo Shuffle frequency remains the same at on tap, on lock, hourly, or daily.<br/>
+<br/>
+<h2 id="reachability">Reachability</h2><br/>
+On iPhones with a &zwnj;Dynamic Island&zwnj;, you'll now see a black background when you use the Reachability feature. In prior versions of &zwnj;iOS 17&zwnj;, a blurred version of the device's wallpaper was shown. The change to a black background prevents the &zwnj;Dynamic Island&zwnj; from being displayed twice when Reachability is used.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-915195" src="https://images.macrumors.com/article-new/2023/10/ios-17-1-reachability.jpg" alt="" width="1363" height="767" /><br/>
+<br/>
+<h2 id="home_key_support_for_matter_locks">Home Key Support for Matter Locks</h2><br/>
+If you have a Matter-equipped lock that you've added to <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a>, it can now be added to the Wallet app if it supports the Home Key feature.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/yale-home-key-lock.jpg" alt="" width="1510" height="848" class="aligncenter size-full wp-image-914168" /><br/>
+<h2 id="screen_time_syncing">Screen Time Syncing</h2><br/>
+According to Apple, Screen Time settings now <a href="https://www.macrumors.com/2023/10/17/ios-17-1-improves-screen-time-syncing/">better sync across devices</a>. The change addresses complaints from parents who found that Screen Time settings would reset or not sync across devices, giving children more access to their devices than intended.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/Screen-Time-iOS-16.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-905106" /><br/>
+<h2 id="journal_app">Journal App</h2><br/>
+There is no sign of the promised Journal app in iOS 17.1, but there are mentions of Journaling Suggestions in the code, which indicates that it could be coming before too long.<br/>
+<br/>
+<h2 id="new_for_the_ipad">New for the iPad</h2><br/>
+The <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> update adds support for <a href="https://www.macrumors.com/2023/10/17/new-apple-pencil-with-usb-c-announced/">the USB-C Apple Pencil</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Apple-Pencil-USB-C-sliding-cap-feature.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-917176" /><br/>
+<br/>
+<h2 id="crash_detection_optimizations">Crash Detection Optimizations</h2><br/>
+Apple in iOS 17.1 has further optimized the Crash Detection feature in the &zwnj;iPhone 14&zwnj; and &zwnj;iPhone 15&zwnj; models. Apple has tweaked Crash Detection several times to prevent it from activating accidentally at ski resorts and amusement parks.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/09/iPhone-14-Car-Crash-Detection.jpg" alt="" width="3576" height="1996" class="aligncenter size-full wp-image-863731" /><br/>
+<h2 id="80_charging_limit_fix">80% Charging Limit Fix</h2><br/>
+With the &zwnj;iPhone 15&zwnj; models, Apple added a toggle that prevents the devices from charging past 80 percent in order to keep the battery healthy for a longer period of time. In &zwnj;iOS 17&zwnj;, the &zwnj;iPhone&zwnj; could ignore this setting and charge past 80 percent, but that no longer happens following the second beta update.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-915260" src="https://images.macrumors.com/article-new/2023/10/ios-17-1-80-percent-charge.jpg" alt="" width="2166" height="1218" /><br/>
+<br/>
+<h2 id="messages_bug_fix">Messages Bug Fix</h2><br/>
+iOS 17.1 <a href="https://www.macrumors.com/2023/10/05/ios-17-1-beta-2-seems-to-fix-messages-search-bug/">addresses an issue</a> with the search function in the Messages app in &zwnj;iOS 17&zwnj;. Some &zwnj;iPhone 15&zwnj; users have been able to search for older messages after transferring their data over from an older &zwnj;iPhone&zwnj;. The Messages search feature only works for recent messages, but the update fixes the issue.<br/>
+<br/>
+<h2 id="display_image_persistance_fix">Display Image Persistance Fix</h2><br/>
+iOS 17.1 fixes an issue that "may cause display image persistence," a problem that has been <a href="https://www.macrumors.com/2023/10/17/ios-17-1-display-image-retention-fix/">noticed on multiple iPhone models</a>, most notably the &zwnj;iPhone 15&zwnj;. Several &zwnj;iPhone 15 Pro&zwnj; owners complained that they had seen severe "screen burn-in" following the &zwnj;iPhone&zwnj;'s launch, but it turned out to be a software-based image retention issue.<br/>
+<br/>
+<h2 id="more_bug_fixes">More Bug Fixes</h2><br/>
+<ul><br/>
+ <li>Resolves an issue where the names of incoming callers may not appear when you are on another call</li><br/>
+ <li>Addresses an issue where custom and purchased ringtones may not appear as options for your text tone</li><br/>
+ <li>Fixes an issue that may cause the keyboard to be less responsive</li><br/>
+</ul><br/>
+<h2 id="read_more">Read More</h2><br/>
+For more on what's included in &zwnj;iOS 17&zwnj;, we have a <a href="https://www.macrumors.com/roundup/ios-17/">dedicated iOS 17 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-17-1-features/">iOS 17.1 Features: What&#039;s New in iOS 17.1</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-1-features-whats-new-in-ios-17-1.2408690/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple&#039;s Shazam App Now Includes Info on Local Concerts</title>
+		<link>https://www.macrumors.com/2023/10/25/shazam-app-concert-info/</link>
+		<comments>https://forums.macrumors.com/threads/apples-shazam-app-now-includes-info-on-local-concerts.2408689/</comments>
+		<pubDate>Wed, 25 Oct 2023 15:47:53 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/shazam-app-concert-info/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Shazam</category>
+		
+
+		<description><![CDATA[Apple today announced that its Shazam app has a new "Concerts" feature, which is designed to allow Shazam users to find concerts that are happening in their local area.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/shazam-concert-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918678" /><br/>
+The Concerts section can be found in My Music, with recommendations based on each user's Shazam history. Apple says that Shazam users can browse, search, and filter by artist, date, and location, plus they can explore trending concerts.<br/>
+<br/>
+Events can be saved in the app with the option to set reminders about upcoming shows, view tickets, and unlock concert exclusives from select artists. These exclusives can include new watch faces and wallpapers, along with behind the scenes video, tour photos, and show set lists.<br/>
+<br/>
+Shazam's new Concert functionality follows new concert options that were added in <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>. Searching for an artist in Spotlight shows information about upcoming concerts with options for purchasing tickets and getting information on venue details.<br/>
+<br/>
+Shazam can be <a href="https://apps.apple.com/us/app/shazam-music-discovery/id284993459">downloaded from the App Store</a> for free, and the song discovery features are also integrated directly into iOS.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/shazam/">Shazam</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/shazam-app-concert-info/">Apple&#039;s Shazam App Now Includes Info on Local Concerts</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-shazam-app-now-includes-info-on-local-concerts.2408689/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>watchOS 10.1 Fixes Apple Watch Weather Complication Bug</title>
+		<link>https://www.macrumors.com/2023/10/25/watchos-10-1-weather-complication-fix/</link>
+		<comments>https://forums.macrumors.com/threads/watchos-10-1-fixes-apple-watch-weather-complication-bug.2408684/</comments>
+		<pubDate>Wed, 25 Oct 2023 14:48:23 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/watchos-10-1-weather-complication-fix/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[The watchOS 10.1 update that came out today fixes a bug that was causing Weather complications not to load properly on Apple Watch faces. First <a href="https://www.macrumors.com/2023/09/26/watchos-10-weather-complication-issues/">reported in September</a>, the issue resulted in blank Weather complications even when the Weather app was working as intended.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-913698" src="https://images.macrumors.com/article-new/2023/09/weather-complications.jpg" alt="" width="1920" height="1080" /><br/>
+Apple in a <a href="https://support.apple.com/en-us/HT213943">newly published support document</a> says that Apple Watch owners experiencing a problem with Weather complications should update their devices to watchOS 10.1 or later.<br/>
+<br/>
+If the Weather complications don't show up even after updating the Apple Watch to watchOS 10.1, Apple says that users will need to reset their <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>'s Location settings. In the Settings app under Privacy > Security > Location Services, Apple says that users should scroll down to Weather, tap "Never" under Allow Location Access, then tap the original setting.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Apple confirms that watchOS 10.1 fixes the Apple Watch weather complication issue! <a href="https://t.co/3CAcT1W2tS">pic.twitter.com/3CAcT1W2tS</a></p>&mdash; Aaron (@aaronp613) <a href="https://twitter.com/aaronp613/status/1717285531757809688?ref_src=twsrc%5Etfw">October 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Should that not work, Apple recommends that users go to General > "Transfer or Reset &zwnj;iPhone&zwnj;," then tap on Reset > Reset Location &amp; Privacy to reset all privacy and location settings on the &zwnj;iPhone&zwnj;.<br/>
+<br/>
+After the <a href="https://www.macrumors.com/2023/09/26/watchos-10-0-2-weather-complication-fix/">watchOS 10.0.2 update</a> came out in September, there were reports from some Apple Watch users that the problem had been fixed, but it turned out that any fix was temporary and the Weather complication stopped working again.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/watchos-10-1-weather-complication-fix/">watchOS 10.1 Fixes Apple Watch Weather Complication Bug</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/watchos-10-1-fixes-apple-watch-weather-complication-bug.2408684/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Event Next Week Likely to Emphasize High-End Gaming on Mac</title>
+		<link>https://www.macrumors.com/2023/10/25/apple-event-mac-gaming-focus-likely/</link>
+		<comments>https://forums.macrumors.com/threads/apple-event-next-week-likely-to-emphasize-high-end-gaming-on-mac.2408680/</comments>
+		<pubDate>Wed, 25 Oct 2023 14:13:34 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/apple-event-mac-gaming-focus-likely/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>October 2023 Apple Event</category>
+		
+
+		<description><![CDATA[Apple yesterday announced that it will be <a href="https://www.macrumors.com/2023/10/24/apple-october-mac-event-2023/">holding an online event on Monday, October 30</a> starting at 5 p.m. Pacific Time, and there are several reasons to believe that gaming on the Mac will be one of the major focuses of the event.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/Apple-WWDC23-macOS-Sonoma-gaming-230605.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-898499" /><br/>
+Below, we have recapped Apple's recent gaming-related efforts on the Mac and other clues heading into the event next week.<br/>
+<br/>
+<h2>Hardware-Accelerated Ray Tracing</h2><br/>
+Apple silicon chips often have architecture similarities. Like the A17 Pro chip in the iPhone 15 Pro, Apple's upcoming M3 series of chips for Macs will likely feature hardware-accelerated ray tracing for significantly improved graphics rendering compared to software-based ray tracing. M3 series chips are also expected to be manufactured with TSMC's 3nm process for faster performance and improved power efficiency compared to M2 series chips. These advancements pave the way for more AAA games to launch on the Mac.<br/>
+<br/>
+<h2>Apple Hints at More AAA Games on Mac</h2><br/>
+Apple hinted at more AAA games launching on the Mac in a <a href="https://www.macrumors.com/2023/09/16/devs-working-to-bring-console-games-to-ipad-mac/">recent interview with gaming publication <em>IGN</em></a>. When asked if the new games that Apple announced for the iPhone 15 Pro last month would eventually be compatible with Apple silicon Macs, Apple VP Tim Millet said "the developers are going to work with us to do it." These games include a Resident Evil 4 remake, Death Stranding Director's Cut, and Assassin's Creed Mirage.<br/>
+<br/>
+<h2>Capcom and Sony Hints</h2><br/>
+Japanese game developer Capcom recently announced that Resident Evil Village will be available on the iPhone 15 Pro and on iPad models with the M1 chip and newer <a href="https://www.macrumors.com/2023/09/25/resident-evil-village-iphone-15-pro-ipad-oct-30/">starting October 30</a>, which is the same day as Apple's event next week.<br/>
+<br/>
+It's possible that the release date lining up with the event is merely a coincidence, but it could hint at additional Mac-related gaming news to come from Apple and Capcom, and perhaps other game developers. A source informed us that Apple is holding its online event at the unusual time of 5 p.m. Pacific Time because it will fall during business hours in Japan, and claimed that the event will include a major tie-in with a Japanese game developer, but we have not independently confirmed the accuracy of this information.<br/>
+<br/>
+While the App Store says the Resident Evil 4 remake is set to launch on Macs with the M1 chip and newer on December 31, this date is a placeholder, and it is possible the release will be pushed up following Apple's event. The game was already released for Windows PCs, the PS4/PS5, and the Xbox Series X/S in March.<br/>
+<br/>
+As for Sony, it plans to launch cloud streaming for PS5 games in North America <a href="https://blog.playstation.com/2023/10/11/ps5-cloud-streaming-launches-this-month-for-playstation-plus-premium-members/">on October 30</a>. Could there be a tie-in with Apple?<br/>
+<br/>
+<h2>Game Mode</h2><br/>
+macOS Sonoma <a href="https://www.macrumors.com/2023/06/05/macos-14-game-mode/">features a new Game Mode</a> that temporarily prioritizes CPU and GPU performance for gaming. Game Mode also lowers AirPods audio latency, and reduces input latency with popular third-party game controllers by doubling the Bluetooth sampling rate.<br/>
+<br/>
+<h2>Game Porting Toolkit</h2><br/>
+At WWDC 2023 in June, Apple <a href="https://www.macrumors.com/2023/06/10/apple-releases-mac-game-porting-toolkit/">released a new toolkit</a> that makes it easier for game developers to port Windows games to the Mac. The toolkit provides an emulation environment that allows developers to run their existing, unmodified Windows game on the Mac and quickly evaluate how well the game could run on macOS before writing any code.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/october-2023-apple-event/">October 2023 Apple Event</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/apple-event-mac-gaming-focus-likely/">Apple Event Next Week Likely to Emphasize High-End Gaming on Mac</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-event-next-week-likely-to-emphasize-high-end-gaming-on-mac.2408680/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Upset With Apple&#039;s Price Increases? Here&#039;s How to Cancel Your Apple TV+ or Apple One Subscription</title>
+		<link>https://www.macrumors.com/how-to/cancel-apple-one-subscription/</link>
+		<comments>https://forums.macrumors.com/threads/upset-with-apples-price-increases-heres-how-to-cancel-your-apple-tv-or-apple-one-subscription.2408678/</comments>
+		<pubDate>Wed, 25 Oct 2023 13:42:09 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/cancel-apple-one-subscription&#038;post_date=1698277329/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Arcade</category>
+		<category>Apple TV Plus</category>
+		<category>Apple One</category>
+		
+
+		<description><![CDATA[Apple <a href="https://www.macrumors.com/2023/10/25/apple-services-price-increases/">today announced</a> significant price hikes for several of its services, including <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a>, <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>, and <a href="https://www.macrumors.com/guide/apple-news-plus/">Apple News</a>+. Because of the higher individual prices, the cost of the <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a> bundles have also increased.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Apple-TV-Arcade-and-News-Price-Increase-Feature-2-Purple.jpg" alt="" width="2500" height="1404" class="aligncenter size-full wp-image-918673" /><br/>
+In the U.S., &zwnj;Apple TV+&zwnj; is now &#36;9.99 per month, up from &#36;6.99 per month. &zwnj;Apple Arcade&zwnj;+ is up &#36;2 at &#36;6.99, and &zwnj;Apple News&zwnj;+ is now priced at &#36;12.99 per month, up from &#36;9.99 per month. &zwnj;Apple One&zwnj; Individual and Family are &#36;3 more expensive, while Premier is &#36;5 more. Prices are going up in most countries where Apple services are available.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Apple-One-Services-Youd-Like-to-Keep-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-918629" /><br/>
+If you're unhappy with the new price points for Apple's services, it's quick and easy to cancel. Here's how on an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> or <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>:<br/>
+<ol><br/>
+ 	<li>Open up the Settings app.</li><br/>
+ 	<li>Tap on your profile picture.</li><br/>
+ 	<li>Tap on Subscriptions.</li><br/>
+ 	<li>If you have &zwnj;Apple One&zwnj;, tap on "Cancel All Services" to end your subscription for every service. If you want to pick and choose certain ones to keep, tap on "Choose Individual Services."</li><br/>
+ 	<li>If you have individual subscriptions, tap on one of the subscriptions and choose the "Cancel Subscription" option.</li><br/>
+ 	<li>Tap on "Confirm" to go through with the cancelation.</li><br/>
+</ol><br/>
+After your subscription is canceled, your services will continue to be accessible until your next billing date. So if you paid for a year of &zwnj;Apple TV+&zwnj;, for example, it will be available until what you've paid for expires. &zwnj;Apple One&zwnj; can only be purchased on a monthly basis, so you'll have a month at most before access runs out.<br/>
+<br/>
+If you need to cancel your subscription on your Mac, the process is similar. Open the System Settings app, click on your profile picture, select Media &amp; Purchases, and choose "Manage" under the Subscriptions option. From there, you can follow the same steps listed above.<br/>
+<br/>
+Apple's increased prices start today for new subscribers, but Apple is offering existing subscribers a 30-day grace period. After that 30 days, existing subscribers will see the new prices on their next renewal date. Apple is likely to send out emails ahead of the price hikes.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>, <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV Plus</a>, <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/cancel-apple-one-subscription/">Upset With Apple&#039;s Price Increases? Here&#039;s How to Cancel Your Apple TV+ or Apple One Subscription</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/upset-with-apples-price-increases-heres-how-to-cancel-your-apple-tv-or-apple-one-subscription.2408678/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Latest iPhone 15 Pro Ad Focuses on A17 Pro Chip Capabilities</title>
+		<link>https://www.macrumors.com/2023/10/25/iphone-15-pro-ad-filmmaking/</link>
+		<comments>https://forums.macrumors.com/threads/latest-iphone-15-pro-ad-focuses-on-a17-pro-chip-capabilities.2408674/</comments>
+		<pubDate>Wed, 25 Oct 2023 13:14:56 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/iphone-15-pro-ad-filmmaking/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iPhone 15 Pro</category>
+		<category>Apple Ads</category>
+		
+
+		<description><![CDATA[Apple today shared a new ad promoting the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and &zwnj;iPhone 15 Pro&zwnj; Max, highlighting the A17 Pro chip and the gaming capabilities of the new devices. <br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/jBFhHHpjbHk" title="iPhone 15 Pro | Pro Power | Apple" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
+In the ad, a gamer deeply immersed in his <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> game shoots into the air, breaks through the ceiling of his apartment, and ends up in the subway all while still playing.<br/>
+<br/>
+The description for the video highlights the 2x faster Neural Engine and 20 percent faster CPU in the A17 Pro chip. Apple has been focusing on the gaming performance of the new &zwnj;iPhone&zwnj; models in its advertising, as the A17 Pro offers hardware-based ray tracing for the first time. <blockquote>The next level of mobile gaming is here. Up to 20 percent faster GPU for the best graphics performance in an iPhone ever. Up to 2x faster Neural Engine. And industry-leading speed and efficiency. The A17 Pro chip on iPhone 15 Pro is a game changer. Literally.</blockquote>With this functionality, the new &zwnj;iPhone 15 Pro&zwnj; models can play console-quality games, and titles like Resident Evil 4 and Death Stranding are coming to iOS as a result. <br/>
+<br/>
+<b>Note:</b> This article initially detailed an Apple ad on the filmmaking capabilities of the &zwnj;iPhone 15 Pro&zwnj; models, but Apple removed that ad and replaced it with the A17 Pro ad. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-ads/">Apple Ads</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/iphone-15-pro-ad-filmmaking/">Latest iPhone 15 Pro Ad Focuses on A17 Pro Chip Capabilities</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/latest-iphone-15-pro-ad-focuses-on-a17-pro-chip-capabilities.2408674/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Everything You Can Do With the Double Tap Gesture on Apple Watch</title>
@@ -144,6 +415,8 @@ On the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, the &zwnj;iPa
 - Fixes an issue that may cause display image persistence<br/>
 <br/>
 Some features may not be available for all regions or on all Apple devices. For information on the security content of Apple software updates, please visit this website: https://support.apple.com/kb/HT201222</blockquote><br/>
+In addition to iOS 17.1, Apple has also released iOS 16.7.2 and iOS 15.8 with many of the same security fixes for those still running older versions of iOS.<br/>
+<br/>
 More information on the new features in the &zwnj;iOS 17&zwnj; update can be found in our &zwnj;iOS 17&zwnj; roundup.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/apple-releases-ios-17-1/">Apple Releases iOS 17.1 and iPadOS 17.1 With AirDrop Over Internet, Music Favorites Options and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-17-1-and-ipados-17-1-with-airdrop-over-internet-music-favorites-options-and-more.2408654/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
@@ -174,6 +447,8 @@ With &zwnj;macOS Sonoma&zwnj; 14.1, Apple has added a new warranty section that 
 Some features may not be available for all regions, or on all Apple devices.<br/>
 <br/>
 For detailed information about the security content of this update, please visit: https://support.apple.com/kb/HT201222</blockquote><br/>
+In addition to &zwnj;macOS Sonoma&zwnj; 14.1, Apple has also released macOS Ventura 13.6.1 and macOS Monterey 12.7.1 with many of the same security fixes for those still running older versions of macOS.<br/>
+<br/>
 More information on the features in &zwnj;macOS Sonoma&zwnj; can be <a href="https://www.macrumors.com/roundup/macos-sonoma/">found in our macOS Sonoma roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/apple-releases-macos-sonoma-14-1/">Apple Releases macOS Sonoma 14.1</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-macos-sonoma-14-1.2408652/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
@@ -450,165 +725,6 @@ Gurman just last week claimed that Apple would not update the 14-inch and 16-inc
 In its <a href="https://www.apple.com/apple-events/?useASL=true">promotional graphics for the event on its website</a>, Apple has included the smiling Finder icon, essentially confirming that Macs are the focus of the event. <br/>
 <br/>
 Another hint that we should expect new MacBook Pro models is Apple's use of "Scary Fast" as a tagline: When Apple launched the first Apple silicon-based 14- and 16-inch MacBook Pro models in October 2021, the company's marketing <a href="https://x.com/waxeditorial/status/1716876571846586500?s=20">described</a> the M1 Pro as "Scary Fast" and the M1 Max as "Scary Faster."<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/shrimpapplepro/">ShrimpApplePro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/alleged-macbook-pro-box-image/">Alleged New MacBook Pro Box Image Surfaces on China&#039;s Weibo</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/alleged-new-macbook-pro-box-image-surfaces-on-chinas-weibo.2408615/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Expanding Device Repair Programs for Consumers and Independent Shops</title>
-		<link>https://www.macrumors.com/2023/10/24/apple-expanding-device-repair-programs/</link>
-		<comments>https://forums.macrumors.com/threads/apple-expanding-device-repair-programs-for-consumers-and-independent-shops.2408561/</comments>
-		<pubDate>Tue, 24 Oct 2023 11:29:19 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/apple-expanding-device-repair-programs/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Apple is expanding its Self-Service Repair and Independent Repair Provider programs and will make parts, tools, and documentation needed for product repairs available to repair shops and consumers nationwide.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-895789" src="https://images.macrumors.com/article-new/2023/05/Apple-Self-Service-Repair-Program-iPhone.jpeg" alt="" width="1600" height="900" /><br/>
-The news was announced by the White House as part of an event focused on right to repair policies, and <a href="https://www.reuters.com/technology/apple-make-tools-parts-fix-phones-computers-available-nationwide-white-house-2023-10-24/">was shared by <em>Reuters</em></a>. Apple has not yet made a formal announcement, but more information is expected later today.<br/>
-<br/>
-The White House is aiming for a nationwide right to repair law, which Apple is endorsing. Apple <a href="https://www.macrumors.com/2023/10/11/california-right-to-repair-law/">recently supported</a> right to repair legislation in California because California's bill requires all repair parts to come from Apple. Third-party components must be disclosed by non-authorized repair shops.<br/>
-<br/>
-Apple has been offering a self-service repair program for consumers since 2022, providing genuine repair manuals, parts, and tools through its <a href="https://www.selfservicerepair.com/en-US/home">Self-Service Repair Store</a>. At the current time, Apple offers repair kits and parts for iPhones, Mac notebooks, Mac desktops, and Apple displays.<br/>
-<br/>
-Apple also <a href="https://www.macrumors.com/2019/08/29/apple-independent-repair-program/">offers a similar repair program</a> for some independent repair shops, allowing them to source genuine parts to repair out-of-warranty Apple devices.<br/>
-<br/>
-Apple's Self-Service Repair Program is often more expensive than taking a device to an Apple retail location or Authorized Service Provider for repair, but it is a option for those who want to conduct their own repairs. Independent Repair Provider Program participants <a href="https://www.macrumors.com/2020/02/06/apple-independent-repair-shops-contracts/">have also complained</a> about Apple's invasive contracts and high component prices.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/apple-expanding-device-repair-programs/">Apple Expanding Device Repair Programs for Consumers and Independent Shops</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-expanding-device-repair-programs-for-consumers-and-independent-shops.2408561/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple to Overhaul TV App, Remove Standalone Apps from Apple TV</title>
-		<link>https://www.macrumors.com/2023/10/24/apple-tv-app-revamp/</link>
-		<comments>https://forums.macrumors.com/threads/apple-to-overhaul-tv-app-remove-standalone-apps-from-apple-tv.2408557/</comments>
-		<pubDate>Tue, 24 Oct 2023 11:05:30 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/apple-tv-app-revamp/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV</category>
-		<category>Featured</category>
-		<category>Bloomberg</category>
-		<category>Mark Gurman</category>
-		
-
-		<description><![CDATA[Apple plans to overhaul the TV app in an effort to consolidate its <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a> streaming service and its standalone movie and TV show purchase options, according to <a href="https://www.bloomberg.com/news/articles/2023-10-24/apple-to-revamp-tv-app-in-step-toward-simplifying-video-services"><em>Bloomberg</em>'s Mark Gurman</a>. A tvOS update in December will introduce the changes that Apple has planned.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/10/Apple-TV-4K-hero-221018.jpg" alt="" width="1960" height="1306" class="aligncenter size-full wp-image-869591" /><br/>
-To push users to the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app, Apple plans to remove its standalone &zwnj;Apple TV&zwnj; apps that are available for renting and purchasing TV shows and movies. The movie and TV show sections from the iTunes Store app on iPhones and iPads will also be eliminated.<br/>
-<br/>
-Apple wants to push customers to the TV app, which already houses purchased movies and shows, &zwnj;Apple TV+&zwnj; content, and third-party channels that customers can subscribe to.<br/>
-<br/>
-The TV app will serve as a hub for streaming content, and Gurman says the redesigned app will have a side panel at the left that can be used to navigate between different video categories.<br/>
-<br/>
-Updated navigation should make the TV app less confusing for consumers, making it clearer which content is from Apple and available through the &zwnj;Apple TV+&zwnj; subscription and which content requires a separate subscription.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/apple-tv-app-revamp/">Apple to Overhaul TV App, Remove Standalone Apps from Apple TV</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-overhaul-tv-app-remove-standalone-apps-from-apple-tv.2408557/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Kuo: &#039;M3 Series MacBook Pro&#039; to Be Focus of Apple&#039;s October 30 Event</title>
-		<link>https://www.macrumors.com/2023/10/24/kuo-m3-macbook-pro-october-30/</link>
-		<comments>https://forums.macrumors.com/threads/kuo-m3-series-macbook-pro-to-be-focus-of-apples-october-30-event.2408552/</comments>
-		<pubDate>Tue, 24 Oct 2023 10:43:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/kuo-m3-macbook-pro-october-30/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>MacBook Pro 13&quot;</category>
-		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
-		<category>Ming-Chi Kuo</category>
-		<category>Mark Gurman</category>
-		<category>October 2023 Apple Event</category>
-		
-
-		<description><![CDATA[Apple's upcoming "Scary Fast" event will focus on the M3 series MacBook Pro models, according to <a href="https://twitter.com/mingchikuo/status/1716871328794620072">Apple analyst Ming-Chi Kuo</a>. Kuo's wording suggests that he is expecting multiple M3 chips rather than just a single M3 chip, hinting at the possibility of M3, M3 Pro, and M3 Max chips.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/07/macbook-pro-pink.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-904044" /><br/>
-If Apple does release M3, M3 Pro, and M3 Max chips at once, we can expect to see the new chips introduced in 13-inch, 14-inch, and 16-inch MacBook Pro models. <br/>
-<br/>
-Kuo says that he previously predicted that Apple would not likely introduce new MacBook Pro models in 2023 because of "limited 4Q 23 shipments," and if new MacBook Pros do come out in November or December, the tight supply will last until the first quarter of 2024. Kuo <a href="https://twitter.com/mingchikuo/status/1716885306933411885">further says</a> that Mac shipments have declined due to the "limited <a href="https://www.macrumors.com/guide/m2/">M2</a> computing power upgrade," which may be the reason why Apple might launch M3 MacBook Pro models with low production volume. <br/>
-<br/>
-<a href="https://twitter.com/markgurman/status/1716872016970854533"><em>Bloomberg</em>'s Mark Gurman</a> also says that Apple has been testing M3 Max and M3 Pro MacBook Pro models, suggesting that these machines are going to be refreshed. Gurman just last week claimed that Apple would not update the 14-inch and 16-inch MacBook Pro models with M3 Pro and M3 Max chips <a href="https://www.macrumors.com/2023/10/16/four-new-macbooks-on-schedule-for-launch-in-2024/">until early 2024</a>, so it seems that his predictions have since changed. <br/>
-<br/>
-That Kuo and Gurman are both now suggesting that we'll see 14-inch and 16-inch MacBook Pro models at Apple's October event comes as a surprise because much of their prior information pointed toward a 2024 refresh for these devices. <br/>
-<br/>
-Gurman maintains that Apple will not refresh the <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> models, <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a>, <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a>, or <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a> at this time, which leaves the <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, 13-inch MacBook Pro, 14-inch MacBook Pro, and 16-inch MacBook Pro for the October event. As Gurman has previously pointed out, these are the machines that are facing extended shipping times in Apple's online store. <br/>
-<br/>
-According to Kuo, if the M3 models don't end up boosting MacBook shipments, there is an increased likelihood of an "all-new design MacBook Pro in 2025" and also a chance Apple will consider a "more affordable MacBook model."<br/>
-<br/>
-<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/macbook-pro-13/">MacBook Pro 13"</a>, <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, <a href="https://www.macrumors.com/guide/october-2023-apple-event/">October 2023 Apple Event</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_13">13" MacBook Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/kuo-m3-macbook-pro-october-30/">Kuo: &#039;M3 Series MacBook Pro&#039; to Be Focus of Apple&#039;s October 30 Event</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-m3-series-macbook-pro-to-be-focus-of-apples-october-30-event.2408552/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases iTunes for Windows Update With Option to Listen to Podcasts and Audiobooks</title>
-		<link>https://www.macrumors.com/2023/10/24/itunes-for-windows-12-13/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-itunes-for-windows-update-with-option-to-listen-to-podcasts-and-audiobooks.2408549/</comments>
-		<pubDate>Tue, 24 Oct 2023 10:29:06 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/itunes-for-windows-12-13/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iTunes</category>
-		
-
-		<description><![CDATA[Apple today released an iTunes 12.13 update for Windows users, with the update adding new functionality for podcasts and audiobooks.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-846163" src="https://images.macrumors.com/article-new/2022/05/itunes-for-windows.jpg" alt="" width="2000" height="1125" /><br/>
-According to Apple's release notes, downloading iTunes 12.13 will allow Windows users to listen to podcasts and audiobooks through the iTunes app so long as the <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> and <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> apps are installed.<br/>
-<br/>
-iTunes for Windows is not typically updated on a regular basis, and this is the first new software release <a href="https://www.macrumors.com/2023/09/13/apple-itunes-for-windows-iphone-15/">since September</a> when Apple added support for new <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models.<br/>
-<br/>
-iTunes has been phased out on the Mac for several years now and it has been replaced with Finder and the TV app, but Apple has continued to keep the Windows version available.<br/>
-<br/>
-iTunes for Windows can be downloaded from the <a href="https://apps.microsoft.com/store/detail/itunes/9PB2MZ1ZMB1S?hl=en-us&amp;gl=US">Microsoft Store</a> or <a href="https://support.apple.com/en-us/HT210384">from Apple's website</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/itunes/">iTunes</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-apps.2">Mac Apps</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/itunes-for-windows-12-13/">Apple Releases iTunes for Windows Update With Option to Listen to Podcasts and Audiobooks</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-itunes-for-windows-update-with-option-to-listen-to-podcasts-and-audiobooks.2408549/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Pay Later Officially Launches in U.S. Following Early Access Period</title>
-		<link>https://www.macrumors.com/2023/10/24/apple-pay-later-launches/</link>
-		<comments>https://forums.macrumors.com/threads/apple-pay-later-officially-launches-in-u-s-following-early-access-period.2408548/</comments>
-		<pubDate>Tue, 24 Oct 2023 10:22:30 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/apple-pay-later-launches/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Pay</category>
-		<category>Featured</category>
-		<category>Apple Pay Later</category>
-		
-
-		<description><![CDATA[Apple Pay Later appears to have officially launched for all qualifying U.S. residents today, as it is now widely available in the Wallet app on the iPhone. The feature had been available on an invite-only "early access" basis <a href="https://www.macrumors.com/2023/03/28/apple-pay-later-early-access/">since March</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/04/Apple-Pay-Later.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-893903" /><br/>
-Apple removed the following sentence from all Apple Pay Later support documents today:<blockquote>Apple Pay Later is currently only available to customers invited to access a prerelease version.</blockquote>Apple Pay Later is a "buy now, pay later" feature that lets qualifying customers split a purchase made with Apple Pay into four equal payments over six weeks, with no interest or fees. The feature is available for eligible purchases between &#36;75 and &#36;1,000 made on an iPhone or iPad on most websites and apps that accept Apple Pay.<br/>
-<br/>
-The minimum purchase amount required to use Apple Pay Later was &#36;50 during the early access period, but Apple has now raised it to &#36;75.<br/>
-<br/>
-Every purchase made using Apple Pay Later is a separate loan and requires a new application, which has no impact on your credit score, according to Apple. The feature is available to U.S. residents who are 18 years of age or older. Apple Pay Later is currently unavailable in Hawaii, New Mexico, Wisconsin, and the U.S. territories.<br/>
-<br/>
-Apple Pay Later is part of the Wallet app on the iPhone, and found in the Settings app under Wallet & Apple Pay on the iPad. Users can view, track, and manage loans, with upcoming payments shown on a calendar and payment reminders sent via Wallet notifications and email. Users must set up a debit card as a loan repayment method.<br/>
-<br/>
-A software researcher known as @aaronp613 had <a href="https://twitter.com/aaronp613/status/1716092920338559385">previously discovered</a> that Apple Pay Later would launch by November 1 following invite-only testing.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-pay-later/">Apple Pay Later</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-music-apple-pay-card-icloud-fitness.134">Apple Music, Apple Pay/Card, iCloud, Fitness+</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/apple-pay-later-launches/">Apple Pay Later Officially Launches in U.S. Following Early Access Period</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-pay-later-officially-launches-in-u-s-following-early-access-period.2408548/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Adds &#039;Scary Fast&#039; Event Livestream Placeholder to YouTube and Website</title>
-		<link>https://www.macrumors.com/2023/10/24/apple-scary-fast-event-livestream/</link>
-		<comments>https://forums.macrumors.com/threads/apple-adds-scary-fast-event-livestream-placeholder-to-youtube-and-website.2408544/</comments>
-		<pubDate>Tue, 24 Oct 2023 09:55:46 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/24/apple-scary-fast-event-livestream/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>Apple Event</category>
-		<category>October 2023 Apple Event</category>
-		
-
-		<description><![CDATA[Apple is preparing for the upcoming Mac-focused "Scary Fast" event that is set to take place on Monday, October 30 at 5:00 p.m. Pacific Time, and the company has added livestream placeholders both to the Events website and to YouTube.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/ctkW3V0Mh-k" title="Apple Event - October 30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-On <a href="https://www.apple.com/apple-events/?useASL=true">the Events website</a>, Apple has added an option to add the event to your calendar, and on YouTube, there is an option to get a reminder when the event begins. While the YouTube placeholder features a static Apple logo, Apple's Events website includes an animated logo that morphs into a Finder icon, hinting at the subject of the event.<br/>
-<br/>
-Apple has never held a worldwide event at night before, so this is a first for the company. The livestream will begin at 5:00 p.m. Pacific Time on the night before Halloween, which equates to 8:00 p.m. Eastern Time, 12:00 a.m. in the UK, 1:00 to 2:00 a.m. in much of continental Europe, and 9:00 a.m. in several countries in Asia.<br/>
-<br/>
-Given the late hour of the event, it will be online only, with no in-person component. The "Scary Fast" event will be able to be streamed via the Events website, on YouTube, and through the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app.<br/>
-<br/>
-<em>MacRumors</em> will have full coverage of the September 12 event as well, both on MacRumors.com and through our <a href="https://twitter.com/macrumorslive?lang=en">MacRumorsLive Twitter account</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-event/">Apple Event</a>, <a href="https://www.macrumors.com/guide/october-2023-apple-event/">October 2023 Apple Event</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/24/apple-scary-fast-event-livestream/">Apple Adds &#039;Scary Fast&#039; Event Livestream Placeholder to YouTube and Website</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-adds-scary-fast-event-livestream-placeholder-to-youtube-and-website.2408544/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
