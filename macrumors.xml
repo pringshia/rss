@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 26 Oct 2023 13:03:13 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 26 Oct 2023 17:10:40 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,9 +22,138 @@
 	<generator>https://www.macrumors.com</generator>
 		
 		<item>
-		<title>Apple TV App Features Revamped Navigation in tvOS 17.2</title>
+		<title>Everything New in iOS 17.2 Beta 1: Journal App, Translate Action, iMessage Sticker Reactions and More</title>
+		<link>https://www.macrumors.com/2023/10/26/ios-17-2-beta-1-features/</link>
+		<comments>https://forums.macrumors.com/threads/everything-new-in-ios-17-2-beta-1-journal-app-translate-action-imessage-sticker-reactions-and-more.2408805/</comments>
+		<pubDate>Thu, 26 Oct 2023 14:28:56 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/26/ios-17-2-beta-1-features/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released the first beta of an upcoming iOS 17.2 update, and it adds a whole slew of features. You can now access the Journal app that Apple has been working on, and share playlists with friends so they can add songs. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/iOS-17.2-Feature-Warm.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-918854" /><br/>
+iOS 17.2 is limited to developers right now, but it should soon be coming to public beta testers. We're expecting to see iOS 17.2 released to the public around November or December. <br/>
+<br/>
+<h2>Journal App</h2><br/>
+iOS 17.2 includes the Journal app that Apple announced as part of <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>. With the Journal app, users can record their daily activities and thoughts, with Apple providing optional prompts that can be used as inspiration.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Journal-App-iOS-17-Feature-Green.jpg" alt="" width="2612" height="1469" class="aligncenter size-full wp-image-918878" /><br/>
+A Journal entry can be added by tapping on the "+" button in the Journal app, and from there, users can choose a suggestion as the basis for their writing or just opt for "New Entry" to write anything at all.<br/>
+<br/>
+Entries are automatically tagged with a date for organizational purposes, but there are options for bookmarking, too. Journal entries can include images, voice recordings, and location tags.<br/>
+<br/>
+<h2>Messages App Sticker Tapback Reactions</h2><br/>
+You can now long press on any chat bubble in the Messages app to add a sticker response that serves as an alternative to a tapback reaction. Tapping on "Add Sticker" lets you choose either a sticker or an emoji to apply to the corner of an iMessage.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-tapback-reply-sticker.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918892" /><br/>
+There was already an option to drag a sticker or an emoji onto any message bubble, but this is a much quicker method of quickly responding to an incoming message with a quick graphic that is more expressive than a tapback reaction.<br/>
+<br/>
+<h2>Collaborative Apple Music Playlists</h2><br/>
+There is now an option to create a playlist in <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> that multiple people can add to. In a playlist you have made, tap on the three dot icon in top right of the app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/apple-music-collaborative-playlists.jpg" alt="" width="5484" height="3085" class="aligncenter size-full wp-image-918890" /><br/>
+From there, select the Collaborate option and choose "Start Collaboration." You'll be able to create a link to the playlist, and anyone who has access to that link can add to it. You can also invite people to join via QR code, and if you want, you can approve each person that asks to join.<br/>
+<br/>
+<h2>Favorites Apple Music Playlist</h2><br/>
+Songs that you have favorited in the &zwnj;Apple Music&zwnj; app are now aggregated into a Favorites playlist.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/apple-music-favorite-playlists.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918891" /><br/>
+<h2>Apple Music Listening History Focus Filter</h2><br/>
+There is a Focus Filter for the &zwnj;Apple Music&zwnj; Listening History feature, so if you want to let someone else use your device to listen to music, you can activate this to turn off the Listening History so their song choices won't affect your recommendations.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-focus-filters.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918906" /><br/>
+<h2>Action Button Translate</h2><br/>
+<a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and &zwnj;iPhone 15 Pro&zwnj; Max users can now <a href="https://www.macrumors.com/2023/10/26/ios-17-2-translate-action-button/">choose a new Translate option</a> for the Action Button.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-translate.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918874" /><br/>
+When the Action Button is set as Translate, pressing to hold causes the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> to pop up a Translate window that listens for spoken text. It is able to translate from one set language to another, using the languages that you have previously set up in the Translate app.<br/>
+<br/>
+<h2>iMessage Contact Key Verification</h2><br/>
+First previewed in December 2022, <a href="https://www.macrumors.com/2023/10/26/ios-17-2-imessage-contact-key-verification/">iMessage Contact Key Verification</a> is a feature designed for those who face "extraordinary digital threats," such as journalists, human rights activists, and government officials.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/12/Apple-advanced-security-iMessage-Contact-Key-Verification_screen-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-876653" /><br/>
+Users can ensure that there is no "man in the middle" snooping on iMessage conversations, and there is a Contact Verification Code so that iMessage users can verify that they're speaking to the correct individual during in-person meetings or on <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls.<br/>
+<br/>
+<h2>Messages in iCloud Syncing</h2><br/>
+The "Messages" section in <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> in the Settings app has been renamed to "Messages in &zwnj;iCloud&zwnj;." It shows the total amount of storage that messages are taking up, the number of messages synced to &zwnj;iCloud&zwnj;, and the time of the last sync. There's also a "Sync Now" option to force an update.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-messages-in-icloud.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918896" /><br/>
+Apple previously said that additional settings would be synced through Messages in &zwnj;iCloud&zwnj; in &zwnj;iOS 17&zwnj;, like Text Message Forwarding, Send &amp; Receive accounts, and SMS filters across devices, so this may see those additional settings syncing.<br/>
+<br/>
+<h2>Apple TV App</h2><br/>
+Apple has <a href="https://www.macrumors.com/2023/10/26/apple-tv-app-redesign-tvos-17-2/">removed the separate tabs</a> for Movies and TV shows in the Store section of the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app on the &zwnj;iPhone&zwnj; and the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> has said that Apple also plans to remove the option to purchase TV shows and movies from the iTunes app as part of a TV app redesign, but that has not yet happened.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-tv-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918905" /><br/>
+<h2>Emergency Alerts Local Awareness</h2><br/>
+Under Notifications &gt; Emergency Alerts in the Settings app, there is a new "Local Awareness" option that can be turned on. Apple says that Local Awareness uses your approximate location to improve the timeliness, accuracy, and reliability of emergency alerts.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-emergency-local-awareness.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918902" /><br/>
+<h2>Weather Widgets</h2><br/>
+There are new Details, Daily Forecast, and Sunrise/Sunset widgets. Detail shows information like precipitation chance, UV index, wind speed, and air quality, while Daily Forecast offers the weather for the next few days in a small widget size. Sunrise/Sunset shows the sunrise and sunset times for each day.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/weather-app-widgets.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918889" /><br/>
+<h2>Digital Clock Widget</h2><br/>
+There is a new Digital Clock widget that can be added to the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> or Lock Screen.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-clock-widget.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918894" /><br/>
+<h2>Contact Posters</h2><br/>
+You can now select a rainbow-colored text for your name when setting up a Contact Poster in the Contacts app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-contact-poster-rainbow.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918893" /><br/>
+<h2>Books Page Turning Animation</h2><br/>
+There's a new "Fast Fade" option for the page turning animation in the Books app. Apple has also removed the icon that you could turn on to scroll through content quickly.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-page-turn-animation.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918897" /><br/>
+<h2>AirPlay</h2><br/>
+There's a new "<a href="https://www.macrumors.com/guide/airplay/">AirPlay</a> Receiver" setting that will allow the upcoming <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> headset to stream or share content to an &zwnj;iPhone&zwnj;.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-airplay-handoff.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918898" /><br/>
+It also looks like the &zwnj;AirPlay&zwnj; feature for hotels that Apple announced earlier this year is live or will be live soon. It is designed to let you &zwnj;AirPlay&zwnj; content from your &zwnj;iPhone&zwnj; or &zwnj;iPad&zwnj; to an AirPlay-equipped smart TV.<br/>
+<br/>
+<h2>Memoji</h2><br/>
+Apple added a "Body" section for Memoji where users can customize waist, bust, shoulders, and arms.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-memoji-body.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918895" /><br/>
+<h2>News App</h2><br/>
+The News app now supports Live Activities for following news-related events such as elections.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-apple-news-live-activities.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918899" /><br/>
+<h2>More iOS 17.2 Beta 1 Features</h2><br/>
+Know of a feature that we left out in this list? Let us know in the comments below.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/26/ios-17-2-beta-1-features/">Everything New in iOS 17.2 Beta 1: Journal App, Translate Action, iMessage Sticker Reactions and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-new-in-ios-17-2-beta-1-journal-app-translate-action-imessage-sticker-reactions-and-more.2408805/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Hands-On With the New Journal App in the iOS 17.2 Beta</title>
+		<link>https://www.macrumors.com/2023/10/26/ios-17-2-journal-app-hands-on/</link>
+		<comments>https://forums.macrumors.com/threads/hands-on-with-the-new-journal-app-in-the-ios-17-2-beta.2408798/</comments>
+		<pubDate>Thu, 26 Oct 2023 13:45:55 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/10/26/ios-17-2-journal-app-hands-on/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released the first iOS 17.2 beta, and it has the long-awaited Journal app that Apple initially announced as part of <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>. We've installed iOS 17.2 and thought we'd go hands-on with the Journal app to give <em>MacRumors</em> readers a first look at how it works.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/09sClt3NmuU" title="Apple&#39;s NEW Journal App - Full Walkthrough in iOS 17.2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+The Journal app has a simple, straightforward UI. When you open it up, you're presented with a "+" button, and tapping on it lets you start a new entry. When you first open the app, you can decide what information the Journal app can pull from your phone for writing prompts. Options include workout activity, media like podcasts and music, photos, and significant locations.<br/>
+<br/>
+There is a setting to prefer suggestions with others when you're around your contacts or large groups, and an option to be discoverable by others to help prioritize the suggestions of other people. Journal options can be toggled on and off in the Settings app under Privacy &amp; Security &gt; Journaling Suggestions.<br/>
+<br/>
+You can opt to write whatever you like, or choose from one of Apple's prompts that are based on your device usage. Prompts include invitations to reflect on your day, recall a new idea, think of what made you smile, think about what you could do to improve your life, and more.<br/>
+<br/>
+Journal entries can be customized with images, location information, and voice recordings. Entries are organized by date, and can also be bookmarked so you can save your favorite entries. To keep your Journal secure, you can set it up so you need a <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> scan to unlock it. <br/>
+<br/>
+Will you use the Journal app? Let us know in the comments below.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/26/ios-17-2-journal-app-hands-on/">Hands-On With the New Journal App in the iOS 17.2 Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/hands-on-with-the-new-journal-app-in-the-ios-17-2-beta.2408798/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple TV App Features Revamped Navigation in tvOS 17.2 Beta</title>
 		<link>https://www.macrumors.com/2023/10/26/apple-tv-app-redesign-tvos-17-2/</link>
-		<comments>https://forums.macrumors.com/threads/apple-tv-app-features-revamped-navigation-in-tvos-17-2.2408783/</comments>
+		<comments>https://forums.macrumors.com/threads/apple-tv-app-features-revamped-navigation-in-tvos-17-2-beta.2408783/</comments>
 		<pubDate>Thu, 26 Oct 2023 11:40:49 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2023/10/26/apple-tv-app-redesign-tvos-17-2/</guid>
 		<dc:creator>Juli Clover</dc:creator>
@@ -42,12 +171,12 @@ In a separate "Channels and Apps" area, users can access content from specific s
 Tapping into a channel like Hulu shows content and watch suggestions just for that service.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2023/10/apple-tv-app-hulu.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918881" /><br/>
-Up Next in Watch Now has not changed, but Apple has added a new "My TV" section below the top charts that seems to house TV suggestions from multiple networks as a replacement for "For You." There isn't any dedicated Channels section in Watch Now, but a Channels and Apps feature has been added to the Store.<br/>
+Up Next in Watch Now has not changed, but Apple has added a new "My TV" section below the top charts that houses TV suggestions from multiple networks as a replacement for "My Channels." There isn't any dedicated Channels section in Watch Now, but a Channels and Apps feature has been added to the Store.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2023/10/apple-tv-app-my-tv.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918882" /><br/>
 Apple has also made tweaks to the &zwnj;Apple TV&zwnj; app on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. In the Store section, there are no longer separate tabs for Movies and TV Shows, with everything integrated together.<br/>
 <br/>
-The changes to the &zwnj;Apple TV&zwnj; app come after a report from <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> that said Apple would introduce a new design in December. Gurman's report said that Apple would remove standalone iTunes &zwnj;Apple TV&zwnj; apps that are available for renting and purchasing TV shows and movies, but that has not yet happened.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/26/apple-tv-app-redesign-tvos-17-2/">Apple TV App Features Revamped Navigation in tvOS 17.2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-tv-app-features-revamped-navigation-in-tvos-17-2.2408783/">Discuss this article</a> in our forums<br/><br/>]]></description>
+The changes to the &zwnj;Apple TV&zwnj; app come after a report from <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> that said Apple would introduce a new design in December. Gurman's report said that Apple would remove standalone iTunes &zwnj;Apple TV&zwnj; apps that are available for renting and purchasing TV shows and movies, but that has not yet happened.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/26/apple-tv-app-redesign-tvos-17-2/">Apple TV App Features Revamped Navigation in tvOS 17.2 Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-tv-app-features-revamped-navigation-in-tvos-17-2-beta.2408783/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -73,9 +202,9 @@ To choose the Translate option for the Action Button, open up the Settings app, 
 		</item>
 		
 		<item>
-		<title>iMessage Contact Key Verification Added in iOS 17.2 and macOS Sonoma 14.2</title>
+		<title>iMessage Contact Key Verification Added in iOS 17.2 and macOS Sonoma 14.2 Betas</title>
 		<link>https://www.macrumors.com/2023/10/26/ios-17-2-imessage-contact-key-verification/</link>
-		<comments>https://forums.macrumors.com/threads/imessage-contact-key-verification-added-in-ios-17-2-and-macos-sonoma-14-2.2408775/</comments>
+		<comments>https://forums.macrumors.com/threads/imessage-contact-key-verification-added-in-ios-17-2-and-macos-sonoma-14-2-betas.2408775/</comments>
 		<pubDate>Thu, 26 Oct 2023 10:56:41 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2023/10/26/ios-17-2-imessage-contact-key-verification/</guid>
 		<dc:creator>Juli Clover</dc:creator>
@@ -98,7 +227,7 @@ The feature also includes a Contact Verification Code that can be used in person
 <blockquote>With iMessage Contact Key Verification, users can choose to further verify that they are messaging only with the people they intend. Contact Key Verification uses Key Transparency to enable automatic verification that the iMessage key distribution service returns device keys that have been logged to a verifiable and auditable map. When a user enables Contact Key Verification, they will be notified about any validation errors directly in the Messages conversation transcript and Apple ID Settings.<br/>
 <br/>
 For even higher security, iMessage contact key verification users can compare a Contact Verification Code in person, on FaceTime, or through another secure call. They can also choose to create or edit a contact and save a public key to turn on CKV with that person.</blockquote><br/>
-To use iMessage Contact Key Verification, all devices signed into an <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> account must have the iOS 17.2 beta, macOS 17.2 beta, and/or watchOS 10.2 beta.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/26/ios-17-2-imessage-contact-key-verification/">iMessage Contact Key Verification Added in iOS 17.2 and macOS Sonoma 14.2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/imessage-contact-key-verification-added-in-ios-17-2-and-macos-sonoma-14-2.2408775/">Discuss this article</a> in our forums<br/><br/>]]></description>
+To use iMessage Contact Key Verification, all devices signed into an <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> account must have the iOS 17.2 beta, macOS 17.2 beta, and/or watchOS 10.2 beta.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/26/ios-17-2-imessage-contact-key-verification/">iMessage Contact Key Verification Added in iOS 17.2 and macOS Sonoma 14.2 Betas</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/imessage-contact-key-verification-added-in-ios-17-2-and-macos-sonoma-14-2-betas.2408775/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -576,73 +705,6 @@ After your subscription is canceled, your services will continue to be accessibl
 If you need to cancel your subscription on your Mac, the process is similar. Open the System Settings app, click on your profile picture, select Media &amp; Purchases, and choose "Manage" under the Subscriptions option. From there, you can follow the same steps listed above.<br/>
 <br/>
 Apple's increased prices start today for new subscribers, but Apple is offering existing subscribers a 30-day grace period. After that 30 days, existing subscribers will see the new prices on their next renewal date. Apple is likely to send out emails ahead of the price hikes.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>, <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV Plus</a>, <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/cancel-apple-one-subscription/">Upset With Apple&#039;s Price Increases? Here&#039;s How to Cancel Your Apple TV+ or Apple One Subscription</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/upset-with-apples-price-increases-heres-how-to-cancel-your-apple-tv-or-apple-one-subscription.2408678/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Latest iPhone 15 Pro Ad Focuses on A17 Pro Chip Capabilities</title>
-		<link>https://www.macrumors.com/2023/10/25/iphone-15-pro-ad-filmmaking/</link>
-		<comments>https://forums.macrumors.com/threads/latest-iphone-15-pro-ad-focuses-on-a17-pro-chip-capabilities.2408674/</comments>
-		<pubDate>Wed, 25 Oct 2023 13:14:56 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/iphone-15-pro-ad-filmmaking/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iPhone 15 Pro</category>
-		<category>Apple Ads</category>
-		
-
-		<description><![CDATA[Apple today shared a new ad promoting the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and &zwnj;iPhone 15 Pro&zwnj; Max, highlighting the A17 Pro chip and the gaming capabilities of the new devices. <br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/jBFhHHpjbHk" title="iPhone 15 Pro | Pro Power | Apple" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-In the ad, a gamer deeply immersed in his <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> game shoots into the air, breaks through the ceiling of his apartment, and ends up in the subway all while still playing.<br/>
-<br/>
-The description for the video highlights the 2x faster Neural Engine and 20 percent faster CPU in the A17 Pro chip. Apple has been focusing on the gaming performance of the new &zwnj;iPhone&zwnj; models in its advertising, as the A17 Pro offers hardware-based ray tracing for the first time. <blockquote>The next level of mobile gaming is here. Up to 20 percent faster GPU for the best graphics performance in an iPhone ever. Up to 2x faster Neural Engine. And industry-leading speed and efficiency. The A17 Pro chip on iPhone 15 Pro is a game changer. Literally.</blockquote>With this functionality, the new &zwnj;iPhone 15 Pro&zwnj; models can play console-quality games, and titles like Resident Evil 4 and Death Stranding are coming to iOS as a result. <br/>
-<br/>
-<b>Note:</b> This article initially detailed an Apple ad on the filmmaking capabilities of the &zwnj;iPhone 15 Pro&zwnj; models, but Apple removed that ad and replaced it with the A17 Pro ad. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-ads/">Apple Ads</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/iphone-15-pro-ad-filmmaking/">Latest iPhone 15 Pro Ad Focuses on A17 Pro Chip Capabilities</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/latest-iphone-15-pro-ad-focuses-on-a17-pro-chip-capabilities.2408674/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Everything You Can Do With the Double Tap Gesture on Apple Watch</title>
-		<link>https://www.macrumors.com/2023/10/25/watchos-10-1-double-tap-gesture/</link>
-		<comments>https://forums.macrumors.com/threads/everything-you-can-do-with-the-double-tap-gesture-on-apple-watch.2408671/</comments>
-		<pubDate>Wed, 25 Oct 2023 12:46:22 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/25/watchos-10-1-double-tap-gesture/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[With the <a href="https://www.macrumors.com/2023/10/25/apple-releases-watchos-10-1/">watchOS 10.1 update</a> that came out today, Apple has added Double Tap to the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a> devices. Double Tap was announced when the new models were introduced, but it took some time for Apple to implement it. With Double Tap, you can activate some Apple Watch functions with just one hand.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/Apple-Watch-Ultra-2-double-tap-gesture-230912-Faeture-Blue.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-915440" /><br/>
-Using Double Tap requires you to tap your thumb and index finger together twice, and when you do this, you'll see a little icon on the Apple Watch to let you know that the tap was recognized. Double Tap uses the sensors in the Apple Watch to detect minute movements and blood flow when the fingers are positioned in a certain way. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/apple-watch-ultra-double-tap-feature-green.jpg" alt="" width="2210" height="1243" class="aligncenter size-full wp-image-915455" /><br/>
-There are a number of things you can do with Double Tap, and Apple has made it work with some of the most common actions that you might need to perform with one hand.<br/>
-<ul><br/>
- 	<li>Open the Smart Stack from the watch face, and then Double Tap again to scroll through widgets.</li><br/>
- 	<li>Answer phone or <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls.</li><br/>
- 	<li>Hang up phone or &zwnj;FaceTime&zwnj; calls.</li><br/>
- 	<li>When you get an iMessage, Double Tap to view it, and then Double Tap again if you need to scroll.</li><br/>
- 	<li>Reply to a Message using dictation and then send it with Double Tap.</li><br/>
- 	<li>Act on notifications - Apple says a Double Tap on an incoming notification will activate the primary action, such as snoozing a reminder or replying to a message.</li><br/>
- 	<li>Pause, resume, and end a timer.</li><br/>
- 	<li>Stop and resume the stopwatch.</li><br/>
- 	<li>Snooze an alarm.</li><br/>
- 	<li>Play and pause music, podcasts, or audiobooks (or skip a track, depending on settings).</li><br/>
- 	<li>Change to the Elevation view in the Compass app.</li><br/>
- 	<li>Start or stop automatic Workout reminders when a workout is detected.</li><br/>
-<li>Take a photo with the Camera Remote.</li><br/>
-<li>Record a voice memo in the Voice Memo app.</li><br/>
-<li>Change Flashlight modes.</li><br/>
-</ul><br/>
-In the Apple Watch app under Gestures, you can opt to change the playback option from play/pause to skip, and the Smart Stack option from Advance (swaps through the widgets) to Select (opens a widget's associated app).<br/>
-<br/>
-While Double Tap can be used with third-party apps through incoming notifications, there is no Double Tap API for third-party apps at the current time. Developers can still customize their apps for Double Tap to an extent by assigning the action that should occur when a Double Tap gesture is used on an incoming notification.<br/>
-<br/>
-Double Tap is limited to the &zwnj;Apple Watch Series 9&zwnj; and the &zwnj;Apple Watch Ultra 2&zwnj; because, as Apple executives said in a <a href="https://www.tomsguide.com/features/apple-watch-9-how-apple-redefined-the-smartwatch">recent interview with <em>Tom's Guide</em></a>, the S9 chip in the new models is the first that is powerful enough for the gesture system.<br/>
-<br/>
-To use Double Tap, &zwnj;Apple Watch Ultra 2&zwnj; and &zwnj;Apple Watch Series 9&zwnj; owners will need to update their devices to watchOS 10.1 through the Apple Watch app on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. watchOS 10.1 requires an &zwnj;iPhone&zwnj; running <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or later.<br/>
-<br/>
-Note that Double Tap <a href="https://support.apple.com/en-us/HT213942">will not work</a> when Low Power Mode, Sleep Focus, Theater Mode, or Water Lock is activated, and you must first raise your wrist to wake the Apple Watch to perform the gesture. Double Tap also does not work on watches that are paired as a <a href="https://www.macrumors.com/guide/family-setup/">Family Setup</a> watch.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/25/watchos-10-1-double-tap-gesture/">Everything You Can Do With the Double Tap Gesture on Apple Watch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-you-can-do-with-the-double-tap-gesture-on-apple-watch.2408671/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
