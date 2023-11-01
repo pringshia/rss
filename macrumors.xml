@@ -14,12 +14,353 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 01 Nov 2023 05:04:27 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 01 Nov 2023 09:02:50 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>UK Lawsuit Over &#039;Throttled&#039; iPhones Moves Forward</title>
+		<link>https://www.macrumors.com/2023/11/01/uk-lawsuit-throttled-iphones-moves-forward/</link>
+		<comments>https://forums.macrumors.com/threads/uk-lawsuit-over-throttled-iphones-moves-forward.2409517/</comments>
+		<pubDate>Wed, 01 Nov 2023 08:49:08 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/01/uk-lawsuit-throttled-iphones-moves-forward/</guid>
+		<dc:creator>Eric Slivka</dc:creator>
+		<category>iPhone Slowdown</category>
+		
+
+		<description><![CDATA[A legal claim in the United Kingdom over Apple's 2017 "throttling" controversy has been allowed to move forward by the Competition Appeal Tribunal, <a href="https://www.reuters.com/technology/mass-lawsuit-against-apple-over-iphone-batteries-can-go-ahead-london-tribunal-2023-11-01/">according to <em>Reuters</em></a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/iPhone-slow-16x9-yellow.jpg" alt="" width="1314" height="740" class="aligncenter size-full wp-image-920127" /><br/>
+Consumer advocate Justin Gutmann <a href="https://www.macrumors.com/2022/06/16/uk-legal-claim-25-million-users-battery-throttling/">filed the claim back in June 2022,</a> originally seeking a total of £750 million for up to 25 million <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users in the UK whose devices were affected by the issue, which stemmed from Apple's efforts to prevent devices with degraded batteries from unexpectedly shutting down while in use. The claim has since ballooned to as much at £1.6 billion plus interest.<blockquote>Gutmann's lawyers had argued Apple concealed issues with batteries in certain phone models and "surreptitiously" installed a power management tool which limited performance.<br/>
+<br/>
+Apple, however, said the lawsuit is "baseless" and that it strongly denies batteries in iPhones were defective, apart from in a small number of iPhone 6s models for which it offered free battery replacements.</blockquote>Gutmann's claim covers &zwnj;iPhone&zwnj; 6 through &zwnj;iPhone&zwnj; X models, and while the Competition Appeal Tribunal ruled the claim can move forward, it also highlighted "a lack of clarity and specificity" that will need to be resolved before it can actually proceed to trial.<br/>
+<br/>
+Apple deployed power management features with iOS 10.2.1 in 2017 that <a href="https://www.macrumors.com/2017/12/18/geekbench-iphone-6s-slowdowns/">throttled performance</a> to prevent devices with degraded batteries from attempting to draw peak power the batteries could no longer provide. Apple says it introduced the features to help extend device lifespan while minimizing disruptive device shutdowns, but the company was criticized by some customers for not disclosing what it was doing amid suggestions it was attempting to hide defective devices.<br/>
+<br/>
+Apple <a href="https://www.macrumors.com/2017/12/28/apple-iphone-battery-performance-price-drop/">apologized</a> for not better explaining the changes it made and why it did so, and introduced a low-cost battery replacement program that lasted for several years.<br/>
+<br/>
+In 2020, Apple agreed to <a href="https://www.macrumors.com/2020/03/02/apple-agrees-to-up-to-500m-batterygate-settlement/">pay up to &#36;500 million</a> to settle a long-running class action lawsuit in the United States over the issue, and the company has faced similar lawsuits in a number of other countries.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/iphone-slowdown/">iPhone Slowdown</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/01/uk-lawsuit-throttled-iphones-moves-forward/">UK Lawsuit Over &#039;Throttled&#039; iPhones Moves Forward</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/uk-lawsuit-over-throttled-iphones-moves-forward.2409517/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>First Benchmark Results Surface for M3 Chip in New Macs</title>
+		<link>https://www.macrumors.com/2023/11/01/m3-chip-benchmark-results/</link>
+		<comments>https://forums.macrumors.com/threads/first-benchmark-results-surface-for-m3-chip-in-new-macs.2409507/</comments>
+		<pubDate>Wed, 01 Nov 2023 07:53:53 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/01/m3-chip-benchmark-results/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>Geekbench</category>
+		<category>Benchmarks</category>
+		<category>M3</category>
+		
+
+		<description><![CDATA[The first benchmark results for the standard M3 chip surfaced <a href="https://browser.geekbench.com/search?q=mac15%2C3">in the Geekbench 6 database</a> today, providing a closer look at the chip's CPU performance improvements.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/M3-Chip-Apple-Event-Slide.jpg" alt="" width="1600" height="898" class="aligncenter size-full wp-image-920110" /><br/>
+Based on the results so far, the M3 chip has single-core and multi-core scores of around 3,000 and 11,700, respectively. The standard M2 chip has single-core and multi-core scores of around 2,600 and 9,700, respectively, so the M3 chip is up to 20% faster than the M2 chip, as Apple claimed during its <a href="https://www.macrumors.com/2023/10/30/everything-apple-announced-october-2023-event/">"Scary Fast" event</a> on Monday.<br/>
+<br/>
+It's unclear if the results are for the new 14-inch MacBook Pro or iMac, both of which are available with the standard M3 chip, but performance should be similar for both machines. The results have a "Mac15,3" identifier, which <em>Bloomberg</em>'s Mark Gurman previously <a href="https://www.bloomberg.com/news/articles/2023-04-14/apple-ramps-up-testing-of-new-macbooks-ahead-of-summer-launch">reported</a> was for a laptop with the same display resolution as a 14-inch MacBook Pro.<br/>
+<br/>
+The standard M3 chip is equipped with an 8-core CPU and up to a 10-core GPU, and it supports up to 24GB of unified memory. The chip has improved GPU architecture with support for hardware-accelerated ray tracing and mesh shading, which will make high-end games look more realistic. It also has a 16-core Neural Engine for AI.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/M3-Chip-Performance.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-920120" /><br/>
+We have yet to see any Geekbench results for the higher-end M3 Pro and M3 Max chips available in most new 14-inch and 16-inch MacBook Pro models.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/geekbench/">Geekbench</a>, <a href="https://www.macrumors.com/guide/benchmarks/">Benchmarks</a>, <a href="https://www.macrumors.com/guide/m3/">M3</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/01/m3-chip-benchmark-results/">First Benchmark Results Surface for M3 Chip in New Macs</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/first-benchmark-results-surface-for-m3-chip-in-new-macs.2409507/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Get Your Holiday Shopping Started With Our Exclusive 30% Off Sale at Satechi</title>
+		<link>https://www.macrumors.com/2023/11/01/deals-take-30-off-at-satechi/</link>
+		<comments>https://forums.macrumors.com/threads/get-your-holiday-shopping-started-with-our-exclusive-30-off-sale-at-satechi.2409498/</comments>
+		<pubDate>Wed, 01 Nov 2023 06:59:41 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/01/deals-take-30-off-at-satechi/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		
+
+		<description><![CDATA[We've partnered with <a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2F&afftrack=">Satechi</a> this week to offer <strong>30 percent off sitewide</strong> at the retailer, allowing our readers to save on Satechi's best hubs, chargers, desktop accessories, and more. To get this deal, enter the code <strong>MR30</strong> at the checkout screen before November 8, when the code will expire.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/11/satechi-blue-holiday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-872152" /><em><small>Note: MacRumors is an affiliate partner with Satechi. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+This code works sitewide on Satechi, with the sole exception of the <a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Flanding%2Fvegan%2Dleather%2Dwallet&afftrack=">Vegan Magnetic Wallet Stand</a>. Otherwise, you can shop Satechi's wide selection of wireless chargers, USB-C hubs, iPad Pro accessories, mice and keyboards, and more Apple-compatible products.<br/>
+<br/>
+<div class="center-wrap"><a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2F&afftrack="target="_blank"><div class="fancybutton"><div class="fancybadge">30% OFF</div>Satechi Sitewide Sale</div></a></div><br/>
+<br/>
+Below we've rounded up some of Satechi's best wireless chargers and other accessories, including a few that are compatible with MagSafe. Some highlights of the sale are the <a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fproducts%2Faluminum%2D2%2Din%2D1%2Dmagnetic%2Dwireless%2Dcharging%2Dstand%3Fvariant%3D33643715592280&afftrack=">Aluminum 2-in-1 Magnetic Wireless Charging Stand</a> and <a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fproducts%2Ftrio%2Dwireless%2Dcharging%2Dpad%2FZ2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMjAwODk2MDU3MzUyOA%3D%3D%3FqueryID%3D56a22be72b9de2c5d017b8aceb5b2c37&afftrack=">Trio Wireless Charger with Magnetic Pad</a>. Of course, the MR30 code works sitewide at Satechi for the next week, so be sure to browse throughout the company's products to take advantage of the sale.<br/>
+<br/>
+<ul><li><a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fproducts%2Fmagnetic%2Dwireless%2Dcar%2Dcharger%3Fvariant%3D39498844700760&afftrack=">Magnetic Wireless Car Charger</a> - &#36;31.50, down from &#36;44.99</li><br/>
+<li><a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fproducts%2Faluminum%2D2%2Din%2D1%2Dmagnetic%2Dwireless%2Dcharging%2Dstand%3Fvariant%3D33643715592280&afftrack=">Aluminum 2-in-1 Magnetic Wireless Charging Stand</a> - &#36;42.00, down from &#36;59.99</li><br/>
+<li><a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fproducts%2F2%2Din%2D1%2Dheadphone%2Dstand%2Dwith%2Dwireless%2Dcharger%3Fvariant%3D39765841444952&afftrack=">2-in-1 Headphone Stand with Wireless Charger</a> - &#36;56.00, down from &#36;79.99</li><br/>
+<li><a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fproducts%2Fduo%2Dwireless%2Dcharger%2Dpower%2Dstand%2FZ2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC80MDEzMzQwODk4MTA4MA%3D%3D&afftrack=">Duo Wireless Charger Power Stand</a> - &#36;70.00, down from &#36;99.99</li><br/>
+<li><a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fproducts%2Ftrio%2Dwireless%2Dcharging%2Dpad%2FZ2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMjAwODk2MDU3MzUyOA%3D%3D%3FqueryID%3D56a22be72b9de2c5d017b8aceb5b2c37&afftrack=">Trio Wireless Charger with Magnetic Pad</a> - &#36;84.00, down from &#36;119.99</li><br/>
+<li><a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fproducts%2Fslim%2Dx2%2Dbluetooth%2Dbacklit%2Dkeyboard%2FZ2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zOTM4OTAyNTE3MzU5Mg%3D%3D&afftrack=">Slim X2 Bluetooth Backlit Keyboard</a> - &#36;56.00, down from &#36;79.99</li></ul><br/>
+<br/>
+Remember that our promo code MR30 works sitewide and will end on November 8, so be sure to shop on Satechi's website sometime this week before the sale closes. We've begun tracking all of the season's best deals in our dedicated <a href="https://www.macrumors.com/roundup/black-friday/">Black Friday Roundup</a>, so be sure to bookmark the page and visit it throughout the season as you do your online shopping. Our roundup mainly focuses on Apple products and related tech accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/01/deals-take-30-off-at-satechi/">Get Your Holiday Shopping Started With Our Exclusive 30% Off Sale at Satechi</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/get-your-holiday-shopping-started-with-our-exclusive-30-off-sale-at-satechi.2409498/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Arcade Announces New Games Coming Following Price Increase</title>
+		<link>https://www.macrumors.com/2023/11/01/apple-arcade-new-games-november-december/</link>
+		<comments>https://forums.macrumors.com/threads/apple-arcade-announces-new-games-coming-following-price-increase.2409495/</comments>
+		<pubDate>Wed, 01 Nov 2023 06:08:02 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/01/apple-arcade-new-games-november-december/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple Arcade</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2023/11/8-new-games-and-more-than-50-updates-coming-to-apple-arcade-this-holiday-season/">announced</a> that eight new games will be added to Apple Arcade in November and December, including Disney Dreamlight Valley Arcade Edition, Football Manager 2024 Touch, Sonic Dream Team, Puzzle & Dragons Story, and more. In addition, Apple said over 50 games available on the service will be receiving updates over the next two months.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/06/apple-arcade-orange-feature.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-748620" /><br/>
+Details about the upcoming games and updates can be found in the <a href="https://www.apple.com/newsroom/2023/11/8-new-games-and-more-than-50-updates-coming-to-apple-arcade-this-holiday-season/">Apple Newsroom announcement</a> on Apple's website.<br/>
+<br/>
+Launched in November 2019, Apple Arcade is a subscription-based gaming service accessible through the App Store. The service provides subscribers with access to around 300 games across the iPhone, iPad, Mac, and Apple TV, with new titles added periodically. All games available on Apple Arcade are free of ads and in-app purchases.<br/>
+<br/>
+Apple Arcade <a href="https://www.macrumors.com/2023/10/25/apple-services-price-increases/">received its first price increase</a> in many countries earlier this month. In the U.S., the service went from &#36;4.99 per month to &#36;6.99 per month.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/01/apple-arcade-new-games-november-december/">Apple Arcade Announces New Games Coming Following Price Increase</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-arcade-announces-new-games-coming-following-price-increase.2409495/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>2023 MacBook Pro Buyer&#039;s Guide: 20+ Differences Compared Across Generations</title>
+		<link>https://www.macrumors.com/guide/macbook-pro-upgraders-buyers-guide/</link>
+		<comments>https://forums.macrumors.com/threads/2023-macbook-pro-buyers-guide-20-differences-compared-across-generations.2377515/</comments>
+		<pubDate>Wed, 01 Nov 2023 05:25:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/macbook-pro-upgraders-buyers-guide&#038;post_date=1698852300/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Buyer's Guide</category>
+		<category>Featured</category>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		
+
+		<description><![CDATA[Apple has refreshed the MacBook Pro's hardware with a full set of M3, M3 Pro, and M3 Max chips, but what exactly do the latest machines bring to the table and is it worth upgrading from the previous generations?<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/MacBook-Pro-2021-2023-and-2023-Buyers-Guide-Feature-1.875.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-920052" /><br/>
+The 14-inch MacBook Pro with the M3 chip starts at &#36;1,599, replacing the previous <a href="https://www.macrumors.com/guide/m2/">M2</a> 13-inch model as the entry-level machine in Apple's pro notebook lineup. Equipped with the higher-end M3 Pro and M3 Max chips, the 14-inch MacBook Pro starts at &#36;1,999 and the 16-inch model starts at &#36;2,499.<br/>
+<br/>
+Upon the launch of the latest models, previous-generation MacBook Pro models have been discontinued and are no longer available from Apple's main storefront. Units of slightly older machines such as the 2021 and early 2023 models may, however, still be available via Apple's refurbished store and third-party retailers for significantly reduced prices. Buying a 2021 or early 2023 model second-hand is also an option.<br/>
+<br/>
+First-time MacBook Pro‌ customers or those upgrading from a much older device may be wondering whether it is worth buying a 2021 or early 2023 model, so it will be important to weigh up exactly what was added with the latest version. Likewise, existing users of the 2021 or early 2023 MacBook Pro may be wondering if it is worth upgrading to the latest model or sticking with their current device.<br/>
+<br/>
+See the detailed breakdown below for each new feature, change, and improvement that was added with the late 2023's ‌14- and 16-inch MacBook Pro models compared to their predecessors:<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th>MacBook Pro<br/>
+(14- and 16-inch, 2021)</th><br/>
+ <th>MacBook Pro<br/>
+(14- and 16-inch, early 2023)</th><br/>
+ <th>MacBook Pro<br/>
+(late 2023)</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- <a href="https://www.macrumors.com/guide/m1-pro/">M1 Pro</a><br/>
+- <a href="https://www.macrumors.com/guide/m1-max/">M1 Max</a></td><br/>
+ <td>- &zwnj;M2&zwnj; Pro<br/>
+- &zwnj;M2&zwnj; Max</td><br/>
+ <td>- M3<br/>
+- M3 Pro<br/>
+- M3 Max</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- 5nm node (N5)<br/>
+- Based on A14 Bionic chip from <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> 12 (2020)</td><br/>
+ <td>- Enhanced 5nm node (N5P)<br/>
+- Based on A15 Bionic chip from <a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a> (2021)</td><br/>
+ <td>- <a href="https://www.macrumors.com/guide/3nm/">3nm</a> node (N3E)<br/>
+- Based on A17 Pro chip from <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> (2023)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- 3.20 GHz CPU clock speed</td><br/>
+ <td>- 3.49 GHz CPU clock speed</td><br/>
+ <td>- 4.05 GHz CPU clock speed</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- Up to 10-core CPU with 8 performance cores and 2 efficiency cores (&zwnj;M1 Pro&zwnj;)<br/>
+- 10-core CPU with 8 performance cores and 2 efficiency cores (&zwnj;M1 Max&zwnj;)</td><br/>
+ <td>- Up to 12-core CPU with 8 performance cores and 4 efficiency cores (&zwnj;M2&zwnj; Pro)<br/>
+- 12-core CPU with 8 performance cores and 4 efficiency cores (&zwnj;M2&zwnj; Max)</td><br/>
+ <td>- 8-core CPU with 4 performance cores and 4 efficiency cores (M3)<br/>
+- Up to 12-core CPU with 6 performance cores and 6 efficiency cores (M3 Pro)<br/>
+- Up to 16-core CPU with 12 performance cores and 4 efficiency cores (M3 Max)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- Up to 16-core GPU (&zwnj;M1 Pro&zwnj;)<br/>
+- Up to 32-core GPU with (&zwnj;M1 Max&zwnj;)</td><br/>
+ <td>- Up to 19-core GPU (&zwnj;M2&zwnj; Pro)<br/>
+- Up to 38-core GPU (&zwnj;M2&zwnj; Max)</td><br/>
+ <td>- 10-core GPU (M3)<br/>
+- Up to 18-core GPU (M3 Pro)<br/>
+- Up to 40-core GPU (M3 Max)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>- New GPU architecture</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>- Dynamic Caching</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>- Hardware-accelerated ray tracing</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>- Hardware-accelerated mesh shading</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- Neural Engine</td><br/>
+ <td>- 40% faster Neural Engine</td><br/>
+ <td>- 15% faster Neural Engine</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- Video decode engine</td><br/>
+ <td>- Higher-bandwidth video decode engine</td><br/>
+ <td>- Same video decode engine as M2-generation</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>- Support for AV1 decode</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- 200GB/s memory bandwidth (&zwnj;M1 Pro&zwnj;)<br/>
+- 400GB/s memory bandwidth (&zwnj;M1 Max&zwnj;)</td><br/>
+ <td>- 200GB/s memory bandwidth (&zwnj;M2&zwnj; Pro)<br/>
+- 400GB/s memory bandwidth (&zwnj;M2&zwnj; Max)</td><br/>
+ <td>- 100GB/s memory bandwidth (M3)<br/>
+- 150GB/s memory bandwidth (M3 Pro)<br/>
+- 300GB/s or 400GB/s memory bandwidth (M3 Max)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- 16GB or 32GB unified memory (&zwnj;M1 Pro&zwnj;)<br/>
+- 32GB or 64GB unified memory (&zwnj;M1 Max&zwnj;)</td><br/>
+ <td>- 16GB or 32GB unified memory (&zwnj;M2&zwnj; Pro)<br/>
+- 32GB, 64GB, or 96GB unified memory (&zwnj;M2&zwnj; Max)</td><br/>
+ <td>- 8GB, 16GB, or 24GB unified memory (M3)<br/>
+- 18GB or 36GB unified memory (M3 Pro)<br/>
+- 36GB, 48GB, 64GB, 96GB, 128GB unified memory (M3 Max)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- Support for up to two external displays (&zwnj;M1 Pro&zwnj;)<br/>
+- Support for up to four external displays (&zwnj;M1 Max&zwnj;)</td><br/>
+ <td>- Support for up to two external displays (&zwnj;M2&zwnj; Pro)<br/>
+- Support for up to four external displays (&zwnj;M2&zwnj; Max)</td><br/>
+ <td>- Support for one external display (M3)<br/>
+- Support for up to two external displays (M3 Pro)<br/>
+- Support for up to four external displays (M3 Max)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- 500 nits max SDR brightness</td><br/>
+ <td>- 500 nits max SDR brightness</td><br/>
+ <td>- 600 nits max SDR brightness</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- Image signal processor (ISP)</td><br/>
+ <td>- New image signal processor (ISP)</td><br/>
+ <td>- Same ISP as M2-generation</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- Wi‑Fi 6</td><br/>
+ <td>- Wi‑Fi 6E</td><br/>
+ <td>- Wi‑Fi 6E</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- Bluetooth 5.0</td><br/>
+ <td>- Bluetooth 5.3</td><br/>
+ <td>- Bluetooth 5.3</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- Three Thunderbolt 4 (USB-C) ports</td><br/>
+ <td>- Three Thunderbolt 4 (USB-C) ports</td><br/>
+ <td>- Two Thunderbolt / USB 4 (USB-C) ports (M3)<br/>
+- Three Thunderbolt 4 (USB-C) ports (M3 Pro or M3 Max)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- HDMI 2.0 port</td><br/>
+ <td>- HDMI 2.1 port</td><br/>
+ <td>- HDMI 2.1 port</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- 512GB, 1TB, 2TB, 4TB, or 8TB storage</td><br/>
+ <td>- 512GB, 1TB, 2TB, 4TB, or 8TB storage</td><br/>
+ <td>- 512GB, 1TB, or 2TB storage (M3)<br/>
+- 512GB, 1TB, 2TB, 4TB, or 8TB storage (M3 Pro or M3 Max)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- 17-hour battery life (14-inch)<br/>
+- 21-hour battery life (16-inch)</td><br/>
+ <td>- 18-hour battery life (14-inch)<br/>
+- 22-hour battery life (16-inch)</td><br/>
+ <td>- 22-hour battery life (M3 14-inch)<br/>
+- 18-hour battery life (M3 Pro or M3 Max 14-inch)<br/>
+- 22-hour battery life (16-inch)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>- Available in Space Gray and Silver</td><br/>
+ <td>- Available in Space Gray and Silver</td><br/>
+ <td>- Available in Space Gray and Silver (M3)<br/>
+- Available in Space Black and Silver (M3 Pro and M3 Max)</td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+The late 2023 MacBook Pro models are relatively minor improvements over their direct predecessors that primarily focus on performance improvements. Beyond their chips, the early 2023 MacBook Pro introduced support for Wi‑Fi 6E, Bluetooth 5.3, and HDMI 2.1, and added an extra hour of battery life. The late 2023 MacBook Pro added an extra 100 nits of SDR brightness, AV1 decode, and a Space Black color option. Accumulatively, this makes for quite a small upgrade for existing users of the 2021 MacBook Pro.<br/>
+<br/>
+Choosing which 14- or 16-inch MacBook Pro model to buy ultimately comes down to what level of performance you require. For example, the M3 series of chips feature a redesigned GPU with hardware-accelerated ray-tracing, which may be an attractive upgrade for some users, but it is far from essential for the vast majority. <a href="https://www.macrumors.com/guide/m1/">M1</a> or &zwnj;M2&zwnj; Pro users who are mulling an upgrade to an M3 Pro machine should also be aware that it features reduced memory bandwidth and one less GPU core. <br/>
+<br/>
+Generally, unless you need peak performance for demanding professional workflows, it will not be worth upgrading from a 2021 MacBook Pro to a 2023 model, or from an early 2023 machine to a late 2023 model. Only those who need the M3's redesigned GPU and hardware-accelerated ray-tracing, or more than 12 CPU cores, 38 GPU cores, or 96GB memory will really benefit.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/01/Apple-MacBook-Pro-M2-Feature-Blue-Green.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-881249" /><br/>
+For those who have not yet made the leap to an Apple silicon machine, the 2021 and early 2023 MacBook Pro models are still very good options if you can get them for a significantly low price. It is only worth paying more to get the latest model if you want a future-proof device to keep for the long term, where slightly better performance, battery life, and specifications like Wi‑Fi 6E, Bluetooth 5.3, and HDMI 2.1 are likely to be more beneficial through successive software updates and as connectivity needs with other devices evolve. Even then, it is difficult to recommend buying a late 2023 MacBook Pro at full price over an equivalent, heavily discounted early 2023 model.<br/>
+<br/>
+Of course, if you are considering upgrading across the product lineup, such as going from a 2021 or early 2023 14-inch MacBook Pro to a 16-inch model, it may be worth buying the latest model to capture its handful of other improvements.<br/>
+<br/>
+The 14-inch MacBook Pro with the M3 chip effectively replaces the previous 13-inch MacBook Pro, which featured the &zwnj;M1&zwnj; chip in 2020 and the &zwnj;M2&zwnj; chip in 2022. For users of these older MacBook Pro models, the new low-cost 14-inch model represents a substantial upgrade, featuring a larger display with a mini-LED panel, a 1080p camera, a six-speaker sound system with force-cancelling woofers, an HDMI 2.1 port and an SDXC card slot, fast charging and <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a> 3, and two extra hours of battery life.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/macbook-pro-upgraders-buyers-guide/">2023 MacBook Pro Buyer&#039;s Guide: 20+ Differences Compared Across Generations</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/2023-macbook-pro-buyers-guide-20-differences-compared-across-generations.2377515/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Bloomberg: 2024 Apple Watch to Gain Blood Pressure Monitoring and Sleep Apnea Detection</title>
+		<link>https://www.macrumors.com/2023/11/01/2024-apple-watch-blood-pressure-sleep-apnea/</link>
+		<comments>https://forums.macrumors.com/threads/bloomberg-2024-apple-watch-to-gain-blood-pressure-monitoring-and-sleep-apnea-detection.2409488/</comments>
+		<pubDate>Wed, 01 Nov 2023 05:15:27 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/01/2024-apple-watch-blood-pressure-sleep-apnea/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple Watch</category>
+		<category>Apple Watch Ultra</category>
+		<category>Featured</category>
+		<category>Bloomberg</category>
+		<category>Health Technologies</category>
+		<category>Mark Gurman</category>
+		
+
+		<description><![CDATA[Apple plans to add blood pressure monitoring and sleep apnea detection to an Apple Watch with an updated design in 2024, according to <em>Bloomberg</em>'s Mark Gurman.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/Apple-Watch-Series-9.jpg" alt="" width="2880" height="1620" class="aligncenter size-full wp-image-910331" /><br/>
+In a <a href="https://www.bloomberg.com/news/features/2023-11-01/apple-health-blood-pressure-glucose-sleep-apnea-team-issues">report</a> covering the arc of Apple's heath-related ambitions, Gurman outlines the first iteration of the company's "pathbreaking" blood pressure sensor technology coming next year that will include hypertension detection:<br/>
+<blockquote>The system is designed to just tell a user if their blood pressure is trending upward and to offer a journal for the user to jot down what was happening when hypertension occurred. To avoid potentially giving a misdiagnosis, the feature will then direct a user to talk to their doctor or check their blood pressure with a traditional cuff, which can provide exact systolic and diastolic measurements. </blockquote>A future version of the system in development can provide exact numbers and even diagnose related conditions, according to Gurman. However, these enhancements "remain far off," he adds.<br/>
+<br/>
+Also coming in 2024 is an Apple Watch-based sleep apnea detection feature. According to the report, it will use sleep and breathing patterns to estimate whether someone has the condition, and then direct users to see a physician.<br/>
+<br/>
+As <a href="https://www.macrumors.com/2023/03/26/apple-watch-blood-glucose-up-to-seven-years-away/">previously reported</a>, Apple is also working on non-invasive blood glucose monitoring. Apple's system is said to use a silicon photonics chip to shine light from a laser under the skin to determine the concentration of glucose in the body.<br/>
+<br/>
+The glucose monitoring has been designed in a similar way to the blood pressure system, in that it currently monitors how a person's blood sugar is trending and warns users of pre-diabetes, rather than offer an actual blood sugar reading.<br/>
+<br/>
+However, Apple's blood glucose monitoring efforts remain unlikely to show up in a product for "at least a few years," according to Gurman's latest report, citing people with knowledge of the efforts.<br/>
+<br/>
+Away from Apple Watch, Apple is also said to be on course to bring <a href="https://www.macrumors.com/2023/03/12/gurman-airpods-to-gain-hearing-health-features/">hearing aid detection</a> to AirPods in 2024. Equipped with the new feature, AirPods will be able to function as an over-the-counter hearing aid and be able to perform the hearing tests typically administered in audiologists' offices.<br/>
+<br/>
+Elsewhere, Apple is said to be continuing to explore ways to make the upcoming Apple Vision Pro headset into a health device, as <a href="https://www.macrumors.com/2023/10/25/apple-explores-vision-pro-health-capabilities/">reported previously</a> by <em>The Information</em>. Anti-anxiety and enhanced meditation features are being worked on, as well as a virtual-reality system to reinforce positive thinking and improve mental health.<br/>
+<br/>
+Apple has also been studying using the sensors in the device to scan a wearer's eyes for cognitive health data, while a headset version of Fitness+ "remains on the table," according to Gurman.<br/>
+<br/>
+The <em>Bloomberg</em> report additionally includes some interesting backstory on Apple's evolving health and healthcare initiatives in recent years, as well as an update on the company's <a href="https://www.macrumors.com/2021/06/16/apple-primary-healthcare-service-wsj/">paid health coaching service in development</a>. You can read the <a href="https://www.bloomberg.com/news/features/2023-11-01/apple-health-blood-pressure-glucose-sleep-apnea-team-issues">full piece here</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a>, <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/health-technologies/">Health Technologies</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#Apple_Watch_Ultra">Apple Watch Ultra (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/01/2024-apple-watch-blood-pressure-sleep-apnea/">Bloomberg: 2024 Apple Watch to Gain Blood Pressure Monitoring and Sleep Apnea Detection</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/bloomberg-2024-apple-watch-to-gain-blood-pressure-monitoring-and-sleep-apnea-detection.2409488/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Launches Tap to Pay on iPhone in Ukraine</title>
@@ -361,187 +702,439 @@ We've begun tracking all of the season's best deals in our dedicated <a href="ht
 		</item>
 		
 		<item>
-		<title>Touch Bar Fully Discontinued on New MacBooks After Seven Years</title>
-		<link>https://www.macrumors.com/2023/10/31/touch-bar-discontinued/</link>
-		<comments>https://forums.macrumors.com/threads/touch-bar-fully-discontinued-on-new-macbooks-after-seven-years.2409371/</comments>
-		<pubDate>Tue, 31 Oct 2023 06:43:38 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/31/touch-bar-discontinued/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Touch Bar</category>
-		
-
-		<description><![CDATA[Just over seven years after it was introduced, the Touch Bar has now been fully discontinued on all new MacBooks sold by Apple, marking the end of an era for a hardware feature that was loved by some users and derided by others.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/07/Touch-Bar-13-Inch-MacBook-Pro.jpg" alt="" width="1364" height="769" class="aligncenter size-full wp-image-853221" /><br/>
-The first MacBook Pro models with the Touch Bar were released in October 2016, as part of a controversial redesign that also included a defective butterfly keyboard and the removal of many ports, including an SD card slot, HDMI, and MagSafe. Physical function and Esc keys were also removed in favor of the Touch Bar.<br/>
-<br/>
-Apple initially <a href="https://www.apple.com/newsroom/2016/10/apple-unveils-groundbreaking-new-macbook-pro/">described</a> the Touch Bar as a "revolutionary" and "breakthrough" interface, but it was clearly not popular enough to stick around.<br/>
-<br/>
-It was a slow death for the Touch Bar:<ul><li>In 2019, Apple released the first 16-inch MacBook Pro with a physical Esc key, but the Touch Bar lived on in place of physical function keys.</li><br/>
-<li>In 2021, Apple removed the Touch Bar from higher-end MacBook Pro models, switching back to full-size physical function keys.</li><br/>
-<li>This week, Apple <a href="https://www.macrumors.com/2023/10/30/apple-discontinues-13-inch-macbook-pro/">discontinued the 13-inch MacBook Pro</a>, the final model with a Touch Bar.</li></ul>For now, the Touch Bar can still be found on some <a href="https://www.apple.com/shop/refurbished/mac/13-inch-macbook-pro">refurbished models</a> sold by Apple.<br/>
-<br/>
-It's possible that the Touch Bar could return at some point in the future, especially if the 13-inch MacBook Pro is ever re-released as a lower-cost model, but at this point there is no firm evidence to suggest this will happen.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/touch-bar/">Touch Bar</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/31/touch-bar-discontinued/">Touch Bar Fully Discontinued on New MacBooks After Seven Years</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/touch-bar-fully-discontinued-on-new-macbooks-after-seven-years.2409371/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>14-Inch MacBook Pro With M3 Chip Has Only Two Thunderbolt 3 Ports</title>
-		<link>https://www.macrumors.com/2023/10/31/m3-macbook-pro-two-tb3-ports-not-tb4/</link>
-		<comments>https://forums.macrumors.com/threads/14-inch-macbook-pro-with-m3-chip-has-only-two-thunderbolt-3-ports.2409367/</comments>
-		<pubDate>Tue, 31 Oct 2023 06:17:01 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/31/m3-macbook-pro-two-tb3-ports-not-tb4/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
-		
-
-		<description><![CDATA[Apple's new <a href="https://www.macrumors.com/2023/10/30/m3-macbook-pro-and-imac-orders-available/">M3 14-inch MacBook Pro</a> features two Thunderbolt 3 USB-C ports, not three Thunderbolt 4 ports like the 14-inch and 16-inch MacBook Pro models powered by M3 Pro and M3 Max chips.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/m3-m3pro-max-ports.jpg" alt="" width="3024" height="1964" class="aligncenter size-full wp-image-919715" /><br/>
-Apart from having fewer USB-C ports, the lack of Thunderbolt 4 support on the 14-inch MacBook Pro with the base M3 chip means it only supports one display with up to 6K resolution at 60Hz, or one display with up to 4K resolution at 120Hz over HDMI.<br/>
-<br/>
-In comparison, like the M2 Pro chip it replaces, the M3 Pro supports up to two external displays with up to 6K resolution at 60Hz over Thunderbolt. The M3 Pro-powered MacBook Pro models also support one external display with up to 6K resolution at 60Hz over Thunderbolt and one external display with up to 4K resolution at 144Hz over HDMI.<br/>
-<br/>
-Meanwhile, the M3 Max supports up to four external displays in the following configuration: Up to three external displays with 6K resolution at 60Hz over Thunderbolt and one external display with up to 4K resolution at 144Hz over HDMI. <br/>
-<br/>
-Alternatively, M3 Max MacBook Pro models can support up to three external displays by connecting two displays with 6K resolution at 60Hz over Thunderbolt and one display with up to 8K resolution at 60Hz, or one display with 4K resolution at 240Hz over HDMI.<br/>
-<br/>
-Lastly, both the M3 Pro and M3 Max also support native DisplayPort over USB-C, and one display with up to 8K resolution at 60Hz or 4K resolution at 240Hz over HDMI.<br/>
-<br/>
-The new MacBook Pro models are available to order now, and they will begin arriving to customers and launch in stores on Tuesday, November 7. Be sure to check out our <a href="https://www.macrumors.com/2023/10/30/apple-announces-m3-macbook-pros/">MacBook Pro announcement coverage</a> for all the details.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/31/m3-macbook-pro-two-tb3-ports-not-tb4/">14-Inch MacBook Pro With M3 Chip Has Only Two Thunderbolt 3 Ports</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/14-inch-macbook-pro-with-m3-chip-has-only-two-thunderbolt-3-ports.2409367/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple M3 Pro Chip Has 25% Less Memory Bandwidth Than M1/M2 Pro</title>
-		<link>https://www.macrumors.com/2023/10/31/apple-m3-pro-less-memory-bandwidth/</link>
-		<comments>https://forums.macrumors.com/threads/apple-m3-pro-chip-has-25-less-memory-bandwidth-than-m1-m2-pro.2409344/</comments>
-		<pubDate>Tue, 31 Oct 2023 03:11:12 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/31/apple-m3-pro-less-memory-bandwidth/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
-		<category>M3</category>
-		
-
-		<description><![CDATA[Apple's latest M3 Pro chip in the <a href="https://www.macrumors.com/2023/10/30/apple-announces-m3-macbook-pros/">new 14-inch and 16-inch MacBook Pro</a> has 25% less memory bandwidth than the M1 Pro and M2 Pro chips used in equivalent models from the two previous generations.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/m3-pro-chip.jpg" alt="" width="5104" height="2868" class="aligncenter size-full wp-image-919649" /><br/>
-Based on the latest 3-nanometer technology and featuring all-new GPU architecture, the M3 series of chips is said to represent the fastest and most power-efficient evolution of Apple silicon thus far. For example, the 14-inch and 16-inch MacBook Pro with M3 Pro chip is up to 40% faster than the 16-inch model with M1 Pro, according to Apple.<br/>
-<br/>
-However, looking at Apple's own hardware specifications, the M3 Pro system on a chip (SoC) features 150GB/s memory bandwidth, compared to 200GB/s on the earlier M1 Pro and M2 Pro. As for the M3 Max, Apple says it is capable of "up to 400GB/s." This wording is because the less pricey scaled-down M3 Max with 14-core CPU and 30-core GPU has only 300GB/s of memory bandwidth, whereas the equivalent scaled-down M2 Max with 12-core CPU and 30-core GPU featured 400GB/s bandwidth, just like its more powerful 12‑core CPU, 38‑core GPU version.  <br/>
-<br/>
-Notably, Apple has also changed the core ratios of the higher-tier M3 Pro chip compared to its direct predecessor. The M3 Pro with 12-core CPU has 6 performance cores (versus 8 performance cores on the 12-core M2 Pro) and 6 efficiency cores (versus 4 efficiency cores on the 12-core M2 Pro), while the GPU has 18 cores (versus 19 on the equivalent M2 Pro chip). <br/>
-<br/>
-Additionally, while the M3 chip's 16-core Neural Engine has the same number of cores as the one Apple featured in the 3nm-based A17 Pro chip that debuted in the iPhone 15 Pro series in September, it's comparatively weaker on paper in terms of maximum achievable throughput, which is measured in trillions of operations per second (TOPS). <br/>
-<br/>
-According to Apple, the M3 Neural Engine is capable of 18 TOPS, whereas the A17 Pro Neural Engine is capable of 35 TOPS. It's hard to say for certain, but it is possible that the iPhone 15 Pro requires a higher performing Neural Engine for features like computational photography and Face ID, whereas the M3 can compensate in other areas like machine learning by utilizing its additional GPU cores.<br/>
-<br/>
-Taken together, it's presently unclear what real-world difference these changes make to M3 performance when pitted against Apple's equivalent precursor chips in various usage scenarios, especially given that the latest processors include new Dynamic Caching memory allocation technology which ensures that only the exact amount of memory needed is used for each task. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/m3-pro-soc.jpg" alt="" width="3024" height="1903" class="aligncenter size-full wp-image-919672" /><br/>
-This opaqueness is not helped by the fact that Apple advertises the power of the new M3 Pro and M3 Max chips by repeatedly emphasizing comparisons to the M1 Pro and M1 Max, rather than the more recent M2 variants, against which performance gains appear more modest. Hopefully we will learn more in time when the first thoroughgoing third-party benchmarks become available.<br/>
-<br/>
-The new MacBook Pro models are available to order now, and they will begin arriving to customers and launch in stores on Tuesday, November 7. Be sure to check out our <a href="https://www.macrumors.com/2023/10/30/apple-announces-m3-macbook-pros/">MacBook Pro announcement coverage</a> for all the details.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/m3/">M3</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/31/apple-m3-pro-less-memory-bandwidth/">Apple M3 Pro Chip Has 25% Less Memory Bandwidth Than M1/M2 Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-m3-pro-chip-has-25-less-memory-bandwidth-than-m1-m2-pro.2409344/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>New 14-Inch and 16-Inch MacBook Pros Feature 20% Brighter Displays</title>
-		<link>https://www.macrumors.com/2023/10/30/new-macbook-pros-20-percent-brighter-displays/</link>
-		<comments>https://forums.macrumors.com/threads/new-14-inch-and-16-inch-macbook-pros-feature-20-brighter-displays.2409281/</comments>
-		<pubDate>Mon, 30 Oct 2023 19:11:08 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/30/new-macbook-pros-20-percent-brighter-displays/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
-		<category>October 2023 Apple Event</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/2023/10/30/apple-announces-m3-macbook-pros/">new 14-inch and 16-inch MacBook Pro models</a> announced by Apple today feature 20% brighter displays for standard content, according to Apple.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/m3-mbp-space-black.jpg" alt="" width="1440" height="810" class="aligncenter size-full wp-image-919466" /><br/>
-Apple's <a href="https://www.apple.com/macbook-pro/specs/">tech specs</a> for the laptops indicate that all of the latest 14-inch and 16-inch MacBook Pro models provide up to 600 nits of peak brightness for SDR content, which is a 20% increase over the 500 nits maximum on the previous models. For HDR content, all of the models can achieve peak brightness of up to 1,600 nits, which is unchanged.<br/>
-<br/>
-"The Liquid Retina XDR display is the world's best laptop display, with an exceptional 1000 nits sustained and 1600 nits of peak brightness for HDR content, impressive contrast ratio, vivid colors, and an outstanding viewing angle," said Apple. "SDR content is now displayed at up to 600 nits, which is 20 percent brighter than before."<br/>
-<br/>
-The new MacBook Pro models are available to order starting today, and they will begin arriving to customers and launch in stores on Tuesday, November 7. Read our <a href="https://www.macrumors.com/2023/10/30/apple-announces-m3-macbook-pros/">MacBook Pro announcement coverage</a> for more details about the laptops.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/october-2023-apple-event/">October 2023 Apple Event</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/30/new-macbook-pros-20-percent-brighter-displays/">New 14-Inch and 16-Inch MacBook Pros Feature 20% Brighter Displays</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-14-inch-and-16-inch-macbook-pros-feature-20-brighter-displays.2409281/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Everything Apple Announced During Monday&#039;s &#039;Scary Fast&#039; Event</title>
-		<link>https://www.macrumors.com/2023/10/30/everything-apple-announced-october-2023-event/</link>
-		<comments>https://forums.macrumors.com/threads/everything-apple-announced-during-mondays-scary-fast-event.2409277/</comments>
-		<pubDate>Mon, 30 Oct 2023 18:47:34 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/30/everything-apple-announced-october-2023-event/</guid>
-		<dc:creator>Juli Clover</dc:creator>
+		<title>Apple Silicon Buyer&#039;s Guide: All the Differences Explained</title>
+		<link>https://www.macrumors.com/guide/apple-silicon-buyers-guide/</link>
+		<comments>https://forums.macrumors.com/threads/apple-silicon-buyers-guide-all-the-differences-explained.2395320/</comments>
+		<pubDate>Tue, 31 Oct 2023 07:00:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/apple-silicon-buyers-guide&#038;post_date=1698771600/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Buyer's Guide</category>
 		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple's "Scary Fast" 5:00 p.m. Pacific Time event was over in the blink of an eye, but if you missed it because of the unusual time, we have a quick overview of everything that Apple announced. If you want to watch the video in full, it only lasted a half an hour, because all Apple introduced was the new M3-series chips in MacBook Pro machines and iMacs.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/jmFCJYyiirE" title="Everything Apple Announced at Tonight&#39;s &#39;Scary Fast&#39; Event!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-We've recapped everything that you need to know in this super quick video you can watch before bed or catch in the morning, and we've also rounded up our coverage of the event.<br/>
-<br/>
-<h2>MacBook Pro</h2><br/>
-<ul><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/apple-announces-m3-macbook-pros/">Apple Announces New 14-Inch and 16-Inch MacBook Pro Models With M3 Series Chips</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/apple-unveils-new-space-black-color-for-m3-pro-and-m3-max-macbook-pro/">Apple Unveils New Space Black MacBook Pro Color for M3 Pro and M3 Max</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/m3-macbook-pro-and-imac-orders-available/">New M3 MacBook Pro and iMac Models Now Available for Purchase</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/m3-macbook-pro-models-battery-life/">Apple's New MacBooks With M3 Chips Offer Up to 22 Hours of Battery Life</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/maxed-out-16-inch-macbook-pro-price/">16-Inch M3 Max MacBook Pro Now Costs &#36;7,200 With All Upgrades</a></li><br/>
-        <li><a href="https://www.macrumors.com/2023/10/30/new-macbook-pros-20-percent-brighter-displays/">New 14-Inch and 16-Inch MacBook Pros Feature 20% Brighter Displays</a></li><br/>
-</ul><br/>
-<h2>iMac</h2><br/>
-<ul><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/apple-announces-imac-with-m3-chip/">Apple Announces New iMac With M3 Chip</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/imac-max-memory-wi-fi-6e/">M3 iMac Gains More Maximum Memory, Wi-Fi 6E and Bluetooth 5.3</a></li><br/>
-</ul><br/>
-<h2>Everything Else</h2><br/>
-<ul><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/apple-event-live-blog-october-2023/">Apple Event Live Blog: MacBook Pro and iMac Updated With New M3 Chip Family</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/apple-discontinues-13-inch-macbook-pro/">Apple Discontinues 13-Inch MacBook Pro With Touch Bar</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/magic-accessories-still-feature-lightning/">Magic Keyboard, Magic Trackpad, and Magic Mouse Still Feature Lightning Instead of USB-C</a></li><br/>
- 	<li><a href="https://www.macrumors.com/2023/10/30/usb-c-to-magsafe-3-cable-space-black/">Apple's USB-C to MagSafe 3 Cable Now Available to Order in Space Black</a></li><br/>
-</ul><br/>
-The M3 <a href="https://www.macrumors.com/roundup/imac/">iMac</a> and MacBook Pro models can be ordered now, with the first orders set to ship out to customers next week. The M3 and M3 Pro machines will be available immediately, while M3 Max machines will ship out later in November.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/30/everything-apple-announced-october-2023-event/">Everything Apple Announced During Monday&#039;s &#039;Scary Fast&#039; Event</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-apple-announced-during-mondays-scary-fast-event.2409277/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>16-Inch M3 Max MacBook Pro Now Costs &#36;7,200 With All Upgrades</title>
-		<link>https://www.macrumors.com/2023/10/30/maxed-out-16-inch-macbook-pro-price/</link>
-		<comments>https://forums.macrumors.com/threads/16-inch-m3-max-macbook-pro-now-costs-7-200-with-all-upgrades.2409274/</comments>
-		<pubDate>Mon, 30 Oct 2023 18:34:30 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/30/maxed-out-16-inch-macbook-pro-price/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
-		
-
-		<description><![CDATA[Apple's top-of-the-line 16-inch M3 Max MacBook Pro costs &#36;7,200 when you opt for all upgrades. Pricing used to top out at &#36;6,499, but with support for 128GB Unified Memory, maximum memory now costs &#36;1,000.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/m3-macbook-pro-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-919526" /><br/>
-The highest-end 16-inch MacBook Pro has a base cost of &#36;4,000 with 16-core CPU, 40-core GPU, 48GB Unified memory, and 1TB SSD. Fully upgrading the memory costs &#36;1,000, while opting for an 8TB SSD adds another &#36;2,200. The 14-inch MacBook Pro can be purchased with the same upgraded specs for &#36;6,899.<br/>
-<br/>
-128GB Unified Memory is only available with the M3 Max chip. The M3 chip is limited to 24GB Unified Memory like the <a href="https://www.macrumors.com/guide/m2/">M2</a> chip, while the &zwnj;M2&zwnj; Pro supports up to 36GB Unified Memory.<br/>
-<br/>
-The new MacBook Pro models can be <a href="https://www.apple.com/shop/buy-mac/macbook-pro">ordered now from Apple's online store</a>. The M3 and M3 Pro models will ship out to customers next week, while the M3 Max models will be coming later in November.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/30/maxed-out-16-inch-macbook-pro-price/">16-Inch M3 Max MacBook Pro Now Costs &#36;7,200 With All Upgrades</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/16-inch-m3-max-macbook-pro-now-costs-7-200-with-all-upgrades.2409274/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>M3 iMac Gains More Maximum Memory, Wi-Fi 6E and Bluetooth 5.3</title>
-		<link>https://www.macrumors.com/2023/10/30/imac-max-memory-wi-fi-6e/</link>
-		<comments>https://forums.macrumors.com/threads/m3-imac-gains-more-maximum-memory-wi-fi-6e-and-bluetooth-5-3.2409269/</comments>
-		<pubDate>Mon, 30 Oct 2023 18:15:49 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/10/30/imac-max-memory-wi-fi-6e/</guid>
-		<dc:creator>Juli Clover</dc:creator>
 		<category>iMac</category>
+		<category>Mac Studio</category>
+		<category>MacBook Air 15&quot;</category>
+		<category>MacBook Pro 13&quot;</category>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		<category>MacBook Air 13&quot;</category>
+		<category>Mac mini</category>
+		<category>Mac Pro</category>
+		<category>Apple Silicon</category>
 		
 
-		<description><![CDATA[Apple's 24-inch <a href="https://www.macrumors.com/roundup/imac/">iMac</a> has been updated with the new M3 chip that offers notable speed improvements over the prior <a href="https://www.macrumors.com/guide/m1/">M1</a>, but as it has not been refreshed since 2021, there are also a few other new features. <br/>
+		<description><![CDATA[Choosing a new Mac often involves consideration of the many Apple silicon chips now on offer, so our comprehensive guide covers their generations, variations, and performance benchmarks to help you decide which is best for you.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2023/10/iMac-M3-Blue-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-917291" /><br/>
-The machine's design has not been updated, and it comes in the same colors, but the more advanced M3 chip allows the 24-inch &zwnj;iMac&zwnj; to be outfitted with up to 24GB Unified Memory, up from the 16GB maximum in the &zwnj;M1&zwnj; version.<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/Mac-Chip-Comparison-Buyers-Guide-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-902570" /><br/>
+After iterating for over a decade in the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, Apple in 2020 brought its custom silicon chip technology to the Mac, enabling major performance and power efficiency improvements. Since then, Apple silicon has expanded to every Mac model, spurring new designs and capabilities that were previously impossible.<br/>
 <br/>
-Apple has also added Wi-Fi 6E support to allow the &zwnj;iMac&zwnj; to connect to 6GHz networks, and it supports the Bluetooth 5.3 protocol for improved connectivity and range. <br/>
+<img src="https://images.macrumors.com/article-new/2023/07/Apple-M3-chip-series.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-920046" /><br/>
 <br/>
-The M3 &zwnj;iMac&zwnj; still comes in two-port and four-port varieties with the latter featuring an extra two USB 3 ports. The two-port model has an 8-core CPU and 8-core GPU, while the four-port model has an 8-core GPU and 10-core GPU. The version with more ports also supports up to 2TB of storage, while the two-port model is limited to 1TB.<br/>
+Understanding the distinctions between Apple silicon chips will help you make an informed decision when selecting the right Mac for your needs. There have been three generations of Apple silicon for the Mac, each with up to four different chip variants. The main differences between the four different chip variants are as follows:<br/>
 <br/>
-Pricing on the M3 &zwnj;iMac&zwnj; starts at &#36;1,299 for the two Thunderbolt port model, while the model with two Thunderbolt ports and two USB 3 ports is priced starting at &#36;1,499. Apple is accepting orders today, with the new machines set to arrive to customers next week. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/imac/">iMac</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/10/30/imac-max-memory-wi-fi-6e/">M3 iMac Gains More Maximum Memory, Wi-Fi 6E and Bluetooth 5.3</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m3-imac-gains-more-maximum-memory-wi-fi-6e-and-bluetooth-5-3.2409269/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<ul><br/>
+<li><strong>M1, M2, and M3</strong>: Standard Apple silicon chip with a balance of performance and power-efficiency. </li><br/>
+<li><strong>M1 Pro, M2 Pro, and M3 Pro</strong>: Apple silicon chip with additional high-performance CPU cores. The <a href="https://www.macrumors.com/guide/m1-pro/">M1 Pro</a> and <a href="https://www.macrumors.com/guide/m2/">M2</a> Pro feature twice the memory bandwidth of the &zwnj;M2&zwnj; and M3 chips (200GB/s), while the M3 Pro features 50% more memory bandwidth than the &zwnj;M2&zwnj; and M3 chips (150GB/s).</li><br/>
+<li><strong>M1 Max, M2 Max, and M3 Max</strong>: Doubles the GPU cores of the &zwnj;M1 Pro&zwnj;, &zwnj;M2&zwnj; Pro, or M3 Pro and features up to twice the memory bandwidth (400GB/s) of the &zwnj;M1 Pro&zwnj; or &zwnj;M2&zwnj; Pro chips for better graphics performance. M3 Max also adds extra CPU cores.</li><br/>
+<li><strong>M1 Ultra and M2 Ultra</strong>: Encompasses two <a href="https://www.macrumors.com/guide/m1-max/">M1 Max</a> or &zwnj;M2&zwnj; Max chips for double overall CPU and GPU performance, as well as twice the memory bandwidth (800GB/s).</li><br/>
+</ul><br/>
+<br/>
+<h3 id="apple_silicon_generations">Apple Silicon Generations</h3><br/>
+With the introduction of the &zwnj;M2&zwnj; series of chips in 2022 and M3 series of chips in 2023, Apple made some key improvements over the initial <a href="https://www.macrumors.com/guide/m1/">M1</a> series from 2020.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/06/m1-vs-m2-macbook-pro.jpg" alt="" width="2000" height="1125" class="alignnone size-full wp-image-851913" /><br/>
+The below table provides a comparison between the &zwnj;M1&zwnj;, &zwnj;M2&zwnj;, and M3 series, highlighting differences in the chips they are based on, node, CPU clock speed, Neural Engines, and more:<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj; Series</th><br/>
+ <th>&zwnj;M2&zwnj; Series</th><br/>
+ <th>M3 Series</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Based on A14 Bionic chip from &zwnj;iPhone&zwnj; 12 (2020)</td><br/>
+ <td>Based on A15 Bionic chip from <a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a> (2021)</td><br/>
+ <td>Based on A17 Pro chip from <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> (2023)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>5nm node (N5)</td><br/>
+ <td>Enhanced 5nm node (N5P)</td><br/>
+ <td><a href="https://www.macrumors.com/guide/3nm/">3nm</a> node (N3E)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>3.20 GHz CPU clock speed</td><br/>
+ <td>3.49 GHz CPU clock speed</td><br/>
+ <td>4.05 GHz CPU clock speed</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>High-performance "Firestorm" and energy-efficient "Icestorm" cores</td><br/>
+ <td>High-performance "Avalanche" and energy-efficient "Blizzard" cores</td><br/>
+ <td>TBC</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Neural Engine</td><br/>
+ <td>40% faster Neural Engine</td><br/>
+ <td>15% faster Neural Engine</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Video decode engine</td><br/>
+ <td>Higher-bandwidth video decode engine</td><br/>
+ <td></td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>Support for AV1 decode</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>New GPU architecture</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>Dynamic Caching</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>Hardware-accelerated ray tracing</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>Hardware-accelerated mesh shading</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Image signal processor (ISP)</td><br/>
+ <td>New image signal processor (ISP)</td><br/>
+ <td>Same ISP as &zwnj;M2&zwnj;</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Launched November 2020 to March 2022</td><br/>
+ <td>Launched June 2022 to early 2024</td><br/>
+ <td>Launched starting November 2023</td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/M3-chip-series-Neural-Engine-performance.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-920048" /><br/>
+<br/>
+The standard &zwnj;M2&zwnj; chip also features several additional changes over its &zwnj;M1&zwnj; predecessor that are worth noting:<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>68.25GB/s memory bandwidth</td><br/>
+ <td>100GB/s memory bandwidth</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Media engine for hardware-accelerated H.264 and HEVC</td><br/>
+ <td>Media engine for hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td>ProRes encode and decode engine</td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+All Apple silicon chips other than the &zwnj;M1&zwnj; chip contain media engines for hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW video. The M3 chip also adds support for AV1 decode.<br/>
+<br/>
+<h3 id="devices">Devices</h3><br/>
+Each Apple silicon chip is only available in a select number of Apple devices. The standard &zwnj;M1&zwnj; and &zwnj;M2&zwnj; chips are present in a large number of laptop and desktop devices, several &zwnj;iPad&zwnj; models, and even the upcoming Vision Pro headset, owing to their requirement for a balance of performance and efficiency. On the other hand, the &zwnj;M2&zwnj; Ultra, Apple's most powerful custom silicon chip to date, is only available in the high-end <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a> and <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a>.<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td><a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> (2020)<br/>
+<a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> (2020)<br/>
+MacBook Pro (13-inch, 2020)<br/>
+<a href="https://www.macrumors.com/roundup/imac/">iMac</a> (2021)<br/>
+<a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> (2021)<br/>
+<a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> (2022)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, 2021)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, 2021)<br/>
+&zwnj;Mac Studio&zwnj; (2022)</td><br/>
+ <td>&zwnj;Mac Studio&zwnj; (2022)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>&zwnj;MacBook Air&zwnj; (2022, 2023)<br/>
+MacBook Pro (13-inch, 2022)<br/>
+&zwnj;iPad Pro&zwnj; (2022)<br/>
+Mac Mini (2023)<br/>
+Vision Pro (2024)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, early 2023)<br/>
+&zwnj;Mac mini&zwnj; (2023)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, early 2023)<br/>
+&zwnj;Mac Studio&zwnj; (2023)</td><br/>
+ <td>&zwnj;Mac Studio&zwnj; (2023)<br/>
+&zwnj;Mac Pro&zwnj; (2023)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>MacBook Pro (14-inch, late 2023)<br/>
+&zwnj;iMac&zwnj; (2023)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, late 2023)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, late 2023)</td><br/>
+ <td></td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+<h3 id="cpu_and_gpu_cores">CPU and GPU Cores</h3><br/>
+CPU cores are individual processing units within a Central Processing Unit (CPU) responsible for executing instructions and performing general-purpose tasks, while GPU cores are specialized units within a Graphics Processing Unit (GPU) designed for parallel processing and graphics-intensive tasks.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2013/09/m1-max-chip.jpg" alt="" width="2143" height="1248" class="alignnone size-full wp-image-821786" /><br/>
+The number of CPU and GPU cores in an Apple silicon chip impacts the performance and multitasking capabilities of a Mac, with more cores leading to faster and more efficient execution of tasks, especially in intensive workloads. The table below presents a comparison of the core configurations and GPU specifications for the different variants of the &zwnj;M1&zwnj; and &zwnj;M2&zwnj; chips:<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>4 high-performance cores<br/>
+4 energy-efficient cores<br/>
+7- or 8-core GPU</td><br/>
+ <td>6 or 8 high-performance cores<br/>
+2 energy-efficient cores<br/>
+14- or 16-core GPU</td><br/>
+ <td>8 high-performance cores<br/>
+2 energy-efficient cores<br/>
+24- or 32-core GPU</td><br/>
+ <td>16 high-performance cores<br/>
+4 energy-efficient cores<br/>
+48- or 64-core GPU</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>4 high-performance cores<br/>
+4 energy-efficient cores<br/>
+8- or 10-core GPU</td><br/>
+ <td>6 or 8 high-performance cores<br/>
+4 energy-efficient cores<br/>
+16- or 19-core GPU</td><br/>
+ <td>8 high-performance cores<br/>
+4 energy-efficient cores<br/>
+30- or 38-core GPU</td><br/>
+ <td>16 high-performance cores<br/>
+8 energy-efficient cores<br/>
+60- or 76-core GPU</td><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>4 high-performance cores<br/>
+4 energy-efficient cores<br/>
+8- or 10-core GPU</td><br/>
+ <td>7 or 8 high-performance cores<br/>
+4 energy-efficient cores<br/>
+16- or 19-core GPU</td><br/>
+ <td>10 or 12 high-performance cores<br/>
+4 energy-efficient cores<br/>
+30- or 38-core GPU</td><br/>
+ <td></td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+Deciding how many CPU cores you need depends on the specific tasks and workflows you intend to perform on your Mac. For example, if you primarily engage in basic tasks like web browsing, document editing, and media consumption, an eight-core chip should suffice. On the other hand, if you work with demanding workloads like software development, opting for a higher core count can provide significant performance benefits. Similarly, graphics-intense workflows like video editing, 3D modeling, or gaming will benefit from additional GPU cores.<br/>
+<br/>
+<h3 id="benchmarks">Benchmarks</h3><br/>
+Computer benchmark scores are standardized measurements that evaluate the performance of chips, providing a numerical representation for comparing capabilities and assessing performance against industry standards.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/M3-chip-series-performance-cores-comparison.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-920049" /><br/>
+<br/>
+The data on the below table is calculated from Geekbench 6 <a href="https://browser.geekbench.com/mac-benchmarks">results users uploaded to Geekbench</a>. Geekbench 6 scores are calibrated against a baseline score of 2,500 (which is the score of an Intel Core i7-12700 performing the same task).<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/M3-chip-series-efficiency-cores-comparison.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-920047" /><br/>
+<br/>
+The below Geekbench 6 scores show the range from the lowest specification chip in the least powerful Mac to the highest specification chip in the most powerful Mac. All scores are rounded to the nearest 10.<br/>
+<br/>
+<strong>Single-Core Benchmarks</strong><br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>2,330–2,350</td><br/>
+ <td>2,360–2,370</td><br/>
+ <td>2,380–2,400</td><br/>
+ <td>2,384</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>2,570–2,630</td><br/>
+ <td>2,640–2,650</td><br/>
+ <td>2,740–2,800</td><br/>
+ <td>2760–2,770</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>TBC</td><br/>
+ <td>TBC</td><br/>
+ <td>TBC</td><br/>
+ <td></td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+<strong>Multi-Core Benchmarks</strong><br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>8,250–8,390</td><br/>
+ <td>10,300–12,200</td><br/>
+ <td>12,180–12,430</td><br/>
+ <td>17,810</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>9,630–9,650</td><br/>
+ <td>12,100–14,250</td><br/>
+ <td>14,500–14,810</td><br/>
+ <td>21,180–21,320</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>TBC</td><br/>
+ <td>TBC</td><br/>
+ <td>TBC</td><br/>
+ <td></td><br/>
+ </tr><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+<strong>Metal Benchmarks</strong><br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>29,450–32,030</td><br/>
+ <td>61,870–65,910</td><br/>
+ <td>103,122–112,940</td><br/>
+ <td>154,190</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>41,300–45,550</td><br/>
+ <td>72,360–81,430</td><br/>
+ <td>137,530–144,380</td><br/>
+ <td>202,640–220,080</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>TBC</td><br/>
+ <td>TBC</td><br/>
+ <td>TBC</td><br/>
+ <td></td><br/>
+ </tr><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+Both the &zwnj;M1&zwnj;, &zwnj;M2&zwnj;, and M3 chips demonstrate performance improvements in single-core and multi-core tasks as you move from the base to the Ultra variants, with the M3 chip showcasing even higher performance across the board. Nevertheless, it is worth noting that benchmarks do not tell the whole story. Benchmarks focus on specific tasks and synthetic workloads, and do not always accurately capture real-world usage scenarios and variations.<br/>
+<br/>
+<h3 id="unified_memory">Unified Memory</h3><br/>
+Apple silicon chips have a unified memory architecture, meaning that the RAM is tied directly to the processor for maximum speed and efficiency. This means that the chip you choose determines what memory option are available, and it is not upgradable at a later date. <br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>8GB<br/>
+16GB</td><br/>
+ <td>16GB<br/>
+32GB</td><br/>
+ <td>32GB<br/>
+64GB</td><br/>
+ <td>64GB<br/>
+128GB</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>8GB<br/>
+16GB<br/>
+24GB</td><br/>
+ <td>16GB<br/>
+32GB</td><br/>
+ <td>32GB<br/>
+64GB<br/>
+96GB</td><br/>
+ <td>64GB<br/>
+128GB<br/>
+192GB</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>8GB<br/>
+16GB<br/>
+32GB</td><br/>
+ <td>18GB<br/>
+36GB</td><br/>
+ <td>36GB<br/>
+48GB<br/>
+64GB<br/>
+96GB<br/>
+128GB</td><br/>
+ <td></td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+Deciding how much RAM you need depends on your specific tasks and usage patterns. 8GB should be enough for most users, but upgrading to 16GB or 24GB could be sensible for users with more intense multitasking requirements. Amounts of memory beyond 32GB are generally reserved for seriously demanding workflows.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/M3-chip-series-unified-memory-architecture.jpg" alt="" width="2400" height="1350" class="alignnone size-full wp-image-920050" /><br/>
+<br/>
+<h3 id="final_thoughts">Final Thoughts</h3><br/>
+Overall, if you are new to Apple silicon and are still not sure which chip to buy, use the following rationale:<br/>
+<br/>
+<ul><br/>
+<li><strong>Buy M1, M2, or M3 if...</strong> you need a good balance of price, performance, and battery life and have normal day-to-day computing requirements.</li><br/>
+<li><strong>Buy M1 Pro, M2 Pro, or M3 Pro if...</strong> you need a performance-focused chip for slightly more intense workflows.</li><br/>
+<li><strong>Buy M1 Max, M2 Max, or M3 Max if...</strong> you need additional graphics performance for working with images, videos, graphic design, or games.</li><br/>
+<li><strong>Buy M1 Ultra or M2 Ultra if...</strong> you need the best possible overall performance for extremely intense professional workflows.</li><br/>
+</ul><br/>
+<br/>
+It is generally not worth upgrading from any of the individual &zwnj;M1&zwnj; chips to their direct successors and it may be better to wait for Apple to launch the M4 series of chips at some point in the next couple of years before upgrading.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a>, <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, <a href="https://www.macrumors.com/roundup/macbook-pro-13/">MacBook Pro 13"</a>, <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a>, <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a>, <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#Mac-Studio">Mac Studio (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_13">13" MacBook Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#Mac_Pro">Mac Pro (Buy Now)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a>, <a href="https://forums.macrumors.com/forums/mac-studio.237">Mac Studio</a>, <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a>, <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a>, <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a>, <a href="https://forums.macrumors.com/forums/mac-pro.1">Mac Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/apple-silicon-buyers-guide/">Apple Silicon Buyer&#039;s Guide: All the Differences Explained</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-silicon-buyers-guide-all-the-differences-explained.2395320/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
