@@ -14,12 +14,546 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 07 Nov 2023 08:02:20 PST</lastBuildDate>
+	<lastBuildDate>Tue, 07 Nov 2023 12:02:11 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Briefly Paused Work on New Features for iOS 18 and macOS 15 to Clean Up Bugs</title>
+		<link>https://www.macrumors.com/2023/11/07/apple-engineers-ios-18-bug-fix-focus/</link>
+		<comments>https://forums.macrumors.com/threads/apple-briefly-paused-work-on-new-features-for-ios-18-and-macos-15-to-clean-up-bugs.2410180/</comments>
+		<pubDate>Tue, 07 Nov 2023 09:40:41 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/07/apple-engineers-ios-18-bug-fix-focus/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple briefly paused work on upcoming iOS 18, macOS 15, watchOS 11, and tvOS 18 updates last week in order to make a serious effort to address bugs in the future <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, Apple Watch, <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> and Mac releases, according to <a href="https://www.bloomberg.com/news/articles/2023-11-07/apple-delays-work-on-ios-18-macos-15-watchos-11-due-to-problems-with-bugs"><em>Bloomberg</em>'s Mark Gurman</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iOS-18-Mock-Feature-Baubles.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-909207" /><br/>
+Employees were told about a development pause last week, with engineers asked to focus on fixing flaws and boosting software performance.<br/>
+<br/>
+Apple's software chief Craig Federighi has been making an effort in recent years to ensure that software bugs are addressed, sometimes resulting in features that need to be delayed. Sources that spoke to Gurman said that with the upcoming software updates, the software engineering management team working under Federighi found too many bugs that were missed in internal testing, leading to a week-long sprint to address the issues.<br/>
+<br/>
+During that week period, all development on future features was stopped to allow engineers to work solely on improving the existing software. Apple is lifting the pause this week so that work on new capabilities for iOS 18 and its sister updates can continue.<br/>
+<br/>
+Apple last month finished the first "<a href="https://www.macrumors.com/guide/m1/">M1</a>" versions of iOS 18, iPadOS 18, and macOS 15. Work on further development was paused, with Apple also taking a brief break from working on iOS 17.4, expected to be released next March. Given that work on future software was only paused for a week, no release delays are expected next year. <br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/07/apple-engineers-ios-18-bug-fix-focus/">Apple Briefly Paused Work on New Features for iOS 18 and macOS 15 to Clean Up Bugs</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-briefly-paused-work-on-new-features-for-ios-18-and-macos-15-to-clean-up-bugs.2410180/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Silicon Buyer&#039;s Guide: Which Chip Should You Choose?</title>
+		<link>https://www.macrumors.com/guide/apple-silicon-buyers-guide/</link>
+		<comments>https://forums.macrumors.com/threads/apple-silicon-buyers-guide-which-chip-should-you-choose.2395320/</comments>
+		<pubDate>Tue, 07 Nov 2023 08:50:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/apple-silicon-buyers-guide&#038;post_date=1699386600/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Buyer's Guide</category>
+		<category>Featured</category>
+		<category>iMac</category>
+		<category>Mac Studio</category>
+		<category>MacBook Air 15&quot;</category>
+		<category>MacBook Pro 13&quot;</category>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		<category>MacBook Air 13&quot;</category>
+		<category>Mac mini</category>
+		<category>Mac Pro</category>
+		<category>Apple Silicon</category>
+		
+
+		<description><![CDATA[Choosing a new Mac often involves consideration of the many Apple silicon chips now on offer, so our comprehensive guide covers their generations, variations, and performance benchmarks to help you decide which is best for you.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/Mac-Chip-Comparison-Buyers-Guide-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-902570" /><br/>
+After iterating for over a decade in the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, Apple in 2020 brought its custom silicon chip technology to the Mac, enabling major performance and power efficiency improvements. Since then, Apple silicon has expanded to every Mac model, spurring new designs and capabilities that were previously impossible.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/Apple-M3-chip-series.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-920046" /><br/>
+<br/>
+Understanding the distinctions between Apple silicon chips will help you make an informed decision when selecting the right Mac for your needs. There have been three generations of Apple silicon for the Mac, each with up to four different chip variants. The main differences between the four different chip variants are as follows:<br/>
+<br/>
+<ul><br/>
+<li><strong>M1, M2, and M3</strong>: Standard Apple silicon chip with a balance of performance and power-efficiency. </li><br/>
+<li><strong>M1 Pro, M2 Pro, and M3 Pro</strong>: Apple silicon chip with additional high-performance CPU cores. The <a href="https://www.macrumors.com/guide/m1-pro/">M1 Pro</a> and <a href="https://www.macrumors.com/guide/m2/">M2</a> Pro feature twice the memory bandwidth of the &zwnj;M2&zwnj; and M3 chips (200GB/s), while the M3 Pro features 50% more memory bandwidth than the &zwnj;M2&zwnj; and M3 chips (150GB/s).</li><br/>
+<li><strong>M1 Max, M2 Max, and M3 Max</strong>: Doubles the GPU cores of the &zwnj;M1 Pro&zwnj;, &zwnj;M2&zwnj; Pro, or M3 Pro and features up to twice the memory bandwidth (400GB/s) of the &zwnj;M1 Pro&zwnj; or &zwnj;M2&zwnj; Pro chips for better graphics performance. M3 Max also adds extra CPU cores.</li><br/>
+<li><strong>M1 Ultra and M2 Ultra</strong>: Encompasses two <a href="https://www.macrumors.com/guide/m1-max/">M1 Max</a> or &zwnj;M2&zwnj; Max chips for double overall CPU and GPU performance, as well as twice the memory bandwidth (800GB/s).</li><br/>
+</ul><br/>
+<br/>
+<h3 id="apple_silicon_generations">Apple Silicon Generations</h3><br/>
+With the introduction of the &zwnj;M2&zwnj; series of chips in 2022 and M3 series of chips in 2023, Apple made some key improvements over the initial <a href="https://www.macrumors.com/guide/m1/">M1</a> series from 2020.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/Apple-M3-chip-series-architecture.jpg" alt="" width="2400" height="1350" class="alignnone size-full wp-image-920045" /><br/>
+The below table provides a comparison between the &zwnj;M1&zwnj;, &zwnj;M2&zwnj;, and M3 series, highlighting differences in the chips they are based on, node, CPU clock speed, Neural Engines, and more:<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj; Series</th><br/>
+ <th>&zwnj;M2&zwnj; Series</th><br/>
+ <th>M3 Series</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Based on A14 Bionic chip from &zwnj;iPhone&zwnj; 12 (2020)</td><br/>
+ <td>Based on A15 Bionic chip from <a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a> (2021)</td><br/>
+ <td>Based on A17 Pro chip from <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> (2023)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>5nm node (N5)</td><br/>
+ <td>Enhanced 5nm node (N5P)</td><br/>
+ <td><a href="https://www.macrumors.com/guide/3nm/">3nm</a> node (N3B)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>3.20 GHz CPU clock speed</td><br/>
+ <td>3.49 GHz CPU clock speed</td><br/>
+ <td>4.05 GHz CPU clock speed</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Neural Engine</td><br/>
+ <td>40% faster Neural Engine</td><br/>
+ <td>15% faster Neural Engine</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Video decode engine</td><br/>
+ <td>Higher-bandwidth video decode engine</td><br/>
+ <td></td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>Support for AV1 decode</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>New GPU architecture</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>Dynamic Caching</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>Hardware-accelerated ray tracing</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td></td><br/>
+ <td>Hardware-accelerated mesh shading</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Image signal processor (ISP)</td><br/>
+ <td>New image signal processor (ISP)</td><br/>
+ <td>Same ISP as &zwnj;M2&zwnj;</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Launched November 2020 to March 2022</td><br/>
+ <td>Launched June 2022 to early 2024</td><br/>
+ <td>Launched starting November 2023</td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+The performance improvements seen with each iteration of Apple's Neural Engine is indicative of the generation-over-generation improvements that the company has been able to achieve with its custom silicon.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/M3-chip-series-Neural-Engine-performance.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-920048" /><br/>
+<br/>
+The standard &zwnj;M2&zwnj; chip also features several additional changes over the &zwnj;M1&zwnj; chip, its direct predecessor, that are worth noting:<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>68.25GB/s memory bandwidth</td><br/>
+ <td>100GB/s memory bandwidth</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Media engine for hardware-accelerated H.264 and HEVC</td><br/>
+ <td>Media engine for hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td></td><br/>
+ <td>ProRes encode and decode engine</td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+All Apple silicon chips other than the &zwnj;M1&zwnj; chip contain media engines for hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW video. The M3 chip also adds support for AV1 decode.<br/>
+<br/>
+Thanks to use of more advanced fabrication processes and larger surface areas, Apple has added more transistors to its M-series chips with each generation:<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>16 billion</td><br/>
+ <td>33.7 billion</td><br/>
+ <td>57 billion</td><br/>
+ <td>114 billion</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>20 billion</td><br/>
+ <td>40 billion</td><br/>
+ <td>67 billion</td><br/>
+ <td>134 billion</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>25 billion</td><br/>
+ <td>37 billion</td><br/>
+ <td>92 billion</td><br/>
+ <td></td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+<h3 id="devices">Devices</h3><br/>
+Each Apple silicon chip is only available in a select number of Apple devices. The standard &zwnj;M1&zwnj; and &zwnj;M2&zwnj; chips are present in a large number of laptop and desktop devices, several &zwnj;iPad&zwnj; models, and even the upcoming Vision Pro headset, owing to their requirement for a balance of performance and efficiency. On the other hand, the &zwnj;M2&zwnj; Ultra, Apple's most powerful custom silicon chip to date, is only available in the high-end <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a> and <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a>.<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td><a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> (2020)<br/>
+<a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> (2020)<br/>
+MacBook Pro (13-inch, 2020)<br/>
+<a href="https://www.macrumors.com/roundup/imac/">iMac</a> (2021)<br/>
+<a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> (2021)<br/>
+<a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> (2022)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, 2021)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, 2021)<br/>
+&zwnj;Mac Studio&zwnj; (2022)</td><br/>
+ <td>&zwnj;Mac Studio&zwnj; (2022)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>&zwnj;MacBook Air&zwnj; (2022, 2023)<br/>
+MacBook Pro (13-inch, 2022)<br/>
+&zwnj;iPad Pro&zwnj; (2022)<br/>
+Mac Mini (2023)<br/>
+Vision Pro (2024)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, early 2023)<br/>
+&zwnj;Mac mini&zwnj; (2023)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, early 2023)<br/>
+&zwnj;Mac Studio&zwnj; (2023)</td><br/>
+ <td>&zwnj;Mac Studio&zwnj; (2023)<br/>
+&zwnj;Mac Pro&zwnj; (2023)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>MacBook Pro (14-inch, late 2023)<br/>
+&zwnj;iMac&zwnj; (2023)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, late 2023)</td><br/>
+ <td>MacBook Pro (14-inch and 16-inch, late 2023)</td><br/>
+ <td></td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+<h3 id="cpu_and_gpu_cores">CPU and GPU Cores</h3><br/>
+CPU cores are individual processing units within a Central Processing Unit (CPU) responsible for executing instructions and performing general-purpose tasks, while GPU cores are specialized units within a Graphics Processing Unit (GPU) designed for parallel processing and graphics-intensive tasks.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2013/09/m1-max-chip.jpg" alt="" width="2143" height="1248" class="alignnone size-full wp-image-821786" /><br/>
+The number of CPU and GPU cores in an Apple silicon chip impacts the performance and multitasking capabilities of a Mac, with more cores leading to faster and more efficient execution of tasks, especially in intensive workloads. The table below presents a comparison of the core configurations and GPU specifications for the different variants of the &zwnj;M1&zwnj; and &zwnj;M2&zwnj; chips:<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>4 high-performance cores<br/>
+4 energy-efficient cores<br/>
+7- or 8-core GPU</td><br/>
+ <td>6 or 8 high-performance cores<br/>
+2 energy-efficient cores<br/>
+14- or 16-core GPU</td><br/>
+ <td>8 high-performance cores<br/>
+2 energy-efficient cores<br/>
+24- or 32-core GPU</td><br/>
+ <td>16 high-performance cores<br/>
+4 energy-efficient cores<br/>
+48- or 64-core GPU</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>4 high-performance cores<br/>
+4 energy-efficient cores<br/>
+8- or 10-core GPU</td><br/>
+ <td>6 or 8 high-performance cores<br/>
+4 energy-efficient cores<br/>
+16- or 19-core GPU</td><br/>
+ <td>8 high-performance cores<br/>
+4 energy-efficient cores<br/>
+30- or 38-core GPU</td><br/>
+ <td>16 high-performance cores<br/>
+8 energy-efficient cores<br/>
+60- or 76-core GPU</td><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>4 high-performance cores<br/>
+4 energy-efficient cores<br/>
+8- or 10-core GPU</td><br/>
+ <td>5 or 6 high-performance cores<br/>
+6 energy-efficient cores<br/>
+16- or 19-core GPU</td><br/>
+ <td>10 or 12 high-performance cores<br/>
+4 energy-efficient cores<br/>
+30- or 40-core GPU</td><br/>
+ <td></td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+Deciding how many CPU cores you need depends on the specific tasks and workflows you intend to perform on your Mac. For example, if you primarily engage in basic tasks like web browsing, document editing, and media consumption, an eight-core CPU should suffice. On the other hand, if you work with demanding workloads like software development, opting for a higher core count can provide significant performance benefits. Similarly, graphics-intense workflows like video editing, 3D modeling, or gaming will benefit from additional GPU cores.<br/>
+<br/>
+<h3 id="benchmarks">Benchmarks</h3><br/>
+Computer benchmark scores are standardized measurements that evaluate the performance of chips, providing a numerical representation for comparing capabilities and assessing performance against industry standards.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/M3-chip-series-performance-cores-comparison.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-920049" /><br/>
+<br/>
+The data on the below table is calculated from Geekbench 6 <a href="https://browser.geekbench.com/mac-benchmarks">results users uploaded to Geekbench</a>. Geekbench 6 scores are calibrated against a baseline score of 2,500 (which is the score of an Intel Core i7-12700 performing the same task).<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/M3-chip-series-efficiency-cores-comparison.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-920047" /><br/>
+<br/>
+The below Geekbench 6 scores show the range from the lowest specification chip in the least powerful Mac to the highest specification chip in the most powerful Mac it is offered in. All scores are rounded to the nearest 10 for simplicity.<br/>
+<br/>
+<strong>Single-Core Benchmarks</strong><br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>2,330–2,350</td><br/>
+ <td>2,360–2,370</td><br/>
+ <td>2,380–2,400</td><br/>
+ <td>2,384</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>2,570–2,630</td><br/>
+ <td>2,640–2,650</td><br/>
+ <td>2,740–2,800</td><br/>
+ <td>2,760–2,770</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>3,010</td><br/>
+ <td>3,120</td><br/>
+ <td>3,120</td><br/>
+ <td></td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+<strong>Multi-Core Benchmarks</strong><br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>8,250–8,390</td><br/>
+ <td>10,300–12,200</td><br/>
+ <td>12,180–12,430</td><br/>
+ <td>17,810</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>9,630–9,650</td><br/>
+ <td>12,100–14,250</td><br/>
+ <td>14,500–14,810</td><br/>
+ <td>21,180–21,320</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>11,763</td><br/>
+ <td>14,010–14,410</td><br/>
+ <td>19,160–21,215</td><br/>
+ <td></td><br/>
+ </tr><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+<strong>Metal Benchmarks</strong><br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>29,450–32,030</td><br/>
+ <td>61,870–65,910</td><br/>
+ <td>103,120–112,940</td><br/>
+ <td>154,190</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>41,300–45,550</td><br/>
+ <td>72,360–81,430</td><br/>
+ <td>137,530–144,380</td><br/>
+ <td>202,640–220,080</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>47,430</td><br/>
+ <td>68,330–77,070</td><br/>
+ <td>124,060–157,120</td><br/>
+ <td></td><br/>
+ </tr><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+The &zwnj;M1&zwnj;, &zwnj;M2&zwnj;, and M3 chips demonstrate performance improvements in single-core and multi-core tasks as you move from the base to the Ultra variants, with the M3 chip showcasing even higher performance across the board. Nevertheless, it is worth noting that benchmarks do not tell the whole story. Benchmarks focus on specific tasks and synthetic workloads, and do not always accurately capture real-world usage scenarios and variations.<br/>
+<br/>
+<h3 id="unified_memory">Unified Memory</h3><br/>
+Apple silicon chips have a unified memory architecture, meaning that the RAM is tied directly to the processor for maximum speed and efficiency. This means that the chip you choose determines what memory option are available, and it is not upgradable at a later date. <br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>(Standard)</th><br/>
+ <th>Pro</th><br/>
+ <th>Max</th><br/>
+ <th>Ultra</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M1&zwnj;</th><br/>
+ <td>8GB<br/>
+16GB</td><br/>
+ <td>16GB<br/>
+32GB</td><br/>
+ <td>32GB<br/>
+64GB</td><br/>
+ <td>64GB<br/>
+128GB</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>&zwnj;M2&zwnj;</th><br/>
+ <td>8GB<br/>
+16GB<br/>
+24GB</td><br/>
+ <td>16GB<br/>
+32GB</td><br/>
+ <td>32GB<br/>
+64GB<br/>
+96GB</td><br/>
+ <td>64GB<br/>
+128GB<br/>
+192GB</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>M3</th><br/>
+ <td>8GB<br/>
+16GB<br/>
+24GB</td><br/>
+ <td>18GB<br/>
+36GB</td><br/>
+ <td>36GB<br/>
+48GB<br/>
+64GB<br/>
+96GB<br/>
+128GB</td><br/>
+ <td></td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+Deciding how much RAM you need depends on your specific tasks and usage patterns. 8GB should be enough for most users, but upgrading to 16GB or 24GB could be sensible for users with more intense multitasking requirements. Amounts of memory beyond 32GB are generally reserved for seriously demanding workflows.<br/>
+<br/>
+<h3 id="final_thoughts">Final Thoughts</h3><br/>
+Overall, if you are new to Apple silicon and are still not sure which chip to buy, use the following rationale:<br/>
+<br/>
+<ul><br/>
+<li><strong>Buy M1, M2, or M3 if...</strong> you need a good balance of price, performance, and battery life and have normal day-to-day computing requirements.</li><br/>
+<li><strong>Buy M1 Pro, M2 Pro, or M3 Pro if...</strong> you need a performance-focused chip for slightly more intense workflows.</li><br/>
+<li><strong>Buy M1 Max, M2 Max, or M3 Max if...</strong> you need additional graphics performance for working with images, videos, graphic design, or games.</li><br/>
+<li><strong>Buy M1 Ultra or M2 Ultra if...</strong> you need the best possible overall performance for extremely intense professional workflows.</li><br/>
+</ul><br/>
+<br/>
+It is generally not worth upgrading from any of the individual &zwnj;M1&zwnj; chips to their direct successors and it may be better to wait for Apple to launch the M4 series of chips at some point in the next couple of years before upgrading if you are already an &zwnj;M2&zwnj; user.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a>, <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, <a href="https://www.macrumors.com/roundup/macbook-pro-13/">MacBook Pro 13"</a>, <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a>, <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a>, <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#Mac-Studio">Mac Studio (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_13">13" MacBook Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#Mac_Pro">Mac Pro (Buy Now)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a>, <a href="https://forums.macrumors.com/forums/mac-studio.237">Mac Studio</a>, <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a>, <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a>, <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a>, <a href="https://forums.macrumors.com/forums/mac-pro.1">Mac Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/apple-silicon-buyers-guide/">Apple Silicon Buyer&#039;s Guide: Which Chip Should You Choose?</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-silicon-buyers-guide-which-chip-should-you-choose.2395320/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>12.9-Inch iPad Pro With Mini-LED Display Expected to Be Discontinued Next Year</title>
+		<link>https://www.macrumors.com/2023/11/07/12-9-inch-ipad-pro-discontinued-2024-report/</link>
+		<comments>https://forums.macrumors.com/threads/12-9-inch-ipad-pro-with-mini-led-display-expected-to-be-discontinued-next-year.2410171/</comments>
+		<pubDate>Tue, 07 Nov 2023 08:43:05 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/07/12-9-inch-ipad-pro-discontinued-2024-report/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iPad Pro 12.9&quot;</category>
+		<category>TrendForce</category>
+		
+
+		<description><![CDATA[Apple plans to discontinue the 12.9-inch iPad Pro with mini-LED backlighting in 2024, according to a recent report from <a href="https://www.trendforce.com/presscenter/news/20231103-11903.html">Taiwanese research firm TrendForce</a>, suggesting that the tablet will not remain in the lineup for a reduced price following the launch of the rumored 13-inch iPad Pro with an OLED display next year.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/05/ipad-pro-m1-feature.jpg" alt="" width="1780" height="1001" class="aligncenter size-full wp-image-800056" /><br/>
+TrendForce:<blockquote>The shipment volume for Mini LED notebooks is estimated to decrease by approximately 39% YoY. Meanwhile, with the 12.9-inch iPad Pro expected to be discontinued in 2024, the shipment volume of Mini LED tablets is expected to decrease by about 15.6% YoY, making these two the only applications expected to decline.</blockquote>In December 2022, oft-accurate display industry analyst Ross Young was first to report that the 12.9-inch iPad Pro would be succeeded by a <a href="https://www.macrumors.com/2022/12/29/oled-ipads-2024/">slightly larger 13-inch model</a> with an OLED display. <em>Bloomberg</em>'s Mark Gurman expects new 11-inch and 13-inch iPad Pro models with <a href="https://www.macrumors.com/2023/09/03/gurman-new-ipad-magic-keyboard-to-feature-aluminum/">OLED displays, an M3 chip, and an aluminum Magic Keyboard</a> to launch next year.<br/>
+<br/>
+OLED display technology would allow for the next iPad Pro models to offer increased brightness, higher contrast ratio, greater color accuracy, and lower power consumption compared to the existing models with LCD panels. Young said Apple would be using very thin hybrid OLED displays with a combination of flexible and rigid materials, which could allow for the next iPad Pro models to have a slightly thinner design.<br/>
+<br/>
+iPad Pro models released since 2017 support ProMotion, allowing for a variable refresh rate between 24Hz and 120Hz. The switch to OLED would likely allow for the refresh rate to drop down even further to 10Hz or lower to save battery life. iPhone 14 Pro and iPhone 15 Pro models can reach as low as 1Hz while in always-on display mode.<br/>
+<br/>
+Apple is also <a href="https://www.macrumors.com/2023/11/05/all-ipads-expected-to-be-updated-in-2024/">expected to update the iPad Air, iPad mini, and entry-level iPad</a> in 2024, but none of those models are expected to switch to OLED next year. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/trendforce/">TrendForce</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#12-9-iPad-Pro">12.9" iPad Pro (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/07/12-9-inch-ipad-pro-discontinued-2024-report/">12.9-Inch iPad Pro With Mini-LED Display Expected to Be Discontinued Next Year</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/12-9-inch-ipad-pro-with-mini-led-display-expected-to-be-discontinued-next-year.2410171/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>High Power Mode Expands to 14-Inch MacBook Pro With M3 Max Chip</title>
+		<link>https://www.macrumors.com/2023/11/07/14-inch-macbook-pro-m3-max-high-power-mode/</link>
+		<comments>https://forums.macrumors.com/threads/high-power-mode-expands-to-14-inch-macbook-pro-with-m3-max-chip.2410165/</comments>
+		<pubDate>Tue, 07 Nov 2023 08:12:55 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/07/14-inch-macbook-pro-m3-max-high-power-mode/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		<category>High Power Mode</category>
+		
+
+		<description><![CDATA[Apple has expanded High Power Mode to the new 14-inch MacBook Pro with the M3 Max chip, according to <a href="https://sixcolors.com/post/2023/11/m3-macbook-pro-review-peak-performance/"><em>Six Colors</em> editor-in-chief Jason Snell</a>. The feature was previously only available on the 16-inch MacBook Pro with the M1 Max and M2 Max.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/High-Power-Mode-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921421" /><br/>
+"For some tests, I switched the MacBook Pro into High Power Mode, which is now available on both 14- and 16-inch models in the M3 Max configuration," wrote Snell, in his review of the new MacBook Pros. "I didn't actually find it made much of a difference in the tests I was running, but it sure did make the fans kick in at a very loud volume."<br/>
+<br/>
+In a <a href="https://support.apple.com/en-us/HT212852">support document</a>, Apple says High Power Mode allows a MacBook Pro's fans to run at higher speeds, and this additional cooling may allow the system to deliver higher performance for "intensive sustained workloads," such as 8K video color grading.<br/>
+<br/>
+On macOS Ventura and later, High Power Mode can be enabled in the System Settings app under Battery by clicking on the dropdown menus next to "On battery" or "On power adapter" and selecting the "High Power" option.<br/>
+<br/>
+<a href="https://9to5mac.com/2023/11/07/macos-high-power-mode-macbook-pro-settings/"><em>9to5Mac</em></a> was first to report this news.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/high-power-mode/">High Power Mode</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/07/14-inch-macbook-pro-m3-max-high-power-mode/">High Power Mode Expands to 14-Inch MacBook Pro With M3 Max Chip</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/high-power-mode-expands-to-14-inch-macbook-pro-with-m3-max-chip.2410165/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>The Best Early Black Friday iPad Deals</title>
@@ -536,198 +1070,6 @@ Geekbench 6 results from earlier this week showed that the M3 Max is <a href="ht
 As always, benchmarks provide a useful reference point, but real-world performance can vary.<br/>
 <br/>
 The new MacBook Pro models are available to order now, and M3 and M3 Pro configurations will begin arriving to customers and launch in stores on Tuesday, November 7. M3 Max configurations will launch a few days later.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/geekbench/">Geekbench</a>, <a href="https://www.macrumors.com/guide/benchmarks/">Benchmarks</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/05/m3-pro-chip-benchmark-result/">M3 Pro Chip Barely Faster Than M2 Pro in Unverified Benchmark Result</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m3-pro-chip-barely-faster-than-m2-pro-in-unverified-benchmark-result.2409903/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>watchOS Update Coming Soon With Fix for Apple Watch Battery Drain</title>
-		<link>https://www.macrumors.com/2023/11/04/watchos-update-to-fix-battery-drain-issue/</link>
-		<comments>https://forums.macrumors.com/threads/watchos-update-coming-soon-with-fix-for-apple-watch-battery-drain.2409877/</comments>
-		<pubDate>Sat, 04 Nov 2023 14:36:37 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/04/watchos-update-to-fix-battery-drain-issue/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Watch</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple is preparing a fix for an issue causing some Apple Watches to experience excessive battery drain after being updated to <a href="https://www.macrumors.com/2023/10/25/apple-releases-watchos-10-1/">watchOS 10.1</a>, the company said today in an internal memo shared with Apple Authorized Service Providers.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/04/watchOS-16x9.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-890854" /><br/>
-In the memo, which <em>MacRumors</em> obtained from multiple sources, Apple said the issue will be fixed in a watchOS update that is "coming soon." Apple did not provide any additional details in the memo, so it is unclear what the underlying cause of the issue is, how many customers are affected, and if every Apple Watch model is impacted.<br/>
-<br/>
-There have been complaints about this issue from customers across the <a href="https://forums.macrumors.com/threads/apple-releases-watchos-10-1-with-double-tap-namedrop-and-more.2408650/post-32666614">MacRumors Forums</a>, <a href="https://discussions.apple.com/thread/255241541">Apple Support Community</a>, <a href="https://www.reddit.com/r/watchos/comments/17gpob9/101_battery_drain/">Reddit</a>, and <a href="https://twitter.com/Martin_J_Cooper/status/1720728159681704166">X</a> since watchOS 10.1 was released in late October. The issue seems to affect a variety of Apple Watches, ranging from older models like the Apple Watch Series 5 to the latest Apple Watch Ultra 2.<br/>
-<br/>
-"WatchOS 10.1 is killing the battery on my Apple Watch," wrote customer Martin Cooper on X. "100% to 50% in less than 60 mins."<br/>
-<br/>
-Apple's developer release notes for iOS 17.1 <a href="https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_1-release-notes#Power">said</a> that update fixed an issue where "increased power consumption might occur" when an Apple Watch running watchOS 10.1 is paired with an iPhone running iOS 17, but evidently the Apple Watch battery drain issue has not been completely fixed, so a watchOS update will be necessary.<br/>
-<br/>
-<em>MacRumors</em> recently reported that Apple is <a href="https://www.macrumors.com/2023/11/02/ios-17-1-1-is-coming/">preparing to release iOS 17.1.1</a> for the iPhone, and it is likely that the Apple Watch battery drain issue will be fixed in a watchOS 10.1.1 update. However, it is possible that the fix might not arrive until watchOS 10.2, which is currently in beta testing and is expected to be released in December.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/04/watchos-update-to-fix-battery-drain-issue/">watchOS Update Coming Soon With Fix for Apple Watch Battery Drain</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/watchos-update-coming-soon-with-fix-for-apple-watch-battery-drain.2409877/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The Best Early Black Friday iPhone Deals</title>
-		<link>https://www.macrumors.com/guide/best-black-friday-iphone-deals/</link>
-		<comments>https://forums.macrumors.com/threads/the-best-early-black-friday-iphone-deals.2409875/</comments>
-		<pubDate>Sat, 04 Nov 2023 14:23:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/best-black-friday-iphone-deals&#038;post_date=1699140182/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Black Friday</category>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[We've begun tracking early Black Friday deals for major Apple products <a href="https://www.macrumors.com/guide/best-black-friday-airpods-deals/">like AirPods</a>, and now we're focusing on iPhone. Specifically, in this guide we'll share the best early Black Friday deals on iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/best-early-black-friday-iphone-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-920873" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Of course, there is a chance that we could see better deals on iPhone arrive as Black Friday gets closer. This is a risk anyone has to take while shopping during the holidays, so with that in mind, many of the deals shared below are currently their best prices ever seen. More information on these sales can be found in our <a href="https://www.macrumors.com/roundup/black-friday/"><strong>Black Friday Roundup</strong></a>.<br/>
-<br/>
-<h2 id="best_iphone_and_accessory_deals">Best iPhone and Accessory Deals</h2><br/>
-<ul><li><a href="https://www.tkqlhce.com/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15-pro.html"><strong>iPhone 15 Pro/Pro Max</strong></a> for up to &#36;1,000 off at AT&T</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-14067866?url=https%3A%2F%2Fwww.verizon.com%2Fsmartphones%2Fapple-iphone-15-pro%2F"><strong>iPhone 15 Pro</strong></a> with free Apple TV 4K and Apple One six month subscription at Verizon</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-MX542AM-A-AirTag-Pack%2Fdp%2FB0932QJ2JZ%3Fref_%3Dast_sto_dp"><strong>AirTag 4-Pack</strong></a> for &#36;86.88 at Amazon, down from &#36;99.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-FineWoven-Case-MagSafe%2Fdp%2FB0CHX3T1WX%3Ftag%3Dmacrumors-20%26ref_%3Dast_sto_dp%26th%3D1%26geniuslink%3Dtrue"><strong>iPhone 15 FineWoven Case</strong></a> for &#36;44.25 at Amazon, down from &#36;59.00</li></ul><br/>
-<h2 id="best_black_friday_deals">Best Black Friday Deals</h2><br/>
-<ul><li><a href="https://www.macrumors.com/2023/11/02/best-early-black-friday-apple-deals/"><strong>The Best Early Black Friday Apple Deals</strong></a></li><br/>
-<li><a href="https://www.macrumors.com/guide/best-black-friday-airpods-deals/"><strong>The Best Early Black Friday AirPods Deals</strong></a></li><br/>
-<li><a href="https://www.macrumors.com/guide/best-black-friday-ipad-deals/"><strong>The Best Early Black Friday iPad Deals</strong></a></li></ul><br/>
-<h2 id="att">AT&T</h2><br/>
-<a href="https://www.tkqlhce.com/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fdeals%2F">AT&T</a> has offers across Apple's brand new iPhone 15 lineup, starting at up to &#36;1,000 off the <a href="https://www.tkqlhce.com/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15-pro.html">iPhone 15 Pro</a> or <a href="https://www.dpbolvw.net/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15-pro-max.html">iPhone 15 Pro Max</a> with an eligible smartphone trade-in. You'll also need to purchase the new smartphone on a qualifying installment agreement. If you select models with lower storage capacities, you can get these new iPhones at no cost.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/iphone-15-colors-holiday.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-920875" /><div class="center-wrap"><a href="https://www.tkqlhce.com/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15-pro.html"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO &#36;1,000 OFF</div>iPhone 15 Pro at AT&T</div></a></div><br/>
-<br/>
-You can get up to &#36;830 off the <a href="https://www.dpbolvw.net/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15.html">iPhone 15</a> or <a href="https://www.anrdoezrs.net/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15-plus.html">iPhone 15 Plus</a> as well, with the same stipulations as the Pro devices. Both offers will be delivered via monthly bill credits, starting within three bills after trade-in is completed. It'll be applied in equal amounts over the term of your installment agreement.<br/>
-<br/>
-For the iPhone 15 Pro and iPhone 15 Pro Max offer, you'll need to trade in a device with a value of &#36;230 or higher to get the full &#36;1,000 off markdown. You'll get up to &#36;830 in bill credits with a trade-in value of &#36;130 to &#36;229 and up to &#36;350 in bill credits with a trade-in value of &#36;35 to &#36;129.<br/>
-<br/>
-For older iPhone models, AT&T is offering the 128GB <a href="https://www.kqzyfj.com/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-14.html">iPhone 14 at &#36;10.99/month</a> with no trade-in required. Similarly, the iPhone 14 Pro is available at &#36;15/month with no trade-in required. For these, all you'll need is to purchase the smartphones on an installment plan and pick or upgrade to an eligible unlimited plan.<br/>
-<br/>
-Lastly, AT&T is offering a chance to get <a href="https://www.dpbolvw.net/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fwearables%2F">&#36;300 off any Apple Watch</a> when you buy two. You'll need to buy any two Apple Watch models on an installment plan, add at least one new line and activate both watches on your wireless plan, and then you'll get up to &#36;300 in bill credits over 36 months.<br/>
-<br/>
-<h2 id="verizon">Verizon</h2><br/>
-<a href="https://www.anrdoezrs.net/click-462641-11557999?url=https%3A%2F%2Fwww.verizon.com%2F">Verizon</a> has a special bundle offer for anyone interested in purchasing the new iPhone 15 Pro this season. When you purchase the <a href="https://www.anrdoezrs.net/click-462641-14067866?url=https%3A%2F%2Fwww.verizon.com%2Fsmartphones%2Fapple-iphone-15-pro%2F">128GB iPhone 15 Pro</a> with a new smartphone line on an Unlimited Plus or Unlimited Ultimate plan, you'll get an Apple TV 4K (64GB) and six months of Apple One. All of this will be covered by Verizon with no cost to you.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/iphone-15-green-holiday.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-920876" /><div class="center-wrap"><a href="https://www.anrdoezrs.net/click-462641-14067866?url=https%3A%2F%2Fwww.verizon.com%2Fsmartphones%2Fapple-iphone-15-pro%2F"target="_blank"><div class="fancybutton"><div class="fancybadge">FREE APPLE TV 4K</div>iPhone 15 Pro at Verizon</div></a></div><br/>
-<br/>
-Of course, you can purchase <a href="https://www.tkqlhce.com/click-462641-14067866?url=https%3A%2F%2Fwww.verizon.com%2Fsmartphones%2Fapple%2F">higher storage iPhone 15 Pro or iPhone 15 Pro Max models</a>, but at that point you'll be paying a little extra. The Apple TV 4K promotion requires a smarpthone purchase on an eligible plan and ends on November 15, while the Apple One six month promotion requires a line subscribed to an Unlimited Plus or Unlimited Ultimate plan.<br/>
-<br/>
-For last year's models, you can <a href="https://www.tkqlhce.com/click-462641-14067866?url=https%3A%2F%2Fwww.verizon.com%2Fsmartphones%2Fapple-iphone-14-plus%2F">get four iPhone 14 Plus devices for free</a> along with four lines on Unlimited Welcome at &#36;120/month. A new line on any 5G Unlimited plan is required per smartphone. You can also stack this with Verizon's current tablet and smartwatch promotions, which offer up to &#36;279.99 off these devices.<br/>
-<br/>
-Verizon is also a great place to buy stocking stuffers for techies during the holiday season with its abundant <a href="https://www.kqzyfj.com/click-462641-14048362?url=https%3A%2F%2Fwww.verizon.com%2Fdeals%2Fproducts%2F">accessory sales</a>. Right now it has up to &#36;50 off Anker speakers, 30% off Nimble chargers, 20% off Apple Watch bands, and 20% off Mophie chargers.<br/>
-<br/>
-<h2 id="visible">Visible</h2><br/>
-The Verizon-owned <a href="https://visible.pxf.io/c/153062/1007955/12909">Visible</a> brand is offering its premium Visible+ service at &#36;35/month (&#36;10 off) with the promo code 35FOR6 at checkout. This promo lasts for six months, then it will return to its regular &#36;45/month price.<br/>
-<br/>
-<div class="center-wrap"><a href="https://visible.pxf.io/c/153062/1007955/12909"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;10 OFF/MONTH</div>Visible+ Cellular Plan</div></a></div><br/>
-<br/>
-Visible offers all of the latest smartphones, including iPhone 15 and iPhone 15 Pro models. When you join Visible, you'll save up to &#36;240 via monthly bill credits on your account. You'll need to join Visible on a new line of service, purchase a new device, and select the Visible+ plan.<br/>
-<br/>
-<h2 id="t-mobile">T-Mobile</h2><br/>
-<a href="https://www.t-mobile.com/cell-phones/brand/apple?icid=MGPO_TMO_P_23HOLIIP15_ACF7436252B5D95636519">T-Mobile</a> is offering up to &#36;1,000 off the new iPhone 15 or iPhone 15 Pro when you trade in an eligible device on a Go5G Next plan. You can get up to &#36;830 off these devices when you trade in an eligible device on a Go5G Plus plan.<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.t-mobile.com/cell-phones/brand/apple?icid=MGPO_TMO_P_23HOLIIP15_ACF7436252B5D95636519"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO &#36;1,000 OFF</div>iPhone 15 at T-Mobile</div></a></div><br/>
-<br/>
-The carrier also has a wide variety of previous generation iPhones at a discount. This includes the iPhone 13 and iPhone SE at no extra cost when purchased on select cellular plans and trading in eligible devices.<br/>
-<br/>
-<h2 id="accessories">Accessories</h2><br/>
-To cap things off, we're pointing out some great iPhone accessories that you can find on sale at Amazon and <a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Fplus%2Fnew-apple-accessory-blowout%3Fref%3Dw_cnt_gw_dly_snb">Woot</a>. Woot's sale originally included some great deals on the MagSafe Charger and MagSafe Duo Charger, but those have since expired. You can still find great deals on other accessories like iPhone cases and the Siri Remote.<br/>
-<br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-MX542AM-A-AirTag-Pack%2Fdp%2FB0932QJ2JZ%3Fref_%3Dast_sto_dp">AirTag 4-Pack</a> - &#36;86.88, down from &#36;99.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-FineWoven-Case-MagSafe%2Fdp%2FB0CHX3T1WX%3Ftag%3Dmacrumors-20%26ref_%3Dast_sto_dp%26th%3D1%26geniuslink%3Dtrue">iPhone 15 FineWoven Case</a> - &#36;44.25, down from &#36;59.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-Plus-FineWoven-Case-MagSafe%2Fdp%2FB0CHX9FJTK%3Ftag%3Dmacrumors-20%26ref_%3Dast_sto_dp%26th%3D1%26psc%3D1%26geniuslink%3Dtrue">iPhone 15 Plus FineWoven Case</a> - &#36;46.73, down from &#36;59.00</li><br/>
-<li><a href="https://www.tkqlhce.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-duo-fast-wireless-charger%3Fref%3Dw_cnt_wp_0_4">MagSafe Duo Charger</a> - &#36;94.99, down from &#36;129.99</li><br/>
-<li><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-iphone-14-plus-leather-case-with-magsafe%3Fref%3Dw_cnt_wp_0_5">iPhone 14 Plus Leather Case</a> - &#36;24.99, down from &#36;59.00</li><br/>
-<li><a href="https://www.dpbolvw.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-mptc3fe-a-iphone-14-plus-silicone-case-w-magsafe%3Fref%3Dw_cnt_wp_0_5">iPhone 14 Plus Silicone Case</a> - &#36;24.99, down from &#36;49.00</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-iphone-14-pro-max-leather-case-with-magsafe%3Fref%3Dw_cnt_wp_0_1">iPhone 14 Pro Max Leather Case</a> - &#36;34.99, down from &#36;59.00</li></ul> We've begun tracking all of the season's best deals in our dedicated <a href="https://www.macrumors.com/roundup/black-friday/">Black Friday Roundup</a>, so be sure to bookmark the page and visit it throughout the season as you do your online shopping. Our roundup mainly focuses on Apple products and related tech accessories.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/best-black-friday-iphone-deals/">The Best Early Black Friday iPhone Deals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-best-early-black-friday-iphone-deals.2409875/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Argued Safari Is Three Different Browsers to Avoid Regulation</title>
-		<link>https://www.macrumors.com/2023/11/04/apple-argued-safari-is-three-different-browsers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-argued-safari-is-three-different-browsers-to-avoid-regulation.2409850/</comments>
-		<pubDate>Sat, 04 Nov 2023 08:44:31 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/04/apple-argued-safari-is-three-different-browsers/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Safari</category>
-		<category>European Union</category>
-		<category>European Commission</category>
-		<category>Europe</category>
-		<category>Apple Antitrust</category>
-		
-
-		<description><![CDATA[Apple <a href="https://ec.europa.eu/competition/digital_markets_act/cases/202344/DMA_100027_197.pdf">recently claimed</a> that Safari is three different browsers in effort to avoid regulation in the European Union (via <a href="https://www.theregister.com/2023/11/02/apple_safari_browser/"><em>The Register</em></a>).<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/01/safari-icon-blue-banner.jpeg" alt="" width="1600" height="900" class="alignnone size-full wp-image-833485" /><br/>
-The claim came as part of a <a href="https://ec.europa.eu/competition/digital_markets_act/cases/202344/DMA_100027_197.pdf">response</a> to the European Union in August, just before the European Commission designated many of Apple's iOS, <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, and Safari as <a href="https://www.macrumors.com/2023/09/06/app-store-safari-and-ios-designated-gatekeepers/">gatekeeper platforms</a>. This classification means that Apple now has to ensure that these platforms fall in line with the Digital Markets Act's requirements, such as allowing browser engines other than WebKit and the installation of third-party app stores.<br/>
-<br/>
-It has now emerged that after being informed that Safari was likely to fall under the DMA's regulations, Apple filed formal a response to the European Union claiming that Safari is, in fact, "three distinct web browsers." The company's claim is based on the argument that Safari for iOS, iPadOS, and macOS are entirely different and serve different purposes.<br/>
-<br/>
-On example cited by Apple is Safari's sidebar feature on iPadOS and macOS, allowing users to see opened tabs, tab groups, bookmarks, and browsing history. Since this feature is unavailable in the version of Safari for iOS, Apple claimed that it is a distinctly different browser. The company added that each version of Safari serves different purposes for users depending on the device upon which it is accessed.<br/>
-<br/>
-The European Commission went on to point out that Safari's functionality and underlying technologies are near-identical across platforms. The Commission even highlights Apple's own marketing materials for its Continuity feature, which appear to contradict the company's claims, touting the tag line "Same Safari. Different device." As a result, the Commission rejected Apple's claim and insists that "Safari qualifies as a single web browser, irrespective of the device through which that service is accessed."<br/>
-<br/>
-Apple is now obliged to ensure that Safari adheres to the DMA's requirements, such as by allowing non-WebKit-based browsers on iOS and iPadOS. Companies that do not adhere to the new regulations risk facing EU investigations, substantial fines, and the imposition of "behavioral or structural remedies." The fines can amount to 10 percent of a company's global turnover, with a 20 percent penalty for repeat violations. Questions remain about whether Apple's argument about Safari being three different browsers violates the DMA's Anti-Circumvention provision that forbids subdividing a platform's market share to avoid regulation. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/safari/">Safari</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/european-commission/">European Commission</a>, <a href="https://www.macrumors.com/guide/europe/">Europe</a>, <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/04/apple-argued-safari-is-three-different-browsers/">Apple Argued Safari Is Three Different Browsers to Avoid Regulation</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-argued-safari-is-three-different-browsers-to-avoid-regulation.2409850/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Top Stories: Apple Event Delivers MacBook Pro and iMac Updates</title>
-		<link>https://www.macrumors.com/2023/11/04/top-stories-scary-fast-event-recap/</link>
-		<comments>https://forums.macrumors.com/threads/top-stories-apple-event-delivers-macbook-pro-and-imac-updates.2409839/</comments>
-		<pubDate>Sat, 04 Nov 2023 07:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/04/top-stories-scary-fast-event-recap/</guid>
-		<dc:creator>MacRumors Staff</dc:creator>
-		<category>Featured</category>
-		<category>Top Stories</category>
-		
-
-		<description><![CDATA[Apple's "Scary Fast" event this week went off about as expected, with Apple showing off its next-generation Mac chips in a couple of product lines during a fast-paced 30-minute presentation.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/top-stories-4nov2023.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-920863" /><br/>
-Our biggest stories this week unsurprisingly delved into Apple's announcements including some early tidbits on the updated MacBook Pro and iMac, a goodbye to the Touch Bar, and more, so read on below for all the details!<br/>
-<br/>
-<h2>Everything Apple Announced During the 'Scary Fast' Event</h2><br/>
-Trick or treat! Apple this week <a href="https://www.macrumors.com/2023/10/30/everything-apple-announced-october-2023-event/">held its "Scary Fast" event</a>, focused entirely on the Mac. During the brief presentation, Apple announced new 14-inch and 16-inch MacBook Pro models with M3, M3 Pro, and M3 Max chips, and an updated iMac with the M3 chip.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/Everything-Announced-at-Scary-Fast-Thumb-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-919534" /><br/>
-We've <a href="https://www.macrumors.com/2023/10/30/everything-apple-announced-october-2023-event/">recapped everything that Apple announced during the event</a> for those who missed it or want to learn more.<br/>
-<br/>
-<h2>Apple Announces New 14-Inch and 16-Inch MacBook Pro Models With M3 Series Chips</h2><br/>
-The <a href="https://www.macrumors.com/2023/10/30/apple-announces-m3-macbook-pros/">new 14-inch and 16-inch MacBook Pro models are equipped with M3 Pro and M3 Max chips</a>, and there is now an entry-level 14-inch MacBook Pro available with the standard M3 chip as well.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/m3-mbp-space-black.jpg" alt="" width="1440" height="810" class="aligncenter size-full wp-image-919466" /><br/>
-The new MacBook Pro models are <a href="https://www.macrumors.com/2023/10/31/space-black-macbook-pro-hands-on-videos/">available in a Space Black finish</a> when configured with the M3 Pro or M3 Max chip, and they are <a href="https://www.macrumors.com/2023/10/30/new-macbook-pros-20-percent-brighter-displays/">equipped with 20% brighter displays</a> compared to the previous generation.<br/>
-<br/>
-The new MacBook Pro models are available to order now, and most configurations will launch on Tuesday, November 7.<br/>
-<br/>
-<h2>Apple Announces New iMac With M3 Chip</h2><br/>
-Apple <a href="https://www.macrumors.com/2023/10/30/apple-announces-imac-with-m3-chip/">updated the 24-inch iMac with the M3 chip</a> for up to 35% faster performance compared to the previous model with the M1 chip.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/m3-imac.jpg" alt="" width="1600" height="902" class="aligncenter size-full wp-image-919460" /><br/>
-The all-in-one desktop computer features the same design and color options as the 2021 model. There are only a few other changes with the new iMac, including <a href="https://www.macrumors.com/2023/10/30/imac-max-memory-wi-fi-6e/">Wi-Fi 6E and Bluetooth 5.3 support</a>.<br/>
-<br/>
-Contrary to rumors, the Magic Keyboard, Magic Mouse, and Magic Trackpad accessories <a href="https://www.macrumors.com/2023/10/30/magic-accessories-still-feature-lightning/">still have Lightning instead of USB-C</a>.<br/>
-<br/>
-<h2>Apple Discontinues 13-Inch MacBook Pro With Touch Bar</h2><br/>
-Apple <a href="https://www.macrumors.com/2023/10/30/apple-discontinues-13-inch-macbook-pro/">discontinued the 13-inch MacBook Pro following the event</a>, meaning that the <a href="https://www.macrumors.com/2023/10/31/touch-bar-discontinued/">Touch Bar has now been completely phased out</a> after seven years.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/06/13-inch-macbook-pro-2022-banner.jpeg" alt="" width="1100" height="619" class="aligncenter size-full wp-image-850662" /><br/>
-The first MacBook Pro models with the Touch Bar were released in October 2016, as part of a controversial redesign that also included a defective butterfly keyboard and the removal of many connectivity options, including an SD card slot, HDMI port, and MagSafe.<br/>
-<br/>
-<h2>First Benchmark Results Surface for M3 Chip in New Macs</h2><br/>
-The <a href="https://www.macrumors.com/2023/11/01/m3-chip-benchmark-results/">first benchmark results for the standard M3 chip</a> and the <a href="https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/">high-end M3 Max chip</a> surfaced in the Geekbench 6 database after Apple's event, providing a closer look at CPU performance improvements.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/M3-Chip-Apple-Event-Slide.jpg" alt="" width="1600" height="898" class="aligncenter size-full wp-image-920110" /><br/>
-The results show the M3 chip is around 20% faster than the M2 chip, while the <a href="https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/">M3 Max chip is around as fast as the M2 Ultra chip</a> that debuted in the Mac Pro and Mac Studio desktop computers earlier this year.<br/>
-<br/>
-<h2>2023 MacBook Pro Buyer's Guide: 20+ Differences Compared</h2><br/>
-Are you considering purchasing one of the new 14-inch or 16-inch MacBook Pro models? If so, make sure to <a href="https://www.macrumors.com/guide/macbook-pro-upgraders-buyers-guide/">check out our in-depth 2023 MacBook Pro buyer's guide</a> that compares over 20 features and differences between MacBook Pro generations.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/MacBook-Pro-2021-2023-and-2023-Buyers-Guide-Feature-1.875.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-920052" /><br/>
-We also shared a buyer's guide <a href="https://www.macrumors.com/guide/m1-vs-m3-imac/">comparing the new iMac with the M3 chip to the 2021 model with the M1 chip</a> for those who are interested in that computer.<br/>
-<br/>
-<h3>MacRumors Newsletter</h3><br/>
-Each week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.<br/>
-<br/>
-So if you want to have <a href="https://mailchi.mp/macrumors/nov-2-2023">top stories</a> like the above recap delivered to your email inbox each week, <b><a href="http://eepurl.com/OHdUX">subscribe to our newsletter</a></b>!<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/top-stories/">Top Stories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/04/top-stories-scary-fast-event-recap/">Top Stories: Apple Event Delivers MacBook Pro and iMac Updates</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/top-stories-apple-event-delivers-macbook-pro-and-imac-updates.2409839/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
