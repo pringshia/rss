@@ -14,12 +14,182 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 09 Nov 2023 08:02:56 PST</lastBuildDate>
+	<lastBuildDate>Thu, 09 Nov 2023 12:03:21 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Releases New Firmware for AirPods Pro 2</title>
+		<link>https://www.macrumors.com/2023/11/09/airpods-pro-2-firmware-6b32/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-new-firmware-for-airpods-pro-2.2410493/</comments>
+		<pubDate>Thu, 09 Nov 2023 11:37:38 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/09/airpods-pro-2-firmware-6b32/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>AirPods Pro</category>
+		
+
+		<description><![CDATA[Apple today introduced a new firmware update for the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2, including both the Lightning model and the new USB-C model. The new firmware is version 6B32, up from the <a href="https://www.macrumors.com/2023/10/18/apple-releases-airpods-pro-2-firmware-update/">6A305 firmware</a> introduced in October.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-867348" src="https://images.macrumors.com/article-new/2022/09/airpods-pro-2-pink.jpg" alt="" width="2500" height="1406" /><br/>
+Apple does not provide details on what features might be included in the refreshed firmware, so it is unclear what's new in the update, but prior software releases have been refining functionality introduced in <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>.<br/>
+<br/>
+&zwnj;iOS 17&zwnj; added several new features for the &zwnj;AirPods Pro&zwnj; 2, such as Adaptive Audio. Adaptive Audio, which combines ANC and Transparency, is meant to deliver an ideal audio experience that blocks out loud or distracting noises.<br/>
+<br/>
+Adaptive Audio includes Conversation Awareness and Personalized Volume. Conversation Awareness detects when someone speaks to you, lowering the volume of what's playing and cutting down on background noise so you can hear. Personalized Volume takes into account your listening preferences and the noise in the environment to adjust sound levels.<br/>
+<br/>
+Other new features include an option to mute and unmute the microphone by pressing on the &zwnj;AirPods Pro&zwnj; stem, faster automatic switching between devices, and support for activating <a href="https://www.macrumors.com/guide/siri/">Siri</a> without including the "Hey" wake word.<br/>
+<br/>
+Apple does not offer instructions on how to upgrade AirPods software, but firmware is generally installed over-the-air while the ‌‌AirPods‌‌ are connected to an iOS device. Putting the ‌‌‌‌‌AirPods‌‌‌‌‌ in the case, connecting the ‌‌‌‌‌AirPods‌‌‌‌‌ to a power source, and then pairing the ‌‌‌‌‌AirPods‌‌‌‌‌ to an iOS device or Mac should force the update.<br/>
+<br/>
+You can check your ‌‌‌AirPods‌‌ or ‌‌‌‌‌‌&zwnj;AirPods Pro&zwnj;‌‌‌‌‌‌‌ firmware by following these steps:<br/>
+<ul><br/>
+ 	<li>Connect your ‌‌‌‌‌‌&zwnj;AirPods Pro&zwnj;‌‌‌‌‌‌ to your iOS device.</li><br/>
+ 	<li>Open the Settings app.</li><br/>
+ 	<li>Tap General.</li><br/>
+ 	<li>Tap About.</li><br/>
+ 	<li>Tap ‌‌‌‌‌AirPods‌‌‌‌‌.</li><br/>
+ 	<li>Look at the number next to "Firmware Version."</li><br/>
+</ul><br/>
+If we learn more about what's new in the firmware release, we'll update this article.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/airpods-pro-2-firmware-6b32/">Apple Releases New Firmware for AirPods Pro 2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-firmware-for-airpods-pro-2.2410493/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.2 to Expand Sensitive Content Warnings on iPhone</title>
+		<link>https://www.macrumors.com/2023/11/09/ios-17-2-expands-sensitive-content-warnings/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-2-to-expand-sensitive-content-warnings-on-iphone.2410492/</comments>
+		<pubDate>Thu, 09 Nov 2023 11:36:15 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/09/ios-17-2-expands-sensitive-content-warnings/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Starting with iOS 17.2, which is <a href="https://www.macrumors.com/2023/11/09/apple-seeds-ios-17-2-beta-2-to-developers/">currently in beta</a> and is expected to be released in December, Apple's opt-in <a href="https://www.macrumors.com/how-to/ios-enable-sensitive-content-warnings/">Sensitive Content Warning feature</a> will work with Contact Posters in both the Contacts and Phone apps, as well as stickers in the Messages app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/Sensitive-Content-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-922023" /><br/>
+When turned on, the Sensitive Content Warning feature uses on-device machine learning to analyze photos and videos, and blurs photos or videos with any detected nudity before users view them. Apple says it does not receive any indication that nudity was detected, and does not gain access to the photos or videos as a result.<ul><li><a href="https://www.macrumors.com/how-to/ios-enable-sensitive-content-warnings/">iOS 17: How to Enable Sensitive Content Warnings</a></li></ul>Sensitive Content Warnings are also available for messages in the Messages app, AirDrop transfers, and FaceTime video messages. The feature launched earlier this year across the iPhone, iPad, Mac, and Apple Watch. Apple has offered a similar <a href="https://www.macrumors.com/how-to/enable-or-disable-communication-safety-ios/">Communication Safety feature for children</a> across the same devices since 2021.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/ios-17-2-expands-sensitive-content-warnings/">iOS 17.2 to Expand Sensitive Content Warnings on iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-2-to-expand-sensitive-content-warnings-on-iphone.2410492/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.2 Beta 2 Includes Feature for Recording Spatial Video on iPhone 15 Pro</title>
+		<link>https://www.macrumors.com/2023/11/09/ios-17-2-spatial-video-recording/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-2-beta-2-includes-feature-for-recording-spatial-video-on-iphone-15-pro.2410484/</comments>
+		<pubDate>Thu, 09 Nov 2023 10:42:18 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/09/ios-17-2-spatial-video-recording/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[The second beta of iOS 17.2 adds a new feature that allows an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> or &zwnj;iPhone 15 Pro&zwnj; Max to record Spatial Video that can be viewed in the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app on Apple's forthcoming <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> headset.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/spatial-video-apple-visioin-pro.jpg" alt="" width="1600" height="898" class="aligncenter size-full wp-image-911687" /><br/>
+Spatial Video recording can be enabled by going to the Settings app, tapping into the Camera section, selecting Formats, and toggling on "Spatial Video for &zwnj;Apple Vision Pro&zwnj;."<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="es" dir="ltr">iOS 17.2 Beta 2 enables Spatial Video recording <a href="https://t.co/mLMbI8aG6d">pic.twitter.com/mLMbI8aG6d</a></p>&mdash; iSoftware Updates (@iSWUpdates) <a href="https://twitter.com/iSWUpdates/status/1722684032796733923?ref_src=twsrc%5Etfw">November 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Apple says that for best results when recording Spatial Video, the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> should be held stable in landscape orientation while capturing video. Video is recorded at 30 frames per second at 1080p, and one minute of video takes up 130MB of storage space.<br/>
+<br/>
+Spatial Videos taken with an &zwnj;iPhone 15 Pro&zwnj; can be viewed on the &zwnj;iPhone&zwnj; as well, but the video appears to be a normal video and not a Spatial Video. Spatial Videos feature a "Spatial" label to denote that they can be viewed in 3D on the Vision Pro.<br/>
+<br/>
+On the Vision Pro headset, Spatial Videos are not shown full screen by default. If you expand the video, Apple warns that the video "has excess motion" and "could cause discomfort if expanded."<br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/ios-17-2-spatial-video-recording/">iOS 17.2 Beta 2 Includes Feature for Recording Spatial Video on iPhone 15 Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-2-beta-2-includes-feature-for-recording-spatial-video-on-iphone-15-pro.2410484/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Second Beta of macOS Sonoma 14.2 to Developers</title>
+		<link>https://www.macrumors.com/2023/11/09/apple-seeds-macos-sonoma-14-2-beta-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-second-beta-of-macos-sonoma-14-2-to-developers.2410481/</comments>
+		<pubDate>Thu, 09 Nov 2023 10:17:55 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/09/apple-seeds-macos-sonoma-14-2-beta-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today seeded the second beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.2 update to developers for testing purposes, with the software coming two weeks after Apple seeded the <a href="https://www.macrumors.com/2023/10/26/apple-seeds-macos-sonoma-14-2-beta-1/">first beta of macOS Sonoma 14.2</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
+Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Under Beta updates, toggle on the Sonoma Developer Beta. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
+<br/>
+&zwnj;macOS Sonoma&zwnj; 14.2 adds an <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> Favorites playlist that houses everything you've favorited, plus Apple added support for collaborative playlists. You can now share a playlist with multiple people, and each participant can add songs. <br/>
+<br/>
+Stickers can now be used to reply to iMessages when you long press on a chat bubble in the Messages app, and there's also now support for the extra-secure iMessage Contact Key Verification option.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/apple-seeds-macos-sonoma-14-2-beta-2/">Apple Seeds Second Beta of macOS Sonoma 14.2 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-beta-of-macos-sonoma-14-2-to-developers.2410481/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Second Betas of iOS 17.2 and iPadOS 17.2 to Developers</title>
+		<link>https://www.macrumors.com/2023/11/09/apple-seeds-ios-17-2-beta-2-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-second-betas-of-ios-17-2-and-ipados-17-2-to-developers.2410472/</comments>
+		<pubDate>Thu, 09 Nov 2023 10:03:03 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/09/apple-seeds-ios-17-2-beta-2-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released the second betas of upcoming iOS 17.2 and iPadOS 17.2 updates to developers for testing purposes, with the software coming two weeks after Apple released the <a href="https://www.macrumors.com/2023/10/25/apple-releases-ios-17-1/">first betas of iOS 17.2 and iPadOS 17.2</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-918852" src="https://images.macrumors.com/article-new/2023/10/iOS-17.2-Feature-Cool.jpg" alt="" width="2500" height="1406" /><br/>
+Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the ‌<a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>‌ Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
+<br/>
+The biggest new feature in iOS 17.2 is the Journal app, which can be used to record daily activities and thoughts. You can write about your day to day life, but Apple also provides topic suggestions based on the music you listen to, the places you visit, and the people you see. Journal entries support pictures, voice recordings, and location information, with the app organized by entry date.<br/>
+<br/>
+In <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, there's a Favorites playlist that houses everything you've favorited, plus Apple added support for collaborative playlists. You can now share a playlist with multiple people, and each participant can add songs.<br/>
+<br/>
+Stickers can now be used to reply to iMessages when you long press on a chat bubble in the Messages app, and there's also now support for the extra-secure iMessage Contact Key Verification option. If you have an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, the Action Button supports Translate in iOS 17.2, and there are new Weather and Clock widgets.<br/>
+<br/>
+More on what's new in iOS 17.2 can be found in our <a href="https://www.macrumors.com/2023/10/26/ios-17-2-beta-1-features/">iOS 17.2 beta 1 features list</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/apple-seeds-ios-17-2-beta-2-to-developers/">Apple Seeds Second Betas of iOS 17.2 and iPadOS 17.2 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-betas-of-ios-17-2-and-ipados-17-2-to-developers.2410472/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Second Beta of watchOS 10.2 to Developers</title>
+		<link>https://www.macrumors.com/2023/11/09/apple-seeds-watchos-10-2-beta-2-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-second-beta-of-watchos-10-2-to-developers.2410476/</comments>
+		<pubDate>Thu, 09 Nov 2023 10:02:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/09/apple-seeds-watchos-10-2-beta-2-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today seeded the second beta of an upcoming watchOS 10.2 update to developers for testing purposes, with the beta coming two weeks after Apple seeded the <a href="https://www.macrumors.com/2023/10/26/apple-seeds-watchos-10-2-beta-1-to-developers/">first watchOS 10.2 beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
+To install the ‌watchOS 10.2‌ update, developers will need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the ‌<a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>‌ Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
+<br/>
+Once beta updates have been activated, ‌&zwnj;watchOS 10&zwnj;‌ can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
+<br/>
+watchOS 10.2 adds support for iMessage Contact Key Verification, a feature designed for those who face "extraordinary digital threats," such as journalists, human rights activists, and government officials.<br/>
+<br/>
+Users can ensure that there is no "man in the middle" snooping on iMessage conversations, and there is a Contact Verification Code so that iMessage users can verify that they're speaking to the correct individual during in-person meetings or on <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/apple-seeds-watchos-10-2-beta-2-to-developers/">Apple Seeds Second Beta of watchOS 10.2 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-beta-of-watchos-10-2-to-developers.2410476/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Second Beta of tvOS 17.2 to Developers</title>
+		<link>https://www.macrumors.com/2023/11/09/apple-seeds-tvos-17-2-beta-2-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-second-beta-of-tvos-17-2-to-developers.2410477/</comments>
+		<pubDate>Thu, 09 Nov 2023 10:01:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/09/apple-seeds-tvos-17-2-beta-2-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple TV</category>
+		
+
+		<description><![CDATA[Apple today seeded the second beta of an upcoming tvOS 17.2 to developers for testing purposes, with the beta coming two weeks after the <a href="https://www.macrumors.com/2023/10/26/apple-seeds-first-beta-of-tvos-17-2-to-developers/">release of the first tvOS 17.2 beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-869857" src="https://images.macrumors.com/article-new/2022/10/Apple-TV-2022-Feature-Blue.jpg" alt="" width="2500" height="1406" /><br/>
+Registered developers are able to download the tvOS 17.2 update by opting in to the beta through the Settings app on the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>. A registered developer account is required.<br/>
+<br/>
+tvOS updates are often minor in scale compared to other operating system updates, focusing primarily on bug fixes and smaller improvements rather than notable outward-facing changes, but tvOS 17.2 introduces an overhauled &zwnj;Apple TV&zwnj; app. <br/>
+<br/>
+The app now includes a sidebar that houses content from both Apple's services and streaming services that integrate with the tvOS Watch Now feature. There are dedicated sections for Search, Watch Now, ‌<a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a>‌, MLS Season Pass, Sports, the Store, and the Library at the top of the sidebar, along with dedicated sections for streaming services like ABC, CBS, Comedy Central, Hulu, ESPN, Discovery, Peacock, Prime Video, and more.<br/>
+<br/>
+You can click into each streaming service to see content that's available specifically on that service, and there's also a new My TV section that replaces "My Channels."<br/>
+<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/apple-seeds-tvos-17-2-beta-2-to-developers/">Apple Seeds Second Beta of tvOS 17.2 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-beta-of-tvos-17-2-to-developers.2410477/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Watch Black Friday Deal Sees Series 9 Drop to Record Low &#36;349 Price</title>
@@ -30,6 +200,7 @@
 		<dc:creator>Mitchel Broussard</dc:creator>
 		<category>Black Friday</category>
 		<category>Deals</category>
+		<category>Featured</category>
 		
 
 		<description><![CDATA[Amazon has nearly every model of the Aluminum Apple Watch Series 9 on sale at new record low prices in one of the first best Black Friday deals of the season. You can get the 41mm GPS model of the brand new smartwatch for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;349.00</strong></a>, down from &#36;399.00.<br/>
@@ -186,9 +357,9 @@ An ECJ ruling is expected next year.<div class="linkback">Tags: <a href="https:/
 		</item>
 		
 		<item>
-		<title>iPhone 16 Models on Course for Exclusive AI Features Coming in iOS 18</title>
+		<title>iPhone 16 Likely to Get Exclusive AI Features in iOS 18</title>
 		<link>https://www.macrumors.com/2023/11/09/iphone-16-exclusive-ai-features-ios-18/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-models-on-course-for-exclusive-ai-features-coming-in-ios-18.2410420/</comments>
+		<comments>https://forums.macrumors.com/threads/iphone-16-likely-to-get-exclusive-ai-features-in-ios-18.2410420/</comments>
 		<pubDate>Thu, 09 Nov 2023 03:31:52 PST</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2023/11/09/iphone-16-exclusive-ai-features-ios-18/</guid>
 		<dc:creator>Tim Hardwick</dc:creator>
@@ -216,7 +387,7 @@ All models in the iPhone 16 series are also <a href="https://www.macrumors.com/2
 <br/>
 The button is located on the same side as the Power button, and is a capacitive button that is able to detect pressure and touch, providing haptic feedback when pressed. There has been no word yet on what this button might be used for, but it could conceivably have unforeseen practical AI applications.<br/>
 <br/>
-Apple is said to be on course to spend &#36;1 billion per year on AI research, with some of the company's biggest executive names overseeing development, including senior vice president of software engineering Craig Federighi, senior vice president of machine learning and AI strategy John Giannandrea, and senior vice president of services Eddy Cue.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/artificial-intelligence/">Artificial Intelligence</a>, <a href="https://www.macrumors.com/guide/revegnus/">Revegnus</a>, <a href="https://www.macrumors.com/guide/apple-gpt/">Apple GPT</a>, <a href="https://www.macrumors.com/guide/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/iphone-16-exclusive-ai-features-ios-18/">iPhone 16 Models on Course for Exclusive AI Features Coming in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-models-on-course-for-exclusive-ai-features-coming-in-ios-18.2410420/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Apple is said to be on course to spend &#36;1 billion per year on AI research, with some of the company's biggest executive names overseeing development, including senior vice president of software engineering Craig Federighi, senior vice president of machine learning and AI strategy John Giannandrea, and senior vice president of services Eddy Cue.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/artificial-intelligence/">Artificial Intelligence</a>, <a href="https://www.macrumors.com/guide/revegnus/">Revegnus</a>, <a href="https://www.macrumors.com/guide/apple-gpt/">Apple GPT</a>, <a href="https://www.macrumors.com/guide/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/iphone-16-exclusive-ai-features-ios-18/">iPhone 16 Likely to Get Exclusive AI Features in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-likely-to-get-exclusive-ai-features-in-ios-18.2410420/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -451,543 +622,6 @@ Apple stopped selling leather accessories in September, including leather versio
 <br/>
 <h3>Honorable Mentions</h3><br/>
 Apple also <a href="https://www.macrumors.com/2023/08/31/apple-discontinues-itunes-movie-trailers-app/">discontinued its iTunes Movie Trailers app</a> and the <a href="https://www.macrumors.com/2023/11/01/apple-music-voice-plan-no-longer-available/">Apple Music Voice Plan</a> this year.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/08/apple-discontinued-these-5-products-in-2023/">Apple Discontinued These 5 Products in 2023</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-discontinued-these-5-products-in-2023.2410313/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Walmart Reveals Black Friday Plans With Month-Long Sales Starting Today</title>
-		<link>https://www.macrumors.com/2023/11/08/walmart-black-friday-plans/</link>
-		<comments>https://forums.macrumors.com/threads/walmart-reveals-black-friday-plans-with-month-long-sales-starting-today.2410312/</comments>
-		<pubDate>Wed, 08 Nov 2023 09:00:45 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/08/walmart-black-friday-plans/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Black Friday</category>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Walmart's <a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%2Fblack-friday">Black Friday sale</a> has officially kicked off today, with an online shopping event that will expand to retail locations on Friday, November 10. There are quite a few major discounts in this sale, including all-time low prices on AirPods 2 and Apple Watch Series 9.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/11/walmart-new-ornametns.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-872489" /><em><small>Note: MacRumors is an affiliate partner with Walmart. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2>Walmart's Black Friday Schedule</h2><br/>
-Walmart's Black Friday sale has begun online for Walmart+ members, and this exclusivity window will last until 3 p.m. ET. After this time, anyone will be able to shop the sale on Walmart's website for the next two days, and then in stores on Friday.<br/>
-<br/>
-This same pattern will be found during Black Friday week as well. New deals will appear online at 12 p.m. ET Wednesday, November 22, only for Walmart+ members. Then the sale will open up to everyone that afternoon, followed by in stores on Friday, November 24 - Black Friday.<br/>
-<br/>
-<ul><li>Wednesday, November 8 - Deals start online at 12 p.m. ET for Walmart+ members and 3 p.m. ET for everyone else</li><br/>
-<li>Friday, November 10 - Deals start in stores</li><br/>
-<li>Wednesday, November 22 - Deals start online at 12 p.m. ET for Walmart+ members and 3 p.m. ET for everyone else</li><br/>
-<li>Friday, November 24 - Black Friday deals start in stores</li><br/>
-<li>Monday, November 27 - Cyber Monday deals start online</li></ul><h2>Walmart+ Membership</h2><br/>
-If you aren't a Walmart+ member, you can <a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fplus">get 50 percent off a membership</a> for a limited time during this event. You'll pay &#36;49 for one year of Walmart+, and this offer is only running until later this afternoon at 2:59 p.m. ET.<br/>
-<br/>
-<div class="center-wrap"><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fplus"target="_blank"><div class="fancybutton"><div class="fancybadge">50% OFF</div>Walmart+ Annual Membership</div></a></div><h2>Deals Available Now</h2><br/>
-Like many retailers, Walmart's Black Friday offerings are wide and varied. You'll find major markdowns on video games, appliances, TVs, smart home products, speakers, headphones, and more. We've divided up some of the major discount categories in the sections below, and <strong>remember that while many of these sales are live now, some won't appear until later in the day if you aren't a Walmart+ member</strong>.<br/>
-<br/>
-<div class="center-wrap"><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%2Fblack-friday"target="_blank"><div class="fancybutton"><div class="fancybadge">SITEWIDE SALE</div>Walmart's Black Friday Event</div></a></div><h3>Apple</h3><br/>
-Walmart is coming out of the gate with some heavy-hitter Apple deals, starting with the <a href="https://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-AirPods-with-Charging-Case-2nd-Generation%2F604342441">AirPods 2 at just &#36;69.00</a>, down from &#36;129.00. This is a new all-time low price that's beating the typical sale that we see on this pair by about &#36;30.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/walmart-apple.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-921752" /><br/>
-For the Apple Watch, these are the first major discounts we've tracked on the new Series 9 models. You can get <a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-GPS-41mm-Silver-Aluminum-Case-with-Winter-Blue-Sport-Loop%2F5053115208%3Fathbdg%3DL2000">&#36;50 off both the 41mm and 45mm GPS Apple Watch Series 9</a> at Walmart, and both are new record low prices.<br/>
-<br/>
-<ul><li><a href="https://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-AirPods-with-Charging-Case-2nd-Generation%2F604342441">AirPods 2</a> - &#36;69.00, down from &#36;129.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-GPS-41mm-Silver-Aluminum-Case-with-Winter-Blue-Sport-Loop%2F5053115208%3Fathbdg%3DL2000">Apple Watch Series 9 (41mm GPS)</a> - &#36;349.00, down from &#36;399.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-GPS-45mm-Midnight-Aluminum-Case-with-Midnight-Sport-Band-M-L%2F5032289286">Apple Watch Series 9 (45mm GPS)</a> - &#36;379.00, down from &#36;429.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-GPS-Cellular-41mm-Pink-Aluminum-Case-with-Light-Pink-Sport-Band-S-M%2F5032094350">Apple Watch Series 9 (41mm Cellular)</a> - &#36;449.00, down from &#36;499.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-GPS-Cellular-45mm-Midnight-Aluminum-Case-with-Midnight-Sport-Loop%2F5053115224">Apple Watch Series 9 (45mm Cellular)</a> - &#36;479.00, down from &#36;529.00</li><br/>
-</ul><br/>
-<br/>
-<h3>TVs</h3><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/walmart-tvs.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-921751" /><ul><li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2Fonn-50-Class-4K-UHD-2160P-LED-Roku-Smart-TV-HDR-100133204%2F1256020186%3Fathbdg%3DL2003">Onn 50-inch 4K UHD LED Smart TV</a> - &#36;148.00, down from &#36;218.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FVIZIO-50-Class-V-Series-4K-UHD-LED-Smart-TV-V505-J09%2F378837297">Vizio 50-inch 4K UHD LED Smart TV</a> - &#36;248.00, down from &#36;319.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSAMSUNG-55-Class-TU690T-Crystal-UHD-4K-Smart-Television-UN55TU690TFXZA-New%2F3172183742">Samsung 55-inch 4K Smart TV</a> - &#36;298.00, down from &#36;349.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHisense-75-Class-R6-Series-4K-UHD-LED-Roku-Smart-TV-75R6030K-New%2F3378916137">Hisense 75-inch 4K UHD LED Smart TV</a> - &#36;398.00, down from &#36;449.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSony-65-Class-BRAVIA-XR-A90J-4K-HDR-OLED-TV-Smart-Google-TV-XR65A90J-New%2F142934664">Sony 65-inch Bravia 4K HDR OLED Smart TV</a> - &#36;1,398.00, down from &#36;2,198.00</li></ul><br/>
-<br/>
-<h3>Video Games</h3><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/walmart-ps5.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-921750" /><ul><li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSony-PS5-DualSense-Wireless-Controller-Midnight-Black%2F596005887">Sony PS5 DualSense Wireless Controller</a> - &#36;49.00, down from &#36;69.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPlayStation-5-Disc-Console-Marvel-s-Spider-Man-2-Bundle%2F5081658627">PlayStation 5 Disc Console + Marvel's Spider-Man 2 Bundle</a> - &#36;499.00, down from &#36;559.00</li></ul><br/>
-<br/>
-<h3>Audio</h3><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/walmart-audio.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-921749" /><ul><li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSony-WF-C500-Truly-Wireless-in-Ear-Headphones-Black%2F985519962">Sony Truly Wireless In-Ear Headphones</a> - &#36;29.00, down from &#36;98.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSkullcandy-Hesh-ANC-Noise-Canceling-on-Ear-Wireless-Headphones-True-Black%2F175741435">Skullcandy Hesh ANC On-Ear Wireless Headphones</a> - &#36;49.00, down from &#36;119.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSkullcandy-Barrel-Party-Speaker-Xt-Black-12-lb%2F2308181499">Skullcandy Barrel Party Speaker</a> - &#36;79.00, down from &#36;169.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSAMSUNG-B-Series-4-1-CH-Soundbar-Rear-Speakers-with-Subwoofer-Bluetooth-HW-C47M-ZA-2023%2F1024368762%3Fathbdg%3DL2003">Samsung B-Series Soundbar, Speakers, Subwoofer Bundle</a> - &#36;139.00, down from &#36;239.00</li></ul><br/>
-<br/>
-<h3>Streaming Devices</h3><br/>
-<img src="https://images.macrumors.com/article-new/2022/11/roku-ornaments.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-872496" /><ul><li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRoku-Premiere-4K-HDR-Streaming-Media-Player-Wi-Fi-Enabled-with-Premium-High-Speed-HDMI-Cable-and-Simple-Remote%2F2941305929%3Fathbdg%3DL2003">Roku Premiere</a> - &#36;19.00, down from &#36;34.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRoku-Ultra-LT-Streaming-Device-4K-HDR-Dolby-Vision-Dual-Band-Wi-Fi-with-Roku-Voice-Remote-and-HDMI-Cable%2F855978264%3Fathbdg%3DL2003">Roku Ultra LT 4K with Voice Remote</a> - &#36;34.00, down from &#36;80.00</li></ul><br/>
-<br/>
-<h3>Computers</h3><br/>
-<img src="https://images.macrumors.com/article-new/2022/11/hp-laptop-ornaments.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-872491" /><ul><li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Ideapad-1-15-6-FHD-Laptop-AMD-R3-7320U-8GB-RAM-256GB-SSD-Blue-Windows-11-82VG00BJUS%2F2670414563%3Fathbdg%3DL2003">Lenovo Ideapad 15.6-inch Laptop</a> - &#36;249.00, down from &#36;339.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-15-6-FHD-Laptop-Intel-Core-i5-1135G7-8GB-RAM-256GB-SSD-Silver-Windows-11-Home-15-dy2795wm%2F480912399%3Fathbdg%3DL2003">HP 15.6-inch Laptop</a> - &#36;329.00, down from &#36;399.00</li><br/>
-<li><a href="http://goto.walmart.com/c/153062/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-GF63-15-Gaming-Laptop-144Hz-FHD-Intel-i5-11400H-NVIDIA-RTX-3050-16GB-DDR4-512GB-SSD-Win11%2F1312771589%3Fathbdg%3DL2003">MSI 15-inch Gaming Laptop</a> - &#36;479.00, down from &#36;629.00</li></ul>You can find <a href="https://www.macrumors.com/2023/11/02/best-early-black-friday-apple-deals/"><strong>all the Apple Black Friday Deals currently available</strong></a> in our dedicated post. For everything else, we're keeping track of all of the season's best Apple-related deals in our <a href="https://www.macrumors.com/roundup/black-friday/"><strong>Black Friday roundup</strong></a>, so be sure to check back throughout the month for an updated list of all the most notable discounts you'll find for Black Friday 2023.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/08/walmart-black-friday-plans/">Walmart Reveals Black Friday Plans With Month-Long Sales Starting Today</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/walmart-reveals-black-friday-plans-with-month-long-sales-starting-today.2410312/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Taylor Swift Named Apple Music&#039;s Artist of the Year</title>
-		<link>https://www.macrumors.com/2023/11/08/taylor-swift-apple-musics-artist-of-the-year/</link>
-		<comments>https://forums.macrumors.com/threads/taylor-swift-named-apple-musics-artist-of-the-year.2410303/</comments>
-		<pubDate>Wed, 08 Nov 2023 08:15:03 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/08/taylor-swift-apple-musics-artist-of-the-year/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Music</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2023/11/taylor-swift-is-apple-musics-artist-of-the-year-for-2023/">announced</a> that Taylor Swift has been named Apple Music's Artist of the Year for 2023 after reaching "a new realm of superstardom this year."<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/Taylor-Swift-2023-Apple-Music-Artist-of-Year.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-921741" /><br/>
-Swift released a new album last month called <em>1989 (Taylor's Version)</em>, and she has been on tour this year. Apple says in the first 10 months of 2023, Swift had 65 songs reach Apple Music's Global Daily Top 100, which was more than any other artist.<br/>
-<br/>
-"I am so honored to be Apple Music's Artist of the Year," said Swift. "Thank you to every single one of you for making this year the most incredible, joyful, celebratory year ever. From streaming the music nonstop to screaming it together in real life at the shows, dancing chaotically in movie theaters, none of this would have been possible without you. Thank you so much."<br/>
-<br/>
-"Taylor Swift's impact on music is absolutely undeniable — not just this record-breaking year, but throughout her entire career," said Oliver Schusser, Apple's vice president of Apple Music and Beats. "She is a generation-defining artist and a true change agent in the music industry, and there is no doubt that her impact and influence will be felt for years to come. We are thrilled to have the opportunity to celebrate her achievements."<br/>
-<br/>
-Swift will receive a physical Apple Music Award featuring Apple's custom 12-inch silicon wafer.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/08/taylor-swift-apple-musics-artist-of-the-year/">Taylor Swift Named Apple Music&#039;s Artist of the Year</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/taylor-swift-named-apple-musics-artist-of-the-year.2410303/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>MacBook Air vs. MacBook Pro Buyer&#039;s Guide</title>
-		<link>https://www.macrumors.com/guide/macbook-air-vs-macbook-pro-buyers-guide/</link>
-		<comments>https://forums.macrumors.com/threads/macbook-air-vs-macbook-pro-buyers-guide.2378980/</comments>
-		<pubDate>Wed, 08 Nov 2023 07:45:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/macbook-air-vs-macbook-pro-buyers-guide&#038;post_date=1699469100/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Buyer's Guide</category>
-		<category>Featured</category>
-		<category>MacBook Air 15&quot;</category>
-		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
-		<category>MacBook Air 13&quot;</category>
-		
-
-		<description><![CDATA[In 2022, Apple updated the <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> with a complete redesign and the <a href="https://www.macrumors.com/guide/m2/">M2</a> chip, followed by an all-new 15-inch version this year, so how do the two product lines compare to its latest MacBook Pro models with M3 chips?<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/01/M2-MBA-vs-M2-MacBook-Pro-Buyers-Guide-Feature.jpg" alt="" width="2507" height="1410" class="alignnone size-full wp-image-883243" /><br/>
-Despite now being similar in appearance, the &zwnj;MacBook Air&zwnj; and the MacBook Pro are very different machines, so should you consider purchasing the 13- or 15-inch &zwnj;MacBook Air&zwnj;, which start at &#36;1,099, to save money, or do you need one of the higher-end 14- or 16-inch MacBook Pro models, which cost at least &#36;500 more? Our guide helps to answer the question of how to decide which of these two popular Apple silicon machines is best for you.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;MacBook Air&zwnj;</th><br/>
- <th>MacBook Pro</th><br/>
- </tr><br/>
- <tr><br/>
- <td>13.6- or 15.3-inch display</td><br/>
- <td>14.2- or 16.2-inch display</td><br/>
- </tr><br/>
- <tr><br/>
- <td>LCD Liquid Retina display</td><br/>
- <td><a href="https://www.macrumors.com/guide/mini-led/">Mini-LED</a> Liquid Retina XDR display</td><br/>
- </tr><br/>
- <tr><br/>
- <td>60hz refresh rate</td><br/>
- <td>ProMotion for refresh rates up to 120Hz</td><br/>
- </tr><br/>
- <tr><br/>
- <td>500 nits brightness</td><br/>
- <td>Up to 1,000 nits sustained (full-screen) brightness and 1,600 nits peak brightness</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Apple &zwnj;M2&zwnj; chip</td><br/>
- <td>Apple M3, M3 Pro, or M3 Max chip</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Enhanced 5nm node (N5P)<br/>
-Based on A15 Bionic chip from <a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a> (2021)</td><br/>
- <td><a href="https://www.macrumors.com/guide/3nm/">3nm</a> node (N3B)<br/>
-Based on A17 Pro chip from <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> (2023)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>3.49 GHz CPU clock speed</td><br/>
- <td>4.05 GHz CPU clock speed</td><br/>
- </tr><br/>
- <tr><br/>
- <td>8-core CPU with with 4 performance cores and 4 efficiency cores</td><br/>
- <td><strong>M3:</strong> 8-core CPU with 4 performance cores and 4 efficiency cores<br/>
-<strong>M3 Pro:</strong> Up to 12-core CPU with 6 performance cores and 6 efficiency cores<br/>
-<strong>M3 Max:</strong> Up to 16-core CPU with 12 performance cores and 4 efficiency cores</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Up to 10-core GPU</td><br/>
- <td><strong>M3:</strong> 10-core GPU<br/>
-<strong>M3 Pro:</strong> Up to 18-core GPU<br/>
-<strong>M3 Max:</strong> Up to 40-core GPU</td><br/>
- </tr><br/>
- <tr><br/>
- <td>100GB/s memory bandwidth</td><br/>
- <td><strong>M3</strong>: 100GB/s memory bandwidth<br/>
-<strong>M3 Pro</strong>: 150GB/s memory bandwidth<br/>
-<strong>M3 Max</strong>: 300GB/s or 400GB/s memory bandwidth</td><br/>
- </tr><br/>
- <tr><br/>
- <td>8GB, 16GB, or 24GB unified memory</td><br/>
- <td><strong>M3</strong>: 8GB, 16GB, or 24GB unified memory<br/>
-<strong>M3 Pro</strong>: 18GB or 36GB unified memory<br/>
-<strong>M3 Max</strong>: 36GB, 48GB, 64GB, 96GB, 128GB unified memory</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>New GPU architecture</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Dynamic Caching</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Hardware-accelerated ray tracing</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Hardware-accelerated mesh shading</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Support for AV1 decode</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Neural Engine</td><br/>
- <td>15% faster Neural Engine</td><br/>
- </tr><br/>
- <tr><br/>
- <td>256GB, 512GB, 1TB, or 2TB of storage</td><br/>
- <td><strong>M3:</strong> 512GB, 1TB, or 2TB storage<br/>
-<strong>M3 Pro</strong> or <strong>M3 Max</strong>: 512GB, 1TB, 2TB, 4TB, or 8TB storage</td><br/>
- </tr><br/>
- </tr><br/>
- <tr><br/>
- <td>Passive cooling</td><br/>
- <td>Active cooling</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Wi-Fi 6</td><br/>
- <td>Wi-Fi 6E</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Two Thunderbolt / USB 4 ports</td><br/>
- <td><strong>M3:</strong> Two Thunderbolt / USB 4 (USB-C) ports<br/>
-<strong>M3 Pro</strong> or <strong>M3 Max</strong>: Three Thunderbolt 4 (USB-C) ports</td><br/>
- </tr><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>HDMI 2.1 port with support for multichannel audio output</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>SDXC card slot</td><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>13-Inch</strong>: Four-speaker sound system<br/>
-<strong>15-Inch</strong>: Six-speaker sound system with force-cancelling woofers</td><br/>
- <td>High-fidelity six-speaker sound system with force-cancelling woofers</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Three-mic array with directional beamforming</td><br/>
- <td>Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Support for one external display</td><br/>
- <td><strong>M3</strong>: Support for one external display<br/>
-<strong>M3 Pro</strong>: Support for up to two external displays<br/>
-<strong>M3 Max</strong>: Support for up to four external displays</td><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>13-Inch</strong>: 52.6-watt-hour lithium-polymer battery<br/>
-<strong>15-Inch</strong>: 66.5-watt-hour lithium-polymer battery</td><br/>
- <td><strong>M3 14-Inch</strong>: 70-watt-hour lithium-polymer battery<br/>
-<strong>M3 Pro</strong> or <strong>M3 Max 14-Inch</strong>: 72.4-watt-hour lithium-polymer battery<br/>
-<strong>16-Inch</strong>: 100-watt-hour lithium-polymer battery</td><br/>
- </tr><br/>
- <tr><br/>
- <td>18-hour battery life</td><br/>
- <td><strong>M3 14-Inch</strong>: 22-hour battery life<br/>
-<strong>M3 Pro</strong> or <strong>M3 Max 14-Inch</strong>: 18-hour battery life<br/>
-<strong>16-Inch</strong>: 22-hour battery life</td><br/>
- </tr><br/>
- <tr><br/>
- <td>30W, 35W, or 67W USB-C Power Adapter</td><br/>
- <td>67W, 96W, or 140W USB-C Power Adapter</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Silver, Space Gray, Starlight, or Midnight color options</td><br/>
- <td><strong>M3:</strong> Silver or Space Gray color options<br/>
-<strong>M3 Pro</strong> or <strong>M3 Max</strong>: Silver or Space Black color options</td><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>13-Inch</strong>: Starts at &#36;1,099<br/>
-<strong>15-Inch</strong>: Starts at &#36;1,299</td><br/>
- <td><strong>M3 14-Inch:</strong> Starts at &#36;1,599<br/>
-<strong>M3 Pro 14-Inch</strong>: Starts at &#36;1,999<br/>
-<strong>M3 Pro 16-Inch</strong>: Starts at &#36;2,499</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-<h3 id="design">Design</h3><br/>
-Both the &zwnj;MacBook Air&zwnj; and MacBook Pro share the same basic design with a flat top and rounded edges on the bottom, but they do have several minor details that differ. For example, while both MacBooks have displays with a "notch" at the top to facilitate the built-in webcam, the MacBook Pro's bezels are noticeably slimmer. The keyboard area of the high-end MacBook Pro is also all-black.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2013/09/macbook-air-design.jpg" alt="" width="2000" height="912" class="alignnone size-full wp-image-850089" /><br/>
-The &zwnj;MacBook Air&zwnj; and M3 version of the MacBook Pro are available in Silver and Space Gray, but the &zwnj;MacBook Air&zwnj; is also offered in Starlight and Midnight color options, so if you are looking for a particular aesthetic with one of these finishes, you will need to get the &zwnj;MacBook Air&zwnj;. Space Black is exclusive to the MacBook Pro with the M3 Pro and M3 Max chips.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th></th><br/>
- <th>&zwnj;MacBook Air&zwnj; (13-Inch)</th><br/>
- <th>&zwnj;MacBook Air&zwnj; (15-Inch)</th><br/>
- <th>MacBook Pro (14-Inch)</th><br/>
- <th>MacBook Pro (16-Inch)</th><br/>
- </tr><br/>
- <tr><br/>
- <th>Height</th><br/>
- <td>0.44 inches (1.13 cm)</td><br/>
- <td>0.45 inch (1.15 cm)</td><br/>
- <td>0.61 inches (1.55 cm)</td><br/>
- <td>0.66 inch (1.68 cm)</td><br/>
- </tr><br/>
- <tr><br/>
- <th>Width</th><br/>
- <td>11.97 inches (30.41 cm)</td><br/>
- <td>13.40 inches (34.04 cm)</td><br/>
- <td>12.31 inches (31.26 cm)</td><br/>
- <td>14.01 inches (35.57 cm)</td><br/>
- </tr><br/>
- <tr><br/>
- <th>Depth</th><br/>
- <td>8.46 inches (21.5 cm)</td><br/>
- <td>9.35 inches (23.76 cm)</td><br/>
- <td>8.71 inches (22.12 cm)</td><br/>
- <td>9.77 inches (24.81 cm)</td><br/>
- </tr><br/>
- <tr><br/>
- <th>Weight</th><br/>
- <td>2.7 pounds (1.24 kg)</td><br/>
- <td>3.3 pounds (1.51 kg)</td><br/>
- <td>3.5 pounds (1.61 kg)</td><br/>
- <td>4.8 pounds (2.15 kg)</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-Dimensions are also a key area of difference between the &zwnj;MacBook Air&zwnj; and MacBook Pro. The 16-inch MacBook Pro is considerably larger and heavier than the 15-inch &zwnj;MacBook Air&zwnj;, but it is important to not understate the difference between the 14-inch MacBook Pro and the 13-inch &zwnj;MacBook Air&zwnj;. While the 14-inch MacBook Pro offers a larger display than the &zwnj;MacBook Air&zwnj;, its marginally larger footprint, added thickness, and an additional 0.8 pounds of weight do make for a noticeably less portable machine if you prefer to travel light.<br/>
-<br/>
-Even so, the 14-inch MacBook Pro offers a very good balance of portability and performance, so if you need its added capabilities, its size and weight should not hold you back. The 15-inch &zwnj;MacBook Air&zwnj; also provides a good balance of portability and display area, but users wary of its size should opt for the 13-inch model.<br/>
-<br/>
-<h3 id="ports_and_connectivity">Ports and Connectivity</h3><br/>
-The selection of ports is an area of major difference between the two machines. The &zwnj;MacBook Air&zwnj; features just two Thunderbolt ports, while the M3 version of the MacBook Pro adds an HDMI 2.1 port and SDXC card slot. When configured with the M3 Pro or M3 Max, the MacBook Pro has a total of three Thunderbolt 4 ports, in addition to its HDMI 2.1 port and SDXC card slot. Both machines feature a 3.5mm headphone jack with support for high-impedance headphones.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/10/2021-macbook-pro-ports.jpg" alt="" width="1952" height="1156" class="aligncenter size-full wp-image-821474" /><br/>
-All in all, the MacBook Pro is much more versatile in terms of connectivity, even possessing newer Bluetooth and Wi-Fi specifications, offering useful features for professionals who use SDXC cards from digital cameras or even simply more USB peripherals.<br/>
-<br/>
-<h3 id="display_size">Display Size</h3><br/>
-The smaller &zwnj;MacBook Air&zwnj;'s display is 13.6 inches in size, which is a little smaller than the 14.2-inch MacBook Pro, and markedly smaller than the 16.2-inch MacBook Pro. 13.6 inches is still bigger than the largest <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> model, which comes in at 12.9 inches, and even all of the previous &zwnj;MacBook Air&zwnj; and smaller MacBook Pro models, meaning that it should be adequate for most users. The 14.2-inch MacBook Pro simply offers a little bit more screen real estate to those who need high-end capabilities.<br/>
-<br/>
-The 15.3-inch &zwnj;MacBook Air&zwnj; and 16.2-inch MacBook Pro's displays will be better replacements for a desktop machine and provide much more screen space to arrange multiple windows and use professional applications that benefit from additional display area.<br/>
-<br/>
-<h3 id="display_technology">Display Technology</h3><br/>
-The display technologies of both machines are significantly different. Like most MacBooks in recent years, the &zwnj;MacBook Air&zwnj; has an LCD panel, but owing to its slim bezels and rounded corners, Apple calls it a Liquid Retina display. The 14- and 16-inch MacBook Pro models feature Apple's more advanced mini-LED Liquid Retina XDR technology for deeper blacks, better dynamic range, and improved color accuracy.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/10/macbook-pro-display.jpg" alt="" width="1960" height="1274" class="aligncenter size-full wp-image-821240" /><br/>
-The XDR display can get much brighter, reaching as high as 1,600 nits of brightness at its peak when showing HDR content. The 14- and 16-inch MacBook Pro models also have ProMotion displays, allowing them to vary their refresh rate up to 120Hz. The &zwnj;MacBook Air&zwnj; does not have a display with a variable refresh rate.<br/>
-<br/>
-It will be worth getting the high-end MacBook Pro models for viewing and editing HDR content, as well as watching high-framerate video such as sports. The display of the &zwnj;MacBook Air&zwnj; is sufficient for most users and some may not even notice a drastic difference. The MacBook Pro's deeper blacks and smoother on-screen motion simply offer a slightly better experience.<br/>
-<br/>
-<h3 id="chips">Chips</h3><br/>
-The &zwnj;MacBook Air&zwnj; contains the &zwnj;M2&zwnj; chip, while MacBook Pro customers can choose between the M3, M3 Pro, and M3 Max chips. The M3 Pro and M3 Max are scaled-up versions of the M3 chip that offer additional CPU and GPU cores. See the &zwnj;M2&zwnj;, M3, M3 Pro, and M3 Max's Geekbench 5 Benchmark scores below:<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th></th><br/>
- <th>&zwnj;M2&zwnj;</th><br/>
- <th>M3</th><br/>
- <th>M3 Pro</th><br/>
- <th>M3 Max</th><br/>
- </tr><br/>
- <tr><br/>
- <th>Single-Core</th><br/>
- <td>2,570–2,630</td><br/>
- <td>3,010</td><br/>
- <td>3,120</td><br/>
- <td>3,120</td><br/>
- </tr><br/>
- <tr><br/>
- <th>Multi-Core</th><br/>
- <td>9,630–9,650</td><br/>
- <td>11,763</td><br/>
- <td>14,010–14,410</td><br/>
- <td>19,160–21,215</td><br/>
- </tr><br/>
- <tr><br/>
- <th>Metal (Graphics)</th><br/>
- <td>41,300–45,550</td><br/>
- <td>47,430</td><br/>
- <td>68,330–77,070</td><br/>
- <td>124,060–157,120</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-The M3 Pro and M3 Max provide CPUs with up to eight additional cores and GPUs with up to 30 additional cores. The &zwnj;M2&zwnj; chip in the &zwnj;MacBook Air&zwnj; is only slightly less powerful than the M3, M3 Pro, and M3 Max in single-core tasks, but the M3 chips, and particularly the Pro and Max versions, are considerably better in multi-core and graphics tasks.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/07/Apple-M3-chip-series-architecture.jpg" alt="" width="2400" height="1350" class="alignnone size-full wp-image-920045" /><br/>
-With significantly more transistors, performance CPU cores, and GPU cores, the M3 Pro and M3 Max are powerful chips designed for professionals with demanding workflows. The &zwnj;M2&zwnj; and M3, on the other hand, are more consumer-oriented chips focused on delivering surprisingly impressive performance and excellent efficiency to keep temperatures down and prolong battery life.<br/>
-<br/>
-It is also worth noting that the &zwnj;MacBook Air&zwnj; is passively cooled and contains no fan, which can slightly constrain peak performance compared to the MacBook Pro, since the high-end machines have large fans to actively cool the system and push the chips harder.<br/>
-<br/>
-The limitations of the &zwnj;M2&zwnj; and M3 also mean that &zwnj;MacBook Air&zwnj; and MacBook Pro devices configured with these chips support only one external display, whereas M3 Pro and M3 Max machines support up to two and four external displays, respectively.<br/>
-<br/>
-<h3 id="memory_and_storage">Memory and Storage</h3><br/>
-The &zwnj;MacBook Air&zwnj; can be configured with up to 24GB of unified memory and up to 2TB of storage, which should be more than enough for the vast majority of users. For those who need even more memory and storage, the MacBook Pro can be configured with significantly more memory and storage than the top-spec &zwnj;MacBook Air&zwnj;.<br/>
-<br/>
-The M3 Pro and M3 Max chips in the MacBook Pro also provide up to 150GB/s and 400GB/s memory bandwidth respectively – an enormous increase over the 100GB/s memory bandwidth with the &zwnj;M2&zwnj; chip in the &zwnj;MacBook Air&zwnj;.<br/>
-<br/>
-Buyers should also be aware that the 256GB &zwnj;MacBook Air&zwnj; base models have up to 50 percent slower SSDs than configurations with more storage. This is because the base models only have a single SSD module inside, whereas models with larger amounts of storage have two SSD chips, significantly increasing the overall speed of the machine's storage.<br/>
-<br/>
-<h3 id="speakers_and_microphones">Speakers and Microphones</h3><br/>
-The &zwnj;MacBook Air&zwnj; has a four-speaker sound system that is surprisingly full and balanced for such a small, slim device. The MacBook Pro takes things to the next level with a high-fidelity six-speaker sound system with force-cancelling woofers for dramatically bigger and deeper audio – something that may be invaluable to users who work in professional audio production or simply listen to a lot of music out-loud.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2013/09/macbook-pro-speakers.jpg" alt="" width="1128" height="684" class="aligncenter size-full wp-image-821784" /><br/>
-The &zwnj;MacBook Air&zwnj; has a three-mic array with directional beamforming that is perfect for activities like video calls and voice notes. The MacBook Pro has what Apple calls a "studio-quality" three-mic array with high signal-to-noise ratio and directional beamforming. While they are not as good as a dedicated microphone, the MacBook Pro's microphones are impressive and, at a push, are suitable for production purposes like podcasting.<br/>
-<br/>
-<h3 id="battery_life">Battery Life</h3><br/>
-The &zwnj;MacBook Air&zwnj; has an 18-hour battery life, offering the same battery life as the 14-inch MacBook Pro with the M3 Pro or M3 Max chips, and four hours less than the 14-inch MacBook Pro with the M3 chip and the 16-inch MacBook Pro. <br/>
-<br/>
-<h2 id="other_macbook_options">Other MacBook Options</h2><br/>
-If you are looking for a more affordable Apple silicon MacBook, there is the <a href="https://www.macrumors.com/guide/m1/">M1</a> &zwnj;MacBook Air&zwnj;, which sports a 13.3-inch Retina display, <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>, two Thunderbolt ports, and more, for prices starting at &#36;999. For users on a strict budget, the &zwnj;M1&zwnj; &zwnj;MacBook Air&zwnj; is still a good option.<br/>
-<br/>
-<h2 id="final_thoughts">Final Thoughts</h2><br/>
-Overall, the &zwnj;MacBook Air&zwnj; is the best option for casual users, offering an excellent balance of features and performance in a highly portable design. The &zwnj;MacBook Air&zwnj;'s &#36;1,099 starting price is much more affordable compared to the MacBook Pro, and with an education discount or an <a href="https://www.macrumors.com/roundup/best-apple-deals/#macbook_air">offer from our Apple Deals Roundup</a>, it is possible to get that price down by at least &#36;100. The additional &#36;500 to get the MacBook Pro likely is not worth it for most ordinary users, and on the contrary, many will prefer the slimmer, lighter design of the &zwnj;MacBook Air&zwnj; and perhaps even its additional color options.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2013/09/macbook-pro-sizes-space-gray.jpg" alt="" width="1500" height="693" class="aligncenter size-full wp-image-821783" /><br/>
-Professionals who require larger and more accurate displays, additional ports, more memory and storage, and a very high level of performance should look to the 14- and 16-inch MacBook Pro with the M3 Pro and M3 Max chips, and the higher price points of these machines reflects this. The high-end MacBook Pro models are not targeted at everyday consumers, being clearly tailored to creatives and professionals who rely heavily on the capabilities of their machines. As such, these high-end models should only be a go-to option if you are a power-user or professional who can make use of its advanced features. The 16-inch MacBook Pro, in particular, is also potentially a good desktop replacement machine due to its large display.<br/>
-<br/>
-<ul><br/>
-<li><a href="https://www.macrumors.com/guide/13-vs-15-inch-macbook-air/">13-Inch vs. 15-Inch M2 MacBook Air Buyer's Guide</a></li><br/>
-<li><a href="https://www.macrumors.com/guide/14-inch-macbook-pro-vs-16-inch-macbook-pro/">Late 2023 MacBook Pro Buyer's Guide: 14-Inch and 16-Inch Models Compared</a></li><br/>
-</ul><br/>
-<br/>
-Alternatively, if you are already considering the &#36;1,299 15-inch &zwnj;MacBook Air&zwnj;, it may be worth paying more to get the M3 MacBook Pro. For just &#36;200 more, the M3 MacBook Pro offers a considerably better Liquid Retina XDR display with ProMotion, a more powerful chip with active cooling, four extra hours of battery life, better speakers and microphones, an HDMI port and SDXC card slot, and more. In fact, if you configure the 15-inch &zwnj;MacBook Air&zwnj; with 512GB of storage to match the M3 MacBook Pro, there is only a &#36;100 between the two machines, so in this instance it is almost always worth getting the more powerful machine, unless maximizing screen size is your only priority.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Don't Buy)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a>, <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/macbook-air-vs-macbook-pro-buyers-guide/">MacBook Air vs. MacBook Pro Buyer&#039;s Guide</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macbook-air-vs-macbook-pro-buyers-guide.2378980/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The Best Early Black Friday HomePod Deals</title>
-		<link>https://www.macrumors.com/guide/best-black-friday-homepod-deals/</link>
-		<comments>https://forums.macrumors.com/threads/the-best-early-black-friday-homepod-deals.2410298/</comments>
-		<pubDate>Wed, 08 Nov 2023 07:33:41 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/best-black-friday-homepod-deals&#038;post_date=1699468421/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Black Friday</category>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[We're getting closer to Black Friday on November 24, and in this article we're taking a closer look at all of the best early Black Friday HomePod and HomePod mini discounts you can get right now. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/homepod-bells.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921651" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Of course, there is a chance that we could see better deals on these iPads arrive as Black Friday gets closer. This is a risk anyone has to take while shopping during the holidays, so with that in mind, many of the deals shared below are currently their best prices ever seen. More information on these sales can be found in our <a href="https://www.macrumors.com/roundup/black-friday/"><strong>Black Friday Roundup</strong></a>.<br/>
-<br/>
-<h2 id="best_homepod_deals">Best HomePod Deals</h2><br/>
-<ul><li><a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FApple%2F4Y5G2LLA%2F"><strong>HomePod mini</strong></a> for &#36;78.99 at OWC, down from &#36;99.00</li><br/>
-<li><a href="https://www.bhphotovideo.com/c/product/1746861-REG/apple_mqj73ll_a_homepod_2nd_generation.html/kw/APHOMEPODMN/BI/2696/KBID/3612"><strong>HomePod (2nd Gen)</strong></a> for &#36;279.99 at B&H, down from &#36;299.00</li></ul><br/>
-<br/>
-<h2 id="best_black_friday_deals">Best Black Friday Deals</h2><br/>
-<ul><li><a href="https://www.macrumors.com/2023/11/02/best-early-black-friday-apple-deals/"><strong>The Best Early Black Friday Apple Deals</strong></a></li><br/>
-<li><a href="https://www.macrumors.com/guide/best-black-friday-airpods-deals/"><strong>The Best Early Black Friday AirPods Deals</strong></a></li><br/>
-<li><a href="https://www.macrumors.com/guide/best-black-friday-iphone-deals/"><strong>The Best Early Black Friday iPhone Deals</strong></a></li><br/>
-<li><a href="https://www.macrumors.com/guide/best-black-friday-ipad-deals/"><strong>The Best Early Black Friday iPad Deals</strong></a></li><br/>
-<li><a href="https://www.macrumors.com/guide/best-black-friday-apple-watch-deals/"><strong>The Best Early Black Friday Apple Watch Deals</strong></a></li></ul><br/>
-<br/>
-OWC has an ultra-rare discount on Apple's HomePod mini, priced at <a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FApple%2F4Y5G2LLA%2F"><strong>&#36;78.99</strong></a>, down from &#36;99.00. OWC says that these are brand new HomePod mini speakers, but they are not shipped in their original retail packaging and instead come bulk packaged with a 90 day OWC fulfilled limited warranty.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/homepod-mini-bells.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921661" /><div class="center-wrap"><em><strong>Note: These are in new condition but come in bulk packaging.</strong></em></div><br/>
-<div class="center-wrap"><a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FApple%2F4Y5G2LLA%2F"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;20 OFF</div>HomePod mini for &#36;78.99</div></a></div><br/>
-<br/>
-HomePod mini discounts this steep are so rare, the last time we tracked anything remotely in the ballpark of &#36;20 off was Black Friday 2022. OWC has every color on sale at this record low price, so if you've been waiting for a sale now is the time.<br/>
-<br/>
-If you want the upgraded second generation HomePod model, B&H Photo still has the best deal around. You can get both colors at <a href="https://www.bhphotovideo.com/c/product/1746861-REG/apple_mqj73ll_a_homepod_2nd_generation.html/kw/APHOMEPODMN/BI/2696/KBID/3612"><strong>&#36;279.99</strong></a>, down from &#36;299.00. Although this isn't a particularly big markdown on the 2023 speaker, it remains the best deal we've tracked to date.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/homepod-big-bells.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921660" /><div class="center-wrap"><a href="https://www.bhphotovideo.com/c/product/1746861-REG/apple_mqj73ll_a_homepod_2nd_generation.html/kw/APHOMEPODMN/BI/2696/KBID/3612"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;19 OFF</div>HomePod (2nd Gen) for &#36;279.99</div></a></div><br/>
-<br/>
-The new HomePod is a high-end speaker focusing more on sound quality, while the HomePod mini is aimed at people who just need an accessible and user-friendly smart speaker. If you want a more in-depth breakdown of all the differences between the two products, be sure to <a href="https://www.macrumors.com/guide/homepod-mini-vs-homepod/">visit our buyer's guide</a>. <br/>
-<br/>
-We've begun tracking all of the season's best deals in our dedicated <a href="https://www.macrumors.com/roundup/black-friday/">Black Friday Roundup</a>, so be sure to bookmark the page and visit it throughout the season as you do your online shopping. Our roundup mainly focuses on Apple products and related tech accessories.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/best-black-friday-homepod-deals/">The Best Early Black Friday HomePod Deals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-best-early-black-friday-homepod-deals.2410298/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>WhatsApp Now Lets You Hide Your IP Address During Calls</title>
-		<link>https://www.macrumors.com/2023/11/08/whatsapp-hide-your-ip-address-during-calls/</link>
-		<comments>https://forums.macrumors.com/threads/whatsapp-now-lets-you-hide-your-ip-address-during-calls.2410293/</comments>
-		<pubDate>Wed, 08 Nov 2023 07:23:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/08/whatsapp-hide-your-ip-address-during-calls/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>WhatsApp</category>
-		<category>Privacy</category>
-		
-
-		<description><![CDATA[WhatsApp has <a href="https://engineering.fb.com/2023/11/08/security/whatsapp-calls-enhancing-security/">introduced</a> a new privacy feature that lets you hide your IP address from whoever you call over the encrypted communications platform. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/03/Whatsapp-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-786421" /><br/>
-As it stands, one-to-one calls over WhatsApp are established as a direct peer-to-peer connection between users. While this ensures the best possible voice quality, it means the connected devices must reveal their IP addresses to each other. <br/>
-<br/>
-According to WhatsApp, the new privacy setting introduced today works differently by relaying all of your calls through WhatsApp's servers to obfuscate your location, rather than connecting you directly to the person you are calling. Meta engineers elaborated on the feature in a <a href="https://engineering.fb.com/2023/11/08/security/whatsapp-calls-enhancing-security/">blog post</a>:<br/>
-<blockquote>Most calling products people use today have peer-to-peer connections between participants. This direct connection allows for faster data transfers and better call quality, but it also means that participants need to know each other’s IP addresses so that call data packets can be delivered to the correct device – meaning that the IP addresses are visible to both callers on a 1:1 call. IP addresses may contain information that some of our most privacy-conscious users are mindful of, such as broad geographical location or internet provider.<br/>
-<br/>
-To address this concern, we introduced a new feature on WhatsApp that allows you to protect your IP address during calls. With this feature enabled, all your calls will be relayed through WhatsApp’s servers, ensuring that other parties in the call cannot see your IP address and subsequently deduce your general geographical location. </blockquote><img src="https://images.macrumors.com/article-new/2023/11/WhatsApp-Calls_image.jpg" alt="" width="863" height="550" class="aligncenter size-full wp-image-921648" /><br/>
-<br/>
-At the same time, all relayed calls through WhatsApp's servers remain end-to-end encrypted, so no-one – not even WhatsApp – can listen to them.<br/>
-<br/>
-Before you consider using the new call relay privacy setting, WhatsApp says to bear in mind that call quality might be reduced as a result. To enable the setting, make sure you have updated to the latest version of WhatsApp, then follow these steps.<br/>
-<ol><li>In WhatsApp, tap <strong>Settings ➝ Privacy</strong>.</li><br/>
-<li>Tap <strong>Advanced</strong>.</li><br/>
-<li>Toggle on the switch next to <strong>Protect IP address in calls</strong>.</li></ol><img src="https://images.macrumors.com/article-new/2023/11/whatsapp-privacy-ip-address.jpg" alt="whatsapp" width="4137" height="2716" class="aligncenter size-full wp-image-921670" /><br/>
-<br/>
-Note that group calls are always relayed through WhatsApp's servers by default. <br/>
-<br/>
-In June, WhatsApp added a <a href="https://www.macrumors.com/how-to/silence-unknown-callers-whatsapp/">Silence Unknown Callers feature</a> for the encrypted messaging platform. Like the similar option in iOS, the feature is designed to automatically screen out spam, scams, and calls from unknown people for increased protection.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/whatsapp/">WhatsApp</a>, <a href="https://www.macrumors.com/guide/privacy/">Privacy</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/08/whatsapp-hide-your-ip-address-during-calls/">WhatsApp Now Lets You Hide Your IP Address During Calls</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/whatsapp-now-lets-you-hide-your-ip-address-during-calls.2410293/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>macOS 14.1.1 Fixes M3 Mac Upgrade Issue and Photoshop Bug</title>
-		<link>https://www.macrumors.com/2023/11/08/macos-14-1-1-bug-fixes/</link>
-		<comments>https://forums.macrumors.com/threads/macos-14-1-1-fixes-m3-mac-upgrade-issue-and-photoshop-bug.2410289/</comments>
-		<pubDate>Wed, 08 Nov 2023 07:03:14 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/08/macos-14-1-1-bug-fixes/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>macOS Ventura</category>
-		<category>macOS Sonoma</category>
-		
-
-		<description><![CDATA[Apple <a href="https://www.macrumors.com/2023/11/07/apple-releases-macos-sonoma-14-1-1/">released macOS Sonoma 14.1.1</a> on Tuesday with "important bug fixes." While the release notes did not specify which bugs were fixed, we have confirmed that the update resolves a software update issue with M3 Macs and an Adobe Photoshop bug.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/No-13-Inch-M3-MacBook-Pro-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921296" /><br/>
-At least some 14-inch MacBook Pro and iMac models equipped with the standard M3 chip shipped with an unreleased build of macOS Ventura 13.5 installed, and <a href="https://www.macrumors.com/2023/11/07/14-inch-macbook-pro-m3-macos-sonoma-update-issue/">macOS 14.1 was not showing up as an available software update</a> in the System Settings app. Fortunately, it is now possible to update these Macs to macOS 14.1.1. MacBook Pro models with the M3 Pro and M3 Max chips were not affected by this issue.<br/>
-<br/>
-macOS 14.1.1 also <a href="https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-macos-14-1-photoshop-2024-v25-0-25-1-toolbar-click-through-issue/idc-p/14218733#M95503">fixes a bug</a> that prevented users from clicking on a section of the toolbar in Photoshop on macOS 14.1, as <a href="https://twitter.com/JonyIveParody/status/1722236152718283246">noted by @JonyIveParody on X</a>.<br/>
-<br/>
-Apple also released macOS Ventura 13.6.2 with bug fixes. The update resolves an issue where 14-inch and 16-inch MacBook Pro models with Apple silicon chips "start up to a black screen or circled exclamation point after the built-in display's default refresh rate is changed," according to an <a href="https://support.apple.com/en-us/HT213327">Apple support document</a>.<br/>
-<br/>
-macOS 14.1.1 and macOS 13.6.2 <a href="https://support.apple.com/en-us/HT201222">do not have any published security patches</a>, despite Apple's release notes saying each update includes security fixes.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/macos-ventura.239">macOS Ventura</a>, <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/08/macos-14-1-1-bug-fixes/">macOS 14.1.1 Fixes M3 Mac Upgrade Issue and Photoshop Bug</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macos-14-1-1-fixes-m3-mac-upgrade-issue-and-photoshop-bug.2410289/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple to Launch Next Swift Student Challenge in February 2024</title>
-		<link>https://www.macrumors.com/2023/11/08/swift-student-challenge-february-2024/</link>
-		<comments>https://forums.macrumors.com/threads/apple-to-launch-next-swift-student-challenge-in-february-2024.2410286/</comments>
-		<pubDate>Wed, 08 Nov 2023 06:00:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/08/swift-student-challenge-february-2024/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Swift</category>
-		<category>Apple Developer Program</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2023/11/apples-swift-student-challenge-to-open-in-2024-with-new-category/">announced</a> that it plans to hold its next Swift Student Challenge in February 2024, marking the first time the company has provided advanced notice to give students time to prepare. The Swift Student Challenge tasks students with creating an innovative coding project using the Swift Playgrounds app.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/swift-student-challenge-2024.jpg" alt="" width="1600" height="900" class="alignleft size-full wp-image-921665" /><br/>
-This year's Swift Student Challenge will have 350 winners, and there will be a category that recognizes a total of 50 Distinguished Winners for standout submissions. All of the Distinguished Winners will be invited to Apple's headquarters in Cupertino, California, where they will be able to connect with their peers and the Apple team, while all winners will be granted a free one-year membership in the Apple Developer program.<blockquote>"At Apple, we believe that everyone can learn to code and build apps, and we're proud to support and recognize aspiring student developers with the Swift Student Challenge each year," said Susan Prescott, Apple's vice president of Worldwide Developer Relations and Education & Enterprise Marketing. "We know that students are eager to learn coding skills to solve challenges they care about -- whether it's building an app to help peers identify mental health resources or supporting sustainability efforts on campus -- and want to know how to get started. Apple is releasing new coding resources for students and educators, working with our community partners on dedicated Swift programming, and sharing advance notice of the Swift Student Challenge timeline for 2024. We can't wait to see the app playgrounds students submit next year."</blockquote><br/>
-Apple has been holding an annual Swift Student Challenge for several years now, but it is typically announced when the dates for WWDC are announced, and past winners have been invited to attend the Worldwide Developers Conference. Apple says that this year's 50 Distinguished Winners will be invited to Cupertino "next summer."<br/>
-<br/>
-Starting in February 2024, students will have three weeks to submit their app playgrounds to Apple. Apple judges entries on technical accomplishment, creativity of ideas, and content of written responses explaining the project. Students can sign up on the Apple Developer website to be <a href="https://developer.apple.com/swift-student-challenge/">notified when submissions open</a>.<br/>
-<br/>
-Along with the Swift Student Challenge, Apple is launching for new Everyone Can Code projects that students can use to learn to create apps and refine their app development skills. The new projects task students with designing a simple app, building with stacks and shapes, building custom shapes, and designing an app icon.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/swift/">Swift</a>, <a href="https://www.macrumors.com/guide/apple-developer-program/">Apple Developer Program</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/08/swift-student-challenge-february-2024/">Apple to Launch Next Swift Student Challenge in February 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-launch-next-swift-student-challenge-in-february-2024.2410286/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
