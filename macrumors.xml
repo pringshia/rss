@@ -14,12 +14,97 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 13 Nov 2023 00:04:01 PST</lastBuildDate>
+	<lastBuildDate>Mon, 13 Nov 2023 04:04:20 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Wi-Fi 6E Support: What iPhone, iPad, and Mac Users Need to Know</title>
+		<link>https://www.macrumors.com/how-to/use-wi-fi-6e-iphone-mac/</link>
+		<comments>https://forums.macrumors.com/threads/apple-wi-fi-6e-support-what-iphone-ipad-and-mac-users-need-to-know.2410829/</comments>
+		<pubDate>Mon, 13 Nov 2023 03:28:18 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/use-wi-fi-6e-iphone-mac&#038;post_date=1699885698/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Wi-Fi 6E</category>
+		
+
+		<description><![CDATA[Wi-Fi 6E, the latest advancement in Wi-Fi technology, offers several benefits when enabled on your iPhone or Mac, but it can also cause problems. This article explains what Wi-Fi 6E is, which Apple devices support it, and how to turn it off if you encounter issues.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/03/Mac-Pro-Fifteen-Inch-Air-Yellow-iphone-14-Triptych-Feature.jpg" alt="" width="2482" height="1396" class="aligncenter size-full wp-image-887564" /><br/>
+<h2>What is Wi-Fi 6E?</h2><br/>
+Wi-Fi 6 operates on the 2.4GHz and 5GHz bands, while Wi-Fi 6E also works over the 6GHz band for increased bandwidth. Wi-Fi 6E offers faster wireless speeds, lower latency, and less signal interference, so long as a supported device is connected to a Wi-Fi 6E router, which are available from brands like TP-Link, Asus, and Netgear. <br/>
+<br/>
+Wi-Fi 6E can handle more simultaneous connections without a decrease in performance, making it ideal for environments with many connected devices, such as smart homes and modern offices.<br/>
+<br/>
+<h2>Does My Apple Device Support Wi-Fi 6E?</h2><br/>
+As Wi-Fi 6E is relatively new, not all devices support it yet. This means you might not be able to take full advantage of its features if other devices in your network are not Wi-Fi 6E compatible. Apple devices that support the standard are as follows:<br/>
+<ul><br/>
+  <li>iMac (24-inch, Nov 2023)</li><br/>
+  <li>MacBook Pro (14-inch, Nov 2023)</li><br/>
+  <li>MacBook Pro (16-inch, Nov 2023)</li><br/>
+  <li>MacBook Pro (14-inch, 2023) or MacBook Pro (16-inch, 2023)</li><br/>
+  <li>Mac mini (2023)</li><br/>
+  <li>Mac Studio (2023)</li><br/>
+  <li>Mac Pro (2023)</li><br/>
+  <li>iPhone 15 Pro or iPhone 15 Pro Max</li><br/>
+  <li>iPad Pro 11-inch (4th generation) or iPad Pro 12.9 inch (6th generation)</li><br/>
+</ul><br/>
+<br/>
+<h2>Using Wi-Fi 6E Networks</h2><br/>
+To use a Wi-Fi 6E network with an Apple device, you need a Wi-Fi 6E router that also has its 2.4GHz or 5GHz bands enabled. For the best Wi-Fi performance, Apple recommends using a single network name across the router's 2.4GHz, 5GHz, and 6GHz bands. Otherwise, your Apple device will identify the network as having "limited compatibility," and the overall experience with some activities over the network might not be as expected.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/macos-ventura-also-join-5g-separate-network-name-for-6ghz-wi-fi.jpg" alt="" width="900" height="376" class="aligncenter size-full wp-image-922360" /><br/>
+<h2>Disabling Wi-Fi 6E Networks</h2><br/>
+The 6 GHz frequency band can have a shorter range and less ability to penetrate walls and other obstacles compared to the lower 2.4 GHz band. This might require more strategic placement of routers or the use of range extenders in larger spaces. Additionally, operating on a higher frequency band may lead to increased power consumption on your Mac, which could impact battery life in portable devices.<br/>
+<br/>
+Fortunately, if you experience any issues with a Wi-Fi 6E network, you can turn off Wi-Fi 6E mode for that network, and your Apple device will no longer use that network's 6GHz band. <br/>
+<h3>On Mac</h3><br/>
+<ol><li>Click the Apple logo () in the menu bar and select <strong>System Settings</strong>.</li><br/>
+<li>Click <strong>Wi-Fi</strong> in the side column.</li><br/>
+<li>Click <strong>Details</strong> next to the name of the Wi-Fi 6E network you're connected to.</li><br/>
+<li>From the pop-up menu next to "Wi-Fi 6E Mode," choose <strong>Off</strong>.</li></ol><img src="https://images.macrumors.com/article-new/2023/11/wi-fi-settings-macos.jpg" alt="settings" width="2054" height="722" class="aligncenter size-full wp-image-922366" /><br/>
+<h3>On iPhone and iPad</h3><br/>
+<ol><li>Open the <strong>Settings</strong> app and tap <strong>Wi-Fi</strong>.<br/>
+<li>Tap the name of the Wi-Fi 6E network you're connected to.</li><br/>
+<li>Tap <strong>Wi-Fi 6E Mode</strong>, then tap <strong>Off</strong>. </li></ol>Note that Wi-Fi 6E is not available in China mainland, while in Japan, Wi-Fi 6E requires iOS 16.2 or later or macOS 13.2 or later.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/wi-fi-6e/">Wi-Fi 6E</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/use-wi-fi-6e-iphone-mac/">Apple Wi-Fi 6E Support: What iPhone, iPad, and Mac Users Need to Know</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-wi-fi-6e-support-what-iphone-ipad-and-mac-users-need-to-know.2410829/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone App Sideloading Coming to Users in the EU in First Half of 2024</title>
+		<link>https://www.macrumors.com/2023/11/13/eu-iphone-app-sideloading-coming-2024/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-app-sideloading-coming-to-users-in-the-eu-in-first-half-of-2024.2410823/</comments>
+		<pubDate>Mon, 13 Nov 2023 02:00:05 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/13/eu-iphone-app-sideloading-coming-2024/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>App Store</category>
+		<category>European Union</category>
+		<category>Mark Gurman</category>
+		
+
+		<description><![CDATA[iPhone users in the EU next year will be able to download apps hosted outside of Apple's official App Store to comply with European regulations, according to <em>Bloomberg</em>'s Mark Gurman.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/General-iOS-17-Feature-Blue-Green.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-898581" /><br/>
+Otherwise known as sideloading, the change coming sometime in the first half of 2024 will allow customers to download apps without needing to use the App Store, which will mean developers won't need to pay Apple's 15 to 30 percent fees.<br/>
+<br/>
+Writing in the latest subscriber edition of his <a href="https://www.bloomberg.com/news/newsletters/2023-11-12/apple-aapl-plans-ambitious-ios-18-and-macos-15-updates-seeks-to-squash-bugs-lovjlsf6">Power On newsletter</a>, Gurman said Apple will introduce a "highly controlled system" that lets EU users install apps hosted elsewhere. Apple also will reportedly alter Messages and payment apps as part of the changes, likely via a localized iOS 17 update. <br/>
+<br/>
+Gurman's update contradicts a recent <a href="https://9to5mac.com/2023/11/10/ios-17-2-sideload-apps/">report</a> that suggested sideloading could arrive with Apple's iOS 17.2 software update, which is expected to be released next month. The report mistook as sideloading-related some new code that has to do with an upcoming framework for organizations to distribute apps to employees.<br/>
+<br/>
+The European Union's Digital Markets Act (DMA), which went into effect on November 1, 2022, requires "gatekeeper" companies to <a href="https://www.macrumors.com/2022/11/01/dma-eu-law-could-force-major-changes-apple/">open up their services and platforms</a> to other companies and developers.<br/>
+<br/>
+The DMA will have a big impact on Apple's platforms, and it could result in Apple making major changes to the ‌App Store‌, Messages, FaceTime, Siri, and more.<br/>
+<br/>
+Apple has claimed that sideloading will "undermine the privacy and security protections" that iPhone users rely on, leaving people vulnerable to malware, scams, data tracking, and other issues. Regardless of its stance, Apple must comply with the DMA or it risks fines of as much as 20 percent of its global revenue if the EU laws are violated.<br/>
+<br/>
+In a <a href="https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe">December 2022 report</a>, Gurman said Apple was considering implementing security requirements such as verification, a process that it could charge a fee for in lieu of collecting money from app sales. Apple has a verification system on Mac that allows users to be safe while giving them access to apps outside of the Mac App Store.<br/>
+<br/>
+If other countries introduce similar legislation, alternate app stores could conceivably expand beyond the European Union. The United States, for example, is considering legislation that would require Apple to <a href="https://www.macrumors.com/2022/05/26/apple-statement-revised-sideloading-bill/">allow sideloading</a>.<br/>
+<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/13/eu-iphone-app-sideloading-coming-2024/">iPhone App Sideloading Coming to Users in the EU in First Half of 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-app-sideloading-coming-to-users-in-the-eu-in-first-half-of-2024.2410823/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Kuo: Larger 12.9-inch iPad Air Coming Early 2024 Amid Lineup Refresh</title>
@@ -46,7 +131,7 @@ Kuo says the <a href="https://www.macrumors.com/2023/10/19/apple-working-on-larg
 <br/>
 Next in line for release are the <a href="https://www.macrumors.com/guide/oled-ipad-pro/">OLED iPad Pro</a> models that have been rumored for some time. Apple will launch a new 11-inch and 13-inch &zwnj;iPad Pro&zwnj; with a redesigned chassis and new M3 chip in the second quarter.<br/>
 <br/>
-Kuo believes that last on Apple's 2024 production roadmap are a new <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a> and an 11th-generation &zwnj;iPad&zwnj;, a new version Apple's most affordable tablet. This will see the discontinuation of Apple's 9th-generation &zwnj;iPad&zwnj; currently still offered alongside the 10th-generation model in Apple's lineup.<br/>
+Kuo believes that last on Apple's 2024 production roadmap are a new <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a>, and an 11th-generation &zwnj;iPad&zwnj; – a new version of Apple's most affordable tablet. This will see the discontinuation of Apple's 9th-generation &zwnj;iPad&zwnj; currently still offered alongside the 10th-generation model in Apple's lineup.<br/>
 <br/>
 Kuo believes these changes will see only modest gains in &zwnj;iPad&zwnj; shipments compared to this year, and predicts around 52-54 million units in 2024 compared to 2023. Such an increase remains way off Apple's peak of 63 million iPads shipped in 2022 during the pandemic.<br/>
 <br/>
@@ -653,50 +738,6 @@ You can check your ‌‌‌AirPods‌‌ or ‌‌‌‌‌‌&zwnj;AirPods Pro
  	<li>Look at the number next to "Firmware Version."</li><br/>
 </ul><br/>
 If we learn more about what's new in the firmware release, we'll update this article.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/airpods-pro-2-firmware-6b32/">Apple Releases New Firmware for AirPods Pro 2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-firmware-for-airpods-pro-2.2410493/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 17.2 to Expand Sensitive Content Warnings on iPhone</title>
-		<link>https://www.macrumors.com/2023/11/09/ios-17-2-expands-sensitive-content-warnings/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-2-to-expand-sensitive-content-warnings-on-iphone.2410492/</comments>
-		<pubDate>Thu, 09 Nov 2023 11:36:15 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/09/ios-17-2-expands-sensitive-content-warnings/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Starting with iOS 17.2, which is <a href="https://www.macrumors.com/2023/11/09/apple-seeds-ios-17-2-beta-2-to-developers/">currently in beta</a> and is expected to be released in December, Apple's opt-in <a href="https://www.macrumors.com/how-to/ios-enable-sensitive-content-warnings/">Sensitive Content Warning feature</a> will work with Contact Posters in both the Contacts and Phone apps, as well as stickers in the Messages app.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/Sensitive-Content-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-922023" /><br/>
-When turned on, the Sensitive Content Warning feature uses on-device machine learning to analyze photos and videos, and blurs photos or videos with any detected nudity before users view them. Apple says it does not receive any indication that nudity was detected, and does not gain access to the photos or videos as a result.<ul><li><a href="https://www.macrumors.com/how-to/ios-enable-sensitive-content-warnings/">iOS 17: How to Enable Sensitive Content Warnings</a></li></ul>Sensitive Content Warnings are also available for messages in the Messages app, AirDrop transfers, and FaceTime video messages. The feature launched earlier this year across the iPhone, iPad, Mac, and Apple Watch. Apple has offered a similar <a href="https://www.macrumors.com/how-to/enable-or-disable-communication-safety-ios/">Communication Safety feature for children</a> across the same devices since 2021.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/ios-17-2-expands-sensitive-content-warnings/">iOS 17.2 to Expand Sensitive Content Warnings on iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-2-to-expand-sensitive-content-warnings-on-iphone.2410492/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 17.2 Beta 2 Includes Feature for Recording Spatial Video on iPhone 15 Pro</title>
-		<link>https://www.macrumors.com/2023/11/09/ios-17-2-spatial-video-recording/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-2-beta-2-includes-feature-for-recording-spatial-video-on-iphone-15-pro.2410484/</comments>
-		<pubDate>Thu, 09 Nov 2023 10:42:18 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/09/ios-17-2-spatial-video-recording/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[The second beta of iOS 17.2 adds a new feature that allows an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> or &zwnj;iPhone 15 Pro&zwnj; Max to record Spatial Video that can be viewed in the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app on Apple's forthcoming <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> headset.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/spatial-video-apple-visioin-pro.jpg" alt="" width="1600" height="898" class="aligncenter size-full wp-image-911687" /><br/>
-Spatial Video recording can be enabled by going to the Settings app, tapping into the Camera section, selecting Formats, and toggling on "Spatial Video for &zwnj;Apple Vision Pro&zwnj;."<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="es" dir="ltr">iOS 17.2 Beta 2 enables Spatial Video recording <a href="https://t.co/mLMbI8aG6d">pic.twitter.com/mLMbI8aG6d</a></p>&mdash; iSoftware Updates (@iSWUpdates) <a href="https://twitter.com/iSWUpdates/status/1722684032796733923?ref_src=twsrc%5Etfw">November 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-Apple says that for best results when recording Spatial Video, the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> should be held stable in landscape orientation while capturing video. Video is recorded at 30 frames per second at 1080p, and one minute of video takes up 130MB of storage space.<br/>
-<br/>
-Spatial Videos taken with an &zwnj;iPhone 15 Pro&zwnj; can be viewed on the &zwnj;iPhone&zwnj; as well, but the video appears to be a normal video and not a Spatial Video. Spatial Videos feature a "Spatial" label to denote that they can be viewed in 3D on the Vision Pro.<br/>
-<br/>
-On the Vision Pro headset, Spatial Videos are not shown full screen by default. If you expand the video, Apple warns that the video "has excess motion" and "could cause discomfort if expanded."<br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/09/ios-17-2-spatial-video-recording/">iOS 17.2 Beta 2 Includes Feature for Recording Spatial Video on iPhone 15 Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-2-beta-2-includes-feature-for-recording-spatial-video-on-iphone-15-pro.2410484/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
