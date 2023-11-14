@@ -14,12 +14,166 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 13 Nov 2023 12:02:43 PST</lastBuildDate>
+	<lastBuildDate>Mon, 13 Nov 2023 16:11:19 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 17.2 Beta: All the New Features So Far</title>
+		<link>https://www.macrumors.com/guide/ios-17-2-beta-features/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-2-beta-all-the-new-features-so-far.2410880/</comments>
+		<pubDate>Mon, 13 Nov 2023 14:32:51 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-17-2-beta-features&#038;post_date=1699925571/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple is beta testing iOS 17.2, the second major update to the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> operating system that came out in September. We are expecting to see a public launch in December, so there are still several betas to go before the software debuts.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/iOS-17.2-Feature-Triad.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-918853" /><br/>
+This guide includes everything new in the iOS 17.2 beta, and we'll be updating it throughout the beta testing period. <br/>
+<br/>
+<h2 id="journal_app">Journal App</h2><br/>
+iOS 17.2 includes the Journal app that Apple announced as part of &zwnj;iOS 17&zwnj;. With the Journal app, users can record their daily activities and thoughts, with Apple providing optional prompts that can be used as inspiration.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Journal-App-iOS-17-Feature-Green.jpg" alt="" width="2612" height="1469" class="aligncenter size-full wp-image-918878" /><br/>
+A Journal entry can be added by tapping on the "+" button in the Journal app, and from there, users can choose a suggestion as the basis for their writing or just opt for "New Entry" to write anything at all.<br/>
+<br/>
+Entries are automatically tagged with a date for organizational purposes, but there are options for bookmarking, too. Journal entries can include images, voice recordings, and location tags.<br/>
+<br/>
+<h2 id="messages_app_sticker_reactions">Messages App Sticker Reactions</h2><br/>
+You can now long press on any chat bubble in the Messages app to add a sticker response that serves as an alternative to a tapback reaction. Tapping on "Add Sticker" lets you choose either a sticker or an emoji to apply to the corner of an iMessage.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-tapback-reply-sticker.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918892" /><br/>
+There was already an option to drag a sticker or an emoji onto any message bubble, but this is a much quicker method of quickly responding to an incoming message with a quick graphic that is more expressive than a tapback reaction.<br/>
+<br/>
+<h2 id="spatial_video_recording">Spatial Video Recording</h2><br/>
+With iOS 17.2, the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and &zwnj;iPhone 15 Pro&zwnj; Max can be used to record spatial video that will be viewable in the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app on the Vision Pro headset. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/spatial-video-apple-visioin-pro.jpg" alt="" width="1600" height="898" class="aligncenter size-full wp-image-911687" /><br/>
+Spatial video recording can be enabled by going to the Settings app, tapping into the Camera section, selecting Formats, and toggling on "Spatial Video for <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>." Apple says that for best results when recording spatial video, the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> should be held stable in landscape orientation while capturing video. Video is recorded at 30 frames per second at 1080p, and one minute of video takes up 130MB of storage space.<br/>
+<br/>
+When spatial videos captured with an &zwnj;iPhone&zwnj; are viewed on the &zwnj;iPhone&zwnj;, they appear as normal videos. Viewing the video in 3D requires the Vision Pro headset. <br/>
+<br/>
+<h2 id="collaborative_apple_music_playlists">Collaborative Apple Music Playlists</h2><br/>
+There is now an option to create a playlist in <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> that multiple people can add to. In a playlist you have made, tap on the three-dot icon in top right of the app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/apple-music-collaborative-playlists.jpg" alt="" width="5484" height="3085" class="aligncenter size-full wp-image-918890" /><br/>
+From there, select the Collaborate option and choose "Start Collaboration." You'll be able to create a link to the playlist, and anyone who has access to that link can add to it. You can also invite people to join via QR code, and if you want, you can approve each person that asks to join.<br/>
+<br/>
+<h2 id="favorites_apple_music_playlist">Favorites Apple Music Playlist</h2><br/>
+Songs that you have favorited in the &zwnj;Apple Music&zwnj; app are now aggregated into a Favorites playlist.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/apple-music-favorite-playlists.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918891" /><br/>
+<h2 id="apple_music_listening_history_focus_filter">Apple Music Listening History Focus Filter</h2><br/>
+There is a Focus Filter for the &zwnj;Apple Music&zwnj; Listening History feature, so if you want to let someone else use your device to listen to music, you can activate this to turn off the Listening History so their song choices won't affect your recommendations.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-focus-filters.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918906" /><br/>
+<h2 id="action_button_translate">Action Button Translate</h2><br/>
+&zwnj;iPhone 15 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; Max users can now <a href="https://www.macrumors.com/2023/10/26/ios-17-2-translate-action-button/">choose a new Translate option</a> for the Action button.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-translate.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918874" /><br/>
+When the Action button is set as Translate, pressing to hold causes the &zwnj;iPhone&zwnj; to pop up a Translate window that listens for spoken text. It is able to translate from one set language to another, using the languages that you have previously set up in the Translate app.<br/>
+<br/>
+<h2 id="imessage_contact_key_verification">iMessage Contact Key Verification</h2><br/>
+First previewed in December 2022, <a href="https://www.macrumors.com/2023/10/26/ios-17-2-imessage-contact-key-verification/">iMessage Contact Key Verification</a> is a feature designed for those who face "extraordinary digital threats," such as journalists, human rights activists, and government officials.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/12/Apple-advanced-security-iMessage-Contact-Key-Verification_screen-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-876653" /><br/>
+Users can ensure that there is no "man in the middle" snooping on iMessage conversations, and there is an option to display a Contact Verification Code so that iMessage users can verify that they're speaking to the correct individual during in-person meetings or on <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls.<br/>
+<br/>
+<h2 id="messages_in_icloud_syncing">Messages in iCloud Syncing</h2><br/>
+The "Messages" section in <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> in the Settings app has been renamed to "Messages in &zwnj;iCloud&zwnj;." It shows the total amount of storage that messages are taking up, the number of messages synced to &zwnj;iCloud&zwnj;, and the time of the last sync. There's also a "Sync Now" option to force an update.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-messages-in-icloud.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918896" /><br/>
+Apple previously said that additional settings would be synced through Messages in &zwnj;iCloud&zwnj; in &zwnj;iOS 17&zwnj;, like Text Message Forwarding, Send & Receive accounts, and SMS filters across devices, so this may see those additional settings syncing.<br/>
+<br/>
+<h2 id="apple_tv_app">Apple TV App</h2><br/>
+Apple has <a href="https://www.macrumors.com/2023/10/26/apple-tv-app-redesign-tvos-17-2/">removed the separate tabs</a> for Movies and TV shows in the Store section of the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app on the &zwnj;iPhone&zwnj; and the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> has said that Apple also plans to remove the option to purchase TV shows and movies from the iTunes app as part of a TV app redesign, but that has not yet happened.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-tv-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918905" /><br/>
+<h2 id="emergency_alerts_local_awareness">Emergency Alerts Local Awareness</h2><br/>
+Under Notifications & Emergency Alerts in the Settings app, there is a new "Local Awareness" option that can be turned on. Apple says that Local Awareness uses your approximate location to improve the timeliness, accuracy, and reliability of emergency alerts.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-emergency-local-awareness.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918902" /><br/>
+<h2 id="weather_widgets">Weather Widgets</h2><br/>
+There are new Details, Daily Forecast, and Sunrise/Sunset widgets for the Weather app. Details shows information like precipitation chance, UV index, wind speed, and air quality, while Daily Forecast offers the weather for the next few days in a small widget size. Sunrise/Sunset shows the sunrise and sunset times for each day.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/weather-app-widgets.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918889" /><br/>
+<h2 id="digital_clock_widget">Digital Clock Widget</h2><br/>
+There is a new Digital Clock widget that can be added to the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> or Lock Screen.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-clock-widget.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918894" /><br/>
+<h2 id="contact_posters">Contact Posters</h2><br/>
+You can now select rainbow-colored text for your name when setting up a Contact Poster in the Contacts app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-contact-poster-rainbow.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918893" /><br/>
+<h2 id="books_page-turning_animation">Books Page-Turning Animation</h2><br/>
+There's a new "Fast Fade" option for the page-turning animation in the Books app. Apple has also removed the icon that you could turn on to scroll through content quickly.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-page-turn-animation.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918897" /><br/>
+<h2 id="airplay">AirPlay</h2><br/>
+There's a new "<a href="https://www.macrumors.com/guide/airplay/">AirPlay</a> Receiver" setting that will allow the upcoming &zwnj;Apple Vision Pro&zwnj; headset to stream or share content to an &zwnj;iPhone&zwnj;.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-airplay-handoff.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918898" /><br/>
+It also looks like the &zwnj;AirPlay&zwnj; feature for hotels that Apple announced earlier this year is live or will be live soon. It is designed to let you &zwnj;AirPlay&zwnj; content from your &zwnj;iPhone&zwnj; or &zwnj;iPad&zwnj; to an AirPlay-equipped smart TV.<br/>
+<br/>
+<h2 id="memoji">Memoji</h2><br/>
+Apple added a "Body" section for Memoji where users can customize waist, bust, shoulders, and arms.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-memoji-body.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918895" /><br/>
+<h2 id="news_app">News App</h2><br/>
+The News app now supports Live Activities for following news-related events such as elections.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ios-17-2-apple-news-live-activities.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-918899" /><br/>
+<br/>
+<h2 id="expanded_sensitive_content_warnings">Expanded Sensitive Content Warnings</h2><br/>
+Apple's opt-in Sensitive Content Warning feature <a href="https://www.macrumors.com/2023/11/09/ios-17-2-expands-sensitive-content-warnings/">is expanding</a> to Contact Posters in the Contacts and Phone apps, as well as in stickers in the Messages app. Sensitive Content Warnings use on-device machine learning to blur out photos or videos with any nudity detected before users view them.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/Sensitive-Content-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-922023" /><br/>
+<h2 id="app_store_categories">App Store Categories</h2><br/>
+The "Apps" and "Games" sections of the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> have <a href="https://www.macrumors.com/2023/11/09/ios-17-2-beta-app-store/">new top bar navigation</a> that allows users to scroll through various app categories, exploring apps in that category with a tap.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/app-store-categories.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-922085" /><br/>
+The categories mirror the categories that can be found at the bottom of each &zwnj;App Store&zwnj; section, and it is a layout that Apple has previously used for <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>. <br/>
+<br/>
+<h2 id="applecare+_coverage_menu">AppleCare+ Coverage Menu</h2><br/>
+The <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a>+ "Coverage" menu is now in Settings > General rather than Settings > General > About, making it more visible than before. The Coverage interface lists &zwnj;AppleCare&zwnj;+ on your device and any paired AirPods. <br/>
+<br/>
+<h2 id="siri">Siri</h2><br/>
+<a href="https://www.macrumors.com/guide/siri/">Siri</a> in iOS 17.2 can provide details on an estimated time of arrival when there are active turn-by-turn directions in the Maps app, and the personal assistant can provide altitude data. <br/>
+<br/>
+<h2 id="more_ios_17.2_beta_features">More iOS 17.2 Beta Features</h2><br/>
+Know of a feature that we've missed on this list? Let us know in the comments below.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-17-2-beta-features/">iOS 17.2 Beta: All the New Features So Far</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-2-beta-all-the-new-features-so-far.2410880/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Performance Comparison: M3 Max MacBook Pro vs. M1 Max MacBook Pro</title>
+		<link>https://www.macrumors.com/2023/11/13/m3-max-macbook-pro-hands-on/</link>
+		<comments>https://forums.macrumors.com/threads/performance-comparison-m3-max-macbook-pro-vs-m1-max-macbook-pro.2410875/</comments>
+		<pubDate>Mon, 13 Nov 2023 13:41:17 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/13/m3-max-macbook-pro-hands-on/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		
+
+		<description><![CDATA[Apple last week launched its new MacBook Pro models with M3, M3 Pro, and M3 Max chips. We already <a href="https://www.macrumors.com/2023/11/07/m3-macbook-pro-hands-on/">took a look at the M3 Pro MacBook Pro</a>, but we also wanted to test out the top-of-the-line M3 Max chip to see how it measures up.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/up1ZUwgJCBc" title="MacBook Pro Face-off: M3 Max vs M1 Max Benchmarks Breakdown!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+While the M3 Pro's performance was disappointing overall compared to the <a href="https://www.macrumors.com/guide/m2/">M2</a> Pro and even the <a href="https://www.macrumors.com/guide/m1-pro/">M1 Pro</a>, the same can't be said of the M3 Max. <a href="https://browser.geekbench.com/v6/cpu/3529039">Using Geekbench</a>, the M3 Max is about as fast as the &zwnj;M2&zwnj; Ultra, earning a single-core score of 3217 and a multi-core score of 21597. The &zwnj;M2&zwnj; Max has a single-core score of 2737 and a multi-core score of 14503, and the difference is even more pronounced compared to the 2021 <a href="https://www.macrumors.com/guide/m1-max/">M1 Max</a>, the first 16-inch MacBook Pro to get an Apple silicon chip. The &zwnj;M1 Max&zwnj; has a single-core score of 2379 and a multi-core score of 12206.<br/>
+<br/>
+Other benchmarking tests show similar major improvements between the 2023 M3 Max and the 2021 &zwnj;M1 Max&zwnj;. In Cinebench, the M3 Max earned a multi-core CPU score of 1601, compared to a 788 score from the &zwnj;M1 Max&zwnj;. A classroom render in Blender took three and a half minutes with the M3 Max machine, and eight and a half minutes with the &zwnj;M1 Max&zwnj; machine.<br/>
+<br/>
+Exporting a 16 minute 4K video with multiple effects took five and a half minutes on the M3 Max, and seven and a half minutes on the &zwnj;M1 Max&zwnj;.<br/>
+<br/>
+As for SSD speeds, those were about the same. The &zwnj;M1 Max&zwnj; saw read/write scores of 5727/5980, respectively, while the M3 Max had read/write scores of 5032/6197, respectively.<br/>
+<br/>
+You'll want to watch our full video for a more detailed comparison between the two machines, which gives a useful look into just how far Apple silicon has come in two years. The &zwnj;M1 Max&zwnj; is still a super fast chip and you're probably not going to want to upgrade to the M3 Max if you've already got an &zwnj;M1 Max&zwnj; machine, but in some tests, the new chip is up to twice as fast.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/13/m3-max-macbook-pro-hands-on/">Performance Comparison: M3 Max MacBook Pro vs. M1 Max MacBook Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/performance-comparison-m3-max-macbook-pro-vs-m1-max-macbook-pro.2410875/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Gets 36% of Google&#039;s Safari Search Revenue</title>
@@ -704,58 +858,6 @@ Tests like these present a dilemma for customers looking to purchase a new MacBo
 After factoring in the extra &#36;200 for 16GB on a 14-inch M3 MacBook Pro, an M3 Pro model with 18GB and several other extra features is only &#36;200 more at &#36;1,999. More galling perhaps is the fact that rival laptops at similar ballpark prices (Microsoft Surface or Lenovo Thinkpad, for example) come with at least 16GB of memory as standard. Apple customers are expected to pay &#36;200 extra each jump up, which surely includes a healthy markup, however much Apple pays its RAM suppliers.<br/>
 <br/>
 Is Apple's 8GB starting configuration for a &#36;1,599 MacBook Pro really acceptable in 2023? And has the company's memory pricing policy affected your own purchase options? Let us know in the comments.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/10/8gb-ram-in-m3-macbook-pro-proves-the-bottleneck/">8GB RAM in M3 MacBook Pro Proves the Bottleneck in Real-World Tests</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/8gb-ram-in-m3-macbook-pro-proves-the-bottleneck-in-real-world-tests.2410564/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>OLED iPad Pros, MacBook Pros, MacBook Airs to Launch in That Order</title>
-		<link>https://www.macrumors.com/2023/11/10/ipad-pro-macbook-pro-macbook-air-oled-launches/</link>
-		<comments>https://forums.macrumors.com/threads/oled-ipad-pros-macbook-pros-macbook-airs-to-launch-in-that-order.2410547/</comments>
-		<pubDate>Fri, 10 Nov 2023 02:06:49 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/10/ipad-pro-macbook-pro-macbook-air-oled-launches/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPad Pro 11&quot;</category>
-		<category>iPad Pro 12.9&quot;</category>
-		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
-		<category>MacBook Air 13&quot;</category>
-		<category>OLED</category>
-		<category>Jeff Pu</category>
-		
-
-		<description><![CDATA[Apple's upcoming <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models with OLED displays will be followed by sequential OLED MacBook Pro and OLED <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> launches over the next three years, according to analyst Jeff Pu from Haitong International Technology Research.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/11/Oled-iPads-and-MackBook-Pro-Notch.jpg" alt="" width="2500" height="1403" class="aligncenter size-full wp-image-824300" /><br/>
-In a new investor memo seen by <em>MacRumors</em>, Pu said Apple intends to update the 14-inch and 16-inch MacBook Pro models with OLED screens sometime in 2026, which tallies with the timeframe previously predicted by <a href="https://www.macrumors.com/2023/04/04/macbook-pro-not-getting-oled-until-2026/">Ross Young of research firm Display Supply Chain Consultants</a>. <br/>
-<br/>
-Pu also reiterated <a href="https://www.macrumors.com/guide/oled-ipad-pro/">widely rumored</a> next-generation 11-inch and 13-inch &zwnj;iPad Pro&zwnj; models launching in 2024 that will also be equipped with OLED displays, with Apple aiming to ship 10 million units in the first year. <br/>
-<br/>
-There are currently no Macs or iPads with OLED displays. Compared to current &zwnj;iPad Pro&zwnj; and MacBook Pro models with LCD-based mini-LED screens, benefits of OLED technology would include increased brightness, higher contrast ratio with deeper blacks, improved power efficiency for longer battery life, and more.<br/>
-<br/>
-Pu also said that Apple is actively developing an OLED screen for the &zwnj;MacBook Air&zwnj;, although the release of the OLED MacBook Pro is expected to come first. Previous reports have <a href="https://www.macrumors.com/2023/03/30/oled-macbook-air-now-in-development/">suggested</a> that Samsung Display is developing a 13.3-inch OLED panel for a future &zwnj;MacBook Air&zwnj; model amid Apple's plans to switch several of its product lines to the display technology.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>, <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a>, <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/oled/">OLED</a>, <a href="https://www.macrumors.com/guide/jeff-pu/">Jeff Pu</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#11-iPad-Pro">11" iPad Pro (Caution)</a>, <a href="https://buyersguide.macrumors.com/#12-9-iPad-Pro">12.9" iPad Pro (Caution)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Don't Buy)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a>, <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a>, <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/10/ipad-pro-macbook-pro-macbook-air-oled-launches/">OLED iPad Pros, MacBook Pros, MacBook Airs to Launch in That Order</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/oled-ipad-pros-macbook-pros-macbook-airs-to-launch-in-that-order.2410547/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>More UK Bank Cards Now Show Account Balance in Apple Wallet</title>
-		<link>https://www.macrumors.com/2023/11/10/more-uk-banks-show-account-balance-apple-wallet/</link>
-		<comments>https://forums.macrumors.com/threads/more-uk-bank-cards-now-show-account-balance-in-apple-wallet.2410543/</comments>
-		<pubDate>Fri, 10 Nov 2023 00:45:24 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/10/more-uk-banks-show-account-balance-apple-wallet/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>United Kingdom</category>
-		<category>Apple Wallet</category>
-		
-
-		<description><![CDATA[Apple in iOS 17.1 began allowing ‌<a href="https://www.macrumors.com/guide/iphone/">iPhone</a>‌ users in the UK to <a href="https://www.macrumors.com/how-to/view-uk-bank-account-balance-apple-wallet/">view the account balances</a> of select bank cards and credit cards in the Wallet app, and now several more banks have added support for the feature.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/wallet-account-balance.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-922103" /><br/>
-Apple added the transaction and card balance functionality to the Wallet app in October as part of its Connected Cards feature, but initially only a handful of bank cards were compatible.<br/>
-<br/>
-According to Apple's <a href="https://support.apple.com/en-us/HT213903">updated support document</a>, account balance and full transaction history viewing now works with cards from Barclays, Barclaycard, First Direct, Halifax, HSBC, Lloyds, M&S Bank, Monzo Bank, NatWest Bank, and Royal Bank of Scotland.<br/>
-<ul><li><a href="https://www.macrumors.com/how-to/view-uk-bank-account-balance-apple-wallet/">How to View UK Bank Account Balance in Apple Wallet</a></li></ul><br/>
-UK banks support the Open Banking API to integrate with the Wallet app, which made the feature widely available to UK users from the off, but the Connected Cards rollout in the United States has been slower.<br/>
-<br/>
-Following the release of the feature, <em>MacRumors</em> discovered that code in iOS 17.1 and references on Apple's website suggested that the feature would <a href="https://www.macrumors.com/2023/09/29/apple-wallet-connected-cards-feature-in-us/">expand to the US</a>, which turned out to be accurate. For example, users of <a href="https://www.macrumors.com/2023/10/10/apple-wallet-app-discover-card-balance/">Discover cards</a> were first to see the option to view their total card balance and transaction history in Apple Wallet. <br/>
-<br/>
-Note that if you don't see the option to Get Started below your card in the Wallet app, your card issuer currently isn't eligible. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/united-kingdom/">United Kingdom</a>, <a href="https://www.macrumors.com/guide/apple-wallet/">Apple Wallet</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/10/more-uk-banks-show-account-balance-apple-wallet/">More UK Bank Cards Now Show Account Balance in Apple Wallet</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/more-uk-bank-cards-now-show-account-balance-in-apple-wallet.2410543/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
