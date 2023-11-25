@@ -14,12 +14,78 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Sat, 25 Nov 2023 04:03:56 PST</lastBuildDate>
+	<lastBuildDate>Sat, 25 Nov 2023 08:02:22 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>M2 vs. M3 Buyer&#039;s Guide: How Much Better Really Is M3?</title>
+		<link>https://www.macrumors.com/guide/how-much-better-really-is-m3/</link>
+		<comments>https://forums.macrumors.com/threads/m2-vs-m3-buyers-guide-how-much-better-really-is-m3.2411974/</comments>
+		<pubDate>Sat, 25 Nov 2023 07:00:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/how-much-better-really-is-m3&#038;post_date=1700935200/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Buyer's Guide</category>
+		<category>Featured</category>
+		<category>MacBook Air 15&quot;</category>
+		<category>MacBook Pro 13&quot;</category>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		<category>MacBook Air 13&quot;</category>
+		<category>Apple Silicon</category>
+		
+
+		<description><![CDATA[Apple's latest series of custom silicon chips designed for the Mac come just over a year after the introduction of the <a href="https://www.macrumors.com/guide/m2/">M2</a> chip in 2022, so how much better really is M3?<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/Apple-M3-chip-series.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-920046" /><br/>
+With the introduction of the M3 series, encompassing the M3, M3 Pro, and M3 Max chips, Apple once again set new benchmarks in performance, efficiency, and capabilities for the Mac. The transition from &zwnj;M2&zwnj; to M3 is marked by significant enhancements, primarily thanks to Apple's move to a <a href="https://www.macrumors.com/guide/3nm/">3nm</a> process, among other key architectural improvements such as a completely redesigned GPU.<br/>
+<br/>
+<ul><li><a href="https://www.macrumors.com/guide/apple-silicon-buyers-guide/">Apple Silicon Buyer's Guide: Which Chip Should You Choose?</a></li></ul><br/>
+<br/>
+When unveiling the M3 chips, Apple mainly focused on how they compare to the <a href="https://www.macrumors.com/guide/m1/">M1</a> series of chips, rather than their direct predecessors from the &zwnj;M2&zwnj; series. As the third major iteration of Apple silicon, it may not be clear how significant of an improvement the ‌M3 chips are‌ over the ‌&zwnj;M2&zwnj;. Apple offers a range of devices with the &zwnj;M2&zwnj; and M3 chips, so the extent to which the ‌&zwnj;M2&zwnj;‌ is better than its predecessor could also be an important consideration when purchasing a new Mac. Read on to learn about all of the differences between the two series of chips.<br/>
+<br/>
+<h3 id="m2_vs._m3">M2 vs. M3</h3><br/>
+The Apple M3 chip represents a significant advancement over its predecessor, with the headline upgrade being the transition to a more advanced fabrication process that is just &zwnj;3nm&zwnj; in size, down from 5nm on the &zwnj;M2&zwnj; series of chips. This is evident in the M3's increased transistor count, jumping from 20 billion in the &zwnj;M2&zwnj; to 25 billion, a 25% increase that contributes to its enhanced capabilities. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/M3-Chip-Apple-Event-Slide.jpg" alt="" width="1600" height="898" class="alignnone size-full wp-image-920110" /><br/>
+Benchmark tests underscore this progression, with the M3 outperforming the &zwnj;M2&zwnj; by about 17% in single-core tasks and approximately 21% in multi-core tasks. In GPU performance measured by Metal benchmarks, the M3 exhibits a notable improvement of around 15% over the &zwnj;M2&zwnj;.<br/>
+<br/>
+The M3 chip introduces an all-new GPU architecture. This architecture includes Dynamic Caching, a breakthrough feature that optimizes GPU memory allocation and utilization, adapting in real-time to varying task demands. This enhancement not only boosts graphics performance for intensive applications but also bolsters the chip's overall energy efficiency. This is particularly beneficial for graphics-heavy tasks like advanced video editing, 3D rendering, and gaming. It also features support for AV1 video decode.<br/>
+<br/>
+Despite similarities in the 16-core Neural Engine between the &zwnj;M2&zwnj; and M3, the M3's adoption of a &zwnj;3nm&zwnj; process leads to more efficient execution of machine learning and AI tasks. Additionally, the M3 maintains up to 24GB of unified memory, just like the &zwnj;M2&zwnj;, but leverages the new process for more efficient memory bandwidth utilization.<br/>
+<br/>
+One other notable difference between the &zwnj;M2&zwnj; and M3 chips is their energy efficiency. The &zwnj;3nm&zwnj; fabrication process enables the M3 to achieve higher performance without a proportional increase in power consumption, making the chip particularly appealing for laptop users who value a balance between power and battery life.<br/>
+<br/>
+Overall, the M3 chip is a considerable upgrade from the &zwnj;M2&zwnj;, distinguished by its higher transistor count, improved performance in CPU and GPU tasks, and superior energy efficiency. While the M3 offers clear advancements, the extent of its superiority does not necessitate an immediate upgrade for current &zwnj;M2&zwnj; users, especially if their existing workflows are still completed comfortably. For new buyers or those upgrading from older models, the M3's improvements in performance and efficiency will be much more pronounced. <br/>
+<br/>
+<h3 id="m2_pro_vs._m3_pro">M2 Pro vs. M3 Pro</h3><br/>
+The M3 Pro presents something of a mixed picture. Despite having fewer transistors than its predecessor (37 billion compared to the &zwnj;M2&zwnj; Pro's 40 billion), the M3 Pro leverages its &zwnj;3nm&zwnj; technology to achieve moderate performance improvements, but in some ways the chip is a step back.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/M3-Pro-Chip-Feature.jpg" alt="" width="2500" height="1405" class="alignnone size-full wp-image-921224" /><br/>
+In single-core tasks, the M3 Pro shows a 18% improvement over the &zwnj;M2&zwnj; Pro, much like the M3 compared to the &zwnj;M2&zwnj;. In multi-core tasks, the M3 Pro shows a modest improvement of approximately 8%. The &zwnj;M2&zwnj; Pro offers either six or eight high-performance cores and four energy-efficient cores. In contrast, the M3 Pro comes with either five or six high-performance cores and six energy-efficient cores. The increase in energy-efficient cores in the M3 Pro suggests a focus on maintaining high performance while optimizing for power efficiency, which could be particularly advantageous in battery-dependent or thermally constrained environments compared to its predecessor. <br/>
+<br/>
+The &zwnj;M2&zwnj; Pro is equipped with either 16 or 19 GPU cores, while the M3 Pro scales back to 14 or 18 GPU cores. In GPU performance, there is a decrease of about 5% compared to the &zwnj;M2&zwnj; Pro due to its reduced number of cores. Despite this, the new GPU architecture, inclusive of hardware-accelerated ray tracing, mesh shading, and Dynamic Caching, could still yield notable performance improvements in specific real-world workflows, especially those that leverage these new technologies.<br/>
+<br/>
+The M3 Pro's unified memory bandwidth of 150GB/s, compared to the &zwnj;M2&zwnj; Pro's 200GB/s, might impact tasks heavily reliant on rapid memory access, although the overall efficiency gains from the &zwnj;3nm&zwnj; process could balance out some of these constraints.<br/>
+<br/>
+Overall, the M3 Pro presents a complex predicament: It offers a clear advantage in single-core CPU performance and a slight edge in multi-core performance, but a step back in GPU performance and core counts. The M3 Pro is a potentially suitable choice for users who prioritize CPU performance and can benefit from the specific advancements in its new GPU architecture. For many current &zwnj;M2&zwnj; Pro users, especially those whose workflows are heavily GPU- and memory bandwidth-centric, the M3 Pro does not constitute a worthwhile upgrade at all.​<br/>
+<br/>
+<h3 id="m2_max_vs._m3_max">M2 Max vs. M3 Max</h3><br/>
+The M3 Max comes with an impressive 92 billion transistors, a significant increase from the &zwnj;M2&zwnj; Max's 67 billion, allowing for more complex and efficient processing capabilities. The &zwnj;M2&zwnj; Max features eight high-performance cores and four energy-efficient cores, while the M3 Max adds an extra two or four high-performance cores. This increase in the number of high-performance cores in the M3 Max indicates a shift towards providing better raw processing power compared to previous generations that had the same number of CPU cores as the <a href="https://www.macrumors.com/guide/m1-pro/">M1 Pro</a> and &zwnj;M2&zwnj; Pro chips.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/M3-Max-Chip.jpg" alt="" width="1600" height="895" class="alignnone size-full wp-image-920348" /><br/>
+In terms of CPU performance, the M3 Max demonstrates notable improvements over the &zwnj;M2&zwnj; Max. Benchmark tests reveal that the M3 Max outperforms the &zwnj;M2&zwnj; Max in both single-core and multi-core tasks. Specifically, the M3 Max shows an approximately 18% increase in single-core performance compared to the &zwnj;M2&zwnj; Max. In multi-core performance, the improvement is even more pronounced, with the M3 Max scoring about 38% higher than the &zwnj;M2&zwnj; Max. <br/>
+<br/>
+The GPU architecture of the M3 Max also sees significant enhancements. While the &zwnj;M2&zwnj; Max offers up to 38 GPU cores, the M3 Max pushes this even further with up to 40 cores. The M3 Max shows an increase of approximately 14% in GPU benchmarks, indicating a robust improvement over the &zwnj;M2&zwnj; Max. The increase in GPU cores from 38 in the &zwnj;M2&zwnj; Max to 40 in the M3 Max, combined with the advancements brought by the &zwnj;3nm&zwnj; process technology, contributes significantly to this improved performance. This enhancement in GPU performance is critical for professionals engaged in graphics-intensive tasks such as high-end video editing, 3D rendering, and complex visual effects work.<br/>
+<br/>
+The M3 Max also benefits from the advanced features introduced in its generation, including hardware-accelerated ray tracing and mesh shading, as well as Dynamic Caching. These features contribute to more efficient and powerful graphics processing, enabling the M3 Max to deliver superior performance in real-world applications.<br/>
+<br/>
+Another aspect where the M3 Max distinguishes itself is in unified memory quantities. While both chips offer substantial memory configuration options, the M3 Max supports up to 128GB of unified memory, 32GB more than the &zwnj;M2&zwnj; Max, catering to the most memory-intensive workflows.<br/>
+<br/>
+The M3 Max represents a significant leap over the &zwnj;M2&zwnj; Max, marked by its superior CPU and GPU performance, higher transistor count, and increased memory support. For professionals whose work demands a very high level of computational and graphical power, the M3 Max offers a compelling upgrade, even for some existing &zwnj;M2&zwnj; Max users. However, for users currently equipped with the &zwnj;M2&zwnj; Max, the decision to upgrade will depend on the specific demands of their workflows and the value they place on the incremental improvements offered by the M3 Max.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, <a href="https://www.macrumors.com/roundup/macbook-pro-13/">MacBook Pro 13"</a>, <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_13">13" MacBook Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Don't Buy)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a>, <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/how-much-better-really-is-m3/">M2 vs. M3 Buyer&#039;s Guide: How Much Better Really Is M3?</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m2-vs-m3-buyers-guide-how-much-better-really-is-m3.2411974/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>What to Expect From the Next iPad Mini Later in 2024</title>
@@ -246,50 +312,25 @@ You can find <a href="https://www.macrumors.com/2023/11/24/apple-black-friday-no
 		</item>
 		
 		<item>
-		<title>Best Buy Black Friday Sale Includes All-Time Low Prices on Nearly Every Apple MacBook</title>
+		<title>Best Buy Black Friday Sale Has Year&#039;s Best Prices on TVs, Video Games, Appliances, and More</title>
 		<link>https://www.macrumors.com/2023/11/24/best-buy-black-friday-sale-macbook/</link>
-		<comments>https://forums.macrumors.com/threads/best-buy-black-friday-sale-includes-all-time-low-prices-on-nearly-every-apple-macbook.2411901/</comments>
+		<comments>https://forums.macrumors.com/threads/best-buy-black-friday-sale-has-years-best-prices-on-tvs-video-games-appliances-and-more.2411901/</comments>
 		<pubDate>Fri, 24 Nov 2023 07:27:59 PST</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2023/11/24/best-buy-black-friday-sale-macbook/</guid>
 		<dc:creator>Mitchel Broussard</dc:creator>
 		<category>Black Friday</category>
 		<category>Deals</category>
-		<category>Featured</category>
 		
 
-		<description><![CDATA[Best Buy's <a href="https://howl.me/ck3ASx7u9vB">Black Friday event</a> has some of the best Apple deals online today, including record low prices on Apple's entire line of MacBook Air and MacBook Pro computers. Additionally, we're seeing great deals on TVs, audio equipment, smart home products, and more.<br/>
+		<description><![CDATA[Best Buy's <a href="https://howl.me/ck3ASx7u9vB">Black Friday event</a> has some of the best deals online today, including record low prices on TVs, audio equipment, smart home products, LEGO sets, and more.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2023/11/best-buy-snowflakes.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-923671" /><em><small>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
-My Best Buy Plus and My Best Buy Total members will be able to shop exclusive deals during this time, and save even more compared to non-members. This includes those all-time low prices on MacBook Air and MacBook Pro notebooks. You can <a href="https://howl.me/ck0EWogYi7m"><strong>sign up for these memberships</strong></a> on Best Buy's website, and prices start at &#36;49.99/year.<br/>
+My Best Buy Plus and My Best Buy Total members will be able to shop exclusive deals during this time, and save even more compared to non-members. You can <a href="https://howl.me/ck0EWogYi7m"><strong>sign up for these memberships</strong></a> on Best Buy's website, and prices start at &#36;49.99/year.<br/>
 <br/>
 <div class="center-wrap"><a href="https://howl.me/ck3ASx7u9vB"target="_blank"><div class="fancybutton"><div class="fancybadge">SITEWIDE SALE</div>Best Buy Black Friday Event</div></a></div><br/>
 <br/>
 There are plenty of deals beyond electronics in Best Buy's sale, including <a href="https://howl.me/ck3B6z6AXFB">low prices on LEGO sets</a> and up to 45 percent off major appliances. For the latter category, Best Buy has <a href="https://howl.me/ck3B5XT1Rha">up to &#36;1,490 in savings on select French door refrigerators</a>, as well as up to &#36;200 in Best Buy e-gift cards with qualifying purchases.<br/>
-<br/>
-<h2>MacBook Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/macbook-air-best-buy-snow.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-923674" /><br/>
-<br/>
-Remember that for many of the deals seen below, you'll need to have a My Best Buy Plus or Total membership in order to see these record low prices. If you don't have a membership, Best Buy's discounts still offer solid second-best prices this week.<br/>
-<br/>
-<ul><li><a href="https://howl.me/ck2JNVcOlvx">13-inch M1 MacBook Air (256GB)</a> for &#36;749.99 (&#36;249 off)</li><br/>
-<li><a href="https://howl.me/ck1sb5g8usy">13-inch M2 MacBook Air (256GB)</a> for &#36;899.00 (&#36;200 off)</li><br/>
-<li><a href="https://howl.me/ck2JTmfhKJS">13-inch M2 MacBook Air (512GB)</a> for &#36;1,199.00 (&#36;200 off)</li><br/>
-<li><a href="https://howl.me/ck1s37bL0vJ">15-inch M2 MacBook Air (256GB)</a> for &#36;999.00 (&#36;300 off)</li><br/>
-<li><a href="https://howl.me/ck1s4Up2SuU">15-inch M2 MacBook Air (512GB)</a> for &#36;1,199.00 (&#36;300 off)</li></ul><br/>
-<br/>
-<h2>MacBook Pro</h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/macbook-pro-best-buy-snow.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-923678" /><br/>
-<br/>
-Similar to the MacBook Air, the best MacBook Pro deals on Best Buy will require you to have a My Best Buy Plus or Total membership. If you don't, you can still net solid second-best prices on these brand new 2023 computers.<br/>
-<br/>
-<ul><li><a href="https://howl.me/ck2J5s7YV3A">14-inch 8-Core M3/512GB</a> - &#36;1,399.00, down from &#36;1,599.00 (&#36;200 off)</li><br/>
-<li><a href="https://howl.me/ck2J4wxoIRg">14-inch 8-Core M3/1TB</a> - &#36;1,599.00, down from &#36;1,799.00 (&#36;200 off)</li><br/>
-<li><a href="https://howl.me/ck2J1zgtu9i">14-inch 11-Core M3 Pro/512GB</a> - &#36;1,799.00, down from &#36;1,999.00 (&#36;200 off)</li><br/>
-<li><a href="https://howl.me/ck2J2hhxLv5">14-inch 12-Core M3 Pro/1TB</a> - &#36;2,199.00, down from &#36;2,399.00 (&#36;200 off)</li><br/>
-<li><a href="https://howl.me/ck2J3yeuKxf">14-inch 14-Core M3 Max/1TB</a> - &#36;2,949.00, down from &#36;3,199.00 (&#36;250 off)</li><br/>
-<li><a href="https://howl.me/ck2J96pslQT">16-inch 12-Core M3 Pro/18GB RAM/512GB</a> - &#36;2,249.00, down from &#36;2,499.00 (&#36;250 off)</li><br/>
-<li><a href="https://howl.me/ck2Ka1oWkCW">16-inch 12-Core M3 Pro/36GB RAM/512GB</a> - &#36;2,649.00, down from &#36;2,899.00 (&#36;250 off)</li></ul><br/>
 <br/>
 <h2>TVs</h2><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/tvs-best-buy-snow.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-923680" /><br/>
@@ -358,7 +399,7 @@ Shoppers should note that the Xbox Series X deal listed below is aimed at My Bes
 <li><a href="https://howl.me/ck3BL400wdv">BD-1 (Star Wars)</a> - &#36;79.99, down from &#36;99.99</li><br/>
 <li><a href="https://howl.me/ck3BK2UC94R">Vespa 125 (Icons)</a> - &#36;84.99, down from &#36;99.99</li><br/>
 <li><a href="https://howl.me/ck3BJSw9ScD">Medieval Blacksmith (Ideas)</a> - &#36;169.99, down from &#36;179.99</li><br/>
-<li><a href="https://howl.me/ck3BG32qfLg">NASA Space Shuttle Discovery (Icons)</a> - &#36;179.95, down from &#36;199.95</li></ul> You can find <a href="https://www.macrumors.com/2023/11/24/apple-black-friday-now-2023/"><strong>all the Apple Black Friday Deals currently available</strong></a> in our dedicated post. For everything else, we're keeping track of all of the season's best Apple-related deals in our <a href="https://www.macrumors.com/roundup/black-friday/"><strong>Black Friday roundup</strong></a>, so be sure to check back throughout the day for an updated list of all the most notable discounts you'll find for Black Friday 2023.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/24/best-buy-black-friday-sale-macbook/">Best Buy Black Friday Sale Includes All-Time Low Prices on Nearly Every Apple MacBook</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-buy-black-friday-sale-includes-all-time-low-prices-on-nearly-every-apple-macbook.2411901/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<li><a href="https://howl.me/ck3BG32qfLg">NASA Space Shuttle Discovery (Icons)</a> - &#36;179.95, down from &#36;199.95</li></ul> You can find <a href="https://www.macrumors.com/2023/11/24/apple-black-friday-now-2023/"><strong>all the Apple Black Friday Deals currently available</strong></a> in our dedicated post. For everything else, we're keeping track of all of the season's best Apple-related deals in our <a href="https://www.macrumors.com/roundup/black-friday/"><strong>Black Friday roundup</strong></a>, so be sure to check back throughout the day for an updated list of all the most notable discounts you'll find for Black Friday 2023.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/24/best-buy-black-friday-sale-macbook/">Best Buy Black Friday Sale Has Year&#039;s Best Prices on TVs, Video Games, Appliances, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-buy-black-friday-sale-has-years-best-prices-on-tvs-video-games-appliances-and-more.2411901/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -741,16 +782,15 @@ For more Black Friday deals on Apple products ranging from Macs to iPhones to Ap
 		<category>Featured</category>
 		
 
-		<description><![CDATA[Black Friday deals on the MacBook Pro and MacBook Air are plentiful this year, with the best deals found at Best Buy for My Best Buy Plus and My Best Buy Total members. If you don't have a membership, you can <a href="https://howl.me/ck4q4ZpifsR">sign up for one</a> starting at &#36;49.99/year on Best Buy's website.<br/>
+		<description><![CDATA[Black Friday is over but deals on the MacBook Pro and MacBook Air are still plentiful this weekend, with up to &#36;250 select models.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2023/11/macbook-air-presents.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-922400" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
 <h2 id="best_macbook_deals">Best MacBook Deals</h2><br/>
 <ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08N5M7S6K%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>13-inch M1 MacBook Air</strong></a> for &#36;749.99 at Amazon (&#36;249 off)</li><br/>
-<li><a href="https://howl.me/ck1sb5g8usy"><strong>13-inch M2 MacBook Air</strong></a> for &#36;899.00 at Best Buy for My Best Buy Plus/Total members (&#36;200 off)</li><br/>
-<li><a href="https://howl.me/ck1s37bL0vJ"><strong>15-inch M2 MacBook Air</strong></a> for &#36;999.00 at Best Buy for My Best Buy Plus/Total members (&#36;300 off)</li><br/>
-<li><a href="https://howl.me/ck1sZ0jMbvh"><strong>14-inch M3 MacBook Pro</strong></a> for &#36;1,399.00 at Best Buy for My Best Buy Plus/Total members (&#36;200 off)</li><br/>
-<li><a href="https://howl.me/ck4q0NptI2a"><strong>16-inch M3 Pro MacBook Pro</strong></a> for &#36;2,249.00 at Best Buy for My Best Buy Plus/Total members (&#36;250 off)</li></ul><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C75NSLJY%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>15-inch M2 MacBook Air</strong></a> for &#36;1,049.00 at Amazon (&#36;250 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>14-inch M3 MacBook Pro</strong></a> for &#36;1,449.00 at Amazon (&#36;150 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5BL45N%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>16-inch M3 Pro MacBook Pro</strong></a> for &#36;2,299.00 at Amazon (&#36;200 off)</li></ul><br/>
 <br/>
 <h2 id="best_black_friday_deals">Best Black Friday Deals</h2><br/>
 <ul><li><a href="https://www.macrumors.com/2023/11/24/apple-black-friday-now-2023/">The Best Black Friday Apple Deals</a></li><br/>
@@ -762,22 +802,21 @@ For more Black Friday deals on Apple products ranging from Macs to iPhones to Ap
 <li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-macbook-deals-today/">The Best Black Friday MacBook Deals</a></li></ul><br/>
 <br/>
 <h2 id="14-inch_m3_macbook_pro">14-Inch M3 MacBook Pro</h2><br/>
-Starting with the 512GB M3 14-inch MacBook Pro, you can get this computer for <a href="https://howl.me/ck1sZ0jMbvh"><strong>&#36;1,399.00</strong></a> at Best Buy, down from &#36;1,599.00. This is a new all-time low price on this version of the MacBook Pro, and you'll find a few other models on sale at record low prices as well. You'll need a My Best Buy Plus/Total membership in order to get these deals.<br/>
+Starting with the 512GB M3 14-inch MacBook Pro, you can get this computer for &#36;1,449.00 at Amazon, down from &#36;1,599.00. This is a solid second-best price.<br/>
 <br/>
-<div class="center-wrap"><a href="https://howl.me/ck1sZ0jMbvh"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>14-inch MacBook Pro (M3, 512GB) for &#36;1,399.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/ck1s09UEdeF"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>14-inch MacBook Pro (M3 Pro, 512GB) for &#36;1,799.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/ck1s1XidD9X"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>14-inch MacBook Pro (M3 Pro, 1TB) for &#36;2,199.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>14-inch MacBook Pro (M3, 512GB) for &#36;1,449.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5KB9M3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>14-inch MacBook Pro (M3 Pro, 1TB) for &#36;2,199.00</div></a></div><br/>
 <br/>
 <h2 id="16-inch_m3_macbook_pro">16-Inch M3 MacBook Pro</h2><br/>
-You can get the 512GB M3 Pro 16-inch MacBook Pro for <a href="https://howl.me/ck4q0NptI2a"><strong>&#36;2,249.00</strong></a> at Best Buy, down from &#36;2,499.00. Similar to the 14-inch models, at Best Buy you'll need a My Best Buy Plus or Total membership if you want to see these all-time low prices.<br/>
+You can get the 512GB M3 Pro 16-inch MacBook Pro for &#36;2,299.00 at Amazon, down from &#36;2,499.00. Similar to the 14-inch models, this is another second-best price.<br/>
 <br/>
-<div class="center-wrap"><a href="https://howl.me/ck4q0NptI2a"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>16-inch MacBook Pro (M3 Pro, 18GB RAM, 512GB) for &#36;2,249.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/ck4q2oEGyA3"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>16-inch MacBook Pro (M3 Pro, 36GB RAM, 512GB) for &#36;2,649.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5BL45N%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>16-inch MacBook Pro (M3 Pro, 18GB RAM, 512GB) for &#36;2,299.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5KXB2B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>16-inch MacBook Pro (M3 Pro, 36GB RAM, 512GB) for &#36;2,649.00</div></a></div><br/>
 <h2 id="15-inch_m2_macbook_air">15-Inch M2 MacBook Air</h2><br/>
-Best Buy has the 15-inch M2 MacBook Air (256GB) for the all-time low price of <a href="https://howl.me/ck1s37bL0vJ"><strong>&#36;999.00</strong></a>, down from &#36;1,299.00. The 512GB model is also available for the record low price of <a href="https://howl.me/ck1s4Up2SuU"><strong>&#36;1,199.00</strong></a>, down from &#36;1,499.00. These prices are only for My Best Buy Plus/Total members.<br/>
+Amazon has the 15-inch M2 MacBook Air (256GB) for the low price of 1,049.00, down from &#36;1,299.00.<br/>
 <br/>
-<div class="center-wrap"><a href="https://howl.me/ck1s37bL0vJ"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>15-inch M2 MacBook Air (256GB) for &#36;999.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/ck1s4Up2SuU"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>15-inch M2 MacBook Air (512GB) for &#36;1,199.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C75NSLJY%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-inch M2 MacBook Air (256GB) for &#36;1,049.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C76D4RWJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-inch M2 MacBook Air (512GB) for &#36;1,249.00</div></a></div><br/>
 <h2 id="13-inch_m2_macbook_air">13-Inch M2 MacBook Air</h2><br/>
 At Best Buy, you can get the 256GB 13-inch M2 MacBook Air for <a href="https://howl.me/ck1sb5g8usy"><strong>&#36;899.00</strong></a>, down from &#36;1,099.00. This deal is only available for My Best Buy Plus/Total members, and it's an all-time low price. You'll find a similar record low deal on the <a href="https://howl.me/ck1sc246Dch">512GB model</a> too.<br/>
 <br/>
@@ -802,16 +841,15 @@ You can find <a href="https://www.macrumors.com/2023/11/24/apple-black-friday-no
 		<category>Featured</category>
 		
 
-		<description><![CDATA[Black Friday is almost over, but Apple Watch deals are still available on multiple models, including Apple Watch Series 9, Apple Watch SE, and Apple Watch Ultra 2. Across the board, every deal mentioned in this post is an all-time low price.<br/>
+		<description><![CDATA[Black Friday is over, but Apple Watch deals are still available on multiple models, including Apple Watch Series 9, Apple Watch SE, and Apple Watch Ultra 2. Across the board, every deal mentioned in this post is an all-time low price.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2023/11/apple-watch-black-friday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921788" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
 <h2 id="best_apple_watch_deals">Best Apple Watch Deals</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch SE (40mm GPS)</strong></a> for &#36;179.00 (&#36;70 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch SE (44mm GPS)</strong></a> for &#36;209.00 (&#36;70 off)</li><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch SE (44mm GPS)</strong></a> for &#36;209.00 (&#36;70 off)</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%2Fref%3Dtwister_B0CNK5HZ5P%3F_encoding%3DUTF8%26th%3D1"><strong>Apple Watch Series 9 (41mm GPS)</strong></a> for &#36;329.00 (&#36;70 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCHS7M%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch Series 9 (45mm GPS)</strong></a> for &#36;359.00 (&#36;70 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch Ultra 2</strong></a> for &#36;729.99 (&#36;60 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXF9R4Y%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch Series 9 (45mm GPS)</strong></a> for &#36;359.00 (&#36;70 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch Ultra 2</strong></a> for &#36;739.00 (&#36;60 off)</li><br/>
 </ul><br/>
 <br/>
 <h2 id="best_black_friday_deals">Best Black Friday Deals</h2><br/>
@@ -824,11 +862,11 @@ You can find <a href="https://www.macrumors.com/2023/11/24/apple-black-friday-no
 <li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-macbook-deals-today/">The Best Black Friday MacBook Deals</a></li></ul><br/>
 <br/>
 <h2 id="apple_watch_series_9">Apple Watch Series 9</h2><br/>
-Right now, the best Black Friday Apple Watch deals are focused entirely on the new Series 9 models. You can get the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%2Fref%3Dtwister_B0CNK5HZ5P%3F_encoding%3DUTF8%26th%3D1">41mm GPS device for &#36;329.00</a> at Amazon, down from &#36;399.00. This &#36;70 discount is a new all-time low price on the 2023 smartwatch. Likewise, the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCHS7M%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue">45mm GPS is down to &#36;359.00</a> at Amazon, another &#36;70 markdown and record low price.<br/>
+Right now, the best Black Friday Apple Watch deals are focused entirely on the new Series 9 models. You can get the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%2Fref%3Dtwister_B0CNK5HZ5P%3F_encoding%3DUTF8%26th%3D1">41mm GPS device for &#36;329.00</a> at Amazon, down from &#36;399.00. This &#36;70 discount is a new all-time low price on the 2023 smartwatch. Likewise, the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXF9R4Y%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue">45mm GPS is down to &#36;359.00</a> at Amazon, another &#36;70 markdown and record low price.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2023/11/apple-watch-series-9-black-friday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921790" /><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%2Fref%3Dtwister_B0CNK5HZ5P%3F_encoding%3DUTF8%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (41mm GPS) for &#36;329.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCHS7M%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (45mm GPS) for &#36;359.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXF9R4Y%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (45mm GPS) for &#36;359.00</div></a></div><br/>
 <br/>
 If you're looking for cellular models, there are a few deals to discover. Amazon has the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX94FM3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">41mm cellular Series 9 model for &#36;429.00</a>, as well as the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm cellular Series 9 model for &#36;459.00</a>. Both of these are &#36;70 discounts and more all-time low prices for the smartwatch lineup.<br/>
 <br/>
@@ -836,13 +874,14 @@ If you're looking for cellular models, there are a few deals to discover. Amazon
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (45mm Cellular) for &#36;459.00</div></a></div><br/>
 <br/>
 <h2 id="apple_watch_ultra_2">Apple Watch Ultra 2</h2><br/>
-In terms of other Apple Watch deals, Amazon has the Apple Watch Ultra 2 for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;729.99</strong></a>, down from &#36;799.00. This sale is extensive, covering nearly every Ultra 2 model, and it's an all-time low price. You'll need to clip an on-page coupon in order to see this sale price.<br/>
+In terms of other Apple Watch deals, Amazon has the Apple Watch Ultra 2 for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;739.00</strong></a>, down from &#36;799.00. This sale is extensive, covering nearly every Ultra 2 model, and it's an all-time low price. You'll need to clip an on-page coupon in order to see this sale price.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2023/11/apple-watch-ultra-1-black-friday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921791" /><div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;69 OFF</div>Apple Watch Ultra 2 for &#36;729.99</div></a></div><br/>
+<img src="https://images.macrumors.com/article-new/2023/11/apple-watch-ultra-1-black-friday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921791" /><div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>Apple Watch Ultra 2 for &#36;739.00</div></a></div><br/>
 <br/>
 <h2 id="apple_watch_se">Apple Watch SE</h2><br/>
 Amazon has the 40mm GPS Apple Watch SE for just <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;179.00</strong></a>, down from &#36;249.00. This is a new all-time low price for Black Friday. The <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue">44mm GPS model</a> is also at an all-time low price.<br/>
 <br/>
+<div class="center-wrap"><em><strong>Update: The deal on the 40mm GPS model has expired.</strong></em></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch SE (40mm GPS) for &#36;179.00</div></a></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch SE (44mm GPS) for &#36;209.00</div></a></div><br/>
 <br/>
@@ -898,14 +937,14 @@ We've been tracking all of the season's best deals in our dedicated <a href="htt
 		<category>Deals</category>
 		
 
-		<description><![CDATA[This Black Friday season has numerous all-time low prices on iPads, including the 9th generation iPad, 10th generation iPad, iPad Air, and iPad mini.<br/>
+		<description><![CDATA[Black Friday might be over, but you can still find numerous all-time low prices on iPad models, including the 9th generation iPad, 10th generation iPad, iPad Air, and iPad mini.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2023/11/ipad-snowflakes.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-921376" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
 Unless otherwise noted, all the deals in this guide will be found on Amazon.<br/>
 <br/>
 <h2 id="best_ipad_deals">Best iPad Deals</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLT98Q7%2Fref%3Dtwister_B0CMXMNNCH%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"><strong>10th Gen iPad (64GB Wi-Fi)</strong></a> for &#36;349.00, down from &#36;449.00</li><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dtwister_B0CMXMNNCH%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"><strong>10th Gen iPad (64GB Wi-Fi)</strong></a> for &#36;349.00, down from &#36;449.00</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G983JJS%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>iPad mini 6 (64GB Wi-Fi)</strong></a> for &#36;399.99, down from &#36;499.99</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K1WWBJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>Apple Pencil 2</strong></a> for &#36;89.00, down from &#36;129.00</li></ul><br/>
 <br/>
@@ -925,9 +964,9 @@ You can get the 64GB Wi-Fi iPad for <a href="https://buy.geni.us/Proxy.ashx?TSID
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G9FPHY6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;99 OFF</div>10.2-inch iPad (64GB Wi-Fi) for &#36;229.99</div></a></div><h2 id="10th_gen_ipad">10th Gen iPad</h2><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/ipad-snowflakes-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-921383" /><br/>
 <br/>
-Apple's 64GB Wi-Fi iPad from 2022 is being discounted to the all-time low price of <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLT98Q7%2Fref%3Dtwister_B0CMXMNNCH%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;349.00</strong></a> right now on Amazon, from &#36;449.00. This upgraded model comes with a larger 10.9-inch Liquid Retina display, A14 Bionic chip for a performance boost, Wi-Fi 6, and more.<br/>
+Apple's 64GB Wi-Fi iPad from 2022 is being discounted to the all-time low price of <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dtwister_B0CMXMNNCH%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;349.00</strong></a> right now on Amazon, from &#36;449.00. This upgraded model comes with a larger 10.9-inch Liquid Retina display, A14 Bionic chip for a performance boost, Wi-Fi 6, and more.<br/>
 <br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLT98Q7%2Fref%3Dtwister_B0CMXMNNCH%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>10.9-inch iPad (64GB Wi-Fi) for &#36;349.00</div></a></div><h2 id="6th_gen_ipad_mini">6th Gen iPad Mini</h2><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dtwister_B0CMXMNNCH%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>10.9-inch iPad (64GB Wi-Fi) for &#36;349.00</div></a></div><h2 id="6th_gen_ipad_mini">6th Gen iPad Mini</h2><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/ipad-mini-snowflakes.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-921380" /><br/>
 <br/>
 Apple's 8.3-inch iPad mini 6 is down to <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G983JJS%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;399.99</strong></a> on Amazon, down from &#36;499.00. This iPad mini has an 8.3-inch Liquid Retina display, A15 Bionic chip, USB-C, and more.<br/>
@@ -1035,12 +1074,12 @@ To cap things off, we're pointing out some great iPhone accessories that you can
 		<category>Featured</category>
 		
 
-		<description><![CDATA[Major discounts are always available on the AirPods around the holiday season, and this Black Friday is no different. We're tracking all-time low prices on AirPods 2, AirPods 3, AirPods Pro 2, and more below.<br/>
+		<description><![CDATA[Major discounts are always available on the AirPods around the holiday season, and this week is no different. We're tracking all-time low prices on AirPods 2, AirPods 3, AirPods Pro 2, and more below.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2023/11/new-airpods-early-black-friday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-920764" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
 <h2 id="best_airpods_deals">Best AirPods Deals</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>AirPods 2</strong></a> for &#36;89.99 at Amazon (&#36;49 off)</li><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>AirPods 2</strong></a> for &#36;79.99 at Amazon (&#36;49 off)</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BDHB9Y8H%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>AirPods 3</strong></a> for &#36;139.99 at Amazon (&#36;29 off)</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>AirPods Pro 2 (USB-C)</strong></a> for &#36;189.99 at Amazon (&#36;59 off)</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08PZJN7BD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>AirPods Max</strong></a> for &#36;449.99 at Amazon (&#36;99 off)</li></ul><br/>
@@ -1055,9 +1094,9 @@ To cap things off, we're pointing out some great iPhone accessories that you can
 <li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-macbook-deals-today/">The Best Black Friday MacBook Deals</a></li></ul><br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2019/01/airpods-red-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921465" /><br/>
-We originally tracked the AirPods 2 for &#36;69.00 at Amazon in early November, but that sale quickly expired. Amazon now has this model for &#36;89.99, down from &#36;129.00. This version of the AirPods is perfect for anyone on your holiday shopping list who may be asking for a simple and reliable pair of wireless earbuds, particularly at this insanely low price tag. <br/>
+We originally tracked the AirPods 2 for &#36;69.00 at Amazon in early November, but that sale quickly expired. Amazon now has this model for &#36;79.99, down from &#36;129.00. This version of the AirPods is perfect for anyone on your holiday shopping list who may be asking for a simple and reliable pair of wireless earbuds, particularly at this insanely low price tag. <br/>
 <br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;39 OFF</div>AirPods 2 for &#36;89.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>AirPods 2 for &#36;79.99</div></a></div><br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2019/01/airpods-3-red.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921463" /><br/>
 Amazon has the AirPods 3 with Lightning Charging Case for &#36;139.99, down from &#36;169.00. These are upgraded in a few ways from the AirPods 2, with spatial audio, Adaptive EQ, force sensor controls, sweat and water resistance, and more.<br/>
@@ -1089,7 +1128,7 @@ We've been tracking all of the season's best deals in our dedicated <a href="htt
 		<category>Featured</category>
 		
 
-		<description><![CDATA[Black Friday is winding down, but you can still find some of the best deals of the years for Apple products like AirPods, iPad, iPhone, MacBook, and much more.<br/>
+		<description><![CDATA[Black Friday 2023 has officially ended, but we're still tracking some of the best deals of the year on Apple products like AirPods, iPad, iPhone, MacBook, and many more.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2022/11/General-Black-Friday-Deals-2022-Green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-874256" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
@@ -1129,9 +1168,9 @@ B&H Photo has been the only retailer with a consistent discount on Apple's secon
 <h3 id="airpods_2">AirPods 2</h3><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/airpods-2-bulbs.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-923442" /><br/>
 <br/>
-We originally tracked the AirPods 2 for &#36;69.00 at Amazon in early November, but that sale quickly expired. For now, you can get the AirPods 2 for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;89.99</strong></a>, down from &#36;129.00. This version of the AirPods is perfect for anyone on your holiday shopping list who may be asking for a simple and reliable pair of wireless earbuds, particularly at this insanely low price tag. <br/>
+We originally tracked the AirPods 2 for &#36;69.00 at Amazon in early November, but that sale quickly expired. For now, you can get the AirPods 2 for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;79.99</strong></a>, down from &#36;129.00. This version of the AirPods is perfect for anyone on your holiday shopping list who may be asking for a simple and reliable pair of wireless earbuds, particularly at this insanely low price tag. <br/>
 <br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;39 OFF</div>AirPods 2 for &#36;89.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>AirPods 2 for &#36;79.99</div></a></div><br/>
 <br/>
 <h3 id="airpods_3">AirPods 3</h3><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/airpods-3-bulbs.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-923441" /><br/>
@@ -1209,11 +1248,11 @@ We've been tracking a great all-time low discount on the ninth generation iPad s
 <h3 id="10th_gen_ipad">10th Gen iPad</h3><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/ipad-10-bulbs.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-923455" /><br/>
 <br/>
-The upgraded iPad from 2022 also has a great discount on Amazon right now, with the 64GB Wi-Fi model on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLT98Q7%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;349.00</strong></a>, down from &#36;449.00. This model comes with a bigger 10.9-inch Liquid Retina display, A14 Bionic chip for a performance boost, Wi-Fi 6, and more.<br/>
+The upgraded iPad from 2022 also has a great discount on Amazon right now, with the 64GB Wi-Fi model on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;349.00</strong></a>, down from &#36;449.00. This model comes with a bigger 10.9-inch Liquid Retina display, A14 Bionic chip for a performance boost, Wi-Fi 6, and more.<br/>
 <br/>
 This beats the sale from earlier in the month by &#36;50 and is a new all-time low price on the iPad.<br/>
 <br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLT98Q7%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>10.9-inch iPad (64GB Wi-Fi) for &#36;349.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>10.9-inch iPad (64GB Wi-Fi) for &#36;349.00</div></a></div><br/>
 <br/>
 <h3 id="6th_gen_ipad_mini">6th Gen iPad Mini</h3><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/ipad-mini-bulbs.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-923454" /><br/>
@@ -1269,9 +1308,9 @@ For the 14-inch models at Best Buy below, note that the prices reflect My Best B
 <h3 id="m3_imac">M3 iMac</h3><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/imac-bulbs.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-923460" /><br/>
 <br/>
-Amazon is offering record low prices on the just-released M3 iMac, with prices as low as &#36;1,234.00 for the 8-Core GPU, 256GB model. In total, these sales represent up to &#36;100 off the new M3 iMac.<br/>
+Amazon is offering record low prices on the just-released M3 iMac, with prices as low as &#36;1,229.00 for the 8-Core GPU, 256GB model. In total, these sales represent up to &#36;100 off the new M3 iMac.<br/>
 <br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5HSYSS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;65 OFF</div>M3 iMac (8-Core GPU, 256GB) for &#36;1,234.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5HSYSS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>M3 iMac (8-Core GPU, 256GB) for &#36;1,229.00</div></a></div><br/>
 <br/>
 <h2 id="apple_watch">Apple Watch</h2><br/>
 <h3 id="apple_watch_series_9">Apple Watch Series 9</h3><br/>
@@ -1299,8 +1338,9 @@ Amazon has a few models of the Apple Watch Ultra 2 for the all-time low price of
 <br/>
 If you want a cheaper Apple Watch, Amazon has the 40mm GPS Apple Watch SE for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;179.00</strong></a>, down from &#36;249.00. This one was at &#36;189.00 just last week, so this is yet another record low price for the 2022 Apple Watch SE, and you'll find multiple best-ever prices across the lineup.<br/>
 <br/>
+<div class="center-wrap"><em><strong>Update: The deal on the 40mm GPS model has expired.</strong></em></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch SE (40mm GPS) for &#36;179.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5W8YM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch SE (44mm GPS) for &#36;209.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYCT6C%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch SE (44mm GPS) for &#36;209.00</div></a></div><br/>
 <br/>
 <h2 id="accessories">Accessories</h2><br/>
 <h3 id="iphone_15_cases">iPhone 15 Cases</h3><br/>
@@ -1456,54 +1496,6 @@ Read our <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air roundup<
 <br/>
 <h2>Launch Timing</h2><br/>
 Kuo said the new 10.9-inch and 12.9-inch iPad Air models are scheduled for mass production in the first quarter of 2024, meaning that the devices should launch at some point in the first half of the year. March is a common month for Apple to announce new products, as is June during Apple's annual developers conference WWDC.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/23/what-to-expect-from-2024-ipad-air/">What to Expect From the Next iPad Air in Early 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/what-to-expect-from-the-next-ipad-air-in-early-2024.2411843/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18: All the Rumors and Known Features So Far</title>
-		<link>https://www.macrumors.com/2023/11/23/ios-18-rumors/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-all-the-rumors-and-known-features-so-far.2411801/</comments>
-		<pubDate>Thu, 23 Nov 2023 06:50:59 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/23/ios-18-rumors/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[iOS 18 is still over seven months away from being announced, but there are already a few rumors and expectations for the software update. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iOS-18-Mock-Feature-Baubles.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-909207" /><br/>
-iOS 18 should be announced at Apple's annual developers conference WWDC next June, and released to all users with a compatible iPhone in September. Below, we recap all of the rumors and information pertaining to the update so far.<br/>
-<br/>
-<h2>"Major New Features"</h2><br/>
-In his newsletter this month, <em>Bloomberg</em>'s Mark Gurman said <a href="https://www.macrumors.com/2023/11/13/apple-says-ios-18-ambitious-compelling/">iOS 18 could be a "relatively groundbreaking" update</a> with "major new features and designs," although he did not share many specific details. Gurman added that Apple's senior management has internally described its upcoming operating systems as "ambitious and compelling."<br/>
-<br/>
-<h2>Smarter Siri</h2><br/>
-Gurman said that <a href="https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/">iOS 18 will feature generative AI technology</a> that "should improve how both Siri and the Messages app can field questions and auto-complete sentences." He said Apple has explored new generative AI features for other apps across its platforms, including Apple Music, Pages, Keynote, and Xcode.<br/>
-<br/>
-<em>The Information</em> reported that Apple plans to <a href="https://www.macrumors.com/2023/09/06/ios-18-siri-improvements/">incorporate large language models into Siri</a> to let users automate complex tasks, a feature that would involve deeper integration with the Shortcuts app. The report said this feature is expected to be released in an iPhone software update coming next year, which could be iOS 18.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iOS-18-Mock-Siri-Feature-Baubles.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-909208" /><br/>
-Generative AI surged in popularity last year when OpenAI released <a href="https://www.macrumors.com/2023/11/22/chatgpt-app-voice-chat-free-to-all/">ChatGPT</a>, a chatbot that can respond to questions and other prompts. Google and Microsoft released similar chatbots earlier this year, as more companies race into the space. The chatbots are trained on large language models, allowing them to respond like a human.<br/>
-<br/>
-Apple has publicly confirmed its interest in generative AI, and it has mentioned the technology <a href="https://www.macrumors.com/2023/06/02/apple-seeking-generative-ai-engineers-for-ar-vr/">in job listings</a> posted on its website in recent months.<br/>
-<br/>
-"We've been working on generative AI for years and have done a lot of research," said Apple CEO Tim Cook, in an <a href="https://www.forbes.com/sites/davidphelan/2023/09/29/apples-tim-cook-talks-about-ai-apps-vision-pro-and-iphone-gaming/">interview with <em>Forbes</em></a> in September. "And we're going to approach it really thoughtfully and think about it deeply, because we're fully aware of the not-good uses that it can have, and the issues around bias and hallucination and so forth."<br/>
-<br/>
-<h2>Improved Texting With Android Users</h2><br/>
-Earlier this month, Apple announced that it will <a href="https://www.macrumors.com/2023/11/16/apple-to-adopt-rcs-messaging-standard/">finally support the cross-platform messaging standard RCS</a> in the Messages app on the iPhone starting "later next year," so it will likely be an iOS 18 feature based on this timeframe.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/07/General-Apps-Messages.jpg" alt="" width="2500" height="1407" class="aligncenter size-full wp-image-808613" /><br/>
-RCS support should result in several improvements to the default messaging experience between iPhones and Android devices:<ul><br/>
- <li>Higher-resolution photos and videos</li><br/>
- <li>Audio messages</li><br/>
- <li>Typing indicators</li><br/>
- <li>Read receipts</li><br/>
- <li>Wi-Fi messaging between iPhones and Android devices</li><br/>
- <li>Improved group chats, including the ability for iPhone users to leave a conversation that includes Android users</li><br/>
- <li>Improved encryption compared to SMS</li><br/>
-</ul>These features are already available for iPhone-to-iPhone conversations with blue bubbles, via iMessage, and many of the features are also available in third-party messaging apps, such as WhatsApp and Telegram. RCS support on the iPhone will extend the features to green bubbles in the built-in Messages app, providing for a much better iPhone/Android messaging experience compared to the current SMS standard.<br/>
-<br/>
-Read our <a href="https://www.macrumors.com/guide/rcs/">guide about Apple implementing RCS on the iPhone</a> for additional details.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/23/ios-18-rumors/">iOS 18: All the Rumors and Known Features So Far</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-all-the-rumors-and-known-features-so-far.2411801/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
