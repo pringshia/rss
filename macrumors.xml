@@ -14,12 +14,227 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 27 Nov 2023 04:04:47 PST</lastBuildDate>
+	<lastBuildDate>Mon, 27 Nov 2023 08:03:21 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Is 8GB of RAM Enough for MacBook Pro?</title>
+		<link>https://www.macrumors.com/guide/is-8gb-of-ram-enough-for-macbook-pro/</link>
+		<comments>https://forums.macrumors.com/threads/is-8gb-of-ram-enough-for-macbook-pro.2412140/</comments>
+		<pubDate>Mon, 27 Nov 2023 07:37:58 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/is-8gb-of-ram-enough-for-macbook-pro&#038;post_date=1701110278/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		
+
+		<description><![CDATA[The debate over whether 8GB of RAM is sufficient for a MacBook Pro has long been a <a href="https://www.macrumors.com/2023/11/08/8gb-ram-m3-macbook-pro-like-16-gb-pc/">topic of contention</a>. The controversy goes back to at least 2012, when Apple launched the first MacBook Pro with Retina display, which started with 8GB of RAM. In 2023, Apple still offers 8GB as the base configuration for its <a href="https://www.macrumors.com/2023/10/30/apple-announces-m3-macbook-pros/">latest 14-inch MacBook Pro</a>. Coupled with the significant cost of upgrading to higher memory options, Apple's decision has once again sparked discussions about the adequacy and value of this configuration.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/No-13-Inch-M3-MacBook-Pro-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921296" /><br/>
+Of course, Macs have changed a lot over the last decade. For one, Apple no longer relies on Intel processors to power its machines, having developed its own Apple silicon, which is faster and more power efficient. This is because Apple's custom chips use "system-on-a-chip" (SoC) architecture, which integrates several processing cores (CPUs), graphics cores (GPUs), cache memory, and several other components within a single physical package.<br/>
+<ul><li><a href="https://www.macrumors.com/guide/apple-silicon-buyers-guide/">Apple Silicon Buyer's Guide: Which Chip Should You Choose?</a></li><br/>
+<li><a href="https://www.macrumors.com/guide/14-inch-vs-16-inch-macbook-pro/">Late 2023 MacBook Pro Buyer's Guide: 14-Inch vs 16-Inch Models</a></li></ul><br/>
+Apple's M-series of chips also use something called "unified memory," which sits alongside the SoC. Apple's adoption of this high-bandwidth, low-latency memory means the main chip avoids having to communicate data between different memory locations, and it makes the memory pool available for both the CPU and GPU, allowing it to be allocated dynamically depending on the task at hand. <br/>
+<br/>
+While the overall result of this integrated SoC architecture is better performance and efficiency, the downside is that Apple's unified memory is fixed at the point of purchase and cannot be upgraded at a later date. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/M3-chip-series-unified-memory-architecture.jpg" alt="" width="2400" height="1350" class="aligncenter size-full wp-image-920050" /><br/>
+Opting for more unified memory is not cheap either. For instance, going from the base 8GB of unified memory to 16GB or 24GB costs an extra &#36;200 and &#36;400, respectively. Therefore, it's important when buying a new Mac that you choose the right amount for your individual needs. User opinions on this topic are diverse, with some finding 8GB adequate and others feeling constrained. Ultimately, it comes down to what you want to do on your Mac. Here are the main factors to keep in mind.<br/>
+<br/>
+<h2 id="8gb_or_more_ram">8GB or More RAM?</h2><br/>
+<ul><li><strong>Daily Tasks and Light Usage</strong>: For basic tasks like web browsing, document editing, and media consumption, 8GB of RAM generally suffices. Modern Macs use features like memory compression and intelligent allocation, which help macOS run smoothly even during multitasking.<br/>
+<li><strong>Professional and Creative Workloads</strong>: For more intensive tasks such as video editing, 3D modeling, or software development, 8GB may be limiting, and can cause slower performance and reduced efficiency, as <a href="https://www.macrumors.com/2023/11/10/8gb-ram-in-m3-macbook-pro-proves-the-bottleneck/">independent tests have shown</a>. This is especially true if you work on advanced projects that require enormous files and content libraries.</li></ul> <br/>
+<br/>
+<h2 id="wrapping_up">Wrapping Up</h2><br/>
+Ultimately, when buying a MacBook Pro, opting for 8GB of unified memory is a cost-effective option if you have light usage requirements, and it offers adequate performance for everyday tasks. However, if you intend to use more demanding applications, it may be worth paying the extra for more memory. This will reduce the risk of the memory acting as a system bottleneck, and allow the Apple silicon in your Mac to perform at its maximum potential. <br/>
+<ul><li><a href="https://www.macrumors.com/2023/11/08/8gb-ram-m3-macbook-pro-like-16-gb-pc/">8GB RAM on M3 MacBook Pro 'Analogous to 16GB' on PCs, Claims Apple</a></li></ul><br/>
+Starting at &#36;1,599, Apple's 14-inch M3 MacBook Pro comes with 8GB of unified memory, and choosing 16GB or 24GB costs an extra &#36;200 and &#36;400, respectively. However, bear in mind that after factoring in the extra &#36;200 for 16GB, an M3 Pro model with 18GB and several other extra features is only &#36;200 more at &#36;1,999.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/is-8gb-of-ram-enough-for-macbook-pro/">Is 8GB of RAM Enough for MacBook Pro?</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/is-8gb-of-ram-enough-for-macbook-pro.2412140/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Best Cyber Monday Apple Accessory Deals Available Today</title>
+		<link>https://www.macrumors.com/2023/11/27/cyber-monday-accessory-deals/</link>
+		<comments>https://forums.macrumors.com/threads/best-cyber-monday-apple-accessory-deals-available-today.2412138/</comments>
+		<pubDate>Mon, 27 Nov 2023 07:23:53 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/27/cyber-monday-accessory-deals/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Yesterday we shared a <a href="https://www.macrumors.com/2023/11/26/apple-cyber-monday-deals-2023/"><strong>huge list of deals on Apple products for Cyber Monday</strong></a>, and now we're shifting our focus to accessory sales from popular third-party retailers. This includes discounts from Sonos, Twelve South, Nomad, Satechi, and many more.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/11/General-cyber-monday-20-sale-feature-2.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-772422" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+Many Cyber Monday deals are known to sell out fast, so keep that in mind when browsing our posts and shopping online today. If you see something you're interested in, be sure to snag it quickly. You can also check out Cyber Monday deals on Apple products in our individual posts listed below.<br/>
+<br/>
+<ul><li><a href="https://www.macrumors.com/2023/11/26/apple-cyber-monday-deals-2023/">The Best Cyber Monday Apple Deals</a></li><br/>
+<li><a href="https://www.macrumors.com/2023/11/24/4-black-friday-airpods-deals/">The Best Cyber Monday AirPods Deals</a></li><br/>
+<li><a href="https://www.macrumors.com/2023/11/24/black-friday-iphone-deals-today/">The Best Cyber Monday iPhone Deals</a></li><br/>
+<li><a href="https://www.macrumors.com/2023/11/24/4-best-black-friday-ipad-deals-today/">The Best Cyber Monday iPad Deals</a></li><br/>
+<li><a href="https://www.macrumors.com/2023/11/24/black-friday-homepod-deals-today/">The Best Cyber Monday HomePod Deals</a></li><br/>
+<li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-apple-watch-deals/">The Best Cyber Monday Apple Watch Deals</a></li><br/>
+<li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-macbook-deals-today/">The Best Cyber Monday MacBook Deals</a></li></ul><br/>
+<br/>
+<h2>Sonos</h2><br/>
+<img src="https://images.macrumors.com/article-new/2022/11/sonos-black-friday-snowflakes.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-874957" /><br/>
+<br/>
+<a href="https://www.sonos.com/en-us/home">Sonos</a> is offering up to 20 percent off select home theater products and up to 25 percent off portable speakers for this week only.<br/>
+<br/>
+<div class="center-wrap"><a href="https://www.sonos.com/en-us/home"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 25% OFF</div>Sonos Cyber Monday</div></a></div><br/>
+<br/>
+Sonos very rarely offers straight cash discounts on individual products, with typical sales throughout the year focusing on bundle sales. For Cyber Monday, the company is finally back with steep markdowns on numerous products, and you don't need to bundle or enter a code for the savings.<br/>
+<br/>
+The deal prices listed below will last through Cyber Monday on November 27. There's a good mix of devices on sale, including the popular Arc soundbar for &#36;719 (&#36;180 off), cheaper Ray soundbar for &#36;223 (&#36;56 off), Roam Bluetooth speaker for &#36;134 (&#36;45 off), and more.<br/>
+<br/>
+<ul><li><a href="https://www.sonos.com/en-us/shop/arc">Arc Soundbar</a> - &#36;719, down from &#36;899</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/beam">Beam Soundbar</a> - &#36;399, down from &#36;499</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/ray">Ray Soundbar</a> - &#36;223, down from &#36;279</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/sub">Sub</a> - &#36;639, down from &#36;799</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/sub-mini">Sub Mini</a> - &#36;343, down from &#36;429</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/roam">Roam Speaker</a> - &#36;134, down from &#36;179</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/roam-sl">Roam SL Speaker</a> - &#36;119, down from &#36;159</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/era-100">Era 100 Speaker</a> - &#36;199, down from &#36;249</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/amp">Amp</a> - &#36;599, down from &#36;699</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/port">Port</a> - &#36;399, down from &#36;449</li></ul><br/>
+<br/>
+<h2>Anker</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/11/anker-snowflakes.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-923707" /><br/>
+<br/>
+Anker's biggest sale of the year kicked off earlier this week, with up to 60 percent off sitewide for Cyber Monday. Additionally, Anker has a few "mystery boxes" that can include hundreds of dollars in savings, if you're willing to risk not knowing what you're buying ahead of time.<br/>
+<br/>
+In terms of the base sale, there are plenty of great accessories that you can buy to take advantage of the savings. A new highlight is the <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/products/b1336-20000mah-power-bank-kit?ref=black-friday-sale&amp;variant=42726143852694">Prime 20,000 mAh Power Bank with 100W Charging Base</a> for &#36;129.50, down from &#36;184.99. There's also the <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/products/a2342-240w-gan-charger?ref=black-friday-sale&amp;variant=42691851550870">Anker Prime 240W GaN Desktop Charger</a> for &#36;109.99, down from &#36;199.99, and the <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/products/y1811?ref=black-friday-sale&amp;variant=42206465327254">MagSafe-compatible Anker 3-in-1 Charging Cube</a> for &#36;134.96, down from &#36;149.99.<br/>
+<br/>
+<div class="center-wrap"><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/black-friday-sale?ref=naviMenu"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 60% OFF</div>Anker Cyber Monday</div></a></div><br/>
+<br/>
+At the <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/black-friday-sale?ref=naviMenu">bottom of the Cyber Monday sale page</a>, Anker also has a few blind boxes on sale, priced at &#36;19.99 (up to &#36;219.99 in value) and at &#36;29.99 (up to &#36;219.99 in value). These mystery boxes include one Anker accessory, but you won't know what you're getting until they arrive. All items in the &#36;19.99 box are worth more than &#36;19.99, and all items in the &#36;29.99 box are worth more than &#36;29.99, so no matter what you'll be getting a deal.<br/>
+<br/>
+All mystery box items are non-returnable (with the exception of quality issues). These could net you a huge discount with a collection of solid stocking stuffers for the holidays, if you're willing to take the blind box risk. Anker's Cyber Monday sale will run through December 3.<br/>
+<br/>
+<strong>Portable Batteries</strong><br/>
+<ul><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/products/a1268">PowerCore 20,000 mAh</a> - &#36;36.52, down from &#36;49.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/products/a1651">PowerCore 10,000 mAh</a> - &#36;69.99, down from &#36;99.99</li></ul><br/>
+<strong>Portable Power Stations</strong><br/>
+<ul><li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/products/a1751">PowerHouse 535</a> - &#36;349.99, down from &#36;499.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/products/a1761">SOLIX C1000 Power Station</a> - &#36;649.99, down from &#36;999.00</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/products/a1770111">PowerHouse 757</a> - &#36;699.99, down from &#36;1,099.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/products/a1780">PowerHouse 767</a> - &#36;1,399.00, down from &#36;1,999.00</li></ul><br/>
+<br/>
+<h2>Samsung</h2><br/>
+Samsung has a major <a href="https://howl.me/ck3cNcgXTyo">Cyber Monday sale</a> with discounts across smartphones, smartwatches, tablets, computers, and home appliances. This is in addition to the deals we've been tracking on Samsung's best TVs and monitors, like the Smart Monitor M8 and ViewFinity S9 5K Display.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/samsung-cyber.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-924200" /><br/>
+Right now, both of these have all-time low prices on Amazon. The Smart Monitor M8 is available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0C3WMX69W%2Fref%3Dox_sc_act_title_1%3Ftag%3Dmacrumors-20%26smid%3DATVPDKIKX0DER%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;399.99</strong></a> (&#36;300 off) and the ViewFinity S9 5K Display is available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CB71BY87%2Fref%3Dewc_pr_img_1%3Fsmid%3DATVPDKIKX0DER%26th%3D1"><strong>&#36;1,216.32</strong></a> (&#36;383 off). The latter deal has been fluctuating on Amazon, so if it does disappear, Samsung has a solid second-best offer at <a href="https://howl.me/ck3bAoFu1ed">&#36;1,299.99</a> for the next few days.<br/>
+<br/>
+<div class="center-wrap"><a href="https://howl.me/ck3cNcgXTyo"target="_blank"><div class="fancybutton"><div class="fancybadge">SITEWIDE SALE</div>Samsung Cyber Monday</div></a></div><br/>
+<br/>
+Samsung is encouraging users to shop through the Shop Samsung mobile app this season, which has some exclusive deals and deep discounts on smartphones, smartwatches, and mobile accessories. Clicking any of the Samsung links in this post while on mobile should give you the option to install the app.<br/>
+<br/>
+Other than monitors and TVs, we're also now tracking quite a few deals on refrigerators, tablets, and computers below. These sale prices will be live for this week only, so be sure to check out Samsung's event before the best prices of the year disappear.<br/>
+<br/>
+<strong>Monitors</strong><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0C3WMX69W%2Fref%3Dox_sc_act_title_1%3Ftag%3Dmacrumors-20%26smid%3DATVPDKIKX0DER%26th%3D1%26geniuslink%3Dtrue">Smart Monitor M8</a> - &#36;399.99 at Amazon, down from &#36;699.99</li><br/>
+<li><a href="https://howl.me/ck3bAoFu1ed">ViewFinity S9 5K Smart Monitor</a> - &#36;1,299.99, down from &#36;1,599.99</li><br/>
+<li><a href="https://howl.me/ck1tF40hlZ8">27-inch Odyssey G32A Gaming Monitor</a> - &#36;179.99, down from &#36;279.99</li><br/>
+<li><a href="https://howl.me/ck1tFfAKEc2">34-inch ViewFinity S50GC Monitor</a> - &#36;279.99, down from &#36;379.99</li><br/>
+<li><a href="https://howl.me/ck1tEtLSIa0">49-inch Odyssey G9 QLED Curved Gaming Monitor</a> - &#36;899.99, down from &#36;1,499.99</li><br/>
+<li><a href="https://howl.me/ck1tDoV18FW">55-inch Odyssey Ark 2nd Gen Curved Gaming Monitor</a> - &#36;1,999.99, down from &#36;2,999.99</li></ul><br/>
+<br/>
+<strong>TVs</strong><br/>
+<ul><li><a href="https://howl.me/ck1tOGqagCf">85-inch Crystal UHD TV</a> - &#36;1,199.99, down from &#36;1,599.99</li><br/>
+<li><a href="https://howl.me/ck1tJBTe3BC">The Frame QLED 4K TV</a> - Save up to &#36;1,000, starting at just &#36;549.99 for 32-inch</li><br/>
+<li><a href="https://howl.me/ck1tNGTQwIP">85-inch QLED 4K TV</a> - &#36;1,500.00, down from &#36;2,799.99</li><br/>
+<li><a href="https://howl.me/ck1tKrmpTeJ">85-inch Neo QLED 4K TV</a> - &#36;2,799.99, down from &#36;4,799.99</li><br/>
+<li><a href="https://howl.me/ck1tLk05pDX">55-inch OLED TV</a> - &#36;1,899.99, down from &#36;2,499.99</li><br/>
+<li><a href="https://howl.me/ck1tL5nOtB2">85-inch Neo QLED 8K TV</a> - &#36;5,499.99, down from &#36;7,999.99</li><br/>
+<li><a href="https://howl.me/ck1tPlYX1Pr">S-Series Wireless Dolby ATMOS Soundbar</a> - &#36;599.99, down from &#36;899.99</li><br/>
+<li><a href="https://howl.me/ck1tMHeYe4E">Q-Series Wireless Dolby ATMOS Soundbar</a> - &#36;1,399.99, down from &#36;1,899.99</li></ul><br/>
+<br/>
+<strong>Refrigerators</strong><br/>
+<ul><li><a href="https://howl.me/ck3bEJD0D8M">Bespoke Side-by-Side Fridge with Beverage Center</a> - &#36;1,399.00, down from &#36;2,314.00</li><br/>
+<li><a href="https://howl.me/ck3bK4pflLh">Large Capacity 3-Door Fridge with AutoFill Water Pitcher</a> - &#36;1,599.00, down from &#36;2,423.99</li><br/>
+<li><a href="https://howl.me/ck3bGNJbhW5">Bespoke 3-Door French Door Fridge with Beverage Center</a> - &#36;1,799.00, down from &#36;3,114.00</li><br/>
+<li><a href="https://howl.me/ck3bJgrsA7u">Bespoke 4-Door French Door Fridge</a> - &#36;1,999.00, down from &#36;3,114.00</li><br/>
+<li><a href="https://howl.me/ck3bFYM0t73">Bespoke 4-Door Flex Fridge with Family Hub</a> - &#36;3,099.00, down from &#36;5,114.00</li></ul><br/>
+<br/>
+<strong>Smartphones</strong><br/>
+If you're shopping for a Samsung smartphone this week, there are extra cash discounts to be found on these devices when shopping via the Shop Samsung mobile app, beyond the trade-in bonus offers listed below.<br/>
+<br/>
+<ul><li><a href="https://howl.me/ck3bP336HUQ">Galaxy S23 Ultra</a> - Get up to &#36;800 instant trade-in credit with an eligible phone trade-in</li><br/>
+<li><a href="https://howl.me/ck3bScBfKwa">Galaxy S23</a> - Get up to &#36;600 instant trade-in credit with an eligible phone trade-in</li><br/>
+<li><a href="https://howl.me/ck3bRePchi9">Galaxy S23+</a> - Get up to &#36;600 instant trade-in credit with an eligible phone trade-in</li><br/>
+<li><a href="https://howl.me/ck3bS9XCBv7">Galaxy Z Fold5</a> - Get a free storage upgrade and up to &#36;1,000 instant trade-in credit</li><br/>
+<li><a href="https://howl.me/ck3bTLe6f99">Galaxy Z Flip5</a> - Get up to &#36;600 instant trade-in credit with an eligible phone trade-in</li><br/>
+<li><a href="https://howl.me/ck3bUDQL4eU">Galaxy S23 FE</a> - Get up to &#36;400 instant trade-in credit with an eligible phone trade-in</li></ul><br/>
+<br/>
+<h2>Hyper</h2><br/>
+<img src="https://images.macrumors.com/article-new/2022/11/hyper-black-friday-snowflakes.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-874961" /><br/>
+<br/>
+<a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/">Hyper</a> is offering up to 60 percent off during its Cyber Monday deal event. The company said that this includes the best prices of the year on HyperJuice chargers, battery packs, HyperDrive hubs, Thunderbolt 4 docks, and more.<br/>
+<br/>
+<div class="center-wrap"><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 60% OFF</div>Hyper Cyber Monday</div></a></div><br/>
+<br/>
+Cyber Monday deals will run from November 27 through December 2, and include many of the same deals as we saw during Black Friday. These events include deals on portable batteries, USB-C chargers, Thunderbolt docks, and more.<br/>
+<br/>
+<strong>Chargers and Battery Packs</strong><br/>
+<ul><li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperjuice-35w-usb-c-gan-charger?utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">HyperJuice 35W USB-C Charger</a> - &#36;29.74, down from &#36;34.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperjuice-magnetic-wireless-battery-pack?utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">HyperJuice Magnetic Wireless Battery Pack</a> - &#36;34.99, down from &#36;49.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperjuice-140w-pd-3-1-usb-c-charger-us-only?utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">HyperJuice 140W USB-C Charger</a> - &#36;65, down from &#36;129.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperjuice-245w-usb-c-battery-pack?utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">HyperJuice USB-C Battery Pack</a> - &#36;159.99, down from &#36;249.99</li></ul><br/>
+<strong>Hubs and Docks</strong><br/>
+<ul><li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperdrivenext-dual-4k-hdmi-7-port-usb-c-dock?_pos=1&amp;amp;_sid=0b621a5b5&amp;amp;_ss=r&amp;amp;utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">HyperDrive Next Dual 4K HDMI 7-Port USB-C Hub</a> - &#36;104.99, down from &#36;149.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperdrive-gen2-12-port-usb-c-docking-station?utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">HyperDrive 12-in-1 USB-C Dock</a> - &#36;131.99, down from &#36;199.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperdrivenext-10-port-business-class-usb-c-dock?utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">HyperDrive Next 10-Port USB-C Dock</a> - &#36;159.99, down from &#36;199.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperdrive-gen2-15-in-1-usb-c-docking-station?utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">HyperDrive 15-in-1 USB-C Dock</a> - &#36;224.99, down from &#36;299.99</li></ul><br/>
+<strong>Thunderbolt 4</strong><br/>
+<ul><li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperdrive-2m-thunderbolt-4-cable?utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023&amp;amp;utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">Thunderbolt 4 Cable</a> - &#36;84.99, down from &#36;99.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperdrive-thunderbolt-4-power-hub?utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">HyperDrive Thunderbolt 4 Power Hub</a> - &#36;194.99, down from &#36;299.99</li><br/>
+<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https://www.hypershop.com/products/hyperdrive-thunderbolt-4-docking-station?utm_source=Press&#43;&amp;amp;utm_medium=BFCM-2023">HyperDrive Thunderbolt 4 Dock</a> - &#36;209.99, down from &#36;349.99</li></ul><br/>
+<br/>
+<h2>ZAGG</h2><br/>
+<a href="http://www.tkqlhce.com/click-462641-11043124-1465418060000">ZAGG</a> has 40 percent off sitewide for Cyber Monday, excluding already-discounted items and the 3-in-1 Travel Charger with MagSafe. The discount will be automatically applied in your cart, and this sale runs through November 29 at 11:59 p.m. Mountain Time.<br/>
+<br/>
+<div class="center-wrap"><a href="http://www.tkqlhce.com/click-462641-11043124-1465418060000"target="_blank"><div class="fancybutton"><div class="fancybadge">40% OFF</div>ZAGG Cyber Monday</div></a></div><h2>Belkin</h2><br/>
+<a href="http://belkin.evyy.net/c/153062/214281/3736">Belkin</a> has introduced a 40% off sitewide Cyber Monday sale, by using the code CM23 at checkout. This sale covers 15 percent off MagSafe chargers, 20 percent off portable batteries, 20 percent off wall chargers, and more.<br/>
+<br/>
+<div class="center-wrap"><a href="http://belkin.evyy.net/c/153062/214281/3736"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 40% OFF</div>Belkin Cyber Monday</div></a></div><h2>Nomad</h2><br/>
+<img src="https://images.macrumors.com/article-new/2022/11/nomad-black-friday-snowflakes.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-874960" /><br/>
+<br/>
+<a href="https://www.dpbolvw.net/click-462641-14535369">Nomad's</a> Cyber Monday sale has 30 percent off sitewide, on full-priced and in-stock items. No codes are needed, and there are even deeper savings on outlet items (which are final sale).<br/>
+<br/>
+<div class="center-wrap"><a href="https://www.dpbolvw.net/click-462641-14535369"target="_blank"><div class="fancybutton"><div class="fancybadge">30% OFF</div>Nomad Cyber Monday</div></a></div><h2>Flexibits</h2><br/>
+New users can get 50 percent off a <a href="https://www.jdoqocy.com/click-462641-15019737">Flexibits</a> Premium subscription this week, which includes the apps Fantastical and Cardhop. This sale will last through December 4.<br/>
+<br/>
+<div class="center-wrap"><a href="https://www.jdoqocy.com/click-462641-15019737"target="_blank"><div class="fancybutton"><div class="fancybadge">50% OFF</div>Flexibits Cyber Monday</div></a></div><h2>Twelve South</h2><br/>
+<img src="https://images.macrumors.com/article-new/2022/11/twelve-south-black-friday-snowflakes.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-874970" /><br/>
+<br/>
+<a href="https://shareasale.com/r.cfm?b=1654433&u=63177&m=102921&urllink=&afftrack=">Twelve South</a> kicked off its Cyber Monday event a few days ago, including up to 50 percent off select products. This sale will last through Monday, November 27 at 11:59 p.m. Pacific Time.<br/>
+<br/>
+<div class="center-wrap"><a href="https://shareasale.com/r.cfm?b=1654433&u=63177&m=102921&urllink=&afftrack="target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 50% OFF</div>Twelve South Cyber Monday</div></a></div><br/>
+<br/>
+You'll find accessories on sale including the Curve for MacBook, AirFly, HoverBar Duo for iPad, AirSnap Pro for AirPods Pro, BookArc for MacBook, HiRise 3 for iPhone, and much more.<br/>
+<br/>
+<h2>Satechi</h2><br/>
+<img src="https://images.macrumors.com/article-new/2022/11/satechi-black-friday-snowflakes.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-874969" /><br/>
+<br/>
+<a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=&afftrack=">Satechi</a> is offering 35 percent off nearly everything sitewide with the code BFCM35 during its Cyber Monday event. This includes MagSafe-compatible accessories, desktop accessories, USB-C chargers and hubs, and more. <br/>
+<br/>
+<div class="center-wrap"><a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=&afftrack="target="_blank"><div class="fancybutton"><div class="fancybadge">35% OFF</div>Satechi Cyber Monday</div></a></div><h2>Nimble</h2><br/>
+<img src="https://images.macrumors.com/article-new/2022/11/nimble-black-friday.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-874959" /><br/>
+<br/>
+At <a href="https://www.pjtra.com/t/SENKRkZMT0ZDR0xKTUtNQ0dPS0tOTg">Nimble</a>, you can get up to 60 percent off sitewide this week. The company makes quality and sustainable accessories for iPhones, including cases, portable batteries, cables, and more.<br/>
+<br/>
+<div class="center-wrap"><a href="https://www.pjtra.com/t/SENKRkZMT0ZDR0xKTUtNQ0dPS0tOTg"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 60% OFF</div>Nimble Cyber Monday</div></a></div><h2>ESR</h2><br/>
+<a href="https://www.shareasale.com/r.cfm?b=1200223&u=63177&m=80610">ESR</a> is offering up to 50 percent off sitewide this week, with deep discounts on iPhone chargers, iPhone cases, portable batteries, iPad cases, and more.<br/>
+<br/>
+<div class="center-wrap"><a href="https://www.shareasale.com/r.cfm?b=1200223&u=63177&m=80610"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 50% OFF</div>ESR Cyber Monday</div></a></div><br/>
+<br/>
+Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/27/cyber-monday-accessory-deals/">Best Cyber Monday Apple Accessory Deals Available Today</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-cyber-monday-apple-accessory-deals-available-today.2412138/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Best Buy Cyber Monday Sale Takes Up to 50% Off Sitewide With Record Lows on Apple MacBooks and More</title>
@@ -139,7 +354,7 @@ Shoppers should note that the Xbox Series X deal listed below is aimed at My Bes
 		<category>Featured</category>
 		
 
-		<description><![CDATA[Now that Black Friday is over, Cyber Monday deals have arrived and you'll find dozens of all-time low prices on Apple products like AirPods, iPad, iPhone, MacBook, and much more.<br/>
+		<description><![CDATA[Cyber Monday has taken the place of Black Friday, and you'll find many of the same deals still around today. This includes dozens of record low prices on Apple products like AirPods, iPad, Apple Watch, MacBook, iPhone, and more.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2022/11/Cyber-Monday-Deals-Feature-2022.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-875178" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
@@ -170,9 +385,9 @@ You can use the links below to jump directly to the section you're shopping for 
 <h3 id="homepod_2nd_gen">HomePod (2nd Gen)</h3><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/homepod-cyber-monday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-924094" /><br/>
 <br/>
-B&H Photo has been the only retailer with a consistent discount on Apple's second generation HomePod. Right now, you can get it in both colors for <a href="https://www.bhphotovideo.com/c/product/1746861-REG/apple_mqj73ll_a_homepod_2nd_generation.html/kw/APHOMEPODMN/BI/2696/KBID/3612"><strong>&#36;279.99</strong></a>, down from &#36;299.00. While not a huge markdown, this continues to be the best price we've ever tracked.<br/>
+B&H Photo has been the only retailer with a consistent discount on Apple's second generation HomePod. Right now, you can get it in both colors for <a href="https://www.bhphotovideo.com/c/product/1746862-REG/apple_mqj83ll_a_homepod_2nd_generation.html/BI/2696/KBID/3612/DFF/d10-v21-t1-x1216249/SID/DFF"><strong>&#36;279.99</strong></a>, down from &#36;299.00. While not a huge markdown, this continues to be the best price we've ever tracked.<br/>
 <br/>
-<div class="center-wrap"><a href="https://www.bhphotovideo.com/c/product/1746861-REG/apple_mqj73ll_a_homepod_2nd_generation.html/kw/APHOMEPODMN/BI/2696/KBID/3612"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;19 OFF</div>HomePod (Gen 2) for &#36;279.99</div></a></div><h2 id="airpods">AirPods</h2><br/>
+<div class="center-wrap"><a href="https://www.bhphotovideo.com/c/product/1746862-REG/apple_mqj83ll_a_homepod_2nd_generation.html/BI/2696/KBID/3612/DFF/d10-v21-t1-x1216249/SID/DFF"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;19 OFF</div>HomePod (Gen 2) for &#36;279.99</div></a></div><h2 id="airpods">AirPods</h2><br/>
 <h3 id="airpods_2">AirPods 2</h3><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/airpods-2-cyber-monday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-924099" /><br/>
 <br/>
@@ -260,6 +475,7 @@ The upgraded iPad from 2022 also has a great discount on Amazon right now, with 
 <br/>
 This beats the sale from earlier in the month by &#36;50 and is a new all-time low price on the iPad.<br/>
 <br/>
+<div class="center-wrap"><em><strong>Update: This deal has expired.</strong></em></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>10.9-inch iPad (64GB Wi-Fi) for &#36;349.00</div></a></div><br/>
 <br/>
 <h3 id="6th_gen_ipad_mini">6th Gen iPad Mini</h3><br/>
@@ -329,9 +545,9 @@ Some of the best Cyber Monday Apple Watch deals are focused on the new Series 9 
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (41mm GPS) for &#36;329.00</div></a></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXF9R4Y%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (45mm GPS) for &#36;359.00</div></a></div><br/>
 <br/>
-If you're looking for cellular models, there are a few deals to discover. Amazon has the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX94FM3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">41mm cellular Series 9 model for &#36;429.00</a>, as well as the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm cellular Series 9 model for &#36;459.00</a>. Both of these are &#36;70 discounts and more all-time low prices for the smartwatch lineup.<br/>
+If you're looking for cellular models, there are a few deals to discover. Amazon has the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3TX7H%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue">41mm cellular Series 9 model for &#36;429.00</a>, as well as the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm cellular Series 9 model for &#36;459.00</a>. Both of these are &#36;70 discounts and more all-time low prices for the smartwatch lineup.<br/>
 <br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX94FM3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (41mm Cellular) for &#36;429.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3TX7H%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (41mm Cellular) for &#36;429.00</div></a></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (45mm Cellular) for &#36;459.00</div></a></div><br/>
 <br/>
 <h3 id="apple_watch_ultra_2">Apple Watch Ultra 2</h3><br/>
@@ -348,7 +564,7 @@ If you want a cheaper Apple Watch, Amazon has the 40mm GPS Apple Watch SE for <a
 <br/>
 <div class="center-wrap"><em><strong>Update: The deal on the 40mm GPS model has expired.</strong></em></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch SE (40mm GPS) for &#36;179.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYCT6C%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch SE (44mm GPS) for &#36;209.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3GRK2%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>Apple Watch SE (44mm GPS) for &#36;219.00</div></a></div><br/>
 <br/>
 <h2 id="accessories">Accessories</h2><br/>
 <h3 id="iphone_15_cases">iPhone 15 Cases</h3><br/>
@@ -907,9 +1123,9 @@ The Aqara Camera E1 is available from <a href="https://buy.geni.us/Proxy.ashx?TS
 		</item>
 		
 		<item>
-		<title>Sonos Black Friday Sale Has Year&#039;s Best Prices on Arc Soundbar, Roam Speaker, and Many More</title>
+		<title>Sonos Cyber Monday Sale Has Year&#039;s Best Prices on Arc Soundbar, Roam Speaker, and Many More</title>
 		<link>https://www.macrumors.com/2023/11/24/sonos-black-friday-sale-best-prices/</link>
-		<comments>https://forums.macrumors.com/threads/sonos-black-friday-sale-has-years-best-prices-on-arc-soundbar-roam-speaker-and-many-more.2411897/</comments>
+		<comments>https://forums.macrumors.com/threads/sonos-cyber-monday-sale-has-years-best-prices-on-arc-soundbar-roam-speaker-and-many-more.2411897/</comments>
 		<pubDate>Fri, 24 Nov 2023 07:12:28 PST</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2023/11/24/sonos-black-friday-sale-best-prices/</guid>
 		<dc:creator>Mitchel Broussard</dc:creator>
@@ -918,13 +1134,13 @@ The Aqara Camera E1 is available from <a href="https://buy.geni.us/Proxy.ashx?TS
 		<category>Featured</category>
 		
 
-		<description><![CDATA[<a href="https://www.sonos.com/en-us/home">Sonos</a> is offering up to 20 percent off select home theater products and up to 25 percent off portable speakers for Black Friday today, representing the year's best prices on many of the company's most popular audio products.<br/>
+		<description><![CDATA[<a href="https://www.sonos.com/en-us/home">Sonos</a> is offering up to 20 percent off select home theater products and up to 25 percent off portable speakers for Cyber Monday today, representing the year's best prices on many of the company's most popular audio products.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2023/11/new-sonos-black-friday.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-921988" /><em><small>Note: MacRumors is an affiliate partner with Sonos. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
-Sonos very rarely offers straight cash discounts on individual products, with typical sales throughout the year focusing on bundle sales. For Black Friday, the company is finally back with steep markdowns on numerous products, and you don't need to bundle or enter a code for the savings.<br/>
+Sonos very rarely offers straight cash discounts on individual products, with typical sales throughout the year focusing on bundle sales. For Cyber Monday, the company is finally back with steep markdowns on numerous products, and you don't need to bundle or enter a code for the savings.<br/>
 <br/>
-<div class="center-wrap"><a href="https://www.sonos.com/en-us/home"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 25% OFF</div>Sonos Black Friday Sale</div></a></div><br/>
+<div class="center-wrap"><a href="https://www.sonos.com/en-us/home"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 25% OFF</div>Sonos Cyber Monday Sale</div></a></div><br/>
 <br/>
 The deal prices listed below will last through Cyber Monday on November 27. There's a good mix of devices on sale, including the popular Arc soundbar for &#36;719 (&#36;180 off), cheaper Ray soundbar for &#36;223 (&#36;56 off), Roam Bluetooth speaker for &#36;134 (&#36;45 off), and more.<br/>
 <br/>
@@ -939,9 +1155,9 @@ The deal prices listed below will last through Cyber Monday on November 27. Ther
 <li><a href="https://www.sonos.com/en-us/shop/amp">Amp</a> - &#36;599, down from &#36;699</li><br/>
 <li><a href="https://www.sonos.com/en-us/shop/port">Port</a> - &#36;399, down from &#36;449</li></ul><br/>
 <br/>
-If you're starting your holiday shopping this week, we've got you covered with guides for the best Black Friday deals for <a href="https://www.macrumors.com/guide/best-black-friday-airpods-deals/">AirPods</a>, <a href="https://www.macrumors.com/guide/best-black-friday-iphone-deals/">iPhone</a>, <a href="https://www.macrumors.com/guide/best-black-friday-macbook-deals/">MacBook</a>, <a href="https://www.macrumors.com/guide/best-black-friday-homepod-deals/">HomePod</a>, <a href="https://www.macrumors.com/guide/best-black-friday-apple-watch-deals/">Apple Watch</a>, and <a href="https://www.macrumors.com/guide/best-black-friday-ipad-deals/">iPad</a>. We're also keeping an eye on the <a href="https://www.macrumors.com/2023/11/24/apple-black-friday-now-2023/">best overall Apple deals</a> you can get today. <br/>
+If you're starting your holiday shopping this week, we've got you covered with guides for the best Cyber Monday deals for <a href="https://www.macrumors.com/guide/best-black-friday-airpods-deals/">AirPods</a>, <a href="https://www.macrumors.com/guide/best-black-friday-iphone-deals/">iPhone</a>, <a href="https://www.macrumors.com/guide/best-black-friday-macbook-deals/">MacBook</a>, <a href="https://www.macrumors.com/guide/best-black-friday-homepod-deals/">HomePod</a>, <a href="https://www.macrumors.com/guide/best-black-friday-apple-watch-deals/">Apple Watch</a>, and <a href="https://www.macrumors.com/guide/best-black-friday-ipad-deals/">iPad</a>. We're also keeping an eye on the <a href="https://www.macrumors.com/2023/11/24/apple-black-friday-now-2023/">best overall Apple deals</a> you can get today. <br/>
 <br/>
-For everything else, we're keeping track of all of the season's best Apple-related deals in our <a href="https://www.macrumors.com/roundup/black-friday/"><strong>Black Friday roundup</strong></a>, so be sure to check back throughout the day for an updated list of all the most notable discounts you'll find for Black Friday 2023.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/24/sonos-black-friday-sale-best-prices/">Sonos Black Friday Sale Has Year&#039;s Best Prices on Arc Soundbar, Roam Speaker, and Many More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-black-friday-sale-has-years-best-prices-on-arc-soundbar-roam-speaker-and-many-more.2411897/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/24/sonos-black-friday-sale-best-prices/">Sonos Cyber Monday Sale Has Year&#039;s Best Prices on Arc Soundbar, Roam Speaker, and Many More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-cyber-monday-sale-has-years-best-prices-on-arc-soundbar-roam-speaker-and-many-more.2411897/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -1303,7 +1519,7 @@ Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-
 <img src="https://images.macrumors.com/article-new/2023/11/apple-watch-black-friday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921788" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
 <h2 id="best_apple_watch_deals">Best Apple Watch Deals</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch SE (44mm GPS)</strong></a> for &#36;209.00 (&#36;70 off)</li><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch SE (44mm GPS)</strong></a> for &#36;219.00 (&#36;60 off)</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%2Fref%3Dtwister_B0CNK5HZ5P%3F_encoding%3DUTF8%26th%3D1"><strong>Apple Watch Series 9 (41mm GPS)</strong></a> for &#36;329.00 (&#36;70 off)</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXF9R4Y%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch Series 9 (45mm GPS)</strong></a> for &#36;359.00 (&#36;70 off)</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch Ultra 2</strong></a> for &#36;739.00 (&#36;60 off)</li><br/>
@@ -1323,9 +1539,9 @@ Right now, the best Cyber Monday Apple Watch deals are focused entirely on the n
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%2Fref%3Dtwister_B0CNK5HZ5P%3F_encoding%3DUTF8%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (41mm GPS) for &#36;329.00</div></a></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXF9R4Y%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (45mm GPS) for &#36;359.00</div></a></div><br/>
 <br/>
-If you're looking for cellular models, there are a few deals to discover. Amazon has the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX94FM3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">41mm cellular Series 9 model for &#36;429.00</a>, as well as the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm cellular Series 9 model for &#36;459.00</a>. Both of these are &#36;70 discounts and more all-time low prices for the smartwatch lineup.<br/>
+If you're looking for cellular models, there are a few deals to discover. Amazon has the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXDRLMQ%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue">41mm cellular Series 9 model for &#36;429.00</a>, as well as the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm cellular Series 9 model for &#36;459.00</a>. Both of these are &#36;70 discounts and more all-time low prices for the smartwatch lineup.<br/>
 <br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX94FM3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (41mm Cellular) for &#36;429.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXDRLMQ%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (41mm Cellular) for &#36;429.00</div></a></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (45mm Cellular) for &#36;459.00</div></a></div><br/>
 <br/>
 <h2 id="apple_watch_ultra_2">Apple Watch Ultra 2</h2><br/>
@@ -1338,7 +1554,7 @@ Amazon has the 40mm GPS Apple Watch SE for just <a href="https://buy.geni.us/Pro
 <br/>
 <div class="center-wrap"><em><strong>Update: The deal on the 40mm GPS model has expired.</strong></em></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch SE (40mm GPS) for &#36;179.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch SE (44mm GPS) for &#36;209.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>Apple Watch SE (44mm GPS) for &#36;219.00</div></a></div><br/>
 <br/>
 Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-apple-watch-deals/">5 Best Cyber Monday Apple Watch Deals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/5-best-cyber-monday-apple-watch-deals.2411888/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
@@ -1359,7 +1575,7 @@ Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-
 <img src="https://images.macrumors.com/article-new/2023/11/homepod-bells.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921651" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
 <h2 id="best_homepod_deals">Best HomePod Deals</h2><br/>
-<ul><li><a href="https://www.bhphotovideo.com/c/product/1746861-REG/apple_mqj73ll_a_homepod_2nd_generation.html/kw/APHOMEPODMN/BI/2696/KBID/3612"><strong>HomePod (2nd Gen)</strong></a> for &#36;279.99 at B&H, down from &#36;299.00</li></ul><br/>
+<ul><li><a href="https://www.bhphotovideo.com/c/product/1746862-REG/apple_mqj83ll_a_homepod_2nd_generation.html/BI/2696/KBID/3612/DFF/d10-v21-t1-x1216249/SID/DFF"><strong>HomePod (2nd Gen)</strong></a> for &#36;279.99 at B&H, down from &#36;299.00</li></ul><br/>
 <br/>
 <h2 id="best_black_friday_deals">Best Cyber Monday Deals</h2><br/>
 <ul><li><a href="https://www.macrumors.com/2023/11/24/black-friday-iphone-deals-today/">The Best Cyber Monday iPhone Deals</a></li><br/>
@@ -1368,9 +1584,9 @@ Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-
 <li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-apple-watch-deals/">The Best Cyber Monday Apple Watch Deals</a></li><br/>
 <li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-macbook-deals-today/">The Best Cyber Monday MacBook Deals</a></li></ul><br/>
 <br/>
-Anyone shopping for the second generation HomePod should look at B&H Photo's sale, which still has the best deal around online this season. You can get both colors for <a href="https://www.bhphotovideo.com/c/product/1746861-REG/apple_mqj73ll_a_homepod_2nd_generation.html/kw/APHOMEPODMN/BI/2696/KBID/3612"><strong>&#36;279.99</strong></a>, down from &#36;299.00. Although this isn't a particularly big markdown on the 2023 speaker, it remains the best deal we've tracked to date.<br/>
+Anyone shopping for the second generation HomePod should look at B&H Photo's sale, which still has the best deal around online this season. You can get both colors for <a href="https://www.bhphotovideo.com/c/product/1746862-REG/apple_mqj83ll_a_homepod_2nd_generation.html/BI/2696/KBID/3612/DFF/d10-v21-t1-x1216249/SID/DFF"><strong>&#36;279.99</strong></a>, down from &#36;299.00. Although this isn't a particularly big markdown on the 2023 speaker, it remains the best deal we've tracked to date.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2023/11/homepod-big-bells.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921660" /><div class="center-wrap"><a href="https://www.bhphotovideo.com/c/product/1746861-REG/apple_mqj73ll_a_homepod_2nd_generation.html/kw/APHOMEPODMN/BI/2696/KBID/3612"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;19 OFF</div>HomePod (2nd Gen) for &#36;279.99</div></a></div><br/>
+<img src="https://images.macrumors.com/article-new/2023/11/homepod-big-bells.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921660" /><div class="center-wrap"><a href="https://www.bhphotovideo.com/c/product/1746862-REG/apple_mqj83ll_a_homepod_2nd_generation.html/BI/2696/KBID/3612/DFF/d10-v21-t1-x1216249/SID/DFF"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;19 OFF</div>HomePod (Gen 2) for &#36;279.99</div></a></div><br/>
 <br/>
 The new HomePod is a high-end speaker focusing more on sound quality, while the HomePod mini is aimed at people who just need an accessible and user-friendly smart speaker. If you want a more in-depth breakdown of all the differences between the two products, be sure to <a href="https://www.macrumors.com/guide/homepod-mini-vs-homepod/">visit our buyer's guide</a>. <br/>
 <br/>
@@ -1397,9 +1613,9 @@ Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-
 Unless otherwise noted, all the deals in this guide will be found on Amazon.<br/>
 <br/>
 <h2 id="best_ipad_deals">Best iPad Deals</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dtwister_B0CMXMNNCH%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"><strong>10th Gen iPad (64GB Wi-Fi)</strong></a> for &#36;349.00, down from &#36;449.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G983JJS%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>iPad mini 6 (64GB Wi-Fi)</strong></a> for &#36;399.99, down from &#36;499.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K1WWBJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>Apple Pencil 2</strong></a> for &#36;89.00, down from &#36;129.00</li></ul><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G983JJS%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>iPad mini 6 (64GB Wi-Fi)</strong></a> for &#36;399.99, down from &#36;499.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JH3XS%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>iPad Air (64GB Wi-Fi)</strong></a> for &#36;499.99, down from &#36;599.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K1WWBJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>Apple Pencil 2</strong></a> for &#36;79.99, down from &#36;129.00</li></ul><br/>
 <br/>
 <h2 id="best_black_friday_deals">Best Cyber Monday Deals</h2><br/>
 <ul><li><a href="https://www.macrumors.com/2023/11/24/black-friday-iphone-deals-today/">The Best Cyber Monday iPhone Deals</a></li><br/>
@@ -1417,6 +1633,7 @@ You can get the 64GB Wi-Fi iPad for <a href="https://buy.geni.us/Proxy.ashx?TSID
 <br/>
 Apple's 64GB Wi-Fi iPad from 2022 is being discounted to the all-time low price of <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dtwister_B0CMXMNNCH%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;349.00</strong></a> right now on Amazon, from &#36;449.00. This upgraded model comes with a larger 10.9-inch Liquid Retina display, A14 Bionic chip for a performance boost, Wi-Fi 6, and more.<br/>
 <br/>
+<div class="center-wrap"><em><strong>Update: This deal has expired.</strong></em></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dtwister_B0CMXMNNCH%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>10.9-inch iPad (64GB Wi-Fi) for &#36;349.00</div></a></div><h2 id="6th_gen_ipad_mini">6th Gen iPad Mini</h2><br/>
 <img src="https://images.macrumors.com/article-new/2023/11/ipad-mini-snowflakes.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-921380" /><br/>
 <br/>
@@ -1429,138 +1646,8 @@ Switching to iPad Air models, the 2022 64GB Wi-Fi tablet has hit <a href="https:
 <br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JH3XS%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;99 OFF</div>iPad Air (64GB Wi-Fi) for &#36;499.99</div></a></div><h2 id="accessories">Accessories</h2><br/>
 <ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLG69QR%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Apple Pencil 1 with USB-C Charging Adapter</a> - &#36;73.17, down from &#36;99.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K1WWBJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Apple Pencil 2</a> - &#36;89.00, down from &#36;129.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K1WWBJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Apple Pencil 2</a> - &#36;79.99, down from &#36;129.00</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLFH8RC%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Magic Keyboard Folio</a> - &#36;169.00, down from &#36;249.00</li></ul> Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/24/4-best-black-friday-ipad-deals-today/">4 Best Cyber Monday iPad Deals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/4-best-cyber-monday-ipad-deals.2411885/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The Best Cyber Monday iPhone Deals</title>
-		<link>https://www.macrumors.com/2023/11/24/black-friday-iphone-deals-today/</link>
-		<comments>https://forums.macrumors.com/threads/the-best-cyber-monday-iphone-deals.2411884/</comments>
-		<pubDate>Fri, 24 Nov 2023 05:16:21 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/24/black-friday-iphone-deals-today/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Black Friday</category>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Black Friday is over and Cyber Monday has arrived, and discounts are still available on the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/best-early-black-friday-iphone-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-920873" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2 id="best_iphone_and_accessory_deals">Best iPhone and Accessory Deals</h2><br/>
-<ul><li><a href="https://www.tkqlhce.com/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15-pro.html"><strong>iPhone 15 Pro/Pro Max</strong></a> for up to &#36;1,000 off at AT&T</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-14067866?url=https%3A%2F%2Fwww.verizon.com%2Fsmartphones%2Fapple-iphone-15-pro%2F"><strong>iPhone 15 Pro</strong></a> with free Apple TV 4K and Apple One six month subscription at Verizon</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-duo-fast-wireless-charger%3Fref%3Dw_cnt_wp_0_2"><strong>MagSafe Duo Charger</strong></a> for &#36;79.99 at Woot, down from &#36;129.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-MX542AM-A-AirTag-Pack%2Fdp%2FB0932QJ2JZ%3Fref_%3Dast_sto_dp"><strong>AirTag 4-Pack</strong></a> for &#36;79.99 at Amazon, down from &#36;99.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-FineWoven-Case-MagSafe%2Fdp%2FB0CHX3T1WX%3Ftag%3Dmacrumors-20%26ref_%3Dast_sto_dp%26th%3D1%26geniuslink%3Dtrue"><strong>iPhone 15 FineWoven Case</strong></a> for &#36;33.69 at Amazon, down from &#36;59.00</li></ul><br/>
-<h2 id="best_black_friday_deals">Best Cyber Monday Deals</h2><br/>
-<ul><li><a href="https://www.macrumors.com/2023/11/24/4-black-friday-airpods-deals/">The Best Cyber Monday AirPods Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/4-best-black-friday-ipad-deals-today/">The Best Cyber Monday iPad Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/black-friday-homepod-deals-today/">The Best Cyber Monday HomePod Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-apple-watch-deals/">The Best Cyber Monday Apple Watch Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-macbook-deals-today/">The Best Cyber Monday MacBook Deals</a></li></ul><br/>
-<h2 id="att">AT&T</h2><br/>
-<a href="https://www.tkqlhce.com/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fdeals%2F">AT&T</a> has introduced a number of sales for Apple's iPhone 15 this month, offering up to &#36;1,000 off the <a href="https://www.tkqlhce.com/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15-pro.html">iPhone 15 Pro</a> or <a href="https://www.dpbolvw.net/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15-pro-max.html">iPhone 15 Pro Max</a> with an eligible smartphone trade-in. Models with lower storage capacities can be purchased at no cost thanks to these discounts, and of course you'll need to purchase the new smartphone on a qualifying installment agreement. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/iphone-15-colors-holiday.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-920875" /><div class="center-wrap"><a href="https://www.tkqlhce.com/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15-pro.html"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO &#36;1,000 OFF</div>iPhone 15 Pro at AT&T</div></a></div><br/>
-<br/>
-You can get up to &#36;830 off the <a href="https://www.dpbolvw.net/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15.html">iPhone 15</a> or <a href="https://www.anrdoezrs.net/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-15-plus.html">iPhone 15 Plus</a> as well, with the same stipulations as the Pro devices. Both offers will be delivered via monthly bill credits, starting within three bills after trade-in is completed. It'll be applied in equal amounts over the term of your installment agreement.<br/>
-<br/>
-For the iPhone 15 Pro and iPhone 15 Pro Max offer, you'll need to trade in a device with a value of &#36;230 or higher to get the full &#36;1,000 off markdown. You'll get up to &#36;830 in bill credits with a trade-in value of &#36;130 to &#36;229 and up to &#36;350 in bill credits with a trade-in value of &#36;35 to &#36;129.<br/>
-<br/>
-For older iPhone models, AT&T is offering the 128GB <a href="https://www.kqzyfj.com/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fphones%2Fapple-iphone-14.html">iPhone 14 at &#36;10.99/month</a> with no trade-in required. Similarly, the iPhone 14 Pro is available at &#36;15/month with no trade-in required. For these, all you'll need is to purchase the smartphones on an installment plan and pick or upgrade to an eligible unlimited plan.<br/>
-<br/>
-AT&T is also taking <a href="https://www.dpbolvw.net/click-462641-13761603?url=https%3A%2F%2Fwww.att.com%2Fbuy%2Fwearables%2F">&#36;300 off any Apple Watch</a> when you purchase two at the same time. Like smartphone plans, you'll have to buy two Apple Watches on an installment plan, add at least one new line, and activate both on your wireless plan. Afterwards, you'll get up to &#36;300 in bill credits over 36 months.<br/>
-<br/>
-<h2 id="verizon">Verizon</h2><br/>
-At <a href="https://www.anrdoezrs.net/click-462641-11557999?url=https%3A%2F%2Fwww.verizon.com%2F">Verizon</a>, you can get a special bundle offer if you're interested in purchasing the new <a href="https://www.anrdoezrs.net/click-462641-14067866?url=https%3A%2F%2Fwww.verizon.com%2Fsmartphones%2Fapple-iphone-15-pro%2F">iPhone 15 Pro</a> this holiday season. When you do pick up the new smartphone with a new line on an Unlimited Plus or Unlimited Ultimate plan, Verizon will reward you with an Apple TV 4K (64GB) and six months of Apple One at no cost.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/iphone-15-green-holiday.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-920876" /><div class="center-wrap"><a href="https://www.anrdoezrs.net/click-462641-14067866?url=https%3A%2F%2Fwww.verizon.com%2Fsmartphones%2Fapple-iphone-15-pro%2F"target="_blank"><div class="fancybutton"><div class="fancybadge">FREE APPLE TV 4K</div>iPhone 15 Pro at Verizon</div></a></div><br/>
-<br/>
-Of course, you can purchase <a href="https://www.tkqlhce.com/click-462641-14067866?url=https%3A%2F%2Fwww.verizon.com%2Fsmartphones%2Fapple%2F">higher storage iPhone 15 Pro or iPhone 15 Pro Max models</a>, but at that point you'll be paying a little extra. The Apple TV 4K promotion requires a smarpthone purchase on an eligible plan and ends on November 15, while the Apple One six month promotion requires a line subscribed to an Unlimited Plus or Unlimited Ultimate plan.<br/>
-<br/>
-For last year's models, you can <a href="https://www.tkqlhce.com/click-462641-14067866?url=https%3A%2F%2Fwww.verizon.com%2Fsmartphones%2Fapple-iphone-14-plus%2F">get four iPhone 14 Plus devices for free</a> along with four lines on Unlimited Welcome at &#36;120/month. A new line on any 5G Unlimited plan is required per smartphone. You can also stack this with Verizon's current tablet and smartwatch promotions, which offer up to &#36;279.99 off these devices.<br/>
-<br/>
-Verizon is also a great place to buy stocking stuffers for techies during the holiday season with its abundant <a href="https://www.kqzyfj.com/click-462641-14048362?url=https%3A%2F%2Fwww.verizon.com%2Fdeals%2Fproducts%2F">accessory sales</a>. Right now it has up to &#36;50 off Anker speakers, 30% off Nimble chargers, 20% off Apple Watch bands, and 20% off Mophie chargers.<br/>
-<br/>
-<h2 id="visible">Visible</h2><br/>
-Verizon's <a href="https://visible.pxf.io/c/153062/1007955/12909">Visible</a> brand has &#36;10 off its premium Visible+ service, now priced at &#36;35/month with the promo code 35FOR6 used at checkout. This promotion will last for six months, and after it ends it will return to the regular price of &#36;45/month for the Visible+ service.<br/>
-<br/>
-<div class="center-wrap"><a href="https://visible.pxf.io/c/153062/1007955/12909"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;10 OFF/MONTH</div>Visible+ Cellular Plan</div></a></div><br/>
-<br/>
-Visible offers all of the latest smartphones, including iPhone 15 and iPhone 15 Pro models. When you join Visible, you'll save up to &#36;240 via monthly bill credits on your account. You'll need to join Visible on a new line of service, purchase a new device, and select the Visible+ plan.<br/>
-<br/>
-<h2 id="t-mobile">T-Mobile</h2><br/>
-<a href="https://www.t-mobile.com/cell-phones/brand/apple?icid=MGPO_TMO_P_23HOLIIP15_ACF7436252B5D95636519">T-Mobile</a> is providing up to &#36;1,000 off the new iPhone 15 or iPhone 15 Pro when you trade in an eligible device on a Go5G Next plan. You can get up to &#36;830 off these devices when you trade in an eligible device on a Go5G Plus plan.<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.t-mobile.com/cell-phones/brand/apple?icid=MGPO_TMO_P_23HOLIIP15_ACF7436252B5D95636519"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO &#36;1,000 OFF</div>iPhone 15 at T-Mobile</div></a></div><br/>
-<br/>
-The carrier also has a wide variety of previous generation iPhones at a discount. This includes the iPhone 13 and iPhone SE at no extra cost when purchased on select cellular plans and trading in eligible devices.<br/>
-<br/>
-<h2 id="accessories">Accessories</h2><br/>
-To cap things off, we're pointing out some great iPhone accessories that you can find on sale at Amazon and <a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Fplus%2Fnew-apple-accessory-blowout%3Fref%3Dw_cnt_gw_dly_snb">Woot</a>. Woot's sale has the MagSafe Charger and MagSafe Duo Charger at all-time low prices, but these have been fluctuating since the beginning of November. If they're gone when you check, be sure to try again sometime soon.<br/>
-<br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-MX542AM-A-AirTag-Pack%2Fdp%2FB0932QJ2JZ%3Fref_%3Dast_sto_dp">AirTag 4-Pack</a> - &#36;79.99, down from &#36;99.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-FineWoven-Case-MagSafe%2Fdp%2FB0CHX3T1WX%3Ftag%3Dmacrumors-20%26ref_%3Dast_sto_dp%26th%3D1%26geniuslink%3Dtrue">iPhone 15 FineWoven Case</a> - &#36;33.69, down from &#36;59.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-Plus-FineWoven-Case-MagSafe%2Fdp%2FB0CHX9FJTK%3Ftag%3Dmacrumors-20%26ref_%3Dast_sto_dp%26th%3D1%26psc%3D1%26geniuslink%3Dtrue">iPhone 15 Plus FineWoven Case</a> - &#36;47.99, down from &#36;59.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08L5NP6NG%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">MagSafe Charger</a> - &#36;29.99, down from &#36;39.00</li><br/>
-<li><a href="https://www.tkqlhce.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-duo-fast-wireless-charger%3Fref%3Dw_cnt_wp_0_4">MagSafe Duo Charger</a> - &#36;79.99, down from &#36;129.99</li><br/>
-<li><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-iphone-14-plus-leather-case-with-magsafe%3Fref%3Dw_cnt_wp_0_5">iPhone 14 Plus Leather Case</a> - &#36;15.99, down from &#36;59.00</li><br/>
-<li><a href="https://www.dpbolvw.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-mptc3fe-a-iphone-14-plus-silicone-case-w-magsafe%3Fref%3Dw_cnt_wp_0_5">iPhone 14 Plus Silicone Case</a> - &#36;15.99, down from &#36;49.00</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-iphone-14-pro-max-leather-case-with-magsafe%3Fref%3Dw_cnt_wp_0_1">iPhone 14 Pro Max Leather Case</a> - &#36;34.99, down from &#36;59.00</li></ul> Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/24/black-friday-iphone-deals-today/">The Best Cyber Monday iPhone Deals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-best-cyber-monday-iphone-deals.2411884/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>4 Best Cyber Monday AirPods Deals</title>
-		<link>https://www.macrumors.com/2023/11/24/4-black-friday-airpods-deals/</link>
-		<comments>https://forums.macrumors.com/threads/4-best-cyber-monday-airpods-deals.2411883/</comments>
-		<pubDate>Fri, 24 Nov 2023 05:10:28 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/24/4-black-friday-airpods-deals/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Black Friday</category>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Major discounts are always available on the AirPods around the holiday season, and this week is no different. We're tracking all-time low prices on AirPods 2, AirPods 3, AirPods Pro 2, and more below.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/new-airpods-early-black-friday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-920764" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2 id="best_airpods_deals">Best AirPods Deals</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>AirPods 2</strong></a> for &#36;79.99 at Amazon (&#36;49 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BDHB9Y8H%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>AirPods 3</strong></a> for &#36;139.99 at Amazon (&#36;29 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>AirPods Pro 2 (USB-C)</strong></a> for &#36;189.99 at Amazon (&#36;59 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08PZJN7BD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>AirPods Max</strong></a> for &#36;449.99 at Amazon (&#36;99 off)</li></ul><br/>
-<br/>
-<h2 id="best_black_friday_deals">Best Cyber Monday Deals</h2><br/>
-<ul><li><a href="https://www.macrumors.com/2023/11/24/black-friday-iphone-deals-today/">The Best Cyber Monday iPhone Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/4-best-black-friday-ipad-deals-today/">The Best Cyber Monday iPad Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/black-friday-homepod-deals-today/">The Best Cyber Monday HomePod Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-apple-watch-deals/">The Best Cyber Monday Apple Watch Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-macbook-deals-today/">The Best Cyber Monday MacBook Deals</a></li></ul><br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2019/01/airpods-red-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921465" /><br/>
-We originally tracked the AirPods 2 for &#36;69.00 at Amazon in early November, but that sale quickly expired. Amazon now has this model for &#36;79.99, down from &#36;129.00. This version of the AirPods is perfect for anyone on your holiday shopping list who may be asking for a simple and reliable pair of wireless earbuds, particularly at this insanely low price tag. <br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>AirPods 2 for &#36;79.99</div></a></div><br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2019/01/airpods-3-red.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921463" /><br/>
-Amazon has the AirPods 3 with Lightning Charging Case for &#36;139.99, down from &#36;169.00. These are upgraded in a few ways from the AirPods 2, with spatial audio, Adaptive EQ, force sensor controls, sweat and water resistance, and more.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BDHB9Y8H%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;29 OFF</div>AirPods 3 for &#36;139.99</div></a></div><br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2019/01/airpods-pro-2-red-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921464" /><br/>
-Moving to the Pro lineup, Amazon has the AirPods Pro 2 with USB-C/MagSafe Charging Case for &#36;189.99, which is a match of the all-time low price on this model.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;59 OFF</div>AirPods Pro 2 (USB-C) for &#36;189.99</div></a></div><br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2019/01/airpods-max-red.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921462" /><br/>
-Lastly, the high-end AirPods Max are available for &#36;449.99 on Amazon, down from &#36;549.00. Discounts on the AirPods Max have been rare over the past few months, so this one is a second-best price on the over-ear headphones.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08PZJN7BD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;99 OFF</div>AirPods Max for &#36;449.99</div></a></div><br/>
-<br/>
-Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/24/4-black-friday-airpods-deals/">4 Best Cyber Monday AirPods Deals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/4-best-cyber-monday-airpods-deals.2411883/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
