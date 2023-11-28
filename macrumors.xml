@@ -14,12 +14,40 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 27 Nov 2023 16:11:42 PST</lastBuildDate>
+	<lastBuildDate>Mon, 27 Nov 2023 20:03:20 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Police Departments and News Sites Spreading Misinformation About How iOS 17 NameDrop Feature Works</title>
+		<link>https://www.macrumors.com/2023/11/27/ios-17-namedrop-misinformation/</link>
+		<comments>https://forums.macrumors.com/threads/police-departments-and-news-sites-spreading-misinformation-about-how-ios-17-namedrop-feature-works.2412190/</comments>
+		<pubDate>Mon, 27 Nov 2023 17:11:54 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/27/ios-17-namedrop-misinformation/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple with iOS 17.1 and watchOS 10.1 introduced a new NameDrop feature that is designed to allow users to place Apple devices near one another to quickly exchange contact information. Sharing contact information is done with explicit user permission, but some news organizations and police departments have been spreading misinformation about how functions.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/02/ios-17-namedrop.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-900409" /><br/>
+As noted by <em><a href="https://www.washingtonpost.com/technology/2023/11/27/namedrop-iphone-ios17-safety/">The Washington Post</a></em>, there have been warnings about NameDrop popping up on <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a>. Police departments in Pennsylvania, Oklahoma, Ohio, and other states have been suggesting that contact information can be shared "just by bringing your phones close together." From the <a href="https://www.facebook.com/ChesterPolicePA">City of Chester Police Department</a> in Ohio:<blockquote>IMPORTANT PRIVACY UPDATE: If you have an iPhone and have done the recent iOS 17 update, they have set a new feature called NameDrop defaulted to ON. This feature allows the sharing of your contact info just by bringing your phones close together. To shut this off go to Settings, General, AirDrop, Bringing Devices Together. Change to OFF.</blockquote><br/>
+While it's true that NameDrop is turned on by default, the way that it functions is more nuanced than simply putting two iPhones near each other.<br/>
+<br/>
+NameDrop works when two iPhones running iOS 17.1 or an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> with iOS 17.1 and an Apple Watch running watchOS 10.1 are placed right next to each other, as in almost touching. When the two devices come in close contact and both are unlocked, there is a pop up prompting users to share contact information or an image.<br/>
+<br/>
+Contact information is not shared automatically, and it is a user-initiated process that requires both people exchanging information to accept the transfer. While an accidental exchange could occur, it would require a user to unlock their device and accept the sharing prompt for that to occur.<br/>
+<br/>
+Multiple police departments posted the warning above, which was widely shared on Facebook and other social networks. The message from the Noble County Sheriff's Office in Ohio, for example, got upwards of 70,000 shares, while the Dewey Police Department in Pennsylvania's warning was shared 11,000 times. After criticism from some commenters, Noble County edited its message to clarify that there's a popup to transfer content, and Dewey County said that it was attempting to "get parents engaged with their children," but many people who saw the original post may not see the updates.<br/>
+<blockquote>The intent of the post was to get parents engaged with their children and what they are doing on their devices, not the fear mongering as suggested. We suggest everyone do research on new technology and updates to learn more about what is out there, especially for kids</blockquote><br/>
+Several local news stories have also shared similar questionable NameDrop information. <a href="https://www.cbsnews.com/pittsburgh/news/new-iphone-feature-namedrop-is-on-by-default/">KDKA-TV in Pittsburgh</a>, for example, interviewed several people and included quotes suggesting NameDrop happens automatically.<blockquote>"That's why I turned it off because I don't have a use for it. I don't even have my phone at work so I don't really have a use for it. But I guess a default on could be a bit controversial just because I think giving out your contact should be a conscious decision and not something that could accidentally happen," Jerry said.<br/>
+<br/>
+"That is a little bit concerning, I think it should be an optional feature instead of automatically happening," said Liz Jones.</blockquote><br/>
+If anything, NameDrop has the potential to be more irritating than dangerous, simply because it's likely to activate when your phone is next to someone else's and unlocked, in a situation like a dinner or meeting. Given the negative feedback, Apple may in a future update turn NameDrop off by default, but those who want to disable it now can do so by opening up the Settings app, going to AirDrop, and turning off "Bringing Devices Together."<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/27/ios-17-namedrop-misinformation/">Police Departments and News Sites Spreading Misinformation About How iOS 17 NameDrop Feature Works</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/police-departments-and-news-sites-spreading-misinformation-about-how-ios-17-namedrop-feature-works.2412190/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Best Buy Takes Up to &#36;300 Off MacBooks for Cyber Monday Alongside Major Discounts Sitewide</title>
@@ -1599,63 +1627,6 @@ The M1 MacBook Air has returned to its steep discounted price of <a href="https:
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08N5M7S6K%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;249 OFF</div>M1 MacBook Air (256GB) for &#36;749.99</div></a></div><br/>
 <br/>
 Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-macbook-deals-today/">5 Best Cyber Monday MacBook Deals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/5-best-cyber-monday-macbook-deals.2411889/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>5 Best Cyber Monday Apple Watch Deals</title>
-		<link>https://www.macrumors.com/2023/11/24/5-best-black-friday-apple-watch-deals/</link>
-		<comments>https://forums.macrumors.com/threads/5-best-cyber-monday-apple-watch-deals.2411888/</comments>
-		<pubDate>Fri, 24 Nov 2023 05:39:34 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/24/5-best-black-friday-apple-watch-deals/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Black Friday</category>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Black Friday is over, but Apple Watch deals are still available on multiple models for Cyber Monday, including Apple Watch Series 9, Apple Watch SE, and Apple Watch Ultra 2. Across the board, every deal mentioned in this post is an all-time low price.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/apple-watch-black-friday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921788" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2 id="best_apple_watch_deals">Best Apple Watch Deals</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch SE (44mm GPS)</strong></a> for &#36;219.00 (&#36;60 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%2Fref%3Dtwister_B0CNK5HZ5P%3F_encoding%3DUTF8%26th%3D1"><strong>Apple Watch Series 9 (41mm GPS)</strong></a> for &#36;329.00 (&#36;70 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXF9R4Y%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch Series 9 (45mm GPS)</strong></a> for &#36;359.00 (&#36;70 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>Apple Watch Ultra 2</strong></a> for &#36;739.00 (&#36;60 off)</li><br/>
-</ul><br/>
-<br/>
-<h2 id="best_black_friday_deals">Best Cyber Monday Deals</h2><br/>
-<ul><li><a href="https://www.macrumors.com/2023/11/24/black-friday-iphone-deals-today/">The Best Cyber Monday iPhone Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/4-best-black-friday-ipad-deals-today/">The Best Cyber Monday iPad Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/black-friday-homepod-deals-today/">The Best Cyber Monday HomePod Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/4-black-friday-airpods-deals/">The Best Cyber Monday AirPods Deals</a></li><br/>
-<li><a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-macbook-deals-today/">The Best Cyber Monday MacBook Deals</a></li></ul><br/>
-<br/>
-<h2 id="apple_watch_series_9">Apple Watch Series 9</h2><br/>
-Right now, the best Cyber Monday Apple Watch deals are focused entirely on the new Series 9 models. You can get the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%2Fref%3Dtwister_B0CNK5HZ5P%3F_encoding%3DUTF8%26th%3D1">41mm GPS device for &#36;329.00</a> at Amazon, down from &#36;399.00. This &#36;70 discount is a new all-time low price on the 2023 smartwatch. Likewise, the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXF9R4Y%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue">45mm GPS is down to &#36;359.00</a> at Amazon, another &#36;70 markdown and record low price.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/apple-watch-series-9-black-friday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921790" /><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX5R8BP%2Fref%3Dtwister_B0CNK5HZ5P%3F_encoding%3DUTF8%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (41mm GPS) for &#36;329.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXF9R4Y%2Fref%3Dtwister_B0CNK5HZ5P%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (45mm GPS) for &#36;359.00</div></a></div><br/>
-<br/>
-If you're looking for cellular models, there are a few deals to discover. Amazon has the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXDRLMQ%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue">41mm cellular Series 9 model for &#36;429.00</a>, as well as the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">45mm cellular Series 9 model for &#36;459.00</a>. Both of these are &#36;70 discounts and more all-time low prices for the smartwatch lineup.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXDRLMQ%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (41mm Cellular) for &#36;429.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX3T2TM%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (45mm Cellular) for &#36;459.00</div></a></div><br/>
-<br/>
-<h2 id="apple_watch_ultra_2">Apple Watch Ultra 2</h2><br/>
-In terms of other Apple Watch deals, Amazon has the Apple Watch Ultra 2 for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;739.00</strong></a>, down from &#36;799.00. This sale is extensive, covering nearly every Ultra 2 model, and it's an all-time low price. You'll need to clip an on-page coupon in order to see this sale price.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/apple-watch-ultra-1-black-friday.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921791" /><div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>Apple Watch Ultra 2 for &#36;739.00</div></a></div><br/>
-<br/>
-<h2 id="apple_watch_se">Apple Watch SE</h2><br/>
-Amazon has the 40mm GPS Apple Watch SE for just <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;179.00</strong></a>, down from &#36;249.00. This is a new all-time low price for Cyber Monday. The <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue">44mm GPS model</a> is also at an all-time low price.<br/>
-<br/>
-<div class="center-wrap"><em><strong>Update: The deal on the 40mm GPS model has expired.</strong></em></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch SE (40mm GPS) for &#36;179.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXH39GN%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>Apple Watch SE (44mm GPS) for &#36;219.00</div></a></div><br/>
-<br/>
-Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/black-friday/">Apple Black Friday</a>, <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/community-discussion.20">Community Discussion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/24/5-best-black-friday-apple-watch-deals/">5 Best Cyber Monday Apple Watch Deals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/5-best-cyber-monday-apple-watch-deals.2411888/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
