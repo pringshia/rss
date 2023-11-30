@@ -14,12 +14,191 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 30 Nov 2023 08:02:49 PST</lastBuildDate>
+	<lastBuildDate>Thu, 30 Nov 2023 12:03:13 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Adds New Features to Final Cut Pro, iMovie, Motion, Compressor, and Logic Pro</title>
+		<link>https://www.macrumors.com/2023/11/30/apple-final-cut-pro-imovie-update/</link>
+		<comments>https://forums.macrumors.com/threads/apple-adds-new-features-to-final-cut-pro-imovie-motion-compressor-and-logic-pro.2412493/</comments>
+		<pubDate>Thu, 30 Nov 2023 10:49:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/30/apple-final-cut-pro-imovie-update/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Final Cut Pro</category>
+		<category>iMovie</category>
+		<category>Motion</category>
+		<category>Compressor</category>
+		
+
+		<description><![CDATA[Apple today released updates for its Final Cut Pro, iMovie, Motion, Compressor, and Logic Pro software, introducing new features and optimizations. Apple announced the Final Cut Pro updates for <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> and Mac <a href="https://www.macrumors.com/2023/11/06/final-cut-pro-mac-ipad-new-features/">earlier this month</a> and has now launched them. <br/>
+<br/>
+<img class="aligncenter size-full wp-image-921303" src="https://images.macrumors.com/article-new/2023/11/final-cut-pro.jpg" alt="" width="1960" height="1102" /><br/>
+Final Cut Pro on the Mac has been updated with organizational refinements like automatic timeline scrolling. Users will be able to keep their clips in view during playback, with the view able to be adjusted using keyboard shortcuts or the Zoom option.<br/>
+<br/>
+The organization of the timeline is viewable at a glance, and it is easier to differentiate clips by assigned role using distinct colors. Apple also added tools for cleaning up complex timeline sections and fine tuning edits by combining overlapping connected clips into a single connected storyline.<br/>
+<br/>
+On Apple silicon Macs, exporting projects in H.264 and HEVC is faster than before as Final Cut Pro is able to send video segments to available media engines for simultaneous processing.<br/>
+<br/>
+On the &zwnj;iPad&zwnj;, the updated version of Final Cut Pro includes voiceover capabilities that let creators record narration and audio directly into the timeline with the &zwnj;iPad&zwnj;. In pro camera mode, stabilization now improves shaky footage for smoother video, and there are new options for combining connected clips. Editing is being sped up through new keyboard shortcuts for voiceover and grouping clips, plus there are new color-grading presets and titles.<br/>
+<br/>
+iMovie and Compressor include the same file exporting optimizations on <a href="https://www.macrumors.com/guide/m1-max/">M1 Max</a>, <a href="https://www.macrumors.com/guide/m1-ultra/">M1 Ultra</a>, <a href="https://www.macrumors.com/guide/m2/">M2</a> Max, &zwnj;M2&zwnj; Ultra, and M3 Max machines. iMovie also includes new options for creating stereoscopic packages for the iTunes Store, and support for JSON and XML when batch exporting submissions using the command line.<br/>
+<br/>
+Motion has improvements to the Object Tracker on Macs with Apple silicon, and for Logic Pro, Apple has added bug fixes.<br/>
+<br/>
+Final Cut Pro for Mac is priced at &#36;300, and Final Cut Pro for &zwnj;iPad&zwnj; is priced at &#36;4.99 per month or &#36;49 per year. Compressor and Motion for Mac are priced at &#36;50 each, Logic Pro is &#36;200, and iMovie is free.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/final-cut-pro/">Final Cut Pro</a>, <a href="https://www.macrumors.com/guide/imovie/">iMovie</a>, <a href="https://www.macrumors.com/guide/motion/">Motion</a>, <a href="https://www.macrumors.com/guide/compressor/">Compressor</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/30/apple-final-cut-pro-imovie-update/">Apple Adds New Features to Final Cut Pro, iMovie, Motion, Compressor, and Logic Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-adds-new-features-to-final-cut-pro-imovie-motion-compressor-and-logic-pro.2412493/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases iOS 17.1.2 With Security Fixes</title>
+		<link>https://www.macrumors.com/2023/11/30/apple-releases-ios-17-1-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-ios-17-1-2-with-security-fixes.2412491/</comments>
+		<pubDate>Thu, 30 Nov 2023 10:12:44 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/30/apple-releases-ios-17-1-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released iOS 17.1.2 and iPadOS 17.1.2, small updates to the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> and <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> operating systems that Apple introduced in September. iOS 17.2.1 and iPadOS 17.2.1 come a few weeks after the <a href="https://www.macrumors.com/2023/11/07/apple-releases-ios-17-1-1/">release of iOS 17.1.1</a>, another bug fix update.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-923208" src="https://images.macrumors.com/article-new/2023/11/iOS-17.1.2-Feature.jpg" alt="" width="2500" height="1406" /><br/>
+iOS 17.1.2 and iPadOS 17.1.2 can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update.<br/>
+<br/>
+According to Apple's release notes, iOS 17.1.2 includes important security fixes. Specifically, the update addresses vulnerabilities that may have been exploited in earlier versions of iOS.<blockquote> Processing web content may disclose sensitive information. Apple is aware of a report that this issue may have been exploited against versions of iOS before iOS 16.7.1.<br/>
+<br/>
+Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited against versions of iOS before iOS 16.7.1.</blockquote>Apple is already working on a major iOS 17.2 update that is set to come out in December. iOS 17.2 includes the Journal app, changes to the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app, new Weather widgets, and more, with <a href="https://www.macrumors.com/guide/ios-17-2-beta-features/">full details available in our iOS 17.2 guide</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/30/apple-releases-ios-17-1-2/">Apple Releases iOS 17.1.2 With Security Fixes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-17-1-2-with-security-fixes.2412491/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases macOS Sonoma 14.1.2 With Bug Fixes</title>
+		<link>https://www.macrumors.com/2023/11/30/apple-releases-macos-sonoma-14-1-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-macos-sonoma-14-1-2-with-bug-fixes.2412490/</comments>
+		<pubDate>Thu, 30 Nov 2023 10:11:36 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/30/apple-releases-macos-sonoma-14-1-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today released <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.1.2, a minor update to the &zwnj;macOS Sonoma&zwnj; operating system that came out in September. &zwnj;macOS Sonoma&zwnj; 14.1.2 comes three weeks after the <a href="https://www.macrumors.com/2023/11/07/apple-releases-macos-sonoma-14-1-1/">release of macOS Sonoma 14.1,1</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-898568" src="https://images.macrumors.com/article-new/2023/06/macos-sonoma-feature-purple-green.jpg" alt="" width="2585" height="1454" /><br/>
+The ‌‌&zwnj;macOS Sonoma&zwnj; 14.1‌.2 update can be downloaded for free on all eligible Macs using the Software Update section of System Settings.<br/>
+<br/>
+Today's update includes bug fixes and security updates according to Apple.<blockquote>This update provides important bug fixes and security updates and is recommended for all users.<br/>
+<br/>
+Some features may not be available for all regions, or on all Apple devices. For detailed information about the security content of this update, please visit: <a href="https://support.apple.com/kb/HT201222">https://support.apple.com/kb/HT201222</a></blockquote><br/>
+<br/>
+According to Apple's security support page, the update fixes two vulnerabilities that Apple says were exploited on versions of iOS earlier than iOS 16.7.1.<blockquote> Processing web content may disclose sensitive information. Apple is aware of a report that this issue may have been exploited against versions of iOS before iOS 16.7.1.<br/>
+<br/>
+Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited against versions of iOS before iOS 16.7.1.</blockquote>More information on the features in &zwnj;macOS Sonoma&zwnj; can be <a href="https://www.macrumors.com/roundup/macos-sonoma/">found in our macOS Sonoma roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/30/apple-releases-macos-sonoma-14-1-2/">Apple Releases macOS Sonoma 14.1.2 With Bug Fixes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-macos-sonoma-14-1-2-with-bug-fixes.2412490/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>UK Revives Antitrust Probe Into Apple&#039;s Browser and Cloud Gaming Restrictions</title>
+		<link>https://www.macrumors.com/2023/11/30/uk-revives-antitrust-probe-into-apple-restrictions/</link>
+		<comments>https://forums.macrumors.com/threads/uk-revives-antitrust-probe-into-apples-browser-and-cloud-gaming-restrictions.2412483/</comments>
+		<pubDate>Thu, 30 Nov 2023 09:07:09 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/30/uk-revives-antitrust-probe-into-apple-restrictions/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Apple Antitrust</category>
+		<category>United Kingdom</category>
+		
+
+		<description><![CDATA[Apple faces a renewed comprehensive investigation into its dominance in mobile browsers and cloud gaming following a ruling by London's Court of Appeal (via <em><a href="https://www.bloomberg.com/news/articles/2023-11-30/apple-loses-fight-to-thwart-uk-antitrust-watchdog-s-mobile-probe?">Bloomberg</a></em>). The court's decision effectively reverses a previous verdict that had halted the probe, reinforcing the authority of the UK's Competition and Markets Authority (CMA).<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/06/app-store-blue-banner-uk-fixed.jpg" alt="" width="1794" height="1009" class="alignnone size-full wp-image-804521" /><br/>
+In November 2022, the CMA <a href="https://www.macrumors.com/2022/11/22/uk-cma-market-probe-apple-google/">launched an investigation</a> into the cloud gaming and mobile browser restrictions put in place by both Apple and Google, suggesting that the two companies were holding back innovation and increasing costs for web developers, cloud gaming service providers, and browser vendors. This decision was initially <a href="https://www.macrumors.com/2023/03/31/uk-apple-browser-probe-shut-down/">overturned</a> by the Competition Appeal Tribunal (CAT), which agreed with Apple that the CMA <a href="https://www.macrumors.com/2023/03/31/uk-apple-browser-probe-shut-down/">took too long to open an investigation</a>.<br/>
+<br/>
+The Court of Appeal's latest judgment clarified that the CMA acted within its legal bounds, rejecting Apple's argument regarding time limits. The ruling emphasized that such restrictions apply only to consultation processes within a market study and do not limit the CMA's broader investigative powers.<br/>
+<br/>
+The court highlighted the CMA's role in promoting competition and safeguarding consumer interests, pointing out the potential "serious consequences" of restricting these powers. The CMA's investigation, which remains paused pending Apple's option of a Supreme Court appeal, is set to resume efforts to scrutinize the company's influence in the mobile browser market and its approach to cloud gaming on the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a>, <a href="https://www.macrumors.com/guide/united-kingdom/">United Kingdom</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/30/uk-revives-antitrust-probe-into-apple-restrictions/">UK Revives Antitrust Probe Into Apple&#039;s Browser and Cloud Gaming Restrictions</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/uk-revives-antitrust-probe-into-apples-browser-and-cloud-gaming-restrictions.2412483/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Best Buy Holiday Sales Continue With Special Prices for My Best Buy Members</title>
+		<link>https://www.macrumors.com/2023/11/30/best-buy-holiday-sales-members/</link>
+		<comments>https://forums.macrumors.com/threads/best-buy-holiday-sales-continue-with-special-prices-for-my-best-buy-members.2412478/</comments>
+		<pubDate>Thu, 30 Nov 2023 08:39:03 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/11/30/best-buy-holiday-sales-members/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Best Buy continues to expand its <a href="https://howl.me/ck61q61zroJ">ongoing Holiday Deals sale</a>, with discounts on video games, notebooks, smartphones, TVs, major appliances, and much more. Throughout all of these sales, <a href="https://howl.me/ck6ZZa9kiGv"><strong>My Best Buy Plus and My Best Buy Total members</strong></a> have a chance to save even more money through exclusive offers.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/best-buy-new-blue-holiday-2.jpg" alt="" width="1607" height="905" class="alignnone size-full wp-image-924820" /><em><small>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+There are three tiers of the <a href="https://howl.me/ck6ZZa9kiGv">My Best Buy membership program</a>, including a free option that offers free standard shipping for all members. If you want to start getting access to more interesting benefits and discounts, you'll need to look at the My Best Buy Plus or My Best Buy Total tiers.<br/>
+<br/>
+<div class="center-wrap"><a href="https://howl.me/ck6ZZa9kiGv"target="_blank"><div class="fancybutton"><div class="fancybadge">EXCLUSIVE SAVINGS</div>My Best Buy Plus/Total Memberships</div></a></div><br/>
+<br/>
+Starting with <a href="https://howl.me/ck6ZYEFKSVF"><strong>My Best Buy Plus</strong></a>, for &#36;49.99 per year you'll get free two-day shipping, exclusive discounts, and exclusive access to certain sales, events, and products. There's also an extended 60-day return window on most products.<br/>
+<br/>
+There's also the <a href="https://howl.me/ck6Z4pdQsmT"><strong>My Best Buy Total</strong></a> tier, priced at &#36;179.99 per year and including the most robust benefits for members. It has all of the benefits of My Best Buy Plus, with the addition of protection plans (including AppleCare+), 24/7 tech support, VIP member support, and 20 percent off repairs.<br/>
+<br/>
+In regards to the AppleCare+ benefit, My Best Buy Total members will get up to 24 months of AppleCare+ for most new Apple products purchased at Best Buy while their membership is active. This includes Apple's most popular products, like MacBook Pro, iPhone, iPad, Apple Watch, AirPods, HomePod, Apple TV, Studio Display, and more.<br/>
+<br/>
+<h2>Deals Exclusive to My Best Buy Plus/Total Members</h2><br/>
+Best Buy has a <a href="https://howl.me/ck61OoXRVNW">page full of exclusive member deals</a>, but we've rounded up some of the best in the list below.<br/>
+<br/>
+<ul><li><a href="https://howl.me/ck61PV9oWri">Nest x Yale Smart Lock</a> - Save &#36;50</li><br/>
+<li><a href="https://howl.me/ck61Q9TzG8O">Logitech Keyboard + iPad bundles</a> - Save 25%</li><br/>
+<li><a href="https://howl.me/ck61GY6s0ys">Bose Wireless Noise Canceling Headphones</a> - &#36;259.00, down from &#36;379.00</li><br/>
+<li><a href="https://howl.me/ck61S0pbEJY">Google Nest Cam 3-Pack</a> - &#36;399.99, down from &#36;449.99</li><br/>
+<li><a href="https://howl.me/ck61I0yXb6W">LG 86-inch Class UR7800 Series LED 4K UHD Smart TV</a> - &#36;799.99, down from &#36;1,249.99</li><br/>
+<li><a href="https://howl.me/ck61FA0dofO">Samsung Galaxy Book3 15-inch Laptop</a> - &#36;949.99, down from &#36;1,549.99</li><br/>
+<li><a href="https://howl.me/ck61EQJ9alV">Dell XPS 13-inch Laptop</a> - &#36;999.99, down from &#36;1,349.99</li><br/>
+<li><a href="https://howl.me/ck61O1sEVDa">Dyson hair care</a> - Save 20% on select products</li></ul><br/>
+<h2>Other Best Buy Deals</h2><br/>
+<h3>Computers</h3><br/>
+<img src="https://images.macrumors.com/article-new/2023/11/macbook-air-best-buy.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-924749" /><br/>
+<ul><li><a href="https://howl.me/ck6Z7bCtHli">13.6-inch M2 MacBook Air (256GB)</a> - &#36;949.00, down from &#36;1,099.00</li><br/>
+<li><a href="https://howl.me/ck6Z7AEUD30">13.6-inch M2 MacBook Air (512GB)</a> - &#36;1,249.00, down from &#36;1,399.00</li><br/>
+<li><a href="https://howl.me/ck60altlKHs">Chromebook Plus Laptops</a> - Save up to &#36;320 on select models</li><br/>
+<li><a href="https://howl.me/ck6bWIIqm2n">Lenovo Ideapad 15-inch Touch Laptop</a> - &#36;329.99, down from &#36;629.99</li><br/>
+<li><a href="https://howl.me/ck6bYP1njgS">Windows Laptops</a> - Save up to &#36;600 on select models</li><br/>
+<li><a href="https://howl.me/ck6bZRy8xZg">Gaming Laptops and PCs</a> - Save up to &#36;600 on select models</li><br/>
+<li><a href="https://howl.me/ck6b0xcZS29">PC Storage and Accessories</a> - Save up to 40 percent</li></ul><br/>
+<h3>TVs</h3><br/>
+<img src="https://images.macrumors.com/article-new/2023/11/samsung-best-buy.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-924748" /><br/>
+<ul><li><a href="https://howl.me/ck60eNSogjg">Hisense 40-inch LED Google TV</a> - &#36;139.99, down from &#36;229.99</li><br/>
+<li><a href="https://howl.me/ck0EZNrRGkg">TCL 40-inch S-Class 1080p Smart TV with Fire TV</a> - &#36;149.99, down from &#36;229.99</li><br/>
+<li><a href="https://howl.me/ck60dRACozA">Hisense 50-inch LED 4K UHD Smart TV</a> - &#36;239.99, down from &#36;269.99</li><br/>
+<li><a href="https://howl.me/ck60f2BMtL7">Hisense 65-inch LED 4K UHD Google TV</a> - &#36;349.99, down from &#36;399.99</li><br/>
+<li><a href="https://howl.me/ck3BnaSOPqN">LG 65-inch LED 4K Smart TV</a> - &#36;399.99, down from &#36;599.99</li><br/>
+<li><a href="https://howl.me/ck0E0KC17zf">LG 48-inch Class A2 Series OLED Smart TV</a> - &#36;599.99, down from &#36;1,299.99</li><br/>
+<li><a href="https://howl.me/ck0E1y2bnRl">Samsung 75-inch Class TU690T Crystal 4K Smart Tizen TV</a> - &#36;579.99, down from &#36;749.99</li><br/>
+<li><a href="https://howl.me/ck0E2vxgpnW">LG 86-inch Class UR7800 Series LED 4K UHD Smart TV</a> - &#36;799.99, down from &#36;1,249.99</li><br/>
+<li><a href="https://howl.me/ck3BoaZNrLh">Samsung 65-inch OLED 4K UHD TV</a> - &#36;1,599.99, down from &#36;2,099.99</li><br/>
+<li><a href="https://howl.me/ck0E3qCGZKD">Samsung 77-inch Class S89C OLED 4K UHD Smart Tizen TV</a> - &#36;2,299.99, down from &#36;3,599.99</li></ul><br/>
+<h3>Video Games</h3><br/>
+<img src="https://images.macrumors.com/article-new/2023/11/ps5-best-buy.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-924747" /><br/>
+<ul><li><a href="https://howl.me/ck60nl664HJ">Nintendo Switch + Mario Kart 8 Deluxe + 3 Months Switch Online</a> - &#36;299.99</li><br/>
+<li><a href="https://howl.me/ck60kUoqEaX">Nintendo Switch + Super Smash Bros. Ultimate + 3 Months Switch Online</a> - &#36;349.99</li><br/>
+<li><a href="https://howl.me/ck3BODf5yvN">Xbox Series X 1TB Console</a> - &#36;449.99, down from &#36;499.99</li><br/>
+<li><a href="https://howl.me/ck0E9SazKdl">PlayStation 5 Console Marvel's Spider-Man 2 Bundle</a> - &#36;499.99 (full game download of Marvel's Spider-Man 2 included)</li></ul><br/>
+<h3>Smartphones</h3><br/>
+<img src="https://images.macrumors.com/article-new/2023/11/samsung-galaxy-best-buy.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-924746" /><br/>
+<ul><li><a href="https://howl.me/ck60qE56v2c">Samsung Galaxy Z Fold4</a> - Save &#36;750</li><br/>
+<li><a href="https://howl.me/ck60rfIsJiR">Samsung Galaxy Z Flip4</a> - Save &#36;700</li><br/>
+<li><a href="https://howl.me/ck60rRfy5QJ">Samsung Galaxy A53 5G</a> - Save &#36;400</li><br/>
+<li><a href="https://howl.me/ck60ssxNsqK">Samsung Galaxy S22 Ultra</a> - Save &#36;700</li><br/>
+<li><a href="https://howl.me/ck60s1y27Yi">Samsung Galaxy S22</a> - Save &#36;250</li><br/>
+<li><a href="https://howl.me/ck60tZnlmRe">And more including up to &#36;1,000 off Galaxy S23</a></li></ul><br/>
+<h3>Appliances</h3><br/>
+<img src="https://images.macrumors.com/article-new/2023/11/fridge-best-buy.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-924750" /><br/>
+<ul><li><a href="https://howl.me/ck60welCshg">LG</a> - Save up to 30 percent on select microwaves, washers, dryers, dishwashers, and more</li><br/>
+<li><a href="https://howl.me/ck60w64RDLd">LG washer and dryer pairs</a> - Save an extra &#36;100</li><br/>
+<li><a href="https://howl.me/ck60zewHS64">LG appliance packages</a> - Save up to an extra &#36;500 when buying multiple appliances at once</li><br/>
+<li><a href="https://howl.me/ck60x2g4GGE">French door refrigerators</a> - Save up to &#36;1,000</li><br/>
+<li><a href="https://howl.me/ck60AjLWWTj">And more Black Friday deals still available on major appliances</a></li></ul> If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/30/best-buy-holiday-sales-members/">Best Buy Holiday Sales Continue With Special Prices for My Best Buy Members</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-buy-holiday-sales-continue-with-special-prices-for-my-best-buy-members.2412478/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Highlights iPhone Feature That Lets You Preserve Your Own Voice</title>
@@ -38,7 +217,7 @@ Introduced with iOS 17, iPadOS 17, and macOS Sonoma, Personal Voice allows those
 <br/>
 Personal Voice integrates with another accessibility feature called Live Speech, which lets users type what they want to say to have it be spoken aloud during in-person conversations, phone calls, and FaceTime video calls.<br/>
 <br/>
-In the two-minute video, called "The Lost Voice," a father uses Personal Voice and Live Speech to read aloud a bedtime story with his daughter.<br/>
+In the video, called "The Lost Voice," physician and disability advocate Tristram Ingham uses Personal Voice and Live Speech to read aloud a bedtime story to a young girl. More details about Ingham's life can be found in an <a href="https://www.apple.com/newsroom/2023/11/a-disability-advocate-preserves-his-voice-with-iphone/">Apple Stories article</a> shared today.<br/>
 <br/>
 <div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/ra9I0HScTDw?si=9iP1J0kg2nYprZjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
 To create a Personal Voice, users read aloud a randomized set of text prompts until 15 minutes of audio has been recorded. The feature can be found in the Settings app under Accessibility → Personal Voice, and it is currently available for English only. Apple says the feature uses on-device machine learning for privacy and security.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-ads/">Apple Ads</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/30/apple-ad-for-personal-voice-feature/">Apple Highlights iPhone Feature That Lets You Preserve Your Own Voice</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-highlights-iphone-feature-that-lets-you-preserve-your-own-voice.2412472/">Discuss this article</a> in our forums<br/><br/>]]></description>
@@ -448,182 +627,6 @@ Goldman Sachs was new to consumer banking when the &zwnj;Apple Card&zwnj; launch
  	<li><strong>Theory</strong> - Extra 10% off your purchase.</li><br/>
 </ul><br/>
 These holiday &zwnj;Apple Pay&zwnj; promotions will be available through December 13. &zwnj;Apple Pay&zwnj; must be used to make the purchase in order to get the discount, with more information available on <a href="https://offers.applepay.apple/holiday">the Apple Pay holiday website</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-pay-promo/">Apple Pay Promo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/28/apple-pay-holiday-promotion/">Holiday Apple Pay Promotion Offers Discounts From Several Stores</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/holiday-apple-pay-promotion-offers-discounts-from-several-stores.2412292/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Everything New in iOS 17.2 Beta 4</title>
-		<link>https://www.macrumors.com/2023/11/28/ios-17-2-beta-4-features/</link>
-		<comments>https://forums.macrumors.com/threads/everything-new-in-ios-17-2-beta-4.2412282/</comments>
-		<pubDate>Tue, 28 Nov 2023 12:18:36 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/28/ios-17-2-beta-4-features/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple is wrapping up development on iOS 17.2, with the update expected to come out in December. While we're getting to the end of the beta testing period, Apple is still tweaking features and adding new functionality.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/iOS-17.2-Feature-Warm.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-918854" /><br/>
-We've rounded up everything new in the fourth beta of iOS 17.2.<br/>
-<br/>
-<h2>Default Notification Sound</h2><br/>
-Under Sounds & Haptics, there's a new "Default Alerts" section that allows you to choose the sound used for all incoming notifications aside from texts, mail alerts, and calendar alerts, which already had customization options.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/ios-17-default-alert.jpg" alt="" width="5526" height="3108" class="aligncenter size-full wp-image-924433" /><br/>
-All of the text tones can be used for the default notification sound, plus there is an option to also change the haptic vibration of default notifications.<br/>
-<br/>
-<h2>Collaborative Apple Music Playlists</h2><br/>
-While collaborative <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> playlists were introduced in an earlier version of iOS 17.2, Apple has removed the option in the fourth beta, which suggests this is not an option that will be coming in iOS 17.2 after all.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/apple-music-collaborative-playlists.jpg" alt="" width="5484" height="3085" class="aligncenter size-full wp-image-918890" /><br/>
-<h2>AppleCare Settings</h2><br/>
-The "Coverage" section under Settings > General has been renamed to <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a> & Warranty. It still includes &zwnj;AppleCare&zwnj; info for your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and connected devices such as the Apple Watch and AirPods.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/applecare-warranty-ios-17-2.jpg" alt="" width="2452" height="1379" class="aligncenter size-full wp-image-924448" /><br/>
-Under General > About there's a new Warranty section that provides coverage information for the &zwnj;iPhone&zwnj;.<br/>
-<br/>
-<h2>Recording to an External Device</h2><br/>
-With the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models, ProRes video can be recorded directly to an external device. iOS 17.2 appears to include a new pop up message that lets users know that external recording is not working because of a USB-C cable that is too slow.<br/>
-<br/>
-There was previously a warning about an external storage device not having a fast enough write speed to support external recording, but now there is an added message about the write speed of the USB-C cable.<br/>
-<br/>
-<h2>iTunes</h2><br/>
-Code in iOS 17.2 confirms that Apple is planning to eliminate the option to purchase TV shows and movies in the iTunes app. TV and movie content will need to be purchased in the TV app in the future, but for now, the change has not actually been implemented.<br/>
-<br/>
-"You can buy or rent TV shows and find your purchases in the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app," reads the code.<br/>
-<br/>
-<h2>More iOS 17.2 Beta 4 Features</h2><br/>
-Know of a feature that we left out in this list? Let us know in the comments below.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/28/ios-17-2-beta-4-features/">Everything New in iOS 17.2 Beta 4</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-new-in-ios-17-2-beta-4.2412282/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Buy Kicks Off 20 Days of Holiday Deals Event With Discounts on MacBook Air and More</title>
-		<link>https://www.macrumors.com/2023/11/28/best-buy-holiday-deals-event/</link>
-		<comments>https://forums.macrumors.com/threads/best-buy-kicks-off-20-days-of-holiday-deals-event-with-discounts-on-macbook-air-and-more.2412274/</comments>
-		<pubDate>Tue, 28 Nov 2023 10:51:12 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/28/best-buy-holiday-deals-event/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Best Buy's Cyber Monday sale has transitioned into a <a href="https://howl.me/ck6b1vcE1Me">"Holiday Deals" event</a> that's promising new discounts and offers every day for the next 20 days. For today, the focus is on a few laptop deals, including the 13-inch M2 MacBook Air.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/best-buy-cyber-week.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-924428" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-As with the Black Friday and Cyber Monday deals we saw, some of the discounts below require a <a href="https://howl.me/ck6bXDtyIMr">My Best Buy Plus or My Best Buy Total membership</a>. These start at &#36;49.99/year and grant members early access to sales, exclusive discounts on select products, and more.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/ck6b1vcE1Me"target="_blank"><div class="fancybutton"><div class="fancybadge">Sitewide Sale</div>Best Buy Holiday Deals Event</div></a></div><h2>MacBook Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/macbook-air-present.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-924430" /><br/>
-<br/>
-The highlight of the sale is Apple's 256GB 13.6-inch M2 MacBook Air for <a href="https://howl.me/ck6bCMrS1iS"><strong>&#36;949.00</strong></a>, down from &#36;1,099.00. Best Buy has this sale price in all four colors, and it represents a solid second-best price on the 2022 notebook.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/ck6bCMrS1iS"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>13.6-inch M2 MacBook Air (256GB) for &#36;949.00</div></a></div><br/>
-<br/>
-Similarly, the 512GB model of the 13.6-inch M2 MacBook Air is available on sale during Best Buy's Cyber Week event. You can get this version for <a href="https://howl.me/ck6bEA3azvS"><strong>&#36;1,249.00</strong></a>, down from &#36;1,399.00. Neither of these deals require you to have a My Best Buy Plus/Total membership.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/ck6bEA3azvS"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>13.6-inch M2 MacBook Air (512GB) for &#36;1,249.00</div></a></div><h2>Computers</h2><br/>
-<ul><li><a href="https://howl.me/ck6bWIIqm2n">Lenovo Ideapad 15-inch Touch Laptop</a> - &#36;329.99, down from &#36;629.99</li><br/>
-<li><a href="https://howl.me/ck6bYP1njgS">Windows Laptops</a> - Save up to &#36;600 on select models</li><br/>
-<li><a href="https://howl.me/ck6bZRy8xZg">Gaming Laptops and PCs</a> - Save up to &#36;600 on select models</li><br/>
-<li><a href="https://howl.me/ck6b0xcZS29">PC Storage and Accessories</a> - Save up to 40 percent</li></ul><br/>
-<h2>TVs</h2><br/>
-<ul><li><a href="https://howl.me/ck0EZNrRGkg">TCL 40-inch S-Class 1080p Smart TV with Fire TV</a> - &#36;149.99, down from &#36;229.99</li><br/>
-<li><a href="https://howl.me/ck3BnaSOPqN">LG 65-inch LED 4K Smart TV</a> - &#36;399.99, down from &#36;599.99</li><br/>
-<li><a href="https://howl.me/ck0E0KC17zf">LG 48-inch Class A2 Series OLED Smart TV</a> - &#36;599.99, down from &#36;1,299.99</li><br/>
-<li><a href="https://howl.me/ck0E1y2bnRl">Samsung 75-inch Class TU690T Crystal 4K Smart Tizen TV</a> - &#36;579.99, down from &#36;749.99</li><br/>
-<li><a href="https://howl.me/ck0E2vxgpnW">LG 86-inch Class UR7800 Series LED 4K UHD Smart TV</a> - &#36;899.99, down from &#36;1,249.99</li><br/>
-<li><a href="https://howl.me/ck3BoaZNrLh">Samsung 65-inch OLED 4K UHD TV</a> - &#36;1,599.99, down from &#36;2,099.99</li><br/>
-<li><a href="https://howl.me/ck0E3qCGZKD">Samsung 77-inch Class S89C OLED 4K UHD Smart Tizen TV</a> - &#36;2,299.99, down from &#36;3,599.99</li></ul><br/>
-<h2>Audio</h2><br/>
-<ul><li><a href="https://howl.me/ck0E5RV0RNW">Samsung A Series 2.1ch Dolby & DTS and Soundbar</a> - &#36;129.99, down from &#36;279.99</li><br/>
-<li><a href="https://howl.me/ck0FaWEYIyf">Bose QuietComfort 45 Noise Cancelling Over-the-Ear Headphones</a> - &#36;199.00, down from &#36;329.00</li><br/>
-<li><a href="https://howl.me/ck3BCouNscy">Bose Smart Soundbar 900</a> - &#36;699.99, down from &#36;749.99</li></ul><br/>
-<h2>Smart Home</h2><br/>
-<ul><li><a href="https://howl.me/ck3B08DxDnh">TP-Link Tapo Smart Plug Mini with Matter (3-Pack)</a> - &#36;22.99, down from &#36;49.99</li><br/>
-<li><a href="https://howl.me/ck3BYdKuoba">Echo Show 5</a> - &#36;39.99, down from &#36;89.99</li><br/>
-<li><a href="https://howl.me/ck3BYTc9kd2">Nest Hub Max</a> - &#36;129.99, down from &#36;229.99</li><br/>
-<li><a href="https://howl.me/ck3BZwxKC0E">Nest Learning Smart Thermostat</a> - &#36;179.99, down from &#36;249.99</li><br/>
-<li><a href="https://howl.me/ck0FcYe8Cu6">Arlo Pro 4 Spotlight Camera Security Bundle</a> - &#36;299.99, down from &#36;599.99</li></ul><br/>
-<h2>LEGO</h2><br/>
-Best Buy has <a href="https://howl.me/ck6dY3iGd6Z">numerous discounts on LEGO sets this season</a>, including Botanicals, Technic, Architecture, Disney, Icons, and more.<br/>
-<ul><li><a href="https://howl.me/ck3BEksZ9pZ">Ford Mustang Shelby GT500 (Technic)</a> - &#36;39.99, down from &#36;49.99</li><br/>
-<li><a href="https://howl.me/ck3BFbdX2lG">Orchid (Botanical Collection)</a> - &#36;39.99, down from &#36;49.99</li><br/>
-<li><a href="https://howl.me/ck3BFLMsZzM">Succulents (Botanical Collection)</a> - &#36;39.99, down from &#36;49.99</li><br/>
-<li><a href="https://howl.me/ck3BDwDHKFP">Wildflower Bouquet (Botanical Collection)</a> - &#36;47.99, down from &#36;59.99</li><br/>
-<li><a href="https://howl.me/ck3BGk9OSix">Up House (Disney)</a> - &#36;47.99, down from &#36;59.99</li><br/>
-<li><a href="https://howl.me/ck3BK2UC94R">Vespa 125 (Icons)</a> - &#36;84.99, down from &#36;99.99</li><br/>
-<li><a href="https://howl.me/ck6dU5AltL2">Great Pyramid of Giza (Architecture)</a> - &#36;109.99, down from &#36;129.99</li></ul> Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/28/best-buy-holiday-deals-event/">Best Buy Kicks Off 20 Days of Holiday Deals Event With Discounts on MacBook Air and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-buy-kicks-off-20-days-of-holiday-deals-event-with-discounts-on-macbook-air-and-more.2412274/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 17.2 Beta Adds Option to Change Default Notification Sound and Haptics</title>
-		<link>https://www.macrumors.com/2023/11/28/ios-17-2-change-default-notification/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-2-beta-adds-option-to-change-default-notification-sound-and-haptics.2412271/</comments>
-		<pubDate>Tue, 28 Nov 2023 10:33:20 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/28/ios-17-2-change-default-notification/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/2023/11/28/apple-releases-ios-17-2-beta-4/">fourth beta of iOS 17.2</a> that Apple released today adds a much-desired feature, the option to change the default notification alert.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/ios-17-default-alert.jpg" alt="" width="5526" height="3108" class="aligncenter size-full wp-image-924433" /><br/>
-Under Sounds & Haptics, there's a new "Default Alerts" section that allows you to choose the sound used for all incoming notifications aside from texts, mail alerts, and calendar alerts, which already had customization options. <br/>
-<br/>
-Apple has not previously offered an interface for tweaking the default notification sound, so this is a notable update for those who have always wanted to select a sound. All of the text tones can be used for the default notification sound.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">iOS 17.2 beta 4 allows you to change the default notification sound and haptic <a href="https://t.co/f7Vxny3Jcc">pic.twitter.com/f7Vxny3Jcc</a></p>&mdash; iSoftware Updates (@iSWUpdates) <a href="https://twitter.com/iSWUpdates/status/1729568826751152479?ref_src=twsrc%5Etfw">November 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-There's also an option to change the default haptic feedback. Apple in <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> changed the haptic alert, and now it can be changed back or customized for those who were not happy with the update. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/28/ios-17-2-change-default-notification/">iOS 17.2 Beta Adds Option to Change Default Notification Sound and Haptics</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-2-beta-adds-option-to-change-default-notification-sound-and-haptics.2412271/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Fourth Betas of iOS 17.2 and iPadOS 17.2 to Developers [Update: Public Beta Available]</title>
-		<link>https://www.macrumors.com/2023/11/28/apple-releases-ios-17-2-beta-4/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-betas-of-ios-17-2-and-ipados-17-2-to-developers-update-public-beta-available.2412263/</comments>
-		<pubDate>Tue, 28 Nov 2023 10:06:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/28/apple-releases-ios-17-2-beta-4/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple today released the fourth betas of upcoming iOS 17.2 and iPadOS 17.2 updates to developers for testing purposes, with the software coming two weeks after Apple released the <a href="https://www.macrumors.com/2023/11/14/apple-seeds-ios-17-2-beta-3-to-developers/">the third betas of iOS 17.2 and iPadOS 17.2</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-918852" src="https://images.macrumors.com/article-new/2023/10/iOS-17.2-Feature-Cool.jpg" alt="" width="2500" height="1406" /><br/>
-Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the ‌<a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>‌ Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
-<br/>
-The biggest new feature in iOS 17.2 is the Journal app, which can be used to record daily activities and thoughts. You can write about your day to day life, but Apple also provides topic suggestions based on the music you listen to, the places you visit, and the people you see. Journal entries support pictures, voice recordings, and location information, with the app organized by entry date.<br/>
-<br/>
-In <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, there's a Favorites playlist that houses everything you've favorited, plus Apple added support for collaborative playlists. You can now share a playlist with multiple people, and each participant can add songs.<br/>
-<br/>
-Stickers can now be used to reply to iMessages when you long press on a chat bubble in the Messages app, and there's also now support for the extra-secure iMessage Contact Key Verification option. If you have an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, the Action Button supports Translate in iOS 17.2, and there are new Weather and Clock widgets.<br/>
-<br/>
-More on what's new in iOS 17.2 can be found in our <a href="https://www.macrumors.com/guide/ios-17-2-beta-features/">iOS 17.2 beta features list</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/28/apple-releases-ios-17-2-beta-4/">Apple Seeds Fourth Betas of iOS 17.2 and iPadOS 17.2 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-betas-of-ios-17-2-and-ipados-17-2-to-developers-update-public-beta-available.2412263/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Fourth Beta of macOS Sonoma 14.2 to Developers [Update: Public Beta Available]</title>
-		<link>https://www.macrumors.com/2023/11/28/apple-seeds-macos-sonoma-14-2-beta-4/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-macos-sonoma-14-2-to-developers-update-public-beta-available.2412262/</comments>
-		<pubDate>Tue, 28 Nov 2023 10:05:25 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/11/28/apple-seeds-macos-sonoma-14-2-beta-4/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sonoma</category>
-		
-
-		<description><![CDATA[Apple today seeded the fourth beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.2 update to developers for testing purposes, with the software coming two weeks after Apple seeded the <a href="https://www.macrumors.com/2023/11/14/apple-seeds-macos-sonoma-14-2-beta-3/">third beta of macOS Sonoma 14.2</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
-Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Under Beta updates, toggle on the Sonoma Developer Beta. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
-<br/>
-&zwnj;macOS Sonoma&zwnj; 14.2 adds an <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> Favorites playlist that houses everything you've favorited, plus Apple added support for collaborative playlists. You can now share a playlist with multiple people, and each participant can add songs. <br/>
-<br/>
-Shazam can also be added to the Control Center or menu bar on the Mac. <br/>
-<br/>
-Stickers can be used to reply to iMessages when you long press on a chat bubble in the Messages app, and there's also now support for the extra-secure iMessage Contact Key Verification option.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/11/28/apple-seeds-macos-sonoma-14-2-beta-4/">Apple Seeds Fourth Beta of macOS Sonoma 14.2 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-macos-sonoma-14-2-to-developers-update-public-beta-available.2412262/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
