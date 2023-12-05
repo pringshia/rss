@@ -14,12 +14,287 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 05 Dec 2023 08:03:34 PST</lastBuildDate>
+	<lastBuildDate>Tue, 05 Dec 2023 12:03:27 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Releases New AirPods Pro 2 Firmware</title>
+		<link>https://www.macrumors.com/2023/12/05/apple-releases-new-airpods-pro-2-firmware-6b34/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-firmware.2412901/</comments>
+		<pubDate>Tue, 05 Dec 2023 11:28:24 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/apple-releases-new-airpods-pro-2-firmware-6b34/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>AirPods Pro</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple today released new firmware update for the Lightning version of the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2. The new firmware is version 6B34, up from the <a href="https://www.macrumors.com/2023/11/09/airpods-pro-2-firmware-6b32/">6B32 firmware</a> introduced in November.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-867348" src="https://images.macrumors.com/article-new/2022/09/airpods-pro-2-pink.jpg" alt="" width="2500" height="1406" /><br/>
+Apple does not provide details on what features might be included in the refreshed firmware, so it is unclear what's new in the update, but prior software releases have been refining functionality introduced in <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> such as Adaptive Audio.<br/>
+<br/>
+Apple does not give customers instructions on how to upgrade AirPods software, but firmware is generally installed over-the-air while the ‌‌AirPods‌‌ are connected to an iOS device. Putting the ‌‌‌‌‌AirPods‌‌‌‌‌ in the case, connecting the ‌‌‌‌‌AirPods‌‌‌‌‌ to a power source, and then pairing the ‌‌‌‌‌AirPods‌‌‌‌‌ to an iOS device or Mac should force the update.<br/>
+<br/>
+You can check your ‌‌‌AirPods‌‌ firmware by following these steps:<br/>
+<ul><br/>
+ 	<li>Connect your ‌‌‌‌‌‌&zwnj;AirPods Pro&zwnj;‌‌‌‌‌‌ to your iOS device.</li><br/>
+ 	<li>Open the Settings app.</li><br/>
+ 	<li>Tap General.</li><br/>
+ 	<li>Tap About.</li><br/>
+ 	<li>Tap ‌‌‌‌‌AirPods‌‌‌‌‌.</li><br/>
+ 	<li>Look at the number next to "Firmware Version."</li><br/>
+</ul><br/>
+If we learn more about what's new in the firmware release, we'll update this article.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/apple-releases-new-airpods-pro-2-firmware-6b34/">Apple Releases New AirPods Pro 2 Firmware</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-firmware.2412901/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.2 and watchOS 10.2 Allow Siri to Access and Log Health Data</title>
+		<link>https://www.macrumors.com/2023/12/05/ios-17-2-allows-siri-to-access-health-data/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-2-and-watchos-10-2-allow-siri-to-access-and-log-health-data.2412897/</comments>
+		<pubDate>Tue, 05 Dec 2023 11:18:49 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/ios-17-2-allows-siri-to-access-health-data/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple Watch</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Starting with <a href="https://www.macrumors.com/2023/12/05/apple-seeds-ios-17-2-rc-to-developers/">iOS 17.2</a> and <a href="https://www.macrumors.com/2023/12/05/apple-seeds-watchos-10-2-rc-to-developers/">watchOS 10.2</a>, Siri can access data from the Health app for health and fitness queries, according to Apple's release notes for the updates, which are currently in beta. For the Apple Watch, this functionality is limited to the Series 9 and Ultra 2, as these are the only models that support on-device Siri processing.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/08/iOS-17-Health-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-906604" /><br/>
+For example, Apple says users can ask how many hours of sleep they had the previous night, ask about the progress of closing their Activity rings for the day, or ask about their blood glucose level if they have a connected monitor.<br/>
+<br/>
+<a href="https://www.macworld.com/article/2142151/ios-17-2-watchos-10-2-siri-health-features.html"><em>Macworld</em> shared</a> examples of supported queries:<ul><li>How many steps have I taken today?</li><br/>
+<li>How many steps have I taken this week?</li><br/>
+<li>What's my heart rate?</li><br/>
+<li>What's my blood oxygen level?</li><br/>
+<li>Check my Exercise ring.</li><br/>
+<li>How does my Move ring look today?</li><br/>
+<li>What's my average walking heart rate?</li><br/>
+<li>How many calories have I burned?</li></ul>On the Apple Watch, health data is limited to the previous week or so.<br/>
+<br/>
+Siri is also gaining the ability to log data in the Health app. <em>Macworld</em> shared another list with examples of supported queries:<ul><li>My weight is 195.3 pounds.</li><br/>
+<li>I started spotting today.</li><br/>
+<li>I've taken my 6 pm medications.</li><br/>
+<li>My body temperature is 98.5 degrees.</li><br/>
+<li>My period started today.</li><br/>
+<li>My blood sugar is 143.</li><br/>
+<li>Record my blood pressure as 118 over 76.</li></ul>This functionality must be enabled first to work. On the iPhone, open the Settings app and select Health → Data Access & Devices → Siri, and then toggle on "Access Health Data." On the Apple Watch, open the Settings app and select Health → Apps and Services → Siri, and then toggle on "Allow Siri Access to Health Data."<br/>
+<br/>
+iOS 17.2 and watchOS 10.2 are expected to be released next week.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a>, <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Buy Now)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/ios-17-2-allows-siri-to-access-health-data/">iOS 17.2 and watchOS 10.2 Allow Siri to Access and Log Health Data</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-2-and-watchos-10-2-allow-siri-to-access-and-log-health-data.2412897/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.2 Brings Qi2 Support to iPhone 13 and iPhone 14 Models</title>
+		<link>https://www.macrumors.com/2023/12/05/ios-17-2-qi-iphone-13-14-models/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-2-brings-qi2-support-to-iphone-13-and-iphone-14-models.2412896/</comments>
+		<pubDate>Tue, 05 Dec 2023 11:04:17 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/ios-17-2-qi-iphone-13-14-models/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		<category>Qi2</category>
+		
+
+		<description><![CDATA[The iOS 17.2 update that Apple is set to release to the public in the near future will bring support for the next-generation Qi2 wireless charging standard to the <a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a> and <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> models. Qi2 was mentioned in the release notes for the RC version of the update <a href="https://www.macrumors.com/2023/12/05/apple-seeds-ios-17-2-rc-to-developers/">that came out today</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-911511" src="https://images.macrumors.com/article-new/2023/09/magsafe-blue-2.jpg" alt="" width="2500" height="1406" /><br/>
+With the addition of support for the new standard, &zwnj;iPhone 13&zwnj; and &zwnj;iPhone 14&zwnj; models will work with Qi2 wireless chargers. Qi2 is a next-generation Qi wireless charging technology that incorporates a Magnetic Power Profile. Qi2 devices will work like accessories that support <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a>, using magnets for alignment and speedier charging. Apple added Qi2 support to the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models ahead of release, so they are already compatible with the standard.<br/>
+<br/>
+The Magnetic Power Profile was designed based on ‌&zwnj;MagSafe&zwnj;‌ contributions from Apple, and it is being combined with the new Extended Power Profile (EPP) to form what is considered "Qi2." Qi2 is meant to ensure that phones and other battery-powered mobile products are perfectly aligned with chargers for improved energy efficiency and faster charging. It will allow for new accessories that would not be chargeable wirelessly using existing flat surface-to-flat surface devices.<br/>
+<br/>
+While Qi2 chargers will be able to charge devices at up to 15W, it is not yet clear if Apple's iPhones will support faster wireless charging speeds with Qi2 accessories. For the &zwnj;iPhone 15&zwnj; models, for example, Apple's technical specifications page says that the devices still support Qi wireless charging "up to 7.5W" despite the fact that they work with Qi2.<br/>
+<br/>
+The first Qi2 accessories are set to launch during the holiday season.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/qi2/">Qi2</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/ios-17-2-qi-iphone-13-14-models/">iOS 17.2 Brings Qi2 Support to iPhone 13 and iPhone 14 Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-2-brings-qi2-support-to-iphone-13-and-iphone-14-models.2412896/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Release Candidate Versions of iOS 17.2 and iPadOS 17.2 to Developers</title>
+		<link>https://www.macrumors.com/2023/12/05/apple-seeds-ios-17-2-rc-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-release-candidate-versions-of-ios-17-2-and-ipados-17-2-to-developers.2412894/</comments>
+		<pubDate>Tue, 05 Dec 2023 10:36:15 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/apple-seeds-ios-17-2-rc-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today seeded the release candidate versions (RCs) of upcoming iOS 17.2 and iPadOS 17.2 updates to developers for testing purposes, with the software coming a week after Apple released the <a href="https://www.macrumors.com/2023/11/28/apple-releases-ios-17-2-beta-4/">the fourth betas of iOS 17.2 and iPadOS 17.2</a>. The RCs represent the final version of the software that is expected to be provided to the public. <br/>
+<br/>
+<img class="aligncenter size-full wp-image-918852" src="https://images.macrumors.com/article-new/2023/10/iOS-17.2-Feature-Cool.jpg" alt="" width="2500" height="1406" /><br/>
+Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the ‌<a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>‌ Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
+<br/>
+The biggest new feature in iOS 17.2 is the Journal app, which can be used to record daily activities and thoughts. You can write about your day to day life, but Apple also provides topic suggestions based on the music you listen to, the places you visit, and the people you see. Journal entries support pictures, voice recordings, and location information, with the app organized by entry date.<br/>
+<br/>
+In <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, there's a Favorites playlist that houses everything you've favorited, plus Apple added support for collaborative playlists. You can now share a playlist with multiple people, and each participant can add songs.<br/>
+<br/>
+Stickers can now be used to reply to iMessages when you long press on a chat bubble in the Messages app, and there's also now support for the extra-secure iMessage Contact Key Verification option. If you have an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, the Action Button supports Translate in iOS 17.2, and there are new Weather and Clock widgets. Apple's full release notes for the update are below.<blockquote>This update introduces Journal, an all-new way to reflect on life’s moments and preserve your memories. This release also includes Action button and Camera enhancements, as well as other features, bug fixes, and security updates for your iPhone.<br/>
+<br/>
+Journal<br/>
+- Journal is a new app that lets you write about the small moments and big events in your life so you can practice gratitude and improve your wellbeing<br/>
+- Journaling suggestions make it easy to remember your experiences by intelligently grouping your outings, photos, workouts, and more into moments you can add to your journal<br/>
+- Filters let you quickly find bookmarked entries or show entries with attachments so you can revisit and reflect on key moments in your life<br/>
+- Scheduled notifications help you keep a consistent journaling practice by reminding you to write on the days and time you choose<br/>
+- Option to lock your journal using Touch ID or Face ID<br/>
+iCloud sync keeps your journal entries safe and encrypted on iCloud<br/>
+<br/>
+Action Button<br/>
+- Translate option for the Action button on iPhone 15 Pro and iPhone 15 Pro Max to quickly translate phrases or have a conversation with someone in another language<br/>
+<br/>
+Camera<br/>
+- Spatial video lets you capture video on iPhone 15 Pro and iPhone 15 Pro Max so you can relive your memories in three dimensions on Apple Vision Pro<br/>
+- Improved Telephoto camera focusing speed when capturing small faraway objects on iPhone 15 Pro and iPhone 15 Pro Max<br/>
+<br/>
+Messages<br/>
+- Catch-up arrow lets you easily jump to your first unread message in a conversation by tapping the arrow visible in the top-right corner<br/>
+- Add sticker option in the context menu lets you add a sticker directly to a bubble<br/>
+- Memoji updates include the ability to adjust the body shape of any Memoji<br/>
+- Contact Key Verification provides automatic alerts and Contact Verification Codes to help verify people facing extraordinary digital threats are messaging only with the people they intend<br/>
+<br/>
+Weather<br/>
+- Precipitation amounts help you stay on top of rain and snow conditions for a given day over the next 10 days<br/>
+- New widgets let you choose from next-hour precipitation, daily forecast, sunrise and sunset times, and current conditions such as Air Quality, Feels Like, and wind speed<br/>
+- Wind map snapshot helps you quickly assess wind patterns and access the animated wind map overlay to prepare for forecasted wind conditions for the next 24 hours<br/>
+- Interactive moon calendar lets you easily visualize the phase of the moon on any day for the next month<br/>
+<br/>
+This update also includes the following improvements and bug fixes:<br/>
+- Siri support for privately accessing and logging Health app data using your voice<br/>
+- AirDrop improvements including expanded contact sharing options and the ability to share boarding passes, movie tickets, and other eligible passes by bringing two iPhones together<br/>
+- Favorite Songs Playlist in Apple Music lets you quickly get back to the songs you mark as favorites<br/>
+- Use Listening History in Apple Music can be disabled in a Focus so music you listen to does not appear in Recently Played or influence your recommendations<br/>
+- A new Digital Clock Widget lets you quickly catch a glimpse of the time on your Home Screen and while in StandBy<br/>
+- Enhanced AutoFill identifies fields in PDFs and other forms enabling you to populate them with information such as names and addresses from your contacts<br/>
+- New keyboard layouts provide support for 8 Sámi languages<br/>
+- Sensitive Content Warning for stickers in Messages prevents you from being unexpectedly shown a sticker containing nudity<br/>
+- Qi2 charger support for all iPhone 13 models and iPhone 14 models<br/>
+- Fixes an issue that may prevent wireless charging in certain vehicles<br/>
+<br/>
+Some features may not be available for all regions or on all Apple devices. For information on the security content of Apple software updates, please visit this website:<br/>
+https://support.apple.com/kb/HT201222</blockquote>Apple is expected to release iOS 17.2 and iPadOS 17.2 to the public next week. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/apple-seeds-ios-17-2-rc-to-developers/">Apple Seeds Release Candidate Versions of iOS 17.2 and iPadOS 17.2 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-release-candidate-versions-of-ios-17-2-and-ipados-17-2-to-developers.2412894/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds macOS Sonoma 14.2 Release Candidate to Developers</title>
+		<link>https://www.macrumors.com/2023/12/05/apple-seeds-macos-sonoma-14-2-rc/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-macos-sonoma-14-2-release-candidate-to-developers.2412887/</comments>
+		<pubDate>Tue, 05 Dec 2023 10:19:22 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/apple-seeds-macos-sonoma-14-2-rc/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today seeded the release candidate (RC) version of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.2 update to developers for testing purposes, with the software coming a week after Apple seeded the <a href="https://www.macrumors.com/2023/11/28/apple-seeds-macos-sonoma-14-2-beta-4/">fourth beta of macOS Sonoma 14.2</a>. The RC represents the finalized version of &zwnj;macOS Sonoma&zwnj; 14.2 that will be released to the public should no major issues be found.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
+Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Under Beta updates, toggle on the Sonoma Developer Beta. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
+<br/>
+&zwnj;macOS Sonoma&zwnj; 14.2 adds support for enhanced AutoFill for PDFs, along with Contact Key Verification for Messages, a sticker tapback option, new Weather widgets, and more. Apple's release notes for the update are below.<blockquote>This update introduces enhanced Autofill for PDFs and improvements to Messages and Weather. This release also includes other features, bug fixes, and security updates for your Mac.<br/>
+<br/>
+PDFs<br/>
+- Enhanced AutoFill identifies fields in PDFs and other forms enabling you to populate them with information such as names and addresses from your contacts<br/>
+<br/>
+Messages<br/>
+- Catch-up arrow lets you easily jump to your first unread message in a conversation by clicking the arrow visible in the top-right corner<br/>
+- Add sticker option in the context menu lets you add a sticker directly to a bubble<br/>
+- Contact Key Verification provides automatic alerts and Contact Verification Codes to help verify people facing extraordinary digital threats are messaging only with the people they intend<br/>
+<br/>
+Weather<br/>
+- Precipitation amounts help you stay on top of rain and snow conditions for a given day over the next 10 days<br/>
+- New widgets let you choose from next-hour precipitation, daily forecast, sunrise and sunset times, and current conditions such as Air Quality, Feels Like, and wind speed<br/>
+- Wind map snapshot helps you quickly assess wind patterns and access the animated wind map overlay to prepare for forecasted wind conditions for the next 24 hours<br/>
+<br/>
+Clock<br/>
+- Multiple timers let you run several timers simultaneously and create a name for each timer<br/>
+- Timer presets help you quickly start a timer with a range of preset options<br/>
+- Recents makes it easy to restart your recently used timers<br/>
+<br/>
+This update also includes the following new features:<br/>
+- Favorite Songs Playlist in Apple Music lets you quickly get back to the songs you mark as favorites<br/>
+- Use Listening History in Apple Music can be disabled in a Focus so music you listen to does not appear in Recently Played or influence your recommendations<br/>
+- Shazam Music Recognition allows you to quickly identify songs playing online or around you, even when wearing AirPods<br/>
+- New keyboard layouts provide support for 7 additional Sámi languages<br/>
+- Some features may not be available for all regions or on all Apple devices.<br/>
+<br/>
+For detailed information about the security content of this update, please visit: https://support.apple.com/kb/HT201222</blockquote>Apple is expected to release &zwnj;macOS Sonoma&zwnj; 14.2 next week.<br/>
+<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/apple-seeds-macos-sonoma-14-2-rc/">Apple Seeds macOS Sonoma 14.2 Release Candidate to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-macos-sonoma-14-2-release-candidate-to-developers.2412887/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Release Candidate Version of watchOS 10.2 to Developers</title>
+		<link>https://www.macrumors.com/2023/12/05/apple-seeds-watchos-10-2-rc-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-release-candidate-version-of-watchos-10-2-to-developers.2412889/</comments>
+		<pubDate>Tue, 05 Dec 2023 10:18:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/apple-seeds-watchos-10-2-rc-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today seeded the release candidate version of an upcoming watchOS 10.2 update to developers for testing purposes, with the update coming a week after Apple seeded the <a href="https://www.macrumors.com/2023/11/28/apple-seeds-tvos-17-2-beta-4-to-developers/">fourth watchOS 10.2 beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
+To install the ‌watchOS 10.2‌ update, developers will need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the ‌<a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>‌ Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
+<br/>
+Once beta updates have been activated, ‌&zwnj;watchOS 10&zwnj;‌ can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
+<br/>
+watchOS 10.2 adds support accessing Health app data using <a href="https://www.macrumors.com/guide/siri/">Siri</a>, though this feature is limited to the newest Apple Watches. The update also reintroduces an option to change watch faces by swiping left and right, along with a handful of other new features. Apple's release notes for the update are below.<blockquote>watchOS 10.2 includes new features, improvements, and bug fixes, including:<br/>
+<br/>
+- Access and log Health app data with Siri (Available on Apple Watch Series 9 and Apple Watch Ultra 2)<br/>
+- Automatically view Now Playing when in proximity of HomePod (2nd generation) or HomePod mini playing media from Music or Podcasts (Available on - Apple Watch Series 6 and later and Apple Watch Ultra)<br/>
+- Enable the ability to swipe to change watch faces in Settings<br/>
+- Enable the ability to confirm ending workouts in Settings<br/>
+- Prioritize the volume of either the music or trainers’ voices in most Fitness+ workouts<br/>
+- Resolves an issue that can cause watch faces added in the Watch app on iPhone to not appear on Apple Watch</blockquote>Apple is expected to release watchOS 10.2 to the public next week. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/apple-seeds-watchos-10-2-rc-to-developers/">Apple Seeds Release Candidate Version of watchOS 10.2 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-release-candidate-version-of-watchos-10-2-to-developers.2412889/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds tvOS 17.2 Release Candidate to Developers</title>
+		<link>https://www.macrumors.com/2023/12/05/apple-seeds-tvos-17-2-rc-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-tvos-17-2-release-candidate-to-developers.2412888/</comments>
+		<pubDate>Tue, 05 Dec 2023 10:17:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/apple-seeds-tvos-17-2-rc-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple TV</category>
+		<category>Blurb</category>
+		
+
+		<description><![CDATA[Apple today seeded the release candidate version of an upcoming tvOS 17.2 to developers for testing purposes, with the update coming a week after the <a href="https://www.macrumors.com/2023/11/28/apple-seeds-watchos-10-2-beta-4-to-developers/">release of the fourth tvOS 17.2 beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-869857" src="https://images.macrumors.com/article-new/2022/10/Apple-TV-2022-Feature-Blue.jpg" alt="" width="2500" height="1406" /><br/>
+Registered developers are able to download the tvOS 17.2 update by opting in to the beta through the Settings app on the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>. A registered developer account is required.<br/>
+<br/>
+tvOS updates are often minor in scale compared to other operating system updates, focusing primarily on bug fixes and smaller improvements rather than notable outward-facing changes, but tvOS 17.2 introduces an overhauled &zwnj;Apple TV&zwnj; app. <br/>
+<br/>
+The app now includes a sidebar that houses content from both Apple's services and streaming services that integrate with the tvOS Watch Now feature. There are dedicated sections for Search, Watch Now, ‌<a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a>‌, MLS Season Pass, Sports, the Store, and the Library at the top of the sidebar, along with dedicated sections for streaming services like ABC, CBS, Comedy Central, Hulu, ESPN, Discovery, Peacock, Prime Video, and more.<br/>
+<br/>
+You can click into each streaming service to see content that's available specifically on that service, and there's also a new My TV section that replaces "My Channels."<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/apple-seeds-tvos-17-2-rc-to-developers/">Apple Seeds tvOS 17.2 Release Candidate to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-tvos-17-2-release-candidate-to-developers.2412888/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Beeper Mini Brings iMessage to Android With No Need for Apple ID Sign-In</title>
+		<link>https://www.macrumors.com/2023/12/05/beeper-mini-brings-imessage-to-android/</link>
+		<comments>https://forums.macrumors.com/threads/beeper-mini-brings-imessage-to-android-with-no-need-for-apple-id-sign-in.2412881/</comments>
+		<pubDate>Tue, 05 Dec 2023 09:02:07 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/beeper-mini-brings-imessage-to-android/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Android</category>
+		<category>iMessage</category>
+		
+
+		<description><![CDATA[Beeper Mini, a new app that ostensibly brings iMessage to Android devices with no need for sign-in with <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> credentials, today launched <a href="https://play.google.com/store/apps/details?id=com.beeper.ima">on the Google Play Store</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/beeper-mini.jpg" alt="" width="1200" height="800" class="alignnone size-full wp-image-925247" /><br/>
+Beeper Mini operates by identifying text message conversations from iMessage users and converting them to the recognizable blue bubbles associated with Apple's exclusive messaging service. This enables Android users to interact with iMessage features such as reactions, threads, high-quality media sharing, and group chats, without the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users noticing any difference.<br/>
+<br/>
+The app represents a departure from <a href="https://www.macrumors.com/2023/11/14/nothing-announces-imessage-compatibility/">previous methods</a> of accessing iMessage on non-Apple devices, which typically involved relaying messages through a Mac hosted in the cloud or signing in with an &zwnj;Apple ID&zwnj;. Beeper Mini's approach involves direct communication with Apple's servers by registering a user's phone number with iMessage, a process that apparently required extensive reverse engineering of Apple's messaging system.<br/>
+<br/>
+Beeper is a startup led by Eric Migicovsky that aims to consolidate various messaging services into a single platform. Since its initial launch on desktop devices in 2021, Beeper raised &#36;16 million in funding. Beeper claims that Beeper Mini does not access messages, contacts, or &zwnj;Apple ID&zwnj; passwords. The app's code will also be made open source, offering transparency and allowing for independent review.<br/>
+<br/>
+Beeper Mini is <a href="https://play.google.com/store/apps/details?id=com.beeper.ima">now available for download</a> on the Google Play Store, with a seven-day free trial followed by a subscription fee of &#36;2 per month. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/android/">Android</a>, <a href="https://www.macrumors.com/guide/imessage/">iMessage</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/beeper-mini-brings-imessage-to-android/">Beeper Mini Brings iMessage to Android With No Need for Apple ID Sign-In</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/beeper-mini-brings-imessage-to-android-with-no-need-for-apple-id-sign-in.2412881/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Twelve South Launches &#039;ButterFly&#039; 2-in-1 MagSafe Charger for iPhone and Apple Watch</title>
@@ -333,234 +608,6 @@ The check, which is from Apple Computer Company, was filled out by Jobs on July 
 <blockquote>A fascinating check related to one of the great unsung heroes of the early computer boom: RadioShack. The biggest tech innovations of the 20th century are all, in varying degrees, indebted to the Boston-based electronics store. Steve Wozniak, who spent hours roaming the aisles of RadioShack as a teenager, saved up enough money to purchase their pioneering TRS-80 Micro Computer System, which he used to build his notorious 'blue box,' an illegal device that could make free long-distance phone calls. The 'blue box' cemented the first business partnership between Wozniak and Jobs, a duo that managed to make and sell roughly 200 of the boxes for &#36;150 each. Jobs later told his biographer that if it had not been for Wozniak's blue boxes, 'there wouldn't have been an Apple.' In other words: there wouldn't have been an Apple if it had not been for RadioShack.</blockquote>When the check was written, Steve Jobs and Steve Wozniak were working on the Apple-1 computer. 50 of the machines were manufactured and sold to The Byte Shop in Mountain View, California, and approximately 200 Apple-1 computers were made in all.<br/>
 <br/>
 At the time of writing, there have been 21 bids on the check, and the total is up to &#36;22,444. The auction ends on December 6.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/steve-jobs/">Steve Jobs</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/04/steve-jobs-signed-radioshack-check-auction/">Apple Computer Check Signed by Steve Jobs Expected to Fetch More Than &#36;25,000 at Auction</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-computer-check-signed-by-steve-jobs-expected-to-fetch-more-than-25-000-at-auction.2412812/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Verizon Offering &#36;10/Month Netflix and Max Ad-Supported Combo Subscription</title>
-		<link>https://www.macrumors.com/2023/12/04/verizon-netflix-max-combo-subscription/</link>
-		<comments>https://forums.macrumors.com/threads/verizon-offering-10-month-netflix-and-max-ad-supported-combo-subscription.2412795/</comments>
-		<pubDate>Mon, 04 Dec 2023 11:49:28 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/04/verizon-netflix-max-combo-subscription/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Verizon</category>
-		
-
-		<description><![CDATA[Verizon <a href="https://www.verizon.com/about/news/verizon-offer-netflix-max-streaming-bundle-10-month-myplan-perk">today announced</a> a new partnership with Netflix and Max that will see the carrier offering a combined streaming bundle option to customers who subscribe to its "myPlan" offering.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/07/verizon.jpg" alt="" width="1200" height="675" class="aligncenter size-full wp-image-853494" /><br/>
-The combined Netflix and Max plan will be available for &#36;10, but there is a minor catch because the subscriptions are ad-supported. Standalone versions of the ad-supported Netflix and Max plans are priced at &#36;6.99 and &#36;9.99 per month respectively in the United States, so the bundle provides a savings of &#36;7 per month.<br/>
-<br/>
-For those potentially interested in the plan, it is worth noting that Netflix's ad-supported tier does restrict some content due to licensing restrictions. This mostly applies to TV shows and movies from Universal, including content that originally aired on NBC or USA. Netflix's deal with Universal prevents ads from being shown with the content. The Max ad-supported tier includes the same content available with the standard tiers.<br/>
-<br/>
-Verizon's Max and Netflix subscription bundle is limited to myPlan subscribers. MyPlan <a href="https://www.macrumors.com/2023/05/16/verizon-customizable-smartphone-plans/">came out last May</a>, and is a customizable smartphone plan that unbundles unlimited cellular service from the "perks" that Verizon has offered to subscribers in the past. Verizon's older plans, for example, offered unlimited 5G access and included access to <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>, <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, Disney+, and more.<br/>
-<br/>
-MyPlan requires customers to pay &#36;10/month for the perks that they want to add. The Netflix and Max bundle joins the Disney/Hulu/ESPN+ bundle, an <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a> Bundle, and a Walmart+ option.<br/>
-<br/>
-There are three myPlan options from Verizon, including Unlimited Welcome, Unlimited Plus, and Unlimited Ultimate, which are priced at &#36;65, &#36;80, and &#36;90 per month for a single line.<br/>
-<br/>
-The Netflix and Max subscription option will be available starting on Thursday, December 7.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/verizon/">Verizon</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/04/verizon-netflix-max-combo-subscription/">Verizon Offering &#36;10/Month Netflix and Max Ad-Supported Combo Subscription</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/verizon-offering-10-month-netflix-and-max-ad-supported-combo-subscription.2412795/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Music Users Experiencing Bug With &#039;Add Playlist Songs&#039; Setting</title>
-		<link>https://www.macrumors.com/2023/12/04/apple-music-add-playlist-songs-to-library-bug/</link>
-		<comments>https://forums.macrumors.com/threads/apple-music-users-experiencing-bug-with-add-playlist-songs-setting.2412783/</comments>
-		<pubDate>Mon, 04 Dec 2023 09:28:53 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/04/apple-music-add-playlist-songs-to-library-bug/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Music</category>
-		
-
-		<description><![CDATA[In recent weeks, many Apple Music subscribers have reported that the "Add Playlist Songs" setting is broken on the iPhone, iPad, and sometimes the Mac. After a user toggles off the setting, the bug can cause it to turn back on, resulting in any songs that a user adds to a playlist being added to their music library in an unwanted manner.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/iOS-17-Apple-Music-Favorites-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-916141" /><br/>
-Users have complained about this issue on the <a href="https://discussions.apple.com/thread/255315913">Apple Support Community</a>, <a href="https://www.reddit.com/r/AppleMusic/comments/1894yu1/psa_add_playlist_songs_setting_broken_with_ios/">Reddit</a>, <a href="https://forums.macrumors.com/threads/ios-17-1-2-bug-fixes-changes-and-improvements.2412489/post-32767023">MacRumors Forums</a>, and <a href="https://twitter.com/iloveryutoo_/status/1731573208581636312">X</a>. While the complaints have increased since <a href="https://www.macrumors.com/2023/11/30/apple-releases-ios-17-1-2/">iOS 17.1.2 was released</a> last week, the bug appears to affect many other software versions, leading some users to speculate that there might be a server-side problem for Apple to fix.<br/>
-<br/>
-The issue has frustrated users, as removing an unwanted song from the library also removes the song from all playlists, and there is no way to change this behavior. The bug can repeat itself over and over again, and there is no lasting solution right now.<br/>
-<br/>
-The underlying cause of the issue is unclear. We've reached out to Apple for comment, and we will update this article if we receive a response.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/04/apple-music-add-playlist-songs-to-library-bug/">Apple Music Users Experiencing Bug With &#039;Add Playlist Songs&#039; Setting</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-music-users-experiencing-bug-with-add-playlist-songs-setting.2412783/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s Work on 6G Connectivity Already Expanding</title>
-		<link>https://www.macrumors.com/2023/12/04/apple-work-on-6g-expanding/</link>
-		<comments>https://forums.macrumors.com/threads/apples-work-on-6g-connectivity-already-expanding.2412766/</comments>
-		<pubDate>Mon, 04 Dec 2023 07:00:28 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/04/apple-work-on-6g-expanding/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Bloomberg</category>
-		<category>Mark Gurman</category>
-		<category>6G</category>
-		
-
-		<description><![CDATA[Apple's work on implementing 6G cellular connectivity on its devices appears to be ramping up, according to <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/06/iphone-5g-mmwave-16x9.jpg" alt="" width="1600" height="900" class="alignnone size-full wp-image-801858" /><br/>
-In the <a href="https://www.bloomberg.com/news/newsletters/2023-12-03/apple-to-drop-goldman-sachs-for-apple-card-chase-bank-is-ideal-replacement-lppjbe7z?">latest edition</a> of his "Power On" newsletter, Gurman explained that Apple is increasingly turning its attention to 6G, even amid its widely reported <a href="https://www.macrumors.com/2023/11/16/apple-in-house-5g-modem-delays/">difficulties</a> developing a <a href="https://www.macrumors.com/guide/apple-5g-modem/">custom 5G cellular modem</a>.<br/>
-<br/>
-In 2021, the first highly specific <a href="https://www.macrumors.com/2021/02/18/apple-seeking-engineers-work-on-6g/">Apple job listings</a> with reference to 6G emerged. Now, a further job position for a <a href="https://jobs.apple.com/en-us/details/200520108/modem-systems-software-architect?team=SFTWR">Modem Systems Software Architect</a> has appeared on the company's website that seeks an individual to "coordinate the design and modeling of a 6G reference architecture." Gurman says the listing is part of the company's growing push to hire engineers to develop 6G cellular technologies.<br/>
-<br/>
-Carriers are already working on <a href="https://www.macrumors.com/2020/09/21/att-says-5g-iphones-might-not-be-massive-event/">next-generation 6G networking</a>. In late 2020, Apple <a href="https://www.macrumors.com/2020/11/13/apple-joins-6g-industry-group/">joined</a> the Next G Alliance, an industry group set up by the Alliance for Telecommunications Industry Solutions (ATIS) that seeks to "advance North American mobile technology leadership in 6G and beyond over the next decade, while building on the long-term evolution of 5G." <br/>
-<br/>
-Some analysts say the technology could enable speeds more than 100 times faster than 5G, but the extent of its enhanced performance in the real world is yet to be seen. 6G is not expected to emerge on consumer devices until around 2030.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, <a href="https://www.macrumors.com/guide/6g/">6G</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/04/apple-work-on-6g-expanding/">Apple&#039;s Work on 6G Connectivity Already Expanding</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-work-on-6g-connectivity-already-expanding.2412766/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>DoorDash Rolling Out Order Tracking in Dynamic Island on iPhones</title>
-		<link>https://www.macrumors.com/2023/12/04/doordash-rolling-out-live-activities/</link>
-		<comments>https://forums.macrumors.com/threads/doordash-rolling-out-order-tracking-in-dynamic-island-on-iphones.2412764/</comments>
-		<pubDate>Mon, 04 Dec 2023 06:47:47 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/04/doordash-rolling-out-live-activities/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>DoorDash</category>
-		<category>Live Activities</category>
-		
-
-		<description><![CDATA[DoorDash recently started rolling out Live Activities support for its iPhone app, allowing users to track their food delivery order at a glance on the Lock Screen, and in the Dynamic Island on iPhone 14 Pro models and all iPhone 15 models.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/DoorDash-Live-Activities-1.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-925057" /><br/>
-DoorDash began <a href="https://www.macrumors.com/2023/09/05/doordash-working-on-live-activities/">working on Live Activities support</a> a few months ago, and the feature started rolling out over the past few weeks, but it does not yet appear to be available for all users. The most convenient aspect of the feature is the ability to view an order's real-time ETA directly in the Dynamic Island on newer iPhones.<br/>
-<br/>
-DoorDash competitor <a href="https://www.macrumors.com/2023/05/02/uber-eats-live-activities/">Uber Eats rolled out Live Activities support</a> in May.<br/>
-<br/>
-Other popular apps that support Live Activities include the NBA and MLB apps for basketball and baseball games, Flighty for flight tracking, Citymapper for public transit, ParkMobile for parking, and CARROT Weather for weather forecasts.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/doordash/">DoorDash</a>, <a href="https://www.macrumors.com/guide/live-activities/">Live Activities</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/04/doordash-rolling-out-live-activities/">DoorDash Rolling Out Order Tracking in Dynamic Island on iPhones</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/doordash-rolling-out-order-tracking-in-dynamic-island-on-iphones.2412764/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s New 14-Inch MacBook Pro Available From &#36;1,399 With Latest Steep Discounts</title>
-		<link>https://www.macrumors.com/2023/12/04/14-inch-macbook-pro-available/</link>
-		<comments>https://forums.macrumors.com/threads/apples-new-14-inch-macbook-pro-available-from-1-399-with-latest-steep-discounts.2412762/</comments>
-		<pubDate>Mon, 04 Dec 2023 06:34:52 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/04/14-inch-macbook-pro-available/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple's 14-inch M3 MacBook Pro is available for multiple all-time low prices today at Best Buy, starting at <a href="https://howl.me/ck8G8OHT1KE"><strong>&#36;1,399.00</strong></a> for the M3 512GB model, down from &#36;1,599.00. The prices in this article reflect final deal prices applied for My Best Buy Plus or My Best Buy Total members.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/macbook-pro-best-buy-snow.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-923678" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-If you don't have a membership, you can still purchase the notebook at a solid second-best price, which Amazon is matching. For the 512GB 14-inch M3 MacBook Pro, that means you can get it on Amazon for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,449.00</strong></a> in both Space Gray and Silver.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/ck8G8OHT1KE"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>14-inch MacBook Pro (M3 512GB) for &#36;1,399.00</div></a></div><br/>
-<br/>
-Secondly, Best Buy has the 1TB 14-inch M3 MacBook Pro for <a href="https://howl.me/ck8Hb3SFzUT"><strong>&#36;1,549.00</strong></a>, down from &#36;1,799.00. This one is a new all-time low price at &#36;250 off, and it's again only available for My Best Buy Plus and My Best Buy Total members.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/ck8Hb3SFzUT"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>14-inch MacBook Pro (M3 1TB) for &#36;1,549.00</div></a></div><br/>
-<br/>
-Similar to the 512GB model, Amazon has the 1TB 14-inch M3 MacBook Pro at a second-best price of <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5LZWJ1%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,599.00</strong></a> in both colors. This is also the same price that you'll find on Best Buy if you aren't a My Best Buy Plus or Total member.<br/>
-<br/>
-Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/04/14-inch-macbook-pro-available/">Apple&#039;s New 14-Inch MacBook Pro Available From &#36;1,399 With Latest Steep Discounts</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-new-14-inch-macbook-pro-available-from-1-399-with-latest-steep-discounts.2412762/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>WhatsApp Now Lets You Send Photos and Video in Original Quality</title>
-		<link>https://www.macrumors.com/2023/12/04/whatsapp-send-photos-video-original-quality/</link>
-		<comments>https://forums.macrumors.com/threads/whatsapp-now-lets-you-send-photos-and-video-in-original-quality.2412755/</comments>
-		<pubDate>Mon, 04 Dec 2023 04:29:52 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/04/whatsapp-send-photos-video-original-quality/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>WhatsApp</category>
-		
-
-		<description><![CDATA[WhatsApp is rolling out a new option that lets users on <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> share photos and video over the messaging platform in their original quality. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/03/Whatsapp-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-786421" /><br/>
-As spotted by <a href="https://wabetainfo.com/whatsapp-for-ios-23-24-73-whats-new/">WABetaInfo</a>, the official changelog included with WhatsApp's 23.24.73 update on the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> says that users can now "easily send original quality media as a file." <br/>
-<br/>
-The update follows a recent feature addition that lets WhatsApp users <a href="https://www.macrumors.com/how-to/send-high-resolution-photos-in-whatsapp/">send media in high resolution</a> or "HD quality." While that was an improvement that addressed the service's low quality media sharing limitation, it still involves compression. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/whatsapp-share-media-files.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-925033" /><br/>
-WhatsApp's latest feature avoids compression altogether by allowing photos and video to be shared as files, thereby preserving their original quality. WhatsApp's changelog adds that the new option is rolling out "over the coming weeks," so some users may not immediately see it on their device. <br/>
-<ol><li>Open an existing chat in WhatsApp or start a new one.</li><br/>
-<li>Tap the + icon, left of the text input field.</li><br/>
-<li>Tap Document ➝ Choose Photo or Video.</li><br/>
-<li>Choose the media that you want to send, then confirm by tapping the blue arrow. Note the 2GB limit on the files that can be sent using the feature.</li></ol><img src="https://images.macrumors.com/article-new/2023/12/send-media-files-whatsapp.jpg" alt="whatsapp" width="4137" height="2716" class="aligncenter size-full wp-image-925034" /><br/>
-<br/>
-When the files are sent, previews of the media are not shown in the chat window, but the recipient can tap the files to view them. WhatsApp has also been testing the same feature for Android, although there isn't any further information about when it will become available.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/whatsapp/">WhatsApp</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/04/whatsapp-send-photos-video-original-quality/">WhatsApp Now Lets You Send Photos and Video in Original Quality</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/whatsapp-now-lets-you-send-photos-and-video-in-original-quality.2412755/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Zoom App Comes to Apple TV 4K With Continuity Camera Support</title>
-		<link>https://www.macrumors.com/2023/12/04/zoom-app-comes-to-apple-tv-4k/</link>
-		<comments>https://forums.macrumors.com/threads/zoom-app-comes-to-apple-tv-4k-with-continuity-camera-support.2412753/</comments>
-		<pubDate>Mon, 04 Dec 2023 02:51:15 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/04/zoom-app-comes-to-apple-tv-4k/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple TV</category>
-		
-
-		<description><![CDATA[Zoom has released an app for Apple TV 4K, allowing users to hold conference calls on their television and iPhone or iPad via Apple's Continuity Camera feature. First spotted by <a href="https://x.com/sigjudge/status/1730886391230271736?s=20">Sigmund Judge</a>, the "Zoom - for Home TV" app quietly showed up in the tvOS App Store over the weekend.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/05/zoom-app-icon.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-798373" /><br/>
-When tvOS 17 was released in September, Apple introduced FaceTime on Apple TV, which takes advantage of Continuity Camera support to wirelessly connect to the user's iPhone or iPad, and leverage the device's camera and microphone to bring participants together on the TV.<br/>
-<br/>
-Zoom uses Continuity Camera to achieve the same thing, allowing you to connect Apple TV to your iPhone, and then start and join Zoom meetings. The app supports HD video and audio, calendar integration, meeting invites via phone, email, or Zoom contacts, in-meeting chat, and the ability to be assigned to a breakout room. <br/>
-<ul><li><a href="https://www.macrumors.com/how-to/use-iphone-facetime-camera-apple-tv/">How to Use iPhone as a FaceTime Camera on Apple TV</a></li></ul><br/>
-Zoom users can log into their account in the Apple TV app using their Zoom credentials, or by visiting a pairing URL on their iPhone. Zoom on tvOS requires a second-generation Apple TV 4K or later to utilize Continuity Camera, as well as any iPhone or iPad model updated to iOS 17 or iPadOS 17 for camera and microphone functionality.<br/>
-<br/>
-<em>(Via<a href="https://appleinsider.com/articles/23/12/02/zoom-app-for-apple-tv-surfaces-in-the-app-store"> AppleInsider</a>.)</em><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/04/zoom-app-comes-to-apple-tv-4k/">Zoom App Comes to Apple TV 4K With Continuity Camera Support</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/zoom-app-comes-to-apple-tv-4k-with-continuity-camera-support.2412753/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Top Stories: iOS 17.1.2 Released, NameDrop Misinformation, and More</title>
-		<link>https://www.macrumors.com/2023/12/02/top-stories-ios-17-1-2-released/</link>
-		<comments>https://forums.macrumors.com/threads/top-stories-ios-17-1-2-released-namedrop-misinformation-and-more.2412636/</comments>
-		<pubDate>Sat, 02 Dec 2023 06:00:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/02/top-stories-ios-17-1-2-released/</guid>
-		<dc:creator>MacRumors Staff</dc:creator>
-		<category>Featured</category>
-		<category>Top Stories</category>
-		
-
-		<description><![CDATA[Apple employees are back to work following a Thanksgiving break, and that means this week saw a number of new operating system updates for both public release and beta testing.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/top-stories-2dec2023.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-924977" /><br/>
-This week also saw some misinformation about Apple's new NameDrop feature making the rounds, while Apple and Goldman Sachs appear to be on the verge of a break-up in their Apple Card and savings account partnership, so read on for all the details on these stories and more!<br/>
-<br/>
-<h2>Apple Releases iOS 17.1.2 for iPhone With Security Fixes</h2><br/>
-Apple this week <a href="https://www.macrumors.com/2023/11/30/apple-releases-ios-17-1-2/">released iOS 17.1.2 for the iPhone XS and newer</a>. The minor software update "provides important security fixes and is recommended for all users," according to Apple's release notes.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/iOS-17.1.2-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-923208" /><br/>
-Apple also <a href="https://www.macrumors.com/2023/11/30/apple-releases-macos-sonoma-14-1-2/">released a minor macOS 14.1.2 update for Macs</a> with "important bug fixes and security updates."<br/>
-<br/>
-There aren't any updates for the Apple Watch, Apple TV, or HomePod.<br/>
-<br/>
-<h2>Everything New in iOS 17.2 Beta 4</h2><br/>
-Following <a href="https://www.macrumors.com/2023/11/30/apple-releases-ios-17-1-2/">iOS 17.1.2</a>, Apple is expected to release a bigger iOS 17.2 update, which has been in beta testing for over a month now.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/iOS-17.2-Feature-Warm.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-918854" /><br/>
-iOS 17.2 includes <a href="https://www.macrumors.com/guide/ios-17-2-beta-features/">many new features and changes</a>, including Apple's Journal app, support for spatial video recording on iPhone 15 Pro models, and more. There are even more changes in the latest beta, as <a href="https://www.macrumors.com/2023/11/28/ios-17-2-beta-4-features/">outlined in our list of everything new in iOS 17.2 beta 4</a>.<br/>
-<br/>
-<h2>Misinformation Spreading About iOS 17's NameDrop Feature</h2><br/>
-Apple with iOS 17.1 and watchOS 10.1 <a href="https://www.macrumors.com/how-to/ios-share-contact-details-with-namedrop/">introduced a new NameDrop feature</a> that is designed to allow users to hold their iPhones or Apple Watches together to quickly exchange contact information.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/ios-17-namedrop-pink.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-924979" /><br/>
-While contact information is only shared with explicit user permission, some news outlets and police departments in the U.S. have been <a href="https://www.macrumors.com/2023/11/27/ios-17-namedrop-misinformation/">spreading fear and misinformation about how NameDrop works over</a> the past few weeks.<br/>
-<br/>
-<h2>Apple Reportedly Ending Apple Card Partnership With Goldman Sachs</h2><br/>
-Apple has allegedly <a href="https://www.macrumors.com/2023/11/28/apple-goldman-sachs-partnership-ending/">informed Goldman Sachs that it wants to exit its contract</a> with the investment banking firm in the next 12 to 15 months, according to a report this week from <em>The Wall Street Journal</em>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/Apple-Card-Balance.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-898056" /><br/>
-Goldman Sachs is the financial partner behind the <a href="https://www.macrumors.com/guide/apple-card/">Apple Card credit card</a> and <a href="https://www.macrumors.com/2023/04/17/apple-card-savings-account-launching-today/">companion savings account</a>, which can both be managed in the Wallet app on the iPhone. Apple's future plans for these products remains unclear.<br/>
-<br/>
-<h2>Apple Music Replay 2023 Experience Now Live</h2><br/>
-The full <a href="https://www.macrumors.com/2023/11/28/apple-music-replay-2023-experience-live/">Apple Music Replay experience is now available for 2023</a>, allowing subscribers to view their top artists, songs, albums, genres, playlists, and stations of the year. Similar to Spotify Wrapped, Apple Music Replay info can be shared on social media.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/Apple-Music-Replay-23-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-924302" /><br/>
-Apple Music Replay is mainly a web-based experience, accessible at replay.music.apple.com. There is also a playlist with your favorite songs of the year.<br/>
-<br/>
-<h2>What to Expect From All-New CarPlay, Still Listed as Coming 'Late 2023'</h2><br/>
-Apple's website still says the first vehicles with support for next-generation CarPlay experience <a href="https://www.macrumors.com/2023/11/28/what-to-expect-from-next-generation-carplay/">will be announced in "late 2023,"</a> but it has not shared any additional details heading into the final month of the year.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/All-New-CarPlay-Five-New-Features-Article-2.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-918156" /><br/>
-The <a href="https://www.macrumors.com/2023/11/28/what-to-expect-from-next-generation-carplay/">next-generation CarPlay experience will include</a> deeper integration with vehicle functions like A/C and FM radio, support for multiple displays across the dashboard, increased personalization, and more.<br/>
-<br/>
-<h3>MacRumors Newsletter</h3><br/>
-Each week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.<br/>
-<br/>
-So if you want to have <a href="https://mailchi.mp/macrumors/nov-30-2023">top stories</a> like the above recap delivered to your email inbox each week, <b><a href="http://eepurl.com/OHdUX">subscribe to our newsletter</a></b>!<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/top-stories/">Top Stories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/02/top-stories-ios-17-1-2-released/">Top Stories: iOS 17.1.2 Released, NameDrop Misinformation, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/top-stories-ios-17-1-2-released-namedrop-misinformation-and-more.2412636/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
