@@ -14,12 +14,68 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 05 Dec 2023 00:03:28 PST</lastBuildDate>
+	<lastBuildDate>Tue, 05 Dec 2023 04:04:24 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 17 Bug Switches Apps While Typing - How to Fix</title>
+		<link>https://www.macrumors.com/how-to/ios-17-bug-switches-apps-while-typing-fix/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-bug-switches-apps-while-typing-how-to-fix.2412852/</comments>
+		<pubDate>Tue, 05 Dec 2023 03:32:05 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/ios-17-bug-switches-apps-while-typing-fix&#038;post_date=1701786725/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iOS 17</category>
+		<category>Reachability</category>
+		
+
+		<description><![CDATA[An increasing number of <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users are reporting a persistent <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> bug that causes the app switcher to suddenly appear when they are typing on the screen. If you have experienced this frustrating issue, you are not alone. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/iOS-17-General-Keyboard-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-904723" /><br/>
+<a href="https://discussions.apple.com/thread/255245306">Apple Community forums</a> and <a href="https://www.reddit.com/r/ios/comments/17i3ty7/app_switching_while_typing/">Reddit</a> contain similar reports of people being kicked out of Messages, Notes, and other apps mid-sentence only to find themselves in another app because they were still tapping the screen when the app switcher suddenly appeared. <br/>
+<br/>
+You can <a href="https://share.icloud.com/photos/03dLrdmaTOPNY0bSiGlYxKpcQ">see it in action here</a>. The bug can be hard to replicate, but it seems to happen to affected users when they have been typing on the virtual keyboard at pace for a while. The bug has been reported in all versions of &zwnj;iOS 17&zwnj; up to and including the most recent iOS 17.1.2 update, and some users have returned their &zwnj;iPhone&zwnj; only for it to occur on the replacement device, suggesting that Apple is not sufficiently aware of the problem. <br/>
+<br/>
+Until Apple deals with the issue, there is a temporary fix – or more accurately a workaround, since it involves turning off Reachability, a feature that some users will undoubtedly miss. Reachability is an optional feature that lowers the top half of the screen so it's within easy reach of your fingers. Here's how to disable it.<br/>
+<ol><li>Open <strong>Settings</strong> on your &zwnj;iPhone&zwnj;.</li><br/>
+<li>Tap <strong>Accessibility</strong>.</li><br/>
+<li>Under "Physical and Motor," select <strong>Touch</strong>.</li><br/>
+<li>Turn off the switch next to <strong>Reachability</strong>.</li></ol><img src="https://images.macrumors.com/article-new/2023/12/turn-off-reachability.jpg" alt="" width="4137" height="2716" class="aligncenter size-full wp-image-925198" /><br/>
+<br/>
+Disabling Reachability appears to stop the typing bug in its tracks for everyone affected, which suggests Apple has an unidentified sensitivity issue linked to the accessibility feature. <br/>
+<br/>
+<em>(Thanks, Anna!)</em><div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/reachability/">Reachability</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/ios-17-bug-switches-apps-while-typing-fix/">iOS 17 Bug Switches Apps While Typing - How to Fix</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-bug-switches-apps-while-typing-how-to-fix.2412852/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Instagram and Facebook Messenger Chats to Disconnect This Month</title>
+		<link>https://www.macrumors.com/2023/12/05/instagram-messenger-chats-disconnecting/</link>
+		<comments>https://forums.macrumors.com/threads/instagram-and-facebook-messenger-chats-to-disconnect-this-month.2412848/</comments>
+		<pubDate>Tue, 05 Dec 2023 01:57:11 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/instagram-messenger-chats-disconnecting/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Facebook Messenger</category>
+		<category>Instagram</category>
+		
+
+		<description><![CDATA[Meta has revealed plans to end Instagram users' ability to chat with Facebook accounts later this month, rolling back a feature that it introduced over three years ago.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/instagram-messenger.jpg" alt="" width="3440" height="1680" class="aligncenter size-full wp-image-925192" /><br/>
+In <a href="https://www.macrumors.com/2020/09/30/facebook-unifies-messenger-and-instagram/">September 2020</a>, Meta (then Facebook) announced it was merging its Facebook Messenger service with Instagram direct messaging, allowing Instagram users to chat with Facebook users and vice versa using the same platform.<br/>
+<br/>
+The move was supposed to be part of a long-term plan to merge Messenger, Instagram, and WhatsApp chat platforms into one underlying messaging infrastructure. The idea behind the plan was said to be to keep people within the Facebook ecosystem, and off of rival texting apps like Apple's iMessage.<br/>
+<br/>
+However, according to an <a href="https://help.instagram.com/654906392080948">updated Instagram support page</a>, beginning in mid-December the following cross-app communication features will no longer be available to Instagram users:<br/>
+<blockquote><ul><li>You won't be able to start new conversations or calls with Facebook accounts from Instagram.</li><br/>
+<li>Any existing chats on Instagram that you've had with Facebook accounts will become read-only, even if these Facebook accounts are removed from the chat. This means that you and others with Instagram accounts can't send new messages in these chats.</li><br/>
+<li>Facebook accounts won't be able to view your Activity Status or whether you've seen a message.</li><br/>
+<li>Any existing chats you've had with Facebook accounts won't move to your inbox on Facebook or Messenger.</li></ul></blockquote>When cross-app chat ends, Instagram users will need to start a new chat on Messenger or Facebook from their Facebook account to continue conversations with Facebook accounts.<br/>
+<br/>
+Meta offered no reason for the change, but <em><a href="https://9to5google.com/2023/12/04/instagram-facebook-messenger-chats-disconnected/">9to5Google</a></em> speculates that it could be part of a larger effort to comply with Europe's Digital Markets Act (DMA). The theory is that Meta could be preparing to introduce wider interoperability between Instagram, Messenger, and WhatsApp, which would fulfill a key requirement of the DMA. Either that or it is simply scaling back Messenger once again – the company recently removed SMS/MMS support on Android and has shut down Messenger Lite.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/facebook-messenger/">Facebook Messenger</a>, <a href="https://www.macrumors.com/guide/instagram/">Instagram</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/instagram-messenger-chats-disconnecting/">Instagram and Facebook Messenger Chats to Disconnect This Month</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/instagram-and-facebook-messenger-chats-to-disconnect-this-month.2412848/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Netflix &#039;Completely Satisfied&#039; With Pace of Password Sharing Crackdown</title>
@@ -510,106 +566,6 @@ Apple says all of its refurbished products undergo "full functionality testing" 
 Keep in mind that there are often better deals available from third-party resellers. In the U.S., brand new second-generation AirPods Pro with a USB-C charging case were <a href="https://www.macrumors.com/2023/11/30/airpods-pro-2-usb-c-black-friday-price/">recently on sale for &#36;189.99 on Amazon</a>, although they are currently &#36;237.99.<br/>
 <br/>
 Apple began selling <a href="https://www.macrumors.com/2023/08/04/apple-refurbished-airpods-3/">refurbished third-generation AirPods</a> earlier this year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-refurbished/">Apple Refurbished Products</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/01/refurbished-airpods-pro-2-lightning-in-us/">Apple Now Selling Refurbished AirPods Pro 2 With Lightning Case in U.S.</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-selling-refurbished-airpods-pro-2-with-lightning-case-in-u-s.2412587/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Review: The New Philips Hue Festavia Lights Offer More Versatility at a Higher Price</title>
-		<link>https://www.macrumors.com/review/philips-hue-festavia-lights/</link>
-		<comments>https://forums.macrumors.com/threads/review-the-new-philips-hue-festavia-lights-offer-more-versatility-at-a-higher-price.2412583/</comments>
-		<pubDate>Fri, 01 Dec 2023 09:51:59 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/review/philips-hue-festavia-lights&#038;post_date=1701463919/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Philips Hue</category>
-		
-
-		<description><![CDATA[Philips Hue parent company Signify debuted <a href="https://www.macrumors.com/2023/08/31/new-philips-hue-lights/">a new version</a> of the Hue Festavia string lights back in August, with plenty of availability now that the holidays are approaching. If you're up to date with Hue, you might know that the Festavia <a href="https://www.macrumors.com/2022/11/10/philips-hue-festavia-lights/">first came out last year</a>, but the first version was available in limited quantities and was hard to get.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/hue-festavia-lights-opal.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-924888" /><br/>
-After the holidays, the Festavia lights seemed to disappear entirely until the new version came out in this year, and that's because this is a new model. The new Festavia lights and the old Festavia lights are similar in design, but there are tweaks to the sizes of the light strings, the price, weatherproofing, the design of the power supply, and a few other features.<br/>
-<br/>
-Last year's Festavia lights were priced at &#36;160 for 250 LEDs on a 65-foot strand, and this year, the same 65-foot strand with 250 LEDs is priced at &#36;220. I don't know why the lights are priced higher, but there are two new size options, including a 500-LED 131-foot model and a 100-LED 26-foot model. The Hue website sells the two longer strands right now, but not the shorter version.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/hue-festavia-light-design-power-supply.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-924889" /><br/>
-I tested the 250 LED model, which has the LEDs positioned about three inches apart on the strand. The lights themselves are flat at the top with a circular body, which is the same design that was used last year and the shape you'll also see in smart lights from brands like Twinkly. The cord connecting the LEDs is black, which is one of my complaints about the Hue lights.<br/>
-<br/>
-Black does not blend in as well with a tree as green does when used on a typical Christmas tree, and I feel that it makes the cord stand out more than it should. It would be nice to have color options for the wires rather than being limited to black. Even in non-tree use, black stands out on white trim or white walls. Nanoleaf and Twinkly are using the same black cord for their lights, so maybe it's a color most people don't mind.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/hue-festavia-lights-colors.jpg" alt="" width="2000" height="1500" class="aligncenter size-full wp-image-924890" /><br/>
-Last year's Festavia lights were designed to be used  indoors, but this year's version has weatherproofing and can be used indoors or out. You can use these outside on your porch, outdoor trees, around windows, on eaves, and more, so you're not just limited to inside use. I wouldn't put lights this expensive outside, but I appreciate the versatility for those who do want to use them for outdoor landscaping purposes.<br/>
-<br/>
-Other than the new weatherproofing rating, the only other difference between the 2022 Festavia and the 2023 Festavia that I found was the design of the power supply. The 2023 version has a 30W plug that you can unscrew from the controller so you can use the Festavia outdoors with other outdoor power you might have.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/hue-festavia-subtle-colors.jpg" alt="" width="2000" height="1500" class="aligncenter size-full wp-image-924893" /><br/>
-With traditional holiday lights, you can connect two or more strands together to run off of the same power supply, but that is not an option here. Every strand has its own dedicated power supply and these are bulky, especially when used indoors. I put two strands on my tree, and it's a lot of cabling hefty power supplies to deal with. For a Christmas tree that's about seven feet tall, I can get away with one strand, but two strands covers the front and back more fully at a better density. I wish there was an option for a 65-foot strand with a higher LED density, because 65 feet is the right length for a standard tree, but a single strand doesn't feel like quite enough due to the spacing.<br/>
-<br/>
-<div class="center-wrap"><iframe width="477" height="848" src="https://www.youtube.com/embed/yYPJhfbRK2U" title="Philips Hue Festavia String Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-These are low voltage LEDs that don't get warm, so you can use them just about anywhere without worrying about a fire hazard. Since these are string lights meant for holiday decorating, there is a warning in the box that suggests you can only leave them up for 90 days. It's a warning that is required under the UL standard used for this type of light because of the testing parameters used for them. I have kept the prior-generation Festavia lights up for a much longer period of time without issue because I am not packing away such expensive lights for most of the year, but it's something to pay attention to.<br/>
-<br/>
-Like all Hue lights, the Hue Festavia is controlled through the Hue app. It supports 16 million colors and multiple shades of white as it is a "White and Color Ambiance" product, plus it is a gradient light so the colors blend into one another. The Festavia lights can be used directly in the Hue app over Bluetooth, but it's a better experience if you have a Hue Bridge. A Bridge allows for control away from home, connectivity over Wi-Fi, and of course integration with other Hue products.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/hue-festavia-lights-in-tree.jpg" alt="" width="2000" height="1500" class="aligncenter size-full wp-image-924895" /><br/>
-With the Hue app, there are a lot of options for color schemes. There are three total zones for each strand of lights, and you can set each one to a separate color on the color wheel to use the gradient effect. Scenes can be created and saved, and the lights work with all of the scenes in the Hue scene gallery for pre-set color arrangements.<br/>
-<br/>
-There are six special effects available too, including candle, fireplace, sparkle, glisten, opal, and prism. Candle and fireplace are self-explanatory and aren't really designed for this kind of string light. Candle looks okay with just the flickering yellow lights, but fireplace is much oranger and looks out of place.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/FvIKihS9YJY" title="Philips Hue Festavia String Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-The other four options are perfect for the Festavia. Sparkle is a white/yellow light scheme that looks like slow twinkling lights. Glisten is similar to sparkle but with more "twinkle," and opal, which looks like its namesake, is by far my favorite. Opal uses soft, pastel lights that are just shy of white and it cycles through them for a soft, but colorful effect that looks something like the lighting equivalent of a nighttime winter snowfall. It's one of the most magical lighting effects I've seen from smart lights.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/hue-festavia-from-outside.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-924896" /><br/>
-Prism is a slow rainbow gradient that's also quite striking, with the colors shifting so slowly that it's not at all distracting and is even hard to notice if you're not directly paying attention. It's a truly pretty gradient that doesn't overwhelm a room. Cameras have a hard time with string lights, so while I did my best to capture photos and videos, the Festavia looks better in real life. All of these lighting options work with both versions of the Hue Festavia, so there's nothing exclusive to the second-generation release. Opal and glisten are effects that are only compatible with the Festavia, while candle, fireplace, and prism work on some of the other Hue lights.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/hue-festavia-white-lights.jpg" alt="" width="2000" height="1500" class="aligncenter size-full wp-image-924892" /><br/>
-It is worth noting that the Festavia lights do not get as bright as the Twinkly smart lights, nor do they do the intricate patterns and rhythms that are available with other brands. I find the brightness of the Philips Hue lights to be optimal, and when I use Twinkly lights, I never have them above 50 percent brightness because they're too bright to look at.<br/>
-<br/>
-Twinkly lights are what I'd want to use for a raucous ugly sweater type of party, while Hue lights are what I'd use for a holiday dinner party. Hue lights are more subtle and have a more elegant, cozy vibe that I think most people will prefer. A major exception is families with children, because the Twinkly app is arguably more fun. You can change each LED to a different color with Twinkly, and that's not possible with Hue. Hue also doesn't support different animation patterns and speeds, so you can't set the lights to do things like blink on and off.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/hue-festavia-bright-white.jpg" alt="" width="2000" height="1500" class="aligncenter size-full wp-image-924894" /><br/>
-You're supposed to put the Festavia lights on the tree in a certain way (there are <a href="https://www.philips-hue.com/en-us/products/string-lights/how-should-i-set-up-string-lights">instructions on the Hue website</a>), wrapping them from the bottom up in rows that are spaced six inches apart and matching up gradients if you're using two strands. I used that method with the lights last year, but this year I broke the rules and hung my lights vertically. I'm a fan of the vertical look, but it would be nice if the Hue app had a feature like the Twinkly app that let you tell the lights where they were rather than having to hang them in a particular way. Side note, the internet told me to hang lights vertically to make them easier to remove from a tree, but I had to tuck them so far back to hide the black cord that I'm not sure vertical was beneficial.<br/>
-<br/>
-<div class="center-wrap"><iframe width="477" height="848" src="https://www.youtube.com/embed/wKREM1-KOWw" title="Philips Hue Festavia String Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-If you have other Hue lights, you can integrate the Festavia with them. In the room where I have my tree, I have a hanging lamp with multiple Hue bulbs, so the tree and the bulbs can all be color coordinated. Festavia lights can also be included in an Entertainment Area to match lighting to TV content or music. You'll need a Hue Play HDMI Sync Box, a compatible Samsung TV, or a Spotify account to make this work.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/hue-festavia-matching-lights.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-924891" /><br/>
-The Hue Festavia lights work like any other Hue light in terms of control and automation. You can set up automations to turn them on and off, to change the colors at certain times, or to trigger with motion or other parameters. They can be controlled in the Hue app, in the Home app, and with <a href="https://www.macrumors.com/guide/siri/">Siri</a> voice commands.<br/>
-<br/>
-<h2>Bottom Line</h2><br/>
-The Philips Hue Festavia lights are ideal for people who already have Hue lights. If you're entrenched in the Hue ecosystem, you likely won't be too surprised at what Signify is charging for these. A 250-LED strand of standard holiday lights is around &#36;20, and Twinkly charges about &#36;150 for a similar smart version, so the Festavia lights definitely have a premium price tag.<br/>
-<br/>
-There is no substitute for the aesthetic of the Festavia, the ease of use, or the integration with Hue bulbs, though. Other smart lights seem almost garish in comparison to the soft, ethereal look you can get from the Festavia. I have a mild obsession with lamps, string lights, light strips, and bulbs, so I have tried a lot of the options out there and with Hue, I have few complaints aside from the cost.<br/>
-<br/>
-Hue products integrate seamlessly with <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> and the Zigbee Bridge means that everything just works. For context, I have more than 50 Hue lights (that I bought) because I've learned that Hue just doesn't give me trouble. I <em>hate</em> &zwnj;HomeKit&zwnj; troubleshooting because of the lack of transparency from Apple, so I pay more upfront to not have to spend 30 minutes trying to figure out why a light has disconnected itself from &zwnj;HomeKit&zwnj; and won't reconnect.<br/>
-<br/>
-If you don't have Hue lights and don't plan to buy any, I don't think this is the best pick because you're missing out on the integration, but you'll still get the benefits of the Hue colors and scenes. Twinkly and Nanoleaf make for better one-off purchases, with Twinkly in particular offering fun effects and controls that children will enjoy.<br/>
-<br/>
-<h2>How to Buy</h2><br/>
-The Philips Hue Festavia String Lights can be <a href="https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-festavia-string-lights/046677585303">purchased from the Hue website for &#36;220</a>.<br/>
-<br/>
-<em><small>Note: Signify provided MacRumors with a 250-LED Festavia for the purpose of this review. No other compensation was received.</small></em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/philips-hue/">Philips Hue</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/review/philips-hue-festavia-lights/">Review: The New Philips Hue Festavia Lights Offer More Versatility at a Higher Price</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/review-the-new-philips-hue-festavia-lights-offer-more-versatility-at-a-higher-price.2412583/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16 Pro: All the Rumors and Known Features So Far</title>
-		<link>https://www.macrumors.com/2023/12/01/iphone-16-pro-rumors/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-pro-all-the-rumors-and-known-features-so-far.2412568/</comments>
-		<pubDate>Fri, 01 Dec 2023 07:53:27 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/01/iphone-16-pro-rumors/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPhone 16 Pro</category>
-		
-
-		<description><![CDATA[While the <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro and iPhone 16 Pro Max</a> are still around 10 months away from launching, there are already several rumors about the devices. Below, we have recapped new features and changes expected for the devices so far.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-16-Side-Feature.jpg" alt="" width="3532" height="1986" class="aligncenter size-full wp-image-913689" /><br/>
-These are some of the key changes rumored for the iPhone 16 Pro models as of December 2023:<ul><li><strong>Larger displays:</strong> The iPhone 16 Pro and iPhone 16 Pro Max will be equipped with <a href="https://www.macrumors.com/2023/05/08/iphone-16-pro-larger-display-sizes/">larger 6.3-inch and 6.9-inch displays</a>, respectively, according to Ross Young, CEO of Display Supply Chain Consultants. The devices are expected to have <a href="https://www.macrumors.com/2023/05/30/iphone-16-pro-to-feature-taller-aspect-ratio/">taller aspect ratios</a> as part of this change. By comparison, the iPhone 15 Pro and iPhone 15 Pro Max have 6.1-inch and 6.7-inch displays, respectively.</li><br/>
-<li><strong>More power-efficient displays:</strong> iPhone 16 Pro models could have <a href="https://www.macrumors.com/2023/11/14/iphone-16-more-efficient-oled-display/">more power-efficient OLED displays supplied by Samsung</a>.</li><br/>
-<li><strong>"Capture" button:</strong> Apple is rumored to be planning a <a href="https://www.macrumors.com/2023/09/25/iphone-16-capture-button/">new "Capture button"</a> for all iPhone 16 models. The button would be located below the power button, which would require the mmWave 5G antenna window to be relocated on U.S. models. The button's purpose is unknown, but it has been speculated that it could be a dedicated shutter or spatial video recording button for the camera. The button might have a solid-state design, but <a href="https://www.macrumors.com/2023/11/03/will-iphone-16-feature-taptic-buttons/">rumors are conflicting</a>.</li><br/>
-<li><strong>48-megapixel Ultra Wide lens:</strong> The iPhone 16 Pro and iPhone 16 Pro Max will feature an <a href="https://www.macrumors.com/2023/08/15/iphone-16-pro-wifi-7-48mp-ultra-wide-rumors/">upgraded 48-megapixel Ultra Wide camera lens</a> for higher-resolution photos with more detail when shooting in 0.5× mode, according to Jeff Pu, a tech analyst at Hong Kong investment firm Haitong International Securities.</li><br/>
-<li><strong>Wi-Fi 7 support:</strong> The iPhone 16 Pro and iPhone 16 Pro Max will also <a href="https://www.macrumors.com/2023/08/15/iphone-16-pro-wifi-7-48mp-ultra-wide-rumors/">support Wi-Fi 7</a>, according to Pu. This would enable the devices to send and receive data over the 2.4GHz, 5GHz, and 6GHz bands simultaneously, resulting in faster Wi-Fi speeds, lower latency, and more reliable connectivity. Wi-Fi 7 is expected to offer peak data transfer speeds of over 40 Gbps, a 4× increase over Wi-Fi 6E.</li><br/>
-<li><strong>A18 Pro chip:</strong> Apple's next-generation A18 Pro chip is expected to be manufactured with <a href="https://www.macrumors.com/2023/09/27/iphone-16-lineup-a18-a18-pro-chips-analyst-says/">TSMC's second-generation 3nm process, known as N3E</a>.</li><br/>
-<li><strong>Improved thermal design:</strong> iPhone 16 Pro models are rumored to feature a <a href="https://www.macrumors.com/2023/11/16/iphone-16-new-thermal-design/">new thermal design</a> for improved heat dissipation. Similar to recent Apple Watch models, the <a href="https://www.macrumors.com/2023/11/20/iphone-16-pro-leak-reveals-redesigned-battery/">battery might have a metal casing</a>.</li><br/>
-<li><strong>5G Advanced:</strong> iPhone 16 Pro models will be <a href="https://www.macrumors.com/2023/10/12/iphone-16-pro-5g-advanced-rumor/">equipped with Qualcomm's Snapdragon X75 modem</a> for faster and more power efficient 5G connectivity, according to Pu. The modem supports the "5G Advanced" standard, which has been described as "the next phase of 5G" and an "evolution towards 6G."</li><br/>
-<li><strong>5× optical zoom for iPhone 16 Pro:</strong> The iPhone 15 Pro Max's tetraprism Telephoto lens system with 5× optical zoom will <a href="https://www.macrumors.com/2023/09/18/iphone-16-pro-tetraprism-lens-rumor/">expand to the regular iPhone 16 Pro</a>, according to supply chain analyst Ming-Chi Kuo.</li><br/>
-<li><strong>More than 5× optical zoom for iPhone 16 Pro Max:</strong> It has been rumored that the iPhone 16 Pro Max will feature <a href="https://www.macrumors.com/2023/07/18/iphone-16-pro-max-super-telephoto-camera/">additional upgrades to the Telephoto lens</a> that might allow for more than 5× optical zoom.</li></ul>Apple is expected to announce the iPhone 16 Pro models in September 2024. Additional details about the devices should surface over the coming months, so be sure to <a href="https://www.macrumors.com/roundup/iphone-16-pro/"><strong>keep tabs on our iPhone 16 Pro roundup</strong></a> for the latest information.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/01/iphone-16-pro-rumors/">iPhone 16 Pro: All the Rumors and Known Features So Far</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-pro-all-the-rumors-and-known-features-so-far.2412568/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
