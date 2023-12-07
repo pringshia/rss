@@ -14,12 +14,91 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 07 Dec 2023 00:03:01 PST</lastBuildDate>
+	<lastBuildDate>Thu, 07 Dec 2023 04:03:51 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Facebook Messenger Rolls Out End-to-End Encryption by Default</title>
+		<link>https://www.macrumors.com/2023/12/07/facebook-messenger-end-to-end-encryption/</link>
+		<comments>https://forums.macrumors.com/threads/facebook-messenger-rolls-out-end-to-end-encryption-by-default.2413057/</comments>
+		<pubDate>Thu, 07 Dec 2023 04:03:28 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/07/facebook-messenger-end-to-end-encryption/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Facebook Messenger</category>
+		<category>Encryption</category>
+		<category>Privacy</category>
+		
+
+		<description><![CDATA[Meta is rolling out end-to-end encryption for personal messages and calls on Messenger and Facebook, finally delivering on a pledge it committed to some time ago.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/encrypted-messenger.jpg" alt="" width="1536" height="864" class="aligncenter size-full wp-image-925500" /><br/>
+Messenger encryption originally arrived in <a href="https://www.macrumors.com/2016/10/05/facebook-encrypion-messenger/">2016</a> in the form of "secret conversations," and plans to extend the platform's cryptographic features have been floated ever since. <br/>
+<br/>
+<a href="https://about.fb.com/news/2023/12/default-end-to-end-encryption-on-messenger/">According to Loredana Crisan</a>, Head of Messenger, Meta is only now turning on end-to-end encryption for all messages and calls between two people after years spent "rebuilding Messenger features from the ground up."<br/>
+<blockquote>Since 2016, Messenger has had the option for people to turn on end-to-end encryption, but we're now changing private chats and calls across Messenger to be end-to-end encrypted by default. This has taken years to deliver because we've taken our time to get this right. Our engineers, cryptographers, designers, policy experts and product managers have worked tirelessly to rebuild Messenger features from the ground up. We've introduced new privacy, safety and control features along the way like delivery controls that let people choose who can message them, as well as app lock, alongside existing safety features like report, block and message requests. We worked closely with outside experts, academics, advocates and governments to identify risks and build mitigations to ensure that privacy and safety go hand-in-hand.</blockquote>The extra layer of security provided by end-to-end encryption means that the content of messages and calls are protected from the moment they leave the sender's device to the moment they reach the receiver's device. In other words, nobody, including Meta, can see what is sent or said, unless the message is reported.<br/>
+<br/>
+End-to-end encrypted conversations also offer additional functionality including the ability to edit messages, higher media quality, and disappearing messages.<br/>
+<br/>
+Meta notes that end-to-end encryption won't prevent users from using features like themes and custom reactions, but "it may take some time for Messenger chats to be updated with default end-to-end encryption."<br/>
+<br/>
+As things stand, end-to-end encryption for group Messenger chats remains opt-in, and Meta previously said that Instagram messages will be encrypted "shortly after" the rollout of default encryption for Messenger chats.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/facebook-messenger/">Facebook Messenger</a>, <a href="https://www.macrumors.com/guide/encryption/">Encryption</a>, <a href="https://www.macrumors.com/guide/privacy/">Privacy</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/07/facebook-messenger-end-to-end-encryption/">Facebook Messenger Rolls Out End-to-End Encryption by Default</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/facebook-messenger-rolls-out-end-to-end-encryption-by-default.2413057/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Adds Push Notification Data to Law Enforcement Guidelines</title>
+		<link>https://www.macrumors.com/2023/12/07/apple-updates-law-enforcement-guidelines/</link>
+		<comments>https://forums.macrumors.com/threads/apple-adds-push-notification-data-to-law-enforcement-guidelines.2413049/</comments>
+		<pubDate>Thu, 07 Dec 2023 02:32:11 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/07/apple-updates-law-enforcement-guidelines/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple Privacy</category>
+		
+
+		<description><![CDATA[Apple has updated its <a href="https://www.apple.com/legal/privacy/law-enforcement-guidelines-us.pdf">Legal Process Guidelines</a> to reflect the company's legal obligation to comply with law enforcement requests for Apple ID information associated with its push notification service. The change follows yesterday's revelation that governments are actively using smartphone notification data as a <a href="https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/">user surveillance tool</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/01/appleprivacyad-cleaned.jpg" alt="" width="1600" height="872" class="aligncenter size-full wp-image-833885" /><br/>
+In the section titled "Information Available from Apple," Apple has appended an alphabetical list with the subsection "AA. Apple Push Notification Service (APNs)," which reads:<br/>
+<blockquote>When users allow an application they have installed to receive push notifications, an Apple Push Notification Service (APNs) token is generated and registered to that developer and device. Some apps may have multiple APNs tokens for one account on one device to differentiate between messages and multi-media.<br/>
+<br/>
+The Apple ID associated with a registered APNs token may be obtained with a subpoena or greater legal process.</blockquote>Apple and Google have been forced by governments at home and abroad to provide users' data from notifications they get on their devices, US Senator Ron Wyden revealed on Wednesday in a letter to the Justice Department, drawing attention to a new smartphone privacy concern.<br/>
+<br/>
+The Justice Department declined to comment on the letter, but Apple and Google confirmed that they have been subject to the requests. The companies explained that they had been prohibited from sharing information about how governments monitored push notifications until Wyden's letter had been made public and given them the legal opening they needed.<br/>
+<br/>
+With push notifications enabled, Apple and Google create a small bit of data, known as a token, that links the user's device to the account information they've given the companies, such as their name and email address.<br/>
+<br/>
+A <em>Reuters</em> source familiar with the matter confirmed that both foreign and U.S. government agencies have been asking Apple and Google for user information related to push notifications. The data is said to have been used to attempt to tie anonymous users of messaging apps to specific Apple or Google accounts.<br/>
+<br/>
+<a href="https://www.washingtonpost.com/technology/2023/12/06/push-notifications-surveillance-apple-google/"><em>The Washington Post</em></a> said on Wednesday it had found more than two dozen search warrant applications and other documents in court records related to federal requests for push notification data. Though many were redacted, nine of the documents pertained to the federal hunt for U.S. Capitol rioters on January 6, 2021.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-privacy/">Apple Privacy</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/07/apple-updates-law-enforcement-guidelines/">Apple Adds Push Notification Data to Law Enforcement Guidelines</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-adds-push-notification-data-to-law-enforcement-guidelines.2413049/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Kuo: Apple Upgrading iPhone 16 Microphone to Boost Siri AI Experience</title>
+		<link>https://www.macrumors.com/2023/12/07/apple-iphone-16-microphone-upgrade-siri-ai/</link>
+		<comments>https://forums.macrumors.com/threads/kuo-apple-upgrading-iphone-16-microphone-to-boost-siri-ai-experience.2413044/</comments>
+		<pubDate>Thu, 07 Dec 2023 01:07:39 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/07/apple-iphone-16-microphone-upgrade-siri-ai/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>iPhone 16</category>
+		<category>iPhone 16 Pro</category>
+		<category>Ming-Chi Kuo</category>
+		
+
+		<description><![CDATA[Apple plans a significant upgrade to the iPhone 16 microphone to improve the new AI-enhanced Siri experience, according to Apple analyst Ming-Chi Kuo.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-16-Side-Feature.jpg" alt="" width="3532" height="1986" class="aligncenter size-full wp-image-913689" /><br/>
+Writing in his <a href="https://medium.com/@mingchikuo/瑞聲科技與歌爾股份為ai-iphone的領先受益者-aac-and-goertek-are-ai-iphones-leading-beneficiaries-1ec29ee45e42">latest Medium post</a>, Kuo says that "strengthening Siri's hardware and software features and specifications is the key to promoting AI-generated content," adding that Apple's generative AI ambitions and integration of large-language models (LLMs) into Siri will heavily rely on improved voice input processing. <br/>
+<br/>
+To that end, Apple is preparing a major microphone upgrade for the iPhone 16, with better signal-to-noise ratio a key specification that will "improve the Siri experience significantly," says Kuo. The new microphone will also have better water resistance. <br/>
+<br/>
+The upgrade corroborates other reports suggesting Apple plans to make enhanced Siri features a key selling point of the iPhone 16. New Siri features <a href="https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/">powered by LLMs</a> are expected in iOS 18, and Kuo's report notes that Apple reorganized its Siri team in the third quarter of this year to integrate generative AI and LLMs. However, Kuo's predictions also add weight to rumors that additional on-device AI features could remain <a href="https://www.macrumors.com/2023/11/09/iphone-16-exclusive-ai-features-ios-18/">exclusive to the iPhone 16 models</a>.<br/>
+<br/>
+According to the analyst's latest survey, AAC and Goertek are the microphone suppliers for the iPhone 16, and will benefit equally from the specification upgrade. "The ASP of microphones for each iPhone 16 will be at least 100–150% higher than that of the iPhone 15," says Kuo. "As a result, AAC's and Goertek's revenues and earnings are expected to benefit significantly from this upgrade."<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/07/apple-iphone-16-microphone-upgrade-siri-ai/">Kuo: Apple Upgrading iPhone 16 Microphone to Boost Siri AI Experience</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-apple-upgrading-iphone-16-microphone-to-boost-siri-ai-experience.2413044/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Anker&#039;s Qi2 Chargers Will Charge iPhones at 15W</title>
@@ -561,85 +640,6 @@ Stray asks players to solve puzzles, bypass obstacles, and complete quests while
 Since the main character is a cat, players can sneak, sleep, meow at robots, and nuzzle up to NPCs. Stray is limited to Apple silicon Macs, and it uses Metal Upscaling for accelerated graphics performance and high-quality visuals.<br/>
 <br/>
 Stray can be <a href="https://apps.apple.com/us/app/stray/id6451498949?mt=12">downloaded from the Mac App Store</a> for &#36;30.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/stray-apple-silicon-macs/">Popular Adventure Game &#039;Stray&#039; Now Available for Apple Silicon Macs</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/popular-adventure-game-stray-now-available-for-apple-silicon-macs.2412922/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s First iPhone SE Now Considered Vintage</title>
-		<link>https://www.macrumors.com/2023/12/05/apple-original-iphone-se-vintage/</link>
-		<comments>https://forums.macrumors.com/threads/apples-first-iphone-se-now-considered-vintage.2412918/</comments>
-		<pubDate>Tue, 05 Dec 2023 14:00:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/apple-original-iphone-se-vintage/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Apple today added the original <a href="https://www.macrumors.com/roundup/iphone-se/">iPhone SE</a> to its <a href="https://support.apple.com/en-us/HT201624">vintage and obsolete products list</a>. The first version of the &zwnj;iPhone SE&zwnj; came out in March 2016, which means it has been seven years since it launched.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/iphone-se-2016.jpg" alt="" width="1500" height="844" class="aligncenter size-full wp-image-925333" /><br/>
-The &zwnj;iPhone SE&zwnj; was sold until September 2018, so it has been five years since it was last available for sale, making it eligible for Apple's vintage designation. Products are marked as vintage five years after the device was last sold by Apple, while products are marked as obsolete at the seven year point.<br/>
-<br/>
-Vintage devices are not guaranteed to be eligible for repairs through Apple or Apple Authorized Service Providers, though Apple will offer repairs if the parts are available.<br/>
-<br/>
-Apple has continued on with the &zwnj;iPhone SE&zwnj; line, and today, it continues to be the only <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> that has a <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> fingerprint sensor. There have been three generations released to date, with the &zwnj;iPhone SE&zwnj; 3 introduced in March 2022.<br/>
-<br/>
-Apple today has also marked the second-generation 12.9-inch <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> as vintage, as well as the special edition Mickey Solo3 Wireless headphones. The Powerbeats 2 and Solo2 Wireless headphones are now considered obsolete.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/apple-original-iphone-se-vintage/">Apple&#039;s First iPhone SE Now Considered Vintage</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-first-iphone-se-now-considered-vintage.2412918/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 17.2 Fixes Bug Preventing Wireless Charging From Working in Some Vehicles</title>
-		<link>https://www.macrumors.com/2023/12/05/ios-17-2-wireless-charging-bug-fix/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-2-fixes-bug-preventing-wireless-charging-from-working-in-some-vehicles.2412907/</comments>
-		<pubDate>Tue, 05 Dec 2023 12:26:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/ios-17-2-wireless-charging-bug-fix/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[iOS 17.2 addresses a bug that was preventing some iPhones from wirelessly charging on the wireless charging pads included in some vehicles, according to Apple's release notes for the iOS 17.2 RC <a href="https://www.macrumors.com/2023/12/05/apple-seeds-ios-17-2-rc-to-developers/">that came out today</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/03/pacifica-2021-wireless-charging.jpg" alt="" width="1600" height="1005" class="aligncenter size-full wp-image-788160" /><br/>
-There <a href="https://www.macrumors.com/2023/11/16/iphone-15-gm-charging-issue/">have been multiple complaints</a> from <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> owners who have had charging issues in their Chevrolet, Cadillac, and Buick vehicles. In some of these cars, an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> placed on the wireless charging pad would either not charge at all or start to charge and then stop.<br/>
-<br/>
-Most of the complaints were from &zwnj;iPhone 15&zwnj; owners, and came after the iOS 17.1 update. General Motors said in November that it was aware of an issue and investigating the problem.<br/>
-<br/>
-This is the second charging-related bug fix that Apple has implemented in recent weeks. The <a href="https://www.macrumors.com/2023/11/07/apple-releases-ios-17-1-1/">iOS 17.1.1 update</a> that came out in early November addressed an issue that caused some &zwnj;iPhone 15&zwnj; models charged in BMW vehicles to lose NFC functionality.<br/>
-<br/>
-iOS 17.2 is expected to see a public release next week. The update also adds the Journal app, a Translate Action button option for <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models, new features in Messages, Weather and Clock widgets, <a href="https://www.macrumors.com/2023/12/05/apple-seeds-ios-17-2-rc-to-developers/">and more</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/ios-17-2-wireless-charging-bug-fix/">iOS 17.2 Fixes Bug Preventing Wireless Charging From Working in Some Vehicles</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-2-fixes-bug-preventing-wireless-charging-from-working-in-some-vehicles.2412907/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases New AirPods Pro 2 Firmware</title>
-		<link>https://www.macrumors.com/2023/12/05/apple-releases-new-airpods-pro-2-firmware-6b34/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-firmware.2412901/</comments>
-		<pubDate>Tue, 05 Dec 2023 11:28:24 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/05/apple-releases-new-airpods-pro-2-firmware-6b34/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>AirPods Pro</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple today released new firmware update for both the Lightning and USB-C versions of the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2. The new firmware is version 6B34, up from the <a href="https://www.macrumors.com/2023/11/09/airpods-pro-2-firmware-6b32/">6B32 firmware</a> introduced in November.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-867348" src="https://images.macrumors.com/article-new/2022/09/airpods-pro-2-pink.jpg" alt="" width="2500" height="1406" /><br/>
-Apple does not provide details on what features might be included in the refreshed firmware beyond "bug fixes and other improvements," so it is unclear what's new in the update, but prior software releases have been refining functionality introduced in <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> such as Adaptive Audio.<br/>
-<br/>
-Apple does not give customers instructions on how to upgrade AirPods software, but firmware is generally installed over-the-air while the ‌‌AirPods‌‌ are connected to an iOS device. Putting the ‌‌‌‌‌AirPods‌‌‌‌‌ in the case, connecting the ‌‌‌‌‌AirPods‌‌‌‌‌ to a power source, and then pairing the ‌‌‌‌‌AirPods‌‌‌‌‌ to an iOS device or Mac should force the update.<br/>
-<br/>
-You can check your ‌‌‌AirPods‌‌ firmware by following these steps:<br/>
-<ul><br/>
- 	<li>Connect your ‌‌‌‌‌‌&zwnj;AirPods Pro&zwnj;‌‌‌‌‌‌ to your iOS device.</li><br/>
- 	<li>Open the Settings app.</li><br/>
- 	<li>Tap General.</li><br/>
- 	<li>Tap About.</li><br/>
- 	<li>Tap ‌‌‌‌‌AirPods‌‌‌‌‌.</li><br/>
- 	<li>Look at the number next to "Firmware Version."</li><br/>
-</ul><br/>
-If we learn more about what's new in the firmware release, we'll update this article.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/05/apple-releases-new-airpods-pro-2-firmware-6b34/">Apple Releases New AirPods Pro 2 Firmware</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-firmware.2412901/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
