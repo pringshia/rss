@@ -14,12 +14,92 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Fri, 08 Dec 2023 12:03:05 PST</lastBuildDate>
+	<lastBuildDate>Fri, 08 Dec 2023 16:11:24 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Computer Check Signed by Steve Jobs Sells for &#36;46,000</title>
+		<link>https://www.macrumors.com/2023/12/08/steve-jobs-apple-check-auction/</link>
+		<comments>https://forums.macrumors.com/threads/apple-computer-check-signed-by-steve-jobs-sells-for-46-000.2413219/</comments>
+		<pubDate>Fri, 08 Dec 2023 15:13:43 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/08/steve-jobs-apple-check-auction/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[A check signed by former Apple CEO and co-founder Steve Jobs <a href="https://www.rrauction.com/auctions/lot-detail/348161106800099-steve-jobs-signed-apple-computer-company-check-to-radioshack-july-23-1976/">sold for &#36;46,063</a> at auction this week. Issued by "Apple Computer Company" in 1976, the &#36;4.01 check was made out to electronics retailer RadioShack.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/steve-jobs-check.jpg" alt="" width="2000" height="1062" class="aligncenter size-full wp-image-925189" /><br/>
+Jobs filled out the check on July 23, 1976, which was the time that he and Steve Wozniak were working on the Apple-1 computer. The two produced approximately 200 Apple-1 machines, 50 of which were sold to The Byte Shop in July 1976 and retailed for &#36;666.66.<br/>
+<br/>
+The RadioShack check lists a Palo Alto address for an answering service and mail drop off point that Jobs used while Apple was being run out of his parents' garage.<br/>
+<br/>
+RR Auction expected the check to sell for at least &#36;25,000, but it sold for more. Apple and Steve Jobs memorabilia has been fetching higher and higher prices in recent years.<br/>
+<br/>
+Another check signed by Steve Jobs was put <a href="https://www.sothebys.com/en/buy/auction/2023/history-of-science-technology-including-natural-history/jobs-steven-apple-computer-co">up for auction this week by Sothebys</a>, and it too could sell for upwards of &#36;40,000. The check predates Apple's April 1, 1976 founding date as it was written on March 28, 1976. It is one of a handful of checks issued to Jobs and Wozniak ahead of when they received their custom-printed Apple Computer Company checkbook.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/08/steve-jobs-apple-check-auction/">Apple Computer Check Signed by Steve Jobs Sells for &#36;46,000</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-computer-check-signed-by-steve-jobs-sells-for-46-000.2413219/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Puts a Stop to Beeper Mini&#039;s iMessage for Android Feature</title>
+		<link>https://www.macrumors.com/2023/12/08/beeper-mini-imessage-for-android-shutdown/</link>
+		<comments>https://forums.macrumors.com/threads/apple-puts-a-stop-to-beeper-minis-imessage-for-android-feature.2413215/</comments>
+		<pubDate>Fri, 08 Dec 2023 14:24:04 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/08/beeper-mini-imessage-for-android-shutdown/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple appears to have closed the loophole that Beeper Mini used to <a href="https://www.macrumors.com/2023/12/05/beeper-mini-brings-imessage-to-android/">bring iMessage to Android</a>, putting a stop to blue bubbles from Android devices. Beeper Mini quit working earlier today, with users receiving "failed to lookup on server: lookup request timed out" error messages.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/beeper-mini.jpg" alt="" width="1200" height="800" class="aligncenter size-full wp-image-925247" /><br/>
+Beeper said on Twitter that it is <a href="https://twitter.com/onbeeper/status/1733223640270082501">investigating the issue</a>, but Beeper CEO Eric Migicovsky told <em><a href="https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/">TechCrunch</a></em> that "all data" suggests that Apple has in fact found a way to stop Beeper Mini from working.<br/>
+<br/>
+Introduced on Tuesday, Beeper Mini used <a href="https://blog.beeper.com/p/how-beeper-mini-works">reverse engineered iMessage protocols</a> and encryption, taking advantage of Apple's own iMessage servers to allow Android users to send blue bubble iMessages to <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users. The app supported all iMessage functionality, including read receipts, typing indicators, reactions, and more.<br/>
+<br/>
+<div class="center-wrap"><iframe title="iMessage for Android is Here Right Now Beeper Mini" src="https://www.youtube.com/embed/B19HBmw0gKU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+Beeper Mini did not require an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a>, a departure from other, less secure iMessage on Android apps <a href="https://www.macrumors.com/2023/11/22/sunbird-shuts-down-android-imessage-app/">like Sunbird</a>. The way Beeper Mini functioned was <a href="https://blog.beeper.com/p/how-beeper-mini-works">explained in-depth</a> in a blog post, giving Apple insight into how it worked. Beeper Mini was using reverse engineering from security researcher jjtech, who also <a href="https://jjtech.dev/reverse-engineering/imessage-explained/">outlined his methodology</a> and shared a proof-of-concept iMessage implementation on Github.<br/>
+<br/>
+The app communicated directly with Apple's iMessage servers, and registered the phone numbers of Beeper users as iMessage users to allow for blue bubble access. After Beeper Mini's launch, there was immediate speculation that Apple would shut it down, but it was not clear if Apple would be able to do so given the way that it mimicked actual iMessage users. <br/>
+<br/>
+Apple appears to have found a way, so this could be the end of Beeper Mini. Migicovsky told <em>TechCrunch</em> that the company will "evaluate options" to figure out what it means for the future of the app.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/08/beeper-mini-imessage-for-android-shutdown/">Apple Puts a Stop to Beeper Mini&#039;s iMessage for Android Feature</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-puts-a-stop-to-beeper-minis-imessage-for-android-feature.2413215/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple&#039;s Hardware Engineering Group Faces Restructuring as iPhone Product Design VP Departs</title>
+		<link>https://www.macrumors.com/2023/12/08/iphone-product-design-vp-leaves-apple/</link>
+		<comments>https://forums.macrumors.com/threads/apples-hardware-engineering-group-faces-restructuring-as-iphone-product-design-vp-departs.2413201/</comments>
+		<pubDate>Fri, 08 Dec 2023 12:16:06 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/08/iphone-product-design-vp-leaves-apple/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Bloomberg</category>
+		<category>Mark Gurman</category>
+		
+
+		<description><![CDATA[Apple vice president of <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and Apple Watch product design Tang Tan is departing the company in a move that will lead to changes in the hardware engineering group, reports <em><a href="https://www.bloomberg.com/news/articles/2023-12-08/apple-s-iphone-and-watch-product-design-chief-to-leave-in-shake-up">Bloomberg</a></em>. Tan, who reports to Apple's senior vice president of hardware engineering John Ternus, is set to leave Apple in February.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-General-Feature-Green.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-912516" /><br/>
+Tan's exit from the company will see several employees that work under Ternus and Tan receiving expanded roles. Head of &zwnj;iPhone&zwnj; product design Richard Dinh will take over &zwnj;iPhone&zwnj; development for Tan and will report directly to Ternus, while Mac hardware engineering vice president Kate Bergeron will handle Apple Watch design.<br/>
+<br/>
+Tan also oversaw accessory design and the acoustics team that develops the AirPods, with those two groups being handed over to Matthew Costello, the former chief operating officer of Beats. Costello is in already in charge of Beats and the <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a>.<br/>
+<br/>
+Apple employees that spoke to <em>Bloomberg</em> have called Tan's departure "a blow" because he is responsible for making critical decisions about the &zwnj;iPhone&zwnj;, Apple Watch, and AirPods. His team has control over product features and design.<br/>
+<br/>
+News of Tan's departure comes just a few days after <em>Bloomberg</em> reported that Steve Hotelling, an Apple hardware VP, <a href="https://www.macrumors.com/2023/12/07/executive-behind-hardware-technologies-retires/">is set to retire</a>. Hotelling leads the camera engineering team and has worked on <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a>, <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>, haptic feedback, ProMotion, and other key Apple technologies.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/08/iphone-product-design-vp-leaves-apple/">Apple&#039;s Hardware Engineering Group Faces Restructuring as iPhone Product Design VP Departs</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-hardware-engineering-group-faces-restructuring-as-iphone-product-design-vp-departs.2413201/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Seeds Second tvOS 17.2 Release Candidate to Developers</title>
@@ -511,84 +591,6 @@ This update also includes the following new features:<br/>
 <br/>
 For detailed information about the security content of this update, please visit: https://support.apple.com/kb/HT201222</blockquote><br/>
 Apple is expected to release &zwnj;macOS Sonoma&zwnj; 14.2 next week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/07/apple-seeds-macos-sonoma-14-2-rc-2/">Apple Seeds Second macOS Sonoma 14.2 Release Candidate to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-macos-sonoma-14-2-release-candidate-to-developers.2413090/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Promotes iCloud&#039;s Advanced End-to-End Encryption Feature as Data Breaches Increase</title>
-		<link>https://www.macrumors.com/2023/12/07/apple-promotes-advanced-data-protection/</link>
-		<comments>https://forums.macrumors.com/threads/apple-promotes-iclouds-advanced-end-to-end-encryption-feature-as-data-breaches-increase.2413079/</comments>
-		<pubDate>Thu, 07 Dec 2023 08:00:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/07/apple-promotes-advanced-data-protection/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Security</category>
-		<category>Advanced Data Protection</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2023/12/report-2-point-6-billion-records-compromised-by-data-breaches-in-past-two-years/">shared a study</a> conducted by MIT professor Dr. Stuart Madnick that found 2.6 billion personal records were compromised by data breaches in the past two years. The study was commissioned by Apple, but the cover page says that the "conclusions and opinions expressed are exclusively those of the author."<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/12/Apple-advanced-security-Advanced-Data-Protection_screen-Feature-Purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-876840" /><br/>
-Apple provided an overview of the study in its press release:<blockquote>The report illustrates that the historic threats to user data that saw the number of data breaches nearly triple between 2013 and 2022, compromising 2.6 billion records over the course of two years, are only getting worse in 2023. In the U.S. alone, there were nearly 20 percent more breaches in just the first nine months of 2023 than in any prior year. The target for cybercriminals was very clear, with a 2023 survey finding that over 80 percent of breaches involved data stored in the cloud. This is after attacks targeting cloud infrastructure nearly doubled from 2021 to 2022.</blockquote>Additional details can be found in the study: "<a href="https://www.apple.com/newsroom/pdfs/The-Continued-Threat-to-Personal-Data-Key-Factors-Behind-the-2023-Increase.pdf">The Continued Threat to Personal Data: Key Factors Behind the 2023 Increase.</a>"<br/>
-<br/>
-Apple says the study's findings emphasize the need for end-to-end encryption, which iCloud already provides for 14 data categories by default. For users looking for additional protection, Apple offers an optional feature called <a href="https://www.macrumors.com/2023/01/18/ios-16-3-advanced-data-protection-global/">Advanced Data Protection</a>, which increases the number of iCloud data categories covered by end-to-end encryption to 23, including iCloud Backup, Notes, Photos, Voice Memos, and more.<ul><li><a href="https://www.macrumors.com/how-to/enable-advanced-data-protection-icloud/">How to Enable End-to-End Encryption for iCloud Backups</a></li></ul>"Bad actors continue to pour enormous amounts of time and resources into finding more creative and effective ways to steal consumer data, and we won't rest in our efforts to stop them," said Apple's software engineering chief Craig Federighi.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-security/">Apple Security</a>, <a href="https://www.macrumors.com/guide/advanced-data-protection/">Advanced Data Protection</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/07/apple-promotes-advanced-data-protection/">Apple Promotes iCloud&#039;s Advanced End-to-End Encryption Feature as Data Breaches Increase</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-promotes-iclouds-advanced-end-to-end-encryption-feature-as-data-breaches-increase.2413079/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Anker Begins Countdown to Christmas Sale With Up to 50% Off Popular Charging Accessories</title>
-		<link>https://www.macrumors.com/2023/12/07/anker-countdown-to-christmas/</link>
-		<comments>https://forums.macrumors.com/threads/anker-begins-countdown-to-christmas-sale-with-up-to-50-off-popular-charging-accessories.2413078/</comments>
-		<pubDate>Thu, 07 Dec 2023 07:55:53 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/07/anker-countdown-to-christmas/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Anker has launched its <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fchristmas-sale%3Fref%3DmasterBanner1">newest holiday sale</a>, this one offering a special deal every day in the lead-up to Christmas. These sales offer up to 50 percent off select products, and include discounts on USB-C chargers, portable batteries, and much more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/anker-new-gold.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-922736" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Today's exclusive offer is a free gift on orders worth &#36;99 or more. This one will expire later tonight and be replaced by an unknown sale tomorrow, so be sure to shop soon if you want a free gift added to your order. Additionally, Anker is offering exclusive holiday packaging on the <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fcelebrate-the-holidays-with-anker-737-power-bank-powercore-24k%3Fvariant%3D42923622531222%26ref%3Dchristmas-sale">PowerCore 24,000 mAh Power Bank with Smart Digital Display</a> and the <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fanker-622-magnetic-battery-maggo-perfect-for-the-holiday-season%3Fvariant%3D42923622957206%26ref%3Dchristmas-sale">MagGo Portable Battery</a>.<br/>
-<br/>
-In addition to the deals on Anker.com, we're also tracking a few <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fstores%2Fpage%2F2A25B7A1-3EFE-419E-B3A6-3BD8FF119DAD%3Fingress%3D2%26visitId%3D0c5bd76b-6428-4b95-b3fa-6509a0cd9c50%26ref_%3Dast_bln">discounts for Anker accessories on Amazon</a>. These include wall chargers, cables, and the new <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Foldable-Connector-Portable-Charger%2Fdp%2FB0C6XLMQNZ%3Fref_%3Dast_sto_dp%26th%3D1">Nano Power Bank with Built-In USB-C Connector</a> for iPhone 15 devices at &#36;20.99, down from &#36;29.99.<br/>
-<br/>
-<div class="center-wrap"><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fchristmas-sale%3Fref%3DmasterBanner1"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 50% OFF</div>Anker's Countdown to Christmas Sale</div></a></div><h2>Portable Batteries</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Foldable-Connector-Portable-Charger%2Fdp%2FB0C6XLMQNZ%3Fref_%3Dast_sto_dp%26th%3D1">Nano Power Bank with Built-In USB-C Connector</a> - &#36;20.99, down from &#36;29.99</li><br/>
-<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa1259-built-in-cable-power-bank-10000mah%3Fvariant%3D42733233766550%26ref%3Dchristmas-sale">Nano Power Bank with Built-In USB-C Cable</a> - &#36;40.00, down from &#36;49.99</li><br/>
-<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa1335-130w-power-bank%3Fvariant%3D42691850797206%26ref%3Dchristmas-sale">Prime 12,000 mAh Power Bank with Smart Digital Display</a> - &#36;72.00, down from &#36;89.99</li><br/>
-<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https://www.anker.com/products/a1336-20000mah-power-bank?variant=42691854925974&amp;ref=christmas-sale">Prime 20,000 mAh Power Bank with Smart Digital Display</a> - &#36;104.00, down from &#36;129.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Portable-Generator-UltraFast-Optional%2Fdp%2FB0C5C89QKZ%3Fref_%3Dast_sto_dp%26th%3D1">SOLIX Portable Power Station</a> - &#36;649.00 with on-page coupon, down from &#36;999.00</li></ul><br/>
-<h2>Wireless Chargers</h2><br/>
-<ul><li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fy1811%3Fvariant%3D42206465327254%26ref%3Dchristmas-sale">3-in-1 Cube with MagSafe</a> - &#36;142.46, down from &#36;149.95</li></ul><br/>
-<h2>Wall Chargers</h2><br/>
-<ul><li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa2637%3Fvariant%3D42621670490262%26ref%3Dchristmas-sale">Nano Pro USB-C Wall Charger</a> - &#36;11.90, down from &#36;13.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charging-Station-Undetachable-Extension%2Fdp%2FB0C5QY4BL2%3Fref_%3Dast_sto_dp%26th%3D1">6-in-1 USB-C Power Strip</a> - &#36;45.99, down from &#36;65.99</li><br/>
-<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa2669-3-port-wall-charger%3Fvariant%3D42691852435606%26ref%3Dchristmas-sale">67W 3-Port GaN Wall Charger</a> - &#36;49.99, down from &#36;59.99</li><br/>
-<li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa2343-100w-usb-c-charger%3Fvariant%3D42691851911318%26ref%3Dchristmas-sale">100W 3-Port GaN Wall Charger</a> - &#36;69.99, down from &#36;84.99</li></ul><br/>
-<h2>Docks</h2><br/>
-<ul><li><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa2342-240w-gan-charger%3Fvariant%3D42691851550870%26ref%3Dchristmas-sale">240W 4-Port GaN Desktop Charger</a> - &#36;129.99, down from &#36;159.99</li></ul> Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/07/anker-countdown-to-christmas/">Anker Begins Countdown to Christmas Sale With Up to 50% Off Popular Charging Accessories</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/anker-begins-countdown-to-christmas-sale-with-up-to-50-off-popular-charging-accessories.2413078/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Executive Behind Breakthrough Hardware Technologies to Retire</title>
-		<link>https://www.macrumors.com/2023/12/07/executive-behind-hardware-technologies-retires/</link>
-		<comments>https://forums.macrumors.com/threads/apple-executive-behind-breakthrough-hardware-technologies-to-retire.2413066/</comments>
-		<pubDate>Thu, 07 Dec 2023 06:30:27 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/07/executive-behind-hardware-technologies-retires/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Bloomberg</category>
-		<category>Mark Gurman</category>
-		
-
-		<description><![CDATA[The Apple executive responsible for the company's multitouch technology, health sensors, <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>, and <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> is set to retire from the company, <a href="https://www.bloomberg.com/news/articles/2023-12-06/apple-aapl-executive-who-invented-iphone-multitouch-and-touch-id-leaving"><em>Bloomberg</em></a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/10/ipad-air-touch-id-feature.jpg" alt="" width="1900" height="1069" class="alignnone size-full wp-image-762557" /><br/>
-Steve Hotelling currently works as a vice president reporting to senior vice president of hardware technologies Johny Srouji. During his tenure, Hotelling significantly contributed to the development of some of Apple's most innovative and complex technologies used in the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, Apple Watch, and Vision Pro headset. Hotelling's name appears on hundreds of patents, including filings related to multitouch displays and &zwnj;Touch ID&zwnj;. <br/>
-<br/>
-Hotelling led the company's camera engineering team and was involved in the development of custom sensors. His work oversaw the development of the depth-sensing technologies crucial for augmented reality experiences and components fundamental to haptic feedback and ProMotion displays.<br/>
-<br/>
-Hotelling has also been a prominent representative for Apple in numerous legal trials throughout his two decades with the company. He was a key figure in a patent case against Samsung in the last decade and recently served as a crucial witness in a <a href="https://www.macrumors.com/guide/masimo/">trial involving Masimo</a>, which sued Apple over patents <a href="https://www.macrumors.com/2020/09/29/masimo-apple-delaying-lawsuit-apple-watch/">related to health sensors</a>.<br/>
-<br/>
-Despite the significance of his departure, Apple has not yet shared an official statement regarding Hotelling's retirement. His responsibilities are apparently being distributed among several of Srouji's direct reports, with Alan Gilchrist taking over the management of the camera and depth sensor teams, and Wei Chen taking over display technologies. Apple's hardware technologies group continues work on a custom 5G cellular modem, new wireless chips, microLED displays, and a non-invasive blood sugar sensor.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/07/executive-behind-hardware-technologies-retires/">Apple Executive Behind Breakthrough Hardware Technologies to Retire</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-executive-behind-breakthrough-hardware-technologies-to-retire.2413066/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
