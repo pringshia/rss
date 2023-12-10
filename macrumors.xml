@@ -14,12 +14,65 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Sun, 10 Dec 2023 00:03:40 PST</lastBuildDate>
+	<lastBuildDate>Sun, 10 Dec 2023 04:04:02 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Confirms It Shut Down iMessage for Android App Beeper Mini</title>
+		<link>https://www.macrumors.com/2023/12/10/apple-confirms-it-shut-down-beeper-mini/</link>
+		<comments>https://forums.macrumors.com/threads/apple-confirms-it-shut-down-imessage-for-android-app-beeper-mini.2413305/</comments>
+		<pubDate>Sun, 10 Dec 2023 03:44:22 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/10/apple-confirms-it-shut-down-beeper-mini/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>iMessage</category>
+		
+
+		<description><![CDATA[Apple today confirmed that it took steps to <a href="https://www.macrumors.com/2023/12/08/beeper-mini-imessage-for-android-shutdown/">shut down the functionality</a> of Beeper Mini, an app that enabled Android users to <a href="https://www.macrumors.com/2023/12/05/beeper-mini-brings-imessage-to-android/">send and receive iMessages</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/beeper-mini.jpg" alt="" width="1200" height="800" class="alignnone size-full wp-image-925247" /><br/>
+Apple emphasized its commitment to user privacy and security, explaining that the move was necessitated by the potential risks Beeper Mini's techniques posed, including metadata exposure and susceptibility to spam and phishing attacks. Apple's full statement shared with <a href="https://www.theverge.com/2023/12/9/23995150/beeper-imessage-android-apple-statement"><em>The Verge</em></a> and other news sites is as follows:<blockquote>At Apple, we build our products and services with industry-leading privacy and security technologies designed to give users control of their data and keep personal information safe. We took steps to protect our users by blocking techniques that exploit fake credentials in order to gain access to iMessage. These techniques posed significant risks to user security and privacy, including the potential for metadata exposure and enabling unwanted messages, spam, and phishing attacks. We will continue to make updates in the future to protect our users. </blockquote>Beeper Mini operated by intercepting the iMessage protocol using Apple's own push notification service, convincing Apple's servers it was an authentic Apple device. This method, according to Apple, involved the use of "fake credentials," which posed significant security and privacy risks to users. Beeper claims that its process worked with no compromises to encryption or privacy, and the company's documentation says that nobody can read the content of sent messages other than the sender and its recipient, but Apple was unable to verify this and says it posed risks to users.<br/>
+<br/>
+Following Apple's statement, Beeper CEO Eric Migicovsky expressed his willingness to cooperate with Apple for a security review of Beeper's code to <em>The Verge</em>. He emphasized the importance of secure communication channels between <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and Android users, challenging Apple's decision by highlighting the inadequacies of unencrypted SMS for cross-platform messaging. Despite Apple's firm stance, Migicovsky remains committed to exploring solutions that could enable the return of Beeper Mini or similar services.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/imessage/">iMessage</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/10/apple-confirms-it-shut-down-beeper-mini/">Apple Confirms It Shut Down iMessage for Android App Beeper Mini</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-confirms-it-shut-down-imessage-for-android-app-beeper-mini.2413305/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Pro Display XDR Turns Four Years Old: When to Expect a New Model</title>
+		<link>https://www.macrumors.com/2023/12/10/next-pro-display-xdr-rumor-recap/</link>
+		<comments>https://forums.macrumors.com/threads/pro-display-xdr-turns-four-years-old-when-to-expect-a-new-model.2413301/</comments>
+		<pubDate>Sun, 10 Dec 2023 03:00:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/10/next-pro-display-xdr-rumor-recap/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Displays</category>
+		
+
+		<description><![CDATA[Apple began accepting orders for the <a href="https://www.macrumors.com/roundup/displays/">Pro Display XDR</a> on <a href="https://www.macrumors.com/2019/12/07/apple-releasing-mac-pro-december-10/">December 10, 2019</a>, making the high-end monitor four years old as of today. The monitor has not been updated since, but there have been rumors about a new model being in the works.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/05/Pro-Display-XDR-Yella.jpg" alt="" width="2590" height="1456" class="aligncenter size-full wp-image-743451" /><br/>
+Below, we recap all of the rumors about a potential next-generation Pro Display XDR so far.<br/>
+<br/>
+<h2>New Pro Display XDR</h2><br/>
+In December 2022, <em>Bloomberg</em>'s Mark Gurman said Apple was <a href="https://www.macrumors.com/2022/12/18/updated-pro-display-xdr-gurman/">working on multiple new monitors</a>, including an updated Pro Display XDR equipped with an Apple silicon chip. Apple's lower-priced Studio Display has an A13 Bionic chip that enables features like Center Stage, spatial audio, and "Siri"/"Hey Siri" voice commands.<br/>
+<br/>
+In July 2023, Gurman reiterated that Apple was still working on multiple next-generation monitors for release in 2024 at the very earliest. He said at least one of these monitors <a href="https://www.macrumors.com/2023/07/03/gurman-apple-monitor-smart-home-display/">could double as a smart home display</a> in a low-power state.<br/>
+<br/>
+While no other features have been rumored yet for the next Pro Display XDR, some additions that customers are hoping for include a webcam, speakers, and a higher refresh rate. The current model features a 32-inch screen with LED backlighting, a 6K resolution, a 60Hz refresh rate, one Thunderbolt 3 port, and three USB-C ports.<br/>
+<br/>
+The current Pro Display XDR starts at &#36;4,999 in the U.S., but the Pro Stand costs &#36;999 extra.<br/>
+<br/>
+<h2>Larger iMac</h2><br/>
+While it would be a different product, the rumored 32-inch iMac would have some similarities to the Pro Display XDR, including the same display size.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/01/iMac-Pro-2022-27-and-24-iMac.jpg" alt="" width="1626" height="914" class="aligncenter size-full wp-image-833952" /><br/>
+In October 2023, both Gurman and Apple supply chain analyst Ming-Chi Kuo said Apple was <a href="https://www.macrumors.com/2023/10/23/new-32-inch-imac-pro-expected-2024-or-2025/">developing a 32-inch iMac for release in late 2024 or in 2025</a>. Kuo said the larger iMac's screen <a href="https://www.macrumors.com/2023/10/17/32-inch-imac-coming-in-2025/">would feature mini-LED backlighting</a>.<br/>
+<br/>
+The following month, Apple confirmed that it has <a href="https://www.macrumors.com/2023/11/06/no-27-inch-with-apple-silicon/">no plans to release a 27-inch iMac with an Apple silicon chip</a>. Apple discontinued the Intel-based 27-inch iMac in March 2022. For customers who want a large-screened desktop setup, Apple has recommended pairing the 27-inch Studio Display with a Mac Studio or Mac mini. Apple did not explicitly rule out the possibility of a 32-inch iMac being released in the future.<br/>
+<br/>
+In the meantime, the 24-inch iMac was <a href="https://www.macrumors.com/2023/11/27/m3-imac-review/">recently updated with the M3 chip</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/displays/">Apple Pro Display XDR</a>, <a href="https://www.macrumors.com/roundup/studio-display/">Apple Studio Display</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-accessories.77">Mac Accessories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/10/next-pro-display-xdr-rumor-recap/">Pro Display XDR Turns Four Years Old: When to Expect a New Model</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/pro-display-xdr-turns-four-years-old-when-to-expect-a-new-model.2413301/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Top Stories: iOS 17.2 Coming Soon, New iPads in Early 2024, and More</title>
@@ -605,55 +658,6 @@ Due to his position, Levoff was given access to Apple's earnings results before 
 Levoff last June <a href="https://www.macrumors.com/2022/07/01/former-apple-lawyer-pleads-guilty-insider-trading/">pleaded guilty</a> to six counts of securities fraud for insider trading, and his sentencing took place today. In addition to four years probation, Levoff will pay approximately &#36;604,000.<br/>
 <br/>
 Federal prosecutors argued that Levoff should be sent to prison for insider trading to deter other corporate executives from committing a similar crime, but the judge overseeing the case said that he didn't feel it was necessary because Levoff lost his job and will no longer be able to practice law.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/07/former-apple-lawyer-insider-trading-no-prison/">Former Apple Lawyer Gene Levoff Avoids Prison After Insider Trading Conviction</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/former-apple-lawyer-gene-levoff-avoids-prison-after-insider-trading-conviction.2413116/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Review: Two Months With the iPhone 15 Pro Max</title>
-		<link>https://www.macrumors.com/2023/12/07/iphone-15-pro-max-two-month-review/</link>
-		<comments>https://forums.macrumors.com/threads/review-two-months-with-the-iphone-15-pro-max.2413103/</comments>
-		<pubDate>Thu, 07 Dec 2023 12:04:30 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/07/iphone-15-pro-max-two-month-review/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15 Pro</category>
-		
-
-		<description><![CDATA[Apple's <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> lineup came out in September, and while most reviews are done shortly after a new device launches, we like to follow up with a longer term review that gives us an opportunity to provide a deeper dive into what it's like using these phones on a day to day basis for months.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height=315" src="https://www.youtube.com/embed/drJNofd3gtk" title="iPhone 15 Pro Max Long Term Review: Still Worth It 2 Months Later?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-<em>MacRumors</em> videographer Dan Barbera has been using his <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max without a case to test durability, and the titanium frame has been holding up much better than stainless steel. Even after some minor drops, there are no scratches or scuffs to speak of.<br/>
-<br/>
-There were reports of overheating early on with the &zwnj;iPhone 15 Pro&zwnj; models, but Apple has addressed this in software updates. The &zwnj;iPhone 15 Pro&zwnj; stays cool to the touch for the most part, even when playing games. It can heat up when charging at random times, but it's not a consistent issue.<br/>
-<br/>
-Battery life is about on par with the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> Pro Max battery life, and there doesn't seem to be much of an improvement.<br/>
-<br/>
-With the &zwnj;iPhone 15 Pro&zwnj; models, Apple added an Action Button, and , well, it's not getting much use. It's hard to get in the habit of using a new button for things that we've done for years using other workflows.<br/>
-<br/>
-As for the camera, the best feature by far is the automatic portrait mode that lets you adjust focus after an image is captured without having to turn on Portrait mode. It's fun to use, and you can tap on each subject in the photo to change the focus from the foreground to the background. The 5x Telephoto lens is also a useful addition.<br/>
-<br/>
-Make sure to watch our full video for more thoughts on the &zwnj;iPhone 15 Pro&zwnj; Max, and let us know how it's performed for you over the last two months if you have one.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/07/iphone-15-pro-max-two-month-review/">Review: Two Months With the iPhone 15 Pro Max</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/review-two-months-with-the-iphone-15-pro-max.2413103/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Developers Will Soon Get 25 Monthly Hours of Xcode Cloud With Apple Developer Program</title>
-		<link>https://www.macrumors.com/2023/12/07/apple-developer-program-xcode-cloud/</link>
-		<comments>https://forums.macrumors.com/threads/developers-will-soon-get-25-monthly-hours-of-xcode-cloud-with-apple-developer-program.2413101/</comments>
-		<pubDate>Thu, 07 Dec 2023 11:41:36 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/07/apple-developer-program-xcode-cloud/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Xcode</category>
-		
-
-		<description><![CDATA[Apple <a href="https://developer.apple.com/news/?id=ik9z4ll6">today announced</a> that starting in January 2024, all Apple Developer Program memberships will include 25 compute hours of Xcode Cloud at no additional cost on top of the Developer membership fee.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/06/Xcode-Cloud-icon.jpeg" alt="" width="1200" height="630" class="aligncenter size-full wp-image-848670" /><br/>
-<a href="https://developer.apple.com/xcode-cloud/get-started/">Xcode Cloud</a> is designed to provide cloud-based tools to developers for building apps, running automated tests, providing apps to testers, and managing user feedback. It was introduced in 2021, and <a href="https://www.macrumors.com/2022/06/07/xcode-cloud-now-available-to-all-apple-developers/">made available to all developers</a> in June 2022.<br/>
-<br/>
-Since launch, Apple has given developers access to 25 hours of Xcode Cloud per month at no cost, but that was scheduled to end this month. Apple has now decided to continue offering the free compute hours as part of its Developer Program membership.<br/>
-<blockquote>We're pleased to announce that as of January 2024, all Apple Developer Program memberships will include 25 compute hours per month on Xcode Cloud as a standard, with no additional cost. If you're already subscribed to Xcode Cloud for free, no additional action is required on your part. And if you haven't tried Xcode Cloud yet, now is the perfect time to start building your app for free in just a few minutes.</blockquote><br/>
-Apple initially planned to charge &#36;15 per month for 25 hours, but that tier will be free. 100 compute hours is priced at &#36;50 per month, 250 hours is priced at &#36;100 per month, and 1,000 hours is priced at &#36;400 per month.<br/>
-<br/>
-Each compute hour is an hour of time used to execute a task in the cloud, such as building an app or running tests. Compute hour usage is tracked through <a href="https://www.macrumors.com/guide/app-store/">App Store</a> connect and the Apple Developer app.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/xcode/">Xcode</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/07/apple-developer-program-xcode-cloud/">Developers Will Soon Get 25 Monthly Hours of Xcode Cloud With Apple Developer Program</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/developers-will-soon-get-25-monthly-hours-of-xcode-cloud-with-apple-developer-program.2413101/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
