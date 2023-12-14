@@ -14,12 +14,150 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 13 Dec 2023 12:03:00 PST</lastBuildDate>
+	<lastBuildDate>Wed, 13 Dec 2023 16:11:29 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Top Five Features in macOS Sonoma 14.2</title>
+		<link>https://www.macrumors.com/2023/12/13/macos-sonoma-14-2-features/</link>
+		<comments>https://forums.macrumors.com/threads/top-five-features-in-macos-sonoma-14-2.2413647/</comments>
+		<pubDate>Wed, 13 Dec 2023 15:21:34 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/13/macos-sonoma-14-2-features/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[When Apple releases new software, iOS updates tend to get most of the attention, and there are sometimes useful new features in Mac updates that go under the radar. That's the case with <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.2. It doesn't have flashy features like the Journal app that <a href="https://www.macrumors.com/2023/12/11/apple-releases-ios-17-2-and-ipados-17-2/">came in iOS 17.2</a>, but there are a number of useful improvements that make it worth installing.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/_4cCFzlDjDM" title="macOS Sonoma 14.2 Out Now: Here&#39;s What&#39;s NEW!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+We've rounded up five of the best features that are included in &zwnj;macOS Sonoma&zwnj; 14.2.<br/>
+<ul><br/>
+ 	<li><strong>Messages</strong> - The Messages app includes a catch-up arrow that lets you jump to the first unread message in a conversation, plus there is an option to add a sticker to a message from the tapback interface. That makes it quicker to add non-emoji reactions during chats on the Mac.</li><br/>
+ 	<li><strong>PDF AutoFill</strong> - AutoFill recognizes key fields in PDFs and other documents so you can fill them out quick. It will recognize addresses, phone numbers, and similar data that can be filled from the Contacts app.</li><br/>
+ 	<li><strong>Weather Widgets</strong> - There are several new Weather widgets that can be added to the Mac's desktop. Options include next-hour precipitation, daily forecast, sunrise and sunset, Air Quality, Feels Like, and wind speed.</li><br/>
+ 	<li><strong>Multiple Timer Support</strong> - The Clock app on the Mac supports multiple timers that are able to run simultaneously. There are also timer presets for quickly setting a timer.</li><br/>
+ 	<li><strong>Shazam Improvements</strong> - With a Shazam Music Recognition update, you can Shazam songs on Mac even when you're wearing your AirPods.</li><br/>
+</ul><br/>
+For more on what's new in &zwnj;macOS Sonoma&zwnj; 14.2, make sure to watch our full video up above.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/13/macos-sonoma-14-2-features/">Top Five Features in macOS Sonoma 14.2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/top-five-features-in-macos-sonoma-14-2.2413647/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Collecting Data to Improve Augmented Reality Location Accuracy in Maps</title>
+		<link>https://www.macrumors.com/2023/12/13/apple-maps-ar-data-collection/</link>
+		<comments>https://forums.macrumors.com/threads/apple-collecting-data-to-improve-augmented-reality-location-accuracy-in-maps.2413645/</comments>
+		<pubDate>Wed, 13 Dec 2023 14:58:24 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/13/apple-maps-ar-data-collection/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Maps</category>
+		
+
+		<description><![CDATA[With the launch of iOS 17.2, Apple has outlined the Maps-related data that it is collecting in order to improve the augmented reality location function. In a <a href="https://support.apple.com/en-us/HT213957">new support document</a>, Apple says that it is aiming to bolster the speed and accuracy of augmented reality features in the Maps app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/03/apple-maps-3d-feature.jpg" alt="" width="1600" height="896" class="aligncenter size-full wp-image-841030" /><br/>
+When using augmented reality features in Maps, including immersive walking directions or the refine location option, Apple collects information on "feature points" that represent the shape and appearance of stationary objects like buildings. The data does not include photos or images, and the feature points collected are not readable by a person.<br/>
+<br/>
+According to Apple, Maps uses on-device machine learning to compare feature points to <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> reference data that is sent to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. The camera filters out moving objects like people and vehicles, with Apple collecting just the feature points of stationary objects.<br/>
+<br/>
+The comparison between the feature points and the &zwnj;Apple Maps&zwnj; reference data allows Maps to pinpoint a user location and provide detailed walking directions with AR context. Using either the AR Walking directions or Refine Location refreshes Apple's reference data to improve augmented reality accuracy.<br/>
+<br/>
+Data that Apple collects is encrypted and not associated with an individual user or <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a>. Apple also uses on-device machine learning to add "noise" to the feature points data to add irregular variations that prevent any "unlikely" attempt to use feature points to reconstruct an image from the data.<br/>
+<br/>
+According to Apple, only an "extremely sophisticated attacker" that has access to the company's encoding system would be able to recreate an image from feature points, but because the data is encrypted and limited only to Apple, "an attack and recreation are extremely unlikely."<br/>
+<br/>
+The use of AR data can be disabled to prevent Apple from collecting it. The "Improve AR Location Accuracy" toggle can be accessed in the Settings app by going to Privacy and Security and then tapping on Analytics and Improvements.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/13/apple-maps-ar-data-collection/">Apple Collecting Data to Improve Augmented Reality Location Accuracy in Maps</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-collecting-data-to-improve-augmented-reality-location-accuracy-in-maps.2413645/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.3&#039;s Collaborative Apple Music Playlist Feature Includes Animated Emoji Reactions</title>
+		<link>https://www.macrumors.com/2023/12/13/ios-17-3-collaborative-playlist-emoji/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-3s-collaborative-apple-music-playlist-feature-includes-animated-emoji-reactions.2413639/</comments>
+		<pubDate>Wed, 13 Dec 2023 13:54:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/13/ios-17-3-collaborative-playlist-emoji/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		<category>Apple Music</category>
+		
+
+		<description><![CDATA[With the iOS 17.3 update, Apple reintroduced the <a href="https://www.macrumors.com/2023/12/12/ios-17-3-beta-apple-music-collaborative-playlists/">collaborative Apple Music playlist</a> feature, allowing <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> users to build playlists with friends, family, and others who share their musical tastes.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/apple-music-collaborative-playlist-emoji.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-926541" /><br/>
+For context, Apple initially <a href="https://www.macrumors.com/2023/11/28/ios-17-2-beta-4-features/">tested collaborative playlists in iOS 17.2</a>, but ended up pulling the feature from the fourth beta prior to when iOS 17.2 was released. Apple said on Monday that it <a href="https://www.macrumors.com/2023/12/11/apple-music-collaborative-playlists-2024/">would instead be launching in 2024</a>, and on Tuesday, collaborative playlists showed up in the iOS 17.3 beta.<br/>
+<br/>
+The new implementation allows all of the collaborators on a specific playlist to provide emoji reactions, similar to how tapback reactions work in Messages. To add an emoji reaction, play a collaborative playlist and then while a song is in progress, you can tap on the music player to see the emoji interface.<br/>
+<br/>
+There are standard emoji reactions to choose from like heart and thumbs up, but tapping on the "+" button allows you to choose from any of the available emoji options.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">iOS 17.3 Beta 1 adds Emojis reactions to Collaborative Playlists &#x203c;&#xfe0f;<br><br>Emoji Animations are insane &#x1f92a; <a href="https://t.co/RIQWYByfRE">pic.twitter.com/RIQWYByfRE</a></p>&mdash; Kevin Aubin (@kaubin) <a href="https://twitter.com/kaubin/status/1735005903630311449?ref_src=twsrc%5Etfw">December 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+When you play a song that others have added emoji reactions to, you can see those emoji pop up from the emoji interface. Those who want to see collaborative &zwnj;Apple Music&zwnj; playlists and emoji reactions in action <a href="https://music.apple.com/us/playlist/pl.u-kaJH7JG97e?a=join&amp;it=zr6IZVEGZ6tVoblq">can join the MacRumors Apple Music playlist</a> to add songs and listen to content from other MacRumors readers.<br/>
+<br/>
+Collaborative playlists in &zwnj;Apple Music&zwnj; are expected to be available to the public in January following the launch of iOS 17.3.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/13/ios-17-3-collaborative-playlist-emoji/">iOS 17.3&#039;s Collaborative Apple Music Playlist Feature Includes Animated Emoji Reactions</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-3s-collaborative-apple-music-playlist-feature-includes-animated-emoji-reactions.2413639/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>These Seven iOS Features Remain Available in the U.S. Only</title>
+		<link>https://www.macrumors.com/2023/12/13/ios-features-in-us-only/</link>
+		<comments>https://forums.macrumors.com/threads/these-seven-ios-features-remain-available-in-the-u-s-only.2413635/</comments>
+		<pubDate>Wed, 13 Dec 2023 12:52:12 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/13/ios-features-in-us-only/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[While many iOS features are available internationally, some remain exclusive to the U.S., such as the Apple Card, Apple Card Savings, Apple Cash, Apple Pay Later, Wallet IDs, Roadside Assistance via Satellite, and Clean Energy Charging.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/Apple-Logo-16x9-US-Flag-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-926535" /><br/>
+Below, we have provided more details about some iOS features available in the U.S. only.<br/>
+<br/>
+<h2>Apple Card</h2><br/>
+<img src="https://images.macrumors.com/article-new/2021/10/apple-card-1-iPhone-13.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-818915" /><br/>
+Launched in 2019, the <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a> remains available in the U.S. only. Apple's credit card can be managed completely through the Wallet app on the iPhone, with a physical version available for use at stores that do not accept contactless payments. The card has no fees beyond interest and offers up to 3% cashback known as Daily Cash.<br/>
+<br/>
+Apple Card's financial partner in the U.S. is currently Goldman Sachs, but that reportedly <a href="https://www.macrumors.com/2023/11/28/apple-goldman-sachs-partnership-ending/">might change in the next 12 to 15 months</a>.<br/>
+<br/>
+While there have been clues that the Apple Card might expand to additional countries in the future, such as an <a href="https://www.macrumors.com/2021/02/03/canada-approves-apple-card-apple-cash-trademarks/">Apple Card trademark filing in Canada</a>, Apple has not confirmed any immediate plans to launch the card internationally.<br/>
+<br/>
+<h3>Apple Card Savings</h3><br/>
+<img src="https://images.macrumors.com/article-new/2023/04/apple-card-savings-account-16x9.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-892213" /><br/>
+Earlier this year, the <a href="https://www.macrumors.com/2023/04/17/apple-card-savings-account-launching-today/">Apple Card savings account</a> launched in the Wallet app on the iPhone, allowing Apple Card holders in the U.S. to earn interest on their Daily Cash and other cash deposits. The high-yield savings account has a 4.15% APY, with no fees, no minimum deposits, and no minimum balance requirements.<br/>
+<br/>
+Given the Apple Card is available in the U.S. only, so too is the savings account.<br/>
+<br/>
+<h2>Apple Cash</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/01/Apple-Cash-banner.jpg" alt="" width="1200" height="630" class="aligncenter size-full wp-image-879664" /><br/>
+<a href="https://www.macrumors.com/roundup/apple-pay/#apple_cash">Apple Cash</a> is a Venmo-like payment feature that allows iPhone users in the U.S. to send, request, and receive money in the Wallet and Messages apps. Users can transfer their Apple Cash balance to a connected bank account.<br/>
+<br/>
+Apple Cash remains available in the U.S. only, and despite clues like a <a href="https://www.macrumors.com/2021/02/03/canada-approves-apple-card-apple-cash-trademarks/">trademark filing in Canada</a>, it is unclear if the feature will expand to other countries.<br/>
+<br/>
+<h2>Apple Pay Later</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/10/Apple-Pay-Later-feature-1.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-918417" /><br/>
+Launched earlier this year, <a href="https://www.macrumors.com/2023/10/24/apple-pay-later-launches/">Apple Pay Later</a> is a "buy now, pay later" feature that lets qualifying U.S. residents split a purchase made with Apple Pay into four equal payments over six weeks, with no interest or fees. The feature is available for purchases between &#36;75 and &#36;1,000 made on an iPhone or iPad on most websites and apps that accept Apple Pay.<br/>
+<br/>
+Like the other financial features on this list, it is unclear if or when Apple Pay Later will expand to other countries.<br/>
+<br/>
+<h2>Wallet IDs</h2><br/>
+<img src="https://images.macrumors.com/article-new/2021/09/apple-wallet-drivers-license-feature.jpg" alt="" width="1698" height="956" class="aligncenter size-full wp-image-813979" /><br/>
+In 2022, Apple started letting residents of participating U.S. states add their driver's license or state ID to the Wallet app on the iPhone and Apple Watch, providing a convenient and contactless way to display proof of identity or age. The feature is currently available in <a href="https://www.macrumors.com/2022/03/23/apple-launches-ids-in-wallet-arizona/">Arizona</a>, <a href="https://www.macrumors.com/2022/11/09/colorado-ids-wallet-app-support/">Colorado</a>, <a href="https://www.macrumors.com/2022/05/25/iphone-drivers-license-wallet-app-maryland/">Maryland</a>, and <a href="https://www.macrumors.com/2023/05/18/iphone-drivers-license-georgia/">Georgia</a> only, with <a href="https://www.macrumors.com/2023/10/06/iphone-ids-coming-to-these-8-us-states/">additional states to follow</a>.<br/>
+<br/>
+Apple said it was working to offer the ID feature across the U.S. in the future, but the company has yet to announce any specific plans or a timeframe, and it has not indicated if the feature will ever launch in other countries.<br/>
+<br/>
+<h2>Roadside Assistance via Satellite</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/09/apple-roadside-assistance.jpg" alt="" width="1596" height="897" class="aligncenter size-full wp-image-910510" /><br/>
+Starting with iOS 17, all iPhone 14 and iPhone 15 models offer a <a href="https://www.macrumors.com/2023/11/20/iphone-roadside-assistance-feature-tested/">roadside assistance via satellite feature</a> that allows users in the U.S. to contact roadside assistance company AAA for vehicle service when outside of cellular and Wi-Fi coverage.<br/>
+<br/>
+Apple said the feature is available "beginning" in the U.S., so it will likely expand to some additional countries in the future.<br/>
+<br/>
+<h2>Clean Energy Charging</h2><br/>
+<img src="https://images.macrumors.com/article-new/2022/09/clean-energy-charging-ios-16-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-864277" /><br/>
+iOS 16.1 introduced a <a href="https://www.macrumors.com/2022/10/24/ios-16-1-clean-energy-charging-details/">Clean Energy Charging feature</a> that "aims to decrease the carbon footprint of the iPhone by optimizing charging times for when the grid is using cleaner energy sources," according to Apple. When the feature is toggled on, the iPhone will attempt to charge "when lower carbon-emission electricity is available."<br/>
+<br/>
+Clean Energy Charging is available in the U.S. only, and Apple has not indicated if or when it will be expanded to additional countries.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/13/ios-features-in-us-only/">These Seven iOS Features Remain Available in the U.S. Only</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/these-seven-ios-features-remain-available-in-the-u-s-only.2413635/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Now Selling Standalone USB-C AirPods Pro Case for &#36;99</title>
@@ -244,7 +382,10 @@ The infotainment system that GM plans to adopt instead of &zwnj;CarPlay&zwnj; wi
 <br/>
 <a href="https://www.macrumors.com/2023/08/11/gm-no-technical-reason-carplay/">Back in August</a>, GM said that choosing not to offer &zwnj;CarPlay&zwnj; would give it more information about charge state information to assist with navigation routing and provide a better user experience.<br/>
 <br/>
-&zwnj;CarPlay&zwnj; will be eliminated in electric vehicles under the Buick, Cadillac, Chevrolet, and GMC brands. Combustion vehicles from GM will continue to support &zwnj;CarPlay&zwnj; until they are phased out in favor of an all-electric lineup in 2035.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/homepod-homekit-carplay-home-auto-technology.193">HomePod, HomeKit, CarPlay, Home & Auto Technology</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/12/gm-carplay-removal-safer-drivers/">GM Says It&#039;s Nixing CarPlay to Make Drivers Safer</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/gm-says-its-nixing-carplay-to-make-drivers-safer.2413545/">Discuss this article</a> in our forums<br/><br/>]]></description>
+&zwnj;CarPlay&zwnj; will be eliminated in electric vehicles under the Buick, Cadillac, Chevrolet, and GMC brands. Combustion vehicles from GM will continue to support &zwnj;CarPlay&zwnj; until they are phased out in favor of an all-electric lineup in 2035.<br/>
+<br/>
+<b>Update:</b> In a statement to <em>MacRumors</em>, GM said the following: <blockquote>I wanted to reach out to clarify that comments about GM's position on phone projection were misrepresented in previous articles and to reinforce our valued partnerships with Apple and Google and each company’s commitment to driver safety. GM’s embedded infotainment strategy is driven by the benefits of having a system that allows for greater integration with the larger GM ecosystem and vehicles.</blockquote><br/>
+ <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/homepod-homekit-carplay-home-auto-technology.193">HomePod, HomeKit, CarPlay, Home & Auto Technology</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/12/gm-carplay-removal-safer-drivers/">GM Says It&#039;s Nixing CarPlay to Make Drivers Safer</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/gm-says-its-nixing-carplay-to-make-drivers-safer.2413545/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -465,231 +606,6 @@ New workloads for Geekbench ML include Depth Estimation to reflect capabilities 
 Geekbench ML 0.6 is still a preview release that Primate Labs will continue to tweak based on results and feedback, so scores from version 0.6 can't be directly compared to those from the previous 0.5 release. Primate Labs is looking toward a polished 1.0 release at some point in 2024.<br/>
 <br/>
 Geekbench ML is available in the <a href="https://apps.apple.com/us/app/geekbench-ml/id1563487010">App Store</a> and <a href="https://play.google.com/store/apps/details?id=com.primatelabs.banff">Google Play Store</a>, and Primate Labs is directly hosting preview versions for <a href="https://cdn.geekbench.com/GeekbenchML-0.6.0-Mac.zip">macOS</a>, <a href="https://cdn.geekbench.com/GeekbenchML-0.6.0-WindowsSetup.exe">Windows</a>, and <a href="https://cdn.geekbench.com/GeekbenchML-0.6.0-Linux.tar.gz">Linux</a> on its website.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/geekbench/">Geekbench</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/12/geekbench-ml-macos/">Geekbench Machine-Learning Benchmark Tools Add Support for macOS and Other Desktop Platforms</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/geekbench-machine-learning-benchmark-tools-add-support-for-macos-and-other-desktop-platforms.2413518/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Arcade Adding These New Games in January After Price Increase</title>
-		<link>https://www.macrumors.com/2023/12/12/new-apple-arcade-games-for-january-2024/</link>
-		<comments>https://forums.macrumors.com/threads/apple-arcade-adding-these-new-games-in-january-after-price-increase.2413510/</comments>
-		<pubDate>Tue, 12 Dec 2023 08:47:30 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/12/new-apple-arcade-games-for-january-2024/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Arcade</category>
-		
-
-		<description><![CDATA[Apple today announced three new games coming to Apple Arcade in January, including <a href="https://apps.apple.com/us/app/tamagotchi-adventure-kingdom/id1614952689">Tamagotchi Adventure Kingdom</a>, <a href="https://apps.apple.com/us/app/cornsweeper/id1600387153">Cornsweeper</a>, and <a href="https://apps.apple.com/us/app/blackjack-by-mobilityware/id6469052640">Blackjack by MobilityWare+</a>. All games on Apple Arcade are ad-free and do not offer in-app purchases.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/06/apple-arcade-orange-feature.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-748620" /><br/>
-Apple's description of Tamagotchi Adventure Kingdom:<blockquote>Embark on a heartwarming experience in Tamagotchi Adventure Kingdom, joining adorable hero Mametchi in restoring harmony to the Tamagotchi planet after a mysterious impact shakes the kingdom.</blockquote>Cornsweeper:<blockquote>A meditative mind-sweep-em-up, players pop delicious popcorn and avoid explosions, all set to a relaxing and original lo-fi inspired soundtrack with some reggae infusions.</blockquote>Blackjack by MobilityWare+:<blockquote>Players can immerse themselves in the classic game of Blackjack, mastering its intricacies in Blackjack by MobilityWare+.</blockquote>Apple Arcade <a href="https://www.macrumors.com/2023/10/25/apple-services-price-increases/">received its first price increase</a> in October. In the U.S., the subscription-based gaming service went from &#36;4.99 per month to &#36;6.99 per month.<br/>
-<br/>
-Launched in November 2019, Apple Arcade is accessible through the App Store. The service provides subscribers with unlimited access to around 300 games across the iPhone, iPad, Mac, and Apple TV, with new titles added periodically.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/12/new-apple-arcade-games-for-january-2024/">Apple Arcade Adding These New Games in January After Price Increase</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-arcade-adding-these-new-games-in-january-after-price-increase.2413510/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Reveals Most Popular App Store Apps and Games of 2023</title>
-		<link>https://www.macrumors.com/2023/12/12/apple-reveals-most-popular-apps-of-2023/</link>
-		<comments>https://forums.macrumors.com/threads/apple-reveals-most-popular-app-store-apps-and-games-of-2023.2413505/</comments>
-		<pubDate>Tue, 12 Dec 2023 08:07:42 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/12/apple-reveals-most-popular-apps-of-2023/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>App Store</category>
-		
-
-		<description><![CDATA[As the end of 2023 nears, Apple today <a href="https://www.apple.com/newsroom/2023/12/apple-spotlights-the-top-apps-and-games-of-2023-on-the-app-store/">revealed</a> the most downloaded App Store apps and games of the year in the United States, as listed below.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/12/app-store-awards-2022.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-876046" /><br/>
-The year-end charts can also be found in the App Store's Today tab, and they are localized for more than 35 countries and regions. <br/>
-<br/>
-<h3>Top Free iPhone Apps</h3><br/>
-1. Temu: Shop Like a Billionaire<br/>
-2. CapCut - Video Editor<br/>
-3. Max: Stream HBO, TV, & Movies<br/>
-4. Threads, an Instagram app<br/>
-5. TikTok<br/>
-6. Instagram<br/>
-7. Google<br/>
-8. YouTube: Watch, Listen, Stream<br/>
-9. WhatsApp Messenger<br/>
-10. Gmail - Email by Google<br/>
-<br/>
-<h3>Top Paid iPhone Apps</h3><br/>
-1. Shadowrocket<br/>
-2. HotSchedules<br/>
-3. Procreate Pocket<br/>
-4. The Wonder Weeks<br/>
-5. 75 Hard<br/>
-6. AutoSleep Track Sleep on Watch<br/>
-7. Goblin Tools<br/>
-8. TonalEnergy Tuner & Metronome<br/>
-9. SkyView<br/>
-10. AnkiMobile Flashcards<br/>
-<br/>
-<h3>Top Free iPhone Games</h3><br/>
-1. MONOPOLY GO!<br/>
-2. Roblox<br/>
-3. Royal Match<br/>
-4. Subway Surfers<br/>
-5. Gardenscapes<br/>
-6. Call of Duty: Mobile<br/>
-7. Block Blast!<br/>
-8. Makeover Studio: Makeup Games<br/>
-9. Parking Jam 3D<br/>
-10. Survivor!.io<br/>
-<br/>
-<h3>Top Paid iPhone Games</h3><br/>
-1. Minecraft<br/>
-2. Heads Up!<br/>
-3. Geometry Dash<br/>
-4. Bloons TD 6<br/>
-5. MONOPOLY<br/>
-6. Papa's Freezeria To Go!<br/>
-7. Plague Inc.<br/>
-8. Red's First Flight<br/>
-9. Five Nights at Freddy's<br/>
-10. Grand Theft Auto: San Andreas<br/>
-<br/>
-<h3>Top Free iPad Apps</h3><br/>
-1. Max: Stream HBO, TV, & Movies<br/>
-2. YouTube: Watch, Listen, Stream<br/>
-3. Netflix<br/>
-4. Google Chrome<br/>
-5. Disney+<br/>
-6. Goodnotes 6<br/>
-7. TikTok<br/>
-8. Amazon Prime Video<br/>
-9. Temu: Shop Like a Billionaire<br/>
-10. Peacock TV: Stream TV & Movies<br/>
-<br/>
-<h3>Top Paid iPad Apps</h3><br/>
-1. Procreate<br/>
-2. Shadowrocket<br/>
-3. Nomad Sculpt<br/>
-4. forScore<br/>
-5. Toca Life: Hospital<br/>
-6. Bluebeam Revu for iPad<br/>
-7. Teach Your Monster to Read<br/>
-8. AnkiMobile Flashcards<br/>
-9. Endless Paper<br/>
-10. ToonSquid<br/>
-<br/>
-<h3>Top Free iPad Games</h3><br/>
-1. Roblox<br/>
-2. Magic Tiles 3: Piano Game<br/>
-3. Subway Surfers<br/>
-4. Royal Match<br/>
-5. Among Us!<br/>
-6. Duet Cats: Cute Cat Games<br/>
-7. Stumble Guys<br/>
-8. MONOPOLY GO!<br/>
-9. Bridge Race<br/>
-10. Gardenscapes<br/>
-<br/>
-<h3>Top Paid iPad Games</h3><br/>
-1. Minecraft<br/>
-2. Geometry Dash<br/>
-3. Bloons TD 6<br/>
-4. Stardew Valley<br/>
-5. MONOPOLY<br/>
-6. Five Nights at Freddy's<br/>
-7. Red's First Flight<br/>
-8. Poppy Playtime Chapter 1<br/>
-9. Plague Inc.<br/>
-10. Garten of Banban 2<br/>
-<br/>
-<h3>Top Apple Arcade Games</h3><br/>
-1. NBA 2K23 Arcade Edition<br/>
-2. Cooking Mama: Cuisine!<br/>
-3. Bloons TD 6+<br/>
-4. Angry Birds Reloaded<br/>
-5. Sneaky Sasquatch<br/>
-6. Warped Kart Racers<br/>
-7. Hello Kitty Island Adventure<br/>
-8. Snake.io+<br/>
-9. Fruit Ninja Classic+<br/>
-10. Solitaire by MobilityWare+<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/app-store/">App Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/12/apple-reveals-most-popular-apps-of-2023/">Apple Reveals Most Popular App Store Apps and Games of 2023</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-reveals-most-popular-app-store-apps-and-games-of-2023.2413505/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>TSMC Demos Next-Gen Chip Technology to Apple Ahead of 2025 Debut</title>
-		<link>https://www.macrumors.com/2023/12/12/tsmc-demos-next-gen-chip-technology/</link>
-		<comments>https://forums.macrumors.com/threads/tsmc-demos-next-gen-chip-technology-to-apple-ahead-of-2025-debut.2413498/</comments>
-		<pubDate>Tue, 12 Dec 2023 07:31:04 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/12/tsmc-demos-next-gen-chip-technology/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>TSMC</category>
-		<category>DigiTimes</category>
-		<category>Financial Times</category>
-		<category>Apple Silicon</category>
-		
-
-		<description><![CDATA[TSMC has already demonstrated prototype 2nm chips to Apple ahead of their expected introduction in 2025, the <a href="https://www.ft.com/content/e9be182f-ec9e-4426-9cd2-d5181fd64778"><em>Financial Times</em></a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/apple-silicon-1-feature.jpg" alt="" width="1422" height="800" class="alignnone size-full wp-image-924673" /><br/>
-Apple is said to be closely aligned with TSMC in the race to develop and implement 2nm chip technology, which will surpass their current <a href="https://www.macrumors.com/guide/3nm/">3nm</a> chips and associated nodes in terms of transistor density, performance, and efficiency. 2nm chips are expected to be integral in underpinning future Apple silicon chips, as well as next-generation data center and artificial intelligence technology. Test results for TSMC's "N2" 2nm prototype chips have already been showcased to Apple and several other key TSMC clients as plans for upcoming chips begin to solidify.<br/>
-<br/>
-In a separate report, <a href="https://www.digitimes.com/news/a20231211PD229.html"><em>DigiTimes</em></a> points out that Apple is a key player in TSMC's battle against Samsung and Intel to bring 2nm chips to market, with no sign of the close relationship between the two companies waning. Apple reportedly has no plans to reduce its &zwnj;3nm&zwnj; or 2nm chip orders from TSMC before 2027 at the earliest.<br/>
-<br/>
-Apple was the first company to utilize TSMC's &zwnj;3nm&zwnj; technology with the A17 Pro chip in the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and &zwnj;iPhone 15 Pro&zwnj; Max, and the company is likely to follow suit with the chipmaker's N2 chips. TSMC's production of 2nm chips is slated to begin in 2025, with their first appearance in Apple devices likely to follow soon after.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tsmc/">TSMC</a>, <a href="https://www.macrumors.com/guide/digitimes-com/">DigiTimes</a>, <a href="https://www.macrumors.com/guide/ft-com/">Financial Times</a>, <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/12/tsmc-demos-next-gen-chip-technology/">TSMC Demos Next-Gen Chip Technology to Apple Ahead of 2025 Debut</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tsmc-demos-next-gen-chip-technology-to-apple-ahead-of-2025-debut.2413498/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Wrap Up Your Holiday Shopping With Our Exclusive Apple Accessory Sales at Twelve South, Satechi, Hyper, and ZAGG</title>
-		<link>https://www.macrumors.com/2023/12/12/wrap-up-your-holiday-shopping-2023/</link>
-		<comments>https://forums.macrumors.com/threads/wrap-up-your-holiday-shopping-with-our-exclusive-apple-accessory-sales-at-twelve-south-satechi-hyper-and-zagg.2413496/</comments>
-		<pubDate>Tue, 12 Dec 2023 07:16:06 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/12/wrap-up-your-holiday-shopping-2023/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[We're less than two weeks away from the Christmas holiday, so in an effort to aid in any last-minute holiday shopping we've accumulated a list of exclusive sales from popular Apple accessory companies. These sales offer the perfect chance to do some online Christmas shopping before it's too late for items to arrive before the 25th.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/12/2021-Exclusive-Apple-Accessories-Deals-Hero.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-828174" /><em><small>Note: MacRumors is an affiliate partner with these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-In total, you'll find exclusive offers from <a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2F&afftrack=">Satechi</a>, <a href="https://shareasale.com/r.cfm?b=1654433&u=63177&m=102921&urllink=&afftrack=">Twelve South</a>, <a href="https://click.linksynergy.com/fs-bin/click?id=J2shFQg6J/U&offerid=592602.5&type=3&subid=0">Hyper</a>, and <a href="http://www.tkqlhce.com/click-462641-11043124-1465418060000">ZAGG</a>. These exclusive deals run the gamut of Apple accessories, and you can shop for iPhone cases, MacBook sleeves, Apple Watch bands, screen protectors, leather bags, and much more.<br/>
-<br/>
-Each sale has a different end date, and shipping will vary from site-to-site, so be sure to read on for more information. Most brands are still offering delivery for Christmas, as long as you place orders soon. Every sale below is exclusive to our readers, and will require a coupon code, which you can find listed below as well.<br/>
-<br/>
-<h2>ZAGG</a></h2><br/>
-<img src="https://images.macrumors.com/article-new/2021/12/2021-Exclusive-Apple-Accessories-Deals-Zagg.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-828183" /><br/>
-<ul><li><strong>What's the deal?</strong> Get 35 percent off sitewide with <strong>MACRUMORS35</strong></li><br/>
-<li><strong>How long does it last?</strong> It ends on December 20</li><br/>
-<li><strong>What do they sell?</strong> <a href="https://www.kqzyfj.com/click-462641-10673346?url=https%3A%2F%2Fwww.zagg.com%2Fpower%2Fpower-banks%2F">Mophie's best power banks</a>, <a href="https://www.dpbolvw.net/click-462641-10673346?url=https%3A%2F%2Fwww.zagg.com%2Fpower%2Fwall-car-chargers%2F">wall chargers</a>, <a href="https://www.jdoqocy.com/click-462641-10673346?url=https%3A%2F%2Fwww.zagg.com%2Fpower%2Fwireless-chargers%2F">wireless chargers</a></li></ul> <br/>
-<div class="center-wrap"><a href="http://www.anrdoezrs.net/links/462641/type/dlg/https://www.zagg.com/en_us/zagg"target="_blank"><div class="fancybutton"><div class="fancybadge">35% OFF</div>ZAGG Sitewide Sale</div></a></div><br/>
-On <a href="http://www.anrdoezrs.net/links/462641/type/dlg/https://www.zagg.com/en_us/zagg">ZAGG's website</a>, you can get 35 percent off your entire order sitewide (limit five items), which includes Mophie's entire lineup of popular accessories. Our sale beats ZAGG's current 25 percent off sitewide event, so be sure to use the code MACRUMORS35 at checkout to get the best savings. You can find discounts on screen protectors, portable batteries, battery cases, charging cables, and more.<br/>
-<br/>
-To get the discount, head to <a href="http://www.anrdoezrs.net/links/462641/type/dlg/https://www.zagg.com/en_us/zagg">ZAGG's website</a>, browse for a few items, add them to your bag, and when you do you'll notice a pop-up on the right where you can view your bag. Here you can enter the promo code MACRUMORS35 and click apply to see the 35 percent discount taken off your cart.<br/>
-<br/>
-<h2>Hyper</a></h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/12/2021-Exclusive-Apple-Accessories-Deals-Hyper.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-925998" /><br/>
-<ul><li><strong>What's the deal?</strong> Get extra 10% off current sitewide sale with <strong>MREXTRA10</strong></li><br/>
-<li><strong>How long does it last?</strong> It ends on December 31</li><br/>
-<li><strong>What do they sell?</strong> <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https%3A%2F%2Fwww.hypershop.com%2Fcollections%2Fcyber-monday-thunderbolt-deals">Thunderbolt docks</a>, <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43456&murl=https%3A%2F%2Fwww.hypershop.com%2Fcollections%2Fpower-the-holidays-with-chargers-and-battery-packs">portable batteries</a>, and more </li></ul><br/>
-<div class="center-wrap"><a href="https://click.linksynergy.com/fs-bin/click?id=J2shFQg6J/U&offerid=592602.5&type=3&subid=0"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 55% OFF</div>Hyper Sitewide Sale</div></a></div><br/>
-<br/>
-Hyper is giving MacRumors readers an extra 10 percent off sitewide this week, which stacks on top of the retailer's current sitewide event that's taking up to 50 percent off sitewide. This is a great opportunity to save on Hyper's popular Thunderbolt docks, USB-C chargers, portable batteries, and more.<br/>
-<br/>
-<h2>Twelve South</a></h2><br/>
-<img src="https://images.macrumors.com/article-new/2021/12/2021-Exclusive-Apple-Accessories-Deals-Twelve-South.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-828182" /><br/>
-<ul><li><strong>What's the deal?</strong> Save 20% off your order with <strong>MacRumors2023</strong></li><br/>
-<li><strong>How long does it last?</strong> It ends on December 17</li><br/>
-<li><strong>What do they sell?</strong> Accessories tailored for Apple products like <a href="https://shrsl.com/3a341">iPhone Qi chargers</a> and <a href="https://shareasale.com/r.cfm?b=1654433&u=63177&m=102921&urllink=www%2Etwelvesouth%2Ecom%2Fproducts%2Fcurve%2Dflex%2Dfor%2Dmacbook&afftrack=">MacBook stands</a></li></ul> <br/>
-<div class="center-wrap"><a href="https://shareasale.com/r.cfm?b=1654433&u=63177&m=102921&urllink=&afftrack="target="_blank"><div class="fancybutton"><div class="fancybadge">20% OFF</div>Twelve South Sitewide Sale</div></a></div><br/>
-At <a href="https://shareasale.com/r.cfm?b=1654433&u=63177&m=102921&urllink=&afftrack=">Twelve South</a>, you can get 20 percent off your entire order with the promo code MacRumors2023. This promo code will last through December 17 for users in the United States.<br/>
-<br/>
-Twelve South has numerous accessories that are specifically made for Apple products, like AirSnap for AirPods, HiRise Wireless for iPhone, and BookBook for iPad Pro. You can browse for some holiday shopping ideas of your own on <a href="https://www.twelvesouth.com/">Twelve South's website</a>, and shoppers should note that the code will not work on any items that are available for pre-order.<br/>
-<br/>
-<h2>Satechi</a></h2><br/>
-<img src="https://images.macrumors.com/article-new/2021/12/2021-Exclusive-Apple-Accessories-Deals-Satechi.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-828181" /><br/>
-<ul><li><strong>What's the deal?</strong> Get 30% off sitewide with <strong>MACRUMORS</strong></li><br/>
-<li><strong>How long does it last?</strong> It ends on December 25</li><br/>
-<li><strong>What do they sell?</strong> <a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fcollections%2Fhubs%2Dadapters&afftrack=">USB-C hubs</a>, <a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fcollections%2Fwireless%2Dcharging&afftrack=">MagSafe-compatible chargers</a>, <a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2Fcollections%2Fcomputer%2Dperipherals&afftrack=">keyboards</a></li></ul><br/>
-<div class="center-wrap"><a href="https://shareasale.com/r.cfm?b=1554062&u=63177&m=98197&urllink=satechi%2Enet%2F&afftrack="target="_blank"><div class="fancybutton"><div class="fancybadge">30% OFF</div>Satechi Sitewide Sale</div></a></div><br/>
-<br/>
-Satechi is well known for its large collection of charging products, and with our exclusive code you can take 30 percent off sitewide. The company sells portable batteries, USB-C hubs, wireless chargers that are compatible with MagSafe, and more. The exclusive code has a few exclusions on select new and upcoming products, but otherwise will work on any product sitewide.<br/>
-<br/>
-Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/12/wrap-up-your-holiday-shopping-2023/">Wrap Up Your Holiday Shopping With Our Exclusive Apple Accessory Sales at Twelve South, Satechi, Hyper, and ZAGG</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/wrap-up-your-holiday-shopping-with-our-exclusive-apple-accessory-sales-at-twelve-south-satechi-hyper-and-zagg.2413496/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
