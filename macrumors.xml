@@ -14,12 +14,64 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Fri, 15 Dec 2023 00:03:05 PST</lastBuildDate>
+	<lastBuildDate>Fri, 15 Dec 2023 04:03:59 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Report: Apple Focusing on OLED Rather Than Foldable iPad</title>
+		<link>https://www.macrumors.com/2023/12/15/apple-focusing-on-oled-rather-than-foldable-ipad/</link>
+		<comments>https://forums.macrumors.com/threads/report-apple-focusing-on-oled-rather-than-foldable-ipad.2413800/</comments>
+		<pubDate>Fri, 15 Dec 2023 03:20:16 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/15/apple-focusing-on-oled-rather-than-foldable-ipad/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Featured</category>
+		<category>Nikkei</category>
+		<category>Foldable iPad</category>
+		
+
+		<description><![CDATA[Apple is focusing on bringing OLED displays to its <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> and MacBook lineups rather than offering its first foldable, <a href="https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-switch-to-OLED-displays-for-iPads-and-MacBooks"><em>Nikkei Asia</em></a> reports.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/10/Foldable-iPhone-2023-Feature-Blue.jpg" alt="" width="1458" height="820" class="alignnone size-full wp-image-797663" /><br/>
+Apple is widely expected to <a href="https://www.macrumors.com/guide/oled-ipad-pro/">bring OLED displays</a> to the <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> for the first time next year ahead of a wider expansion across the MacBook lineup. <em>Nikkei</em> today corroborated this information citing sources said to be to be familiar with the matter, adding that the first OLED MacBook model is under development for production in the second half of 2025.<br/>
+<br/>
+<em>Nikkei</em> claims that Apple is currently evaluating the potential of offering a foldable &zwnj;iPad&zwnj; after the transition to OLED is complete, but it is not a main focus and the company does not yet have a solid timeline for releasing such a device, mirroring a <a href="https://www.macrumors.com/2023/07/25/apple-considering-foldable-ipad-digitimes/">report from <em>DigiTimes</em></a> earlier this year.<br/>
+<br/>
+Reports from a multitude of reliable sources are fairly consistent that Apple plans to launch a foldable &zwnj;iPad&zwnj; before a foldable <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. In October, <a href="https://www.macrumors.com/2023/10/18/foldable-ipad-now-in-intensive-development-could-be-announced-as-soon-as-late-2024/"><em>DigiTimes</em> reported</a> a range of details about Apple's tentative work on foldable iPads, including necessary design changes and small-scale production plans.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/nikkei-com/">Nikkei</a>, <a href="https://www.macrumors.com/guide/foldable-ipad/">Foldable iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/15/apple-focusing-on-oled-rather-than-foldable-ipad/">Report: Apple Focusing on OLED Rather Than Foldable iPad</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/report-apple-focusing-on-oled-rather-than-foldable-ipad.2413800/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>watchOS 10.2: How to Change Watch Faces With a Swipe</title>
+		<link>https://www.macrumors.com/how-to/change-apple-watch-faces-with-a-swipe/</link>
+		<comments>https://forums.macrumors.com/threads/watchos-10-2-how-to-change-watch-faces-with-a-swipe.2413793/</comments>
+		<pubDate>Fri, 15 Dec 2023 01:00:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/change-apple-watch-faces-with-a-swipe&#038;post_date=1702641600/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[In watchOS 10.2, you can enable a swipe gesture to switch between Apple Watch faces more easily, just like you used to be able to in watchOS 9. Keep reading to learn how it's done.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/apple-watch-ultra-1-image.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-918496" /><br/>
+If you are a long-time Apple Watch user, you probably remember a time when it was possible to switch watch faces with a simple swipe gesture across the display. That was the default interaction in watchOS 9, but then Apple removed the gesture with the upgrade to <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>.<br/>
+<br/>
+Apple changed the interaction because of user complaints that it was too easy to accidentally change watch faces. But for anyone who never had this problem, Apple just made things harder – by requiring a long press before swiping to change the active watch face.<br/>
+<br/>
+Fortunately, prior to the release of watchOS 10.2, Apple seemed to realize what it had done, and it has introduced a setting that re-instates the earlier method of swiping to change watch faces. If you preferred the older interaction, the following steps show you how to enable it.<br/>
+<ol><li>Open the Settings app on your watch.</li><br/>
+<li>Tap Clock.</li><br/>
+<li>Toggle on the switch next to Swipe to Switch Watch Face.</li></ol><img src="https://images.macrumors.com/article-new/2023/12/swipe-to-change-watch-face.jpg" alt="settings" width="1920" height="940" class="aligncenter size-full wp-image-926616" /><br/>
+<br/>
+That's all there is to it. If you have more than one watch face assigned to your Apple Watch, you will now be able to swipe quickly and easily between them.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/change-apple-watch-faces-with-a-swipe/">watchOS 10.2: How to Change Watch Faces With a Swipe</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/watchos-10-2-how-to-change-watch-faces-with-a-swipe.2413793/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iOS 17.3 Beta: All the New Features So Far</title>
@@ -354,7 +406,6 @@ iTunes for Windows can be downloaded from the <a href="https://apps.microsoft.co
 		<pubDate>Thu, 14 Dec 2023 10:10:34 PST</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2023/12/14/apple-seeds-ios-17-3-public-beta-1/</guid>
 		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
 		<category>iOS 17</category>
 		
 
@@ -743,58 +794,6 @@ Apple said the feature is available "beginning" in the U.S., so it will likely e
 iOS 16.1 introduced a <a href="https://www.macrumors.com/2022/10/24/ios-16-1-clean-energy-charging-details/">Clean Energy Charging feature</a> that "aims to decrease the carbon footprint of the iPhone by optimizing charging times for when the grid is using cleaner energy sources," according to Apple. When the feature is toggled on, the iPhone will attempt to charge "when lower carbon-emission electricity is available."<br/>
 <br/>
 Clean Energy Charging is available in the U.S. only, and Apple has not indicated if or when it will be expanded to additional countries.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/13/ios-features-in-us-only/">These Seven iOS Features Remain Available in the U.S. Only</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/these-seven-ios-features-remain-available-in-the-u-s-only.2413635/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Now Selling Standalone USB-C AirPods Pro Case for &#36;99</title>
-		<link>https://www.macrumors.com/2023/12/13/apple-selling-standalone-usb-c-airpods-pro-case/</link>
-		<comments>https://forums.macrumors.com/threads/apple-now-selling-standalone-usb-c-airpods-pro-case-for-99.2413617/</comments>
-		<pubDate>Wed, 13 Dec 2023 09:34:20 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/13/apple-selling-standalone-usb-c-airpods-pro-case/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Apple today began selling a <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a> USB-C <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2 Case on a standalone basis, allowing customers who own the Lightning charging case to upgrade to USB-C.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-914627" src="https://images.macrumors.com/article-new/2023/09/airpods-pro-yellow.jpg" alt="" width="2500" height="1406" /><br/>
-The standalone USB-C &zwnj;AirPods Pro&zwnj; Case is priced at &#36;99 <a href="https://www.apple.com/shop/product/MUYG3AM/A/magsafe-charging-case-usb%E2%80%91c-for-airpods-pro-2nd-generation">from Apple's online store</a>, and the listing was first noticed by <em><a href="https://www.theverge.com/2023/12/13/24000010/apple-airpods-pro-usb-c-case-now-available">The Verge</a></em>.<br/>
-<br/>
-Orders placed today for the USB-C charging case will deliver to customers between December 27 and January 2, which is after the Christmas holiday.<br/>
-<br/>
-Apple introduced a new version of the &zwnj;AirPods Pro&zwnj; 2 with USB-C Charging Case in September, but at the time, there was no option to buy a USB-C case on its own. Customers with the Lightning-based &zwnj;AirPods Pro&zwnj; 2 had no upgrade path, but those who want to have USB-C charging across all of their devices can now pay a &#36;99 fee to get the new version.<br/>
-<br/>
-The USB-C Charging Case is compatible with the second-generation &zwnj;AirPods Pro&zwnj;. It continues to offer &zwnj;MagSafe&zwnj; charging as well, just like the Lightning model.<br/>
-<br/>
-In addition to a USB-C port, the USB-C Charging Case also provides improved IP54 dust resistance, but it will not add lossless audio for the Vision Pro, which is a feature added to the updated &zwnj;AirPods Pro&zwnj; 2 that come with the USB-C Charging Case. <br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/13/apple-selling-standalone-usb-c-airpods-pro-case/">Apple Now Selling Standalone USB-C AirPods Pro Case for &#36;99</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-selling-standalone-usb-c-airpods-pro-case-for-99.2413617/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>EU Plans to Let Spotify Direct Users to Other Payment Options on iPhone</title>
-		<link>https://www.macrumors.com/2023/12/13/eu-plans-to-end-apple-anti-steering-rule/</link>
-		<comments>https://forums.macrumors.com/threads/eu-plans-to-let-spotify-direct-users-to-other-payment-options-on-iphone.2413613/</comments>
-		<pubDate>Wed, 13 Dec 2023 09:11:35 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/13/eu-plans-to-end-apple-anti-steering-rule/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>App Store</category>
-		<category>Spotify</category>
-		
-
-		<description><![CDATA[Apple might soon face a setback in its EU antitrust battle with Spotify, which filed a complaint against the iPhone maker <a href="https://www.macrumors.com/2019/03/13/spotify-files-complaint-vs-apple-in-europe/">over four years ago</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/06/Apple-vs-Spotify-feature2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-801789" /><br/>
-EU regulators are planning to force Apple to allow competing music services like Spotify to direct users to payment methods other than the App Store's in-app purchase system within their apps, or face a fine of as much as 10% of its annual sales, according to <em><a href="https://www.bloomberg.com/news/articles/2023-12-13/apple-set-to-be-hit-by-eu-antitrust-order-in-app-store-fight-with-spotify">Bloomberg</a></em>. The decision is slated to be announced in early 2024, the report says.<br/>
-<br/>
-Apple currently prevents apps from letting users know about a purchasing method other than the App Store's in-app purchase system within their apps, although it does allow developers to inform customers by email. If and when the EU's order takes effect, Apple would be required to drop this so-called "anti-steering" rule. It's unclear if Spotify will be allowed to accept payments directly within its app, or merely advertise other payment methods.<br/>
-<br/>
-Spotify has been unwilling to let customers subscribe to its streaming music service for its usual price of &#36;10.99 per month within its iPhone app, as it would receive less due to Apple's 15% to 30% commission on in-app purchases. Spotify has argued that being unable to let iPhone users know about other payment options is anticompetitive.<br/>
-<br/>
-We will update this story if Apple responds to the report.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/spotify/">Spotify</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/13/eu-plans-to-end-apple-anti-steering-rule/">EU Plans to Let Spotify Direct Users to Other Payment Options on iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/eu-plans-to-let-spotify-direct-users-to-other-payment-options-on-iphone.2413613/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
