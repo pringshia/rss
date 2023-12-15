@@ -14,12 +14,231 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 14 Dec 2023 12:02:56 PST</lastBuildDate>
+	<lastBuildDate>Thu, 14 Dec 2023 16:11:25 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 17.3 Beta: All the New Features So Far</title>
+		<link>https://www.macrumors.com/guide/ios-17-3-beta-features/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-3-beta-all-the-new-features-so-far.2413770/</comments>
+		<pubDate>Thu, 14 Dec 2023 15:20:58 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-17-3-beta-features&#038;post_date=1702606858/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple started testing the iOS 17.3 and iPadOS 17.3 betas in December, and while we are not expecting these updates to be as feature rich as iOS and iPadOS 17.2, there are some notable features that have been found so far.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/iOS-17.3-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-926334" /><br/>
+This guide aggregates everything that is coming in the iOS 17.3 update, and we'll update it throughout the beta testing period.<br/>
+<br/>
+<h2 id="stolen_device_protection">Stolen Device Protection</h2><br/>
+Earlier this year, there were news reports about a slate of <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> thefts where the thief spied on a victim to learn the device passcode before stealing the phone, leading to drained bank accounts and an untraceable &zwnj;iPhone&zwnj;.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/ios-stolen-device-protection.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-926120" /><br/>
+As a solution, Apple introduced Stolen Device Mode in iOS 17.3 to add extra security. If someone should obtain both your &zwnj;iPhone&zwnj; and your passcode, this feature prevents total catastrophe. With Stolen Device Mode enabled, accessing passwords in <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Keychain, turning off Lost Mode, erasing content, and making purchases in Safari requires biometric authentication with <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>.<br/>
+<br/>
+Certain actions such as changing an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> password require &zwnj;Face ID&zwnj; and have a one-hour security delay. So if you (or someone else) tried to change your &zwnj;Apple ID&zwnj; login, you would need both &zwnj;Face ID&zwnj; authentication and then an hour wait period before the password could be updated. These wait periods are waived when you are in a trusted location like home or work.<br/>
+<br/>
+As outlined in our report on the feature, here are actions that require biometric authentication when the Stolen Device Protection is activated:<br/>
+<ul><br/>
+ <li>Viewing/using passwords or passkeys saved in &zwnj;iCloud&zwnj; Keychain</li><br/>
+ <li>Applying for a new <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a></li><br/>
+ <li>Viewing an &zwnj;Apple Card&zwnj; virtual card</li><br/>
+ <li>Turning off Lost Mode</li><br/>
+ <li>Erasing all content and settings</li><br/>
+ <li>Taking certain Apple Cash and Savings actions in Wallet</li><br/>
+ <li>Using payment methods saved in Safari</li><br/>
+ <li>Using your &zwnj;iPhone&zwnj; to set up a new device</li><br/>
+</ul><br/>
+Note that these actions do not have a passcode backup, so you can't use a passcode to skirt &zwnj;Face ID&zwnj; or &zwnj;Touch ID&zwnj;. Actions that require biometric authentication and have a one-hour security delay include the following:<br/>
+<ul><br/>
+ <li>Changing your &zwnj;Apple ID&zwnj; password</li><br/>
+ <li>Updating select &zwnj;Apple ID&zwnj; account security settings, including adding or removing a trusted device, trusted phone number, Recovery Key, or Recovery Contact</li><br/>
+ <li>Changing your &zwnj;iPhone&zwnj; passcode</li><br/>
+ <li>Adding or removing &zwnj;Face ID&zwnj; or &zwnj;Touch ID&zwnj;</li><br/>
+ <li>Turning off <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a></li><br/>
+ <li>Turning off Stolen Device Protection</li><br/>
+</ul><br/>
+Stolen Device Protection is available on all iPhones that are able to run <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, which includes the &zwnj;iPhone&zwnj; XS and newer. It is an opt-in feature that can be turned on in the Settings app by going to &zwnj;Face ID&zwnj; &amp; Passcode and toggling on Stolen Device Protection.<br/>
+<br/>
+<h2 id="collaborative_apple_music_playlists">Collaborative Apple Music Playlists</h2><br/>
+Apple first tested collaborative <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> playlists in iOS 17.2, but the feature was removed before the software was released.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/apple-music-collaborative-playlists.jpg" alt="" width="5484" height="3085" class="aligncenter size-full wp-image-918890" /><br/>
+Collaborative &zwnj;Apple Music&zwnj; playlists are back in the iOS 17.3 beta, suggesting Apple just needed a little bit more time to work out the kinks.<br/>
+<br/>
+In iOS 17.3, you can take any of your existing playlists or create a new one and then invite others to join in to add songs and listen to the playlist. You can invite friends, family members, and others who share your musical preferences, and there doesn't appear to be a limit on how many people can contribute.<br/>
+<br/>
+We have a <a href="https://music.apple.com/us/playlist/pl.u-kaJH7JG97e?a=join&amp;it=zr6IZVEGZ6tVoblq">MacRumors collaborative music playlist</a> available for those who want to join in and share music with other MacRumors readers.<br/>
+<br/>
+To use the collaboration feature, go to a playlist in the &zwnj;Apple Music&zwnj; app and then tap on the person icon. You will be able to generate a link that you can send to others, and everyone who is invited can access the playlist. There is an option to approve each person that joins, and leaving this off just opens it up to anyone with the link.<br/>
+<br/>
+The person who created the playlist can remove people, remove songs, and turn off collaboration at any time.<br/>
+<br/>
+Apple in iOS 17.3 added a neat emoji reaction feature that allows listeners to add an emoji to any song that's playing to express their feelings about it. There are standard quick access emoji options like a heart and thumbs up, but with the "+" button, any emoji can be added.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/apple-music-collaborative-playlist-emoji.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-926541" /><br/>
+When you're listening to a song in the playlist that has emoji reactions, those emoji animate as the song begins to play.<br/>
+<br/>
+<h2 id="release_date">Release Date</h2><br/>
+iOS 17.3, iPadOS 17.3, macOS 14.3, tvOS 17.3, and watchOS 10.3 are all expected to see a public release sometime around January. Beta testing will be slightly delayed by the Christmas and New Year's holidays.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-17-3-beta-features/">iOS 17.3 Beta: All the New Features So Far</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-3-beta-all-the-new-features-so-far.2413770/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Beeper Mini on Continued Outages: &#039;It&#039;s Super Annoying That Apple is Penalizing Their Own Customers&#039;</title>
+		<link>https://www.macrumors.com/2023/12/14/beeper-mini-continued-outages/</link>
+		<comments>https://forums.macrumors.com/threads/beeper-mini-on-continued-outages-its-super-annoying-that-apple-is-penalizing-their-own-customers.2413763/</comments>
+		<pubDate>Thu, 14 Dec 2023 13:21:14 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/14/beeper-mini-continued-outages/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Android</category>
+		<category>iMessage</category>
+		
+
+		<description><![CDATA[iMessage for Android app Beeper Mini is once again having connectivity issues, which it has attributed to Apple. Last night, Beeper Mini <a href="https://twitter.com/onbeeper/status/1735127340357918874">stopped working</a> for some people, and the company confirmed that Apple was "deliberately blocking iMessages from being delivered" to approximately five percent of Beeper Mini users.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/beeper-mini.jpg" alt="" width="1200" height="800" class="aligncenter size-full wp-image-925247" /><br/>
+At the time, Beeper Mini said that uninstalling and reinstalling Beeper Mini could serve as a workaround while a fix was developed. As of now, issues with the Beeper Cloud service have been resolved, but some Beeper Mini users are still having connectivity issues.<br/>
+<br/>
+On Twitter, Beeper's developers have been complaining about Apple's continued efforts to block the app, even though Apple made it clear that Beeper Mini was not going to be allowed.<br/>
+<br/>
+"It's super annoying that Apple is penalizing their own customers and Android users who just want secure and encrypted chats," says a <a href="https://twitter.com/onbeeper/status/1735315504880123995">message on the Beeper account</a>. "We understand if you choose to uninstall Beeper Mini at this time."<br/>
+<br/>
+Beeper Mini <a href="https://www.macrumors.com/2023/12/05/beeper-mini-brings-imessage-to-android/">launched last week</a>, promising to bring a full iMessage experience to Android users. The app used iMessage reverse engineering to function, registering the phone numbers of Android users with Apple's own iMessage servers.<br/>
+<br/>
+Android users were able to have "blue bubbles" in conversations with iMessage users, and all iMessage features worked, such as read receipts, typing indicators, reactions, and more. Beeper Mini essentially worked by making Android devices look like they were Apple devices, and it didn't take long for Apple to put a stop to it.<br/>
+<br/>
+Three days after Beeper Mini launched, the <a href="https://www.macrumors.com/2023/12/08/beeper-mini-imessage-for-android-shutdown/">app quit working</a>, and Apple confirmed that <a href="https://www.macrumors.com/2023/12/10/apple-confirms-it-shut-down-beeper-mini/">it shut the app down</a>. Apple said that it blocked Beeper Mini from exploiting fake credentials to gain access to iMessage, as this posed "significant risks to user security and privacy."<br/>
+<blockquote>At Apple, we build our products and services with industry-leading privacy and security technologies designed to give users control of their data and keep personal information safe. We took steps to protect our users by blocking techniques that exploit fake credentials in order to gain access to iMessage. These techniques posed significant risks to user security and privacy, including the potential for metadata exposure and enabling unwanted messages, spam, and phishing attacks. We will continue to make updates in the future to protect our users.</blockquote><br/>
+In a blog post, Beeper Mini's development team said that it would work to restore service, while also criticizing Apple for the decision. The team claims that <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> customers have "less security and privacy than before" because Beeper Mini encrypted messages sent between &zwnj;iPhone&zwnj; and Android devices.<br/>
+<blockquote>We deeply object to the allegation that Beeper Mini 'poses significant risks to user security and privacy'. This is completely untrue. As we explained above, the opposite is actually true. Beeper Mini increases the security and privacy of both Android and iPhone customers. To prove this, we published a detailed blog post about how the app keeps data secure and private. Beeper Mini is end-to-end encrypted.</blockquote><br/>
+The Beeper Mini team says that it has not spoken with Apple directly. On Monday of this week, Beeper developers did find a way to get the Android app working again, but <a href="https://www.macrumors.com/2023/12/11/beeper-mini-android-imessage-app-back/">with some major changes</a>. The updated version of the app requires users to sign in with an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> (not required with the prior version), and it only supports sending and receiving messages through an email address instead of a phone number.<br/>
+<br/>
+The team behind Beeper Mini is still working to find a way to get phone numbers to work with iMessage again, but Apple has blocked the backdoor that was used to register Android numbers as fake Apple users.<br/>
+<br/>
+Many of the complaints about security and functionality from the Beeper Mini team will be solved with Rich Communication Services, or <a href="https://www.macrumors.com/guide/rcs/">RCS</a>, which Apple plans to adopt next year. &zwnj;RCS&zwnj; will be used for chats between &zwnj;iPhone&zwnj; and Android users, and it includes support for high quality video and images, emoji reactions, typing indicators, read receipts, and more.<br/>
+<br/>
+If Beeper Mini does indeed find a way to get phone numbers to work and to keep Beeper Mini running, it likely will not be long before Apple puts a stop to it again. Apple has made it clear that it does not plan to willingly allow Beeper Mini to use iMessage servers.<br/>
+<br/>
+Beeper founder Eric Migicovsky said on Twitter that Tim Sweeney and Epic "won this week against Big Tech," referencing the Epic v. Google trial, and that Beeper Mini has a chance. "We're not giving up," he wrote.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/android/">Android</a>, <a href="https://www.macrumors.com/guide/imessage/">iMessage</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/14/beeper-mini-continued-outages/">Beeper Mini on Continued Outages: &#039;It&#039;s Super Annoying That Apple is Penalizing Their Own Customers&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/beeper-mini-on-continued-outages-its-super-annoying-that-apple-is-penalizing-their-own-customers.2413763/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Review: Aura&#039;s 15&quot; Walden Smart Photo Frame Makes a Touching Gift</title>
+		<link>https://www.macrumors.com/review/aura-smart-photo-frame/</link>
+		<comments>https://forums.macrumors.com/threads/review-auras-15-walden-smart-photo-frame-makes-a-touching-gift.2413759/</comments>
+		<pubDate>Thu, 14 Dec 2023 13:00:16 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/review/aura-smart-photo-frame&#038;post_date=1702598416/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[<a href="https://auraframes.com">Aura</a>, a company known for its range of smart photo frames, this fall <a href="https://auraframes.com/digital-frames/color/walden-ink-mat">introduced the Walden</a>, its largest photo frame to date. Measuring in at 15 inches, the Walden has a huge display that makes digital photos a focal point in the home.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-zoom.jpg" alt="" width="2000" height="1500" class="aligncenter size-full wp-image-926670" /><br/>
+We've previously reviewed (and liked) the <a href="https://www.macrumors.com/review/aura-mason-digital-frame/">9-inch Aura Mason frame</a>, but the new Walden model is 66 percent larger and it is also Aura's first frame that can be mounted on the wall, so we thought we'd revisit the smart frames ahead of the holidays.<br/>
+<br/>
+In terms of size, the Walden frame is 15.7 inches long, 12.7 inches tall, and 1.2 inches in depth, so it's a little bit thicker than your average photo frame. Compared to the 9-inch Mason frame, the Walden frame is much more eye-catching in a room because of the space that it takes up on a wall. A 9-inch frame looks odd when hung on the wall, but a 15-inch frame is the ideal size for it.<br/>
+<br/>
+The Walden Frame fits right in on a wall in the living room, entry way, or bedroom, but it can also be placed on a table or other surface if desired with the built-in stand. The display is bright, the colors are largely accurate (the frame tends to add some saturation) and the images look vibrant, but one downside is that it is limited to a 1600x1200 resolution with 133 pixels per inch.<br/>
+<br/>
+Aura's smaller frames all have better pixel density, and the resolution does impact the quality here. The Mason frame with the same resolution and a smaller size looks better up close, but the resolution is not a dealbreaker. Aura is using a matte display that has anti-reflective coating, so even in a bright room with sunlight or lights that hit the glass, the pictures are visible.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-in-room.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-926672" /><br/>
+The frame itself is black with a textured white mat around the display. The mat feels about standard size for a photo frame of this size, so it blends in well with other picture frames that you might have. Unfortunately, there are no other frame colors available, and that's one of the main downsides of the Walden.<br/>
+<br/>
+Aura does have other frames fthat come in different colors and without mats, but on the whole, color selection is limited. On the plus side, the thin frame of the Walden does look sleek, but I am torn on the mat size with some of the images.<br/>
+<br/>
+The Walden frame can be positioned in either horizontal or landscape mode as it supports both orientations with a 4:3 aspect ratio. Your photos will rotate and resize to fit in the frame regardless of the orientation you choose, but it is best to pick the position that fits the majority of your photos.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-landscape.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-926664" /><br/>
+When you put the frame in a specific orientation and it displays a photo in another orientation, one of two things happens. It either crops in to the main subject of the photo, or it adds black bars so the whole image remains visible. For portrait mode images that are close to the subject with nothing to crop in to, this means that you'll see bars at the sides of the frame, which doesn't always look great with the white matte. You can opt to have photo backgrounds used as filler, kind of like what YouTube does for portrait images, in landscape mode, but it still looks off.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-with-bars.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-926669" /><br/>
+When the frame is in portrait mode, landscape images are typically cut off because they're zoomed in to fit, so there are compromises to be made if you have a lot of images in both orientations. I do think Aura's frames do a decent job of making images look as good as possible by zooming in.<br/>
+<br/>
+Aura ships the Walden with both a tabletop kickstand and a mounting kit, so you can display it wherever it fits best into your home. The mounting kit uses a single Floreat-style hanger, so it's just one nail that goes in the wall. These hangers are strong, so there's little risk of the frame falling down, plus wall damage is limited to the size of a nail hole.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-rear-design.jpg" alt="" width="2000" height="1278" class="aligncenter size-full wp-image-926663" /><br/>
+Touch controls at the top of the frame can be used for turning it on and off, changing the photos, viewing details like the date, playing <a href="https://www.macrumors.com/guide/live-photos/">Live Photos</a>, deleting photos, and liking photos that were added to the frame by someone else, but all of these actions can also be done through the app if the frame is somewhere that's inaccessible.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-dim-light.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-926667" /><br/>
+The Walden, like all of Aura's frames, is meant to be a more hands-off product. You basically upload images to it and leave it plugged in. It'll cycle through the images every 10 minutes by default, though you can change that in the app. There are a huge range of times to select from 15 seconds to 24 hours, so you can find the perfect photo change interval.<br/>
+<br/>
+You can upload both photos and videos to the frame, and videos can be set to autoplay. Videos play without sound by default, but can be replayed with sound using the in-app remote or with the touch controls at the top. Speaker volume is controlled in the app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-remote.jpg" alt="" width="2000" height="1984" class="aligncenter size-full wp-image-926665" /><br/>
+The frame is set to turn on when it's light out and turn off when it's dark, but there is an option for an on/off schedule for rooms where the frame might not be able to use its ambient light sensor well or for when you want it active at specific times. I do wish the Walden had better dimming and color matching. With bright images, it can be a little too bright when the room is darker, and it isn't able to match the color temperature of lighting. You'll sometimes get a blue-toned photo that looks odd in a room with soft yellow lighting.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-bright.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-926668" /><br/>
+The app has a built-in remote control accessed through the settings section, and this provides easy access for deleting an image, resizing it properly, playing a video, or switching to the next image. Resizing is particularly useful because if you don't like the way Aura has opted to crop an image, you can fix it and the frame will remember that position going forward.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-adjust-position.jpg" alt="" width="2000" height="1984" class="aligncenter size-full wp-image-926661" /><br/>
+There is no built-in storage in the Walden frame, or in Aura's products in general. Images are uploaded to the cloud, and there is unlimited storage so you can add as many photos and videos as you want. <a href="https://www.macrumors.com/guide/photos/">Photos</a> are uploaded through the Aura app, through a unique email address for each frame, or through the web, so there are plenty of ways to get images on it.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-size.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-926666" /><br/>
+The Aura app is the best part about Aura's frames. In addition to adding photos yourself, you can also invite friends and family members to connect to your frame so they can add photos too. If a family member has a frame, you can connect to it and upload images to it at any time.<br/>
+<br/>
+I bought an Aura frame for a family member a few years back, and we still all upload photos to it regularly. It has a prominent place in the living room, and the photos that it displays are frequently talked about. It's such a great way to get photos off of an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> with little hassle. I don't know about most people, but I so rarely print my images that I take them and forget about them until a random day when I'm browsing through my &zwnj;Photos&zwnj; app. Aura frames provide a way to surface memories them more often.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/aura-frame-onboarding.jpg" alt="" width="2000" height="1314" class="aligncenter size-full wp-image-926662" /><br/>
+Aura is set up for gifting, and you can even preload a frame with photos before the gift recipient opens it. I'm sometimes hesitant to give "smart" Wi-Fi connected devices to my less tech savvy family, but Aura frames are dead simple to set up. I think any person that can operate the basic functions of an &zwnj;iPhone&zwnj; can set up the Walden or any other Aura option. You plug in the frame, download the Aura app, and the &zwnj;iPhone&zwnj; detects it automatically. A pairing code is displayed, and once the code is input (which happens automatically too), it connects to Wi-Fi. You don't need to enter the Wi-Fi password again if the &zwnj;iPhone&zwnj; is already connected to a Wi-Fi network in the home (truly a major stopping point for other smart products I've tried to gift), and that's it. After that, images can be uploaded from the app or by family members who have the app.<br/>
+<br/>
+The option to upload photos to the Aura from anywhere and the option to have multiple contributors makes this a great gift for grandparents, siblings, friends, or basically anyone you would want to share a photo with. For a grandparent, you can set up the frame ahead of time, load it with photos, and then invite other friends and family members all with no interaction from the recipient. The person I gifted a frame to doesn't upload their own photos, but has six other family members who do.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/adding-images-family-frame.jpg" alt="" width="2000" height="1984" class="aligncenter size-full wp-image-926660" /><br/>
+If you have multiple friends or family members with Aura frames, you can upload photos to all of the frames at the same time, making it a fun way to share photos from birthday parties, trips, and other activities with several people basically instantaneously.<br/>
+<br/>
+You can definitely use an old <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> or other tablet in lieu of something like the Aura frame, but Aura's products are easier to use for the specific purpose of displaying photos, plus they look like an actual photo frame rather than an electronic device.<br/>
+<br/>
+<h2>Bottom Line</h2><br/>
+Whenever I need a gift for someone and I'm not sure what to get, Aura is my go-to. I have not met anyone who doesn't like Aura's frames, and for grandparents and/or less technically inclined people, it's like magic.<br/>
+<br/>
+I think the Walden in particular is a great choice because of its size. It's much more visible in a room than Aura's smaller frames, and the frame to get if you want to put a lot of focus on your digital images. It's also the option I'd get for grandparents or older adults who might be having a harder time with their vision, but it's not the frame I'd pick for subtlety or for displaying high-resolution images where quality is a concern.<br/>
+<br/>
+<h2>How to Buy</h2><br/>
+The Aura Walden frame can be <a href="https://auraframes.com/digital-frames/color/walden-ink-mat">purchased from the Aura website</a> for &#36;250.<br/>
+<br/>
+<em><small>Note: Aura provided MacRumors with a Walden Frame for the purpose of this review. No other compensation was received.</small></em><br/>This article, &quot;<a href="https://www.macrumors.com/review/aura-smart-photo-frame/">Review: Aura&#039;s 15&quot; Walden Smart Photo Frame Makes a Touching Gift</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/review-auras-15-walden-smart-photo-frame-makes-a-touching-gift.2413759/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Journalists Detail Seeing Their Own Spatial Videos on Apple Vision Pro</title>
+		<link>https://www.macrumors.com/2023/12/14/journalists-experience-spatial-videos-vision-pro/</link>
+		<comments>https://forums.macrumors.com/threads/journalists-detail-seeing-their-own-spatial-videos-on-apple-vision-pro.2413756/</comments>
+		<pubDate>Thu, 14 Dec 2023 12:05:57 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/14/journalists-experience-spatial-videos-vision-pro/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Vision Pro</category>
+		
+
+		<description><![CDATA[With the <a href="https://www.macrumors.com/guide/ios-17-2-features/">launch of iOS 17.2</a>, Apple added a camera feature that allows <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and &zwnj;iPhone 15 Pro&zwnj; Max models to record 3D spatial video that will be viewable on the <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> when it becomes available for purchase.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/spatial-video-apple-visioin-pro.jpg" alt="" width="1600" height="898" class="aligncenter size-full wp-image-911687" /><br/>
+To demonstrate the feature, Apple this week invited several members of the media to record spatial video with their iPhones and then view it on an &zwnj;Apple Vision Pro&zwnj; headset. Those who were able to experience their videos in 3D have now written about the experience and what it's like using the Vision Pro for reliving memories.<br/>
+<br/>
+<em><a href="https://www.cnet.com/tech/computing/i-saw-my-iphone-spatial-movies-in-apple-vision-pro/">CNET</em>'s Scott Stein</a> found that videos of his family members were the most compelling, and a recording of his mother in particular seemed to make eye contact and made him feel like he was "almost there." In video with a lot of motion, the 30 fps limit was noticeable, though less so in videos with less motion. HDR photos "looked great," with Stein saying they appeared as good as or better than on a Mac or a TV, with HDR that "popped" and options to zoom in.<br/>
+<blockquote>I also got a kick out of seeing some of my favorite exhibits at the Museum of Natural History in 3D. I went to the Hall of Ocean Life, where a trio of little tanks on the top floor house dioramas of prehistoric sea creatures that I've loved since I was a kid. I captured the ammonites and trilobites, gliding from case to case. In 3D on Vision Pro, it felt like a little home diorama revisited. I could see the joy of capturing little immersive installations, or spaces, that aren't easy to go back to, and having them in front of you again.</blockquote><br/>
+<a href="https://www.techradar.com/computing/virtual-reality-augmented-reality/seeing-your-own-spatial-video-on-vision-pro-is-an-immersive-trip-and-i-highly-recommend-it"><em>TechRadar</em>'s Lance Ulanoff</a> said that he was "startled by the quality and immersive nature" of panoramic images that he had captured, and the wider view showed him details he had not seen before. A video of a model train looked like it would "ride right into [his] lap." Compared to standard videos, Ulanoff said the videos "felt more real" and resulted in heightened emotions. He said the level of emotion that can be experienced from family videos in 3D "can be quite intense."<br/>
+<br/>
+<a href="https://www.inverse.com/tech/apple-vision-pro-photos-app-spatial-video-hands-on"><em>Inverse</em>'s Raymond Wong</a> said that spatial videos "feel alive" because of the way the border becomes "glowy and dream-like" when looked at, giving the content the "characteristics of a memory." In a spatial video of his mom, he says he was transported back to the moment, and it was "surreal" to see his mom "talking, laughing, and eating in spatial video."<br/>
+<br/>
+Wong said that spatial videos can "look life-sized" at a certain distance and window size, but even zoomed out, he felt emotional seeing his mother in 3D.<blockquote>I think Apple was right in suggesting I capture sentimental content in spatial video. Cool as it was to see my colleagues at the office and a bar with a little bit of the third dimension, I don't think rewatching those clips had the same impact on me as the ones of my family. I suspect once people have the opportunity to see their own content in Vision Pro, they'll get a better sense of when and when not to tap the spatial video icon in the camera app on their iPhones.</blockquote><br/>
+Josh Rubin of <em><a href="https://coolhunting.com/tech/recording-spatial-video-and-viewing-it-in-apple-vision-pro/">Cool Hunting</a></em> said that even in recordings where he was warned there wasn't enough light, the video on the headset was "crisp and not grainy." He found that the best scenes had multiple focal points in a two to eight foot range. Too much movement in a spatial video can be disorienting, leading to nausea.<br/>
+<blockquote>Shots with the camera stationary (such as on a tripod) are ideal, but camera movement is often necessary or desired to make a satisfying story. I found that recording linear and gently curved movements, especially in open spaces, created videos that were easy to view. By contrast, sharp turns in close quarters created more jarring videos.</blockquote><br/>
+The Vision Pro headset is set to launch in early 2024, and Apple is hoping that customers who plan to buy it will have a selection of their own spatial videos ready to go when it comes out. Spatial video can be recorded right now on the &zwnj;iPhone 15 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; Max, though the captured video will look normal until viewed in 3D on the Vision Pro headset.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/14/journalists-experience-spatial-videos-vision-pro/">Journalists Detail Seeing Their Own Spatial Videos on Apple Vision Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/journalists-detail-seeing-their-own-spatial-videos-on-apple-vision-pro.2413756/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Review: The Philips Hue Line Now Has Security Cameras, But There&#039;s No HomeKit Support</title>
@@ -152,7 +371,7 @@ The update also adds <a href="https://www.macrumors.com/2023/12/12/ios-17-3-beta
 <br/>
 Those who want to try it out in iOS 17.3 can click on <a href="https://music.apple.com/us/playlist/pl.u-kaJH7JG97e?a=join&amp;it=zr6IZVEGZ6tVoblq">the MacRumors playlist link</a> to try adding a song.<br/>
 <br/>
-We are expecting iOS 17.3 and uPadOS 17.3 to be released in January 2024.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/14/apple-seeds-ios-17-3-public-beta-1/">Apple Seeds First Public Beta of iOS 17.3 With Stolen Device Protection</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-public-beta-of-ios-17-3-with-stolen-device-protection.2413745/">Discuss this article</a> in our forums<br/><br/>]]></description>
+We are expecting iOS 17.3 and iPadOS 17.3 to be released in January 2024.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/14/apple-seeds-ios-17-3-public-beta-1/">Apple Seeds First Public Beta of iOS 17.3 With Stolen Device Protection</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-public-beta-of-ios-17-3-with-stolen-device-protection.2413745/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -576,154 +795,6 @@ Apple currently prevents apps from letting users know about a purchasing method 
 Spotify has been unwilling to let customers subscribe to its streaming music service for its usual price of &#36;10.99 per month within its iPhone app, as it would receive less due to Apple's 15% to 30% commission on in-app purchases. Spotify has argued that being unable to let iPhone users know about other payment options is anticompetitive.<br/>
 <br/>
 We will update this story if Apple responds to the report.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/spotify/">Spotify</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/13/eu-plans-to-end-apple-anti-steering-rule/">EU Plans to Let Spotify Direct Users to Other Payment Options on iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/eu-plans-to-let-spotify-direct-users-to-other-payment-options-on-iphone.2413613/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Rivals Unite to Promote Open Ecosystems Using EU Law</title>
-		<link>https://www.macrumors.com/2023/12/13/apple-rivals-unite-to-promote-open-ecosystems/</link>
-		<comments>https://forums.macrumors.com/threads/apple-rivals-unite-to-promote-open-ecosystems-using-eu-law.2413595/</comments>
-		<pubDate>Wed, 13 Dec 2023 05:19:14 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/13/apple-rivals-unite-to-promote-open-ecosystems/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Google</category>
-		<category>Motorola</category>
-		<category>Qualcomm</category>
-		<category>European Union</category>
-		<category>Lenovo</category>
-		<category>Europe</category>
-		<category>Opera Browser</category>
-		<category>Nothing</category>
-		<category>Meta</category>
-		
-
-		<description><![CDATA[Google, Meta, Qualcomm, Nothing, Lenovo, Opera and several other tech companies have announced a collaborative effort to push for "open digital ecosystems" in what appears to be a pointed move against Apple (via <em><a href="https://www.reuters.com/technology/google-meta-qualcomm-team-up-push-open-digital-ecosystems-2023-12-13/">Reuters</a></em>).<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/02/Google-Logo-Feature-Slack.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-837104" /><br/>
-The group, calling itself the Coalition for Open Digital Ecosystems (CODE), seeks to encourage more open platforms and systems in Europe. Other members include Motorola, Chinese smartphone brand Honor, French augmented reality start-up Lynx, and German messaging service provider Wire. Apple is noticeably absent from the organization's members.<br/>
-<br/>
-CODE's formation comes in response to new EU rules such as the Digital Markets Act (DMA), which designates major tech companies as "<a href="https://www.macrumors.com/2023/09/06/app-store-safari-and-ios-designated-gatekeepers/">gatekeepers</a>" and compels them to open up their various services and platforms to other companies and developers. The DMA is expected to force Apple to make significant changes to the way the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a>, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> work in Europe. For example, Apple will next year be obliged to allow users to install third-party app stores and <a href="https://www.macrumors.com/2023/04/17/app-sideloading-support-coming-ios-17/">sideload apps</a>, as well as give developers the ability to promote their offers outside the ‌‌‌&zwnj;App Store&zwnj;‌‌‌ and use third-party payment systems.<br/>
-<br/>
-CODE plans to work with companies, legislators, and academics to promote digital openness and present pathways for this to be achieved in Europe using the DMA and future EU legislation. Members have discussed how digital ecosystems should work in Europe and what positively impacts competitiveness and openness. The organisation aims to open up major digital ecosystems using cross-industry collaboration to promote seamless connectivity and interoperability between systems.<br/>
-<br/>
-While the likes of Google and Meta have been officially designated as gatekeepers by the EU just like Apple, rivals are increasingly attempting to use EU law to prompt major changes to Apple's ecosystem. For example, last month, Google and European telecom groups <a href="https://www.macrumors.com/2023/11/08/google-asks-eu-to-force-open-imessage/">urged EU regulators</a> to designate iMessage a "core" service that would force Apple to make the communications platform interoperable with competing chat services.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/google/">Google</a>, <a href="https://www.macrumors.com/guide/motorola/">Motorola</a>, <a href="https://www.macrumors.com/guide/qualcomm/">Qualcomm</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/lenovo/">Lenovo</a>, <a href="https://www.macrumors.com/guide/europe/">Europe</a>, <a href="https://www.macrumors.com/guide/opera-browser/">Opera Browser</a>, <a href="https://www.macrumors.com/guide/nothing/">Nothing</a>, <a href="https://www.macrumors.com/guide/meta/">Meta</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/13/apple-rivals-unite-to-promote-open-ecosystems/">Apple Rivals Unite to Promote Open Ecosystems Using EU Law</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-rivals-unite-to-promote-open-ecosystems-using-eu-law.2413595/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 17.2: How to Change Your iPhone&#039;s Default Notification Sound</title>
-		<link>https://www.macrumors.com/how-to/change-iphone-default-notification-sound/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-2-how-to-change-your-iphones-default-notification-sound.2413591/</comments>
-		<pubDate>Wed, 13 Dec 2023 04:29:37 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/how-to/change-iphone-default-notification-sound&#038;post_date=1702481377/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[In iOS 17.2, Apple lets you customize the alert tone used by your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> for default notifications. This is good news for anyone who does not like the "Rebound" tone that Apple introduced in <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/ios-17-default-alert.jpg" alt="" width="5526" height="3108" class="aligncenter size-full wp-image-924433" /><br/>
-In previous versions of iOS, Apple allowed users to choose a ring tone and a text tone, as well as custom alert sounds for email, calendar, and reminder alerts. Anything else that threw up notifications used a default sound, and there was no way to change it.<br/>
-<br/>
-With &zwnj;iOS 17&zwnj;, Apple then changed the original default alert sound, from "<a href="https://www.youtube.com/watch?v=mYHdfDJrwMU">Tri-tone</a>" to "<a href="https://www.youtube.com/watch?v=MjveF8Vtw6c">Rebound</a>." Many users disliked the change, with some arguing that the new sound is <a href="https://developer.apple.com/forums/thread/737407">harder to hear</a>. So the new ability in iOS 17.2 to change the default sound to whatever you like should come as welcome news.<br/>
-<br/>
-To change the tone - as well as the haptic vibration – of notifications from apps that use the default sound, follow these steps.<br/>
-<ol><li>Open the Settings app on your &zwnj;iPhone&zwnj;.</li><br/>
-<li>Tap Sounds & Haptics.</li><br/>
-<li>Select Default Alerts.</li><br/>
-<li>Choose a sound for the alert tone. You can use one from Apple's built-in options, buy a tone from the Tone Store, or opt for no sound (None) instead.</li><br/>
-<li>To change the accompanying haptic vibration, tap through to Haptics. There you can choose a vibration from the pre-set options, make your own via Create New Vibration, or opt for None.</li></ol><img src="https://images.macrumors.com/article-new/2023/12/default-notification-sound.jpg" alt="settings" width="4137" height="2716" class="aligncenter size-full wp-image-926296" /><br/>
-<br/>
-After completing the steps above, any notification sound that uses the default alert tone will use the sound you selected. If you're not happy with your changes, you can use the same steps to revert to the original "Rebound" default alert.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/change-iphone-default-notification-sound/">iOS 17.2: How to Change Your iPhone&#039;s Default Notification Sound</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-2-how-to-change-your-iphones-default-notification-sound.2413591/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Expands Self Service Repair in Europe, Now Covers iPhone 15 and M2 Macs</title>
-		<link>https://www.macrumors.com/2023/12/13/apple-expands-self-service-repair-iphone-15/</link>
-		<comments>https://forums.macrumors.com/threads/apple-expands-self-service-repair-in-europe-now-covers-iphone-15-and-m2-macs.2413590/</comments>
-		<pubDate>Wed, 13 Dec 2023 04:17:04 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/13/apple-expands-self-service-repair-iphone-15/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>Self Service Repair</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2023/12/apple-expands-self-service-repair-and-introduces-new-diagnostics-process/">announced</a> it has expanded its Self Service Repair program to cover the iPhone 15 lineup and Mac models powered by M2 chips, including the 14- and 16-inch MacBook Pro, the 15-inch MacBook Air, Mac mini, Mac Pro, and Mac Studio. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/05/Apple-Self-Service-Repair-Program-iPhone.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-895789" /><br/>
-Apple also said that Self Service Repair is now available for Apple users in 24 additional European countries, including Croatia, Denmark, Greece, Netherlands, Portugal, and Switzerland. With this latest expansion, Self Service Repair now supports 35 Apple products in 33 countries and 24 languages.<br/>
-<br/>
-Additionally, Apple Diagnostics for Self Service Repair is available today in the U.S. for <a href="https://support.apple.com/en-us/101965">iPhones</a> and <a href="https://support.apple.com/en-us/102488">Macs</a>, with availability in Europe to come next year. Intended for users with the knowledge and expertise to repair Apple devices, Apple Diagnostics troubleshooting sessions gives customers the same ability as Apple Authorized Service Providers and Independent Repair Providers to test devices for optimal part functionality and performance, as well as identify which parts may need repair.<br/>
-<br/>
-Launched in 2022, Apple's Self Service Repair program is designed to allow Apple device owners to do their own repairs in their homes using Apple parts, repair manuals, and tools.<br/>
-<br/>
-To conduct a repair, customers first need to review the repair manual for their product and the specific repair on Apple's support website. After, they'll be able to order the required parts and tools from the Self Service Repair Store and begin the repair. <br/>
-<br/>
-The program is part of Apple's efforts to "further expand access to repairs," according to the company. That said, Apple cautions that the "vast majority" of customers should still visit a professional repair provider, such as an Apple Store, to ensure their devices are repaired safely and reliably. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/self-service-repair/">Self Service Repair</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/13/apple-expands-self-service-repair-iphone-15/">Apple Expands Self Service Repair in Europe, Now Covers iPhone 15 and M2 Macs</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-expands-self-service-repair-in-europe-now-covers-iphone-15-and-m2-macs.2413590/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16 Early Prototypes: What Apple&#039;s Next-Generation iPhone Will Look Like</title>
-		<link>https://www.macrumors.com/2023/12/12/early-iphone-16-prototypes/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-early-prototypes-what-apples-next-generation-iphone-will-look-like.2413551/</comments>
-		<pubDate>Tue, 12 Dec 2023 15:07:01 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/12/early-iphone-16-prototypes/</guid>
-		<dc:creator>Marko Zivkovic</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 16</category>
-		<category>iPhone 16</category>
-		
-
-		<description><![CDATA[With the launch of the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, Apple introduced design changes like a curved frame and a frosted glass back. Information acquired by <em>MacRumors</em> suggests that Apple's next-generation <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> will build on these updates with modifications to the buttons and the camera layout.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/iPhone-16-Mock-Back-1.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-925836" /><br/>
-We have details on early pre-production designs for the &zwnj;iPhone 16&zwnj;, including a look at the variants and hardware configurations that Apple has considered so far. Our information comes early in the design process, but it provides an indication of what we can expect from the &zwnj;iPhone 16&zwnj;, or DeLorean as Apple engineers refer to it internally. <br/>
-<br/>
-We've included mockups of what the &zwnj;iPhone 16&zwnj; could look like based on Apple's internal designs, down to the exact colors the company is using for testing. The <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> rendered in yellow features the earliest known button design with an Action Button, unified volume button, and &zwnj;iPhone&zwnj; X-style camera bump. The &zwnj;iPhone&zwnj; in pink has an Action Button and separate mechanical volume buttons, while the &zwnj;iPhone&zwnj; in midnight has the larger Action button and new Capture button. The &zwnj;iPhone&zwnj; rendered in black is the design we are expecting at this point.<br/>
-<br/>
-As part of the &zwnj;iPhone 16&zwnj; design process, Apple has prototyped multiple hardware configurations. While these look similar at first glance, there are a number of differences between them. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/iPhone-16-Mock-Cameras-1.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-925734" /><br/>
-The most obvious and visually distinct change is a new vertical camera arrangement. Unlike its predecessor, the &zwnj;iPhone 16&zwnj; will have vertically aligned rear cameras, making the phone easily recognizable as the latest model. While the vertical alignment of the rear cameras has so far remained constant throughout different development stages, Apple is considering two different camera bump designs: <br/>
-<br/>
-<ul><br/>
-<li>&zwnj;iPhone&zwnj; 12-style design, with two camera lenses located one above the other</li><br/>
-<li>&zwnj;iPhone&zwnj; X-type design, with a singular pill-shaped enclosure</li><br/>
-</ul><br/>
-<br/>
-Relative to the &zwnj;iPhone 15&zwnj;, the location of the flash is the same with both designs, which suggests that Apple does not plan to change the position of the flash. While both designs have been considered, the &zwnj;iPhone&zwnj; 12-like camera layout with two distinct lenses has been used more extensively on Apple's prototype units. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/iPhone-16-Mock-Left.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-925735" /><br/>
-The earliest known prototypes of the &zwnj;iPhone 16&zwnj; included a unified volume button that was developed as part of the <a href="https://www.macrumors.com/2023/09/20/iphone-15-haptic-button-overview/">now-canceled Bongo project</a> originally intended for release with the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>. The unified button would have provided users with haptic feedback, but it was scrapped earlier this year following unresolved technical issues. After the cancelation of the Bongo project, Apple moved back to mechanical buttons for the &zwnj;iPhone 16&zwnj;.<br/>
-<br/>
-The Action button is another carry-over from the &zwnj;iPhone 15 Pro&zwnj;. That we're seeing the Action button this early on suggests Apple last year had decided to phase out the mute switch, with <a href="https://www.macrumors.com/2023/11/30/iphone-16-action-button-all-models/">plans to standardize the Action button across the entire iPhone 16 range</a>. The size of the Action Button has varied across different configurations. Some designs and prototypes feature a significantly larger Action Button, which was created as part of Project Atlas in an effort to change the Action Button from mechanical to capacitive, while some have the same button that's on the &zwnj;iPhone 15 Pro&zwnj;. Signs point to a capacitive Action Button at this time.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/iPhone-16-Mock-Right.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-925736" /><br/>
-Apple is also experimenting with a new button on the right side of the &zwnj;iPhone 16&zwnj;. As <em>MacRumors</em> revealed back in September, the &zwnj;iPhone 16&zwnj; is expected to include <a href="https://www.macrumors.com/2023/09/25/iphone-16-capture-button/">an all-new capacitive Capture Button</a>, developed internally under the codename Project Nova. Information from our sources suggests that this button will feature a force sensor in addition to  "tact-switching" functionality, although it is still unclear what the latter entails. The Capture Button is located in the same spot as the mmWave cutout on &zwnj;iPhone&zwnj; models sold in the United States, so with the &zwnj;iPhone 16&zwnj;, the mmWave antenna has been moved to the left side of the device.<br/>
-<br/>
-While it looks like we're getting a new button, Apple has developed an alternate hardware configuration that does not feature a Capture Button, which it could revert to if there are hardware issues during the button's development.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/iPhone-16-Mock-Front-1.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-925737" /><br/>
-The front of the &zwnj;iPhone 16&zwnj; does not feature any noticeable changes, and it continues to use the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a>. The base model &zwnj;iPhone 16&zwnj; is expected to feature a display similar to the one used on its predecessor, with no major differences. As with the &zwnj;iPhone 15&zwnj;, the &zwnj;iPhone 16&zwnj; has a USB-C port at the bottom of the device.<br/>
-<br/>
-As far as colors are concerned, early prototypes have been seen in three colors: yellow, pink and midnight, while documentation suggests that other color options initially developed for the &zwnj;iPhone 15&zwnj; were also used for testing at one point.<br/>
-<br/>
-To sum up, though the &zwnj;iPhone 16&zwnj; won't have notable changes to its chassis, it will have the following key updates:<br/>
-<br/>
-<ul><br/>
-<li>Vertical camera arrangement, likely similar to &zwnj;iPhone&zwnj; 12</li><br/>
-<li>New capacitive Capture Button</li><br/>
-<li>Capacitive Action Button</li><br/>
-</ul><br/>
-<br/>
-The information presented here accurately portrays and describes early designs of the &zwnj;iPhone 16&zwnj;, but the existence of multiple hardware configurations suggests that Apple's design plans have not yet been finalized. The &zwnj;iPhone 16&zwnj; is still far from release, and additional changes are always possible.<br/>
-<br/>
-For additional information on what to expect, check out our rumor roundup pages for <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> and <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a>.<br/>
-<br/>
-<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/12/early-iphone-16-prototypes/">iPhone 16 Early Prototypes: What Apple&#039;s Next-Generation iPhone Will Look Like</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-early-prototypes-what-apples-next-generation-iphone-will-look-like.2413551/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
