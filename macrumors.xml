@@ -14,12 +14,177 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 28 Dec 2023 12:02:43 PST</lastBuildDate>
+	<lastBuildDate>Thu, 28 Dec 2023 16:09:41 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>8 Tips to Extend Your iPhone&#039;s Battery Life</title>
+		<link>https://www.macrumors.com/2023/12/28/8-battery-life-tips/</link>
+		<comments>https://forums.macrumors.com/threads/8-tips-to-extend-your-iphones-battery-life.2414908/</comments>
+		<pubDate>Thu, 28 Dec 2023 14:25:29 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2023/12/28/8-battery-life-tips/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[With New Year's Eve and New Year's Day approaching, many <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users may need to get the most out of their &zwnj;iPhone&zwnj;'s battery life for extended parties and other festivities. We've rounded up some helpful battery tips that you might want to put into action to ensure your &zwnj;iPhone&zwnj; keeps working long into the night.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/best-early-black-friday-iphone-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-920873" /><br/>
+<h2>1. Disable Haptic Keyboard Feedback</h2><br/>
+If you've turned on the keyboard option that provides haptic feedback when you tap the on-screen keys, you might want to turn it off temporarily because it <a href="https://www.macrumors.com/2022/09/20/ios-16-haptic-keyboard-battery-life/">can affect battery life</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-872406" src="https://images.macrumors.com/article-new/2022/11/haptic-keyboard-feedback.jpg" alt="" width="2000" height="1961" /><br/>
+Here's how to turn it off:<br/>
+<ol><br/>
+ 	<li>Open up the Settings app.</li><br/>
+ 	<li>Tap on Sounds & Haptics.</li><br/>
+ 	<li>Tap on Keyboard Feedback.</li><br/>
+ 	<li>Toggle off Haptic.</li><br/>
+</ol><br/>
+<h2>2. Turn Off Proximity AirDrop Sharing</h2><br/>
+When you hold two iPhones running <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> together, or an &zwnj;iPhone&zwnj; running &zwnj;iOS 17&zwnj; and an Apple Watch running watchOS 10.1 or later, the &zwnj;iPhone&zwnj; initiates a proximity-based AirDrop or contact transfer protocol. If you're continually triggering this, it can drain battery, so if your &zwnj;iPhone&zwnj; is near many other iPhones and you're getting the AirDrop interface over and over again, you should turn it off.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-905665" src="https://images.macrumors.com/article-new/2023/08/airdrop-proximity-sharing.jpg" alt="" width="2000" height="1327" /><br/>
+To do so, go to Settings &gt; General &gt; AirDrop and toggle off "Bringing Devices Together."<br/>
+<br/>
+<h2>3. Use Offline Maps</h2><br/>
+If you're traveling somewhere, you can save some battery life if you download <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> for offline usage, a feature available on iPhones running &zwnj;iOS 17&zwnj; or later. Offline maps are especially useful if you're going somewhere with poor cellular connectivity because you can get turn-by-turn directions without the battery drain. Just make sure to turn cellular off in spotty areas.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-899235" src="https://images.macrumors.com/article-new/2023/06/Apple-Maps-Offline.jpeg" alt="" width="1600" height="900" /><br/>
+Downloading a map is as simple as searching for a location, tapping on the download button, and selecting the area of the map to download. We have a dedicated how-to that <a href="https://www.macrumors.com/how-to/download-offline-maps-ios-apple-maps/">walks you through all of the steps</a>.<br/>
+<br/>
+<h2>4. Turn Off Live Activities</h2><br/>
+Live Activities let apps keep an ongoing notification on the Lock Screen or in the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a>, which can cause noticeable battery drain.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-849710" src="https://images.macrumors.com/article-new/2022/06/ios-16-live-activities-feature.jpg" alt="" width="2500" height="1406" /><br/>
+Live Activities can be disabled by following these steps:<br/>
+<ol><br/>
+ 	<li>Open up the Settings app.</li><br/>
+ 	<li>Go to <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> &amp; Passcode.</li><br/>
+ 	<li>Enter your passcode to unlock the &zwnj;iPhone&zwnj;.</li><br/>
+ 	<li>Scroll down and toggle off Live Activities.</li><br/>
+</ol><br/>
+This will prevent Live Activities from showing up on the Lock Screen, but you'll want to take this one step further. In the individual app sections in the Settings app, you can disable Live Activities on an app-by-app basis, or avoid using Live Activities features within apps.<br/>
+<br/>
+<h2>5. Turn Off Always-On Display</h2><br/>
+If you have an <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> Pro or an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, the always-on display leaves the time, your wallpaper, widgets, and Live Activities visible on the Lock Screen even when your &zwnj;iPhone&zwnj; is locked.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-864733" src="https://images.macrumors.com/article-new/2022/09/turn-off-always-on-display.jpg" alt="settings" width="640" height="408" /><br/>
+The display uses a 1Hz refresh rate to preserve battery, and the display turns off when the &zwnj;iPhone&zwnj; is in a pocket, but always-on display still drains battery faster than no always-on display.<br/>
+<br/>
+You can turn off the Always-On display by following these steps:<br/>
+<ol><br/>
+ 	<li>Open up the Settings app.</li><br/>
+ 	<li>Tap on Display &amp; Brightness.</li><br/>
+ 	<li>Tap on Always On Display.</li><br/>
+ 	<li>Toggle off Always On Display.</li><br/>
+</ol><br/>
+It's not entirely clear just how much battery life the always-on display drains because it's going to vary from use case to use case, but even if it's only a few percent, it can be worth turning off.<br/>
+<br/>
+<h2>6. Use Focus Modes</h2><br/>
+Apple's built-in Focus option can cut down on the number of notifications that you're receiving, and fewer notifications means less opportunity for apps to wake up your display and cause battery drain.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-850799" src="https://images.macrumors.com/article-new/2022/06/ios-16-lock-screen-focus.jpg" alt="" width="2000" height="1250" /><br/>
+Focus modes let you choose which apps and people can send you notifications and when, so during work hours you can make sure you're only getting work notifications, and during personal time, you can limit your work notifications. You can limit notifications when driving, when you're asleep, when you're working out, and in any other scenario you can think of.<br/>
+<br/>
+You'll still get all of your notifications when the Focus mode ends, but all in one alert rather than multiple. Turning off unwanted notifications from apps is still the best method for saving battery life, but Focus modes let you keep your notifications while still cutting down on the number that you receive.<br/>
+<br/>
+Apple made Focus modes relatively easy to set up, but it still takes some work to get everything running, so <a href="https://www.macrumors.com/guide/ios-16-focus/">we have a dedicated Focus guide</a>. You can find all of the Focus features in the Focus section of the Settings app.<br/>
+<br/>
+<h2>7. Limit When and How Often Apps Can Access Location</h2><br/>
+It's always good to check in on privacy and access settings to make sure apps and services aren't doing things you don't want them to be doing.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-872415" src="https://images.macrumors.com/article-new/2022/11/ios-16-location-services.jpg" alt="" width="2000" height="1299" /><br/>
+Limiting the apps that have access to your location and how often apps can access that data can save battery life.<br/>
+<ol><br/>
+ 	<li>Open up the Settings app.</li><br/>
+ 	<li>Choose Privacy &amp; Security.</li><br/>
+ 	<li>Tap Location Services.</li><br/>
+ 	<li>Review the list and edit settings by tapping on the name of each app in the list.</li><br/>
+</ol><br/>
+You have four possible choices for location settings for each app, though not all four choices will always be available for every app depending on what it does. You can select the following: Never, Ask Next Time Or When I Share, While Using the App, and Always.<br/>
+<br/>
+Never will prevent an app from ever accessing your location, and unless there's a specific need for an app to know where you are, such as a mapping app, setting location access to Never is the best choice. While Using the App allows the app to detect your location only when the app is open and being actively used. If you close the app or switch over to another app, location access ends. This is the second best setting to use.<br/>
+<br/>
+Ask Next Time Or When I Share will prompt an app to ask you with a pop-up the next time that it wants your location, so you can temporarily approve it. With this setting, location access is off until expressly allowed via the pop-up. Always lets an app to have access to your location at all times, regardless of whether it's open or closed. This will result in the most battery drain and should be limited to only the apps that you need the most.<br/>
+<br/>
+Many apps ask for location information that don't really need it to function (for example, a banking app might want location access to show nearby ATMs, which is also available through entering a zip code), so clearing the cruft will ensure no apps are accessing your location without express permission.<br/>
+<br/>
+<h2 id="13._use_low_power_mode">8. Use Low Power Mode</h2><br/>
+Turning on Low Power Mode is an obvious choice for maintaining battery without having to hassle with a lot of settings, and you can toggle it on from Control Center, the Battery section of the Settings app, or using <a href="https://www.macrumors.com/guide/siri/">Siri</a>. <a href="https://support.apple.com/en-us/HT205234">Low Power Mode</a> cuts down on background activity, turns off your display after inactivity more quickly, limits display refresh rate, limits email fetch, cuts down on visual effects, and more.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-858449" src="https://images.macrumors.com/article-new/2022/08/ios-16-beta-6-battery-percent-low-power.jpg" alt="" width="2000" height="1125" /><br/>
+Low Power Mode can be set to turn on at a certain battery percentage using Shortcuts, which is a handy way to have it automatically turn on when you need it, and it's the best option if you're someone who doesn't often remember to toggle on Low Power Mode.<br/>
+<br/>
+<h2>More Tips</h2><br/>
+Have favorite tips for prolonging your &zwnj;iPhone&zwnj;'s battery life? Let us know in the comments below.<br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/28/8-battery-life-tips/">8 Tips to Extend Your iPhone&#039;s Battery Life</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/8-tips-to-extend-your-iphones-battery-life.2414908/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Use These iPhone Features to Stay Safer</title>
+		<link>https://www.macrumors.com/guide/iphone-safety-features/</link>
+		<comments>https://forums.macrumors.com/threads/use-these-iphone-features-to-stay-safer.2414902/</comments>
+		<pubDate>Thu, 28 Dec 2023 13:03:14 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/iphone-safety-features&#038;post_date=1703808194/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[The <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> has quite a few built-in safety features that are designed to help keep you safe, and with New Year's Eve parties approaching, it may be worth a refresher on what your &zwnj;iPhone&zwnj; can do and the options you can enable to protect yourself.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/01/FindMy-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-779341" /><br/>
+<h2 id="stolen_device_protection">Stolen Device Protection</h2><br/>
+<a href="https://www.macrumors.com/2023/12/12/ios-17-3-stolen-device-protection-feature/">Stolen Device Protection keeps</a> your data safe in case someone steals your &zwnj;iPhone&zwnj; and also happens to know your passcode. Earlier this year, there were reports about thieves spying on a victim's passcode before stealing an &zwnj;iPhone&zwnj;, giving them access to <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a>, <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Keychain passwords, banking accounts, and more.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/ios-stolen-device-protection.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-926120" /><br/>
+With Stolen Device Protection, <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> authentication is required to view passwords in &zwnj;iCloud&zwnj; Keychain, turn off Lost Mode, erase content and settings, use saved Safari payment methods, and apply for or view an <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a>. Authentication <em>and</em> an hour-long waiting period is required for changing an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> password, changing an &zwnj;iPhone&zwnj; passcode, removing &zwnj;Face ID&zwnj;/&zwnj;Touch ID&zwnj;, and turning off &zwnj;Find My&zwnj;.<br/>
+<br/>
+Stolen Device Protection is actually an iOS 17.3 feature, so there are some extra steps to use it. You'll need to download and install the iOS 17.3 public beta <a href="https://beta.apple.com">from Apple's beta software website</a> and follow the instructions. It's a little bit of a hassle, but if you're going to be out in public and drinking, Stolen Device Protection is worth the effort just in case.<br/>
+<br/>
+<b>Note:</b> Apple does not recommend installing beta software on a primary device, and there is a chance that the install could cause issues with your &zwnj;iPhone&zwnj;. We have not seen reports of iOS 17.3 causing problems, but it is worth weighing the benefits and downsides before opting for a beta. <br/>
+<br/>
+<h2 id="messages_check_in">Messages Check In</h2><br/>
+If you're going out somewhere, you can use the Check In feature in Messages to let a trusted friend or family member know where you're going and when you should arrive.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/messages-check-in.jpg" alt="" width="4320" height="2700" class="aligncenter size-full wp-image-909078" /><br/>
+When you head out, turn on Check In, and it will keep track of your progress. If you stop along the way, Messages will ping you to see what's going on, and if you do not respond, helpful information like your battery level, location, route traveled, location of last &zwnj;iPhone&zwnj; unlock, and cellular status will be shared with the trusted person.<br/>
+<br/>
+Check In is a feature that ensures someone is keeping an eye on you from afar, and if you're in an accident, accosted, or otherwise in trouble, it gives detailed information that can be used to find you.<br/>
+<br/>
+<h2 id="use_find_my">Use Find My</h2><br/>
+You can also give a trusted friend or family member access to your location through the &zwnj;Find My&zwnj; app. Go to &zwnj;Find My&zwnj;, choose the People tab, and tap Share My Location.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/find-my-friends-precision-finding.jpg" alt="" width="3024" height="1690" class="aligncenter size-full wp-image-911341" /><br/>
+With the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and the second-generation Ultra Wideband chip, &zwnj;Find My&zwnj; can be used to track down your friends in a crowd if you're in a place like a concert venue. Note that both people need to have an &zwnj;iPhone 15&zwnj; model.<br/>
+<br/>
+<h2 id="medical_id">Medical ID</h2><br/>
+Make sure your medical information is up to date in the Health app. Tap on your profile and then go to Medical ID to update your information.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/iphone-medical-id.jpg" alt="" width="1316" height="740" class="aligncenter size-full wp-image-928279" /><br/>
+This is a quick way for someone to see your name, age, allergies, and emergency contacts, and it's data that can be viewed when your &zwnj;iPhone&zwnj; is locked.<br/>
+<br/>
+<h2 id="safety_check">Safety Check</h2><br/>
+It's a good idea to use the &zwnj;iPhone&zwnj;'s Safety Check feature every now and then to see who you're sharing data with and who can track you. Open up the Settings app, go to Privacy and Security, scroll down, and tap on Safety Check.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/08/ios-16-manage-sharing-2.jpg" alt="" width="2000" height="1299" class="aligncenter size-full wp-image-856675" /><br/>
+In an emergency, you can use the Emergency Reset option, but for a check up, you'll want to tap on Manage Sharing &amp; Access. It will show you who can see your location, which apps have access to your location data, who you share photo albums with, who you share notes with, all devices logged in to your &zwnj;Apple ID&zwnj;, and more.<br/>
+<br/>
+<h2 id="features_to_know_about">Features to Know About</h2><br/>
+<ul><br/>
+ <li><strong>Emergency SOS</strong> - If you press and hold on the side button and either volume button on the &zwnj;iPhone&zwnj;, you can call emergency services surreptitiously. There's also an option to press five times on the side button to call, which is an even easier method. Adjust your SOS settings by going to Settings &gt; Emergency SOS.</li><br/>
+ <li><strong>Emergency SOS on Apple Watch</strong> - To contact emergency services on the Apple Watch, hold down the side button until the emergency call slider appears, and then drag it to make the call.</li><br/>
+ <li><strong>Crash Detection</strong> - Crash Detection contacts local emergency services if a crash is detected. It's on by default, but double check that it's enabled under Settings > Emergency SOS > Call After Severe Crash.</li><br/>
+ <li><strong>Satellite SOS</strong> - In a remote area where you don't have signal, you can use satellite connectivity to get help in an emergency. It's a feature available on the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> and 15 models, and note that you will need to be outside and have a line of sight to the sky for the best connectivity.</li><br/>
+ <li><strong>Use Siri</strong> - You can ask <a href="https://www.macrumors.com/guide/siri/">Siri</a> to call 911 (or your local emergency number).</li><br/>
+ <li><strong>Text 911</strong> - Need to get help while staying quiet? You can text 911 in the United States by opening up the Messages app and typing 911 in the "To" field. This works on Apple Watch too.</li><br/>
+</ul><br/>
+<h2 id="other_safety_tips">Other Safety Tips</h2><br/>
+Know of other safety tips &zwnj;iPhone&zwnj; users should be aware of? Share them in the comments below.<br/>This article, &quot;<a href="https://www.macrumors.com/guide/iphone-safety-features/">Use These iPhone Features to Stay Safer</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/use-these-iphone-features-to-stay-safer.2414902/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>How to Keep Listening to YouTube in the Background or With iPhone Locked</title>
@@ -668,54 +833,6 @@ In addition to a gift card, the first 50,000 customers in Japan who purchase a n
 Apple has shared <a href="https://www.apple.com/jp/shop/gifts/new-year/terms-conditions">terms and conditions</a> for the promotion with additional details. Notably, iPhone orders placed through the Apple Store app will not qualify for a limited-edition AirTag, so make sure to complete your purchase on Apple's website or at a physical Apple Store in Japan if you are interested in receiving one.<br/>
 <br/>
 Apple holds a Japanese New Year promotion on an annual basis, and this is the third consecutive year it has offered a special AirTag.<div class="linkback">Tag: <a href="https://www.macrumors.com/roundup/airtag/">AirTag</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/26/apples-japanese-new-year-promotion-2024/">Apple Reveals Annual Japanese New Year Promotion With Special AirTag</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-reveals-annual-japanese-new-year-promotion-with-special-airtag.2414723/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Lowe&#039;s Retail Stores Now Accept Apple Pay</title>
-		<link>https://www.macrumors.com/2023/12/26/lowes-apple-pay/</link>
-		<comments>https://forums.macrumors.com/threads/lowes-retail-stores-now-accept-apple-pay.2414712/</comments>
-		<pubDate>Tue, 26 Dec 2023 07:52:04 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/26/lowes-apple-pay/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Pay</category>
-		
-
-		<description><![CDATA[Lowe's home improvement stores across the United States have finally started accepting <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a>. &zwnj;Apple Pay&zwnj; has been available in the Lowe's app and the Lowe's website for some time, but the company has been a longtime &zwnj;Apple Pay&zwnj; holdout for its retail store locations.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-921515" /><br/>
-<a href="https://www.reddit.com/r/Lowes/comments/18k2k1u/tap_and_pay_and_apple_pay/">On Reddit</a>, Lowe's employees said in late December that they had received a memo about the upcoming &zwnj;Apple Pay&zwnj; and contactless payment rollout, which was set to begin on December 20.<br/>
-<br/>
-A Lowe's customer on the <em>MacRumors</em> forums said that he was able to <a href="https://forums.macrumors.com/threads/apple-pay-lowes.2388023/page-2">successfully use Apple Pay</a> at two different Lowe's stores in Texas, confirming the rollout.<br/>
-<br/>
-The Lowe's employees on Reddit said they were glad to hear about the rollout due to the <a href="https://www.reddit.com/r/Lowes/comments/14uj8vt/do_you_guys_take_apple_pay/">number of customers</a> asking to use contactless payment options. There have also been many complaint threads from Lowe's customers about the lack of &zwnj;Apple Pay&zwnj; <a href="https://www.reddit.com/r/Lowes/comments/1005132/apple_pay/">on Reddit</a> and the <em>MacRumors</em> forums.<br/>
-<br/>
-Lowe's has more than 2,000 stores in the United States, making it the second largest home improvement store after Home Depot. Accepting &zwnj;Apple Pay&zwnj; could lure customers to Lowe's over Home Depot, as Home Depot does not accept the payment technology at this time.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-music-apple-pay-card-icloud-fitness.134">Apple Music, Apple Pay/Card, iCloud, Fitness+</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/26/lowes-apple-pay/">Lowe&#039;s Retail Stores Now Accept Apple Pay</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/lowes-retail-stores-now-accept-apple-pay.2414712/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Watch Import Ban Now Official, Apple Appeals Decision</title>
-		<link>https://www.macrumors.com/2023/12/26/apple-watch-import-ban-official/</link>
-		<comments>https://forums.macrumors.com/threads/apple-watch-import-ban-now-official-apple-appeals-decision.2414706/</comments>
-		<pubDate>Tue, 26 Dec 2023 07:18:23 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2023/12/26/apple-watch-import-ban-official/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>ITC</category>
-		<category>Patent Lawsuits</category>
-		<category>Masimo</category>
-		
-
-		<description><![CDATA[Apple is now officially unable to sell the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a> in the United States as the International Trade Commission's import ban has become final. This morning, the Biden administration announced that it would not veto the ban.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/apple-watch-9-red.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-922237" /><br/>
-The Office of the United States Trade Representative <a href="https://www.ustr.gov/about-us/policy-offices/press-office/press-releases/2023/december/ustr-statement-section-337-review">said that</a> after "careful consultations" it was opting not to reverse the ITC's decision.<blockquote>"On October 26, 2023, the U.S. International Trade Commission found that Apple, Inc. infringed two patents owned by Masimo Corporation and Cercacor Laboratories, Inc, both based in the United States. Since 2005, the Office of the United States Trade Representative has been delegated the President's authority under Section 337 of the Trade Act of 1930 to review the ITC's decision for a 60-day period. After careful consultations, Ambassador Tai decided not to reverse the ITC's determination and the ITC's decision became final on December 26, 2023."</blockquote>Apple in a statement to <em><a href="https://www.reuters.com/technology/biden-administration-allows-us-trade-tribunals-ban-apple-watch-imports-2023-12-26/">Reuters</a></em> said that it is "taking all measures" to get the &zwnj;Apple Watch Ultra 2&zwnj; and &zwnj;Apple Watch Series 9&zwnj; back on store shelves as soon as possible.<br/>
-<br/>
-Apple has filed an appeal with the U.S. Court of Appeals for the Federal Circuit in Washington, and it has been <a href="https://www.macrumors.com/2023/12/18/apple-watch-import-ban-software-fix/">working on a software solution</a> that it hopes will allow it to resume sales.<br/>
-<br/>
-The &zwnj;Apple Watch Series 9&zwnj; and the &zwnj;Apple Watch Ultra 2&zwnj; are not able to be sold by Apple in the United States at this time because the ITC ruled that the devices violate blood oxygen monitoring technology owned by medical device company Masimo.<br/>
-<br/>
-The ban is limited to Apple Watch models that have a blood oxygen sensor, so the <a href="https://www.macrumors.com/roundup/apple-watch-se/">Apple Watch SE</a> is still on sale. It also only applies to Apple retail stores in the United States, so all Apple Watch models are still available in other countries. Stores like Target, Best Buy, and Walmart are able to continue Apple Watch sales as long as supplies hold out, but Apple is not able to bring more units into the United States from overseas.<br/>
-<br/>
-Apple will not be able to sell the &zwnj;Apple Watch Series 9&zwnj; or the &zwnj;Apple Watch Ultra 2&zwnj; unless the appeal is successful, it settles with Masimo, or it finds a way to change the blood oxygen sensor so it is not using Masimo's patented technology.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/itc/">ITC</a>, <a href="https://www.macrumors.com/guide/patent-lawsuits/">Patent Lawsuits</a>, <a href="https://www.macrumors.com/guide/masimo/">Masimo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2023/12/26/apple-watch-import-ban-official/">Apple Watch Import Ban Now Official, Apple Appeals Decision</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-watch-import-ban-now-official-apple-appeals-decision.2414706/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
