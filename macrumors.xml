@@ -14,12 +14,65 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 09 Jan 2024 00:03:55 PST</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jan 2024 04:04:26 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>AirDrop &#039;Cracked&#039; By Chinese Authorities to Identify Senders</title>
+		<link>https://www.macrumors.com/2024/01/09/airdrop-cracked-chinese-authorities/</link>
+		<comments>https://forums.macrumors.com/threads/airdrop-cracked-by-chinese-authorities-to-identify-senders.2415850/</comments>
+		<pubDate>Tue, 09 Jan 2024 03:36:37 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/airdrop-cracked-chinese-authorities/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>China</category>
+		<category>AirDrop</category>
+		
+
+		<description><![CDATA[Apple's AirDrop feature has reportedly been cracked by a Chinese state-backed institution, allowing authorities to identify senders who share "undesirable content" over the peer-to-peer wireless protocol (via <em><a href="https://www.bloomberg.com/news/articles/2024-01-09/china-says-cracked-apple-s-airdrop-to-identify-message-sources">Bloomberg</a></em>).<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/airdrop-videos-ios-17.jpg" alt="" width="2484" height="1391" class="aligncenter size-full wp-image-900711" /><br/>
+AirDrop is Apple's ad-hoc service that lets users discover nearby Macs and iOS devices and securely transfer files between them over Wi-Fi and Bluetooth. Users can send and receive photos, videos, documents, contacts, passwords and anything else that can be transferred from a Share Sheet.<br/>
+<br/>
+Apple advertises the protocol as secure because the wireless connection uses Transport Layer Security (TLS) encryption, but the Beijing Municipal Bureau of Justice (BMBJ) says it has devised a way to bypass the protocol's encryption and reveal identifying information.<br/>
+<br/>
+According to the <a href="https://sfj.beijing.gov.cn/sfj/sfdt/ywdt82/flfw93/436331732/index.html">BMBJ's website</a>, <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> device logs were analyzed to create a "rainbow table" which allowed investigators to convert hidden hash values into the original text and correlate the phone numbers and email accounts of AirDrop content senders.<br/>
+<br/>
+The "technological breakthrough" has successfully helped the public security authorities identify a number of criminal suspects, who use the AirDrop function to spread illegal content, the BMBJ added. <br/>
+<br/>
+"It improves the efficiency and accuracy of case-solving and prevents the spread of inappropriate remarks as well as potential bad influences," the bureau added.<br/>
+<br/>
+It is not known if the security flaw in the AirDrop protocol has been exploited by a government agency before now, but it is not the first time a flaw has been discovered. In April 2021, German researchers <a href="https://www.macrumors.com/2021/04/23/airdrop-researchers-security-flaw/">found</a> that the mutual authentication mechanism that confirms both the receiver and sender are on each other's address book could be used to expose private information. According to the researchers, Apple was informed of the flaw in May of 2019, but did not fix it.<br/>
+<br/>
+Apple limited the use of the AirDrop on devices in China in November 2022, after anti-government activists used the function to spread political leaflets. AirDrop became restricted by default to Contacts Only, and the option to turn on AirDrop for "Everyone" was limited to 10 minutes. <br/>
+<br/>
+With the launch of iOS 16.2, Apple expanded the AirDrop limitation it introduced in China to all users globally, but Apple said that the feature was actually introduced in an effort to cut down on spam content spread in crowded areas like malls and airports.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/china/">China</a>, <a href="https://www.macrumors.com/guide/airdrop/">AirDrop</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/airdrop-cracked-chinese-authorities/">AirDrop &#039;Cracked&#039; By Chinese Authorities to Identify Senders</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/airdrop-cracked-by-chinese-authorities-to-identify-senders.2415850/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Report: Apple Received Over 2,500 US Patents in 2023</title>
+		<link>https://www.macrumors.com/2024/01/09/report-apple-received-over-2500-patents-in-2023/</link>
+		<comments>https://forums.macrumors.com/threads/report-apple-received-over-2-500-us-patents-in-2023.2415848/</comments>
+		<pubDate>Tue, 09 Jan 2024 03:18:42 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/report-apple-received-over-2500-patents-in-2023/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Patent</category>
+		
+
+		<description><![CDATA[Apple was granted 2,536 patents in the United States last year, surpassed by only six other companies, IFI Claims reports.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/Apple-Logo-16x9-US-Flag-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-926535" /><br/>
+In its <a href="https://www.ificlaims.com/rankings-top-50-2023.htm">rankings of the top 50 U.S. patent assignees in 2023</a>, IFI Claims Patent Services shows that Apple was granted 251 more patents by the U.S. Patent and Trademark Office in 2023 compared to the previous year, an 11% increase. This moved the company one place up the annual patent rankings.<br/>
+<br/>
+Apple's number of granted patents was surpassed by Samsung Electronics, Qualcomm, TSMC, IBM, Canon, and Samsung Display. Samsung Electronics again dwarfed the other top companies, with 6,165 patents granted. Apple outranked companies including LG, Micron, Intel, Huawei, Toyota, Google, Microsoft, BOE, and Amazon. Out of IFI's "Magnificent Seven" technology companies, encompassing Google, Amazon, Apple, Meta, Microsoft, Nvidia, and Tesla, Apple was the clear leader for new patents in 2023.<br/>
+<br/>
+<a href="https://www.ificlaims.com/rankings-global-assets-2023.htm">IFI Claims' 2023 Global 250 rankings</a> reveal the world's largest patent holders by looking at all of the patents currently held by companies. In these rankings, Apple takes 51st place with 21,407 active patents. Panasonic is currently the world leader for active patents, with 94,341 in total, edging out Samsung who has 92,593 patents. <br/>
+<br/>
+<a href="https://www.macrumors.com/guide/patent/">Apple's patent filings</a> often reveal interesting insights into the company's specific areas of research and development, but they are not representative of its immediate plans. Recent interesting Apple filings include designs for <a href="https://www.macrumors.com/2021/11/18/apple-researching-all-glass-designs/">all-glass iPhones and Apple Watches</a>, a <a href="https://www.macrumors.com/2023/10/10/future-macbook-removable-key-patent/">removable MacBook key that works as a mouse</a>, <a href="https://www.macrumors.com/2022/01/27/apple-could-add-user-authentication-to-airpods/">user authentication technology for AirPods</a>, a <a href="https://www.macrumors.com/2021/08/17/apple-develops-apple-watch-hydration-sensor/">hydration sensor for the Apple Watch</a>, use of the <a href="https://www.macrumors.com/2021/03/30/apple-patent-cheese-grater-iphone/">Mac Pro's "cheese grater" like design on other Apple devices</a>, <a href="https://www.macrumors.com/2021/07/13/iphone-periscope-camera-patent-granted/">periscope camera systems</a>, and <a href="https://www.macrumors.com/2021/03/25/deployable-feet-to-enhance-macbook-cooling/">deployable MacBook Pro feet</a> to aid cooling.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/patent/">Patent</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/report-apple-received-over-2500-patents-in-2023/">Report: Apple Received Over 2,500 US Patents in 2023</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/report-apple-received-over-2-500-us-patents-in-2023.2415848/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Shares New &#039;Get Ready&#039; Ad Ahead of Vision Pro Launch</title>
@@ -455,52 +508,6 @@ Apple says that the Vision Pro is "a revolutionary spatial computer that transfo
 <br/>
 <div class="center-wrap"><iframe width="615" height="1093" src="https://www.youtube.com/embed/mFvSGXXGn8k" title="Apple Vision Pro Available February 2nd! #visionpro #apple #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
 The Vision Pro is set to be available starting at &#36;3,499 with 256GB of storage. Pre-orders begin two weeks prior to launch, opening on Friday, January 19 at 5 a.m. PST.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/apple-announces-february-2-vision-pro-launch/">Apple Announces February 2 Launch Date for Vision Pro Headset</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-announces-february-2-launch-date-for-vision-pro-headset.2415753/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>CES 2024: Chipolo Launches &#039;Perfectly Imperfect&#039; Find My Wallet Trackers</title>
-		<link>https://www.macrumors.com/2024/01/08/ces-2024-chipolo-card-spot/</link>
-		<comments>https://forums.macrumors.com/threads/ces-2024-chipolo-launches-perfectly-imperfect-find-my-wallet-trackers.2415752/</comments>
-		<pubDate>Mon, 08 Jan 2024 06:00:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/08/ces-2024-chipolo-card-spot/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Chipolo</category>
-		<category>CES 2024</category>
-		
-
-		<description><![CDATA[<a href="https://chipolo.net/en-us/">Chipolo</a> today announced the launch of a series of "Perfectly Imperfect" CARD Spot wallet trackers, which are identical to its standard Chipolo CARD Spot trackers, but with flaws in the plastic casing.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/chipolo-card-spot.jpg" alt="" width="2000" height="1333" class="aligncenter size-full wp-image-929073" /><br/>
-This limited edition series takes advantage of plastic that would otherwise have been discarded and wasted. The item trackers have a blemish on one side and a "Perfectly Imperfect" engraving on the other side.<blockquote>"Chipolo is excited to introduce the 'Perfectly Imperfect' limited series of CARD Spot trackers, as it's another testament to our dedication to create products that make our lives easier -- both physically, through functionality and mentally, by helping to bring people peace of mind", said Primož Zelenšek, Co-founder and CEO at Chipolo. "Through this campaign, we want to inspire a shift in perspective, encouraging people to embrace their imperfections and recognize the real beauty in what makes each of us irreplaceable."</blockquote>The Chipolo CARD Spot is designed to fit inside a wallet, and it works with Apple's <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a> network. The CARD Spot can be tracked right alongside Apple devices and the <a href="https://www.macrumors.com/guide/airtags/">AirTag</a> in the &zwnj;Find My&zwnj; app.<br/>
-<br/>
-Chipolo plans to donate &#36;1 to a non-profit organization for each of the CARD Spots that are sold, and each one is <a href="https://chipolo.net/en-us/">priced at &#36;35</a>, the same as the standard CARD Spots. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/chipolo/">Chipolo</a>, <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/ces-2024-chipolo-card-spot/">CES 2024: Chipolo Launches &#039;Perfectly Imperfect&#039; Find My Wallet Trackers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ces-2024-chipolo-launches-perfectly-imperfect-find-my-wallet-trackers.2415752/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>CES 2024: Samsung Unveils Refreshed iMac-Style 32-Inch 4K Smart Monitor</title>
-		<link>https://www.macrumors.com/2024/01/08/samsung-smart-monitor-4k-refresh/</link>
-		<comments>https://forums.macrumors.com/threads/ces-2024-samsung-unveils-refreshed-imac-style-32-inch-4k-smart-monitor.2415750/</comments>
-		<pubDate>Mon, 08 Jan 2024 05:23:08 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/08/samsung-smart-monitor-4k-refresh/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Samsung</category>
-		<category>CES 2024</category>
-		
-
-		<description><![CDATA[Samsung at CES has announced its popular Smart Monitor M8 is getting a refresh for 2024, with some extra software features seemingly aimed at deepening the display's support for other devices in the company's ecosystem.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/Samsung-Smart-Monitor-M80D.jpg" alt="" width="1200" height="800" class="aligncenter size-full wp-image-929427" /><br/>
-The upcoming "M80D" model includes a Multi Control feature that allows images and text to be moved between the display and a Galaxy Book, Tablet, or Phone, while a Galaxy Buds owners will be able to pair their earphones for a spatial audio experience with head tracking.<br/>
-<br/>
-Samsung says it has also added the ability to pair a Galaxy Watch for those looking to perform guided workouts using the display, and an easier way to control monitor settings with the click of a mouse, where previous models only allowed for adjustments via a remote.<br/>
-<br/>
-Otherwise, it looks like the iMac-style 4K flat-panel monitor hasn't changed in the hardware department from <a href="https://www.macrumors.com/2023/05/24/samsung-smart-monitor-m8-2023-update/">last year's M8 model</a>, which features 400 nits of brightness, a 60Hz refresh rate (non variable), 99% sRGB, and adaptive picture technology.<br/>
-<br/>
-In addition, the display retains key features like USB-C charging connectivity, <a href="https://www.macrumors.com/guide/airplay/">AirPlay</a> 2 support, an integrated webcam, and several smart TV features that enable it to be used when not connected to a PC. <br/>
-<br/>
-Samsung's M8 doesn't support the P3 color gamut and isn't as bright as Apple's 5K Studio Display, but as a more affordable alternative it is likely remain appealing to some Mac users.<br/>
-<br/>
-The original M8 comes in 27-inch (~&#36;650) and 32-inch (~&#36;700) sizes, although Samsung only mentioned a 32-inch version of the M80D. Regardless, both sizes have a 11.39mm thick chassis, which is 0.1mm thinner than Apple's <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, and include a flat back, thin bezels, and a height and tilt adjustable stand. Expect Samsung's refreshed monitor to arrive in sometime later in the year.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/samsung/">Samsung</a>, <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/samsung-smart-monitor-4k-refresh/">CES 2024: Samsung Unveils Refreshed iMac-Style 32-Inch 4K Smart Monitor</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ces-2024-samsung-unveils-refreshed-imac-style-32-inch-4k-smart-monitor.2415750/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
