@@ -14,12 +14,183 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 09 Jan 2024 08:03:21 PST</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jan 2024 12:03:18 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>When to Expect the AirTag 2 to Launch</title>
+		<link>https://www.macrumors.com/2024/01/09/airtag-2-release-date-and-features/</link>
+		<comments>https://forums.macrumors.com/threads/when-to-expect-the-airtag-2-to-launch.2415902/</comments>
+		<pubDate>Tue, 09 Jan 2024 11:34:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/airtag-2-release-date-and-features/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>AirTag</category>
+		
+
+		<description><![CDATA[Apple released its <a href="https://www.apple.com/shop/buy-airtag/airtag">AirTag</a> item tracker in April 2021. The accessory has not received any hardware updates since, but there have been rumors about a new model.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/airtag-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-903337" /><br/>
+Below, we recap rumors about when the second-generation AirTag might be released, as well as potential new features to expect.<br/>
+<br/>
+<h2>Timing</h2><br/>
+Apple supply chain analyst Ming-Chi Kuo and <em>Bloomberg</em>'s Mark Gurman both expect the next AirTag to be released in 2025.<br/>
+<br/>
+In October 2023, Kuo said mass production of the second-generation AirTag had been postponed from the fourth quarter of 2024 <a href="https://www.macrumors.com/2023/10/18/airtag-2-postponed-until-2025/">until some point in 2025</a>, but he did not provide a reason for the apparent change in plans.<br/>
+<br/>
+Gurman echoed this revised timeframe <a href="https://www.bloomberg.com/news/newsletters/2024-01-07/apple-2024-plans-challenges-gen-ai-vision-pro-china-sales-app-store-changes-lr3k9p8p">in his <em>Power On</em> newsletter</a> last Sunday.<br/>
+<br/>
+"Apple considered launching its second-generation AirTags in 2024, but I'm now told new versions aren't likely to hit the market until 2025," he wrote.<br/>
+<br/>
+<h2>Features</h2><br/>
+Kuo believes the new AirTag will have some kind of <a href="https://www.macrumors.com/2023/08/02/kuo-new-airtag-production-late-2024/">integration with Apple's upcoming Vision Pro headset</a>, but he has not shared any specific details.<br/>
+<br/>
+Gurman expects the new AirTag to feature an upgraded wireless chip, but he did not elaborate on what this would mean. It is possible that the AirTag could be updated with the second-generation Ultra Wideband chip that debuted in all iPhone 15 models last year, which would pave the way for improved location accuracy for item tracking.<br/>
+<br/>
+No design or price changes have been rumored so far. Read our <a href="https://www.macrumors.com/guide/airtags-2/">AirTag 2 guide</a> for more details.<div class="linkback">Tag: <a href="https://www.macrumors.com/roundup/airtag/">AirTag</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/airtag-2-release-date-and-features/">When to Expect the AirTag 2 to Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/when-to-expect-the-airtag-2-to-launch.2415902/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Third Betas of iOS 17.3 and iPadOS 17.3 to Developers</title>
+		<link>https://www.macrumors.com/2024/01/09/apple-releases-ios-17-3-beta-3-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-third-betas-of-ios-17-3-and-ipados-17-3-to-developers.2415892/</comments>
+		<pubDate>Tue, 09 Jan 2024 10:07:35 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/apple-releases-ios-17-3-beta-3-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today seeded the third betas of upcoming iOS 17.3 and iPadOS 17.3 updates to developers for testing purposes, with the updates available a week after the release of the first <a href="https://www.macrumors.com/2024/01/03/apple-seeds-ios-17-3-beta-2-to-developers/">iOS 17.3 and iPadOS 17.3 betas</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-926334" src="https://images.macrumors.com/article-new/2023/12/iOS-17.3-Feature.jpg" alt="" width="2500" height="1406" /><br/>
+Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
+<br/>
+iOS 17.3 introduces a Stolen Device Protection feature that limits access to your private information in case someone obtains both your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and your passcode. When activated, it requires <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> identity verification to do things like accessing passwords in <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Keychain, turning off Lost Mode, making purchases through Safari with saved payment credentials, and more.<br/>
+<br/>
+There are also features that require verification <em>and</em> have a one-hour delay to access, such as changing an &zwnj;Apple ID&zwnj; passcode, an &zwnj;iPhone&zwnj; passcode, turning off <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a>, and turning off &zwnj;Face ID&zwnj;. More details can be <a href="https://www.macrumors.com/2023/12/12/ios-17-3-stolen-device-protection-feature/">found in our article on Stolen Device Protection</a>.<br/>
+<br/>
+The update also adds <a href="https://www.macrumors.com/2023/12/11/apple-music-collaborative-playlists-2024/">collaborative Apple Music playlists</a>, a feature that lets <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> subscribers share playlists with others to build shared song lists. Collaborative playlists are simple to use, can be shared with a link, and support emoji reactions.<br/>
+<br/>
+Last week, Apple pulled the second betas of iOS 17.3 and iPadOS 17.3 after the updates caused devices to go into a perpetual boot loop. Apple did not re-release the second betas, but presumably the issue is fixed in the third betas. <br/>
+<br/>
+Apple is expected to release iOS 17.3 later in January.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/apple-releases-ios-17-3-beta-3-to-developers/">Apple Seeds Third Betas of iOS 17.3 and iPadOS 17.3 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-betas-of-ios-17-3-and-ipados-17-3-to-developers.2415892/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Third Beta of macOS Sonoma 14.3 to Developers</title>
+		<link>https://www.macrumors.com/2024/01/09/apple-releases-macos-sonoma-14-3-beta-3/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-third-beta-of-macos-sonoma-14-3-to-developers.2415891/</comments>
+		<pubDate>Tue, 09 Jan 2024 10:06:12 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/apple-releases-macos-sonoma-14-3-beta-3/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today seeded the third beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.3 update to developers for testing purposes, with the software coming a week after the release of the <a href="https://www.macrumors.com/2024/01/03/apple-seeds-macos-sonoma-14-3-beta-2/">second macOS Sonoma 14.3 beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
+Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Under Beta updates, toggle on the &zwnj;macOS Sonoma&zwnj; Developer Beta. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
+<br/>
+We don't yet know what features are included in &zwnj;macOS Sonoma&zwnj; 14.3, and there were no notable changes discovered in the first two betas, so we may not know what's new until the software comes out and is accompanied by release notes.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/apple-releases-macos-sonoma-14-3-beta-3/">Apple Seeds Third Beta of macOS Sonoma 14.3 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-macos-sonoma-14-3-to-developers.2415891/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Third Beta of watchOS 10.3 to Developers</title>
+		<link>https://www.macrumors.com/2024/01/09/apple-seeds-watchos-10-3-beta-3-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-third-beta-of-watchos-10-3-to-developers.2415893/</comments>
+		<pubDate>Tue, 09 Jan 2024 10:05:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/apple-seeds-watchos-10-3-beta-3-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today seeded the third beta of an upcoming watchOS 10.3 update to developers for testing purposes, with the beta coming a week after the release of the <a href="https://www.macrumors.com/2024/01/03/apple-seeds-watchos-10-3-beta-2-to-developers/">second watchOS 10.3 beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
+To install the ‌watchOS 10.3‌ update, developers will need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
+<br/>
+Once beta updates have been activated, watchOS 10.3 can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
+<br/>
+There's no word yet on the new features that might be included in watchOS 10.3, and no notable new features were found in the first betas. <br/>
+<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/apple-seeds-watchos-10-3-beta-3-to-developers/">Apple Seeds Third Beta of watchOS 10.3 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-watchos-10-3-to-developers.2415893/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Vision Pro Features 16GB of RAM and Likely Up to 1TB of Storage</title>
+		<link>https://www.macrumors.com/2024/01/09/apple-vision-pro-how-much-ram-and-storage/</link>
+		<comments>https://forums.macrumors.com/threads/apple-vision-pro-features-16gb-of-ram-and-likely-up-to-1tb-of-storage.2415888/</comments>
+		<pubDate>Tue, 09 Jan 2024 09:53:45 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/apple-vision-pro-how-much-ram-and-storage/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Vision Pro</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple's upcoming <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Vision Pro</a> headset is equipped with 16GB of unified memory, according to files related to the device in Xcode 15.2.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/apple-vision-pro-chips.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-898904" /><br/>
+Our finding in the latest version of Apple's app development tool confirms a June 2023 report from <a href="https://www.bloomberg.com/news/articles/2023-06-02/apple-wwdc-2023-mixed-reality-headset-ios-17-and-other-products-to-expect"><em>Bloomberg</em>'s Mark Gurman</a> that said the Vision Pro would be equipped with 16GB of RAM, and that is also the same amount of memory that was included in <a href="https://www.macrumors.com/2023/07/24/apple-vision-pro-developer-kits-now-available/">Vision Pro development kits</a> distributed by Apple last year.<br/>
+<br/>
+Xcode 15.2 officially <a href="https://www.macrumors.com/2024/01/08/apple-releases-vision-pro-updates-testflight-xcode/">adds support for developing visionOS apps</a>, and Apple is now accepting these apps via App Store Connect.<br/>
+<br/>
+In a press release this week, Apple reiterated that the Vision Pro will be powered by its M2 chip for "powerful standalone performance," along with an all-new R1 chip that "processes input from 12 cameras, five sensors, and six microphones to ensure that content feels like it is appearing right in front of the user's eyes."<br/>
+<br/>
+Apple's press release also confirmed that the Vision Pro will start at &#36;3,499 in the U.S. with 256GB of storage, and this wording seems to imply that higher storage capacity options will also be available. It was reported last year that at least some of the Vision Pro developer kits were equipped with 1TB of storage.<br/>
+<br/>
+Apple has yet to share full tech specs for the Vision Pro, which will be available to pre-order in the U.S. <a href="https://www.macrumors.com/2024/01/08/apple-announces-february-2-vision-pro-launch/">starting Friday, January 19</a> at 5 a.m. Pacific Time. The headset will launch there a few weeks later, on Friday, February 2. When it first announced the Vision Pro, Apple said the headset would launch in additional countries later this year.<br/>
+<br/>
+<em>Thanks to <a href="https://twitter.com/DimSartz_">Dimitris Sartzetakis</a>, <a href="https://twitter.com/mbrkhrdt">Michael Burkhardt</a>, and <a href="https://mastodon.social/@stroughtonsmith">Steve Troughton-Smith</a> for assistance.</em><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/apple-vision-pro-how-much-ram-and-storage/">Apple Vision Pro Features 16GB of RAM and Likely Up to 1TB of Storage</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-features-16gb-of-ram-and-likely-up-to-1tb-of-storage.2415888/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple &#039;Carefully Orchestrating&#039; Vision Pro Reviews With Multiple Meetings</title>
+		<link>https://www.macrumors.com/2024/01/09/apple-vision-pro-reviews-multiple-meetings/</link>
+		<comments>https://forums.macrumors.com/threads/apple-carefully-orchestrating-vision-pro-reviews-with-multiple-meetings.2415886/</comments>
+		<pubDate>Tue, 09 Jan 2024 09:45:47 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/apple-vision-pro-reviews-multiple-meetings/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Vision Pro</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple has a detailed plan for <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> reviews, according to <a href="https://twitter.com/markgurman/status/1744774909262483693"><em>Bloomberg</em>'s Mark Gurman</a>. YouTubers and members of the media selected for reviews will meet with Apple on January 16 for a hands-on experience, with a follow-up meeting to take place on January 23 to go over the device's features a second time.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Blue-Magenta.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-898550" /><br/>
+Reviews are set to be published at the end of January, which is just ahead of when Apple plans to launch the Vision Pro.<br/>
+<br/>
+It is no surprise that Apple plans to have a firm hold on the review process and the experience that reviewers undergo, as it has kept headsets provided to developers similarly locked down.<br/>
+<br/>
+Apple plans to begin accepting pre-orders for the Vision Pro on Friday, January 19, ahead of when reviews are published. The Vision Pro will then launch on Friday, February 2, with Apple planning to provide in-store demonstrations starting on that day.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/apple-vision-pro-reviews-multiple-meetings/">Apple &#039;Carefully Orchestrating&#039; Vision Pro Reviews With Multiple Meetings</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-carefully-orchestrating-vision-pro-reviews-with-multiple-meetings.2415886/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>CES 2024: Satechi Debuts New Qi2 Wireless Charging Stands</title>
+		<link>https://www.macrumors.com/2024/01/09/ces-2024-satechi-qi2-chargers/</link>
+		<comments>https://forums.macrumors.com/threads/ces-2024-satechi-debuts-new-qi2-wireless-charging-stands.2415880/</comments>
+		<pubDate>Tue, 09 Jan 2024 09:00:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/ces-2024-satechi-qi2-chargers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Satechi</category>
+		<category>CES 2024</category>
+		
+
+		<description><![CDATA[<a href="https://satechi.net">Satechi</a> today introduced two new Qi2 charging options, including the 3-in-1 Foldable Qi2 Wireless Charging Stand and 2-in-1 Foldable Qi2 Wireless Charging Stand. With next-generation Qi2 charging technology, Satechi's chargers are able to charge <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a> iPhones at up to 15W, the same as official &zwnj;MagSafe&zwnj; chargers from Apple.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/satechi-3-in-1-charger.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-929700" /><br/>
+The 3-in-1 stand from Satechi also includes a 5W Apple Watch charger and a 5W wireless charger that's designed for the AirPods, while the 2-in-1 stand has a spot for charging the AirPods. Both chargers feature a vegan leather base, an aluminum housing, and a soft silicone charging puck, and they are able to fold down for travel when not in use.<br/>
+<br/>
+Satechi's 3-in-1 stand is able to provide fast-charging capabilities for the Apple Watch Series 7 and later, plus it comes with a 45W USB-C power adapter. Qi2 uses the same magnetic power profile as &zwnj;MagSafe&zwnj;, so these stands work like &zwnj;MagSafe&zwnj; stands without the 7.5W limitation of the prior Qi standard.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/satechi-2-in-1-charger.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-929701" /><br/>
+The 3-in-1 Foldable Qi2 Wireless Charging Stand will be priced at &#36;130, while the 2-in-1 Foldable Qi2 Wireless Charging Stand will be priced at &#36;80. Both chargers are <a href="https://satechi.net">set to launch</a> in the second quarter of 2024.<br/>
+<br/>
+Satechi today also announced the launch of the SM1 Slim Mechanical Backlit Bluetooth Keyboard, the company's first mechanical keyboard option. It is compatible with the Mac, and it is <a href="https://satechi.net/products/sm1-slim-mechanical-backlit-bluetooth-keyboard">priced at &#36;100</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/satechi/">Satechi</a>, <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/ces-2024-satechi-qi2-chargers/">CES 2024: Satechi Debuts New Qi2 Wireless Charging Stands</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ces-2024-satechi-debuts-new-qi2-wireless-charging-stands.2415880/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Take &#36;249 Off Apple&#039;s 15-Inch MacBook Air With Amazon&#039;s New Sale</title>
@@ -374,171 +545,6 @@ NuraLogix says that the MagicMirror can provide health information that includes
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/01/anura-magic-mirror.jpg" alt="" width="609" height="587" class="aligncenter size-full wp-image-929694" /><br/>
 More information on the MagicMirror can be <a href="https://www.nuralogix.ai/magic-mirror/">found on the NuraLogix website</a>. The company has not provided a launch date or a price, but the device appears to be aimed at clinic waiting rooms, retirement homes, and other health-related facilities.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/ces-2024-anura-magicmirror/">CES 2024: This &#039;MagicMirror&#039; Analyzes Facial Blood Flow to Monitor Vital Signs</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ces-2024-this-magicmirror-analyzes-facial-blood-flow-to-monitor-vital-signs.2415810/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>CES 2024: Invoxia Launches AI Wearable That Monitors Your Pet&#039;s Health</title>
-		<link>https://www.macrumors.com/2024/01/08/ces-2024-invoxia-minitailz/</link>
-		<comments>https://forums.macrumors.com/threads/ces-2024-invoxia-launches-ai-wearable-that-monitors-your-pets-health.2415808/</comments>
-		<pubDate>Mon, 08 Jan 2024 15:42:42 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/08/ces-2024-invoxia-minitailz/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>CES 2024</category>
-		
-
-		<description><![CDATA[<a href="https://petcare.invoxia.com/">Invoxia</a> at CES unveiled the Minitailz Smart Pet Tracker, an AI wearable that's designed for dogs and cats. The Minitailz is an all-in-one GPS tracker and wellness device for pets, and it is able to measure respiratory rate and heart vitals, alerting owners about possible health issues.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/invoxia-minitailz.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-929690" /><br/>
-Invoxia says that the Minitailz is able to watch for anomalies in pet behavior that can be indicative of a problem, and it can differentiate between walking, running, scratching, eating and drinking, barking, and rest.<br/>
-<br/>
-In addition to collecting heart health information that is said to be 97 to 99 percent accurate, the Minitailz can detect atrial fibrillation in pets. Detailed health reports are provided in the accompanying app.<br/>
-<br/>
-A built-in SIM with GPS technology allows for tracking of daily activities or locating a pet should it be lost. There are also geofencing features so that a pet owner can be alerted if a pet wanders outside the boundaries of a property.<br/>
-<br/>
-The Minitailz measures in at 2.32 inches long, 1.18 inches tall, and 0.9 inches thick, and it can be attached to an existing dog or cat collar.<br/>
-<br/>
-A dog version of the Minitailz is available as of now <a href="https://petcare.invoxia.com/">from the Invoxia website</a>, with the cat model set to launch in March 2024. Both versions are priced at &#36;99, with a subscription fee that starts at &#36;8.30 per month.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/ces-2024-invoxia-minitailz/">CES 2024: Invoxia Launches AI Wearable That Monitors Your Pet&#039;s Health</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ces-2024-invoxia-launches-ai-wearable-that-monitors-your-pets-health.2415808/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone Survives 16,000-Foot Drop After Alaska Airlines Plane Incident</title>
-		<link>https://www.macrumors.com/2024/01/08/iphone-survives-fall-from-plane/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-survives-16-000-foot-drop-after-alaska-airlines-plane-incident.2415799/</comments>
-		<pubDate>Mon, 08 Jan 2024 14:01:28 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/08/iphone-survives-fall-from-plane/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[An <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> that was expelled from the cabin of Alaska Airlines flight 1282 on Friday survived a fall of more than 16,000 feet and was discovered intact.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/recovered-alaska-phone.jpg" alt="" width="1153" height="648" class="aligncenter size-full wp-image-929685" /><br/>
-Vancouver, Washington resident Sean Bates shared images of the device on Sunday after he found it on the side of Barnes Road in Portland, Oregon. The &zwnj;iPhone&zwnj; was in full working condition and was in fact still open to an Alaska Airlines email. There were no cracks on the display, though it was protected by a case and presumably landed in a forested area with soft ground cover.<br/>
-<br/>
-Bates alerted the National Transportation Safety Board, and officials came out to collect the device. The NTSB told Bates that it was the second phone to be found from the flight in the area.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Found an iPhone on the side of the road... Still in airplane mode with half a battery and open to a baggage claim for <a href="https://twitter.com/hashtag/AlaskaAirlines?src=hash&amp;ref_src=twsrc%5Etfw">#AlaskaAirlines</a> ASA1282 Survived a 16,000 foot drop perfectly in tact!<br><br>When I called it in, Zoe at <a href="https://twitter.com/NTSB?ref_src=twsrc%5Etfw">@NTSB</a> said it was the SECOND phone to be found. No door yet&#x1f605; <a href="https://t.co/CObMikpuFd">pic.twitter.com/CObMikpuFd</a></p>&mdash; Seanathan Bates (@SeanSafyre) <a href="https://twitter.com/SeanSafyre/status/1744138937239822685?ref_src=twsrc%5Etfw">January 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-The &zwnj;iPhone&zwnj; was <a href="https://news.alaskaair.com/alaska-airlines/operations/as-1282/?linkId=100000234605102">expelled from Alaska Airlines flight 1282</a> after a portion of the plane blew out shortly after it took off from the Portland International Airport. The aircraft was able to safely land back at the Portland airport, and all passengers and crew members survived.<br/>
-<br/>
-The sudden depressurization in the cabin of the plane caused items like smartphones to be sucked out, where they fell to the ground below. In 2011, <em>Wired</em> <a href="https://www.wired.com/2011/04/what-is-the-terminal-velocity-of-an-iphone/">wrote a piece</a> on the terminal velocity of an &zwnj;iPhone&zwnj; falling from a plane, which is a good explainer how the device was able to survive. In a nutshell, the low weight and maximum speed of the &zwnj;iPhone&zwnj; leads to a limited amount of force on landing despite the height of the fall, so the end result isn't too much different from dropping it from a lower height.<br/>
-<br/>
-There were two smartphones found from the plane, along with other debris such as the plug door that may give some insight into what went wrong.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/iphone-survives-fall-from-plane/">iPhone Survives 16,000-Foot Drop After Alaska Airlines Plane Incident</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-survives-16-000-foot-drop-after-alaska-airlines-plane-incident.2415799/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases New Versions of TestFlight and Xcode With Vision Pro Support, Starts Accepting visionOS Apps</title>
-		<link>https://www.macrumors.com/2024/01/08/apple-releases-vision-pro-updates-testflight-xcode/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-new-versions-of-testflight-and-xcode-with-vision-pro-support-starts-accepting-visionos-apps.2415797/</comments>
-		<pubDate>Mon, 08 Jan 2024 12:37:28 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/08/apple-releases-vision-pro-updates-testflight-xcode/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>TestFlight</category>
-		<category>Xcode</category>
-		
-
-		<description><![CDATA[Apple today released Xcode 15.2 and <a href="https://developer.apple.com/news/releases/?id=01082024a">TestFlight version 3.5</a>, both of which have been updated with support for the Vision Pro headset that is set to come out in early February.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/testflight-icon.jpg" alt="" width="1117" height="629" class="aligncenter size-full wp-image-927373" /><br/>
-Xcode 15.2 is equipped with the <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> SDK, and <a href="https://developer.apple.com/documentation/xcode-release-notes/xcode-15_2-release-notes">the release notes</a> suggest that Apple has implemented several fixes for &zwnj;visionOS&zwnj; into the software. Xcode 15.2 can be used by developers to create &zwnj;visionOS&zwnj; apps for the <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> headset, and it also includes SDKs for iOS 17.2, iPadOS 17.2, tvOS 17.2, watchOS 10.2, and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.2.<br/>
-<br/>
-As for TestFlight, version 3.5 of the app allows for the beta testing of &zwnj;visionOS&zwnj; apps for the first time, plus it allows compatible iOS and iPadOS apps to be used on the &zwnj;Apple Vision Pro&zwnj; headset.<br/>
-<br/>
-Apps created for &zwnj;visionOS&zwnj; can be submitted to the &zwnj;Apple Vision Pro&zwnj; <a href="https://www.macrumors.com/guide/app-store/">App Store</a> starting today. Many <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> apps will work on &zwnj;Apple Vision Pro&zwnj; unmodified, but developers can make device-specific tweaks. Apple plans to publish &zwnj;iPhone&zwnj; and &zwnj;iPad&zwnj; apps on the Vision Pro store by default, but developers can opt out through &zwnj;App Store&zwnj; Connect.<br/>
-<br/>
-The Vision Pro headset will launch on Friday, February 2 at retail stores in the United States. Pre-orders for the device will be accepted starting on Friday, January 19 at 5:00 a.m. Pacific Time.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/testflight/">TestFlight</a>, <a href="https://www.macrumors.com/guide/xcode/">Xcode</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/apple-releases-vision-pro-updates-testflight-xcode/">Apple Releases New Versions of TestFlight and Xcode With Vision Pro Support, Starts Accepting visionOS Apps</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-versions-of-testflight-and-xcode-with-vision-pro-support-starts-accepting-visionos-apps.2415797/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Opening New Store in Korea, Special Wallpaper Available Now</title>
-		<link>https://www.macrumors.com/2024/01/08/apple-store-hongdae-special-wallpaper/</link>
-		<comments>https://forums.macrumors.com/threads/apple-opening-new-store-in-korea-special-wallpaper-available-now.2415794/</comments>
-		<pubDate>Mon, 08 Jan 2024 11:55:54 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/08/apple-store-hongdae-special-wallpaper/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Store</category>
-		
-
-		<description><![CDATA[Apple has announced that it will be opening a new retail store in the Hongdae neighborhood of Seoul, South Korea on Saturday, January 20 at 10 a.m. local time. To celebrate the occasion, Apple has released a special wallpaper for the iPhone, iPad, and Mac that can be downloaded for free by <a href="https://www.apple.com/kr/retail/hongdae/">visiting the store's page</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/Apple-Hongdae-Wallpaper.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-929661" /><br/>
-The wallpaper features an Apple logo in a colorful graffiti style, symbolizing the Hongdae area's artistic and youthful culture. As noted by Michael Steeber <a href="https://michaelsteeber.substack.com/p/a-true-mini-store">in his Tabletops newsletter</a>, the logo has "홍대" (Hongdae) hidden within it.<br/>
-<br/>
-The store will be located at 140 Yanghwa-ro, near Hongik University, and it will offer Genius Bar appointments and Today at Apple creative sessions.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/Apple-Hongdae.jpeg" alt="" width="2500" height="1390" class="aligncenter size-full wp-image-929674" /><br/>
-January 20 is also the day that Apple will be <a href="https://www.macrumors.com/2023/12/21/apples-infinite-loop-store-closing-next-month/">permanently closing its Infinite Loop and Royal Hawaiian stores</a> in the United States.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/apple-store-hongdae-special-wallpaper/">Apple Opening New Store in Korea, Special Wallpaper Available Now</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-opening-new-store-in-korea-special-wallpaper-available-now.2415794/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Second Payment Emails for Refurbished Apple Device Class Action Lawsuit Going Out Tomorrow</title>
-		<link>https://www.macrumors.com/2024/01/08/apple-refurbished-lawsuit-payments-january-2024/</link>
-		<comments>https://forums.macrumors.com/threads/second-payment-emails-for-refurbished-apple-device-class-action-lawsuit-going-out-tomorrow.2415789/</comments>
-		<pubDate>Mon, 08 Jan 2024 11:27:27 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/08/apple-refurbished-lawsuit-payments-january-2024/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Lawsuits</category>
-		<category>AppleCare</category>
-		
-
-		<description><![CDATA[A second wave of Apple customers eligible for a payment under a &#36;95 million <a href="https://www.macrumors.com/2022/08/25/apple-class-action-refurbished-lawsuit-payments/">Apple refurbished device lawsuit</a> are today receiving emails letting them know that the funds will be sent out starting tomorrow.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/01/applerefurbishedgoodastwo-feature.jpg" alt="" width="2688" height="1512" class="aligncenter size-full wp-image-834223" /><blockquote>As Settlement Administrator for the matter, we're sending you this courtesy email to inform you that by January 9, 2024, you will receive a payment notification email that contains a link to claim your payment electronically. Once you receive that email, you will have until May 15, 2024, to claim your payment.</blockquote>Back in 2021, Apple agreed to <a href="https://www.macrumors.com/2021/10/04/apple-refurbished-lawsuit-settlement/">pay &#36;95 million</a> to settle an AppleCare-related lawsuit that accused the company of violating U.S. law by providing customers with refurbished replacement devices instead of new devices when <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a> repairs were required.<br/>
-<br/>
-The settlement was approved in April 2022, and Apple sent out some payments <a href="https://www.macrumors.com/2022/08/25/apple-class-action-refurbished-lawsuit-payments/">starting in August 2022</a>, but a new wave of emails went out to customers today. The lawsuit covered iPhones and iPads purchased between July 20, 2012 and September, 30, 2021 and replaced with a refurbished device.<br/>
-<br/>
-A second wave of payments that are being sent out to disburse remaining funds after the first payments were received. Only 31 percent of those eligible claimed the first payment, leaving money for a second payment. <br/>
-<br/>
-While Apple paid &#36;95 million to settle the lawsuit, the company admitted no wrongdoing and has denied that refurbished devices are inferior to new devices.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/lawsuit/">Apple Lawsuits</a>, <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/apple-refurbished-lawsuit-payments-january-2024/">Second Payment Emails for Refurbished Apple Device Class Action Lawsuit Going Out Tomorrow</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/second-payment-emails-for-refurbished-apple-device-class-action-lawsuit-going-out-tomorrow.2415789/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Offering Vision Pro Demos Starting on February 2</title>
-		<link>https://www.macrumors.com/2024/01/08/apple-vision-pro-demos-february-2/</link>
-		<comments>https://forums.macrumors.com/threads/apple-offering-vision-pro-demos-starting-on-february-2.2415787/</comments>
-		<pubDate>Mon, 08 Jan 2024 10:59:32 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/08/apple-vision-pro-demos-february-2/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Vision Pro</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple plans to start offering Vision Pro demonstrations at U.S. Apple retail stores on Friday, February 2, Apple said today in emails that are going out to select customers. February 2 is the official launch date of the <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> headset.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/Apple-Vision-Pro-Dual-Loop-Band.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-929475" /><br/>
-The demo sessions will be available at Apple retail stores in the United States. Apple says that demo times will be offered through the weekend on a first-come, first-served basis, with signups to take place starting at 8:00 a.m. on February 2.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">New information regarding Apple Vision Pro demos at Apple Stores<br><br>“Be one of the first to get a demo of Apple Vision Pro. Only at the Apple Store. Starting at 8:00 a.m. on Friday, February 2, we invite you to sign up for a demo of Apple Vision Pro at your local Apple Store. Demo… <a href="https://t.co/tPzgBWwcUK">pic.twitter.com/tPzgBWwcUK</a></p>&mdash; M1 (@M1Astra) <a href="https://twitter.com/M1Astra/status/1744429033171951846?ref_src=twsrc%5Etfw">January 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-<br/>
-It is likely that the available demo spots will fill up quickly, especially in areas with a limited number of Apple Stores, so those interested in testing the headset should plan to sign up early.<br/>
-<br/>
-Apple plans to begin accepting pre-orders for the Vision Pro on Friday, January 19, with deliveries on February 2. The headset will be available in all U.S. Apple locations on February 2.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/apple-vision-pro-demos-february-2/">Apple Offering Vision Pro Demos Starting on February 2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-offering-vision-pro-demos-starting-on-february-2.2415787/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>CES 2024 Day 1: What&#039;s New From Samsung and CES Unveiled</title>
-		<link>https://www.macrumors.com/2024/01/08/ces-2024-day-1-recap/</link>
-		<comments>https://forums.macrumors.com/threads/ces-2024-day-1-whats-new-from-samsung-and-ces-unveiled.2415785/</comments>
-		<pubDate>Mon, 08 Jan 2024 10:50:01 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/08/ces-2024-day-1-recap/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>CES 2024</category>
-		
-
-		<description><![CDATA[The annual CES event kicks off this week, and we sent <em>MacRumors</em> videographer Dan Barbera to hunt down cool new products and technologies that are being previewed this year. CES officially starts tomorrow, but Dan attended CES Unveiled last night, and was able to get an early look at devices from Samsung,<br/>
-<br/>
-<div class="center-wrap"><iframe title="CES 2024: Insane New Tech from Samsung &amp; CES Unveiled!" src="https://www.youtube.com/embed/x8TuG7Or5y8" width="1673" height="807" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-Samsung showed off new OLED TVs with an updated anti-reflective coating that makes them much better in bright rooms and with reflective lights, plus there was a new 8K projector and some very impressive transparent OLED screens.<br/>
-<br/>
-Samsung had a neat 2D/3D display that uses cameras and eye tracking to display content in 3D without the need for glasses, and Dan was also impressed with a customizable music frame that holds artwork but also serves as a speaker for a subtle surround sound system.<br/>
-<br/>
-At Unveiled, Dan checked out a pet-focused robot vacuum and mop combo from Narwhal, Belkin's Qi2 wireless chargers and StandDock Pro, a Keurig sort of device for ice cream, and some retro Mac power adapters from Sharge.<br/>
-<br/>
-Make sure to watch the full video to see the products in action, and stay tuned to <em>MacRumors</em> because we'll be sharing CES videos and articles for the next few days.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/08/ces-2024-day-1-recap/">CES 2024 Day 1: What&#039;s New From Samsung and CES Unveiled</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ces-2024-day-1-whats-new-from-samsung-and-ces-unveiled.2415785/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
