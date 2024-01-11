@@ -14,12 +14,58 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 11 Jan 2024 00:03:41 PST</lastBuildDate>
+	<lastBuildDate>Thu, 11 Jan 2024 04:04:40 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Your Mac and Apple Vision Pro: What You Can Do (and What You Can&#039;t)</title>
+		<link>https://www.macrumors.com/2024/01/11/apple-vision-pro-mac-interoperability/</link>
+		<comments>https://forums.macrumors.com/threads/your-mac-and-apple-vision-pro-what-you-can-do-and-what-you-cant.2416050/</comments>
+		<pubDate>Thu, 11 Jan 2024 03:57:53 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/11/apple-vision-pro-mac-interoperability/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Vision Pro</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[When Apple first unveiled its next-generation Vision Pro headset at WWDC 2023, the company shared promotional videos that briefly teased the potential applications of using the &#36;3,499 spatial computing device in conjunction with a Mac. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/vision-pro-macbook.jpg" alt="" width="3022" height="1698" class="aligncenter size-full wp-image-930147" /><br/>
+Despite Apple's announcement that Vision Pro will launch on February 2, Apple has yet to expand on the specifics of how the two devices work together. But sift through code and marketing materials, and there are subtle indications about what is possible - and what the limitations are likely to be. Here's what we know.<br/>
+<br/>
+<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">Mac and Vision Pro: What You Can Do</span><br><br/>
+<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">Create a Virtual Desktop</span><br><br/>
+When it comes to the Mac, the keystone feature of Apple Vision Pro is something called Mac Virtual Display. The system uses AirPlay 2, and allows you to connect your Mac wirelessly to the headset just by looking at your computer through your Vision Pro. According to Apple, this allows you to place and resize a virtual representation of your Mac's display anywhere in space, and "use Vision Pro as an enormous, private, portable 4K display, ideal for pro workflows." <br/>
+<br/>
+<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">Use visionOS Apps Alongside Your Mac</span><br><br/>
+With Mac Virtual Display enabled, you will be able to able use visionOS apps right alongside your virtual Mac screen. This will allow you to, for example, work on a Final Cut Pro project on an enormous Mac display while also viewing and interacting with separate screens displaying visionOS apps like Photos, Notes, Files, and so on.<br/>
+<br/>
+<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">Mirror Vision Pro to Mac</span><br><br/>
+Apple Vision Pro supports screen mirroring via AirPlay or FaceTime, according to code found in early beta releases of visionOS, the headset's unique operating system. When wearing Vision Pro, you will be able to select a Mac to mirror content to from the headset, allowing you to share your view with others and reduce any sense of isolation.<br/>
+<br/>
+<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">Connect Mac Accessories</span><br><br/>
+Vision Pro includes a virtual keyboard for spatial computing sessions, but you can also wirelessly connect Mac accessories to the Vision Pro, including the Magic Keyboard and the Magic Trackpad for more traditional tactile input. Attaching Bluetooth accessories allows for a typical Mac workflow to continue to be used, just with the Mac display replaced by Vision Pro.<br/>
+<br/>
+<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">Mac and Vision Pro: What You (Likely) Can't Do</span><br><br/>
+<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">Arrange Mac Apps in Virtual Space</span><br><br/>
+Prior to Apple's official unveiling of Vision Pro, many Mac users envisioned an ideal multitasking scenario where it would be possible to break out Mac apps individually in a mixed reality workspace and switch attention between them at a glance. Based on the information available, however, it is not possible to view individual Mac apps in virtual windows alongside one another in Vision Pro's spatial computing environment.<br/>
+<br/>
+<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">Create Multiple Virtual Displays</span><br><br/>
+Another likely limitation of the first-generation Vision Pro is that it only supports mirroring your Mac's built-in display. In other words, it won't be possible to extend your Mac's screen or recreate a multiple monitor Mac setup in the mixed reality workspace. This could be due to bandwidth limitations (Mac Virtual Display outputs in 4K). On that basis, multiple Mac displays in Vision Pro's spatial computing environment may be something supported in a future version, but don't expect such functionality out of the box.<br/>
+<br/>
+<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">Connect an Intel Mac</span><br><br/>
+This should probably go without saying, but older Macs based on Intel architecture won't come along for the ride into the spatial computing future. Though Apple hasn't come out and said it officially, only Apple silicon Macs are likely to have the processing horsepower to communicate with Vision Pro, which itself relies on Apple's M2 processor to do the heavy lifting.<br/>
+<br/>
+<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">Apple Vision Pro and the Future of Mac</span><br><br/>
+As the above suggests, there are still some unknowns about Mac and Vision Pro interoperability. Bearing that in mind, are you optimistic about the future of Mac in the era of spatial computing? What, if anything, disappoints you about Vision Pro support for the Mac? Let us know in the comments. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/vision-pro-mirrored-mac-screen.jpg" alt="" width="3024" height="1696" class="aligncenter size-full wp-image-930148" /><br/>
+Apple Vision Pro pre-orders open on Friday, January 19 at 5.00 a.m. PST, and the device goes on sale in the U.S. on Friday, February 2, with availability in Canada and the United Kingdom expected to follow later in the year. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/11/apple-vision-pro-mac-interoperability/">Your Mac and Apple Vision Pro: What You Can Do (and What You Can&#039;t)</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/your-mac-and-apple-vision-pro-what-you-can-do-and-what-you-cant.2416050/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>When Will iOS 17.3 Be Released?</title>
@@ -156,7 +202,7 @@ Apple is reportedly <a href="https://www.macrumors.com/2023/12/18/apple-watch-im
 <br/>
 "To the extent Apple relies on the soon-expected ruling from Customs and Border Protection ("CBP") as to whether certain redesigned Apple Watches infringe the Asserted Patents, those arguments are, at best, misplaced," ITC lawyers said in today's filing. "A favorable ruling to Apple has no bearing on Apple's alleged likelihood of success on the merits as to any raised issue, and instead would undermine Apple's 'irreparable harm' argument."<br/>
 <br/>
-We have shared the ITC's full response <a href="https://www.scribd.com/document/698059705/ITC-Opposition-to-Motion-for-Stay-in-Apple-Masimo-Case">as a PDF</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a>, <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/masimo/">Masimo</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#Apple_Watch_Ultra">Apple Watch Ultra (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/10/itc-opposes-apple-watch-sales-ban-pause/">ITC Wants Apple Watch Sales Ban Reinstated: &#039;Apple Presents a Weak and Unconvincing Case&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/itc-wants-apple-watch-sales-ban-reinstated-apple-presents-a-weak-and-unconvincing-case.2416020/">Discuss this article</a> in our forums<br/><br/>]]></description>
+We have shared the ITC's full response <a href="https://www.scribd.com/document/698059705/ITC-Opposition-to-Motion-for-Stay-in-Apple-Masimo-Case">as a PDF</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a>, <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/masimo/">Masimo</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#Apple_Watch_Ultra">Apple Watch Ultra (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/10/itc-opposes-apple-watch-sales-ban-pause/">ITC Wants Apple Watch Sales Ban Reinstated: &#039;Apple Presents a Weak and Unconvincing Case&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/itc-wants-apple-watch-sales-ban-reinstated-apple-presents-a-weak-and-unconvincing-case.2416020/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -560,31 +606,6 @@ tvOS updates are often minor in scale compared to other operating system updates
 Apple shares some information on tvOS releases in its <a href="https://support.apple.com/en-us/HT207936">tvOS support document</a>, which is updated after each tvOS launch, but Apple does not provide notes during beta testing.<br/>
 <br/>
 Though we don't always know what's new in tvOS betas, we let <em>MacRumors</em> readers know when new updates are available so those who are developers can download new software upon release.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/apple-seeds-tvos-17-3-beta-3-to-developers/">Apple Seeds Third Beta of tvOS 17.3 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-tvos-17-3-to-developers.2415915/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>CES 2024 Day 2: Transparent TVs From LG, OtterBox&#039;s Cactus Leather, Lockly Smart Locks and More</title>
-		<link>https://www.macrumors.com/2024/01/09/ces-2024-day-2-recap/</link>
-		<comments>https://forums.macrumors.com/threads/ces-2024-day-2-transparent-tvs-from-lg-otterboxs-cactus-leather-lockly-smart-locks-and-more.2415910/</comments>
-		<pubDate>Tue, 09 Jan 2024 12:42:49 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/ces-2024-day-2-recap/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>CES 2024</category>
-		
-
-		<description><![CDATA[CES is underway in Las Vegas, and while it's been overshadowed by Apple's Vision Pro launch date announcement, there are still plenty of interesting new products to look at. <em>MacRumors</em> videographer Dan Barbera is at CES to bring us an overview of what's worth checking out.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/TfqEDPHjK5Y" title="CES 2024 Day 2: LG Transparent OLED, Facial Recognition Lock &amp; More!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-Day 2 at CES was actually Monday, the day before the show "officially" kicks off and the show floor opens. Vendors were on hand showcasing products in private suites, and the annual Pepcom show took place.<br/>
-<br/>
-<a href="https://www.macrumors.com/2024/01/08/ces-2024-day-1-recap/">Like Samsung</a>, LG was showing off transparent display technology with the LG Signature OLED T (T for transparent). LG's OLED TV is coming out later this year, and it can transition between transparency and an opaque background for television watching. LG has designed content specifically for the see-through background, and some of it has an almost hologram-like look.<br/>
-<br/>
-Lockly was showing off a HomeKit-compatible smart lock that uses facial recognition to open the door, while Ember brought its cup warming technology to baby bottles. Aqara showed off an indoor lock with fingerprint detection, and Scosche was on hand to demo the BaseLynx 2.0, its modular charging system for Apple devices.<br/>
-<br/>
-OtterBox has a new environmentally friendly <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> case made of cactus leather, Orbi showed off a new Wi-Fi 7 mesh router setup, and GE had an indoor smokeless smoker that uses pellets.<br/>
-<br/>
-Dan will be wandering the show floor on Tuesday, so make sure to stay tuned to see tomorrow's CES roundup video. We're also covering all kinds of announcements from CES, <a href="https://www.macrumors.com/guide/ces-2024/">which you can check out at our CES 2024 hub</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/ces-2024-day-2-recap/">CES 2024 Day 2: Transparent TVs From LG, OtterBox&#039;s Cactus Leather, Lockly Smart Locks and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ces-2024-day-2-transparent-tvs-from-lg-otterboxs-cactus-leather-lockly-smart-locks-and-more.2415910/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
