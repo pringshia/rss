@@ -14,12 +14,41 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 10 Jan 2024 16:11:00 PST</lastBuildDate>
+	<lastBuildDate>Wed, 10 Jan 2024 20:02:43 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>When Will iOS 17.3 Be Released?</title>
+		<link>https://www.macrumors.com/2024/01/10/when-will-ios-17-3-be-released/</link>
+		<comments>https://forums.macrumors.com/threads/when-will-ios-17-3-be-released.2416033/</comments>
+		<pubDate>Wed, 10 Jan 2024 16:22:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/10/when-will-ios-17-3-be-released/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple is working on an iOS 17.3 update, and <a href="https://www.macrumors.com/2024/01/09/apple-releases-ios-17-3-beta-3-to-developers/">has seeded three betas</a> to developers and public beta testers so far. The update isn't quite as large as the prior iOS 17.2 update <a href="https://www.macrumors.com/guide/ios-17-3-beta-features/">in terms of new features</a> so the testing period won't be as long, and we are expecting it to launch before the end of January.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/iOS-17.3-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-926334" /><br/>
+In terms of timing, a launch the week of January 22nd might make the most sense. We've had three betas, two of which have not added anything particularly notable, suggesting there isn't much testing left. If Apple plans to launch the update on the 22nd or the 23rd, we can expect to see the release candidate version of the iOS 17.3 update on the 15th, followed by the launch.<br/>
+<br/>
+Apple could also release iOS 17.3 on the week of the 29th, but that is the week that <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> and the Vision Pro headset will be coming out. Apple does sometimes tie software release updates together, but as an entirely new operating system, &zwnj;visionOS&zwnj; isn't likely to be accompanied by any other updates.<br/>
+<br/>
+The last new operating system update that Apple came out with was watchOS back in 2015. watchOS saw its official release on Friday, April 24, 2015, the same day that the first Apple Watch models launched.<br/>
+<br/>
+Apple last year <a href="https://www.macrumors.com/2023/01/23/apple-releases-ios-16-3/">released iOS 16.3</a> on January 23, and in 2022, Apple <a href="https://www.macrumors.com/2022/01/26/apple-releases-ios-15-3/">released iOS 15.3</a> on January 26, so a January 22 launch date for iOS 17.3 would be in line with Apple's past release timelines.<br/>
+<br/>
+iOS 17.3's <a href="https://www.macrumors.com/guide/ios-17-3-beta-features/">main new feature</a> is <a href="https://www.macrumors.com/2023/12/12/ios-17-3-stolen-device-protection-feature/">Stolen Device Protection</a>, a feature that prevents a thief that somehow gains access to both your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and your passcode from accessing sensitive information. It locks several features behind a <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> scan, preventing a thief from viewing <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Keychain passwords, turning off Lost Mode, using Safari payment methods, and more.<br/>
+<br/>
+It also adds a time-based delay before allowing &zwnj;Face ID&zwnj;, <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a>, or Stolen Device Protection to be turned off, and before letting an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> or &zwnj;iPhone&zwnj; passcode be changed.<br/>
+<br/>
+Along with Stolen Device Protection, iOS 17.3 adds Collaborative <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> Playlists, a feature originally intended for iOS 17.2. With Collaborative Playlists, multiple people can contribute to one shared &zwnj;Apple Music&zwnj; playlist.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/10/when-will-ios-17-3-be-released/">When Will iOS 17.3 Be Released?</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/when-will-ios-17-3-be-released.2416033/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>CES 2024: Hyper Launches 4-in-1 Qi2 Charging Stand, New Power Banks and More</title>
@@ -556,38 +585,6 @@ Lockly was showing off a HomeKit-compatible smart lock that uses facial recognit
 OtterBox has a new environmentally friendly <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> case made of cactus leather, Orbi showed off a new Wi-Fi 7 mesh router setup, and GE had an indoor smokeless smoker that uses pellets.<br/>
 <br/>
 Dan will be wandering the show floor on Tuesday, so make sure to stay tuned to see tomorrow's CES roundup video. We're also covering all kinds of announcements from CES, <a href="https://www.macrumors.com/guide/ces-2024/">which you can check out at our CES 2024 hub</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/ces-2024-day-2-recap/">CES 2024 Day 2: Transparent TVs From LG, OtterBox&#039;s Cactus Leather, Lockly Smart Locks and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ces-2024-day-2-transparent-tvs-from-lg-otterboxs-cactus-leather-lockly-smart-locks-and-more.2415910/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone Was Missing These 10 Essential Features When Unveiled in 2007</title>
-		<link>https://www.macrumors.com/2024/01/09/original-iphone-missing-features/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-was-missing-these-10-essential-features-when-unveiled-in-2007.2415906/</comments>
-		<pubDate>Tue, 09 Jan 2024 12:26:44 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/09/original-iphone-missing-features/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Today marks the 17th anniversary of the late Steve Jobs <a href="https://www.youtube.com/watch?v=MnrJzXM7a6o">unveiling the original iPhone</a> at the Macworld Expo in San Francisco. While the device was significantly more advanced than any other smartphone on the market at the time, the iPhone was still missing some essential features that we take for granted today.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/2007-iPhone.jpg" alt="" width="1200" height="675" class="aligncenter size-full wp-image-929882" /><br/>
-Below, we've put together a list of 10 hardware and software features that the original iPhone didn't have when it was introduced in January 2007.<br/>
-<br/>
-<ul><li><strong>Copy and Paste:</strong> It may seem hard to believe, but the ability to copy and paste text was not added to the iPhone until 2009.</li><br/>
-<li><strong>Front Camera:</strong> While selfies are now ubiquitous, there was no front camera on the original iPhone. In fact, there was no front camera until the iPhone 4 launched in 2010 with new FaceTime video calling.</li><br/>
-<li><strong>App Store:</strong> The original iPhone came with preinstalled apps like Phone, Weather, Notes, Calendar, Photos, and Calculator, but there was no official way to install native third-party apps until the App Store launched in July 2008. Developers were able to offer web-based apps, but they were more limited.</li><br/>
-<li><strong>Video Recording:</strong> The original iPhone can only shoot photos, with video recording introduced on the iPhone 3GS in 2009.</li><br/>
-<li><strong>Flashlight:</strong> With no LED flash on the original iPhone, there was no built-in flashlight. When the App Store launched, some flashlight apps were released that displayed a white screen at max brightness to mimic a flashlight.</li><br/>
-<li><strong>Photo Messages:</strong> The original iPhone supported text messaging via SMS, but there was no ability to send photos. MMS capabilities were introduced with iPhone OS 3.0 in 2009, but only for the iPhone 3G and iPhone 3GS.<br/>
-<li><strong>GPS:</strong> While the original iPhone came with a Google Maps app preinstalled, there were no turn-by-turn directions, as the device did not have a GPS. Apple introduced a built-in GPS with the iPhone 3G in 2008.</li><br/>
-<li><strong>Home Screen Wallpapers:</strong> It was not possible to set a custom Home Screen wallpaper on the iPhone until iOS 4 was released in 2010, and the software update did not support the original iPhone.</li><br/>
-<li><strong>Retina Display:</strong> Introduced on the iPhone 4 in 2010, the Retina display featured four times as many pixels as the original iPhone and was the highest-resolution display for a smartphone ever at the time.</li><br/>
-<li><strong>3G:</strong> The original iPhone's cellular connectivity was limited to EDGE (2G).</li></ul><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/09/original-iphone-missing-features/">iPhone Was Missing These 10 Essential Features When Unveiled in 2007</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-was-missing-these-10-essential-features-when-unveiled-in-2007.2415906/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
