@@ -14,12 +14,59 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 11 Jan 2024 16:11:24 PST</lastBuildDate>
+	<lastBuildDate>Thu, 11 Jan 2024 20:02:51 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Clarifies How Many Items Can Be Tracked in Find My</title>
+		<link>https://www.macrumors.com/2024/01/11/apple-clarifies-find-my-items-limit/</link>
+		<comments>https://forums.macrumors.com/threads/apple-clarifies-how-many-items-can-be-tracked-in-find-my.2416113/</comments>
+		<pubDate>Thu, 11 Jan 2024 19:25:42 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/11/apple-clarifies-find-my-items-limit/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Find My</category>
+		
+
+		<description><![CDATA[Apple today confirmed that up to 32 items can be added to the Find My app on the iPhone and iPad, up from a previous limit of 16.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/08/Find-My-AirPods-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-811280" /><br/>
+Apple revealed this information in a <a href="https://support.apple.com/en-us/HT211331">support document</a> updated today:<blockquote>You can add up to 32 items in Find My. In addition to AirTag and the third-party Find My network accessories in the Items tab, AirPods Max count as one item, AirPods and AirPods Pro (1st generation) count as two items, and AirPods Pro (2nd generation) count as three items.</blockquote>We confirmed that Apple increased the item limit starting with iOS 16 and iPadOS 16, but the change was not reflected on Apple's website until now.<br/>
+<br/>
+Items that can be added to the Find My app include AirTags, newer MagSafe Wallets, select Beats headphones, third-party accessories with Find My support, and more. Once the items are added to the app, users can track the location of the items on a map in the Items tab across the iPhone, iPad, and Mac.<br/>
+<br/>
+<em>(Thanks, <a href="https://twitter.com/nicolas09F9/status/1745554500562174110">Nicolás Álvarez</a>!)</em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/find-my/">Find My</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/11/apple-clarifies-find-my-items-limit/">Apple Clarifies How Many Items Can Be Tracked in Find My</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-clarifies-how-many-items-can-be-tracked-in-find-my.2416113/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>CES 2024: Satechi Debuts Thunderbolt 4 Hub, 145W USB-C Charger and More</title>
+		<link>https://www.macrumors.com/2024/01/11/ces-2024-satechi-thunderbolt-hub/</link>
+		<comments>https://forums.macrumors.com/threads/ces-2024-satechi-debuts-thunderbolt-4-hub-145w-usb-c-charger-and-more.2416106/</comments>
+		<pubDate>Thu, 11 Jan 2024 16:49:27 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/11/ces-2024-satechi-thunderbolt-hub/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Satechi</category>
+		<category>CES 2024</category>
+		
+
+		<description><![CDATA[Alongside <a href="https://www.macrumors.com/2024/01/09/ces-2024-satechi-qi2-chargers/">Qi2 wireless charging stands</a>, Apple accessory maker Satechi this week unveiled new hubs and charger options for Apple's Mac lineup.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/satechi-stand-and-hub-for-mac-studio.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-930279" /><br/>
+The upgraded Stand & Hub for <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> and <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a> fits under one of Apple's slim desktop machines, and it includes an NVMe SSD enclosure that supports NVMe and M.2 SATA SSDs. There are USB-C 3.1 and USB-A 3.1 ports for file transfers, with support for speeds up to 10Gb/s.<br/>
+<br/>
+An SSD added into the hub can be used for Time Machine backups, plus there are also two additional USB-A 3.0 ports, micro/SD card readers, and an audio jack for headphones.<br/>
+<br/>
+Satechi's Thunderbolt 4 Slim Hub Pro has three Thunderbolt 4 downstream ports that support data transfers at up to 40GB/s, plus it can deliver up to 15W of power to connected peripherals. It supports up to two 4K displays or one 8K display, and it offers 32Gb/s native PCIe support for external GPUs and Thunderbolt-based SSDs.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/satechi-thunderbolt-4-slim-hub-pro.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-930280" /><br/>
+The 145W USB-C 4-Port GaN Travel Charger has two USB-C 3.1 ports that can provide up to 140W and two USB-C 3.0 ports that can provide up to 45W. The 145W max power is split between devices when more than one device is plugged in, with the charger providing smart power distribution that automatically adjusts wattage for optimal charging.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/satechi-145w-travel-charger.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-930282" /><br/>
+All three devices are available today from the Satechi website. The <a href="https://satechi.net/products/stand-hub-for-mac-mini-studio-with-nvme-ssd-enclosure">Stand & Hub for Mac mini/Mac Studio</a> is priced at &#36;100, the <a href="https://satechi.net/products/thunderbolt-4-multi-display-docking-station">Thunderbolt 4 Slim Hub Pro</a> is &#36;200, and the <a href="https://satechi.net/products/145w-usb-c-4-port-gan-travel-charger">145W Travel Charger</a> is &#36;120. A 20 percent discount is available with the promo code CES20.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/satechi/">Satechi</a>, <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/11/ces-2024-satechi-thunderbolt-hub/">CES 2024: Satechi Debuts Thunderbolt 4 Hub, 145W USB-C Charger and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ces-2024-satechi-debuts-thunderbolt-4-hub-145w-usb-c-charger-and-more.2416106/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Store App Will Use Face Scan to Determine Apple Vision Pro Size</title>
@@ -527,55 +574,6 @@ With all of the BaseLynx components, the setup can charge an &zwnj;iPhone&zwnj;,
 Alongside the BaseLynx 2.0, <a href="https://www.scosche.com/ces-2024">Scosche also introduced</a> the PowerVolt 150W USB-C Desk Charger With 4 USB-C ports, the PowerVolt 30W USB-C Home Charger, and the PowerVolt 40W USB-C Car Adapter able to provide 20W per USB-C port.<br/>
 <br/>
 Scosche's products are set to launch later this year.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/scosche/">Scosche</a>, <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/10/ces-2024-baselynx-qi2-charger/">CES 2024: Scosche Shares Qi2 BaseLynx Modular Charging System</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ces-2024-scosche-shares-qi2-baselynx-modular-charging-system.2416004/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Third Public Beta of macOS Sonoma 14.3</title>
-		<link>https://www.macrumors.com/2024/01/10/apple-seeds-macos-sonoma-14-3-public-beta-3/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-third-public-beta-of-macos-sonoma-14-3.2415992/</comments>
-		<pubDate>Wed, 10 Jan 2024 10:15:28 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/10/apple-seeds-macos-sonoma-14-3-public-beta-3/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sonoma</category>
-		
-
-		<description><![CDATA[Apple today seeded the third public beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.3 update, allowing non-developers to test out the software ahead of its release. The third public beta comes a week after <a href="https://www.macrumors.com/2024/01/04/apple-releases-macos-sonoma-14-3-public-beta-2/">the second public beta</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-900182" src="https://images.macrumors.com/article-new/2023/06/macos-sonoma-4.jpg" alt="" width="2336" height="1314" /><br/>
-Beta testers can opt-in through the Software Update section of the System Settings app. Under Beta updates, simply toggle on the Sonoma Public Beta. Note that you must sign up to participate on Apple's <a href="https://beta.apple.com">beta testing website</a>.<br/>
-<br/>
-&zwnj;macOS Sonoma&zwnj; 14.3 includes support for collaborative playlists in <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, allowing &zwnj;Apple Music&zwnj; subscribers to build playlists with others. When creating a new playlist or selecting an existing playlist, there's a person-shaped icon that can be clicked to turn on collaboration.<br/>
-<br/>
-Enabling collaboration provides a link that can be shared with others, and anyone with the link is able to contribute to the playlist and listen to the songs. The person who started the playlist can choose to approve those who want to join or open it up to everyone. Anyone with the link to a playlist can add music, though the owner can turn off collaboration at any time or remove people.<br/>
-<br/>
-&zwnj;macOS Sonoma&zwnj; 14.3 is expected to see a launch later in January.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/10/apple-seeds-macos-sonoma-14-3-public-beta-3/">Apple Seeds Third Public Beta of macOS Sonoma 14.3</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-public-beta-of-macos-sonoma-14-3.2415992/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Third Public Beta of iOS 17.3 With Stolen Device Protection</title>
-		<link>https://www.macrumors.com/2024/01/10/apple-seeds-ios-17-3-public-beta-3/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-third-public-beta-of-ios-17-3-with-stolen-device-protection.2415990/</comments>
-		<pubDate>Wed, 10 Jan 2024 10:10:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/10/apple-seeds-ios-17-3-public-beta-3/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple today seeded the third betas of upcoming iOS 17.3 and iPadOS 17.3 updates to public beta testers, allowing non-developers to test the software ahead of its release. The second public iOS 17.3 and iPadOS 17.3 betas come almost a month after Apple <a href="https://www.macrumors.com/2023/12/14/apple-seeds-ios-17-3-public-beta-1/">released the first betas</a>. Note that while Apple is calling these the third betas of iOS 17.3 and iPadOS 17.3, there was technically never a second public beta. Apple had to pull the second developer betas of iOS 17.3 and iPadOS 17.3, and opted to go straight to the third beta rather than releasing an updated public beta version.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-926334" src="https://images.macrumors.com/article-new/2023/12/iOS-17.3-Feature.jpg" alt="" width="2500" height="1406" /><br/>
-Public beta testers can get the beta by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Public Beta. Signing up on Apple's beta testing website is required.<br/>
-<br/>
-iOS 17.3 <a href="https://www.macrumors.com/2023/12/12/ios-17-3-stolen-device-protection-feature/">includes Stolen Device Protection</a>, a feature that offers an extra layer of security in case your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> is stolen and the thief also obtains your passcode. With this turned on, <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> authentication is required for viewing <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Keychain passwords, turning off Lost Mode, erasing an &zwnj;iPhone&zwnj;'s contents, using saved payment methods in Safari, and more. There is no passcode entry option should &zwnj;Face ID&zwnj; or &zwnj;Touch ID&zwnj; fail.<br/>
-<br/>
-Certain actions, such as changing an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> password, updating a device passcode, turning off <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a>, and removing &zwnj;Face ID&zwnj; require authentication and also a one-hour security delay.<br/>
-<br/>
-The update also adds <a href="https://www.macrumors.com/2023/12/12/ios-17-3-beta-apple-music-collaborative-playlists/">collaborative Apple Music playlists</a>, a feature that lets <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> subscribers build playlists with friends, family members, and others who share their musical tastes. Any playlist can be turned into a collaborative playlist by tapping on the person-shaped icon and sharing the link.<br/>
-<br/>
-Those who want to try it out in iOS 17.3 can click on <a href="https://music.apple.com/us/playlist/pl.u-kaJH7JG97e?a=join&amp;it=zr6IZVEGZ6tVoblq">the MacRumors playlist link</a> to try adding a song.<br/>
-<br/>
-We are expecting iOS 17.3 and iPadOS 17.3 to be released sometime in January.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/10/apple-seeds-ios-17-3-public-beta-3/">Apple Seeds Third Public Beta of iOS 17.3 With Stolen Device Protection</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-public-beta-of-ios-17-3-with-stolen-device-protection.2415990/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
