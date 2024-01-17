@@ -14,12 +14,236 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 16 Jan 2024 12:03:54 PST</lastBuildDate>
+	<lastBuildDate>Tue, 16 Jan 2024 16:11:34 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>U.S. Developers Can Now Offer Non-App Store Purchasing Option, But Apple Will Still Collect Commissions</title>
+		<link>https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/</link>
+		<comments>https://forums.macrumors.com/threads/u-s-developers-can-now-offer-non-app-store-purchasing-option-but-apple-will-still-collect-commissions.2416540/</comments>
+		<pubDate>Tue, 16 Jan 2024 14:24:50 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple is making major changes to its U.S. iOS <a href="https://www.macrumors.com/guide/app-store/">App Store</a> policies, and developers are now able to direct customers to a non-App Store purchasing option for digital goods. Apple is allowing apps to feature a single link to a developer website that leads to an in-app purchase alternative, but Apple plans to continue to collect a 12 to 27 percent commission on content bought this way.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-JoeBlue.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-833073" /><br/>
+Apple's update and the backstory that led to it are a bit complicated, but what <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> users need to know is that some apps in the U.S. storefront will soon feature a link to their website where subscriptions and other content can be purchased outside of the &zwnj;App Store&zwnj; in-app purchase system, likely with a discounted price.<br/>
+<br/>
+Developers who want to offer this option will need to apply for a StoreKit External Purchase Link Entitlement, as Apple has outlined in both updated &zwnj;App Store&zwnj; Review Guidelines and the statement of compliance submitted to the Northern California U.S. District Court. With a Link Entitlement, a developer is able to direct a user to an out-of-app purchasing mechanism using an external purchase link. From Apple's modified &zwnj;App Store&zwnj; rules:<br/>
+<blockquote>Developers may apply for an entitlement to provide a link in their app to a website the developer owns or maintains responsibility for in order to purchase such items. Learn more about the entitlement. In accordance with the entitlement agreement, the link may inform users about where and how to purchase those in-app purchase items, and the fact that such items may be available for a comparatively lower price. The entitlement is limited to use only in the iOS or iPadOS App Store on the United States storefront. In all other storefronts, apps and their metadata may not include buttons, external links, or other calls to action that direct customers to purchasing mechanisms other than in-app purchase.<br/>
+<br/>
+If your app engages in misleading marketing practices, scams, or fraud in relation to the entitlement, your app will be removed from the App Store and you may be removed from the Apple Developer Program.</blockquote><br/>
+There are several requirements that developers need to adhere to maintain the privacy and security of the &zwnj;App Store&zwnj; ecosystem, and notably, Apple will collect a commission on purchases made using these Entitlement Links. Rather than 30 percent, Apple will collect a 27 percent fee on user purchases or year-one subscriptions made through the link. On the second year of a subscription, the commission fee drops to 12 percent, which is three percentage points lower than the 15 percent fee that Apple collects from second-year or longer subscriptions made through the in-app purchase system. Apps that participate in the &zwnj;App Store&zwnj; Small Business Program will be charged a 12 percent commission rate.<br/>
+<br/>
+The commission will apply to transactions for digital goods and services that take place on a developers website within seven days after a user taps through an External Purchase Link to an external website. <br/>
+<br/>
+Several key points about Entitlement Links are listed below.<br/>
+<ul><br/>
+ 	<li>All links to outside purchasing methods must use the Entitlement Link system, and developers must apply and get Apple's approval.</li><br/>
+ 	<li>Developers are permitted to have a single plain link on <strong>one</strong> screen of an app. The link can be at a sign-in screen, in user settings, or elsewhere, but it can only be in one place. The single location may not be an interstitial, modal, or pop-up.</li><br/>
+ 	<li>The link can mention the specific price of content on a website, or that content is discounted on the website from the &zwnj;App Store&zwnj; price. Comparisons are allowed.</li><br/>
+ 	<li>Links cannot be placed directly on an in-app purchase screen or in the in-app purchase flow.</li><br/>
+ 	<li>Developers need to certify that the third-party payment service provider they are using for out-of-app purchasing meets industry standards for payment processors, and that they will offer users processes for managing subscriptions, requesting refunds, and disputing unauthorized transactions.</li><br/>
+ 	<li>Apps that participate in Apple's Video Partner Program or News Partner Program are not eligible for Link Entitlement.</li><br/>
+ 	<li>Apps that use the StoreKit External Purchase Link must continue to offer in-app purchases as an option.</li><br/>
+<li>&zwnj;App Store&zwnj; pages are not able to include information about purchasing on a website or a link to a website.</li><br/>
+<li>Digital purchases that are sold on an app's website through the Entitlement Link must be available for use in that app.</li><br/>
+ 	<li>The StoreKit External Purchase Link cannot discourage users from making in-app purchases or mimic an in-app purchase.</li><br/>
+ 	<li>Links must open a new window in the default browser of the device, and are not able to open a web view.</li><br/>
+ 	<li>No redirecting, intermediate links, or URL tracking parameters are allowed.</li><br/>
+<li>Developers are required to provide a periodic accounting of qualifying out-of-app purchases, and Apple has a right to audit developers' accounting to ensure compliance with their commission obligations and to charge interest and offset payments.</li><br/>
+<br/>
+</ul><br/>
+The Link Entitlement process and the &zwnj;App Store&zwnj; changes are applicable only in the U.S. &zwnj;App Store&zwnj;. Apps for all other storefronts are not able to include buttons, external links, or calls to action that direct customers to alternative purchasing options.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/apple-external-link-examples.jpg" alt="" width="1635" height="920" class="aligncenter size-full wp-image-931057" /><em><div class="center-wrap">Examples of how Entitlement Links can be used in apps</div></em><br/>
+Apple will provide an in-app warning to customers to let them know that they are leaving the &zwnj;App Store&zwnj; ecosystem to make a purchase on an external website and that &zwnj;App Store&zwnj; protections will not be available.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/apple-external-app-store-warning.jpg" alt="" width="2030" height="1142" class="aligncenter size-full wp-image-931056" /><br/>
+According to Apple's statement filed with the court, the requirements surrounding links are aimed at minimizing "fraud, scams, and confusion," while also providing developers with an opportunity to "entice users to other platforms" and give customers a choice between non-App Store purchasing and in-app purchases.<br/>
+<br/>
+The changes today stem from Apple's 2021 legal battle with <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a>. Apple won the dispute and the court did not find that Apple had violated U.S. antitrust law, but Apple was at the time ordered to remove "anti-steering" rules preventing developers from informing customers about alternatives to in-app purchases. That order has been on hold <a href="https://www.macrumors.com/2023/07/17/app-store-rule-change-epic-games-delayed/">during the appeals process</a>, but the appeals process ended today.<br/>
+<br/>
+Both Apple and &zwnj;Epic Games&zwnj; <a href="https://www.macrumors.com/2023/09/28/apple-epic-appeal-supreme-court/">had appealed</a> to the United States Supreme Court, but the Supreme Court <a href="https://www.macrumors.com/2024/01/16/supreme-court-declines-to-hear-apple-vs-epic-case/">declined to hear the case</a>. That means the initial ruling and the appeals court ruling that agreed with it are permanent, and Apple now has to comply with the part of that order that required it to change the &zwnj;App Store&zwnj; rules.<br/>
+<br/>
+The anti-steering rule was two-pronged, requiring Apple to allow for links to in-app purchase alternatives and to allow developers to communicate with customers outside of the &zwnj;App Store&zwnj; through email and other contact information collected in the app. The outside communication part of the order was already satisfied with a change that Apple made to the &zwnj;App Store&zwnj; rules in 2021 to <a href="https://www.macrumors.com/2021/08/26/app-store-changes-developer-lawsuit-settlement/">settle a class-action developer lawsuit</a>.<br/>
+<br/>
+Apple has already been allowing developers to use communication methods like email to inform customers about payment methods available outside of iOS apps, and Apple makes it clear in its messaging today that there are no limits on developers' out-of-app communications with users. The full statements that Apple provided to the court have been obtained by <em>MacRumors</em> and can be read below. <br/>
+<br/>
+<div class="center-wrap"><p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View App Store VP Matthew Fischer on Apple&#x27;s Injunction Compliance on Scribd" href="https://www.scribd.com/document/699388059/App-Store-VP-Matthew-Fischer-on-Apple-s-Injunction-Compliance#from_embed"  style="text-decoration: underline;" >App Store VP Matthew Fischer on Apple&#x27;s Injunction Compliance</a> by <a title="View MacRumors's profile on Scribd" href="https://www.scribd.com/user/212523051/MacRumors#from_embed"  style="text-decoration: underline;" >MacRumors</a> on Scribd</p><iframe class="scribd_iframe_embed" title="App Store VP Matthew Fischer on Apple's Injunction Compliance" src="https://www.scribd.com/embeds/699388059/content?start_page=1&view_mode=scroll&access_key=key-ED7bSkujN7wotXWkq7vD" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_43188" width="100%" height="600" frameborder="0"></iframe></div><br/>
+<br/>
+<div class="center-wrap"><p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Apple Notice of Compliance With UCL Injunction on Scribd" href="https://www.scribd.com/document/699388061/Apple-Notice-of-Compliance-With-UCL-Injunction#from_embed"  style="text-decoration: underline;" >Apple Notice of Compliance With UCL Injunction</a> by <a title="View MacRumors's profile on Scribd" href="https://www.scribd.com/user/212523051/MacRumors#from_embed"  style="text-decoration: underline;" >MacRumors</a> on Scribd</p><iframe class="scribd_iframe_embed" title="Apple Notice of Compliance With UCL Injunction" src="https://www.scribd.com/embeds/699388061/content?start_page=1&view_mode=scroll&access_key=key-Iyzh1bk6eAMlp68Mgo6E" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_50176" width="100%" height="600" frameborder="0"></iframe></div><br/>
+<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/">U.S. Developers Can Now Offer Non-App Store Purchasing Option, But Apple Will Still Collect Commissions</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/u-s-developers-can-now-offer-non-app-store-purchasing-option-but-apple-will-still-collect-commissions.2416540/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Vision Pro Lacks Wi-Fi 6E Support</title>
+		<link>https://www.macrumors.com/2024/01/16/apple-vision-pro-lacks-wi-fi-6e-support/</link>
+		<comments>https://forums.macrumors.com/threads/apple-vision-pro-lacks-wi-fi-6e-support.2416525/</comments>
+		<pubDate>Tue, 16 Jan 2024 11:48:40 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/16/apple-vision-pro-lacks-wi-fi-6e-support/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Vision Pro</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple <a href="https://www.macrumors.com/2024/01/16/vision-pro-fcc-approval/">received FCC approval</a> for the Vision Pro today in the U.S., and the filing confirms that the headset does not support Wi-Fi 6E.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/apple-vision-pro-setup.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-923100" /><br/>
+Wi-Fi 6E extends the capabilities of the regular Wi-Fi 6 standard to the 6 GHz band, enabling faster wireless speeds and reduced signal interference with a compatible device and router. <a href="https://www.macrumors.com/how-to/use-wi-fi-6e-iphone-mac/">Apple devices with Wi-Fi 6E support</a> include the latest iPad Pro models, iPhone 15 Pro models, and all Mac models released in 2023.<br/>
+<br/>
+The FCC filing shows that the Vision Pro does not have any approved operating frequencies in the 6 GHz range, confirming that the headset lacks Wi-Fi 6E support. In addition, one of Apple's documents in the application confirms that the Vision Pro supports regular Wi-Fi 6, which operates on the 2.4 GHz and 5 GHz frequency bands.<br/>
+<br/>
+Apple has yet to share full tech specs for the Vision Pro, so only limited details are available. Apple has so far said the headset is equipped with its M2 chip, an all-new R1 chip that processes camera and microphone input, and 256GB of base storage. <em>MacRumors</em> discovered that the headset is <a href="https://www.macrumors.com/2024/01/09/apple-vision-pro-how-much-ram-and-storage/">equipped with 16GB of RAM</a>.<br/>
+<br/>
+In the U.S., Vision Pro pre-orders begin this Friday, January 19 at 5 a.m. Pacific Time, with pricing starting at &#36;3,499. The headset <a href="https://www.macrumors.com/2024/01/08/apple-announces-february-2-vision-pro-launch/">launches on Friday, February 2</a>, and Apple previously said that availability would expand to more countries later this year.<br/>
+<br/>
+<strong>Update:</strong> Vision Pro also appears to lack Ultra Wideband support, according to <a href="https://9to5mac.com/2024/01/16/apple-vision-pro-uwb-wifi-6e-7/"><em>9to5Mac</em>'s Zac Hall</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/apple-vision-pro-lacks-wi-fi-6e-support/">Apple Vision Pro Lacks Wi-Fi 6E Support</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-lacks-wi-fi-6e-support.2416525/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Vision Pro Hands-On: Reviewers Comment on Weight, Disney+ Experience, Virtual Keyboard and More</title>
+		<link>https://www.macrumors.com/2024/01/16/vision-pro-hands-on-pre-launch/</link>
+		<comments>https://forums.macrumors.com/threads/vision-pro-hands-on-reviewers-comment-on-weight-disney-experience-virtual-keyboard-and-more.2416519/</comments>
+		<pubDate>Tue, 16 Jan 2024 10:38:49 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/16/vision-pro-hands-on-pre-launch/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Vision Pro</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple this week invited members of the media to New York City for another round of testing the Vision Pro ahead of its launch, and sites that were able to try out the device are now sharing their impressions.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/Apple-Vision-Pro-Dual-Loop-Band-Purple-Feature-2.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-929938" /><br/>
+As a recap, Apple first allowed media to use the Vision Pro following its debut at the Worldwide Developers Conference, but it was still under development at the time and features were limited. Now the headset is nearing release, so testers are able to experience the Vision Pro as consumers will.<br/>
+<br/>
+<em><a href="https://www.engadget.com/apple-vision-pro-hands-on-redux-immersive-video-disney-app-floating-keyboard-and-a-little-screaming-180006222.html?src=rss">Engadget</a></em>'s Cherlynn Low wore the headset for just 20 minutes with the standard strap and "was in pain" due to the weight of the device. Apple swapped her over to the Dual Loop Band, which "felt much better for weight distribution."<br/>
+<br/>
+Dana Wollman from <em>Engadget</em> had to experiment with Light Seals in order to get the right fit against the face, and when it was too loose, the headset's lettering did not look sharp. Both testers preferred the Dual Loop version of the band, which was more comfortable, and they said there were a lot of options for fit. Joanna Stern from <em>The <a href="https://www.macrumors.com/guide/wsj-com/">Wall Street Journal</a></em> said that the Dual Loop, which she was able to try for the first time, was much more comfortable than the single band option.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had my 4th demo of the Vision Pro this AM and Apple finally let us take a photo with it on.<br><br>My first three demos (1 in June, 1 in November, 1 in December) were all with the Solo Knit Band and I really felt the weight of the face computer on my face. <br><br>Today I tried the Dual… <a href="https://t.co/DjyYknyme3">pic.twitter.com/DjyYknyme3</a></p>&mdash; Joanna Stern (@JoannaStern) <a href="https://twitter.com/JoannaStern/status/1747331779285991649?ref_src=twsrc%5Etfw">January 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+<em><a href="https://www.theverge.com/24040075/apple-vision-pro-hands-on-virtual-reality">The Verge</a></em>'s Victoria Song didn't comment in detail on the weight, but said that you can feel it sitting on your head "wrecking your hairdo," and that those with long hair can feel it bunch up at the back.<br/>
+<br/>
+Immersive video was part of the demonstration, which Low said showed impressive levels of texture. Wollman felt immersed in the scene, but "also excluded" because it's lifelike, but no one in the immersive videos "sees you or interacts with you." Disney+ for Vision Pro was described as "like playing a video game" because you can select a Disney-esque background for watching content. Wollman described it as a "Disney-themed drive-in." From Low:<br/>
+<blockquote>As a big Marvel fangirl, I really geeked out when the Avengers Tower environment came on. I looked around and saw all kinds of easter eggs, including a takeout container from Shawarma Grill on the table next to me. It feels a little silly to gush about the realism of the images, but I saw no pixels. Instead, I looked at a little handwritten note that Tony Stark had clearly left behind and felt like I was almost able to pick it up. When we switched over to the Tattooine environment, I was placed in the cockpit of Luke Skywalker's landspeeder, and when I reached out to grab the steering controls, I was able to see my own hands in front of me.</blockquote><br/>
+Song described the experience of watching spatial videos shot on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, and she felt "some familiar VR motion queasiness" from the camera shake.<br/>
+<br/>
+While the floating keyboard has been <a href="https://www.macrumors.com/2024/01/15/apple-vision-pro-virtual-keyboard-criticism/">described by <em>Bloomberg</em>'s Mark Gurman</a> as a "complete write-off," Low said that it worked "fairly well," while Wollman said that it was "one of the more frustrating" parts of the demo because none of the typing options worked for extended use. Song said it worked, but it was clunky. "You look at a letter and pinch your fingers to select it," she described. <br/>
+<br/>
+Reviewers were also able to test out the meditation feature and the Encounter Dinosaurs app, and their full thoughts on the device can be read over at <em><a href="https://www.engadget.com/apple-vision-pro-hands-on-redux-immersive-video-disney-app-floating-keyboard-and-a-little-screaming-180006222.html">Engadget</a></em> and <em><a href="https://www.theverge.com/24040075/apple-vision-pro-hands-on-virtual-reality">The Verge</a></em>. Additional accounts of in-person experiences will be coming out later this week, and Apple is giving some of the media that visit New York this week headsets to test out for full reviews. More in-depth reviews will be available ahead of when the Vision Pro launches on February 2.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/vision-pro-hands-on-pre-launch/">Vision Pro Hands-On: Reviewers Comment on Weight, Disney+ Experience, Virtual Keyboard and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/vision-pro-hands-on-reviewers-comment-on-weight-disney-experience-virtual-keyboard-and-more.2416519/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Samsung Introduces New Sale With Big Savings on Computer Monitors</title>
+		<link>https://www.macrumors.com/2024/01/16/samsung-introduces-new-sale-monitors/</link>
+		<comments>https://forums.macrumors.com/threads/samsung-introduces-new-sale-with-big-savings-on-computer-monitors.2416517/</comments>
+		<pubDate>Tue, 16 Jan 2024 10:32:48 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/16/samsung-introduces-new-sale-monitors/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		
+
+		<description><![CDATA[Samsung has kicked off a <a href="https://howl.me/clq2oxlzaSU">new sale on computer monitors</a>, which is set to end on January 21. During this event you'll find discounts on 4K and 5K Samsung monitors, including the popular ViewFinity S9 5K Smart Monitor and Smart Monitor M8.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/samsung-botw.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-916842" /><em><small>Note: MacRumors is an affiliate partner with Samsung. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+The highlight of the sale is the 27-inch ViewFinity S9 5K Smart Monitor for <a href="https://howl.me/clq17ynFNDS"><strong>&#36;1,199.99</strong></a>, down from &#36;1,599.99. At &#36;400 off this is a solid second-best price on the 2023 display, which has a matte display, modular 4K SlimFit camera, and support for Thunderbolt 4.<br/>
+<br/>
+<div class="center-wrap"><a href="https://howl.me/clq17ynFNDS"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;400 OFF</div>27-inch ViewFinity S9 5K Smart Monitor for &#36;1,199.99</div></a></div><br/>
+<br/>
+Samsung's 27-inch Smart Monitor M8 is also being discounted during this sale, available for <a href="https://howl.me/clq2b1RAXhG"><strong>&#36;479.99</strong></a>, down from &#36;649.99. This is a 4K smart monitor with a design that looks similar to the new iMac line.<br/>
+<br/>
+<div class="center-wrap"><a href="https://howl.me/clq2b1RAXhG"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;170 OFF</div>27-inch Smart Monitor M8 for &#36;479.99</div></a></div><ul><li><a href="https://howl.me/clq2hIAozaO">27-inch Odyssey HDR10 Gaming Monitor</a> - &#36;269.99, down from &#36;349.99</li><br/>
+<li><a href="https://howl.me/clq2gYG78Q9">34-inch ViewFinity HDR10 Curved Monitor</a> - &#36;599.99, down from &#36;699.99</li><br/>
+<li><a href="https://howl.me/clq2gbHK6cQ">49-inch Odyssey G9 Curved Gaming Monitor</a> - &#36;1,099.99, down from &#36;1,299.99</li><br/>
+<li><a href="https://howl.me/clq2e77z0lE">49-inch Odyssey OLED G9 Curved Gaming Monitor</a> - &#36;1,299.99, down from &#36;1,799.99</li><br/>
+<li><a href="https://howl.me/clq2iqJk4s6">55-inch Odyssey Ark 4K UHD Mini-LED Curved Gaming Monitor</a> - &#36;2,199.99, down from &#36;2,699.99</li></ul><br/>
+<br/>
+Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/samsung-introduces-new-sale-monitors/">Samsung Introduces New Sale With Big Savings on Computer Monitors</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/samsung-introduces-new-sale-with-big-savings-on-computer-monitors.2416517/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Vision Pro App Store Launches</title>
+		<link>https://www.macrumors.com/2024/01/16/apple-vision-pro-app-store-launches/</link>
+		<comments>https://forums.macrumors.com/threads/apple-vision-pro-app-store-launches.2416510/</comments>
+		<pubDate>Tue, 16 Jan 2024 09:47:05 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/16/apple-vision-pro-app-store-launches/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>visionOS</category>
+		
+
+		<description><![CDATA[Ahead of the Vision Pro launch that's coming on February 2, Apple has officially debuted the Vision Pro <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. With the &zwnj;App Store&zwnj; live for the device, apps on the iOS &zwnj;App Store&zwnj; will soon list Vision Pro compatibility.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/visionos-home-screen-mt-hood.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-900011" /><br/>
+Developers are now able to release apps for the Vision Pro and have those apps appear in the Vision Pro &zwnj;App Store&zwnj;. Consumers don't yet have access to the Vision Pro headset, but reviewers who have the device on hand will be able to try out third-party apps created for the headset.<br/>
+<br/>
+The <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> &zwnj;App Store&zwnj; will house both apps designed specifically to take advantage of the capabilities of the Vision Pro as well as iOS apps that are able to run on the device in a 2D mode. Existing apps are able to be ported to the Vision Pro with no action needed on the part of the developer, which means that most apps should be available in some capacity. Developers can choose to opt out of having their apps appear, however.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looks like Apple has just released the visionOS App Store! <a href="https://t.co/zSdiY04JzF">pic.twitter.com/zSdiY04JzF</a></p>&mdash;  (@DylanMcD8) <a href="https://twitter.com/DylanMcD8/status/1747307110847680611?ref_src=twsrc%5Etfw">January 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Apple is meeting with select members of the media <a href="https://www.macrumors.com/2024/01/09/apple-vision-pro-reviews-multiple-meetings/">starting today</a> to provide review units. Reviews are expected to go live at the end of January, so reviewers should have ample time to test out apps.<br/>
+<br/>
+Pre-orders for the Vision Pro will begin this Friday at 5:00 a.m. Pacific Time, and it is likely that available units will sell out quickly. The headset is set to launch on Friday, February 2, two weeks after when pre-orders happen.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/apple-vision-pro-app-store-launches/">Apple Vision Pro App Store Launches</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-app-store-launches.2416510/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Vision Pro Receives FCC Approval Ahead of Launch</title>
+		<link>https://www.macrumors.com/2024/01/16/vision-pro-fcc-approval/</link>
+		<comments>https://forums.macrumors.com/threads/apple-vision-pro-receives-fcc-approval-ahead-of-launch.2416508/</comments>
+		<pubDate>Tue, 16 Jan 2024 09:33:52 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/16/vision-pro-fcc-approval/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Vision Pro</category>
+		
+
+		<description><![CDATA[Apple today received FCC approval for the upcoming Vision Pro headset, just days ahead of when pre-orders are set to go live for the device. FCC approval comes a little over two weeks before when the Vision Pro will be in the hands of consumers.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/Vision-Pro-Person.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-913199" /><br/>
+It is not unusual for new Apple devices to lack FCC approval until close to their launch date as it can take quite a bit of time for Apple to get products cleared. Apple devices undergo rigorous FCC testing in the United States prior to being able to be sold to the public.<br/>
+<br/>
+For the last several months, Apple has been required to provide a warning message letting consumers know that the Vision Pro did not yet have FCC approval, but the wording will now be able to be removed from the website, advertising, and other places where it is printed.<br/>
+<blockquote>Apple Vision Pro has not been authorized as required by the rules of the Federal Communications Commission. This device is not, and may not be, offered for sale or lease, or sold or leased, until authorization is obtained.</blockquote><br/>
+The Vision Pro is set to go up for pre-order on Friday, January 19 at 5:00 a.m. Pacific Time. It is priced starting at &#36;3,500.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/vision-pro-fcc-approval/">Apple Vision Pro Receives FCC Approval Ahead of Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-receives-fcc-approval-ahead-of-launch.2416508/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Highlights Guest and Travel Modes on Vision Pro</title>
+		<link>https://www.macrumors.com/2024/01/16/apple-vision-pro-guest-user-and-travel-modes/</link>
+		<comments>https://forums.macrumors.com/threads/apple-highlights-guest-and-travel-modes-on-vision-pro.2416502/</comments>
+		<pubDate>Tue, 16 Jan 2024 09:01:48 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/16/apple-vision-pro-guest-user-and-travel-modes/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Vision Pro</category>
+		<category>Featured</category>
+		<category>visionOS</category>
+		
+
+		<description><![CDATA[In a press release outlining <a href="https://www.macrumors.com/2024/01/16/vision-pro-streaming-services-and-sports-apps/">entertainment options on the Vision Pro</a>, Apple also briefly highlighted Guest User and Travel Mode features on the headset.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/Apple-Vision-Pro-Guest.jpeg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-930974" /><br/>
+With the Guest User mode, you can let family and friends use your Vision Pro with limited access to certain apps, such as Photos and Safari. Apple says the primary user's Apple ID account settings, Optic ID, passcode, passwords, Apple Pay, Persona, and health data will be restricted while the Guest User mode is active.<br/>
+<br/>
+Guest User mode was discovered last year <a href="https://www.macrumors.com/2023/06/22/visionos-hands-on/">in the visionOS simulator</a>, part of Apple's app development tool Xcode. Once the mode is turned on, it will automatically shut off if the headset is not worn within five minutes, the simulator showed.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/Apple-Vision-Pro-Travel-Mode.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-930973" /><br/>
+When turned on via Control Center, Apple says Travel Mode stabilizes visuals on the Vision Pro for users wearing the headset on an airplane. Travel Mode was first discovered by <em>MacRumors</em> contributor Steve Moser last year in visionOS beta code, with more details about this  feature <a href="https://www.macrumors.com/2023/06/22/apple-vision-pro-travel-mode/">outlined in our coverage at the time</a>.<br/>
+<br/>
+In fine print related to Travel Mode, Apple warns that the Vision Pro should obviously not be used while operating a moving vehicle.<br/>
+<br/>
+Vision Pro can be pre-ordered in the U.S. starting Friday, January 19 at 5 a.m. Pacific Time, and it <a href="https://www.macrumors.com/2024/01/08/apple-announces-february-2-vision-pro-launch/">launches on Friday, February 2</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/apple-vision-pro-guest-user-and-travel-modes/">Apple Highlights Guest and Travel Modes on Vision Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-highlights-guest-and-travel-modes-on-vision-pro.2416502/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple&#039;s M3 MacBook Pro Gets All-Time Low Prices on Amazon, Starting at &#36;1,399</title>
@@ -111,7 +335,7 @@ That immersive content includes:<blockquote>- <strong>Alicia Keys: Rehearsal Roo
 <br/>
 - <strong>Wild Life</strong> takes viewers up close and personal with some of the most charismatic creatures on the planet to uncover what makes them unique, featuring the experts who know them best. The first episode brings viewers into the world's largest rhinoceros sanctuary where a former police captain has dedicated her life to rescuing, raising, and rewilding these gentle giants.<br/>
 <br/>
-- <strong>Prehistoric Planet Immersive:</strong> The award-winning Apple Original docuseries from Jon Favreau and the producers of Planet Earth returns with an immersive film that transports viewers into the daily lives of dinosaurs, and follows the struggles and triumphs of these majestic animals amid spectacular scenery. Prehistoric Planet Immersive whisks viewers along a rugged ocean coast where a pterosaur colony settles in for an afternoon nap, which proves to be anything but restful.</blockquote>Vision Pro starts at &#36;3,499 in the U.S., and it will be available to pre-order starting this Friday, January 19. The headset is launching in the U.S. only for now, with availability expected to expand to additional countries <a href="https://www.macrumors.com/2024/01/16/vision-pro-to-launch-internationally-before-wwdc/">later this year</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/vision-pro-streaming-services-and-sports-apps/">Apple Announces Streaming Services and Sports Apps Available on Vision Pro at Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-announces-streaming-services-and-sports-apps-available-on-vision-pro-at-launch.2416486/">Discuss this article</a> in our forums<br/><br/>]]></description>
+- <strong>Prehistoric Planet Immersive:</strong> The award-winning Apple Original docuseries from Jon Favreau and the producers of Planet Earth returns with an immersive film that transports viewers into the daily lives of dinosaurs, and follows the struggles and triumphs of these majestic animals amid spectacular scenery. Prehistoric Planet Immersive whisks viewers along a rugged ocean coast where a pterosaur colony settles in for an afternoon nap, which proves to be anything but restful.</blockquote>Vision Pro starts at &#36;3,499 in the U.S., and it will be available to pre-order starting this Friday, January 19. The headset is launching in the U.S. only for now, with availability expected to expand to additional countries <a href="https://www.macrumors.com/2024/01/16/vision-pro-to-launch-internationally-before-wwdc/">later this year</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/vision-pro-streaming-services-and-sports-apps/">Apple Announces Streaming Services and Sports Apps Available on Vision Pro at Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-announces-streaming-services-and-sports-apps-available-on-vision-pro-at-launch.2416486/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -135,7 +359,7 @@ Kuo explained that Apple's reasoning for keeping sales of the Vision Pro exclusi
 <br/>
 Apple has hosted WWDC in early June every year since 2007, so it is highly likely to fall at the same time again this year. Earlier this month, <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> said that the launch of Vision Pro in other countries around the world <a href="https://www.macrumors.com/2024/01/07/gurman-vision-pro-launch-imminent/">will not "actually be that much later"</a> than its release in the United States. Apple is said to be considering the United Kingdom, Canada, and China as the next markets to receive the product.<br/>
 <br/>
-It is not clear how much supply will be available in the rest of the world by the time the Vision Pro goes on sale outside the United States. With <a href="https://www.macrumors.com/2024/01/11/kuo-vision-pro-sellout-likely/">only 80,000 units</a> expected to be available upon launch in the U.S., the headset is <a href="https://www.macrumors.com/2024/01/09/kuo-apple-vision-pro-may-sell-out-fast/">expected to sell out quickly</a> and thereafter be subject to long shipping delays.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/vision-pro-to-launch-internationally-before-wwdc/">Kuo: Apple Vision Pro to Launch Internationally Before WWDC 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-apple-vision-pro-to-launch-internationally-before-wwdc-2024.2416482/">Discuss this article</a> in our forums<br/><br/>]]></description>
+It is not clear how much supply will be available in the rest of the world by the time the Vision Pro goes on sale outside the United States. With <a href="https://www.macrumors.com/2024/01/11/kuo-vision-pro-sellout-likely/">only 80,000 units</a> expected to be available upon launch in the U.S., the headset is <a href="https://www.macrumors.com/2024/01/09/kuo-apple-vision-pro-may-sell-out-fast/">expected to sell out quickly</a> and thereafter be subject to long shipping delays.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/16/vision-pro-to-launch-internationally-before-wwdc/">Kuo: Apple Vision Pro to Launch Internationally Before WWDC 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-apple-vision-pro-to-launch-internationally-before-wwdc-2024.2416482/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -429,181 +653,7 @@ Vision Pro offloads the processing of information coming from the cameras, senso
 <br/>
 The entry-level Vision Pro is <a href="https://www.macrumors.com/2024/01/09/apple-vision-pro-how-much-ram-and-storage/">equipped</a> 16GB of RAM and 256GB of storage space. Apple could offer models with up to 1TB of storage, but the existence of bigger capacities has not yet been confirmed.<br/>
 <br/>
-In the <a href="https://x.com/markgurman/status/1746585308626612655?s=20">same post on X</a>, Gurman additionally confirmed that Apple customers will be able to purchase the Vision Pro online and at retail stores using Apple Card installments. Typically, Apple Card installments let customers spread the purchase over monthly payments with no interest. iPhone purchases can be made over 24 monthly payments, for example. Apple Vision Pro pre-orders open on Friday, January 19 at 5.00 a.m. PST in the United States.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/15/vision-pro-m2-chip-10-gpu-8-cpu-cores/">Apple Vision Pro M2 Chip Said to Have 10 GPU, 8 CPU Cores</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-m2-chip-said-to-have-10-gpu-8-cpu-cores.2416370/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Vision Pro Virtual Keyboard Blasted As &#039;Complete Write-Off&#039;</title>
-		<link>https://www.macrumors.com/2024/01/15/apple-vision-pro-virtual-keyboard-criticism/</link>
-		<comments>https://forums.macrumors.com/threads/apple-vision-pro-virtual-keyboard-blasted-as-complete-write-off.2416369/</comments>
-		<pubDate>Mon, 15 Jan 2024 03:25:52 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/15/apple-vision-pro-virtual-keyboard-criticism/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Vision Pro</category>
-		
-
-		<description><![CDATA[Anyone paying attention to Apple's Vision Pro headset unveiling at WWDC 2023 will have seen its virtual keyboard demo. The keyboard floats in mid-air, allowing you to input text in your spatial computing environment while wearing the device. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/apple-vision-pro-virtual-keyboard.jpg" alt="" width="1278" height="720" class="aligncenter size-full wp-image-930653" /><br/>
-However, anyone planning to ditch their physical keyboard may want to hold onto it for a little while longer: According to <em>Bloomberg</em>'s Mark Gurman, the virtual keyboard experience in visionOS 1.0 is "a complete write-off," and most people will want to use a Bluetooth keyboard instead.<br/>
-<blockquote>"The Vision Pro virtual keyboard is a complete write-off at least in 1.0," wrote Gurman in an <a href="https://x.com/markgurman/status/1745907431564063208?s=20">X post</a>. "You have to poke each key one finger at a time like you did before you learned how to type. There is no magical in-air typing. You can also look at a character and pinch. You'll want a Bluetooth keyboard."</blockquote><a href="https://developer.apple.com/videos/play/wwdc2023/10073/">According to Apple</a>, the buttons on the virtual keyboard are raised above the platter to mimic the affordance of pushing physical keys, and the keyboard even includes feedback via spatial sound effects to "compensate for the missing tactile information." <br/>
-<br/>
-Going on what Gurman said though, it doesn't sound like Apple has quite perfected the experience, which is probably always going to be degraded by the fatigue caused by having to hold your hands in the air to type, regardless of what Apple does to improve it in future software updates. Fortunately, Vision Pro can wirelessly connect to Mac accessories including the Magic Keyboard and the Magic Trackpad for more traditional tactile input. <br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Vision Pro virtual keyboard is a complete write-off at least in 1.0. You have to poke each key one finger at a time like you did before you learned how to type. There is no magical in-air typing. You can also look at a character and pinch. You’ll want a Bluetooth keyboard.</p>&mdash; Mark Gurman (@markgurman) <a href="https://twitter.com/markgurman/status/1745907431564063208?ref_src=twsrc%5Etfw">January 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-Starting at &#36;3,499, Apple Vision Pro pre-orders open on Friday, January 19 at 5.00 a.m. PST, and the device goes on sale in the U.S. on Friday, February 2, with availability in Canada and the United Kingdom expected to follow later in the year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/15/apple-vision-pro-virtual-keyboard-criticism/">Apple Vision Pro Virtual Keyboard Blasted As &#039;Complete Write-Off&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-virtual-keyboard-blasted-as-complete-write-off.2416369/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Offers Rare iPhone Discounts in China to Counter Sales Slump</title>
-		<link>https://www.macrumors.com/2024/01/15/apple-offers-rare-iphone-discounts-china/</link>
-		<comments>https://forums.macrumors.com/threads/apple-offers-rare-iphone-discounts-in-china-to-counter-sales-slump.2416368/</comments>
-		<pubDate>Mon, 15 Jan 2024 02:41:57 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/15/apple-offers-rare-iphone-discounts-china/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>China</category>
-		
-
-		<description><![CDATA[Apple will launch a rare <a href="https://www.apple.com.cn/shop/gifts/chinese-new-year/shopping-event">promotional discount</a> on its iPhones in China, offering customers as much as 500 yuan (&#36;70) off the price of its flagship devices ahead of the Lunar New Year in February.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/apple-discounts-lunar-new-year-2024.jpg" alt="" width="1294" height="840" class="aligncenter size-full wp-image-930648" /><br/>
-The promotion, which runs from January 18 through January 21, applies to everything from the <a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a> to the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max, and also includes smaller discounts off other major Apple products like Macs, iPads, AirPods, and Apple Watch models. <br/>
-<br/>
-Apple's discounts are notable because the company does not typically offer promotions on its website around the Lunar New Year, usually leaving promotions to Apple authorized resellers instead. <br/>
-<br/>
-The move comes as Apple tries to stave off falling <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> sales in China, with last year's double-digit decline projected by analysts to <a href="https://www.macrumors.com/2024/01/08/iphone-sales-down-huawei-resurgence-china/">deepen through 2024</a> owing to strong interest in Huawei's latest home-grown lineup, the Mate 60 series.<br/>
-<br/>
-Released in September just weeks before the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, Huawei's Mate 60 phones use a new China-made 7-nanometer processor tailored for the local market, showcasing the kind of advanced semiconductor manufacturing capabilities that US sanctions were originally designed to prevent.<br/>
-<br/>
-Despite the promotions, Apple's efforts to counter its sales slump are likely to be hampered by China's decision last year to ban iPhones from the offices of multiple government agencies and state companies. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/china/">China</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/15/apple-offers-rare-iphone-discounts-china/">Apple Offers Rare iPhone Discounts in China to Counter Sales Slump</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-offers-rare-iphone-discounts-in-china-to-counter-sales-slump.2416368/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16 and iPhone 16 Plus Rumored to Feature Increased 8GB RAM and Wi-Fi 6E Support</title>
-		<link>https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-and-iphone-16-plus-rumored-to-feature-increased-8gb-ram-and-wi-fi-6e-support.2416354/</comments>
-		<pubDate>Sun, 14 Jan 2024 16:41:31 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 16</category>
-		<category>Jeff Pu</category>
-		
-
-		<description><![CDATA[Apple's next-generation iPhone 16 and iPhone 16 Plus models will both feature 8GB of RAM, an increase over the <a href="https://www.macrumors.com/2023/09/12/iphone-15-pro-models-have-8gb-ram/">6GB of RAM in the iPhone 15 and iPhone 15 Plus</a>, according to information shared today by technology analyst Jeff Pu.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/iPhone-Boxes-16x9.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-920850" /><br/>
-In a research note with investment firm Haitong International Securities, Pu reiterated his belief that all iPhone 16 models will be equipped with 8GB of RAM. Increased RAM can contribute to improved performance for multitasking on the iPhone.<br/>
-<br/>
-iPhone 15 lineup:<ul><li><strong>iPhone 15:</strong> 6GB</li><br/>
-<li><strong>iPhone 15 Plus:</strong> 6GB</li><br/>
-<li><strong>iPhone 15 Pro:</strong> 8GB</li><br/>
-<li><strong>iPhone 15 Pro Max:</strong> 8GB</li></ul>iPhone 16 lineup, according to Pu:<ul><li><strong>iPhone 16:</strong> 8GB</li><br/>
-<li><strong>iPhone 16 Plus:</strong> 8GB</li><br/>
-<li><strong>iPhone 16 Pro:</strong> 8GB</li><br/>
-<li><strong>iPhone 16 Pro Max:</strong> 8GB</li></ul>Pu also expects the iPhone 16 and iPhone 16 Plus to support Wi-Fi 6E, which works with the 6 GHz band, enabling faster wireless speeds and reduced signal interference with a compatible router. For the iPhone 15 lineup, Wi-Fi 6E is limited to the Pro models.<br/>
-<br/>
-Apple is expected to announce the iPhone 16 lineup in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/jeff-pu/">Jeff Pu</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/14/iphone-16-and-16-plus-8gb-ram-rumor/">iPhone 16 and iPhone 16 Plus Rumored to Feature Increased 8GB RAM and Wi-Fi 6E Support</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-and-iphone-16-plus-rumored-to-feature-increased-8gb-ram-and-wi-fi-6e-support.2416354/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16: Qualcomm&#039;s Latest 5G Modem May Be Limited to Pro Models</title>
-		<link>https://www.macrumors.com/2024/01/14/iphone-16-pro-qualcomm-x75-modem-rumor/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-qualcomms-latest-5g-modem-may-be-limited-to-pro-models.2416351/</comments>
-		<pubDate>Sun, 14 Jan 2024 16:13:37 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/14/iphone-16-pro-qualcomm-x75-modem-rumor/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPhone 16</category>
-		<category>iPhone 16 Pro</category>
-		<category>Qualcomm</category>
-		<category>5G</category>
-		<category>Jeff Pu</category>
-		
-
-		<description><![CDATA[Qualcomm's latest cellular modem may be limited to the iPhone 16 Pro models this year, according to technology analyst Jeff Pu.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/iPhone-16-Pro-Sizes-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-927877" /><br/>
-In a research note today with investment firm Haitong International Securities, Pu reiterated his belief that the iPhone 16 Pro models will be equipped with <a href="https://www.qualcomm.com/products/technology/modems/snapdragon-x75-5g-modem-rf-system">Qualcomm's Snapdragon X75 modem</a>. However, he expects the standard iPhone 16 and iPhone 16 Plus to retain the Snapdragon X70 modem found in all iPhone 15 models. This modem differentiation between the standard and Pro models would be a change in strategy for Apple.<br/>
-<br/>
-Announced in February 2023, the Snapdragon X75 features improved carrier aggregation and other technology advancements for faster 5G download and upload speeds compared to the X70. The modem's combined mmWave and sub-6GHz 5G transceiver takes up 25% less circuit board space, and uses up to 20% less power, according <a href="https://www.theverge.com/2023/2/15/23600171/qualcomm-snapdragon-x75-5g-modem-rf">to <em>The Verge</em></a>.<br/>
-<br/>
-The Snapdragon X75 also supports the latest "5G Advanced" standard, which is described as "the next phase of 5G" and an "evolution towards 6G." 5G Advanced will include artificial intelligence and machine learning enhancements for improved 5G performance, and it will also expand 5G to additional device types and use cases.<br/>
-<br/>
-Apple is likely to advertise 5G Advanced support on the iPhone 16 Pro models, like it did with LTE Advanced on the iPhone 6s in 2015.<br/>
-<br/>
-Apple is rumored to have been working on its own 5G modem for iPhones since 2018, but the project has reportedly faced development challenges, and the modem is not expected to be announced <a href="https://www.macrumors.com/2023/09/06/apple-modem-in-2025-kuo/">until 2025 or later</a> should it ever materialize. In the meantime, Apple <a href="https://www.macrumors.com/2023/09/11/apple-extends-deal-with-qualcomm-as-modem-delayed/">extended its 5G modem agreement with Qualcomm</a> through 2026.<br/>
-<br/>
-Apple is expected to announce the iPhone 16 lineup in September.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/qualcomm/">Qualcomm</a>, <a href="https://www.macrumors.com/guide/5g/">5G</a>, <a href="https://www.macrumors.com/guide/jeff-pu/">Jeff Pu</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/14/iphone-16-pro-qualcomm-x75-modem-rumor/">iPhone 16: Qualcomm&#039;s Latest 5G Modem May Be Limited to Pro Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-qualcomms-latest-5g-modem-may-be-limited-to-pro-models.2416351/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Here&#039;s How Vision Pro Demos Will Work at Apple Stores Next Month</title>
-		<link>https://www.macrumors.com/2024/01/14/apple-store-vision-pro-demos-details/</link>
-		<comments>https://forums.macrumors.com/threads/heres-how-vision-pro-demos-will-work-at-apple-stores-next-month.2416349/</comments>
-		<pubDate>Sun, 14 Jan 2024 15:39:06 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/14/apple-store-vision-pro-demos-details/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Vision Pro</category>
-		<category>Apple Store</category>
-		
-
-		<description><![CDATA[Starting on February 2 at 8 a.m. local time, Apple Stores in the U.S. will allow customers to sign up for a <a href="https://www.macrumors.com/2024/01/08/apple-vision-pro-demos-february-2/">demo of the Vision Pro headset</a>. In an email, Apple said it will be offering demos from February 2 through February 4 on a first‑come, first‑served basis.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/Apple-Vision-Pro-Digital-Crown.jpeg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-930595" /><br/>
-In his <a href="https://www.bloomberg.com/news/newsletters/2024-01-14/how-to-buy-apple-vision-pro-3-499-device-to-go-on-sale-feb-2-lrdjtdm7"><em>Power On</em> newsletter</a> today, <em>Bloomberg</em>'s Mark Gurman said each demo will last around 20 to 25 minutes. After a calibration process, he said the customer will view still photos, panoramas, spatial photos, and spatial videos in the Photos app. Next, he said customers will learn how to position multiple app windows and scroll through pages in Safari. Then, they will view immersive 3D content, including movie clips, sports, and a tightrope scene.<br/>
-<br/>
-Media personnel, YouTube creators, and some others invited to attend WWDC 2023 at Apple Park last June received a similar demo experience.<br/>
-<br/>
-Vision Pro demo units will also be preloaded with various third-party apps that will be available on the App Store at launch, according to the newsletter. Apple began <a href="https://www.macrumors.com/2024/01/08/apple-releases-vision-pro-updates-testflight-xcode/">allowing developers to submit visionOS apps</a> for approval earlier this month.<br/>
-<br/>
-Apple will begin accepting Vision Pro pre-orders in the U.S. <a href="https://www.macrumors.com/2024/01/08/apple-announces-february-2-vision-pro-launch/">on January 19</a>, with pricing starting at &#36;3,499. The headset launches February 2.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/14/apple-store-vision-pro-demos-details/">Here&#039;s How Vision Pro Demos Will Work at Apple Stores Next Month</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/heres-how-vision-pro-demos-will-work-at-apple-stores-next-month.2416349/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Belkin Expected to Sell Battery Pack Clip Accessory for Apple Vision Pro</title>
-		<link>https://www.macrumors.com/2024/01/14/belkin-vision-pro-battery-pack-clip/</link>
-		<comments>https://forums.macrumors.com/threads/belkin-expected-to-sell-battery-pack-clip-accessory-for-apple-vision-pro.2416343/</comments>
-		<pubDate>Sun, 14 Jan 2024 14:25:39 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/14/belkin-vision-pro-battery-pack-clip/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Vision Pro</category>
-		<category>Belkin</category>
-		
-
-		<description><![CDATA[Apple's upcoming <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Vision Pro headset</a> is powered by an external battery pack that attaches with a cable. For customers who want to use the headset on the go without pockets or a backpack, <a href="https://www.bloomberg.com/news/newsletters/2024-01-14/how-to-buy-apple-vision-pro-3-499-device-to-go-on-sale-feb-2-lrdjtdm7"><em>Bloomberg</em>'s Mark Gurman today said</a> that Belkin is planning to release a clip that allows the battery pack to be attached to clothing.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Blue-Magenta.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-898550" /><br/>
-Belkin will begin selling the clip when the Vision Pro <a href="https://www.macrumors.com/2024/01/08/apple-announces-february-2-vision-pro-launch/">launches in the U.S. on February 2</a>, and Apple will also offer it, according to Gurman.<br/>
-<br/>
-Belkin offers a range of Apple-endorsed accessories, including iPhone screen protectors, MagSafe charging stands, a Continuity Camera mount for Macs, and more. Many of its accessories are available on Apple's online store.<br/>
-<br/>
-Apple says the Vision Pro can provide up to two hours of battery life overall, and <a href="https://www.macrumors.com/2024/01/08/apple-vision-pro-battery-life-video-playback/">up to 2.5 hours for 2D video playback</a>, on a full charge.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/belkin/">Belkin</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/14/belkin-vision-pro-battery-pack-clip/">Belkin Expected to Sell Battery Pack Clip Accessory for Apple Vision Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/belkin-expected-to-sell-battery-pack-clip-accessory-for-apple-vision-pro.2416343/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Relocating Siri Evaluation Team in San Diego to Austin</title>
-		<link>https://www.macrumors.com/2024/01/14/apple-moving-san-diego-siri-team-to-austin/</link>
-		<comments>https://forums.macrumors.com/threads/apple-relocating-siri-evaluation-team-in-san-diego-to-austin.2416340/</comments>
-		<pubDate>Sun, 14 Jan 2024 13:33:53 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/14/apple-moving-san-diego-siri-team-to-austin/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Siri</category>
-		
-
-		<description><![CDATA[Apple is relocating a team of around 120 people focused on improving Siri from San Diego to Austin later this year, according to multiple affected employees.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/03/hey-siri-banner-apple.jpg" alt="" width="1200" height="630" class="aligncenter size-full wp-image-840591" /><br/>
-The reorganization was confirmed by Apple today in a statement shared with <em>MacRumors</em>.<br/>
-<br/>
-"We're bringing our Data Operations Annotations teams in the US together at our campus in Austin, where a majority of the team is already based," an Apple spokesperson said. "Everyone currently employed will have the opportunity to continue their role with Apple in Austin. We are deeply committed to San Diego where we have grown significantly, and are continuing to hire as we expand our world-class engineering teams."<br/>
-<br/>
-The news was first reported <a href="https://www.bloomberg.com/news/articles/2024-01-14/apple-to-shutter-121-person-san-diego-ai-team-in-reorganization">by <em>Bloomberg</em>'s Mark Gurman</a>, who said employees in San Diego willing to relocate to Austin by June will be able to continue in their roles. The report said employees who do not relocate or find another role within Apple will receive severance pay, and outlines many other specific details.<br/>
-<br/>
-While some other large tech companies like Google, Microsoft, and Amazon have laid off thousands of employees over the past year, Apple has so far avoided this outcome. However, it is unlikely that all affected employees in San Diego are willing to relocate over a thousand miles away to Austin, so some may be facing termination.<br/>
-<br/>
-"Data Operations Annotations" employees are primarily tasked with evaluating Siri's responses to queries from customers who have opted in to the <a href="https://www.macrumors.com/2019/08/28/apple-apologizes-over-siri-privacy-concerns/">Siri grading program</a>. In the U.S., this work will continue entirely in Austin going forward. Apple has similar teams in China, Ireland, Singapore, Spain, and other countries around the world.<br/>
-<br/>
-Apple had approximately 161,000 full-time employees as of September 30, according to a company filing last year.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/siri/">Siri</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/14/apple-moving-san-diego-siri-team-to-austin/">Apple Relocating Siri Evaluation Team in San Diego to Austin</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-relocating-siri-evaluation-team-in-san-diego-to-austin.2416340/">Discuss this article</a> in our forums<br/><br/>]]></description>
+In the <a href="https://x.com/markgurman/status/1746585308626612655?s=20">same post on X</a>, Gurman additionally confirmed that Apple customers will be able to purchase the Vision Pro online and at retail stores using Apple Card installments. Typically, Apple Card installments let customers spread the purchase over monthly payments with no interest. iPhone purchases can be made over 24 monthly payments, for example. Apple Vision Pro pre-orders open on Friday, January 19 at 5.00 a.m. PST in the United States.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/15/vision-pro-m2-chip-10-gpu-8-cpu-cores/">Apple Vision Pro M2 Chip Said to Have 10 GPU, 8 CPU Cores</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-m2-chip-said-to-have-10-gpu-8-cpu-cores.2416370/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
