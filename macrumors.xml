@@ -14,12 +14,200 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 22 Jan 2024 08:03:26 PST</lastBuildDate>
+	<lastBuildDate>Mon, 22 Jan 2024 12:03:11 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 17.3 and macOS Sonoma 14.3 Patch WebKit Vulnerability That May Have Been Exploited</title>
+		<link>https://www.macrumors.com/2024/01/22/ios-17-3-webkit-vulnerability-patch/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-3-and-macos-sonoma-14-3-patch-webkit-vulnerability-that-may-have-been-exploited.2417120/</comments>
+		<pubDate>Mon, 22 Jan 2024 10:41:36 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/22/ios-17-3-webkit-vulnerability-patch/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 17</category>
+		<category>macOS Ventura</category>
+		
+
+		<description><![CDATA[Apple today released iOS 17.3, iPadOS 17.3, tvOS 17.3, and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.3, and it's a good idea to update as soon as possible to the new operating systems because the software patches an actively exploited vulnerability.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/iOS-17.3-Buggy-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-928685" /><br/>
+The updates fix a bug in WebKit that could allow maliciously crafted content to lead to arbitrary code execution. Apple says on its <a href="https://support.apple.com/en-us/HT214059">security support page</a> that it is aware of a report that the issue may have been exploited.<br/>
+<br/>
+Apple's software releases also address several other security vulnerabilities that were not known to have been used in the wild. iOS 17.3, for example, fixes bugs with the Neural Engine, kernel, Mail, Safari, Shortcuts, and more.<br/>
+<br/>
+Details on all of the security fixes for each update can be found on Apple's <a href="https://support.apple.com/en-us/HT201222">security support site</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a>, <a href="https://forums.macrumors.com/forums/macos-ventura.239">macOS Ventura</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/ios-17-3-webkit-vulnerability-patch/">iOS 17.3 and macOS Sonoma 14.3 Patch WebKit Vulnerability That May Have Been Exploited</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-3-and-macos-sonoma-14-3-patch-webkit-vulnerability-that-may-have-been-exploited.2417120/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases iOS 17.3 and iPadOS 17.3 With Stolen Device Protection, Collaborative Apple Music Playlists and More</title>
+		<link>https://www.macrumors.com/2024/01/22/apple-releases-ios-17-3/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-ios-17-3-and-ipados-17-3-with-stolen-device-protection-collaborative-apple-music-playlists-and-more.2417108/</comments>
+		<pubDate>Mon, 22 Jan 2024 10:04:53 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/22/apple-releases-ios-17-3/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released iOS 17.3 and iPadOS 17.3, the third major updates to the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> and <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> operating system updates that initially came out in September 2023. The software comes more than a month after Apple <a href="https://www.macrumors.com/2023/12/11/apple-releases-ios-17-2-and-ipados-17-2/">released iOS 17.2 and iPadOS 17.2</a> with the Journal app.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/xUIzfDkQqqo" title="iOS 17.3 Out Now - Everything New!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+iOS 17.3 and iPadOS 17.3 can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update. Apple has also released iOS 15.8.1 and iOS 16.7.5 for those running older versions of iOS.<br/>
+<br/>
+With iOS 17.3, Apple is adding Stolen Device Protection to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, limiting access to private information just in case someone gets ahold of both your &zwnj;iPhone&zwnj; and your passcode. It requires biometric authentication to do things like access passwords, turn off Lost Mode, make purchases in Safari, and more.<br/>
+<br/>
+The update also includes support for AirPlaying content directly to some hotel room TVs, creating collaborative <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> playlists with friends and family, and more. Apple's full release notes for the update are below.<br/>
+<blockquote><b>Stolen Device Protection</b><br/>
+- Stolen Device Protection increases security of iPhone and Apple ID by requiring Face ID or Touch ID with no passcode fallback to perform certain actions<br/>
+- Security Delay requires Face ID or Touch ID, an hour wait, and then an additional successful biometric authentication before sensitive operations like changing device passcode or Apple ID password can be performed<br/>
+<br/>
+<b>Lock Screen</b><br/>
+- New Unity wallpaper honors Black history and culture in celebration of Black History Month<br/>
+<br/>
+<b>Music</b><br/>
+- Collaborate on playlists allows you to invite friends to join your playlist and everyone can add, reorder, and remove songs<br/>
+- Emoji reactions can be added to any track in a collaborative playlist<br/>
+<br/>
+<b>This update also includes the following improvements:</b><br/>
+- AirPlay hotel support lets you stream content directly to the TV in your room in select hotels<br/>
+- AppleCare &amp; Warranty in Settings shows your coverage for all devices signed in with your Apple ID<br/>
+- Crash detection optimizations (all iPhone 14 and iPhone 15 models)</blockquote><br/>
+More details on all of the features that Apple has introduced so far in &zwnj;iOS 17&zwnj; can be <a href="https://www.macrumors.com/roundup/ios-17/">found in our dedicated roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/apple-releases-ios-17-3/">Apple Releases iOS 17.3 and iPadOS 17.3 With Stolen Device Protection, Collaborative Apple Music Playlists and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-17-3-and-ipados-17-3-with-stolen-device-protection-collaborative-apple-music-playlists-and-more.2417108/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases macOS Sonoma 14.3 With Collaborative Apple Music Playlists</title>
+		<link>https://www.macrumors.com/2024/01/22/apple-releases-macos-sonoma-14-3/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-macos-sonoma-14-3-with-collaborative-apple-music-playlists.2417109/</comments>
+		<pubDate>Mon, 22 Jan 2024 10:03:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/22/apple-releases-macos-sonoma-14-3/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today released <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.3, the third major update to the &zwnj;macOS Sonoma&zwnj; operating system that came out last September. &zwnj;macOS Sonoma&zwnj; 14.3 comes over a month after the <a href="https://www.macrumors.com/2023/12/11/apple-releases-macos-sonoma-14-2/">release of macOS Sonoma 14.2</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/macos-sonoma-4.jpg" alt="" width="2336" height="1314" class="aligncenter size-full wp-image-900182" /><br/>
+The ‌‌‌&zwnj;macOS Sonoma&zwnj;‌ 14.3‌ update can be downloaded for free on all eligible Macs using the Software Update section of System Settings. There's also a macOS 13.6.4 release for those who are still running macOS Ventura and a macOS 12.7.3 release for those who have macOS Monterey installed. <br/>
+<br/>
+&zwnj;macOS Sonoma&zwnj; 14.3 brings collaborative playlists in <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, so that &zwnj;Apple Music&zwnj; subscribers can create playlists with friends and family members. The software also has an updated <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a> & Warranty section in Settings that shows coverage for all devices signed in with an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a>.<br/>
+<br/>
+Apple's full release notes for &zwnj;macOS Sonoma&zwnj; 14.3 are below:<br/>
+<blockquote>macOS Sonoma 14.3 introduces enhancements to Apple Music, as well as other features, bug fixes, and security updates for your Mac.<br/>
+<ul><br/>
+ 	<li>Collaborate on playlists in Apple Music allows you to invite friends to join your playlist and everyone can add, reorder, and remove songs</li><br/>
+ 	<li>Emoji reactions can be added to any track in a collaborative playlist in Apple Music</li><br/>
+ 	<li>AppleCare & Warranty in Settings shows your coverage for all devices signed in with your Apple ID</li><br/>
+</ul><br/>
+</blockquote><br/>
+More information on the features that have been introduced in &zwnj;macOS Sonoma&zwnj; to date can be <a href="https://www.macrumors.com/roundup/macos-sonoma/">found in our macOS Sonoma roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/apple-releases-macos-sonoma-14-3/">Apple Releases macOS Sonoma 14.3 With Collaborative Apple Music Playlists</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-macos-sonoma-14-3-with-collaborative-apple-music-playlists.2417109/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases watchOS 10.3 With New Watch Face</title>
+		<link>https://www.macrumors.com/2024/01/22/apple-releases-watchos-10-3/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-watchos-10-3-with-new-watch-face.2417115/</comments>
+		<pubDate>Mon, 22 Jan 2024 10:02:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/22/apple-releases-watchos-10-3/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today released watchOS 10.3, the third major update to the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> operating system that was <a href="https://www.macrumors.com/2023/09/18/apple-releases-watchos-10/">released in September</a>. watchOS 10.3 comes over a month after watchOS 10.2, <a href="https://www.macrumors.com/2023/12/11/apple-releases-watchos-10-2/">a major update</a> that brought Health data access to <a href="https://www.macrumors.com/guide/siri/">Siri</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-912513" src="https://images.macrumors.com/article-new/2023/09/watchOS-10-Launch-Feature.jpg" alt="" width="2560" height="1440" /><br/>
+‌&zwnj;watchOS 10&zwnj;‌‌.3 can be downloaded for free through the Apple Watch app on an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> running <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or later by opening it up and going to General & Software Update. To install the new software, the Apple Watch needs to have at least 50 percent battery and it needs to be placed on a charger.<br/>
+<br/>
+The watchOS 10.3 update includes a new Unity Bloom watch face to celebrate Black History Month.<br/>
+<br/>
+Apple's release notes also say that the update includes unspecified improvements and bug fixes.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/apple-releases-watchos-10-3/">Apple Releases watchOS 10.3 With New Watch Face</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-watchos-10-3-with-new-watch-face.2417115/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases tvOS 17.3</title>
+		<link>https://www.macrumors.com/2024/01/22/apple-releases-tvos-17-3/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-tvos-17-3.2417114/</comments>
+		<pubDate>Mon, 22 Jan 2024 10:01:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/22/apple-releases-tvos-17-3/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple TV</category>
+		
+
+		<description><![CDATA[Apple today released tvOS 17.3, the third major update to the tvOS 17 operating system that came out last September. tvOS 17.3 comes over a month after tvOS 17.2, an update that brought the revamped <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-870258" /><br/>
+tvOS 17.3 can be downloaded using the Settings app on the ‌&zwnj;Apple TV&zwnj;‌. Go to System &gt; Software Update to get the new software. ‌&zwnj;Apple TV&zwnj;‌ owners who have automatic software updates activated will be upgraded to tvOS 17.3 automatically.<br/>
+<br/>
+tvOS updates are typically minor in scale compared to other operating system updates, focusing primarily on bug fixes and smaller improvements rather than notable outward-facing changes. No new features were found in the tvOS 17.3 beta testing process.<br/>
+<br/>
+Apple shares release notes for tvOS <a href="https://support.apple.com/en-us/106336">in its tvOS support document</a>, which is updated after each new version of tvOS comes out.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/apple-releases-tvos-17-3/">Apple Releases tvOS 17.3</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-tvos-17-3.2417114/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases HomePod 17.3 Software</title>
+		<link>https://www.macrumors.com/2024/01/22/apple-releases-homepod-17-3-software/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-homepod-17-3-software.2417113/</comments>
+		<pubDate>Mon, 22 Jan 2024 10:00:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/22/apple-releases-homepod-17-3-software/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>HomePod</category>
+		<category>HomePod mini</category>
+		
+
+		<description><![CDATA[Alongside iOS 17.3, iPadOS 17.3, <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.3, and tvOS 17.3 Apple released <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> 17.3 software with bug fixes and software improvements. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/10/HomePodandMini-feature.jpg" alt="" width="1436" height="808" class="aligncenter size-full wp-image-766012" /><br/>
+Today's update comes over a month after the <a href="https://www.macrumors.com/2023/12/11/apple-releases-homepod-17-2/">release of the HomePod 17.2 update</a>.<br/>
+<br/>
+Apple does not specify what's included in the &zwnj;HomePod&zwnj; 17.3 software, and the generic release notes only say that it brings stability and performance improvements. <br/>
+<br/>
+&zwnj;HomePod&zwnj;‌‌‌‌‌‌ software is installed automatically on the ‌‌‌‌‌‌&zwnj;HomePod&zwnj;‌‌ unless the feature is disabled‌‌‌‌, but the ‌‌‌‌‌‌&zwnj;HomePod&zwnj;‌‌‌‌‌‌ can also be manually updated in the Home app by following the instructions in our <a href="https://www.macrumors.com/how-to/homepod-software-update/">HomePod‌‌ update how to</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a>, <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#HomePod">HomePod (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#Homepod-Mini">HomePod Mini (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/homepod-homekit-carplay-home-auto-technology.193">HomePod, HomeKit, CarPlay, Home & Auto Technology</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/apple-releases-homepod-17-3-software/">Apple Releases HomePod 17.3 Software</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-homepod-17-3-software.2417113/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Latest Apple Ad Highlights iPhone 15 Plus Battery</title>
+		<link>https://www.macrumors.com/2024/01/22/iphone-15-plus-battery-ad/</link>
+		<comments>https://forums.macrumors.com/threads/latest-apple-ad-highlights-iphone-15-plus-battery.2417102/</comments>
+		<pubDate>Mon, 22 Jan 2024 09:11:42 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/22/iphone-15-plus-battery-ad/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Ads</category>
+		
+
+		<description><![CDATA[Apple today posted an ad specifically focused on the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> Plus, the larger version of the standard &zwnj;iPhone 15&zwnj; model. In the spot, Apple focuses on the battery life of the device, which is equipped with a higher capacity battery than the &zwnj;iPhone 15&zwnj; due to its larger size.<br/>
+<br/>
+<div class="center-wrap"><iframe title="iPhone 15 Plus Battery One More Apple" src="https://www.youtube.com/embed/Tcwtq9NrVd4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+In the humorous ad, a man takes a video of a child who is attempting to break a wood plank with his hand. The attempts are unsuccessful well into the night, and the &zwnj;iPhone 15&zwnj; Plus battery is able to record for hours. "Battery goes on and on," reads the tagline at the end of the video.<br/>
+<br/>
+This is in fact the <a href="https://www.macrumors.com/2023/12/24/iphone-15-plus-battery-life-ad/">second iPhone 15 Plus battery ad</a> that Apple has uploaded in recent months. The first spot featured a sad receptacle that was missing being able to charge the &zwnj;iPhone 15&zwnj; Plus.<br/>
+<br/>
+According to Apple's technical specifications page, the &zwnj;iPhone 15&zwnj; Plus is able to provide up to 26 hours of offline video playback and 100 hours of audio playback.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-ads/">Apple Ads</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/iphone-15-plus-battery-ad/">Latest Apple Ad Highlights iPhone 15 Plus Battery</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/latest-apple-ad-highlights-iphone-15-plus-battery.2417102/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Opening New Store in Sweden, But Permanently Closing Another</title>
+		<link>https://www.macrumors.com/2024/01/22/new-apple-store-opening-in-sweden/</link>
+		<comments>https://forums.macrumors.com/threads/apple-opening-new-store-in-sweden-but-permanently-closing-another.2417100/</comments>
+		<pubDate>Mon, 22 Jan 2024 08:41:18 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/22/new-apple-store-opening-in-sweden/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple Store</category>
+		
+
+		<description><![CDATA[Apple has announced that it will be opening a new retail store <a href="https://www.apple.com/se/retail/mallofscandinavia/explore/">at the Mall of Scandinavia</a>, near Stockholm, Sweden, as noted by Michael Steeber today <a href="https://michaelsteeber.substack.com/p/apple-hongdae-opens">in his Tabletops newsletter</a>. Apple says the store will open in 2024, but it has yet to share an exact date.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/Apple-Store-Mall-of-Scandinavia.jpeg" alt="" width="1688" height="949" class="aligncenter size-full wp-image-932191" /><div class="center-wrap"><em>Apple Mall of Scandinavia via Feber</em></div><br/>
+Apple has three other stores in Sweden, but one will be permanently closing eventually. In a statement shared <a href="https://feber.se/mac/apple-kommer-oppna-i-mall-of-scandinavia/461372/">with Swedish publication <em>Feber</em></a> last week, Apple said it will not be renewing its lease for its <a href="https://www.apple.com/se/retail/valacentrum/">Väla Centrum store</a> in Ödåkra, Sweden. Apple has yet to disclose an exact closure date for that location.<br/>
+<br/>
+This news comes after Apple <a href="https://www.macrumors.com/2024/01/08/apple-store-hongdae-special-wallpaper/">opened a new store in Seoul, South Korea</a>, and <a href="https://www.macrumors.com/2024/01/20/two-apple-stores-permanently-close-today/">permanently closed its Infinite Loop and Royal Hawaiian stores</a>, all on January 20.<br/>
+<br/>
+Apple operates 528 retail stores worldwide as of today.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/new-apple-store-opening-in-sweden/">Apple Opening New Store in Sweden, But Permanently Closing Another</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-opening-new-store-in-sweden-but-permanently-closing-another.2417100/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Anker&#039;s New Sale Has MagSafe Chargers, Portable Batteries, and More at Low Prices</title>
@@ -61,9 +249,9 @@ Shoppers should note that some Amazon deals require you to clip an on-page coupo
 		</item>
 		
 		<item>
-		<title>Apple Music Classical Expanding to CarPlay</title>
+		<title>Apple Music Classical Now Available on CarPlay [Removed]</title>
 		<link>https://www.macrumors.com/2024/01/22/apple-music-classical-carplay/</link>
-		<comments>https://forums.macrumors.com/threads/apple-music-classical-expanding-to-carplay.2417081/</comments>
+		<comments>https://forums.macrumors.com/threads/apple-music-classical-now-available-on-carplay-removed.2417081/</comments>
 		<pubDate>Mon, 22 Jan 2024 06:06:02 PST</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/01/22/apple-music-classical-carplay/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
@@ -72,16 +260,16 @@ Shoppers should note that some Amazon deals require you to clip an on-page coupo
 		<category>Apple Music Classical</category>
 		
 
-		<description><![CDATA[Apple Music Classical was updated today with CarPlay support, which will allow users to access the app from their vehicle's infotainment screen when an iPhone is connected. However, the app does not appear to be functional yet when opened.<br/>
+		<description><![CDATA[Apple Music Classical was updated today with what appeared to be CarPlay support, but this was quickly reversed in a follow-up update.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/01/Apple-Music-Classical-Carplay-Feature-2-1.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-932168" /><br/>
+Apple Music Classical showed up on CarPlay starting with version 1.2 today, but support was removed in version 1.2.1 just hours later, after the app failed to load when opened on CarPlay. It's unclear if or when CarPlay support will return.<br/>
+<br/>
 Apple Music Classical <a href="https://www.macrumors.com/2023/03/27/apple-music-classical-begins-rolling-out/">first launched in March 2023</a>, offering users with a standard Apple Music subscription access to over five million classical music tracks at no additional cost. The streaming app features advanced search functionality, exclusive artwork, extensive metadata, curated listening recommendations, and more. <br/>
 <br/>
 The app is available on the iPhone, iPad, and Android devices. It is built upon Primephonic, a classical music streaming service <a href="https://www.macrumors.com/2021/08/30/apple-acquires-primephonic-classical-music-service/">acquired by Apple in 2021</a>.<br/>
 <br/>
-Apple Music Classical version 1.2 is available <a href="https://apps.apple.com/us/app/apple-music-classical/id1598433714">on the App Store</a>. The release notes only mention unspecified "stability and performance enhancements."<br/>
-<br/>
-<em>(Thanks, Sam Matheson!)</em><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, <a href="https://www.macrumors.com/guide/apple-music-classical/">Apple Music Classical</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/homepod-homekit-carplay-home-auto-technology.193">HomePod, HomeKit, CarPlay, Home & Auto Technology</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/apple-music-classical-carplay/">Apple Music Classical Expanding to CarPlay</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-music-classical-expanding-to-carplay.2417081/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<em>(Thanks, Sam Matheson!)</em><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, <a href="https://www.macrumors.com/guide/apple-music-classical/">Apple Music Classical</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/homepod-homekit-carplay-home-auto-technology.193">HomePod, HomeKit, CarPlay, Home & Auto Technology</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/apple-music-classical-carplay/">Apple Music Classical Now Available on CarPlay [Removed]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-music-classical-now-available-on-carplay-removed.2417081/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -155,6 +343,7 @@ With around two weeks remaining until the Vision Pro launches, there is still ti
 		<pubDate>Sun, 21 Jan 2024 11:06:10 PST</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/01/21/new-ipads-and-macbook-airs-spring-2024-rumor/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
 		<category>iPad Air</category>
 		<category>iPad Pro 11&quot;</category>
 		<category>iPad Pro 12.9&quot;</category>
@@ -440,273 +629,6 @@ Curiously, while there is a Keynote app that's pre-installed, Apple does not lis
 There may be some Apple apps that are not pre-installed but able to be downloaded from the App Store after launch, and there will be a number of third-party apps designed for the Vision Pro.<br/>
 <br/>
 We'll be sharing a list of Vision Pro apps closer to when the headset debuts, and it is also worth noting that many iOS apps will run on the device automatically unless developers opt out.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/19/vision-pro-pre-installed-apps/">Here Are All the Apps Pre-Installed on the Apple Vision Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/here-are-all-the-apps-pre-installed-on-the-apple-vision-pro.2416836/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Vision Pro Content Can Be Mirrored to Mac, iPhone, iPad, and Apple TV Using AirPlay</title>
-		<link>https://www.macrumors.com/2024/01/19/vision-pro-airplay-content/</link>
-		<comments>https://forums.macrumors.com/threads/vision-pro-content-can-be-mirrored-to-mac-iphone-ipad-and-apple-tv-using-airplay.2416831/</comments>
-		<pubDate>Fri, 19 Jan 2024 13:54:10 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/19/vision-pro-airplay-content/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Vision Pro</category>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[Content that is displayed on the <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> display can be mirrored to an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, Mac, <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, or AirPlay-compatible smart TV using <a href="https://www.macrumors.com/guide/airplay/">AirPlay</a>, Apple confirmed today.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/vision-pro-macbook.jpg" alt="" width="3022" height="1698" class="aligncenter size-full wp-image-930147" /><br/>
-Apple's <a href="https://www.apple.com/apple-vision-pro/specs/">technical specifications page</a> for the Vision Pro says that what's on your Vision Pro can be mirrored to any AirPlay-enabled device at up to 720p, which will allow you to show people what you're seeing on your headset.<br/>
-<br/>
-iPhones and iPads were updated with the ability to receive content from the Vision Pro in iOS 17.2 and iPadOS 17.2, and to use the feature, the &zwnj;AirPlay&zwnj; Receiver toggle must be turned on under General > &zwnj;AirPlay&zwnj; & Handoff.<br/>
-<br/>
-While the Vision Pro's display can be mirrored to an &zwnj;AirPlay&zwnj; device, the headset can also serve as a display for a Mac. With the Mac Virtual Display feature, &zwnj;AirPlay&zwnj; 2 connects the Vision Pro wirelessly to a Mac, and a virtual representation of the Mac's display can be placed anywhere in space. Used this way, the Vision Pro essentially serves as an enormous, portable 4K display, according to Apple.<br/>
-<br/>
-<b>Note:</b> Apple's specifications page previously said that content could be AirPlayed at 1080p, but later updated it to say 720p.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/19/vision-pro-airplay-content/">Vision Pro Content Can Be Mirrored to Mac, iPhone, iPad, and Apple TV Using AirPlay</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/vision-pro-content-can-be-mirrored-to-mac-iphone-ipad-and-apple-tv-using-airplay.2416831/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Re-Adds Access to iTunes TV Show and Movie Wishlists in iOS 17.3</title>
-		<link>https://www.macrumors.com/2024/01/19/itunes-movies-tv-show-wishlists-ios-17-3/</link>
-		<comments>https://forums.macrumors.com/threads/apple-re-adds-access-to-itunes-tv-show-and-movie-wishlists-in-ios-17-3.2416824/</comments>
-		<pubDate>Fri, 19 Jan 2024 12:26:58 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/19/itunes-movies-tv-show-wishlists-ios-17-3/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple today made a tweak to the iTunes Store app in iOS 17.3, giving users access to their TV show and movie wishlists. Apple with iOS 17.2, iPadOS 17.2, and tvOS 17.2 <a href="https://www.macrumors.com/2023/12/17/apple-removes-tv-show-movie-wishlists/">killed wishlists</a> without warning when it moved the option to purchase TV shows and movies from the iTunes Store app to the TV app.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/itunes-movies-wishlist-ios-17-3.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-931842" /><br/>
-Wishlist access was actually re-added to tvOS 17.2 just a few days after the update went live, but there has been no way to access a wishlist on an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> or <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> updated to iOS 17.2 or iPadOS 17.2.<br/>
-<br/>
-With Apple's over-the-air update, iPhones and iPads running the iOS 17.3 beta will now have a "Go to Your Wish List" button under the Movie and TV Show sections, which provides access to everything that's been added to the list in the past. The list was first noticed by <a href="https://twitter.com/il_fedetrevi/status/1748436509655511468">Twitter user Federico</a>.<br/>
-<br/>
-It may be a good idea to write down the TV shows and movies that are in the list because it might not be around forever. The <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app that Apple has transitioned to does not have a wishlist function and instead adds content to the "Up Next" interface.<br/>
-<br/>
-iOS 17.3 and iPadOS 17.3 are set to be released to the public next week.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/19/itunes-movies-tv-show-wishlists-ios-17-3/">Apple Re-Adds Access to iTunes TV Show and Movie Wishlists in iOS 17.3</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-re-adds-access-to-itunes-tv-show-and-movie-wishlists-in-ios-17-3.2416824/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Details Using Vision Pro With Certain Medical Conditions</title>
-		<link>https://www.macrumors.com/2024/01/19/vision-pro-medical-conditions/</link>
-		<comments>https://forums.macrumors.com/threads/apple-details-using-vision-pro-with-certain-medical-conditions.2416823/</comments>
-		<pubDate>Fri, 19 Jan 2024 11:55:37 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/19/vision-pro-medical-conditions/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Vision Pro</category>
-		
-
-		<description><![CDATA[In a <a href="https://support.apple.com/en-us/HT213935">support document</a> published online today, Apple detailed using its Vision Pro headset with certain medical conditions.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/Apple-WWCD23-Vision-Pro-EyeSight-230605.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-922614" /><br/>
-Apple says customers with pre-existing medical conditions should consult with a healthcare provider before using the Vision Pro, as using the headset could "aggravate symptoms or increase the risk of injury or discomfort."<br/>
-<br/>
-Apple says these medical conditions include:<br/>
-<br/>
-<ul><li>Heart conditions</li><br/>
-<li>Migraines or chronic headaches</li><br/>
-<li>Dizziness or vertigo</li> <br/>
-<li>Eye or vision conditions, such as binocular vision conditions</li><br/>
-<li>Psychological conditions</li><br/>
-<li>Inner ear conditions</li><br/>
-<li>History of dry eyes, itchiness, or swelling of the eyelids </li><br/>
-<li>Skin allergies or sensitivities</li><br/>
-<li>Seizures</li><br/>
-<li>Balance or gait conditions</li></ul>Apple adds that pregnant individuals should exercise additional caution when using the Vision Pro due to an increased risk of nausea or loss of balance.<br/>
-<br/>
-"If your medical provider confirmed that it's safe for you to use Apple Vision Pro, use the device seated and start with a less immersive experience," says Apple. "Use the device over short increments of time and take frequent breaks."<br/>
-<br/>
-Apple also warns that the Vision Pro and its battery pack could interfere with nearby electronics, including cardiac pacemakers, hearing aids, and defibrillators.<br/>
-<br/>
-"If you have a pacemaker or other implanted medical device, consult a medical provider or the manufacturer of your medical device before using Apple Vision Pro," says Apple. The headset and battery should be kept at a safe distance from these medical devices.<br/>
-<br/>
-Apple says customers should stop using the Vision Pro if they experience symptoms related to a medical condition or skin reactions.<br/>
-<br/>
-For more details, read <a href="https://support.apple.com/en-us/HT213935">Apple's support document</a>.<br/>
-<br/>
-<em>The information above is presented for reference only, and it does not substitute for medical advice, diagnosis, or treatment.</em><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/19/vision-pro-medical-conditions/">Apple Details Using Vision Pro With Certain Medical Conditions</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-details-using-vision-pro-with-certain-medical-conditions.2416823/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Vision Pro Repairs Cost Up to &#36;2,400 Without AppleCare+</title>
-		<link>https://www.macrumors.com/2024/01/19/vision-pro-repair-cost/</link>
-		<comments>https://forums.macrumors.com/threads/apple-vision-pro-repairs-cost-up-to-2-400-without-applecare.2416819/</comments>
-		<pubDate>Fri, 19 Jan 2024 11:09:56 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/19/vision-pro-repair-cost/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Vision Pro</category>
-		
-
-		<description><![CDATA[The Vision Pro features an aluminum frame that houses a single piece of laminated glass for the front of the device, and as we've learned from the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, glass is quite breakable. If the Vision Pro's glass cracks or the device is damaged in some other way, you could be facing an expensive repair without <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a>+.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/vision-pro-headset-1.jpg" alt="" width="2698" height="1518" class="aligncenter size-full wp-image-898460" /><br/>
-On <a href="https://support.apple.com/apple-vision-pro/repair">Apple's Vision Pro service page</a>, repair fees are listed. It will cost &#36;799 to fix cracked cover glass, but if you need any other component repaired, the cost shoots up to &#36;2,399. That's just &#36;1,100 less than the full cost of the Vision Pro to begin with.<br/>
-<br/>
-&zwnj;AppleCare&zwnj;+ <a href="https://www.macrumors.com/2024/01/19/applecare-plus-for-vision-pro/">is priced at &#36;499</a> for two years of coverage, or customers can choose to pay &#36;24.99 per month for &zwnj;AppleCare&zwnj;+, with the coverage lasting until payments are canceled, so it's not cheap.<br/>
-<br/>
-Vision Pro &zwnj;AppleCare&zwnj;+ includes unlimited repairs for accidental damage, Apple-certified service and support, Express Replacement Service, and 24/7 priority access to "Apple experts." It is worth noting that there is a &#36;299 deductible for any &zwnj;AppleCare&zwnj;+ repair to the device itself (including a cracked display), and a &#36;29 service fee for any accessories such as the Light Seal that are in need of repair.<br/>
-<br/>
-Given the price of the Vision Pro headset, &zwnj;AppleCare&zwnj;+ might be worth purchasing. As repairs are expensive, it will be worth finding some kind of protective case to use at a minimum to keep it safe if you plan to bring it from one location to another. Apple sells a case for &#36;200, but there should soon be multiple third-party options available.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/19/vision-pro-repair-cost/">Apple Vision Pro Repairs Cost Up to &#36;2,400 Without AppleCare+</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-repairs-cost-up-to-2-400-without-applecare.2416819/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Apple Deals of the Week: Apple Watch Discounts Hit Series 9, SE, and Ultra 2, Alongside AirPods and MacBook Sales</title>
-		<link>https://www.macrumors.com/2024/01/19/best-apple-deals-of-the-week-1-19-24/</link>
-		<comments>https://forums.macrumors.com/threads/best-apple-deals-of-the-week-apple-watch-discounts-hit-series-9-se-and-ultra-2-alongside-airpods-and-macbook-sales.2416812/</comments>
-		<pubDate>Fri, 19 Jan 2024 10:10:49 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/19/best-apple-deals-of-the-week-1-19-24/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[This week's best deals include all-time low prices on AirPods Pro, MacBook Pro, and Apple Watch. You'll also find an ongoing sale at Samsung with big discounts on popular monitors like the ViewFinity S9 5K Smart Monitor and the Smart Monitor M8, as well as a few pre-order offers on the new Samsung Galaxy S24 Smartphones.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/06/Hero0005.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-847995" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2>Samsung</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/01/samsung-pink.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-931786" /><br/>
-<ul><li><strong>What's the deal?</strong> Save on Samsung monitors and the new Galaxy S24 smartphones</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://howl.me/clsi2GYvJh3">Samsung</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/01/16/samsung-introduces-new-sale-monitors/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://howl.me/clq17ynFNDS"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;400 OFF</div>27-inch ViewFinity S9 5K Smart Monitor for &#36;1,199.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clq2b1RAXhG"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;170 OFF</div>27-inch Smart Monitor M8 for &#36;479.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clsi2GYvJh3"target="_blank"><div class="fancybutton"><div class="fancybadge">PRE-ORDER OFFERS</div>Galaxy S24 Smartphones</div></a></div><br/>
-<br/>
-Over at Samsung, you can find a few solid discounts on computer monitors, including the 27-inch ViewFinity S9 5K Smart Monitor (&#36;400 off) and the 27-inch Smart Monitor M8 (&#36;170 off).<br/>
-<br/>
-For the new smartphones, customers can get up to &#36;750 off the <a href="https://howl.me/clsi09i1L1r">S24 Ultra</a> with a trade-in, along with an exclusive &#36;50 Samsung credit, a free storage upgrade (doubling storage at no cost), and a &#36;100 eCertificate, plus students can get a 15 percent discount.<br/>
-<br/>
-For the <a href="https://howl.me/clsi1u2tV5a">S24+</a>, up to a &#36;650 trade-in credit is available with a &#36;50 Samsung credit, storage upgrade, &#36;75 eCertificate, and a 7.5 percent student discount. For the <a href="https://howl.me/clsi1QchmkU">S24</a>, up to a &#36;550 trade-in credit is available, along with a &#36;50 Samsung credit, a storage upgrade, a &#36;25 eCertificate, and a five percent discount for students.<br/>
-<br/>
-<br/>
-<h2>AirPods Pro</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/01/airpods-pink.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-931789" /><br/>
-<ul><li><strong>What's the deal?</strong> Take &#36;60 off AirPods Pro 2 with USB-C</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/01/18/apple-vision-pro-airpods-pro-189/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>AirPods Pro 2 with USB-C for &#36;189.00</div></a></div><br/>
-<br/>
-Apple Vision Pro pre-orders went live today, and if you've got your order in and want to add lossless audio to the experience, be sure to pick up a pair of AirPods Pro 2 with USB-C. Amazon has the earbuds for &#36;189.00 right now, down from &#36;249.00.<br/>
-<br/>
-<h2>Apple Watch</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/01/apple-watch-pink.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-931788" /><br/>
-<ul><li><strong>What's the deal?</strong> Save on Apple Watch Series 9, SE, and Ultra 2</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://howl.me/clsfVkocNDP">Best Buy</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/01/19/best-buys-weekend-sale/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://howl.me/clsfUswIxJu"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>Apple Watch SE (40mm GPS) for &#36;199.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clsfVkocNDP"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 9 (41mm GPS) for &#36;329.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clsfWaABiz9"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>Apple Watch Ultra 2 for &#36;749.00</div></a></div><br/>
-<br/>
-Best Buy is hosting a big sale on Apple Watch models this weekend, with the Apple Watch Series 9, SE, and Ultra 2 all available at a discount.<br/>
-<br/>
-<h2>MacBooks</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/01/macbook-pink.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-931787" /><br/>
-<ul><li><strong>What's the deal?</strong> Take up to &#36;250 off MacBook Air and MacBook Pro</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://howl.me/clsfKCmsThd">Best Buy</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/01/19/best-buys-weekend-sale/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://howl.me/clsfG4xs26m"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>512GB M3 14-inch MacBook Pro for &#36;1,399.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clsfKCmsThd"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>256GB M2 15-inch MacBook Air for &#36;1,049.00</div></a></div><br/>
-<br/>
-In addition to Apple Watches, Best Buy's sale has big savings on MacBook Air and MacBook Pro notebooks. Some of these require you to have a My Best Buy Plus/Total membership, which start at &#36;49.99/year.<br/>
-<br/>
-<ul><li><a href="https://howl.me/clsfKCmsThd">256GB M2 15-inch MacBook Air</a> - &#36;1,049.00, down from &#36;1,299.00</li><br/>
-<li><a href="https://howl.me/clsfNvLGfyw">512GB M2 15-inch MacBook Air</a> - &#36;1,249.00, down from &#36;1,499.00</li><br/>
-<li><a href="https://howl.me/clsfG4xs26m">512GB M3 14-inch MacBook Pro</a> - &#36;1,399.00, down from &#36;1,599.00</li><br/>
-<li><a href="https://howl.me/clsfIhVcbIg">1TB M3 14-inch MacBook Pro</a> - &#36;1,599.00, down from &#36;1,799.00</li><br/>
-<li><a href="https://howl.me/clsfMSroPVW">1TB M2 15-inch MacBook Air</a> - &#36;1,649.00, down from &#36;1,899.00</li></ul><br/>
-<br/>
-Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/19/best-apple-deals-of-the-week-1-19-24/">Best Apple Deals of the Week: Apple Watch Discounts Hit Series 9, SE, and Ultra 2, Alongside AirPods and MacBook Sales</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-apple-watch-discounts-hit-series-9-se-and-ultra-2-alongside-airpods-and-macbook-sales.2416812/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>MacRumors Giveaway: Win an 11-Inch iPad Pro, Dock and Stand From Plugable</title>
-		<link>https://www.macrumors.com/2024/01/19/macrumors-giveaway-plugable-ipad-pro/</link>
-		<comments>https://forums.macrumors.com/threads/macrumors-giveaway-win-an-11-inch-ipad-pro-dock-and-stand-from-plugable.2416807/</comments>
-		<pubDate>Fri, 19 Jan 2024 10:01:04 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/19/macrumors-giveaway-plugable-ipad-pro/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[For this week's giveaway, we've teamed up with <a href="https://plugable.com">Plugable</a> to offer <em>MacRumors</em> readers a chance to win an 11-inch <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> and two Plugable accessories to go along with it: the TBT4-UD5 Thunderbolt 4 Docking Station, and the magnetic AMS-STAND-11.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/plugable-dock-1.jpg" alt="" width="1333" height="750" class="aligncenter size-full wp-image-931772" /><br/>
-<a href="https://plugable.com">Plugable</a> makes a range of docks, hubs, cables, stands, and other accessories for Apple's Mac and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> lineup, and the TBT4-UD5 and AMS-STAND-11 are two of its newest devices.<br/>
-<br/>
-<a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNTTVVN6">Priced at &#36;180</a> with a limited-time &#36;20 discount, the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNTTVVN6">TBT4-UD5 Thunderbolt 4 Dock</a> includes all of the ports that you might need for a Mac. It is equipped with dual-display HDMI support at 4K 60Hz (or a single 8K display), a downstream Thunderbolt 4 port, a 10Gb/s USB-C port, two 10Gb/s USB-A ports, two 5Gb/s USB-A ports, SD and microSD card readers, a gigabit ethernet port, and a 3.5mm headphone jack.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/plugable-dock-3.jpg" alt="" width="1500" height="1302" class="aligncenter size-full wp-image-931773" /><br/>
-The dock supports up to 100W power delivery, so it is able to provide power to even the 16-inch MacBook Pro. While it can drive dual 4K displays at 60Hz through the Thunderbolt 4 port, this requires an M-series Pro or Max chip. 15W of power is available for charging peripheral devices such as an &zwnj;iPad&zwnj;.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/plugable-dock-2.jpg" alt="" width="1500" height="1500" class="aligncenter size-full wp-image-931775" /><br/>
-<a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNTVH7CD">Plugable's AMS-STAND11 Magnetic iPad Stand</a> is compatible with the 11-inch &zwnj;iPad Pro&zwnj; and the 10.9-inch <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a>. It is made from an aluminum alloy that matches well with the &zwnj;iPad&zwnj;, and it includes strong N52 magnets and anti-slip silicone padding to keep the &zwnj;iPad&zwnj; in place.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/magnetic-ipad-stand-1.jpg" alt="" width="1774" height="998" class="aligncenter size-full wp-image-931776" /><br/>
-The stand has a 180-degree adjustable hinged arm that supports multiple viewing angles, along with a 360-degree rotatable panel for swapping between landscape and portrait orientations. With the adjustable arm, the stand can be folded down so far that it turns into a suitable surface for drawing and sketching.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/magnetic-ipad-stand-2.jpg" alt="" width="1500" height="1465" class="aligncenter size-full wp-image-931777" /><br/>
-When not in use, the stand is able to fold flat, which makes it easy to transport and take to school or work. Plugable is selling the stand for &#36;80, but there is a &#36;5 coupon available to celebrate the stand's launch. For those with the larger &zwnj;iPad Pro&zwnj; model, there's <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNTW1RTW">also a 12.9-inch version</a>.<br/>
-<br/>
-We have an 11-inch &zwnj;iPad Pro&zwnj;, Thunderbolt 4 dock, and &zwnj;iPad&zwnj; stand for one lucky <em>MacRumors</em> reader. To enter to win, use the widget below and enter an email address. Email addresses will be used solely for contact purposes to reach the winner(s) and send the prize(s). You can earn additional entries by subscribing to our <a href="https://my.leadpages.net/leadbox/145ef7173f72a2%3A104a9fa76b46dc/5754903989321728/">weekly newsletter</a>, subscribing to our <a href="https://www.youtube.com/user/macrumors">YouTube channel</a>, following us on <a href="https://twitter.com/macrumors">Twitter</a>, following us on <a href="https://www.instagram.com/macrumors/">Instagram</a>, following us on <a href="https://www.threads.net/@macrumors">Threads</a>, or visiting the <em>MacRumors</em> <a href="https://www.facebook.com/MacRumors">Facebook page</a>.<br/>
-<br/>
-Due to the complexities of international laws regarding giveaways, only <strong>U.S. residents who are 18 years or older, UK residents who are 18 years or older, and Canadian residents (excluding Quebec) who have reached the age of majority in their province or territory are eligible to enter</strong>. All federal, state, provincial, and/or local taxes, fees, and surcharges are the sole responsibility of the prize winner. To offer feedback or get more information on the giveaway restrictions, please refer to <a href="http://forums.macrumors.com/threads/macrumors-giveaways-why-are-they-only-open-to-u-s-residents.1918337/">our Site Feedback section</a>, as that is where discussion of the rules will be redirected.<br/>
-<br/>
-<div class="center-wrap"><a class="e-widget no-button" href="https://gleam.io/8Peb0/plugable-giveaway" rel="nofollow">Plugable Giveaway</a><br/>
-<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script></div>The contest will run from today (January 19) at 9:00 a.m. Pacific Time through 9:00 a.m. Pacific Time on January 26. The winner will be chosen randomly on or shortly after January 26 and will be contacted by email. The winner will have 48 hours to respond and provide a shipping address before a new winner is chosen.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/19/macrumors-giveaway-plugable-ipad-pro/">MacRumors Giveaway: Win an 11-Inch iPad Pro, Dock and Stand From Plugable</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macrumors-giveaway-win-an-11-inch-ipad-pro-dock-and-stand-from-plugable.2416807/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The MacRumors Show: Apple Vision Pro Pre-Orders, CES 2024, and Samsung&#039;s New AI Phones</title>
-		<link>https://www.macrumors.com/2024/01/19/the-macrumors-show-apple-vision-pro-pre-orders/</link>
-		<comments>https://forums.macrumors.com/threads/the-macrumors-show-apple-vision-pro-pre-orders-ces-2024-and-samsungs-new-ai-phones.2416806/</comments>
-		<pubDate>Fri, 19 Jan 2024 09:50:48 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/19/the-macrumors-show-apple-vision-pro-pre-orders/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>Featured (sticky)</category>
-		<category>The MacRumors Show</category>
-		
-
-		<description><![CDATA[On this week's episode of <a href="https://podcasts.apple.com/us/podcast/apple-vision-pro-pre-orders-ces-2024-samsungs-new-ai-phones/id1602394741?i=1000642237817">The MacRumors Show</a>, we discuss <a href="https://www.macrumors.com/guide/ces-2024/">CES 2024</a>, Samsung's S24 lineup, and the latest news surrounding Apple's Vision Pro headset.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/yQhqnF3YzuI?si=IDQmNYEB_y1v2eNH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1">Subscribe to The MacRumors Show YouTube channel</a> for more videos</em></div><br/>
-We take a look at some of the latest advancements in TV technology, including <a href="https://www.macrumors.com/2024/01/09/ces-2024-day-2-recap/">transparent models from LG</a>, and AI assistants like <a href="https://www.macrumors.com/2024/01/09/ces-2024-rabbit-r1/">Rabbit R1</a>. We also look at some of the tentpole features of <a href="https://www.macrumors.com/2024/01/17/samsung-launches-galaxy-s24-lineup/">Samsung's new Galaxy S24 lineup</a>, such as a 50-megapixel telephoto camera with 5x optical zoom and a wave of AI tools designed for enhancing photography and videography, editing text, and more.<br/>
-<br/>
-Following Apple's <a href="https://www.macrumors.com/2024/01/08/apple-announces-february-2-vision-pro-launch/">announcement</a> of the impending launch of the Vision Pro headset on February 2, we discuss the device's potential to redefine the AR/VR space, especially in the context of productivity workflows. We also address potential concerns regarding comfort and design, storage configurations, and our sense of anticipation about the device's launch.<br/>
-<br/>
-<a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a> is now <strong>exclusively</strong> on <a href="https://www.youtube.com/@themacrumorsshow">its own YouTube channel</a>, so make sure you're subscribed to keep up with new episodes and clips going forward:<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1"><div class="fancybutton">Subscribe to The MacRumors Show's new YouTube channel!</div></a></div><br/>
-<br/>
-You can also listen to &zwnj;The MacRumors Show&zwnj; on <a href="https://podcasts.apple.com/podcast/id1602394741">Apple Podcasts</a>, <a href="https://open.spotify.com/show/41XOHIA6w8IxAKJZvrnx90">Spotify</a>, <a href="https://overcast.fm/itunes1602394741">Overcast</a>, or your preferred podcasts app. You can also <a href="https://audioboom.com/channels/5096144.rss">copy our RSS feed</a> directly into your podcast player.<br/>
-<br/>
-<div class="center-wrap"><iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/the-macrumors-show/id1602394741?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe></div><br/>
-If you haven't already listened to the <a href="https://www.macrumors.com/2024/01/05/the-macrumors-show-everything-to-expect-2024/">previous episode of The MacRumors Show</a>, catch up for our look forward at all of Apple's biggest rumored announcements for 2024. <br/>
-<br/>
-Subscribe to &zwnj;The MacRumors Show&zwnj; for new episodes every week, where we discuss some of the topical news breaking here on <em>MacRumors</em>, often joined by interesting guests like <a href="https://www.macrumors.com/2023/11/24/the-macrumors-show-kevin-nether-talks-iphone-16/">Kevin Nether</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Jared Nelson</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Eli Hodapp</a>, <a href="https://www.macrumors.com/2023/10/20/the-macrumors-show-luke-miani-talks-future-of-ipad/">Luke Miani</a>, <a href="https://www.macrumors.com/2023/10/13/the-macrumors-show-former-apple-executive-mike-bell/">Mike Bell</a>, <a href="https://www.macrumors.com/2023/10/06/the-macrumors-show-sara-dietschy-apple-accessories/">Sara Dietschy</a>, <a href="https://www.macrumors.com/2023/09/15/the-macrumors-show-ijustine-talks-iphone-15/">iJustine</a>, <a href="https://www.macrumors.com/2023/08/25/the-macrumors-show-iphone-15-jon-rettinger/">Jon Rettinger</a>, <a href="https://www.macrumors.com/2023/02/10/the-macrumors-show-andru-edwards-iphone-ultra/">Andru Edwards</a>, <a href="https://www.macrumors.com/2023/05/26/the-macrumors-show-arnold-kim/">Arnold Kim</a>, <a href="https://www.macrumors.com/2023/05/19/the-macrumors-show-ben-sullins-apple-car/">Ben Sullins</a>, <a href="https://www.macrumors.com/2023/04/07/the-macrumors-show-marcus-kane-headset-design/">Marcus Kane</a>, <a href="https://www.macrumors.com/2023/03/24/the-macrumors-show-christopher-lawley-talks-ipados/">Christopher Lawley</a>, <a href="https://www.macrumors.com/2023/03/10/the-macrumors-show-frank-mcshan-yellow-iphone-14/">Frank McShan</a>, <a href="https://www.macrumors.com/2023/02/24/the-macrumors-show-david-lewis-talks-apple-audio/">David Lewis</a>, <a href="https://www.macrumors.com/2023/01/27/the-macrumors-show-tyler-stalman-new-macs/">Tyler Stalman</a>, <a href="https://www.macrumors.com/2022/12/23/the-macrumors-show-apple-2022-jon-prosser-sam-kohl/">Jon Prosser</a>, <a href="https://www.macrumors.com/2022/09/02/the-macrumors-show-apple-event-expectations/">Sam Kohl</a>, <a href="https://www.macrumors.com/2022/12/16/the-macrumors-show-quinn-nelson-iphone-15-rumors/">Quinn Nelson</a>, <a href="https://www.macrumors.com/2022/11/09/the-macrumors-show-john-gruber-talks-macos-ventura/">John Gruber</a>, <a href="https://www.macrumors.com/2022/10/28/the-macrumors-show-ipados-16-ft-federico-viticci/">Federico Viticci</a>, <a href="https://www.macrumors.com/2022/08/26/the-macrumors-show-thomas-frank-talks-productivity/">Thomas Frank</a>, <a href="https://www.macrumors.com/2022/07/21/the-macrumors-show-jonathan-morrison/">Jonathan Morrison</a>, <a href="https://www.macrumors.com/2022/07/12/the-macrumors-show-ross-young/">Ross Young</a>, <a href="https://www.macrumors.com/2022/06/21/the-macrumors-show-ian-zelbo/">Ian Zelbo</a>, and <a href="https://www.macrumors.com/2022/03/25/the-macrumors-show-rene-ritchie-talks-mac-studio/">Rene Ritchie</a>.<br/>
-<br/>
-&zwnj;The MacRumors Show&zwnj; is on X <a href="https://twitter.com/macrumorsshow">@MacRumorsShow</a><a href="https://twitter.com/macrumorsshow"></a>, so be sure to give us a follow to keep up with the podcast. You can also head over to <a href="https://forums.macrumors.com/threads/the-macrumors-show-discussion-thread.2383023/">The MacRumors Show</a> forum thread to engage with us directly. Remember to rate and review the podcast, and let us know what subjects and guests you would like to see in the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/19/the-macrumors-show-apple-vision-pro-pre-orders/">The MacRumors Show: Apple Vision Pro Pre-Orders, CES 2024, and Samsung&#039;s New AI Phones</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-macrumors-show-apple-vision-pro-pre-orders-ces-2024-and-samsungs-new-ai-phones.2416806/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Provides Behind-the-Scenes Look at How Vision Pro is Made</title>
-		<link>https://www.macrumors.com/2024/01/19/apple-vision-pro-how-its-made-video/</link>
-		<comments>https://forums.macrumors.com/threads/apple-provides-behind-the-scenes-look-at-how-vision-pro-is-made.2416795/</comments>
-		<pubDate>Fri, 19 Jan 2024 07:47:26 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/19/apple-vision-pro-how-its-made-video/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Vision Pro</category>
-		<category>Apple Ads</category>
-		
-
-		<description><![CDATA[Apple today provided a behind-the-scenes look at how its upcoming Vision Pro headset is manufactured <a href="https://www.youtube.com/watch?v=luFGI13Mv8o">in a video</a> uploaded to its YouTube channel. The video was also <a href="https://twitter.com/tim_cook/status/1748337010191077462">shared by Apple CEO Tim Cook</a> on social media platform X.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/luFGI13Mv8o?si=LEYhXRopFFLlK1tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-"A peek behind the scenes to see how we make Apple Vision Pro, our first spatial computer," said Apple, in the video's description on YouTube.<br/>
-<br/>
-Apple began <a href="https://www.macrumors.com/2024/01/19/apple-vision-pro-now-available-for-pre-order/">accepting pre-orders</a> for the Vision Pro in the U.S. today, with pricing starting at &#36;3,499. The headset launches February 2.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-ads/">Apple Ads</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/19/apple-vision-pro-how-its-made-video/">Apple Provides Behind-the-Scenes Look at How Vision Pro is Made</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-provides-behind-the-scenes-look-at-how-vision-pro-is-made.2416795/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
