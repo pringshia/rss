@@ -14,12 +14,33 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 23 Jan 2024 16:10:58 PST</lastBuildDate>
+	<lastBuildDate>Tue, 23 Jan 2024 20:03:41 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Releases visionOS 1.0.1 Ahead of Vision Pro Launch</title>
+		<link>https://www.macrumors.com/2024/01/23/apple-releases-visionos-1-0-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-visionos-1-0-1-ahead-of-vision-pro-launch.2417262/</comments>
+		<pubDate>Tue, 23 Jan 2024 18:20:30 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/23/apple-releases-visionos-1-0-1/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Vision Pro</category>
+		<category>visionOS</category>
+		
+
+		<description><![CDATA[While the Vision Pro does not launch until February 2, Apple today released visionOS 1.0.1 for the headset, according to developer <a href="https://twitter.com/nicolas09F9/status/1749976019929321720">Nicolás Álvarez</a>. It's unclear what's new in the software update, as Apple has yet to start publicly sharing visionOS release notes, but the version number suggests that it's likely a minor update with bug fixes.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Blue-Magenta.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-898550" /><br/>
+<a href="https://twitter.com/markgurman/status/1744774909262483693"><em>Bloomberg</em>'s Mark Gurman said</a> that Apple would start shipping Vision Pro review units to selected media personnel following a January 23 meeting, so visionOS 1.0.1 should be available on those headsets as an immediate update out of the box. It could also be a day-one update for the public if initial Vision Pro units ship with visionOS 1.0 installed.<br/>
+<br/>
+visionOS 1.0.1 is the first-ever software update for the Vision Pro, and it has a build number of 21N311, according to Álvarez. Apple will likely unveil a larger visionOS 2.0 update with new features at WWDC in June.<br/>
+<br/>
+<em>(Thanks, <a href="https://twitter.com/aaronp613">Aaron</a>!)</em><div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/23/apple-releases-visionos-1-0-1/">Apple Releases visionOS 1.0.1 Ahead of Vision Pro Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-visionos-1-0-1-ahead-of-vision-pro-launch.2417262/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Received 13 Academy Award Nominations for Killers of the Flower Moon and Napoleon</title>
@@ -586,26 +607,6 @@ More information on the features that have been introduced in &zwnj;macOS Sonoma
 The watchOS 10.3 update includes a new Unity Bloom watch face to celebrate Black History Month.<br/>
 <br/>
 Apple's release notes also say that the update includes unspecified improvements and bug fixes.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/apple-releases-watchos-10-3/">Apple Releases watchOS 10.3 With New Watch Face</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-watchos-10-3-with-new-watch-face.2417115/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases tvOS 17.3</title>
-		<link>https://www.macrumors.com/2024/01/22/apple-releases-tvos-17-3/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-tvos-17-3.2417114/</comments>
-		<pubDate>Mon, 22 Jan 2024 10:01:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/22/apple-releases-tvos-17-3/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV</category>
-		
-
-		<description><![CDATA[Apple today released tvOS 17.3, the third major update to the tvOS 17 operating system that came out last September. tvOS 17.3 comes over a month after tvOS 17.2, an update that brought the revamped <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-870258" /><br/>
-tvOS 17.3 can be downloaded using the Settings app on the ‌&zwnj;Apple TV&zwnj;‌. Go to System &gt; Software Update to get the new software. ‌&zwnj;Apple TV&zwnj;‌ owners who have automatic software updates activated will be upgraded to tvOS 17.3 automatically.<br/>
-<br/>
-tvOS updates are typically minor in scale compared to other operating system updates, focusing primarily on bug fixes and smaller improvements rather than notable outward-facing changes. No new features were found in the tvOS 17.3 beta testing process.<br/>
-<br/>
-Apple shares release notes for tvOS <a href="https://support.apple.com/en-us/106336">in its tvOS support document</a>, which is updated after each new version of tvOS comes out.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/22/apple-releases-tvos-17-3/">Apple Releases tvOS 17.3</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-tvos-17-3.2417114/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
