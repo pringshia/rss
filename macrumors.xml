@@ -14,12 +14,299 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 25 Jan 2024 08:02:57 PST</lastBuildDate>
+	<lastBuildDate>Thu, 25 Jan 2024 12:03:07 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Limiting Alternative App Stores and Payments to EU Due to Malware, Fraud and Scam Risks</title>
+		<link>https://www.macrumors.com/2024/01/25/alternative-app-store-eu-risks/</link>
+		<comments>https://forums.macrumors.com/threads/apple-limiting-alternative-app-stores-and-payments-to-eu-due-to-malware-fraud-and-scam-risks.2417436/</comments>
+		<pubDate>Thu, 25 Jan 2024 11:52:45 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/alternative-app-store-eu-risks/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[In <a href="https://developer.apple.com/support/dma-and-apps-in-the-eu/">developer documentation</a> outlining systemwide changes to the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> in the European Union, Apple explains why alternative app stores, alternative payment options, and other updates are being limited to the EU.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/07/iPhone-Security-Feature-1.jpg" alt="" width="2844" height="1600" class="aligncenter size-full wp-image-751214" /><br/>
+Apple claims that these changes are introducing notable risks for users and developers, introducing "new avenues for malware, fraud and scams, illicit and harmful content, and other privacy and security threats."<br/>
+<br/>
+Further, Apple says that the updates compromise its ability to "detect, prevent, and take action" against malicious apps, and also to support users impacted by issues with apps that are downloaded outside of the &zwnj;App Store&zwnj;.<br/>
+<br/>
+"We're limiting these changes to the European Union because we're concerned about their impacts on the privacy and security of our users' experience - which remains our North Star," Apple writes.<br/>
+<br/>
+To limit risk, Apple is requiring alternative app stores to undergo a notarization process that will check for malware and viruses, but Apple will not evaluate an app's content. Though notarization will add safeguards, Apple says there is risk involved with the alternate app store system.<br/>
+<blockquote>If not properly managed, alternative distribution poses increased privacy, safety, and security risks for users and developers. This includes risks from installing software from unknown developers that are not subject to the Apple Developer Program requirements, installing software that compromises system integrity with malware or other malicious code, the distribution of pirated software, exposure to illicit, objectionable, and harmful content due to lower content and moderation standards, and increased risks of scams, fraud, and abuse. Apple has less ability to address these risks, and to support and refund customers regarding these issues. Even with safeguards, many of these risks remain.</blockquote><br/>
+Going forward, Apple plans to engage with the European Union, developer community, and EU users about the impacts of alternative app stores.<br/>
+<br/>
+Outside of the EU, app developers must continue to use the &zwnj;App Store&zwnj; and in-app purchase system as usual.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/alternative-app-store-eu-risks/">Apple Limiting Alternative App Stores and Payments to EU Due to Malware, Fraud and Scam Risks</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-limiting-alternative-app-stores-and-payments-to-eu-due-to-malware-fraud-and-scam-risks.2417436/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Warns That Some Screen Time and Sharing Features Won&#039;t Work With Alternative App Distribution in the EU</title>
+		<link>https://www.macrumors.com/2024/01/25/features-unavailable-with-alternative-app-stores/</link>
+		<comments>https://forums.macrumors.com/threads/apple-warns-that-some-screen-time-and-sharing-features-wont-work-with-alternative-app-distribution-in-the-eu.2417433/</comments>
+		<pubDate>Thu, 25 Jan 2024 11:29:44 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/features-unavailable-with-alternative-app-stores/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple in iOS 17.4 will begin allowing apps in the European Union to be distributed through alternative app stores rather than the iOS <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, but the Cupertino company warns that this means certain features users have come to rely on will not work as they do for standard &zwnj;App Store&zwnj; apps.  <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-Clorange.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-833988" /><br/>
+Restrictions on In-App Purchases in Screen Time will not be available, for example, nor will Family Purchase Sharing for apps and subscriptions that are made outside of the &zwnj;App Store&zwnj;. Ask to Buy is not a supported feature, and universal purchase, a feature that allows apps to work across all of a user's devices, is not offered. <br/>
+<br/>
+Apple will not be able to offer these features because it will not be facilitating purchases of apps distributed through alternative app stores. <br/>
+<br/>
+Screen Time, parental controls, and Spotlight will continue to function, according to Apple, but parents will need to adjust to not having access to purchasing restrictions for apps installed outside of the &zwnj;App Store&zwnj;. <br/>
+<br/>
+Apple also warns that it will not be able to assist users with refunds, purchase history, subscription management and cancelation, violations of user data privacy, abuse, or fraud and manipulations. <br/>
+<br/>
+Developers or the alternative app marketplace an app was downloaded from will need to handle issues like refunds and subscription cancelations. <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> users will be able to choose not to install apps outside of the &zwnj;App Store&zwnj;, of course, and these changes are limited to users in the European Union. <br/>
+<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/features-unavailable-with-alternative-app-stores/">Apple Warns That Some Screen Time and Sharing Features Won&#039;t Work With Alternative App Distribution in the EU</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-warns-that-some-screen-time-and-sharing-features-wont-work-with-alternative-app-distribution-in-the-eu.2417433/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.4 Beta Adds New Emoji: Shaking Head, Lime, Phoenix, Brown Mushroom and More</title>
+		<link>https://www.macrumors.com/2024/01/25/ios-17-4-adds-new-emoji/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-4-beta-adds-new-emoji-shaking-head-lime-phoenix-brown-mushroom-and-more.2417425/</comments>
+		<pubDate>Thu, 25 Jan 2024 10:42:11 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/ios-17-4-adds-new-emoji/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[The iOS 17.4 beta that was released today introduces new emoji characters, which include lime, an edible brown mushroom, a phoenix, a broken chain, shaking head vertically (as in a "yes" nod), and shaking head horizontally (a "no" head shake).<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/emojipedia-15-1-emoji.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-903229" /><em><div class="center-wrap">Mockup of new emoji <a href="https://blog.emojipedia.org/whats-new-in-unicode-15-1-and-emoji-15-1/">via Emojipedia</a></div></em><br/>
+These characters are part of the Unicode 15.1 update that was <a href="https://www.macrumors.com/2023/09/19/ios-17-future-emoji/">approved in September 2023</a>.<br/>
+<br/>
+There are also four new family emoji combinations, along with updates to six people emoji that now have direction specifications such as facing right or facing left. The direction options can be used with person walking, person running, person kneeling, person with white cane, person in manual wheelchair, and person in motorized wheelchair.<br/>
+<br/>
+This is a smaller update than we typically get, with fewer emoji characters, but that is because it is a .1 Unicode Consortium update rather than a major point update.<br/>
+<br/>
+iOS 17.4 is limited to developers at the current time, but it should soon be coming to public beta testers. It will see an official launch sometime in March.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/ios-17-4-adds-new-emoji/">iOS 17.4 Beta Adds New Emoji: Shaking Head, Lime, Phoenix, Brown Mushroom and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-4-beta-adds-new-emoji-shaking-head-lime-phoenix-brown-mushroom-and-more.2417425/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Opens Up NFC to Third-Party Apps in EU, Allowing New Tap-to-Pay Options</title>
+		<link>https://www.macrumors.com/2024/01/25/apple-nfc-third-party-apps-eu/</link>
+		<comments>https://forums.macrumors.com/threads/apple-opens-up-nfc-to-third-party-apps-in-eu-allowing-new-tap-to-pay-options.2417424/</comments>
+		<pubDate>Thu, 25 Jan 2024 10:38:06 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/apple-nfc-third-party-apps-eu/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[As part of major changes being made to the app ecosystem in the EU in iOS 17.4, Apple is allowing apps to access and use the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>'s NFC chip.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-921515" /><br/>
+Going forward, NFC payments will be available directly in apps without the need for <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a> or the Wallet app, paving the way for third-party payment services and banks to offer their own tap-to-pay solutions on Apple devices.<br/>
+<br/>
+&zwnj;iPhone&zwnj; users can set a default app that will be activated when an &zwnj;iPhone&zwnj; is near an NFC terminal or when the side button on the device is double clicked, which means native support for tap-to-pay payments that are not &zwnj;Apple Pay&zwnj; is now available.<br/>
+<br/>
+Apple will require apps using NFC for payments to confirm to industry security standards, such as having valid agreements with an authorized Payment Service Provider.<br/>
+<br/>
+Like changes to the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> that are being implemented today, access to NFC technology is limited to banking and wallet apps that are in the European Economic Area.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/apple-nfc-third-party-apps-eu/">Apple Opens Up NFC to Third-Party Apps in EU, Allowing New Tap-to-Pay Options</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-opens-up-nfc-to-third-party-apps-in-eu-allowing-new-tap-to-pay-options.2417424/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Now Allowing Non-WebKit Engines in EU, Offering More Options for Changing Default Browser</title>
+		<link>https://www.macrumors.com/2024/01/25/third-party-default-browsers-eu-ios-17-4/</link>
+		<comments>https://forums.macrumors.com/threads/apple-now-allowing-non-webkit-engines-in-eu-offering-more-options-for-changing-default-browser.2417423/</comments>
+		<pubDate>Thu, 25 Jan 2024 10:26:17 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/third-party-default-browsers-eu-ios-17-4/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[With the iOS 17.4 update, Apple is making sweeping changes to iOS in order to comply with the Digital Markets Act in the European Union. Apple is opening up the browser engine, and giving users more choice over what apps and services they use as the defaults on their devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/06/Chrome-Feature-22.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-851161" /><br/>
+Users in the EU who update to iOS 17.4 will be presented with a splash screen upon opening Safari that allows them to choose a new default browser. Apple is not providing just the standard browsers that have been options on iOS in the past, but a list of the most downloaded browsers on iOS devices. Some of the options include Firefox, Opera, Chrome, Brave, and Microsoft Edge. <br/>
+<br/>
+Browser apps can also now use browser engines other than WebKit, both for browser apps and in-app browsing experiences within apps. At the current time, Apple requires all browsers on iOS to use the WebKit engine, including popular options like Chrome and Firefox. Going forward, Chrome will be able to use Blink, for example.<br/>
+<br/>
+Users will also be able to <a href="https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/">choose a default app marketplace</a>, thanks to support for alternative marketplaces, and they will be able to select a default contactless app for contactless payments. These changes are limited to <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> users in the European Union, and they are being implemented as part of iOS 17.4, which is available to developers as a beta as of today.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/third-party-default-browsers-eu-ios-17-4/">Apple Now Allowing Non-WebKit Engines in EU, Offering More Options for Changing Default Browser</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-allowing-non-webkit-engines-in-eu-offering-more-options-for-changing-default-browser.2417423/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Now Allows Game Streaming Apps on App Store Worldwide</title>
+		<link>https://www.macrumors.com/2024/01/25/apple-allows-game-streaming-apps-on-app-store/</link>
+		<comments>https://forums.macrumors.com/threads/apple-now-allows-game-streaming-apps-on-app-store-worldwide.2417422/</comments>
+		<pubDate>Thu, 25 Jan 2024 10:21:51 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/apple-allows-game-streaming-apps-on-app-store/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>App Store</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://developer.apple.com/news/?id=f1v8pyay">announced</a> that it now allows streaming game apps on the App Store worldwide, in response to feedback from developers. This will pave the way for services like Xbox Cloud Gaming and Nvidia GeForce NOW to be available as standalone iPhone and iPad apps, whereas they were previously only accessible via the web.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/09/App-Store-and-XCloud.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-758525" /><br/>
+These cloud gaming apps will allow iPhone and iPad users to stream games from servers, with the entire selection of games available within a single app.<br/>
+<br/>
+"Developers can now submit a single app with the capability to stream all of the games offered in their catalog," reads Apple's announcement.<br/>
+<br/>
+Streaming game apps will need to maintain an age rating of the highest age-rated content included in the app, and the apps will of course also need to respect all of the latest App Store Review Guidelines, according to Apple.<br/>
+<br/>
+Apple also announced that mini-apps, mini-games, chatbots, and plug-ins will be able to use Apple's in-app purchase system for digital content and services worldwide. For example, Apple says users could subscribe to an individual chatbot.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/app-store/">App Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/apple-allows-game-streaming-apps-on-app-store/">Apple Now Allows Game Streaming Apps on App Store Worldwide</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-allows-game-streaming-apps-on-app-store-worldwide.2417422/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.4 Introduces Alternative App Marketplaces With No Commission in EU</title>
+		<link>https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-4-introduces-alternative-app-marketplaces-with-no-commission-in-eu.2417417/</comments>
+		<pubDate>Thu, 25 Jan 2024 10:00:09 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple today announced major changes to its app ecosystem in the European Union, implementing updates that will allow <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> users to download and install apps outside of the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> through alternative app marketplaces.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-JoeBlue.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-833073" /><br/>
+Alternative app marketplaces will function as an iOS app that is able to install other iOS apps on an &zwnj;iPhone&zwnj; or &zwnj;iPad&zwnj;. Any developer can create an app marketplace, so long as they meet Apple's criteria for customer experience, fraud prevention, customer support, and more. Apple is creating new APIs to build marketplaces on iOS to distribute apps to users. <br/>
+<br/>
+In the EU, when an app developer submits an app to Apple for distribution, they can choose the &zwnj;App Store&zwnj; or any alternative app marketplaces. This includes distribution through multiple alternative app marketplaces or through both the &zwnj;App Store&zwnj; and an app marketplace. <br/>
+<br/>
+Apps installed through alternative app stores will need to go through a notarization process that includes safety and security checks, which is how Mac apps work. <br/>
+<br/>
+Apple will not charge a commission on apps installed through alternative marketplaces, nor will it charge commission for alternative payment systems, which are also allowed under the &zwnj;App Store&zwnj; updates in the European Union. Developers can integrate an alternative payment processor into their app that allows a user to make a purchase and check out entirely in an app, or developers can link out to their websites where users can make a purchase. <br/>
+<br/>
+While there are no commissions for alternative app marketplaces and alternative payment systems, there is a Core Technology Fee that is .50 euros per install per account on an annual basis. The first 1 million installs are free for all developers, but after 1 million installs, the fee comes into play.<br/>
+<br/>
+App developers who choose to continue to distribute under the &zwnj;App Store&zwnj; will pay Apple reduced commission with the new terms. Apple is dropping the 30 percent commission to 17 percent, and the 15 percent commission paid for subscriptions over a year old or by small businesses will drop to 10 percent. Apple says the vast majority of apps will qualify for the 10 percent rate. <br/>
+<br/>
+Developers have a choice between opting into the new business terms in the EU or sticking with the &zwnj;App Store&zwnj; terms as they are today. Developers who choose to maintain the status quo will pay the fees they pay now -- 15 to 30 percent commission.<br/>
+<br/>
+Developers who opt for the updated business terms will pay the reduced commissions, will have access to alternative app stores, and will also be subject to the Core Technology Fee. There is an also optional 3 percent payment processing fee for those who choose to continue to use Apple's integrated payment system rather than an alternative payment system under the new terms. <br/>
+<br/>
+Apple's Core Technology Fee will be paid annually, and Apple says that the fee reflects the value that developers get from Apple's tools and platform. Apps distributed by government agencies, non-profits, and educational institutions will be exempt from the Core Technology Fee. To help developers decide between the existing policies and the new system, Apple is providing a fee calculator and analytics report for the first annual install metric. <br/>
+<br/>
+Apple believes that allowing for alternative app installations will bring a major risk to platform integrity, but the measures that it is taking with notarization are aimed at reducing the risk of malware and other issues as much as possible. Apple's automated notarization checks will scan for known viruses and malware, plus there will be a baseline human review to ensure an app meets platform policies for security and privacy.<br/>
+<br/>
+Unlike &zwnj;App Store&zwnj; review, notarization will not enforce quality or content standards.There will be a system sheet for a notarized app that displays the app's name, screenshots, and more so that a user can verify an app's information before choosing to install it. <br/>
+<br/>
+Users will be able to install multiple app marketplace apps, and they will need to give permission before an app marketplace can install apps on a device. There is a management system in the Settings app that allows users to revoke permissions for app marketplaces and also, set a default app marketplace on their device.<br/>
+<br/>
+There are other changes coming as well. Users in the European Union will have an option to choose a default browser after updating to iOS 17.4, with Apple providing a list of the most downloaded browsers. <br/>
+<br/>
+Apple is giving app developers in the EU access to NFC and allowing for alternative browser engines, so WebKit will not be required for third-party browser apps. Apps will be able to offer NFC payments without using <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a> or the Wallet app through Host Card Emulation. Apps can also access field detect, and a default app can be set to activate when an &zwnj;iPhone&zwnj; is placed near a terminal.<br/>
+<br/>
+&zwnj;App Store&zwnj; rules around <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> gaming are being updated globally to make it easier for users to download and enjoy games. <br/>
+<br/>
+Developers worldwide have access to expanded analytics, with more than 50 new reports on commerce, user engagement, and more. Data is still anonymized, but developers will have more information to work with.<br/>
+<br/>
+Apple is making these changes to comply with the European Union's Digital Markets Act, which tech companies need to adhere to by March 6, 2024. iOS 17.4 is coming out as a beta update today, and it is set to see a public release in March.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/">iOS 17.4 Introduces Alternative App Marketplaces With No Commission in EU</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-4-introduces-alternative-app-marketplaces-with-no-commission-in-eu.2417417/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds First Betas of iOS 17.4 and iPadOS 17.4 to Developers</title>
+		<link>https://www.macrumors.com/2024/01/25/ios-17-4-beta-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-first-betas-of-ios-17-4-and-ipados-17-4-to-developers.2417420/</comments>
+		<pubDate>Thu, 25 Jan 2024 09:59:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/ios-17-4-beta-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today seeded the first betas of upcoming iOS 17.4 and iPadOS 17.4 betas to developers for testing purposes, with the updates coming a day after the launches of <a href="https://www.macrumors.com/2024/01/22/apple-releases-ios-17-3/">iOS 17.3 and iPadOS 17.3</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/iOS-17.4-Feature-Orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932463" /><br/>
+Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
+<br/>
+Apple has a March 6 deadline to introduce app sideloading in the European Union in order to comply with the Digital Markets Act (DMA), and <a href="https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/">iOS 17.4 will add support for this</a>. Sideloading will allow Apple users in Europe to download apps outside of the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, but the change will be limited to the EU and won't impact customers in other parts of the world. <br/>
+<br/>
+There's no word yet on what else is included in iOS 17.4, but Apple's updates around this time often introduce new emoji characters. If there are indeed new emoji in the update, we can expect to see the <a href="https://www.macrumors.com/2023/09/19/ios-17-future-emoji/">Unicode 15.1 additions</a>, which include phoenix, lime, an edible mushroom, shaking head vertically (as in a "yes" nod), shaking head horizontally (a "no" head shake), and broken chain.<br/>
+<br/>
+<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/ios-17-4-beta-1/">Apple Seeds First Betas of iOS 17.4 and iPadOS 17.4 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-betas-of-ios-17-4-and-ipados-17-4-to-developers.2417420/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds First Beta of tvOS 17.4 to Developers</title>
+		<link>https://www.macrumors.com/2024/01/25/tvos-17-4-beta-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-first-beta-of-tvos-17-4-to-developers.2417421/</comments>
+		<pubDate>Thu, 25 Jan 2024 09:58:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/tvos-17-4-beta-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple TV</category>
+		<category>Blurb</category>
+		
+
+		<description><![CDATA[Apple today seeded the first beta of an upcoming tvOS 17.4 to developers for testing purposes, with the beta coming a day after the <a href="https://www.macrumors.com/2024/01/22/apple-releases-tvos-17-3/">release of tvOS 17.3</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/07/apple-tv-4k-green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-856182" /><br/>
+Registered developers are able to download the tvOS 17.4 update by opting in to the beta through the Settings app on the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>. A registered developer account is required.<br/>
+<br/>
+tvOS software releases are usually minor in scale compared to other operating system updates, focusing primarily on smaller improvements rather than outward-facing changes. We don't yet know what's included in tvOS 17.4.<br/>
+<br/>
+Apple shares some information on tvOS releases in its <a href="https://support.apple.com/en-us/HT207936">tvOS support document</a>, which is updated after each tvOS launch, but Apple does not provide notes during beta testing.<br/>
+<br/>
+Though we don't always know what's new in tvOS betas, we let <em>MacRumors</em> readers know when new updates are available so those who are developers can download new software upon release.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/tvos-17-4-beta-1/">Apple Seeds First Beta of tvOS 17.4 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-beta-of-tvos-17-4-to-developers.2417421/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Some Macs Auto-Updating to macOS Sonoma Without User Permission</title>
+		<link>https://www.macrumors.com/2024/01/25/some-macs-auto-updating-to-macos-sonoma/</link>
+		<comments>https://forums.macrumors.com/threads/some-macs-auto-updating-to-macos-sonoma-without-user-permission.2417410/</comments>
+		<pubDate>Thu, 25 Jan 2024 09:14:58 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/some-macs-auto-updating-to-macos-sonoma/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>macOS Ventura</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Over the past few weeks, some Mac users have complained that their computer automatically upgraded itself from macOS Ventura to the latest macOS Sonoma release, even with the automatic updates setting turned off.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-900001" /><br/>
+There are widespread complaints about this issue across the <a href="https://discussions.apple.com/thread/255413533">Apple Support Community</a>, <a href="https://forums.macrumors.com/threads/ventura-magically-updated-to-sonoma.2416284/">MacRumors Forums</a>, <a href="https://www.reddit.com/r/MacOS/comments/193tmio/macos_monterey_automatically_updated_to_sonoma/">Reddit</a>, <a href="https://twitter.com/macz_music/status/1748747516839936403">X</a>, and <a href="https://www.askwoody.com/forums/topic/forced-upgrade-to-macos-sonoma/">other</a> <a href="https://talk.tidbits.com/t/apple-just-force-upgraded-me-to-sonoma/26342">websites</a>.<br/>
+<br/>
+In most cases, it appears that affected users received a desktop notification alerting them that macOS Sonoma was an available software update. However, despite dismissing the notification and having automatic updates turned off, affected users said their Mac proceeded to install macOS Sonoma regardless. Apple began showing the notification to users on January 10, according to <em>MacRumors</em> contributor <a href="https://twitter.com/aaronp613">Aaron Perris</a>.<br/>
+<br/>
+The underlying cause of the issue is unclear, and an Apple spokesperson did not immediately respond to a request for comment.<br/>
+<br/>
+It is possible to downgrade a Mac to an older macOS version by using a bootable installer to erase and install the older version and then restoring your data from a Time Machine backup. Always make sure to back up your data before downgrading a Mac.<br/>
+<br/>
+To review your Mac's update settings, open the System Settings app, click General → Software Update, and click the info symbol next to Automatic Updates.<br/>
+<br/>
+We will update this report if new information becomes available.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/macos-ventura.239">macOS Ventura</a>, <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/some-macs-auto-updating-to-macos-sonoma/">Some Macs Auto-Updating to macOS Sonoma Without User Permission</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/some-macs-auto-updating-to-macos-sonoma-without-user-permission.2417410/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>&#039;Weather Up&#039; Brings Interactive Forecasts to Your iPhone&#039;s Home Screen</title>
+		<link>https://www.macrumors.com/2024/01/25/weather-up-app-interactive-widgets/</link>
+		<comments>https://forums.macrumors.com/threads/weather-up-brings-interactive-forecasts-to-your-iphones-home-screen.2417408/</comments>
+		<pubDate>Thu, 25 Jan 2024 09:00:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/weather-up-app-interactive-widgets/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[<a href="https://apps.apple.com/us/app/weather-up/id1196015787">Weather Up</a> today was updated with a few new features, including an interactive Home Screen widget and an Apple Watch app.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/xRfpk6gCYMo?si=OAD_frJp_zGEoNnK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
+The interactive widget allows you to view your local weather forecast at a glance on your iPhone's Home Screen, without needing to open the app. The app now supports three data sources, including Apple Weather, AccuWeather, and AerisWeather.<br/>
+<br/>
+As for the Apple Watch app, it is fully optimized for watchOS 10 and offers a widget that can be accessed via the Smart Stack.<br/>
+<br/>
+Weather Up version 3.0 is rolling out <a href="https://apps.apple.com/us/app/weather-up/id1196015787">on the App Store</a> today. In the U.S., the subscription-based app costs &#36;4 per month or &#36;40 per year.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/weather-up-app-interactive-widgets/">&#039;Weather Up&#039; Brings Interactive Forecasts to Your iPhone&#039;s Home Screen</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/weather-up-brings-interactive-forecasts-to-your-iphones-home-screen.2417408/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Best Buy&#039;s Latest Sitewide Sale Has Up to &#36;870 Off Samsung Galaxy S24 Smartphones With Trade-In and More</title>
@@ -29,6 +316,7 @@
 		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/best-buys-latest-sitewide-sale-galaxy/</guid>
 		<dc:creator>Mitchel Broussard</dc:creator>
 		<category>Deals</category>
+		<category>Featured</category>
 		
 
 		<description><![CDATA[Best Buy this week has another <a href="https://howl.me/cluNqKAb0zN">sitewide sale</a> going, with notable discounts across a wide collection of products. Yesterday, we <a href="https://www.macrumors.com/2024/01/24/up-to-70-off-apple-watch/">shared a deal</a> on Apple Watch Series 9 and Ultra 2 devices, and Best Buy's sale also includes pre-order discounts on the <a href="https://howl.me/cluMUAqwsOH">brand new Samsung Galaxy S24</a> series of smartphones, with up to &#36;120 off unlocked models and up to &#36;870 off unlocked models with a qualifying trade-in.<br/>
@@ -73,7 +361,7 @@ There are many more deals to be found during <a href="https://howl.me/cluNqKAb0z
 		<description><![CDATA[Apple has reportedly cut components orders for its upcoming <a href="https://www.macrumors.com/guide/oled-ipad-pro/">OLED iPad Pro</a> models, suggesting that the company is now anticipating lower demand than previously expected.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2022/07/iPad-Pro-OLED-Feature-2.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-853666" /><br/>
-According to a report from <a href="https://www.yazhouribao.com/view/20240123075734572"><em>Aju Korea Daily</em></a>, cited by <em><a href="https://www.trendforce.com/news/2024/01/25/news-possible-30-cut-in-orders-for-new-ipad-pro-impacting-tsmc-foxconn-and-novatek/">Trendforce</a></em>, Apple has reduced orders of the OLED display panels designed for the next-generation <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> by 20 to 30%. Apple's original order of ten million panels was split between LG Display, with six million units, and Samsung, with four million units. The cut is expected to hit LG's order specifically, reducing to three or four million units, while Samsung's order remains unchanged. This also suggests that it is primarily the 13-inch &zwnj;iPad Pro&zwnj; that is affected by Apple's expectation of reduced sales, since Samsung is exclusively supplying panels for the 11.1-inch model.<br/>
+According to a report from <a href="https://www.yazhouribao.com/view/20240123075734572"><em>Aju Korea Daily</em></a>, cited by <em><a href="https://www.trendforce.com/news/2024/01/25/news-possible-30-cut-in-orders-for-new-ipad-pro-impacting-tsmc-foxconn-and-novatek/">TrendForce</a></em>, Apple has reduced orders of the OLED display panels designed for the next-generation <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> by 20 to 30%. Apple's original order of ten million panels was split between LG Display, with six million units, and Samsung, with four million units. The cut is expected to hit LG's order specifically, reducing to three or four million units, while Samsung's order remains unchanged. This also suggests that it is primarily the 13-inch &zwnj;iPad Pro&zwnj; that is affected by Apple's expectation of reduced sales, since Samsung is exclusively supplying panels for the 11.1-inch model.<br/>
 <br/>
 <ul><li><a href="https://www.macrumors.com/2023/10/18/2024-ipad-pro-what-to-expect/">2024 iPad Pro: 12 Rumors About What to Expect</a></li></ul><br/>
 <br/>
@@ -206,7 +494,6 @@ Stewart will be hosting the series through the 2024 election cycle. In a stateme
 		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/up-to-70-off-apple-watch/</guid>
 		<dc:creator>Mitchel Broussard</dc:creator>
 		<category>Deals</category>
-		<category>Featured</category>
 		
 
 		<description><![CDATA[Best Buy is <a href="https://howl.me/clunu1dvWgW">hosting an Apple Watch sale</a> this week, offering all-time low prices on the Apple Watch Series 9 and a great deal on the Apple Watch Ultra 2. These deals are available to everyone and do not require you to have a My Best Buy Plus or Total membership.<br/>
@@ -247,302 +534,6 @@ Exact details of the fee structure are unknown, but Apple <a href="https://www.m
 Apple has reportedly been working on the plan for offering sideloading for over a year and the company has held meetings with EU officials in recent months to discuss the new rules. The deadline to enact the changes is Thursday, March 7.<br/>
 <br/>
 Companies are already said to be lining up to take advantage of the impending changes. For example, Spotify is mulling offering its app via its website to skirt the &zwnj;App Store&zwnj;, Microsoft has considered launching its own third-party app store specifically for games, and Meta is planning to launch a system to download apps directly from ads.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/the-wall-street-journal/">The Wall Street Journal</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/sideloading-in-europe-app-review-and-fees/">Report: Sideloading in Europe Will Still Involve App Review and Fees</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/report-sideloading-in-europe-will-still-involve-app-review-and-fees.2417299/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Spotify Shares Its Vision for In-App Purchases Ahead of EU Regulation</title>
-		<link>https://www.macrumors.com/2024/01/24/spotify-shares-vision-iap-eu-regulation/</link>
-		<comments>https://forums.macrumors.com/threads/spotify-shares-its-vision-for-in-app-purchases-ahead-of-eu-regulation.2417296/</comments>
-		<pubDate>Wed, 24 Jan 2024 05:15:07 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/spotify-shares-vision-iap-eu-regulation/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>App Store</category>
-		<category>Spotify</category>
-		<category>European Union</category>
-		
-
-		<description><![CDATA[Spotify has shared its vision for bringing in-app payments back to its iOS app, once Apple is forced to comply with Europe's looming digital market regulations.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/08/General-Spotify-Feature.jpg" alt="" width="2500" height="1407" class="aligncenter size-full wp-image-810756" /><br/>
-The streaming service <a href="https://newsroom.spotify.com/2024-01-24/the-dma-means-a-better-spotify-for-artists-creators-and-you/">shared</a> mockups of what it expects its app to look like, including information about pricing, subscription offers and in-app audiobook purchases. Spotify has not allowed customers to sign up for a Spotify Premium subscription or make other in-app payments in order to avoid paying Apple's fees, but that is likely to change soon, in the EU at least.<br/>
-<br/>
-The European Union's Digital Markets Act (DMA), which went into effect on November 1, 2022, requires "gatekeeper" companies to open up their services and platforms to other companies and developers. The DMA will have a big impact on Apple's platforms, and is likely to result in Apple making major changes to the ‌<a href="https://www.macrumors.com/guide/app-store/">App Store</a>‌, Messages, <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a>, <a href="https://www.macrumors.com/guide/siri/">Siri</a>, and possibly more. <br/>
-<br/>
-For example, the law will prevent the &zwnj;App Store&zwnj; from charging a fee for apps to promote their own products and services, or force apps to use a specific payments mechanism. The act is due to roll out on March 7. <br/>
-<br/>
-Writing in a <a href="https://newsroom.spotify.com/2024-01-24/the-dma-means-a-better-spotify-for-artists-creators-and-you/">newsroom blog post</a>, Spotify laid out its ideal scenario ahead of the act: <br/>
-<blockquote>For years, even in our own app, Apple had these rules where we couldn't tell you about offers, how much something costs, or even where or how to buy it. We know, pretty nuts. The DMA means that we'll finally be able to share details about deals, promotions, and better-value payment options in the EU. And an easier experience for you means good things for artists, authors, and creators looking to build their audiences of listeners, concert-goers, and audiobook-loving fans. What's more? All of this can now come without the burden of a mandatory ~30% tax imposed by Apple, which is prohibited under the DMA. <br/>
-<br/>
-We'll soon be able to give you information in the Spotify app about prices for things like Premium subscriptions and audiobooks. And we will be able to communicate clearly with you in the Spotify app about new products for sale, promotional campaigns, superfan clubs, and upcoming events, including when items like audiobooks are going on sale.<br/>
-<br/>
-Soon we expect that if you want to buy a Premium subscription or an audiobook, or are looking to seamlessly upgrade from Individual to a Duo or Family plan to save money, you will be able to do so with just a couple of easy clicks.</blockquote><em>MacRumors</em> <a href="https://www.macrumors.com/2023/12/07/spotify-on-ios-in-app-purchases/">found code strings</a> in a recent Spotify beta indicating that the company was testing bringing back in-app purchases. However, a lot of what Spotify envisions remains theoretical, given that Apple may have evasive strategies to comply more loosely with the requirements, like how it responded to the <a href="https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/">anti-steering rule</a> handed down by a U.S. court in the Apple vs. <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a> legal battle. <br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">You’re about to experience a new Spotify if you live in the EU. One where you can see all subscription pricing, promotions or deals, and even make purchases, all seamlessly within the app. Find out what this means for you: <a href="https://t.co/j1hYRC3S5c">https://t.co/j1hYRC3S5c</a> <a href="https://t.co/p1GDY6PNdd">pic.twitter.com/p1GDY6PNdd</a></p>&mdash; Spotify News (@SpotifyNews) <a href="https://twitter.com/SpotifyNews/status/1750111838656770078?ref_src=twsrc%5Etfw">January 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-Over the years, Apple and Spotify have had a long running dispute over Apple's ‌&zwnj;App Store&zwnj;‌ policies, with multiple public conflicts over app and subscription fees and app rejections due to Spotify's attempts to skirt the up to 30 percent cut that Apple takes from purchases.<br/>
-<br/>
-Apple offers no alternative billing from the ‌&zwnj;App Store&zwnj;‌. There are two exceptions, however, including South Korea and the Netherlands. Regulators in these countries have forced Apple to allow some apps to use third-party payment providers.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/spotify/">Spotify</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/spotify-shares-vision-iap-eu-regulation/">Spotify Shares Its Vision for In-App Purchases Ahead of EU Regulation</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/spotify-shares-its-vision-for-in-app-purchases-ahead-of-eu-regulation.2417296/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16 Pro Max Rumored to Feature Bigger, More Advanced Main Camera Sensor</title>
-		<link>https://www.macrumors.com/2024/01/24/iphone-16-pro-max-to-feature-advanced-main-sensor/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-pro-max-rumored-to-feature-bigger-more-advanced-main-camera-sensor.2417293/</comments>
-		<pubDate>Wed, 24 Jan 2024 04:48:41 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/iphone-16-pro-max-to-feature-advanced-main-sensor/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 16 Pro</category>
-		<category>Digital Chat Station</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a> Max will feature a bigger, more advanced main camera sensor to deliver improved photography and videography capabilities, according to new information coming out of Asia. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Cameras.jpg" alt="" width="1600" height="900" class="alignnone size-full wp-image-913544" /><br/>
-The claim comes from "Digital Chat Station," a Weibo user responsible for a range of details about the camera technology of upcoming <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> models. According to the latest post on the matter, the &zwnj;iPhone 16 Pro&zwnj; Max will be an "image flagship," suggesting that it will be heavily focused on its camera capabilities.<br/>
-<br/>
-The device's main camera will apparently feature a customized 48-megapixel Sony IMX903 sensor with advanced features like a stacked design for better performance, a 14-bit Analog-to-Digital Converter (ADC) for high-quality image data conversion, and Digital Gain Control (DCG) for better dynamic range and noise control.<br/>
-<br/>
-The Weibo user also reiterated <a href="https://www.macrumors.com/2023/05/28/iphone-16-pro-size-increase-camera-upgrades/">their previous claim</a> that the ‌&zwnj;iPhone 16 Pro&zwnj;‌ Max will feature a 12% larger camera sensor that is 1/1.14-inches in size. The ‌<a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a>‌ Pro and ‌<a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models currently feature a 1/1.28-inch sensor. A larger sensor could improve the main &zwnj;iPhone&zwnj; camera's dynamic range and background blur, as well as substantially enhance low-light photography capabilities since a bigger surface area can capture more light with the same shutter speed and aperture.<br/>
-<br/>
-The leaker also mentioned in passing that the next-generation high-end iPhones will feature a slightly more curved screen design, iterating on the design introduced with the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> lineup last year. Corroborating information <a href="https://www.macrumors.com/2023/09/29/iphone-16-preliminary-weights-dimensions/">shared by <em>MacRumors</em></a> last year, the post added that the &zwnj;iPhone 16 Pro&zwnj; models will have virtually the same thickness as their predecessors. <br/>
-<br/>
-Digital Chat Station accurately revealed that the &zwnj;iPhone 15&zwnj; and &zwnj;iPhone 15&zwnj; Plus would feature a <a href="https://www.macrumors.com/2023/07/27/iphone-15-still-to-have-smaller-sensor-than-pros/">slightly smaller 48-megapixel sensor</a> than the &zwnj;iPhone 15 Pro&zwnj; and &zwnj;iPhone 15 Pro&zwnj; Max last year, as well as the <a href="https://www.macrumors.com/2020/07/27/5-4-inch-iphone-12-display-images/">display panel design</a> of the &zwnj;iPhone&zwnj; 12 back in 2020. The <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> lineup is expected to debut in the fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/digital-chat-station/">Digital Chat Station</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/iphone-16-pro-max-to-feature-advanced-main-sensor/">iPhone 16 Pro Max Rumored to Feature Bigger, More Advanced Main Camera Sensor</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-pro-max-rumored-to-feature-bigger-more-advanced-main-camera-sensor.2417293/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Wins Early Victory Against Spyware Maker NSO Group in Court</title>
-		<link>https://www.macrumors.com/2024/01/24/apple-early-victory-nso-group-spyware-lawsuit/</link>
-		<comments>https://forums.macrumors.com/threads/apple-wins-early-victory-against-spyware-maker-nso-group-in-court.2417289/</comments>
-		<pubDate>Wed, 24 Jan 2024 03:51:22 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/apple-early-victory-nso-group-spyware-lawsuit/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple Lawsuits</category>
-		<category>Apple Security</category>
-		<category>Privacy</category>
-		
-
-		<description><![CDATA[Apple has dealt a blow against spyware maker NSO Group and the Israeli firm's efforts to move Apple's lawsuit against it to its home country. Apple in November 2021 <a href="https://www.macrumors.com/2021/11/23/apple-sues-nso-group/">sued the group</a> and its parent company with the aim of holding it accountable for targeting Apple users with spyware used for surveillance purposes.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/04/apple-security-banner.jpeg" alt="" width="2048" height="1145" class="aligncenter size-full wp-image-796484" /><br/>
-Judge Donato <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.388382/gov.uscourts.cand.388382.87.0.pdf">denied</a> NSO's motion to dismiss Apple's case "in all respects," and rejected the group's arguments that Apple should be required to bring its lawsuit to Israel, deciding instead that the case will proceed in the United States. <br/>
-<br/>
-The court also ruled that Apple had adequately alleged that NSO violated the Computer Fraud and Abuse Act (CFAA) and California’s Unfair Competition Law, breached its contract with Apple, and that NSO unjustly enriched itself at the expense of Apple and its users.<br/>
-<br/>
-In the lawsuit, Apple offers up information on how NSO Group infiltrated the devices of <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> owners and how it utilized the Pegasus spyware to do so. Apple is asking for a permanent injunction that would ban NSO Group from using Apple software, services, or devices.<br/>
-<br/>
-An Apple spokesperson said the victory meant that Apple could proceed in U.S. court to hold NSO accountable and continue to protect Apple's users, products, and infrastructure from hacker groups like NSO.<br/>
-<br/>
-NSO Group created invasive spyware known as "Pegasus" that was sold to various world governments and was used to access the devices of journalists, lawyers, and human rights activists. <br/>
-<br/>
-Apple has been working on fixing exploits and has addressed major Pegasus-related hacks in updates to its software since iOS 14.6. In addition to filing a lawsuit against NSO Group, Apple plans to contribute &#36;10 million to organizations pursuing cybersurveillance research and advocacy. <br/>
-<br/>
-"State-sponsored actors like the NSO Group spend millions of dollars on sophisticated surveillance technologies without effective accountability," said Apple's software engineering chief Craig Federighi in 2021. "That needs to change."<br/>
-<br/>
-NSO will have to answer Apple's complaint in a U.S. court by February 14, 2024. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/lawsuit/">Apple Lawsuits</a>, <a href="https://www.macrumors.com/guide/apple-security/">Apple Security</a>, <a href="https://www.macrumors.com/guide/privacy/">Privacy</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/apple-early-victory-nso-group-spyware-lawsuit/">Apple Wins Early Victory Against Spyware Maker NSO Group in Court</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-wins-early-victory-against-spyware-maker-nso-group-in-court.2417289/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Music Classical Now Available in China, Japan, and More Countries</title>
-		<link>https://www.macrumors.com/2024/01/24/apple-music-classical-now-available-china-japan/</link>
-		<comments>https://forums.macrumors.com/threads/apple-music-classical-now-available-in-china-japan-and-more-countries.2417285/</comments>
-		<pubDate>Wed, 24 Jan 2024 03:13:49 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/apple-music-classical-now-available-china-japan/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple Music Classical</category>
-		
-
-		<description><![CDATA[Apple Music Classical is now available in China, Japan, South Korea, Taiwan, Hong Kong, and Macao, fulfilling a rollout promise to the regions that Apple made <a href="https://www.macrumors.com/2024/01/09/apple-music-classical-expanding-to-more-countries/">earlier this month</a>. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/03/apple-music-classical.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-890263" /><br/>
-Apple Music Classical first launched in most other countries in March 2023. The ‌Apple Music‌ Classical app offers ‌Apple Music‌ subscribers access to over five million classical music tracks, including new high-quality releases, in addition to hundreds of curated playlists, thousands of exclusive albums, and other features like composer bios and deep dives on key works.<br/>
-<br/>
-The app offers a simpler interface for interacting with classical music specifically. Unlike the existing ‌Apple Music‌ app, ‌Apple Music‌ Classical allows users to search by composer, work, conductor, catalog number, and more. Users can get more detailed information from editorial notes and descriptions.<br/>
-<br/>
-The app can be pre-ordered now on the App Store in the above regions. In the U.S., a standard Apple Music subscription costs &#36;10.99 per month.<br/>
- <br/>
-In 2021, Apple announced that it had purchased the classical music streaming service Primephonic and would be folding it into ‌Apple Music‌ via a new app dedicated to the genre. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-music-classical/">Apple Music Classical</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/apple-music-classical-now-available-china-japan/">Apple Music Classical Now Available in China, Japan, and More Countries</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-music-classical-now-available-in-china-japan-and-more-countries.2417285/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>X for iOS Adds Support for Passkeys, Allowing for More Secure Logins</title>
-		<link>https://www.macrumors.com/2024/01/24/x-ios-adds-support-passkeys/</link>
-		<comments>https://forums.macrumors.com/threads/x-for-ios-adds-support-for-passkeys-allowing-for-more-secure-logins.2417283/</comments>
-		<pubDate>Wed, 24 Jan 2024 02:42:46 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/x-ios-adds-support-passkeys/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Twitter</category>
-		<category>Passkeys</category>
-		
-
-		<description><![CDATA[X, formerly Twitter, now supports passkeys as a login option for iOS users in the United States, the company has <a href="https://x.com/Safety/status/1749881895641633080?s=20">announced</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/07/X-twitter-logo.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-904140" /><br/>
-Passkeys are both easier to use and more secure than passwords because they let users sign in to apps and sites the same way they unlock their devices: With <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a>, <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>, or a device passcode. Passkeys are also resistant to online attacks like phishing, making them more secure than things like SMS one-time codes.<br/>
-<br/>
-Apple integrated passkeys into iOS in 2022 with the launch of iOS 16, and it is also available in iPadOS 16.1 and later as well as macOS Ventura and later.<br/>
-<br/>
-To set up passkeys in X, follow these steps:<br/>
-<ol><li>Log in to the X app.</li><br/>
-<li>Click <strong>Your account</strong> in the navigation bar.</li><br/>
-<li>Select <strong>Settings and privacy</strong>, then click <strong>Security and account access</strong>, then <strong>Security</strong>.</li><br/>
-<li>Under <strong>Additional password protection</strong>, click <strong>Passkey</strong>.</li><br/>
-<li>Enter your password when prompted.</li><br/>
-<li>Select <strong>Add a passkey</strong> and follow the prompts.</li></ol><br/>
-X says passkeys are currently only rolling out to <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users in the U.S., and hasn't said when the feature will be extended to other platforms and countries. <br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today we’re excited to launch Passkeys as a login option for our US-based users on iOS!<br><br>A passkey is a new, easy to use, and secure way to log in to your account - all from your device. Passkeys are more secure than traditional passwords since they’re individually generated by…</p>&mdash; Safety (@Safety) <a href="https://twitter.com/Safety/status/1749881895641633080?ref_src=twsrc%5Etfw">January 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-X is just one of several companies to implement support for passkeys over the past year, with other supporting apps and websites including Google, PayPal, Best Buy, eBay, Dashlane, and Microsoft.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/twitter/">Twitter</a>, <a href="https://www.macrumors.com/guide/passkeys/">Passkeys</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/x-ios-adds-support-passkeys/">X for iOS Adds Support for Passkeys, Allowing for More Secure Logins</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/x-for-ios-adds-support-for-passkeys-allowing-for-more-secure-logins.2417283/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s Big AI Push Implied By Startup Acquisitions and Job Postings</title>
-		<link>https://www.macrumors.com/2024/01/24/apple-big-ai-push-startup-acquisitions/</link>
-		<comments>https://forums.macrumors.com/threads/apples-big-ai-push-implied-by-startup-acquisitions-and-job-postings.2417281/</comments>
-		<pubDate>Wed, 24 Jan 2024 02:01:28 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/apple-big-ai-push-startup-acquisitions/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Financial Times</category>
-		<category>Artificial Intelligence</category>
-		<category>Apple GPT</category>
-		
-
-		<description><![CDATA[Apple has been quietly making a series of artificial intelligence related acquisitions and staff hires in a bid to bring on-device AI to its next-generation iPhones, claims a new report by the <em><a href="https://www.ft.com/content/52839eb2-6641-42a6-acd7-5d41e809c97a">Financial Times</a></em>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/12/siri-symbol-iphone-feature.jpg" alt="" width="850" height="481" class="aligncenter size-full wp-image-927705" /><br/>
-According to the report, indications suggest Apple has been focusing on "tackling the technological problem of running AI through mobile devices." To that end, it has acquired several AI-related startups, the last one occurring early last year when it purchased California-based WaveOne, which offers AI-powered video compression. <br/>
-<br/>
-According to a recent research note from Morgan Stanley, almost half of Apple's AI job posts have included the term "Deep learning," which relates to the algorithms used to power generative AI. <br/>
-<br/>
-Previous reports have suggested Apple has been testing its <a href="https://www.macrumors.com/2023/07/19/apple-experimenting-with-chatgpt-tool/">"Ajax" large language model</a> (LLM) since early 2023, but in contrast to LLMs like OpenAI's ChatGPT, Apple's primary goal is to develop generative AI that works locally on-device, rather than being powered by cloud services in data centers.<br/>
-<br/>
-The challenge in achieving that aim involves optimizing the LLM while reducing its size, as well as heavier reliance on high-performance mobile hardware and faster Apple silicon chips. For example, Apple is said to be planning a <a href="https://www.macrumors.com/2023/12/07/apple-iphone-16-microphone-upgrade-siri-ai/">significant upgrade</a> to the iPhone 16 microphone to improve a new AI-enhanced Siri experience.<br/>
-<br/>
-Just last month, Apple AI researchers said they have made a <a href="https://www.macrumors.com/2023/12/21/apple-ai-researchers-run-llms-iphones/">key breakthrough</a> in deploying large language models (LLMs) on iPhones and other Apple devices with limited memory by inventing an innovative flash memory utilization technique.<br/>
-<br/>
-Apple is said to be on schedule to announce a series of generative AI-based tools at its Worldwide Developers Conference (WWDC) in June, when iOS 18 will be previewed. Morgan Stanley analysts expect the mobile software will be geared towards enabling generative AI and could include its voice assistant Siri being powered by an LLM.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ft-com/">Financial Times</a>, <a href="https://www.macrumors.com/guide/artificial-intelligence/">Artificial Intelligence</a>, <a href="https://www.macrumors.com/guide/apple-gpt/">Apple GPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/apple-big-ai-push-startup-acquisitions/">Apple&#039;s Big AI Push Implied By Startup Acquisitions and Job Postings</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-big-ai-push-implied-by-startup-acquisitions-and-job-postings.2417281/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases visionOS 1.0.1 Ahead of Vision Pro Launch</title>
-		<link>https://www.macrumors.com/2024/01/23/apple-releases-visionos-1-0-1/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-visionos-1-0-1-ahead-of-vision-pro-launch.2417262/</comments>
-		<pubDate>Tue, 23 Jan 2024 18:20:30 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/23/apple-releases-visionos-1-0-1/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Vision Pro</category>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[While the Vision Pro does not launch until February 2, Apple today released visionOS 1.0.1 for the headset, according to developer <a href="https://twitter.com/nicolas09F9/status/1749976019929321720">Nicolás Álvarez</a>. It's unclear what's new in the software update, as Apple has yet to start publicly sharing visionOS release notes, but the version number suggests that it's likely a minor update with bug fixes.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Blue-Magenta.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-898550" /><br/>
-<a href="https://twitter.com/markgurman/status/1744774909262483693"><em>Bloomberg</em>'s Mark Gurman said</a> that Apple would start shipping Vision Pro review units to selected media personnel following a January 23 meeting, so visionOS 1.0.1 should be available on those headsets as an immediate update out of the box. It could also be a day-one update for the public if initial Vision Pro units ship with visionOS 1.0 installed.<br/>
-<br/>
-visionOS 1.0.1 is the first-ever software update for the Vision Pro, and it has a build number of 21N311, according to Álvarez. Apple will likely unveil a larger visionOS 2.0 update with new features at WWDC in June.<br/>
-<br/>
-<em>(Thanks, <a href="https://twitter.com/aaronp613">Aaron</a>!)</em><div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/23/apple-releases-visionos-1-0-1/">Apple Releases visionOS 1.0.1 Ahead of Vision Pro Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-visionos-1-0-1-ahead-of-vision-pro-launch.2417262/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Received 13 Academy Award Nominations for Killers of the Flower Moon and Napoleon</title>
-		<link>https://www.macrumors.com/2024/01/23/apple-academy-award-nominations-2024/</link>
-		<comments>https://forums.macrumors.com/threads/apple-received-13-academy-award-nominations-for-killers-of-the-flower-moon-and-napoleon.2417249/</comments>
-		<pubDate>Tue, 23 Jan 2024 15:19:09 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/23/apple-academy-award-nominations-2024/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV Plus</category>
-		
-
-		<description><![CDATA[Apple scored <a href="https://www.apple.com/newsroom/2024/01/apple-scores-record-13-academy-award-nominations/">13 Academy Award nominations</a> for <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a> movies Killers of the Flower Moon and Napoleon, doubling its record for Academy Award nominations in a single year.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/08/killers-of-the-flower-moon-apple-tv-plus.jpg" alt="" width="2000" height="1333" class="aligncenter size-full wp-image-810272" /><br/>
-Directed by Martin Scorsese, Killers of the Flower Moon has been nominated for Best Picture, Best Director, Best Actress in a Leading Role (Lily Gladstone), Best Supporting Actor (Robert De Niro), Best Costume Design, Best Production Design, Best Original Score, Best Original Song, Best Film Editing, and Best Cinematography.<br/>
-<br/>
-Scorsese has now received 10 total lifetime Academy Award nominations for Best Director, making him the most-nominated living director.<br/>
-<br/>
-Napoleon, directed by Ridley Scott and starring Joaquin Phoenix, received Academy Award nominations for Best Costume Design, Best Production Design, and Best Visual Effects.<br/>
-<br/>
-Killers of the Flower Moon <a href="https://www.oscars.org/oscars/ceremonies/2024">will compete against</a> movies that include Barbie, Oppenheimer, Past Lives, Poor Things, and Maestro for Best Picture. It was previously nominated for nine BAFTA awards, and was named Best Film of the Year by the National Board of Review.<br/>
-<br/>
-Apple won a 2022 Academy Award for CODA and short film The Boy, the Mole, the Fox, and the Horse.<br/>
-<br/>
-Killers of the Flower Moon is available on &zwnj;Apple TV+&zwnj; now, while Napoleon will be available to stream on &zwnj;Apple TV+&zwnj; in the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV Plus</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/23/apple-academy-award-nominations-2024/">Apple Received 13 Academy Award Nominations for Killers of the Flower Moon and Napoleon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-received-13-academy-award-nominations-for-killers-of-the-flower-moon-and-napoleon.2417249/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases Updated Firmware for First-Generation AirPods Pro and AirPods 2</title>
-		<link>https://www.macrumors.com/2024/01/23/airpods-pro-1-firmware-6a321/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-updated-firmware-for-first-generation-airpods-pro-and-airpods-2.2417229/</comments>
-		<pubDate>Tue, 23 Jan 2024 11:25:33 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/23/airpods-pro-1-firmware-6a321/</guid>
-		<dc:creator>Eric Slivka</dc:creator>
-		<category>AirPods Pro</category>
-		
-
-		<description><![CDATA[Apple today introduced a new firmware update for the first-generation <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> and second-generation AirPods. The new firmware is the same 6A321 version that was released for the <a href="https://www.macrumors.com/2024/01/17/airpods-3-firmware-6a321/">third-generation AirPods last week</a> and is up from the <a href="https://www.macrumors.com/2023/09/12/apple-releases-new-airpods-firmware-2//">6A300 firmware</a> introduced last September.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/11/AirPods-Pro-Firmware-Feature.jpg" alt="" width="2322" height="1306" class="aligncenter size-full wp-image-825981" /><br/>
-Apple's AirPods firmware updates often do not come with details on new features, so it is unclear what might be included in the software. For last week's <a href="https://www.macrumors.com/roundup/airpods/">AirPods 3</a> update with this firmware version, Apple listed only "bug fixes and other improvements."<br/>
-<br/>
-Apple also does not offer instructions on how to upgrade AirPods software, but firmware is generally installed over-the-air while the ‌‌AirPods‌‌ are connected to an iOS device. Putting the ‌‌‌‌‌AirPods‌‌‌‌‌ in the case, connecting the ‌‌‌‌‌AirPods‌‌‌‌‌ to a power source, and then pairing the ‌‌‌‌‌AirPods‌‌‌‌‌ to an iOS device or Mac should force the update.<br/>
-<br/>
-You can check your AirPods or ‌‌‌&zwnj;AirPods Pro&zwnj;‌‌‌‌‌‌‌ firmware version by following these steps:<br/>
-<ul><br/>
- 	<li>Connect your ‌‌‌‌‌‌AirPods to your iOS device.</li><br/>
- 	<li>Open the Settings app.</li><br/>
- 	<li>Tap General.</li><br/>
- 	<li>Tap About.</li><br/>
- 	<li>Tap ‌‌‌‌‌AirPods‌‌‌‌‌.</li><br/>
- 	<li>Look at the number next to "Firmware Version."</li><br/>
-</ul><br/>
-If we learn more about what's new in the AirPods firmware release, we'll update this article.<br/>
-<br/>
-<b>Update 1:50 pm</b>: This article has been updated to note the 6A321 update has also been released for the second-generation AirPods.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/23/airpods-pro-1-firmware-6a321/">Apple Releases Updated Firmware for First-Generation AirPods Pro and AirPods 2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-updated-firmware-for-first-generation-airpods-pro-and-airpods-2.2417229/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Car Autonomous Driving Scaled Down, Launch Planned for 2028</title>
-		<link>https://www.macrumors.com/2024/01/23/apple-car-scaled-down-2028-launch/</link>
-		<comments>https://forums.macrumors.com/threads/apple-car-autonomous-driving-scaled-down-launch-planned-for-2028.2417226/</comments>
-		<pubDate>Tue, 23 Jan 2024 11:02:32 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/23/apple-car-scaled-down-2028-launch/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Car</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple has pivoted to simpler, less ambitious design for the <a href="https://www.macrumors.com/roundup/apple-car/">Apple Car</a> in order to actually bring the vehicle to market, reports <em><a href="https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving">Bloomberg</a></em>. Apple initially wanted a driverless car with full autonomous capabilities, but it is now developing an electric vehicle with fewer features.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-triad.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-774149" /><br/>
-After abandoning the driverless plans, Apple aimed for a car with Level 4 autonomous functionality that would have allowed the car's system to take over driving in limited circumstances such as on highways, but even that was too ambitious. Apple is said to be focusing on driver-assistance features that are closer to how Tesla vehicles operate, and it will have a Level 2+ system. Level 2 autonomous driving includes steering and brake/acceleration support, but the driver remains in control of the car and must pay attention on the road.<br/>
-<br/>
-Despite the scaling back of the project, Apple's launch timeline for the &zwnj;Apple Car&zwnj; has been adjusted. Apple wanted to introduce the car sometime around 2026, but Apple is now targeting a 2028 release at the earliest. According to <em>Bloomberg</em>, this marks a "pivotal moment" for the &zwnj;Apple Car&zwnj;. If the company is not able to deliver an electric vehicle with this feature set, executives may "seriously reconsider the project's existence."<br/>
-<br/>
-Since the &zwnj;Apple Car&zwnj; was unveiled in 2014, the project has shifted and evolved several times. Rumors have at times suggested that Apple had scrapped a car altogether, focusing instead on an autonomous system, but it appears that Apple is sticking with plans to debut a full Apple-branded vehicle.<br/>
-<br/>
-The &zwnj;Apple Car&zwnj; project has been riddled with leadership changes and internal strife over the direction of development. Apple Watch chief Kevin Lynch <a href="https://www.macrumors.com/2021/09/09/kevin-lynch-apple-car-project/">took over the project</a>, and he worked with <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> to adopt a new strategy after pressure from Apple's board. Apple is now meeting with potential partners in Europe to discuss the new plan.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-car/">Apple Car</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-inc-and-tech-industry.8">Apple, Inc and Tech Industry</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/23/apple-car-scaled-down-2028-launch/">Apple Car Autonomous Driving Scaled Down, Launch Planned for 2028</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-car-autonomous-driving-scaled-down-launch-planned-for-2028.2417226/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Launching 2024 Swift Student Challenge on February 5</title>
-		<link>https://www.macrumors.com/2024/01/23/apple-swift-student-challenge-february-5/</link>
-		<comments>https://forums.macrumors.com/threads/apple-launching-2024-swift-student-challenge-on-february-5.2417218/</comments>
-		<pubDate>Tue, 23 Jan 2024 10:14:28 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/23/apple-swift-student-challenge-february-5/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Developer Program</category>
-		<category>Swift Playgrounds</category>
-		
-
-		<description><![CDATA[Apple will begin accepting submissions for its next Swift Student Challenge on Monday, February 5, Apple said today in news provided to developers. Apple <a href="https://www.macrumors.com/2023/11/08/swift-student-challenge-february-2024/">first announced plans</a> for an early 2024 launch in November, giving students plenty of time to prepare.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/swift-student-challenge-2024.jpeg" alt="" width="2048" height="1151" class="aligncenter size-full wp-image-932478" /><br/>
-The Swift Student Challenge tasks students with creating an innovative coding project using the Swift Playgrounds app. Apple plans to select 350 winners for this year's challenge, and there will be a category that recognizes a total of 50 Distinguished Winners for standout submissions.<br/>
-<br/>
-Distinguished Winners will be invited to Apple's headquarters in Cupertino, California, where they will be able to connect with their peers and the Apple team, while all winners will be granted a free one-year membership in the Apple Developer program.<br/>
-<br/>
-Apple has been holding an annual Swift Student Challenge for several years now, but it is typically announced when the dates for WWDC are announced, and past winners have been invited to attend the Worldwide Developers Conference. Apple says that this year's 50 Distinguished Winners will be invited to Cupertino "next summer."<br/>
-<br/>
-When February 5 rolls around, students will have three weeks to submit their app playgrounds to Apple. Apple judges entries on technical accomplishment, creativity of ideas, and content of written responses explaining the project.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-developer-program/">Apple Developer Program</a>, <a href="https://www.macrumors.com/guide/swift-playgrounds/">Swift Playgrounds</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/23/apple-swift-student-challenge-february-5/">Apple Launching 2024 Swift Student Challenge on February 5</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-launching-2024-swift-student-challenge-on-february-5.2417218/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
