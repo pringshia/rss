@@ -14,12 +14,63 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 24 Jan 2024 12:03:06 PST</lastBuildDate>
+	<lastBuildDate>Wed, 24 Jan 2024 16:11:26 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Releases Safari Technology Preview 187 With Bug Fixes and Performance Improvements</title>
+		<link>https://www.macrumors.com/2024/01/24/apple-releases-safari-technology-preview-187/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-187-with-bug-fixes-and-performance-improvements.2417332/</comments>
+		<pubDate>Wed, 24 Jan 2024 14:59:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/apple-releases-safari-technology-preview-187/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Blurb</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser Apple <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed the &zwnj;Safari Technology Preview&zwnj; to test features that may be introduced into future release versions of Safari.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-785724" src="https://images.macrumors.com/article-new/2021/02/Safari-Technology-Preview-Feature.jpg" alt="" width="2368" height="1332" /><br/>
+&zwnj;Safari Technology Preview&zwnj; 187 includes fixes and updates for Accessibility, Animations, CSS, Forms, Rendering, Scrolling, Storage, SVG, Web API, and WebGL.<br/>
+<br/>
+The current &zwnj;Safari Technology Preview&zwnj; release is compatible with machines running macOS Ventura and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, the latest version of macOS that Apple released in September 2023.<br/>
+<br/>
+The &zwnj;Safari Technology Preview&zwnj; update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has <a href="https://developer.apple.com/safari/download/">downloaded the browser</a>. Full release notes for the update are available <a href="https://developer.apple.com/safari/technology-preview/release-notes/">on the Safari Technology Preview website</a>.<br/>
+<br/>
+Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback from developers and users on its browser development process. &zwnj;Safari Technology Preview&zwnj; can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/apple-releases-safari-technology-preview-187/">Apple Releases Safari Technology Preview 187 With Bug Fixes and Performance Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-187-with-bug-fixes-and-performance-improvements.2417332/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple to Get TSMC&#039;s First 2-Nanometer Chips</title>
+		<link>https://www.macrumors.com/2024/01/24/apple-tsmc-first-2nm-chips/</link>
+		<comments>https://forums.macrumors.com/threads/apple-to-get-tsmcs-first-2-nanometer-chips.2417323/</comments>
+		<pubDate>Wed, 24 Jan 2024 12:19:25 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/apple-tsmc-first-2nm-chips/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>TSMC</category>
+		<category>2nm</category>
+		
+
+		<description><![CDATA[Apple will be the first company to receive chips built on the TSMC's future 2-nanometer process, <em><a href="https://www.macrumors.com/guide/digitimes-com/">DigiTimes</a></em> said today. According to sources that spoke to the site, Apple is "widely believed to be the initial client to utilize the process."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/10/Apple-Silicon-Teal-Feature.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-767478" /><br/>
+The report comes from <em>&zwnj;DigiTimes&zwnj;</em> "Tomorrow's Headlines" alert, so additional details may be available in the full news story.<br/>
+<br/>
+TSMC is expected to begin producing 2nm chips starting in the second half of 2025. Terms like "<a href="https://www.macrumors.com/guide/3nm/">3nm</a>" and "2nm" refer to the specific architecture and design rules TSMC is using for a family of chips. Decreases in node size correspond to a smaller transistor size, so more transistors can fit on a processor, leading to boosts in speed and more efficient power consumption.<br/>
+<br/>
+This year, Apple adopted 3-nanometer chips for its iPhones and Macs. Both the A17 Pro chip in the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models and the M3 series chips in Macs are built on the 3-nanometer node, an upgrade over the prior 5nm node. The jump from 5nm technology to &zwnj;3nm&zwnj; technology brought notable 20 percent faster GPU speeds, 10 percent faster CPU speed, and a 2x faster Neural Engine to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, and similar improvements on Macs.<br/>
+<br/>
+TSMC is building two new facilities to accommodate 2nm chip production, and working on approval for a third. TSMC generally builds new fabs when it needs to increase production capacity to handle significant orders for chips, and TSMC is expanding in a major way for 2nm technology. The transition to 2nm will see TSMC adopting GAAFET (gate-all-around field-effect transistors) with nanosheets instead of FinFET, so the manufacturing process will be more complex. GAAFETs allow for faster speeds with a smaller transistor size and lower operational voltage.<br/>
+<br/>
+TSMC is spending billions on the change, and Apple will also need to make chip design changes to accommodate the new technology. Apple is TSMC's main client, and it is typically the first to get TSMC's new chips. Apple acquired <a href="https://www.macrumors.com/2023/08/29/apple-buys-all-3nm-tsmc-chips-2023/">all of TSMC's 3-nanometer chips</a> in 2023 for iPhones, iPads, and Macs, for example.<br/>
+<br/>
+In between the &zwnj;3nm&zwnj; and 2nm nodes, TSMC will introduce several new &zwnj;3nm&zwnj; improvements. TSMC has already come out with N3E and N3P chips that are enhanced &zwnj;3nm&zwnj; processes, and there are other chips in the works such as N3X for high performance computing and N3AE for automotive applications.<br/>
+<br/>
+Rumors suggest that TSMC is already starting work on <a href="https://www.macrumors.com/2024/01/15/next-gen-chip-technology-on-track-for-2025/">more advanced 1.4-nanometer chips</a>, which are expected to come out as soon as 2027. Apple is said to be looking to reserve TSMC's initial manufacturing capabilities for both 1.4nm and 1nm technologies.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tsmc/">TSMC</a>, <a href="https://www.macrumors.com/guide/2nm/">2nm</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/apple-tsmc-first-2nm-chips/">Apple to Get TSMC&#039;s First 2-Nanometer Chips</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-get-tsmcs-first-2-nanometer-chips.2417323/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Jon Stewart Returning to &#039;The Daily Show&#039; After Apple TV+ Series Cancelation</title>
@@ -491,64 +542,6 @@ Lastly, Amazon has the higher-end M2 Pro Mac mini for <a href="https://buy.geni.
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHFS6XX%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;149 OFF</div>M2 Pro Mac mini (512GB) for &#36;1,149.99</div></a></div><br/>
 <br/>
 Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/23/apples-m2-mac-mini-new-low-price/">Amazon Takes Up to &#36;149 Off Apple&#039;s M2 Mac Mini, Including New Low Price on 512GB Model</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-takes-up-to-149-off-apples-m2-mac-mini-including-new-low-price-on-512gb-model.2417205/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone Accessory Discounts Include &#36;15 Off AirTag 4-Pack, &#36;30 Off MagSafe Duo Charger, and Up to &#36;36 Off Official iPhone Cases</title>
-		<link>https://www.macrumors.com/2024/01/23/iphone-accessory-discounts/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-accessory-discounts-include-15-off-airtag-4-pack-30-off-magsafe-duo-charger-and-up-to-36-off-official-iphone-cases.2417201/</comments>
-		<pubDate>Tue, 23 Jan 2024 07:37:02 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/23/iphone-accessory-discounts/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Today we're tracking a couple of deals on iPhone accessories that you can find on Amazon, including low prices on official iPhone cases, AirTags, and the MagSafe Duo Charger.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/07/airtag-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-903337" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Starting with the AirTag 4-Pack, Amazon has this accessory for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0932QJ2JZ"><strong>&#36;84.99</strong></a>, down from &#36;99.00. This isn't as low as we saw over the holiday season, but it's a solid second-best price on the Bluetooth trackers.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0932QJ2JZ"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;15 OFF</div>AirTag 4-Pack for &#36;84.99</div></a></div><br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/11/magsafe-duo-perspective-feature.jpg" alt="" width="1332" height="750" class="aligncenter size-full wp-image-770700" /><br/>
-Amazon also has the MagSafe Duo Charger for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB08MWR2NXZ"><strong>&#36;98.50</strong></a>, down from &#36;129.00. This is about &#36;1 higher than the previous all-time low price for the accessory on Amazon, so it's still a great deal. The MagSafe Duo Charger can simultaneously charge an iPhone via MagSafe and an Apple Watch.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB08MWR2NXZ"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;30 OFF</div>MagSafe Duo Charger for &#36;98.50</div></a></div><br/>
-<br/>
-Finally, Amazon has a collection of Apple's FineWoven and Silicone Cases for the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max. You can find these for as low as &#36;21.70 right now on Amazon, and no coupon codes are required to get these deals.<br/>
-<br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-FineWoven-Case-MagSafe%2Fdp%2FB0CHX3T1WX%3Fref_%3Dast_sto_dp%26th%3D1">iPhone 15 FineWoven Case</a> - &#36;22.90, down from &#36;59.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-Silicone-Case-MagSafe%2Fdp%2FB0CHX1652P%3Fref_%3Dast_sto_dp%26th%3D1">iPhone 15 Silicone Case</a> - &#36;21.70, down from &#36;49.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-Plus-FineWoven-Case-MagSafe%2Fdp%2FB0CHX9FJTK%3Fref_%3Dast_sto_dp%26th%3D1">iPhone 15 Plus FineWoven Case</a> - &#36;33.09, down from &#36;59.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-Plus-Silicone-Case-MagSafe%2Fdp%2FB0CHX47H6D%3Fref_%3Dast_sto_dp%26th%3D1">iPhone 15 Plus Silicone Case</a> - &#36;21.17, down from &#36;49.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-Pro-Silicone-Case-MagSafe%2Fdp%2FB0CHWV4V75%3Fref_%3Dast_sto_dp%26th%3D1">iPhone 15 Pro Silicone Case</a> - &#36;34.36, down from &#36;49.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-Pro-Max-FineWoven-Case-MagSafe%2Fdp%2FB0CHX1HZST%3Fref_%3Dast_sto_dp%26th%3D1">iPhone 15 Pro Max FineWoven Case</a> - &#36;51.99, down from &#36;59.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-Pro-Max-Silicone-Case-MagSafe%2Fdp%2FB0CHWVCV1Y%3Fref_%3Dast_sto_dp%26th%3D1">iPhone 15 Pro Max Silicone Case</a> - &#36;34.23, down from &#36;49.00</li></ul> Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/23/iphone-accessory-discounts/">iPhone Accessory Discounts Include &#36;15 Off AirTag 4-Pack, &#36;30 Off MagSafe Duo Charger, and Up to &#36;36 Off Official iPhone Cases</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-accessory-discounts-include-15-off-airtag-4-pack-30-off-magsafe-duo-charger-and-up-to-36-off-official-iphone-cases.2417201/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 17.4 Coming Soon as iPhone App Sideloading Deadline in EU Nears</title>
-		<link>https://www.macrumors.com/2024/01/23/ios-17-4-coming-soon/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-4-coming-soon-as-iphone-app-sideloading-deadline-in-eu-nears.2417196/</comments>
-		<pubDate>Tue, 23 Jan 2024 07:11:36 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/23/ios-17-4-coming-soon/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple has until March 6 to fully comply with the EU's Digital Markets Act, which among other things will require the company to allow iPhone users to install apps outside of the App Store. With the deadline for this regulation fast approaching, it is likely that Apple will begin preparing for these changes with iOS 17.4.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-JoeBlue.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-833073" /><br/>
-The first iOS 17.4 beta is expected to be released as early as this week, although it is unclear if the app-related changes will be rolled out for testing immediately, or held for later beta versions. Apple is expected to add support for both third-party app stores and app sideloading on the iPhone for users in <a href="https://european-union.europa.eu/principles-countries-history/country-profiles_en">EU countries</a>, including Austria, Belgium, Italy, France, Germany, the Netherlands, Spain, Sweden, and others.<br/>
-<br/>
-Apple has <a href="https://www.macrumors.com/2021/10/13/apple-says-sideloading-makes-android-less-safe/">strongly</a> <a href="https://www.macrumors.com/2023/11/17/apple-files-legal-challenge-against-eu/">opposed</a> the Digital Markets Act and app sideloading over the past few years, citing privacy and security risks for customers. At a tech conference in 2021, <a href="https://www.macrumors.com/2021/06/16/tim-cook-vivatech-conference-interview/">Apple CEO Tim Cook said</a> app sideloading "would destroy the security of the iPhone and a lot of the privacy initiatives that we've built into the App Store."<br/>
-<br/>
-Apple will likely do the minimum required to comply with the Digital Markets Act, which may lead to several limitations and guardrails surrounding third-party app stores and app sideloading on the iPhone. We've seen Apple do similar with legal compliance in the U.S., where it recently allowed developers to direct customers to payment methods outside of the ‌App Store‌, but is <a href="https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/">still collecting up to a 27% commission</a> and has several rules.<br/>
-<br/>
-There are other changes coming to the iPhone in Europe as a result of regulatory pressures. Earlier this week, the European Commission announced that Apple has promised to give third-party payment apps <a href="https://www.macrumors.com/2024/01/20/apple-offers-to-open-nfc-in-europe/">access to the iPhone's NFC chip in the EU, Iceland, Liechtenstein, and Norway</a>, which should result in more competition for Apple Pay. It's unclear when Apple will implement this change, but it is likely further away than app sideloading.<br/>
-<br/>
-We will be digging into iOS 17.4 as soon as it is released, so stay tuned for a closer look at any new features and code changes.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/23/ios-17-4-coming-soon/">iOS 17.4 Coming Soon as iPhone App Sideloading Deadline in EU Nears</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-4-coming-soon-as-iphone-app-sideloading-deadline-in-eu-nears.2417196/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
