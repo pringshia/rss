@@ -14,12 +14,224 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 25 Jan 2024 12:03:07 PST</lastBuildDate>
+	<lastBuildDate>Thu, 25 Jan 2024 16:11:00 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple&#039;s EU Core Technology Fee Could Bankrupt Freemium App Developers</title>
+		<link>https://www.macrumors.com/2024/01/25/apple-eu-fees-could-bankrupt-app-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apples-eu-core-technology-fee-could-bankrupt-freemium-app-developers.2417464/</comments>
+		<pubDate>Thu, 25 Jan 2024 15:52:23 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/apple-eu-fees-could-bankrupt-app-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[App developers in the European Union who choose to opt in to Apple's new business terms must pay an €0.50 "<a href="https://developer.apple.com/support/core-technology-fee/">Core Technology Fee</a>" or CTF for every app install over one million installs, a model that has the potential to bankrupt free or freemium app developers.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/app-store-fees-eu.jpg" alt="" width="2856" height="1607" class="aligncenter size-full wp-image-932868" /><br/>
+Apple does not charge for the first one million "first annual installs" per iOS account each year, but after that, developers will begin racking up charges. A free or freemium app that goes "viral" and is downloaded more than one million times could be forced to pay astronomical fees, as <a href="https://mastodon.social/@stroughtonsmith/111818345294643786">demonstrated in estimates</a> shared by developer Steve Troughton-Smith.<br/>
+<br/>
+<div class="center-wrap"><iframe src="https://mastodon.social/@stroughtonsmith/111818345294643786/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script></div><br/>
+Under Apple's new business terms, a free or freemium app that gets two million annual "first installs" would need to pay an estimated &#36;45,290 in fees per month according to <a href="https://developer.apple.com/support/fee-calculator-for-apps-in-the-eu/">Apple's fee calculator</a>, or more than half a million dollars per year, even if no money is earned.<br/>
+<br/>
+That's an unsustainable model for free apps, and freemium apps would need to be earning at least €0.50 per user to break even with the fee. A freemium app with thousands of installs from non-paying users could end up owing far more than is made. Developers will likely need to charge up front to ensure their apps make enough money to pay the CTF, as offering a free-to-download app could be risky if downloads exceed 1 million.<br/>
+<br/>
+Free and freemium app developers can, however, choose to stick with Apple's current <a href="https://www.macrumors.com/guide/app-store/">App Store</a> business terms instead of opting for the new terms. In that situation, nothing would change, and app developers would continue to pay a 15 to 30 percent commission to Apple.<br/>
+<br/>
+The €0.50 CTF applies to apps distributed both through the &zwnj;App Store&zwnj; and through alternative app stores if developers choose the new business terms. With the &zwnj;App Store&zwnj;, developers are charged the €0.50 fee and must pay a 10 to 17 percent commission to Apple. With an alternative app store, there is no commission. Fees can be estimated for the existing terms and the new terms <a href="https://developer.apple.com/support/fee-calculator-for-apps-in-the-eu/">through a dedicated calculator</a> that Apple has provided to developers. <br/>
+<br/>
+Here's a breakdown of the available options:<br/>
+<ul><br/>
+ 	<li><strong>Current App Store Agreement</strong> - Developers pay Apple a 15 to 30 percent commission. Under one million in revenue is a 15 percent commission through the &zwnj;App Store&zwnj; Small Business Program, over &#36;1 million results in a 30 percent commission. Subscriptions require a 30 percent commission for the first year, and a 15 percent commission for the second year and beyond.</li><br/>
+ 	<li><strong>New terms, App Store distribution</strong> - Commission drops to 17 percent from 30 percent, and 10 percent from 15 percent. There is an additional fee of 3 percent for using Apple's payment system, so the commission would be between 13 and 20 percent for a developer that opts for the new rules and uses in-app purchases. The 3 percent fee does not apply for developers who use alternative payment systems. Developers must also pay €0.50 per app install per user each year after 1 million app installs.</li><br/>
+ 	<li><strong>New terms, alternative app store distribution</strong> - No commission, but developers must pay €0.50 per app install per user annually after 1 million app installs.</li><br/>
+</ul><br/>
+According to Apple, the CTF is applied for the first annual install, which is the first time an app is installed by an account in the EU in a 12-month period. After the first annual install, the app can be installed any number of times by the same account for the next 12 months with no charge.<br/>
+<br/>
+Apple is waiving the fee for nonprofit organizations, accredited educational institutions, and government entities that are approved for a fee waiver.<br/>
+<br/>
+Apple's Core Technology Fee could also be prohibitively expensive for apps like Spotify that have millions of users. An app that makes &#36;10 million in sales through the &zwnj;App Store&zwnj; with 10 million "first installs" (aka, a 0.99 price) will need to pay Apple over &#36;500k per month.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Under the App Store&#39;s new fee structure for Europe, if you make &#36;10 million in sales, Apple&#39;s cut is &#36;6.2 million annually.<br><br>Assuming you have no operating costs or salaries, your take home amount: <br>&#36;2 million after tax—or 20% of your sales<br><br>I will never launch an app in Europe. <a href="https://t.co/MUCxVHcHOo">pic.twitter.com/MUCxVHcHOo</a></p>&mdash; Nikita Bier (@nikitabier) <a href="https://twitter.com/nikitabier/status/1750592825060921353?ref_src=twsrc%5Etfw">January 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+The EU app ecosystem changes are included in iOS 17.4, and developers who opt for Apple's new system will need to start paying fees starting in March when the update launches to the public.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/apple-eu-fees-could-bankrupt-app-developers/">Apple&#039;s EU Core Technology Fee Could Bankrupt Freemium App Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-eu-core-technology-fee-could-bankrupt-freemium-app-developers.2417464/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Expands Analytics Available to Developers as Part of App Store Changes</title>
+		<link>https://www.macrumors.com/2024/01/25/apple-developer-analytics-expansion/</link>
+		<comments>https://forums.macrumors.com/threads/apple-expands-analytics-available-to-developers-as-part-of-app-store-changes.2417459/</comments>
+		<pubDate>Thu, 25 Jan 2024 14:51:48 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/apple-developer-analytics-expansion/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Developer Program</category>
+		
+
+		<description><![CDATA[As part of the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> changes being enabled in Europe, Apple is providing all developers worldwide with updated analytics information.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/09/apple-developer-banner.jpeg" alt="" width="1024" height="572" class="aligncenter size-full wp-image-757303" /><br/>
+More than 50 new reports are available through the &zwnj;App Store&zwnj; Connect API to help developers analyze their app performance. Some of the new metrics:<br/>
+<ul><br/>
+ 	<li><strong>Engagement</strong> - Apple is offering additional insight into the number of users on the &zwnj;App Store&zwnj; that interact with a developer's app or share it with other people.</li><br/>
+ 	<li><strong>Commerce</strong> - Developers can get more information on downloads, sales and proceeds, pre-orders, and transactions made with the In-App Purchase system.</li><br/>
+ 	<li><strong>App Usage</strong> - Apple now provides more information on crashes, active devices, installs, app deletions, and more.</li><br/>
+ 	<li><strong>Frameworks Usage</strong> - Developers can get info on their app's interaction with iOS features like <a href="https://www.macrumors.com/guide/home-screen/">Widgets</a>, <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a>, and PhotoPicker.</li><br/>
+</ul><br/>
+As it does with current reports, Apple will anonymize the data that is used in the new report options. Developers will be able to grant third-party access to their performance reports.<br/>
+<br/>
+More information about report details and access will be provided to developers in March.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-developer-program/">Apple Developer Program</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/apple-developer-analytics-expansion/">Apple Expands Analytics Available to Developers as Part of App Store Changes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-expands-analytics-available-to-developers-as-part-of-app-store-changes.2417459/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>This is How Notarization Will Work for iOS Apps Distributed Through Alternative App Stores</title>
+		<link>https://www.macrumors.com/2024/01/25/alternative-app-store-notarization-process/</link>
+		<comments>https://forums.macrumors.com/threads/this-is-how-notarization-will-work-for-ios-apps-distributed-through-alternative-app-stores.2417454/</comments>
+		<pubDate>Thu, 25 Jan 2024 14:22:09 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/alternative-app-store-notarization-process/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>App Store</category>
+		<category>European Union</category>
+		
+
+		<description><![CDATA[Apps that are distributed through alternative app stores in EU countries will need to <a href="https://developer.apple.com/support/dma-and-apps-in-the-eu#ios-app-eu">submit to a notarization process</a> that's similar to the notarization process for Mac apps. According to Apple, Notarization applies to all apps, and it is a process focused on privacy, security, and maintaining device integrity.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/ios-app-store-notarization-eu.jpg" alt="" width="2124" height="1195" class="aligncenter size-full wp-image-932861" /><br/>
+Apple is aiming to ensure that apps do not have viruses, malware, or other security threats, and that they function as promised without exposing users to "egregious fraud."<br/>
+<br/>
+Notarization will check for the following:<br/>
+<ul><br/>
+ 	<li><strong>Accuracy</strong> - Apps are required to accurately represent the developer, capabilities, and costs to users.</li><br/>
+ 	<li><strong>Functionality</strong> - Binaries must be reviewable, free of serious bugs or crashes, and compatible with the current version of iOS. Software or hardware cannot be manipulated in ways that negatively impact the user experience.</li><br/>
+ 	<li><strong>Safety</strong> - Apps cannot promote physical harm of the user or public.</li><br/>
+ 	<li><strong>Security</strong> - Apps cannot enable distribution of malware, or suspicious or unwanted software. They also cannot download executable code, read outside of the container, or direct users to lower the security on their system or device. Apps also must provide transparency and allow user consent to enable access to the system or device, or to reconfigure the system or other software.</li><br/>
+ 	<li><strong>Privacy</strong> - Apps cannot collect or transmit private, sensitive data without a user's knowledge or in a manner contrary to the stated purpose of the software.</li><br/>
+</ul><br/>
+The malware and virus portion of the notarization process will be automatic, but there will also be a human review to make sure that apps are functioning as advertised.<br/>
+<br/>
+Apple plans to encrypt and sign all iOS apps intended for alternative distribution to ensure that users are getting apps from known parties and to protect developers' intellectual property.<br/>
+<br/>
+Notarized apps will be double checked during installation to ensure that they have not been tampered with and that installation was initiated through an authorized web browser. An iOS app that is found to have known malware after it's been installed will be prevented from launching on a user's device and new installations will be revoked.<br/>
+<br/>
+Compared to the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> review process, Notarization will not check apps for quality or content. Apple's &zwnj;App Store&zwnj; rules do not allow for content that is "offensive, insensitive, upsetting, intended to disgust, in exceptionally poor taste, or just plain creepy," and this content guideline will not apply to apps installed through alternative stores.<br/>
+<br/>
+Information from Notarization will be used for app installation sheets that will be presented to end users. Apple will offer at-a-glance information about apps and their functionality that users can review before deciding to install an app through an alternate app store.<br/>
+<br/>
+According to Apple, the Notarization system is aimed at providing "basic protections" that will reduce "some of the new risks" that are created by alternative app distribution. Apple says that it will not set the "same high bar for privacy and security" as the &zwnj;App Store&zwnj; review process.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/alternative-app-store-notarization-process/">This is How Notarization Will Work for iOS Apps Distributed Through Alternative App Stores</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/this-is-how-notarization-will-work-for-ios-apps-distributed-through-alternative-app-stores.2417454/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Now Allows Developers to Request Access to Additional iPhone Hardware and Software Features</title>
+		<link>https://www.macrumors.com/2024/01/25/apple-interoperability-request-form/</link>
+		<comments>https://forums.macrumors.com/threads/apple-now-allows-developers-to-request-access-to-additional-iphone-hardware-and-software-features.2417451/</comments>
+		<pubDate>Thu, 25 Jan 2024 13:47:42 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/apple-interoperability-request-form/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[To comply with the EU's Digital Markets Act, Apple has <a href="https://developer.apple.com/support/ios-interoperability/">introduced</a> a new <a href="https://developer.apple.com/contact/request/interoperability/">request form</a> that allows developers of iOS apps distributed in the EU to request additional interoperability with iPhone hardware and software features.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-General-Feature-Black.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-912514" /><br/>
+Apple already offers developers more than 250,000 APIs, enabling them to access iPhone features and frameworks such as cameras, microphones, Bluetooth, HealthKit, SiriKit, and much more. Now, developers can request access to additional iPhone features and technologies for use in their apps in the EU, as they see fit.<br/>
+<br/>
+Apple says it will evaluate interoperability requests on a case-by-case basis, and release additional APIs in future iOS versions as necessary. Apple says requests must be technically feasible and adhere to the Digital Markets Act.<br/>
+<br/>
+It's unclear how many of these requests Apple will approve, if any.<br/>
+<br/>
+Apple is already making the NFC chip in iPhones <a href="https://www.macrumors.com/2024/01/25/apple-nfc-third-party-apps-eu/">accessible to third-party payment and wallet apps</a> in the EU, along with Iceland, Liechtenstein, and Norway, which will provide users with alternatives to Apple Pay and the Apple Wallet. This change was introduced with iOS 17.4, which is <a href="https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/">available in beta now</a> and will be released in March.<br/>
+<br/>
+The <a href="https://developer.apple.com/contact/request/interoperability/">request form</a> and <a href="https://developer.apple.com/support/ios-interoperability/">additional details</a> can be found on Apple's website.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/apple-interoperability-request-form/">Apple Now Allows Developers to Request Access to Additional iPhone Hardware and Software Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-allows-developers-to-request-access-to-additional-iphone-hardware-and-software-features.2417451/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>These Are the Countries Where You Can Install Apps Outside of the iOS App Store</title>
+		<link>https://www.macrumors.com/2024/01/25/eu-countries-alternative-app-stores-available/</link>
+		<comments>https://forums.macrumors.com/threads/these-are-the-countries-where-you-can-install-apps-outside-of-the-ios-app-store.2417447/</comments>
+		<pubDate>Thu, 25 Jan 2024 13:30:58 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/eu-countries-alternative-app-stores-available/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>App Store</category>
+		<category>European Union</category>
+		<category>European Commission</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/">completely overhauled its app system</a>, introducing changes that allow developers to distribute their apps through alternative app stores and use alternative methods of payment in iOS 17.4. Unfortunately, these changes are limited to countries that are in the European Union, and they won't be implemented worldwide.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/App-Store-vs-EU-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932826" /><br/>
+There are 27 EU countries: Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden.<br/>
+<br/>
+Options to install apps through alternative app stores will only be available in the countries listed above, and elsewhere in the world, there will be no changes to how apps are installed and distributed.<br/>
+<br/>
+Apple said that it is limiting these changes to the EU because the company is concerned about how alternative app stores and payment methods will impact user privacy and security. Apple claims that users are now at risk for being exposed to malware, illicit and questionable app content, pirated software, scams, and fraud.<br/>
+<br/>
+The updates to the iOS app ecosystem were mandated by Europe's Digital Markets Act, which Apple must comply with by March 6, 2024. If Apple did not change its app rules, it could have faced significant fines levied by the European Commission.<br/>
+<br/>
+Given Apple's concerns over user privacy and security, the company is unlikely to implement similar changes worldwide without being forced to by similar legislation from other countries. Note that these features are tied to the iOS 17.4 beta that was released today. Apple plans to release iOS 17.4 in March.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/european-commission/">European Commission</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/eu-countries-alternative-app-stores-available/">These Are the Countries Where You Can Install Apps Outside of the iOS App Store</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/these-are-the-countries-where-you-can-install-apps-outside-of-the-ios-app-store.2417447/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Fortnite to Return to iOS in Europe Following App Store Changes</title>
+		<link>https://www.macrumors.com/2024/01/25/fortnite-returning-to-ios-in-europe/</link>
+		<comments>https://forums.macrumors.com/threads/fortnite-to-return-to-ios-in-europe-following-app-store-changes.2417444/</comments>
+		<pubDate>Thu, 25 Jan 2024 12:57:48 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/fortnite-returning-to-ios-in-europe/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Epic Games</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a> plans to bring its &zwnj;Epic Games&zwnj; Store to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> under Apple's new alternative app store policy in the European Union, &zwnj;Epic Games&zwnj; announced today.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/08/fortnite_apple_featured.jpg" alt="" width="2140" height="1204" class="aligncenter size-full wp-image-754674" /><br/>
+The &zwnj;Epic Games&zwnj; Store will include popular game Fortnite, which means &zwnj;iPhone&zwnj; and &zwnj;iPad&zwnj; users will be able to install and play the title without having to use a cloud gaming service. Fortnite has been banned from the iOS <a href="https://www.macrumors.com/guide/app-store/">App Store</a> for the last several years due to the legal dispute between Apple and &zwnj;Epic Games&zwnj;.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fortnite will return to iOS in Europe in 2024, distributed by the upcoming <a href="https://twitter.com/EpicGames?ref_src=twsrc%5Etfw">@EpicGames</a> Store for iOS. Stay tuned for details as we figure out the regulatory timeline. We&#39;ll continue to argue to the courts and regulators that Apple is breaking the law. <a href="https://t.co/MHh6EGVinC">https://t.co/MHh6EGVinC</a></p>&mdash; Epic Games Newsroom (@EpicNewsroom) <a href="https://twitter.com/EpicNewsroom/status/1750616436957933711?ref_src=twsrc%5Etfw">January 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Even as Epic is planning for an &zwnj;Epic Games&zwnj; app store on iOS, Epic CEO Tim Sweeney has been criticizing Apple's planned changes. Sweeney said that Apple's &zwnj;App Store&zwnj; changes are a "devious new instance of malicious compliance" and are aimed at thwarting the Digital Markets Act.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Apple&#39;s plan to thwart Europe&#39;s new Digital Markets Act law is a devious new instance of Malicious Compliance.<br><br>They are forcing developers to choose between App Store exclusivity and the store terms, which will be illegal under DMA, or accept a new also-illegal anticompetitive…</p>&mdash; Tim Sweeney (@TimSweeneyEpic) <a href="https://twitter.com/TimSweeneyEpic/status/1750589570880516402?ref_src=twsrc%5Etfw">January 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Apple is charging an 0.50 euro fee per user per year for apps installed outside of the &zwnj;App Store&zwnj;, but there are no &zwnj;App Store&zwnj; commissions or in-app fees. While Apple is waiving fees for the first one million installs, the 0.50 per user fee will cost app developers like &zwnj;Epic Games&zwnj; a notable amount of money. Sweeney called Apple's payment "junk fees."<br/>
+<br/>
+Sweeney also criticizes Apple for the notarization process that will potentially allow it to reject alternative app stores from iOS. He claims that Apple could block Epic from launching an &zwnj;Epic Games&zwnj; Store and distributing Fortnite through it, but there have been no signs that Apple would do so.<br/>
+<br/>
+&zwnj;Epic Games&zwnj; is "determined" to launch on iOS and compete with the &zwnj;App Store&zwnj;, said Sweeney, and while &zwnj;Epic Games&zwnj; is planning for a store on iOS, the company says it will continue to "argue to the courts and regulators that Apple is breaking the law."<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/fortnite-returning-to-ios-in-europe/">Fortnite to Return to iOS in Europe Following App Store Changes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/fortnite-to-return-to-ios-in-europe-following-app-store-changes.2417444/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Upcoming iPad Pro Could Feature Landscape Face ID Camera</title>
+		<link>https://www.macrumors.com/2024/01/25/ipad-pro-landscape-face-id-camera/</link>
+		<comments>https://forums.macrumors.com/threads/upcoming-ipad-pro-could-feature-landscape-face-id-camera.2417442/</comments>
+		<pubDate>Thu, 25 Jan 2024 12:45:51 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/ipad-pro-landscape-face-id-camera/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple's upcoming <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> is likely to include a landscape <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> camera, according to code in iOS 17.4 discovered by <a href="https://twitter.com/stevemoser?lang=en"><em>MacRumors</em> contributor Steve Moser</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/10/ipad-pro-pink.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-870696" /><br/>
+"During &zwnj;Face ID&zwnj; setup, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> needs to be in landscape with the camera at the top of the screen," reads the code.<br/>
+<br/>
+With the 10th-generation &zwnj;iPad&zwnj;, Apple relocated the front-facing camera to the side of the device so that it would be usable in landscape mode rather than portrait mode, and it appears that Apple is making this change with future iPads as well.<br/>
+<br/>
+The &zwnj;iPad Pro&zwnj; is the only &zwnj;iPad&zwnj; model that has &zwnj;Face ID&zwnj; at the current time, so the code suggests that Apple is relocating the front-facing camera from the top of the device to the side. Apple could, however, be adding &zwnj;Face ID&zwnj; to the <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a>, so it is also possible that this change applies to that device.<br/>
+<br/>
+Apple has long positioned the &zwnj;iPad Pro&zwnj; as an alternative to the Mac, and as a Mac replacement, it is often used in a horizontal orientation rather than a vertical orientation, so relocating the camera makes sense.<br/>
+<br/>
+Rumors suggest that Apple will introduce new &zwnj;iPad Air&zwnj; and &zwnj;iPad Pro&zwnj; models as soon as April.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/ipad-pro-landscape-face-id-camera/">Upcoming iPad Pro Could Feature Landscape Face ID Camera</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/upcoming-ipad-pro-could-feature-landscape-face-id-camera.2417442/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Limiting Alternative App Stores and Payments to EU Due to Malware, Fraud and Scam Risks</title>
@@ -157,9 +369,7 @@ These cloud gaming apps will allow iPhone and iPad users to stream games from se
 <br/>
 "Developers can now submit a single app with the capability to stream all of the games offered in their catalog," reads Apple's announcement.<br/>
 <br/>
-Streaming game apps will need to maintain an age rating of the highest age-rated content included in the app, and the apps will of course also need to respect all of the latest App Store Review Guidelines, according to Apple.<br/>
-<br/>
-Apple also announced that mini-apps, mini-games, chatbots, and plug-ins will be able to use Apple's in-app purchase system for digital content and services worldwide. For example, Apple says users could subscribe to an individual chatbot.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/app-store/">App Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/apple-allows-game-streaming-apps-on-app-store/">Apple Now Allows Game Streaming Apps on App Store Worldwide</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-allows-game-streaming-apps-on-app-store-worldwide.2417422/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Streaming game apps will need to maintain an age rating of the highest age-rated content included in the app, and the apps will of course also need to respect all of the latest App Store Review Guidelines, according to Apple.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/app-store/">App Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/apple-allows-game-streaming-apps-on-app-store/">Apple Now Allows Game Streaming Apps on App Store Worldwide</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-allows-game-streaming-apps-on-app-store-worldwide.2417422/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -174,7 +384,7 @@ Apple also announced that mini-apps, mini-games, chatbots, and plug-ins will be 
 
 		<description><![CDATA[Apple today announced major changes to its app ecosystem in the European Union, implementing updates that will allow <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> users to download and install apps outside of the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> through alternative app marketplaces.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-JoeBlue.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-833073" /><br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/BAzqrT_hZwA?si=qxN6_mCoQBlHyxPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
 Alternative app marketplaces will function as an iOS app that is able to install other iOS apps on an &zwnj;iPhone&zwnj; or &zwnj;iPad&zwnj;. Any developer can create an app marketplace, so long as they meet Apple's criteria for customer experience, fraud prevention, customer support, and more. Apple is creating new APIs to build marketplaces on iOS to distribute apps to users. <br/>
 <br/>
 In the EU, when an app developer submits an app to Apple for distribution, they can choose the &zwnj;App Store&zwnj; or any alternative app marketplaces. This includes distribution through multiple alternative app marketplaces or through both the &zwnj;App Store&zwnj; and an app marketplace. <br/>
@@ -368,172 +578,6 @@ According to a report from <a href="https://www.yazhouribao.com/view/20240123075
 The scaling back of the order suggests that Apple is now planning to sell fewer new &zwnj;iPad Pro&zwnj; models than it initially expected. Some reports have suggested that OLED display technology will make the ‌&zwnj;iPad Pro&zwnj;‌ models <a href="https://www.macrumors.com/2023/03/09/2024-oled-ipad-pro-starting-prices/">much more expensive</a>. The 11-inch OLED ‌&zwnj;iPad Pro&zwnj;‌ could be priced starting at &#36;1,500, while the 13-inch model could be priced starting at &#36;1,800. Currently, the 11-inch ‌&zwnj;iPad Pro&zwnj;‌ is priced starting at &#36;799, while the 12.9-inch model with a mini-LED display is priced starting at &#36;1,099. This could be one reason behind Apple's expectation of lower sales.<br/>
 <br/>
 The latest indications suggest that the new &zwnj;iPad Pro&zwnj; models will <a href="https://www.macrumors.com/2024/01/21/new-ipads-and-macbook-airs-spring-2024-rumor/">launch in March or April</a>, offering <a href="https://www.macrumors.com/2022/12/29/oled-ipads-2024/">larger screens</a>, the M3 chip, <a href="https://www.macrumors.com/2023/12/18/ipad-pro-magsafe-charging/">MagSafe charging</a>, and support for a <a href="https://www.macrumors.com/2023/08/27/new-ipad-pro-and-redesigned-magic-keyboard/">redesigned Magic Keyboard accessory</a>.  <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/lg-display/">LG Display</a>, <a href="https://www.macrumors.com/guide/oled-ipad-pro/">OLED iPad Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#11-iPad-Pro">11" iPad Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#12-9-iPad-Pro">12.9" iPad Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/apple-planning-to-sell-fewer-oled-ipad-pros/">Apple Expects to Sell Fewer OLED iPad Pros Than Planned</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-expects-to-sell-fewer-oled-ipad-pros-than-planned.2417377/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Research Reveals How iPhone Push Notifications Leak User Data</title>
-		<link>https://www.macrumors.com/2024/01/25/push-notifications-leak-user-data/</link>
-		<comments>https://forums.macrumors.com/threads/research-reveals-how-iphone-push-notifications-leak-user-data.2417372/</comments>
-		<pubDate>Thu, 25 Jan 2024 05:00:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/25/push-notifications-leak-user-data/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Apple Security</category>
-		<category>Apple Privacy</category>
-		
-
-		<description><![CDATA[Security researcher Tommy Mysk has demonstrated that <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> push notifications are being used by popular apps to covertly send data about the user. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/01/iPhone-12-Security-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-778674" /><br/>
-In a new video outlining the practice, Mysk highlighted how certain iOS apps exploit a feature introduced in iOS 10 that is designed to allow apps to customize push notifications. This feature, initially intended to enable apps to enrich notifications with additional content or decrypt encrypted messages, has seemingly been repurposed by some developers for more secretive activities. According to Mysk's findings, various popular applications, including TikTok, Facebook, Twitter, LinkedIn, and Bing, are using the short background execution time granted for notification customization to send analytics information.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/4ZPTjGG9t7s?si=A_mDfRwyDBoPV1jK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<br/>
-This practice is particularly worrisome because it circumvents the typical restrictions imposed by iOS on background app activities. Apple has always maintained strict control over applications running in the background to protecting user privacy and ensure optimal device performance. However, the push notification feature appears to have unintentionally provided a backdoor for apps to conduct background data transmission.<br/>
-<br/>
-The type of data being sent includes unique device signals that can be used for fingerprinting and tracking users across different apps. Fingerprinting is a method of collecting specific information about a device, such as its hardware and software configurations, to create a unique identifier for the user. This identifier can then be used to track the user's activities across different applications, which can then be used for various activities such as targeted advertising.<br/>
-<br/>
-Apple does not permit fingerprinting and will soon require developers to explicitly state why their apps need access to APIs that are often used for fingerprinting. This move is in line with Apple's efforts to strengthen user privacy, such as the introduction of App Tracking Transparency in iOS 14.5, which requires apps to obtain user permission before tracking their activity across other companies' apps and websites.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-security/">Apple Security</a>, <a href="https://www.macrumors.com/guide/apple-privacy/">Apple Privacy</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/25/push-notifications-leak-user-data/">Research Reveals How iPhone Push Notifications Leak User Data</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/research-reveals-how-iphone-push-notifications-leak-user-data.2417372/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Swoop: Apple Promotes iPhone 15&#039;s Durability in Frantic New Ad</title>
-		<link>https://www.macrumors.com/2024/01/24/iphone-15-ceramic-shield-swoop-ad/</link>
-		<comments>https://forums.macrumors.com/threads/swoop-apple-promotes-iphone-15s-durability-in-frantic-new-ad.2417353/</comments>
-		<pubDate>Wed, 24 Jan 2024 20:04:33 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/iphone-15-ceramic-shield-swoop-ad/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Ads</category>
-		
-
-		<description><![CDATA[Apple today promoted the durability of the iPhone 15's Ceramic Shield front glass in a new <a href="https://www.youtube.com/watch?v=XiAeKmT4QY4">"Swoop" ad</a> shared on its YouTube channel in Australia.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/XiAeKmT4QY4?si=DuYFSi8u5rbq3pCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-In the video, a <a href="https://en.wikipedia.org/wiki/Australian_magpie#Swooping">magpie</a> attempts to attack a woman riding a bicycle, causing her to fall over. In the process, the iPhone she was using for cycling directions also drops to the ground, but it does not suffer damage due in part to the Ceramic Shield.<br/>
-<br/>
-Apple says the Ceramic Shield is "tougher than any smartphone glass." Introduced on iPhone 12 models in 2020, Apple advertised the ceramic-infused glass as increasing drop performance by 4x compared to the iPhone 11.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-ads/">Apple Ads</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/iphone-15-ceramic-shield-swoop-ad/">Swoop: Apple Promotes iPhone 15&#039;s Durability in Frantic New Ad</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/swoop-apple-promotes-iphone-15s-durability-in-frantic-new-ad.2417353/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases Safari Technology Preview 187 With Bug Fixes and Performance Improvements</title>
-		<link>https://www.macrumors.com/2024/01/24/apple-releases-safari-technology-preview-187/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-187-with-bug-fixes-and-performance-improvements.2417332/</comments>
-		<pubDate>Wed, 24 Jan 2024 14:59:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/apple-releases-safari-technology-preview-187/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Blurb</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser Apple <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed the &zwnj;Safari Technology Preview&zwnj; to test features that may be introduced into future release versions of Safari.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-785724" src="https://images.macrumors.com/article-new/2021/02/Safari-Technology-Preview-Feature.jpg" alt="" width="2368" height="1332" /><br/>
-&zwnj;Safari Technology Preview&zwnj; 187 includes fixes and updates for Accessibility, Animations, CSS, Forms, Rendering, Scrolling, Storage, SVG, Web API, and WebGL.<br/>
-<br/>
-The current &zwnj;Safari Technology Preview&zwnj; release is compatible with machines running macOS Ventura and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, the latest version of macOS that Apple released in September 2023.<br/>
-<br/>
-The &zwnj;Safari Technology Preview&zwnj; update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has <a href="https://developer.apple.com/safari/download/">downloaded the browser</a>. Full release notes for the update are available <a href="https://developer.apple.com/safari/technology-preview/release-notes/">on the Safari Technology Preview website</a>.<br/>
-<br/>
-Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback from developers and users on its browser development process. &zwnj;Safari Technology Preview&zwnj; can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/apple-releases-safari-technology-preview-187/">Apple Releases Safari Technology Preview 187 With Bug Fixes and Performance Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-187-with-bug-fixes-and-performance-improvements.2417332/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple to Get TSMC&#039;s First 2-Nanometer Chips</title>
-		<link>https://www.macrumors.com/2024/01/24/apple-tsmc-first-2nm-chips/</link>
-		<comments>https://forums.macrumors.com/threads/apple-to-get-tsmcs-first-2-nanometer-chips.2417323/</comments>
-		<pubDate>Wed, 24 Jan 2024 12:19:25 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/apple-tsmc-first-2nm-chips/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>TSMC</category>
-		<category>2nm</category>
-		
-
-		<description><![CDATA[Apple will be the first company to receive chips built on the TSMC's future 2-nanometer process, <em><a href="https://www.macrumors.com/guide/digitimes-com/">DigiTimes</a></em> said today. According to sources that spoke to the site, Apple is "widely believed to be the initial client to utilize the process."<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/10/Apple-Silicon-Teal-Feature.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-767478" /><br/>
-The report comes from <em>&zwnj;DigiTimes&zwnj;</em> "Tomorrow's Headlines" alert, so additional details may be available in the full news story.<br/>
-<br/>
-TSMC is expected to begin producing 2nm chips starting in the second half of 2025. Terms like "<a href="https://www.macrumors.com/guide/3nm/">3nm</a>" and "2nm" refer to the specific architecture and design rules TSMC is using for a family of chips. Decreases in node size correspond to a smaller transistor size, so more transistors can fit on a processor, leading to boosts in speed and more efficient power consumption.<br/>
-<br/>
-This year, Apple adopted 3-nanometer chips for its iPhones and Macs. Both the A17 Pro chip in the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models and the M3 series chips in Macs are built on the 3-nanometer node, an upgrade over the prior 5nm node. The jump from 5nm technology to &zwnj;3nm&zwnj; technology brought notable 20 percent faster GPU speeds, 10 percent faster CPU speed, and a 2x faster Neural Engine to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, and similar improvements on Macs.<br/>
-<br/>
-TSMC is building two new facilities to accommodate 2nm chip production, and working on approval for a third. TSMC generally builds new fabs when it needs to increase production capacity to handle significant orders for chips, and TSMC is expanding in a major way for 2nm technology. The transition to 2nm will see TSMC adopting GAAFET (gate-all-around field-effect transistors) with nanosheets instead of FinFET, so the manufacturing process will be more complex. GAAFETs allow for faster speeds with a smaller transistor size and lower operational voltage.<br/>
-<br/>
-TSMC is spending billions on the change, and Apple will also need to make chip design changes to accommodate the new technology. Apple is TSMC's main client, and it is typically the first to get TSMC's new chips. Apple acquired <a href="https://www.macrumors.com/2023/08/29/apple-buys-all-3nm-tsmc-chips-2023/">all of TSMC's 3-nanometer chips</a> in 2023 for iPhones, iPads, and Macs, for example.<br/>
-<br/>
-In between the &zwnj;3nm&zwnj; and 2nm nodes, TSMC will introduce several new &zwnj;3nm&zwnj; improvements. TSMC has already come out with N3E and N3P chips that are enhanced &zwnj;3nm&zwnj; processes, and there are other chips in the works such as N3X for high performance computing and N3AE for automotive applications.<br/>
-<br/>
-Rumors suggest that TSMC is already starting work on <a href="https://www.macrumors.com/2024/01/15/next-gen-chip-technology-on-track-for-2025/">more advanced 1.4-nanometer chips</a>, which are expected to come out as soon as 2027. Apple is said to be looking to reserve TSMC's initial manufacturing capabilities for both 1.4nm and 1nm technologies.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tsmc/">TSMC</a>, <a href="https://www.macrumors.com/guide/2nm/">2nm</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/apple-tsmc-first-2nm-chips/">Apple to Get TSMC&#039;s First 2-Nanometer Chips</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-get-tsmcs-first-2-nanometer-chips.2417323/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Jon Stewart Returning to &#039;The Daily Show&#039; After Apple TV+ Series Cancelation</title>
-		<link>https://www.macrumors.com/2024/01/24/jon-stewart-returns-to-daily-show/</link>
-		<comments>https://forums.macrumors.com/threads/jon-stewart-returning-to-the-daily-show-after-apple-tv-series-cancelation.2417318/</comments>
-		<pubDate>Wed, 24 Jan 2024 11:24:18 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/jon-stewart-returns-to-daily-show/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV Shows</category>
-		<category>Apple TV Plus</category>
-		
-
-		<description><![CDATA[Jon Stewart is set to return to Comedy Central series "The Daily Show" eight years after he stepped down and handed the reins over to Trever Noah. Stewart plans to host the series every Monday starting on February 12, with a rotating lineup of regular correspondents handling the other days.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/problem-jon-stewart.jpg" alt="" width="3024" height="1700" class="aligncenter size-full wp-image-917873" /><br/>
-The news comes three months after <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a> series "The Problem With Jon Stewart" <a href="https://www.macrumors.com/2023/10/20/apple-tv-show-problem-jon-steward-canceled/">was canceled</a> due to alleged creative differences between Stewart and Apple executives. Apple was reportedly unhappy with some of Stewart's planned guests for season 3 of the series, as well as topics related to China and artificial intelligence.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Friends. After much reflection I have decided to enter the transfer portal for my last year of eligibility. Excited for the future!<br>5’7” ish<br>165<br>14.8 second 40<a href="https://twitter.com/hashtag/Blessed?src=hash&amp;ref_src=twsrc%5Etfw">#Blessed</a> <a href="https://twitter.com/hashtag/NILBABY?src=hash&amp;ref_src=twsrc%5Etfw">#NILBABY</a> <a href="https://twitter.com/hashtag/TDSnation?src=hash&amp;ref_src=twsrc%5Etfw">#TDSnation</a> <a href="https://twitter.com/hashtag/LFGM?src=hash&amp;ref_src=twsrc%5Etfw">#LFGM</a></p>&mdash; Jon Stewart (@jonstewart) <a href="https://twitter.com/jonstewart/status/1750199599703162955?ref_src=twsrc%5Etfw">January 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-Apple initially inked a <a href="https://www.macrumors.com/2021/04/07/apple-tv-plus-jon-stewart-series/">multi-year deal</a> with Stewart in 2020, and there were two seasons of the show. Stewart explored "problems" on the current affairs series, and episodes varied from news in the national conversation to issues that were part of Stewart's advocacy work.<br/>
-<br/>
-Stewart will be hosting the series through the 2024 election cycle. In a statement, Paramount Media Networks CEO said that Stewart is the "voice of our generation" and that he will help "make sense of the insanity and division roiling the country as we enter the election season."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-tv-shows/">Apple TV Shows</a>, <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV Plus</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/jon-stewart-returns-to-daily-show/">Jon Stewart Returning to &#039;The Daily Show&#039; After Apple TV+ Series Cancelation</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/jon-stewart-returning-to-the-daily-show-after-apple-tv-series-cancelation.2417318/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Get Up to &#36;70 Off Apple Watch Series 9 and &#36;50 Off Apple Watch Ultra 2 at Best Buy</title>
-		<link>https://www.macrumors.com/2024/01/24/up-to-70-off-apple-watch/</link>
-		<comments>https://forums.macrumors.com/threads/get-up-to-70-off-apple-watch-series-9-and-50-off-apple-watch-ultra-2-at-best-buy.2417306/</comments>
-		<pubDate>Wed, 24 Jan 2024 07:32:01 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/up-to-70-off-apple-watch/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Best Buy is <a href="https://howl.me/clunu1dvWgW">hosting an Apple Watch sale</a> this week, offering all-time low prices on the Apple Watch Series 9 and a great deal on the Apple Watch Ultra 2. These deals are available to everyone and do not require you to have a My Best Buy Plus or Total membership.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/Apple-Watch-Series-9-and-Ultra-2-Deals-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-913210" /><em><small>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Prices start at <a href="https://howl.me/clsfVkocNDP"><strong>&#36;329.00</strong></a> for the 41mm GPS Apple Watch Series 9, down from &#36;399.00, and increase to <a href="https://howl.me/clsfXltxWin"><strong>&#36;359.00</strong></a> for the 45mm GPS Apple Watch Series 9, down from &#36;429.00. Best Buy has every aluminum model of the GPS Apple Watch Series 9 on sale, so you can get the Starlight, Pink, Midnight, Silver, and PRODUCT(RED) colors on sale at these record low prices.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/clunu1dvWgW"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO &#36;70 OFF</div>Apple Watch Deals at Best Buy</div></a></div><br/>
-<br/>
-Best Buy also has the Apple Watch Ultra 2 on sale, available for <a href="https://howl.me/clsfWaABiz9"><strong>&#36;749.00</strong></a>, down from &#36;799.00. This one is a second-best price, and it's also available in every configuration on Best Buy. This means you can get the Ocean Band, Alpine Loop, and Trail Loop configurations (all in multiple sizes) at this solid discounted price.<br/>
-<br/>
-As of last week, a <a href="https://www.macrumors.com/2024/01/17/apple-watch-sales-ban-reinstated/">sales ban was reenacted</a> in the United States on any Apple Watch model sold by Apple that has blood oxygen sensing. While Apple Watch Series 9 and Apple Watch Ultra 2 models purchased directly from Apple currently come with blood oxygen sensing disabled, retailers like Best Buy are able to continue selling through their existing stocks that include the feature.<br/>
-<br/>
-If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/up-to-70-off-apple-watch/">Get Up to &#36;70 Off Apple Watch Series 9 and &#36;50 Off Apple Watch Ultra 2 at Best Buy</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/get-up-to-70-off-apple-watch-series-9-and-50-off-apple-watch-ultra-2-at-best-buy.2417306/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Report: Sideloading in Europe Will Still Involve App Review and Fees</title>
-		<link>https://www.macrumors.com/2024/01/24/sideloading-in-europe-app-review-and-fees/</link>
-		<comments>https://forums.macrumors.com/threads/report-sideloading-in-europe-will-still-involve-app-review-and-fees.2417299/</comments>
-		<pubDate>Wed, 24 Jan 2024 05:48:32 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/24/sideloading-in-europe-app-review-and-fees/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>The Wall Street Journal</category>
-		<category>European Union</category>
-		
-
-		<description><![CDATA[Developers who offer the ability to sideload their apps in the European Union will still face restrictions and fees imposed by Apple, <a href="https://www.wsj.com/tech/apple-plans-new-fees-and-restrictions-for-downloads-outside-app-store-f464f426?"><em>The Wall Street Journal</em></a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-Clorange.jpg" alt="" width="2250" height="1266" class="alignnone size-full wp-image-833988" /><br/>
-App sideloading capabilities will allow users to download apps from outside the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> for the first time, but only in the EU. The change is necessitated by the EU's Digital Markets Act (DMA), which seeks to rein in the apparent anticompetitive conduct of big tech companies.<br/>
-<br/>
-Apple reportedly plans to comply with EU law in a way that retains close control over the apps downloaded outside the &zwnj;App Store&zwnj;. Apple has not yet revealed its final plans to comply with this aspect of the DMA, but the <em>WSJ</em> today provided new details citing people familiar with the company's plans. Specifically, Apple will apparently retain the ability to review each app offered outside the app store, as well as take a fee from developers that offer them. <br/>
-<br/>
-Exact details of the fee structure are unknown, but Apple <a href="https://www.macrumors.com/2022/02/04/apple-reveals-dutch-in-app-payment-commission/">charges a 27% commission</a> on in-app purchases made through alternative payment systems in the Netherlands, a capability that was initially triggered by a Dutch regulatory ruling. This is just three percent lower than its default fee, but unlike Apple's commission, it does not include tax, making the net total more than Apple's fee for most developers.<br/>
-<br/>
-Apple has reportedly been working on the plan for offering sideloading for over a year and the company has held meetings with EU officials in recent months to discuss the new rules. The deadline to enact the changes is Thursday, March 7.<br/>
-<br/>
-Companies are already said to be lining up to take advantage of the impending changes. For example, Spotify is mulling offering its app via its website to skirt the &zwnj;App Store&zwnj;, Microsoft has considered launching its own third-party app store specifically for games, and Meta is planning to launch a system to download apps directly from ads.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/the-wall-street-journal/">The Wall Street Journal</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/24/sideloading-in-europe-app-review-and-fees/">Report: Sideloading in Europe Will Still Involve App Review and Fees</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/report-sideloading-in-europe-will-still-involve-app-review-and-fees.2417299/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
