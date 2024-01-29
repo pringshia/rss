@@ -14,12 +14,184 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 29 Jan 2024 08:03:39 PST</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jan 2024 12:02:57 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 17.4 Beta Adds Stopwatch Live Activity</title>
+		<link>https://www.macrumors.com/2024/01/29/ios-17-4-stopwatch-live-activity/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-4-beta-adds-stopwatch-live-activity.2417796/</comments>
+		<pubDate>Mon, 29 Jan 2024 11:34:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/29/ios-17-4-stopwatch-live-activity/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[iOS 17.4 introduces a small but useful change for the Clock app's Stopwatch function, adding the timer to Apple's Live Activities feature. When activated through the Clock app, the Stopwatch will now show up both in the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a> and on the Lock Screen.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/ios-17-4-stopwatch.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-933379" /><br/>
+The &zwnj;Dynamic Island&zwnj; shows a small to-the-second timer, and the Lock Screen shows the full Stopwatch timer when the screen is being looked at. Pressing into the &zwnj;Dynamic Island&zwnj; shows options for pausing the Stopwatch or starting a new lap, with these controls also on the Lock Screen. After the Stopwatch is paused, swiping on it from the Lock Screen or tapping on the "X" in &zwnj;Dynamic Island&zwnj; will clear it.<br/>
+<br/>
+Timers have worked with Live Activities since the feature launched with iOS 16, but the Stopwatch could only be viewed in the Clock app. The addition of Live Activities support will prevent users from activating the timer and then forgetting about it.<br/>
+<br/>
+<em>(<a href="https://twitter.com/hiddecollee7?lang=en">Thanks, Hidde</a>!)</em><div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/29/ios-17-4-stopwatch-live-activity/">iOS 17.4 Beta Adds Stopwatch Live Activity</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-4-beta-adds-stopwatch-live-activity.2417796/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>tvOS 17.4 Code References Mysterious homeOS</title>
+		<link>https://www.macrumors.com/2024/01/29/tvos-17-4-homeos-mention/</link>
+		<comments>https://forums.macrumors.com/threads/tvos-17-4-code-references-mysterious-homeos.2417794/</comments>
+		<pubDate>Mon, 29 Jan 2024 10:57:20 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/29/tvos-17-4-homeos-mention/</guid>
+		<dc:creator>Aaron Perris</dc:creator>
+		<category>Featured</category>
+		<category>HomePod</category>
+		
+
+		<description><![CDATA[Code discovered by <i>MacRumors</i> in the first beta of tvOS 17.4 suggests that Apple's work on "homeOS" is continuing behind the scenes. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/06/homeOS2.jpg" alt="" width="1366" height="768" class="aligncenter size-full wp-image-801940" /><br/>
+Back in June 2021, Apple <a href="https://www.macrumors.com/2021/11/03/apple-refers-to-homeos-job-listings/">listed two job postings</a> that mentioned homeOS, but deleted the term when it was noticed by the media. We've seen no sign of homeOS since, except for in the first tvOS 17.4 beta.<br/>
+<br/>
+Apple's 2018 <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> ran a modified version of iOS 11 when it launched, but Apple transitioned to using the tvOS platform for the &zwnj;HomePod&zwnj; with the release of &zwnj;HomePod&zwnj; Software 13.4. As part of its effort to develop an expanded smart home presence, Apple could eventually combine the tvOS and &zwnj;HomePod&zwnj; software in the future, potentially rebranding it as homeOS.<br/>
+<br/>
+Apple is actively working on a new smart home display that would compete with the Echo Show, Meta Portal, and Google Nest Hub, according to <i>Bloomberg's</i> <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>. The smart home display is said to have an iPad-like design and a camera for <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls, and it is likely meant to mount to the wall and serve as a central console for smart home products. The device could also feature HomePod-like speakers, and if the product sees a release, it could be part of Apple's &zwnj;HomePod&zwnj; lineup. <br/>
+<br/>
+There have also been rumors of a next-generation version of the <a href="https://www.macrumors.com/2024/01/27/touchscreen-homepod-everything-we-know/">HomePod with a display</a> at the top of the device, and this product could come out as early as 2024. homeOS could refer to either the iPad-like home hub in the works, or the &zwnj;HomePod&zwnj; with a display, but it is also possible that it is neither of these.<br/>
+<br/>
+<a href="https://www.macrumors.com/2024/01/26/shareplay-music-control-homepod-apple-tv/">A SharePlay feature for the HomePod</a> added in tvOS 17.4 beta 1 further hints at Apple's work on a &zwnj;HomePod&zwnj; with a screen. The update adds a QR code to the <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> app on the TV, which can be scanned by others to start a SharePlay session right on the device. A &zwnj;HomePod&zwnj; with a display could feature a similar function.<br/>
+<br/>
+tvOS 17.4 is expected to see a public release in March alongside iOS 17.4, and the timing is close to when Apple sometimes holds a spring event. We've heard rumors of an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> refresh coming in late March, so given the homeOS mention in tvOS 17.4 and a possible upcoming event, we may not have too long to wait before learning more about Apple's homeOS plans.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#HomePod">HomePod (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/29/tvos-17-4-homeos-mention/">tvOS 17.4 Code References Mysterious homeOS</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tvos-17-4-code-references-mysterious-homeos.2417794/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Music Not Working For Some Users [Update: Fixed]</title>
+		<link>https://www.macrumors.com/2024/01/29/apple-music-not-working-for-some-users/</link>
+		<comments>https://forums.macrumors.com/threads/apple-music-not-working-for-some-users-update-fixed.2417793/</comments>
+		<pubDate>Mon, 29 Jan 2024 10:43:15 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/29/apple-music-not-working-for-some-users/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[The <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> service is malfunctioning for some users at the current time due to an ongoing outage that started at 1:20 p.m. Eastern Time. The "Home" or "Listen Now" tab is not loading in &zwnj;Apple Music&zwnj;, and songs will not play.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/08/apple-music.jpg" alt="" width="1306" height="734" class="aligncenter size-full wp-image-813608" /><br/>
+On Mac, some tracks are providing an error message about the song being unavailable, and the &zwnj;Apple Music&zwnj; app is continually skipping through playlists trying to find a functional song. On <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, tapping play or selecting a song simply does not work. <br/>
+<br/>
+According to <a href="https://www.apple.com/support/systemstatus/">Apple's system status page</a>, &zwnj;Apple Music&zwnj; and the iTunes Store are both down. Apple says that users may be experiencing "intermittent issues" with the services.<br/>
+<br/>
+<b>Update:</b> Apple says that the issue has been fixed as of 1:47 p.m. Eastern Time.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/29/apple-music-not-working-for-some-users/">Apple Music Not Working For Some Users [Update: Fixed]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-music-not-working-for-some-users-update-fixed.2417793/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds First Beta of watchOS 10.4 to Developers</title>
+		<link>https://www.macrumors.com/2024/01/29/apple-seeds-watchos-10-4-beta-1-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-first-beta-of-watchos-10-4-to-developers.2417787/</comments>
+		<pubDate>Mon, 29 Jan 2024 10:12:31 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/29/apple-seeds-watchos-10-4-beta-1-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today seeded the first beta of an upcoming watchOS 10.4 update to developers for testing purposes, with the beta coming a week after the <a href="hhttps://www.macrumors.com/2024/01/22/apple-releases-watchos-10-3/">release of watchOS 10.3</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
+To install the ‌watchOS 10.4‌ update, developers need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
+<br/>
+Once beta updates have been activated, watchOS 10.4 can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
+<br/>
+watchOS 10.4 includes new emoji characters such as a lime, an edible brown mushroom, a phoenix, a broken chain, shaking head vertically (as in a "yes" nod), and shaking head horizontally (a "no" head shake).<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/29/apple-seeds-watchos-10-4-beta-1-to-developers/">Apple Seeds First Beta of watchOS 10.4 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-beta-of-watchos-10-4-to-developers.2417787/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds First Beta of macOS Sonoma 14.4 to Developers</title>
+		<link>https://www.macrumors.com/2024/01/29/apple-seeds-macos-sonoma-14-4-beta-1-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-first-beta-of-macos-sonoma-14-4-to-developers.2417784/</comments>
+		<pubDate>Mon, 29 Jan 2024 10:11:11 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/29/apple-seeds-macos-sonoma-14-4-beta-1-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today seeded the first beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.4 update to developers for testing purposes, with the software coming a week after the <a href="https://www.macrumors.com/2024/01/22/apple-releases-macos-sonoma-14-3/">release of macOS Sonoma 14.3</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
+Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
+<br/>
+&zwnj;macOS Sonoma&zwnj; 14.4 introduces some of the features in the iOS 17.4 beta, such as new emoji characters. We don't know what Mac-specific features are included, but if we find anything new in the beta, we'll update this article. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/29/apple-seeds-macos-sonoma-14-4-beta-1-to-developers/">Apple Seeds First Beta of macOS Sonoma 14.4 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-beta-of-macos-sonoma-14-4-to-developers.2417784/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Camera Comparison: Samsung S24 Ultra vs iPhone 15 Pro Max</title>
+		<link>https://www.macrumors.com/2024/01/29/samsung-s24-ultra-vs-iphone-15-pro-max/</link>
+		<comments>https://forums.macrumors.com/threads/camera-comparison-samsung-s24-ultra-vs-iphone-15-pro-max.2417776/</comments>
+		<pubDate>Mon, 29 Jan 2024 09:21:22 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/29/samsung-s24-ultra-vs-iphone-15-pro-max/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Samsung came out with its 2024 flagship smartphone lineup in January, with the new devices competing directly with the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>, &zwnj;iPhone 15&zwnj; Plus, <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, and &zwnj;iPhone 15 Pro&zwnj; Max. Samsung's high-end S24 Ultra adopts some Apple-like features like a titanium chassis and a 5X zoom lens, but it also has standout additions that set it apart. We have an S24 Ultra, and thought we'd see how one main feature compares to the &zwnj;iPhone 15 Pro&zwnj; Max -- the camera.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/NBg8g-DVHho" title="iPhone 15 Pro Max vs Samsung Galaxy S24 Ultra Camera Comparison!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+The Galaxy S24 Ultra has a 200-megapixel wide-angle camera (Apple's Wide lens is 50 megapixels), a 12-megapixel ultra wide camera (equal to Apple's), a 10-megapixel 3x telephoto lens, and a 50-megapixel 5x telephoto lens (Apple has a single 12-megapixel Telephoto lens). A higher pixel count equates to a higher resolution for printing and cropping in, but it doesn't necessarily make for better images because the size of the sensor is more important.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/samsung-galaxy-24-1x-Keybank.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-933352" /><br/>
+In the sample images, you'll see that there's not too much of a difference between the &zwnj;iPhone 15 Pro&zwnj; Max and the S24 Ultra. The S24 Ultra is a little bit more saturated and the highlights are brightened, so the S24 images can look brighter in straight from the camera comparisons. The <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> images tend to be sharper for the most part, but Samsung's algorithm works well for night mode images.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/samsung-galaxy-24-25x-keybank-s24.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-933353" /><br/>
+Samsung primarily focused on AI this year, so the S24 Ultra camera is almost identical to the S23 Ultra camera, but the telephoto lens is a major difference. Samsung ditched its 10x telephoto lens and opted instead for a 5x telephoto lens that more closely matches the 5x telephoto lens on the &zwnj;iPhone&zwnj;. Telephoto images are close to the same, but in Portrait mode, Samsung's photos come out crisper.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/samsung-galaxy-s24-street.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-933354" /><br/>
+There are two telephoto lenses in Samsung's smartphone, so it supports up to 10x optical zoom, and Samsung has long had the edge when it comes to digital zoom. The S24 Ultra can zoom in up to 100x, and while the &zwnj;iPhone&zwnj;'s digital zoom is good, it's not able to zoom in to that level.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/samsung-galaxy-24-portrait-1x.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-933355" /><br/>
+On the topic of AI, Samsung added some AI-supported features for post processing. You can use generative fill to remove objects from images and change the crop, cut down on noise with remastering, add slow motion to any video, and record with both the front and rear-facing cameras at the same time. We may see camera-related AI additions on the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models or in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, but for now, Samsung has the edge when it comes to fun AI-based tools.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/samsung-galaxy-24-rock-hall-low-light.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-933356" /><br/>
+No smartphone is able to measure up to the &zwnj;iPhone&zwnj; when it comes to video quality because of its stabilization and resolution, but the Galaxy S24 Ultra is the closest competitor, and it has an edge when it comes to microphone quality. The S24 Ultra's microphone has great noise isolation and clarity, and the Cinematic mode looks nice, though Samsung's Cinematic mode overdoes it on the blur. 4K video is supported at 30 and 60fps, but not 24fps, which is problematic for those who want to shoot high-quality 24fps video. On &zwnj;iPhone&zwnj;, there is a setting for recording 4K video at 24fps.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/samsung-galaxy-24-sign-5x-portrait-low-light.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-933357" /><br/>
+As smartphone cameras get better and better, it gets more difficult to distinguish which smartphone takes superior images. Both the &zwnj;iPhone 15 Pro&zwnj; Max and the Galaxy Ultra S24 take excellent quality pictures, and it's impossible to pick an overall winner. We think these cameras are about on par.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/samsung-galaxy-24-uw-keybank.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-933358" /><br/>
+Samsung and Apple are using different algorithms and processing for image capture and to make pictures look sharper in lower light, so you'll see some differences in brightness, white balance, saturation, and similar parameters, and "better" becomes a matter of preference.<br/>
+<br/>
+Which images do you prefer? Let us know in the comments below.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/29/samsung-s24-ultra-vs-iphone-15-pro-max/">Camera Comparison: Samsung S24 Ultra vs iPhone 15 Pro Max</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/camera-comparison-samsung-s24-ultra-vs-iphone-15-pro-max.2417776/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Some iPhone Users Unable to View Latest App Store Reviews</title>
+		<link>https://www.macrumors.com/2024/01/29/iphone-app-store-reviews-issue/</link>
+		<comments>https://forums.macrumors.com/threads/some-iphone-users-unable-to-view-latest-app-store-reviews.2417773/</comments>
+		<pubDate>Mon, 29 Jan 2024 08:12:23 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/29/iphone-app-store-reviews-issue/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>App Store</category>
+		
+
+		<description><![CDATA[For the past few weeks, some iPhone users have been unable to view the latest app reviews left by customers in the App Store. Specifically, affected users are only able to read reviews submitted up until January 16 this year.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/12/app-store-awards-2022.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-876046" /><br/>
+It's unclear how widespread this issue is, but it seems to be very inconsistent, with recent reviews showing for some users and not for others depending on the app. We were able to reproduce the issue on iPhones in the U.S. and Canada, but not on an iPhone the U.K., while the Mac App Store does not appear to be affected whatsoever.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/App-Store-TikTok-Review.jpg" alt="" width="1179" height="582" class="aligncenter size-full wp-image-933343" /><br/>
+The issue was mentioned last week in a <a href="https://www.reddit.com/r/ios/comments/19fk55c/is_it_me_or_have_there_not_been_any_new_ios_app/">Reddit post</a> spotted by Jeff Johnson, developer of the popular <a href="https://apps.apple.com/us/app/stopthemadness-pro/id6471380298">web browser extension StopTheMadness</a> for the iPhone, iPad, and Mac. Johnson said he could see a review for his app submitted on January 20 in the App Store Connect developer tool, but he could not see it on the App Store.<br/>
+<br/>
+Hopefully this glitch in the App Store matrix is fixed soon.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/app-store/">App Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/29/iphone-app-store-reviews-issue/">Some iPhone Users Unable to View Latest App Store Reviews</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/some-iphone-users-unable-to-view-latest-app-store-reviews.2417773/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Samsung&#039;s ViewFinity S9 5K Smart Monitor Hits All-Time Low &#36;999 Price (&#36;600 Off)</title>
@@ -529,259 +701,6 @@ Apple's prior rate increase put it on par with the APY offered by many other pop
 Apple's high-yield savings account has been available to U.S. &zwnj;Apple Card&zwnj; holders since April 2023, and it is offered in partnership with Goldman Sachs.<br/>
 <br/>
 &zwnj;Apple Card&zwnj; users are able to earn interest on their automatic Daily Cash deposits and also personal funds that are added to the account. Apple allows users to deposit up to &#36;250,000.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/26/apple-savings-account-apy-increase/">Apple Savings Account Interest Rate Increases to 4.50% APY</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-savings-account-interest-rate-increases-to-4-50-apy.2417563/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>App Store, Apple Music, and More Experiencing Outage [Update: Fixed]</title>
-		<link>https://www.macrumors.com/2024/01/26/app-store-apple-music-outage-january/</link>
-		<comments>https://forums.macrumors.com/threads/app-store-apple-music-and-more-experiencing-outage-update-fixed.2417557/</comments>
-		<pubDate>Fri, 26 Jan 2024 16:49:18 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/26/app-store-apple-music-outage-january/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/mac-app-store/">Mac App Store</a>, <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, subscription purchases, and <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a> on Device are all experiencing an outage, according to <a href="https://www.apple.com/support/systemstatus/">Apple's System Status page</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-Sqaure-Complement.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-833993" /><br/>
-Apple says that the services have been unavailable for some users since 6:30 p.m. Eastern Time.<br/>
-<br/>
-Affected users may be unable to make purchases in the iTunes Store, &zwnj;Mac App Store&zwnj;, and &zwnj;App Store&zwnj;, and are also experiencing intermittent issues with &zwnj;Apple Music&zwnj;.<br/>
-<br/>
-<b>Update:</b> Apple has fixed the outage.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/26/app-store-apple-music-outage-january/">App Store, Apple Music, and More Experiencing Outage [Update: Fixed]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/app-store-apple-music-and-more-experiencing-outage-update-fixed.2417557/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Netflix Not Developing App for Vision Pro Because Headset is &#039;Subscale&#039; and &#039;Not Relevant&#039; to Subscribers</title>
-		<link>https://www.macrumors.com/2024/01/26/netflix-vision-pro-not-relevant/</link>
-		<comments>https://forums.macrumors.com/threads/netflix-not-developing-app-for-vision-pro-because-headset-is-subscale-and-not-relevant-to-subscribers.2417554/</comments>
-		<pubDate>Fri, 26 Jan 2024 16:27:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/26/netflix-vision-pro-not-relevant/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[When the Vision Pro launches, it will not feature some popular apps like <a href="https://www.macrumors.com/2024/01/17/netflix-wont-offer-vision-pro-app-at-launch/">Netflix</a>, <a href="https://www.macrumors.com/2024/01/18/youtube-spotify-vision-pro/">YouTube</a>, or Spotify, with users instead relegated to accessing these services through the Safari web browser on the device.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/02/Netflix-Smaller-4.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-884794" /><br/>
-In an interview with <em><a href="https://stratechery.com/2024/an-interview-with-netflix-co-ceo-greg-peters-about-strategy-and-execution/">Stratechery</a></em>, Netflix co-CEO Greg Peters explained earlier this week that Netflix does not plan to develop a Vision Pro app at this time because the device is "so subscale" that it is "not really particularly relevant" to most Netflix members.<br/>
-<br/>
-Peters said that Netflix needs to be careful about how money is spent, ensuring that resources are not invested in areas that will not yield a return.<br/>
-<blockquote>You got to a good one really quick there already. Not by any unwillingness or lack of desire to do that, but even when you note we look at as close to ubiquity on devices perspective, the decisions that lead to that are we try and be very rigorous about, "What's the effort to integrate on any given set of devices and what's the benefit for the members that we serve?". We have to be careful about making sure that we're not investing in places that are not really yielding a return, and I would say we'll see where things go with Vision Pro. Certainly we're always in discussions with Apple to try and figure that out but right now, the device is so subscale that it's not really particularly relevant to most of our members.</blockquote><br/>
-Peters implied that Netflix is not ruling out a future Vision Pro app. "We've always had active discussions to how we could help each other out," he said about Apple. "Sometimes we find a great space of overlap. We can move very, very quickly. Sometimes it takes a little longer."<br/>
-<br/>
-The Vision Pro is priced at &#36;3,500, which puts it out of range of many of Apple's customers, and Apple is manufacturing a limited number of the devices in 2024, according to rumors. Apple analyst <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a> <a href="https://www.macrumors.com/2024/01/22/apple-already-sold-up-to-180000-vision-pros/">recently said</a> that Apple sold between 160,000 to 180,000 units when pre-orders launched, and that the company will only ship around 500,000 units for the year.<br/>
-<br/>
-Despite early demand, Kuo said that the Vision Pro is "still a very niche product," a view that appears to be shared by some notable companies not creating apps for the device.<br/>
-<br/>
-The Vision Pro is able to run <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> apps with little to no effort from developers, but Netflix has opted not to allow the Netflix &zwnj;iPad&zwnj; app to be available on the headset. Peters did not explain why. Instead, Netflix subscribers will need to watch Netflix through the Vision Pro web browser.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/26/netflix-vision-pro-not-relevant/">Netflix Not Developing App for Vision Pro Because Headset is &#039;Subscale&#039; and &#039;Not Relevant&#039; to Subscribers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/netflix-not-developing-app-for-vision-pro-because-headset-is-subscale-and-not-relevant-to-subscribers.2417554/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 17.4 Includes Podcast Transcripts</title>
-		<link>https://www.macrumors.com/2024/01/26/ios-17-4-podcast-transcripts/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-4-includes-podcast-transcripts.2417549/</comments>
-		<pubDate>Fri, 26 Jan 2024 15:44:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/26/ios-17-4-podcast-transcripts/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[The iOS 17.4 beta that Apple seeded to developers yesterday introduces <a href="https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/">major app ecosystem changes</a> in the European Union, but there are also a handful of other features that have been overshadowed. Once such new addition is a transcript option in the <a href="https://www.macrumors.com/guide/apple-podcasts/">Apple Podcasts</a> app, which is similar to the lyric feature in <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/podcast-app-transcript.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-932875" /><br/>
-Recent uploads in the Podcasts app have a new transcript icon, and if tapped, it shows a full transcript of the entire podcast. As with &zwnj;Apple Music&zwnj;, the transcript scrolls as the episode plays.<br/>
-<br/>
-Transcripts are automatically generated, but appear to be fairly accurate. The transcripts take just a few seconds to generate when a new podcast is played, so they can be useful for determining whether the content in a show is something worth the time to listen to. Searching for a specific word or phrase is supported, and tapping on that word or phrase jumps to that spot in the episode.<br/>
-<br/>
-Note that not all podcast episodes have transcripts right now, but Apple says that transcripts for back catalog episodes are being added over time. Transcripts are available in English, French, German, and Spanish, and podcast hosts also have the option to upload their own transcripts rather than using the automatically generated version.<br/>
-<br/>
-iOS 17.4 is available to developers at the current time, and Apple plans to release it to the public in March. Other features include sweeping updates in Europe, hints of new features coming to the updated <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a> experience, and more, with <a href="https://www.macrumors.com/2024/01/25/ios-17-4-beta-1-changes/">details available in our iOS 17.4 beta 1 feature guide</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/26/ios-17-4-podcast-transcripts/">iOS 17.4 Includes Podcast Transcripts</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-4-includes-podcast-transcripts.2417549/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Mozilla is &#039;Extremely Disappointed&#039; With Implementation of Apple&#039;s EU Browser Engine Change</title>
-		<link>https://www.macrumors.com/2024/01/26/mozilla-on-apple-eu-browser-engine-change/</link>
-		<comments>https://forums.macrumors.com/threads/mozilla-is-extremely-disappointed-with-implementation-of-apples-eu-browser-engine-change.2417540/</comments>
-		<pubDate>Fri, 26 Jan 2024 14:36:07 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/26/mozilla-on-apple-eu-browser-engine-change/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[In iOS 17.4, Apple is making a number of changes to iOS to comply with the Digital Markets Act in the European Union. One of these updates will see Apple <a href="https://www.macrumors.com/2024/01/25/third-party-default-browsers-eu-ios-17-4/">allowing alternate browser engines</a>, with WebKit no longer required for third-party browsers like Firefox and Chrome.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/08/mozilla-firefox-banner-fixed.jpg" alt="" width="1599" height="838" class="aligncenter size-full wp-image-811266" /><br/>
-While support for alternative browser engines sounds like a win for browser companies, Mozilla spokesperson Damiano DeMonte <a href="https://www.theverge.com/2024/1/26/24052067/mozilla-apple-ios-browser-rules-firefox">told <em>The Verge</em></a> that Firefox is "extremely disappointed" with the way Apple is implementing the feature because it <a href="https://www.macrumors.com/2024/01/26/apple-eu-app-ecosystem-tidbits/">does not extend to the iPad</a>.<blockquote>"We are still reviewing the technical details but are extremely disappointed with Apple's proposed plan to restrict the newly-announced BrowserEngineKit to EU-specific apps. The effect of this would be to force an independent browser like Firefox to build and maintain two separate browser implementations -- a burden Apple themselves will not have to bear."</blockquote>Firefox uses the Gecko engine and could swap to that on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, but it would need to continue using WebKit on the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. According to DeMonte, Apple's implementation of the DMA does not give consumers "viable choices" because it makes it "as painful as possible" for companies to provide alternatives to Safari.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/26/mozilla-on-apple-eu-browser-engine-change/">Mozilla is &#039;Extremely Disappointed&#039; With Implementation of Apple&#039;s EU Browser Engine Change</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/mozilla-is-extremely-disappointed-with-implementation-of-apples-eu-browser-engine-change.2417540/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Spotify CEO Daniel Ek on Apple&#039;s EU Changes: &#039;They Think the Rules Don&#039;t Apply to Them&#039;</title>
-		<link>https://www.macrumors.com/2024/01/26/spotify-on-apple-eu-app-changes/</link>
-		<comments>https://forums.macrumors.com/threads/spotify-ceo-daniel-ek-on-apples-eu-changes-they-think-the-rules-dont-apply-to-them.2417538/</comments>
-		<pubDate>Fri, 26 Jan 2024 14:16:12 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/26/spotify-on-apple-eu-app-changes/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>App Store</category>
-		<category>Spotify</category>
-		<category>European Union</category>
-		
-
-		<description><![CDATA[Spotify CEO Daniel EK <a href="https://newsroom.spotify.com/2024-01-26/apples-proposed-changes-reject-the-goals-of-the-dma/">today wrote a blog post</a> criticizing the app ecosystem changes that Apple implemented in the European Union under the Digital Markets Act, accusing Apple of putting forward "a new plan that is a complete and total farce" under "the false pretense of compliance and concessions."<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/08/General-Spotify-Feature.jpg" alt="" width="2500" height="1407" class="aligncenter size-full wp-image-810756" /><br/>
-Ek says that Apple doesn't "think the rules apply to them," and he believes that most app developers are not going to be able to adopt Apple's new terms.<br/>
-<br/>
-The 0.50 euro Core Technology Fee collected per install per year (after 1 million installs) is "extortion," according to Ek. Combined with the reduced commission through the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> (10-20% depending on options selected), Ek claims that developers of popular apps will pay "the same or even more to Apple" than with the prior rules.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">After sitting with our legal team to parse through the fine print of Apple&#39;s DMA announcement (that took a while), which is, at best vague and misleading, I wanted to share my thoughts.  <br><br>While Apple has behaved badly for years, what they did yesterday represents a new low, even…</p>&mdash; Daniel Ek (@eldsjal) <a href="https://twitter.com/eldsjal/status/1750988499518362089?ref_src=twsrc%5Etfw">January 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-According to Ek, Spotify is facing "an untenable situation." With Apple's new terms, Spotify would have to pay 0.50 euros per user along with a 17 percent commission, which is the same or worse as under the old rules. Ek claims that an alternative app store offering could potentially increase customer acquisition costs tenfold because of the need to pay the fee even for non-subscribers.<blockquote>And if we managed to remove our app from the App Store and only existed in the Alternative App Store, that would still not work. With our EU Apple install base in the 100 million user range, this new tax on downloads and updates could skyrocket our customer acquisition costs, potentially increasing them tenfold. This, as we have to pay on every install or update to our free or paid app, even for those who no longer use the service.</blockquote>Ek concludes that Apple is "forcing developers to stay with the status quo," which "negates the goal of the DMA." The future that Spotify <a href="https://www.macrumors.com/2024/01/24/spotify-shares-vision-iap-eu-regulation/">outlined earlier this week</a> promising a better experience for users in the EU is "less clear," according to Ek, and he calls on European Commissioners to reject Apple's "blatant disregard" of the DMA.<br/>
-<br/>
-<a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a> CEO Tim Sweeney, another outspoken Apple critic, <a href="https://www.macrumors.com/2024/01/25/fortnite-returning-to-ios-in-europe/">shared similar thoughts yesterday</a>. He said that the &zwnj;App Store&zwnj; changes are a "devious new instance of malicious compliance" aimed at thwarting the Digital Markets Act.<br/>
-<br/>
-Sweeney said that while Fortnite will return to iOS through a planned &zwnj;Epic Games&zwnj; app marketplace on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, Epic will continue to "argue to the courts and regulators that Apple is breaking the law."<br/>
-<br/>
-In a statement to <em>MacRumors</em>, Apple said that it is happy to support the success of all developers, and that under the new business terms, more than 99 percent of developers will pay the same amount or less to Apple.<blockquote>We’re happy to support the success of all developers — including Spotify, which has the most successful music streaming app in the world. The changes we’re sharing for apps in the European Union give developers choice — with new options to distribute iOS apps and process payments. Every developer can choose to stay on the same terms in place today. And under the new terms, more than 99% of developers would pay the same or less to Apple.</blockquote><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/spotify/">Spotify</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/26/spotify-on-apple-eu-app-changes/">Spotify CEO Daniel Ek on Apple&#039;s EU Changes: &#039;They Think the Rules Don&#039;t Apply to Them&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/spotify-ceo-daniel-ek-on-apples-eu-changes-they-think-the-rules-dont-apply-to-them.2417538/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s EU App Store Changes: iPads, TestFlight, Default Stores and More</title>
-		<link>https://www.macrumors.com/2024/01/26/apple-eu-app-ecosystem-tidbits/</link>
-		<comments>https://forums.macrumors.com/threads/apples-eu-app-store-changes-ipads-testflight-default-stores-and-more.2417535/</comments>
-		<pubDate>Fri, 26 Jan 2024 13:15:42 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/26/apple-eu-app-ecosystem-tidbits/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		<category>App Store</category>
-		<category>European Union</category>
-		
-
-		<description><![CDATA[Apple announced an overwhelming number of changes <a href="https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/">to the app ecosystem</a> in the European Union yesterday, and with the flood of information, there may have been a few details that were overlooked by developers and device users.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/App-Store-vs-EU-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932826" /><br/>
-We've rounded up a handful of lesser-known details that offer some clarification on what these updates mean for the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and other products.<br/>
-<br/>
-<h2>The iPad and Other Devices</h2><br/>
-The Digital Markets Act required Apple to make changes to both "iOS" and to the "<a href="https://www.macrumors.com/guide/app-store/">App Store</a>," with the European Commission defining iOS as the operating system that runs on the &zwnj;iPhone&zwnj;, and the "&zwnj;App Store&zwnj;" as a cross-platform entity that operates on all of Apple's operating systems.<br/>
-<br/>
-For that reason, some of the changes that Apple is making are exclusive to the &zwnj;iPhone&zwnj;, while others are coming to iOS, iPadOS, macOS, tvOS, and watchOS.<br/>
-<h3>Limited to the iPhone</h3><br/>
-<ul><br/>
- 	<li><strong>Alternative app marketplaces</strong> - Alternative app marketplaces will only be available on the &zwnj;iPhone&zwnj;, not the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, so there will not be an option to install a third-party app store on an &zwnj;iPad&zwnj;. There will also be no way to install an app from an alternative app store on an &zwnj;iPad&zwnj;. Alternative marketplace apps will be &zwnj;iPhone&zwnj; only.</li><br/>
- 	<li><strong>App notarization</strong> - Notarization is linked to alternative app marketplaces and will apply to iOS apps, not iPadOS apps.</li><br/>
- 	<li><strong>Alternative browser engines</strong> - Allowing browsers to use an alternative engine is a feature that is also &zwnj;iPhone&zwnj; only. Chrome, for example, would only be able to use a non-WebKit engine for its Chrome for &zwnj;iPhone&zwnj; app, not the Chrome for &zwnj;iPad&zwnj; app.</li><br/>
- 	<li><strong>NFC access</strong> - Banking and wallet apps on &zwnj;iPhone&zwnj; can access NFC technology and users can set alternative contactless payment apps as default.</li><br/>
-</ul><br/>
-<h2>App Store Changes for iOS, iPadOS, macOS, watchOS, and tvOS</h2><br/>
-<ul><br/>
- 	<li><strong>Apple's new business terms</strong> - The new business terms, which come with a Core Technology Fee and reduced &zwnj;App Store&zwnj; commissions, are applicable to all platforms.</li><br/>
- 	<li><strong>Third-party payments</strong> - Developers can opt out of In-App Purchases, instead using a third-party payment service provider for digital goods and services.</li><br/>
- 	<li><strong>App Store labels</strong> - When an app uses alternative payment processing, it will say so on the &zwnj;App Store&zwnj; product page and on an in-app disclosure sheet that warns customers that a developer is directing them to transact with an alternative payment processor.</li><br/>
- 	<li><strong>Payment link-outs</strong> - Developers can include a link to allow users to complete a transaction on the developer's website, and can also let users know about promotions, discounts, and deals available outside of their apps.</li><br/>
-</ul><br/>
-<br/>
-<h2>Default App Marketplaces</h2><br/>
-&zwnj;iPhone&zwnj; users in Europe can choose to set an alternative app marketplace as the default on their device as required under the DMA. This feature doesn't do much other than show results from the alternative app marketplace in Spotlight search when the search contains something that is available in that marketplace.<br/>
-<br/>
-<h2>App Marketplace Requirements</h2><br/>
-App marketplaces need to provide Apple with proof of solvency in the form of a &#36;1m euro letter of credit. While apps installed through marketplaces do not have to pay a 0.50 euro Core Technology Fee for the first 1 million "first installs" of an app, that does not apply to app marketplaces. The fee has to be paid right away.<br/>
-<br/>
-Developers who want to create an app marketplace need to have a presence in the European Union.<br/>
-<br/>
-App marketplaces only have to pay the Core Technology Fee for app marketplace installs. The fee for individual apps will be paid by those apps, not by the marketplace that they're on.<br/>
-<br/>
-An app marketplace may not have just a single app in it, because there is a requirement that marketplaces be fair to developers. Marketplaces can set requirements, such as all games or all educational apps, but all apps in that category must be able to apply to be a part of that marketplace.<br/>
-<br/>
-<h2>App Marketplace Installation</h2><br/>
-An app marketplace will be able to be installed as an app through Safari or another web browser, from the app marketplace's developer.<br/>
-<br/>
-<h2>App Marketplace Limitations and Features</h2><br/>
-Marketplace apps are compatible with core iOS features. They will show up in Spotlight, can work with most Screen Time features, and are included in <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> backups.<br/>
-<br/>
-Screen Time purchase restrictions will not be available for app marketplace apps, nor will Family Purchase Sharing or universal purchase.<br/>
-<br/>
-Apple will not market alternative app stores, or present them as options to users. Developers will need to create their own audience for their marketplaces. Apple also will have no say in refunds or subscription management tools, as the user must go to the marketplace for these options.<br/>
-<br/>
-<h2>Managing Alternative Marketplace Apps</h2><br/>
-If an alternative marketplace app is deleted from an &zwnj;iPhone&zwnj;, the apps that were installed through that marketplace won't be able to be updated until the marketplace is reinstalled.<br/>
-<br/>
-Users will be able to see which marketplace an app was downloaded from in the Settings app.<br/>
-<br/>
-<h2>Adopting Apple's New Business Terms</h2><br/>
-Developers who opt in to Apple's new business terms, including the Core Technology Fee and reduced commissions, cannot go back to the prior system. It is a one-time change.<br/>
-<br/>
-Agreeing to the new business terms is done on a per-account level, not per-app.<br/>
-<br/>
-<h2>Notarization and Review</h2><br/>
-While Notarization will scan for malware, viruses, and ensure that an app does what it says it does, Apple will have less control over content. Copyright violations, IP theft, and other violations will need to be reported to individual app marketplaces, not to Apple.<br/>
-<br/>
-<h2>TestFlight</h2><br/>
-Developers can use TestFlight to test an app that is being developed for an alternative marketplace, even if that app will not be distributed through the &zwnj;App Store&zwnj;.<br/>
-<br/>
-<h2>NFC</h2><br/>
-The NFC changes apply to countries in the European Economic Area, not just EU countries. The European Economic Area also includes Iceland, Liechtenstein, and Norway, countries that are not in the European Union.<br/>
-<br/>
-<h2>Other Questions</h2><br/>
-Have other questions about how the app ecosystem in the EU has changed? Let us know in the comments below.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/26/apple-eu-app-ecosystem-tidbits/">Apple&#039;s EU App Store Changes: iPads, TestFlight, Default Stores and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-eu-app-store-changes-ipads-testflight-default-stores-and-more.2417535/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>MacRumors Giveaway: Win an Apple Watch Series 9 and Band From Lululook</title>
-		<link>https://www.macrumors.com/2024/01/26/macrumors-giveaway-lululook-apple-watch-and-band/</link>
-		<comments>https://forums.macrumors.com/threads/macrumors-giveaway-win-an-apple-watch-series-9-and-band-from-lululook.2417531/</comments>
-		<pubDate>Fri, 26 Jan 2024 12:01:53 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/26/macrumors-giveaway-lululook-apple-watch-and-band/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>Giveaway</category>
-		
-
-		<description><![CDATA[For this week's giveaway, we've teamed up with <a href="https://www.lululook.com/">Lululook</a> to offer <em>MacRumors</em> readers a chance to win a 45mm <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and one of <a href="https://www.lululook.com/collections/apple-watch-bands">Lululook's Apple Watch bands</a> to go along with it.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/lululook-sport-orange.jpg" alt="" width="1295" height="728" class="aligncenter size-full wp-image-933157" /><br/>
-Lululook makes a <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dlululook%26amp%3Bref%3Dnb_sb_noss">range of accessories</a> for Apple devices, including multiple Apple Watch bands that work with all of the available Apple Watch models. For those who are looking for a more stylish alternative to Apple's Sport Band, Lululook has <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FLULULOOK-iWatch-Original-Wristband-Replacement%2Fdp%2FB0CQY562ZJ%3F">the FKM Sport Band</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/lululook-fkm-bands.jpg" alt="" width="970" height="497" class="aligncenter size-full wp-image-933163" /><br/>
-Priced at &#36;50, the FMK Sport Band is made from a soft silicone material that's water and sweat resistant. It has a matte finish for a soft, plush feel that makes it comfortable to wear all day, and Lululook says that the design is breathable, lightweight, and irritation-free.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/lululook-sport-band-blue.jpg" alt="" width="1273" height="716" class="aligncenter size-full wp-image-933158" /><br/>
-Compared to other silicone bands on the market, the FMK band is made from a denser material that gives it more pliability, and the wave design is meant to give it a unique look that transitions from workouts to the office. The band uses a pin-and-tuck closure that ensures it remains secured on the wrist. Lululook offers this band in multiple fun colors, including forest green, bright yellow, gray, black, blue, orange, and glow-in-the-dark.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/lululook-silicone-band-green.jpg" alt="" width="853" height="583" class="aligncenter size-full wp-image-933164" /><br/>
-For those who prefer metal bands, Lululook has quite a few options. The <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FLULULOOK-Compatible-Stainless-Magnetic-iWatch%2Fdp%2FB0CL68P27B%2F%3Fth%3D1">&#36;25 Modern Milanese Loop</a> is an alternative to Apple's own Milanese band, and it is made from a mesh stainless steel with a wrap design. It comes in several colors, including black, silver, gold, rose gold, and starlight. The band is designed to be thin, cutting down on weight and making it comfortable to wear.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/lululook-milanese-modern.jpg" alt="" width="1308" height="736" class="aligncenter size-full wp-image-933159" /><br/>
-The &#36;24 <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FLULULOOK-Compatible-Stainless-Magnetic-iWatch%2Fdp%2FB0CKYJZ5B9%2F">Retro Milanese Loop</a> is similar to the Modern version, but it has a more classic watch design. This model is limited to black and silver, but it has the same lightweight build and magnetic wrap closure for easy removal.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/lululook-milanese-retro.jpg" alt="" width="1313" height="739" class="aligncenter size-full wp-image-933160" /><br/>
-The &#36;35 <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FLULULOOK-Needed-Compatible-Stainless-Ultra2%2Fdp%2FB0CL68KRZM%2F%3Fth%3D1">Stainless Steel Band</a> is an alternative to Apple's expensive Link Bracelet. There are four to five removable links on each side depending on the size of the band, which allows it to be quickly adjusted to an appropriate size. Links can be removed by hand without a tool, and there's a simple but secure magnetic buckle that keeps it on the wrist.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/lululook-link-band.jpg" alt="" width="1309" height="736" class="aligncenter size-full wp-image-933161" /><br/>
-All of Lululook's bands work with any modern Apple Watch model, and Lululook often has deals so it's worth checking in every now and then if you're in need of a new watch band.<br/>
-<br/>
-We have a 45mm &zwnj;Apple Watch Series 9&zwnj; and a Lululook band to give away to one lucky <em>MacRumors</em> reader. To enter to win, use the widget below and enter an email address. Email addresses will be used solely for contact purposes to reach the winner(s) and send the prize(s). You can earn additional entries by subscribing to our <a href="https://my.leadpages.net/leadbox/145ef7173f72a2%3A104a9fa76b46dc/5754903989321728/">weekly newsletter</a>, subscribing to our <a href="https://www.youtube.com/user/macrumors">YouTube channel</a>, following us on <a href="https://twitter.com/macrumors">Twitter</a>, following us on <a href="https://www.instagram.com/macrumors/">Instagram</a>, following us on <a href="https://www.threads.net/@macrumors">Threads</a>, or visiting the <em>MacRumors</em> <a href="https://www.facebook.com/MacRumors">Facebook page</a>.<br/>
-<br/>
-Due to the complexities of international laws regarding giveaways, only <strong>U.S. residents who are 18 years or older, UK residents who are 18 years or older, and Canadian residents (excluding Quebec) who have reached the age of majority in their province or territory are eligible to enter</strong>. All federal, state, provincial, and/or local taxes, fees, and surcharges are the sole responsibility of the prize winner. To offer feedback or get more information on the giveaway restrictions, please refer to <a href="http://forums.macrumors.com/threads/macrumors-giveaways-why-are-they-only-open-to-u-s-residents.1918337/">our Site Feedback section</a>, as that is where discussion of the rules will be redirected.<br/>
-<br/>
-<div class="center-wrap"><a class="e-widget no-button" href="https://gleam.io/phlf8/lululook-giveaway" rel="nofollow">Lululook Giveaway</a><br/>
-<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script></div>The contest will run from today (January 26) at 12:00 p.m. Pacific Time through 12:00 p.m. Pacific Time on February 2. The winner will be chosen randomly on or shortly after February 2 and will be contacted by email. The winner will have 48 hours to respond and provide a shipping address before a new winner is chosen.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/giveaway/">Giveaway</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/26/macrumors-giveaway-lululook-apple-watch-and-band/">MacRumors Giveaway: Win an Apple Watch Series 9 and Band From Lululook</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macrumors-giveaway-win-an-apple-watch-series-9-and-band-from-lululook.2417531/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
