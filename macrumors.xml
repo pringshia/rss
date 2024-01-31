@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 30 Jan 2024 12:03:06 PST</lastBuildDate>
+	<lastBuildDate>Tue, 30 Jan 2024 16:10:55 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,9 +22,34 @@
 	<generator>https://www.macrumors.com</generator>
 		
 		<item>
-		<title>Apple&#039;s iCloud Services Experiencing Outage</title>
+		<title>Apple Stops Signing iOS 17.2.1, Downgrading No Longer Possible</title>
+		<link>https://www.macrumors.com/2024/01/30/apple-stops-signing-ios-17-2-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-stops-signing-ios-17-2-1-downgrading-no-longer-possible.2417902/</comments>
+		<pubDate>Tue, 30 Jan 2024 13:33:46 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/01/30/apple-stops-signing-ios-17-2-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple today stopped signing the iOS 17.2.1 update, preventing <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users from downgrading to that version of iOS going forward. iOS 17.2.1 is no longer being signed following the January 22 <a href="https://www.macrumors.com/2024/01/22/apple-releases-ios-17-3/">release of iOS 17.3</a>, which introduced Stolen Device Protection for the &zwnj;iPhone&zwnj; <a href="https://www.macrumors.com/guide/ios-17-3-features/">and other changes</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/iOS-17.2.1-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-927308" /><br/>
+It is not unusual that iOS 17.2.1 is no longer being signed. Apple routinely stops signing older versions of iOS after new releases in order to encourage customers to keep their operating systems up to date and to prevent users from downgrading to older, less secure versions of the &zwnj;iPhone&zwnj; operating system.<br/>
+<br/>
+Along with iOS 17.2.1, Apple has stopped signing iPadOS 17.2 for the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and the older 15.8 and 16.7.4 versions of iOS and iPadOS for devices unable to run <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>.<br/>
+<br/>
+Apple is <a href="https://www.macrumors.com/2024/01/25/ios-17-4-beta-1-changes/">already testing iOS 17.4</a>, a major update that is set to come out in March.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/30/apple-stops-signing-ios-17-2-1/">Apple Stops Signing iOS 17.2.1, Downgrading No Longer Possible</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-stops-signing-ios-17-2-1-downgrading-no-longer-possible.2417902/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple&#039;s iCloud Services Experiencing Outage [Update: Fixed]</title>
 		<link>https://www.macrumors.com/2024/01/30/apples-icloud-services-experiencing-outage/</link>
-		<comments>https://forums.macrumors.com/threads/apples-icloud-services-experiencing-outage.2417894/</comments>
+		<comments>https://forums.macrumors.com/threads/apples-icloud-services-experiencing-outage-update-fixed.2417894/</comments>
 		<pubDate>Tue, 30 Jan 2024 11:56:29 PST</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/01/30/apples-icloud-services-experiencing-outage/</guid>
 		<dc:creator>Juli Clover</dc:creator>
@@ -36,11 +61,14 @@
 		<category>iPad</category>
 		
 
-		<description><![CDATA[Apple's <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> services are down at the current time, with the iCloud.com website non-functional and &zwnj;iCloud&zwnj; Mail failing to load. There are multiple reports on Twitter and other social networks, but Apple's <a href="https://www.apple.com/support/systemstatus/">System Status page</a> is not yet reflecting an outage. <br/>
+		<description><![CDATA[Some of Apple's <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> services are down at the current time, with the iCloud.com website non-functional and &zwnj;iCloud&zwnj; Mail failing to load. There are multiple reports on Twitter and other social networks, and Apple's <a href="https://www.apple.com/support/systemstatus/">System Status page</a> says that some &zwnj;iCloud&zwnj; Mail users may not be able to send, receive, or access their messages. <br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/01/icloud-down.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-933586" /><br/>
+Apple's System Status page also lists an issue with &zwnj;iCloud&zwnj; web apps, and says that some users are unable to log in to iCloud.com.<br/>
 <br/>
-We'll update this article when the issue has been resolved and Apple's &zwnj;iCloud&zwnj; services are working.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/30/apples-icloud-services-experiencing-outage/">Apple&#039;s iCloud Services Experiencing Outage</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-icloud-services-experiencing-outage.2417894/">Discuss this article</a> in our forums<br/><br/>]]></description>
+We'll update this article when the issue has been resolved and Apple's &zwnj;iCloud&zwnj; services are working.<br/>
+<br/>
+<b>Update:</b> Apple says the issue has been resolved as of 4:38 p.m. Eastern Time.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/30/apples-icloud-services-experiencing-outage/">Apple&#039;s iCloud Services Experiencing Outage [Update: Fixed]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-icloud-services-experiencing-outage-update-fixed.2417894/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -215,6 +243,7 @@ We have rounded up some of the videos below from well-known YouTube creators and
 <div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/SaneSRqePVY?si=tApUzcprPd_A_l3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
 <div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/r3D4YI4mHqQ?si=WqV64aoKQshyBTcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
 <div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/8xI10SFgzQ8?si=XWa5sSn-mNnSmDT7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/GkPw6ScHyb4?si=dSYqKgeprc_bb9hW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
 <div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/DQoU4dPig5E?si=xkc7Gc63qYk0-7bN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
 <div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/CaWt6-xe29k?si=Yb68TWN2SPd-j3fH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
 <div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/snOt7Sgdxaw?si=4LEsqNXY2GGB5U-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
@@ -566,27 +595,6 @@ As smartphone cameras get better and better, it gets more difficult to distingui
 Samsung and Apple are using different algorithms and processing for image capture and to make pictures look sharper in lower light, so you'll see some differences in brightness, white balance, saturation, and similar parameters, and "better" becomes a matter of preference.<br/>
 <br/>
 Which images do you prefer? Let us know in the comments below.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/29/samsung-s24-ultra-vs-iphone-15-pro-max/">Camera Comparison: Samsung S24 Ultra vs iPhone 15 Pro Max</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/camera-comparison-samsung-s24-ultra-vs-iphone-15-pro-max.2417776/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Some iPhone Users Unable to View Latest App Store Reviews</title>
-		<link>https://www.macrumors.com/2024/01/29/iphone-app-store-reviews-issue/</link>
-		<comments>https://forums.macrumors.com/threads/some-iphone-users-unable-to-view-latest-app-store-reviews.2417773/</comments>
-		<pubDate>Mon, 29 Jan 2024 08:12:23 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/01/29/iphone-app-store-reviews-issue/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>App Store</category>
-		
-
-		<description><![CDATA[For the past few weeks, some iPhone users have been unable to view the latest app reviews left by customers in the App Store. Specifically, affected users are only able to read reviews submitted up until January 16 this year.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/12/app-store-awards-2022.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-876046" /><br/>
-It's unclear how widespread this issue is, but it seems to be very inconsistent, with recent reviews showing for some users and not for others depending on the app. We were able to reproduce the issue on iPhones in the U.S. and Canada, but not on an iPhone the U.K., while the Mac App Store does not appear to be affected whatsoever.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/App-Store-TikTok-Review.jpg" alt="" width="1179" height="582" class="aligncenter size-full wp-image-933343" /><br/>
-The issue was mentioned last week in a <a href="https://www.reddit.com/r/ios/comments/19fk55c/is_it_me_or_have_there_not_been_any_new_ios_app/">Reddit post</a> spotted by Jeff Johnson, developer of the popular <a href="https://apps.apple.com/us/app/stopthemadness-pro/id6471380298">web browser extension StopTheMadness</a> for the iPhone, iPad, and Mac. Johnson said he could see a review for his app submitted on January 20 in the App Store Connect developer tool, but he could not see it on the App Store.<br/>
-<br/>
-Hopefully this glitch in the App Store matrix is fixed soon.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/app-store/">App Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/01/29/iphone-app-store-reviews-issue/">Some iPhone Users Unable to View Latest App Store Reviews</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/some-iphone-users-unable-to-view-latest-app-store-reviews.2417773/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
