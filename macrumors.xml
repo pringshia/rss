@@ -14,12 +14,103 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Sat, 03 Feb 2024 12:03:22 PST</lastBuildDate>
+	<lastBuildDate>Sat, 03 Feb 2024 16:11:49 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iFixit Shares Apple Vision Pro Teardown</title>
+		<link>https://www.macrumors.com/2024/02/03/ifixit-apple-vision-pro-teardown/</link>
+		<comments>https://forums.macrumors.com/threads/ifixit-shares-apple-vision-pro-teardown.2418368/</comments>
+		<pubDate>Sat, 03 Feb 2024 14:40:08 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/03/ifixit-apple-vision-pro-teardown/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Vision Pro</category>
+		<category>iFixit</category>
+		<category>Teardown</category>
+		
+
+		<description><![CDATA[The well-known repair website iFixit today shared a <a href="https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird">written teardown</a> and <a href="https://www.youtube.com/watch?v=JVJPAYwY8Us">video teardown of the Apple Vision Pro</a>, offering a look inside the mixed reality headset.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/JVJPAYwY8Us?si=rslK4MNOQW_qMDrZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
+iFixit's disassembly of the Vision Pro reveals several internal components, including an array of cameras and sensors, fans, lens motors, and more. Unsurprisingly, it appears that opening and repairing the headset will be difficult.<br/>
+<br/>
+"The EyeSight seems like a repair Achilles' heel—so many points of failure for a slightly creepy feature," said iFixit, in an email. "But we'll give Apple credit where it's due: the easily replaceable speakers and battery are big repairability wins."<br/>
+<br/>
+Vision Pro is powered by an M2 chip with an 8-core CPU, a 10-core GPU, a 16-core Neural Engine, and 16GB of unified memory. <a href="https://www.macrumors.com/2024/01/19/apple-vision-pro-tech-specs/">Other specs include</a> up to 1TB of storage, and an all-new R1 chip that "processes input from 12 cameras, five sensors, and six microphones to ensure that content feels like it is appearing right in front of the user's eyes."<br/>
+<br/>
+The publication <em>Wallpaper*</em> <a href="https://www.wallpaper.com/tech/apple-vision-pro-review">had already shared</a> an image of the Vision Pro's internals on Friday, as part of an exclusive Vision Pro design interview with Apple's vice president of software design Alan Dye and vice president of hardware design Richard Howarth.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/Apple-Vision-Pro-Internals-1.jpg" alt="" width="1360" height="784" class="aligncenter size-full wp-image-934630" /><div class="center-wrap"><em>Image Credit: Wallpaper*</em></div><br/>
+Howarth said Apple designed the Vision Pro with "a lot of flexible materials and soft textures" like the Solo Knit Band so that people "would not only feel physically comfortable wearing it, but also enjoy wearing it around others too."<br/>
+<br/>
+Vision Pro launched on Friday in the U.S., and Apple said the headset will be available in additional countries later this year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ifixit/">iFixit</a>, <a href="https://www.macrumors.com/guide/teardown/">Teardown</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/03/ifixit-apple-vision-pro-teardown/">iFixit Shares Apple Vision Pro Teardown</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ifixit-shares-apple-vision-pro-teardown.2418368/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Shares Vision Pro User Guide and Dozens of Support Documents With Useful Tips</title>
+		<link>https://www.macrumors.com/2024/02/03/apple-vision-pro-support-documents/</link>
+		<comments>https://forums.macrumors.com/threads/apple-shares-vision-pro-user-guide-and-dozens-of-support-documents-with-useful-tips.2418359/</comments>
+		<pubDate>Sat, 03 Feb 2024 12:26:29 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/03/apple-vision-pro-support-documents/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Vision Pro</category>
+		<category>visionOS</category>
+		
+
+		<description><![CDATA[Apple on Friday shared a wealth of information about its new Vision Pro headset, including a <a href="https://support.apple.com/en-us/guide/apple-vision-pro/welcome/visionos">detailed user guide</a> and dozens of support documents.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Blue-Magenta.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-898550" /><br/>
+We have already highlighted many topics separately, such as <a href="https://www.macrumors.com/2024/02/03/apple-vision-pro-optic-id/">Optic ID</a>, <a href="https://www.macrumors.com/how-to/use-vision-pro-guest-mode/">Guest User</a>, <a href="https://www.macrumors.com/guide/vision-pro-travel/">Travel Mode</a>, <a href="https://www.macrumors.com/guide/vision-pro-persona-tips/">Personas</a>, <a href="https://www.macrumors.com/guide/vision-pro-gestures/">supported gestures</a>, <a href="https://www.macrumors.com/guide/vision-pro-bluetooth-accessories/">compatible Bluetooth accessories</a>, <a href="https://www.macrumors.com/2024/02/02/apple-vision-pro-syncs-data-battery-light/">charging</a> and <a href="https://www.macrumors.com/2024/02/02/vision-pro-battery-management-system/">battery management</a> details, <a href="https://www.macrumors.com/2024/02/02/apple-explains-how-to-clean-vision-pro-headset/">cleaning instructions</a>, the <a href="https://www.macrumors.com/2024/02/02/apple-vision-pro-lacks-find-my-tracking/">lack of Find My tracking</a>, using the Vision Pro  <a href="https://www.macrumors.com/2024/02/03/apple-vision-pro-can-display-intel-macs/">as an external display for a Mac</a>, and more.<br/>
+<br/>
+With assistance from <em>MacRumors</em> contributor <a href="https://twitter.com/aaronp613">Aaron Perris</a>, we have created a list with nearly every Apple support document related to the Vision Pro.<br/>
+<ul><li><a href="https://support.apple.com/HT214043">About Activation Lock on Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/en-us/HT214018">About Automatic Display Alignment</a></li><br/>
+<li><a href="https://support.apple.com/HT214051">About Optic ID advanced technology</a></li><br/>
+<li><a href="https://support.apple.com/HT213947">About the materials used in Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT214071">About visionOS 1 Updates</a></li><br/>
+<li><a href="https://support.apple.com/HT213946">About visual discomfort with Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT213955">Apple Vision Pro Battery and Performance</a></li><br/>
+<li><a href="https://support.apple.com/HT213959">Attach and pair your ZEISS Optical Inserts</a></li><br/>
+<li><a href="https://support.apple.com/HT213908">Before you begin an immersive experience</a></li><br/>
+<li><a href="https://support.apple.com/HT213949">Close an app on Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/117740">Connect and charge Apple Vision Pro battery</a></li><br/>
+<li><a href="https://support.apple.com/HT213999">Create a workspace in Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT214014">Delete apps from your Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT213976">Factory reset your Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT213973">Find your Apple Vision Pro serial number</a></li><br/>
+<li><a href="https://support.apple.com/HT213952">Get your Apple Vision Pro ready for service</a></li><br/>
+<li><a href="https://support.apple.com/HT213964">How to clean Apple Vision Pro and accessories</a></li><br/>
+<li><a href="https://support.apple.com/HT213945">How to get the best fit wearing Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/en-us/HT213994">How to remove and replace your Apple Vision Pro Audio Strap for service</a></li><br/>
+<li><a href="https://support.apple.com/HT213963">How to remove or attach your Apple Vision Pro head band</a></li><br/>
+<li><a href="https://support.apple.com/HT214013">How to remove your Apple Vision Pro battery or power cable for service</a></li><br/>
+<li><a href="https://support.apple.com/HT213944">How to safely use your Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/en-us/HT214024">How to send your Apple Vision Pro Enclosure to Apple for service</a></li><br/>
+<li><a href="https://support.apple.com/HT214025">How to send your ZEISS Optical Inserts in for replacement</a></li><br/>
+<li><a href="https://support.apple.com/HT213962">How to set up Optic ID</a></li><br/>
+<li><a href="https://support.apple.com/HT213980">How to set up your Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT213934">If you experience motion sickness while using Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT214019">If you need help with eye setup on Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT213960">If you need to order or replace your ZEISS Optical Inserts</a></li><br/>
+<li><a href="https://support.apple.com/HT213953">If your Apple Vision Pro doesn't fit properly</a></li><br/>
+<li><a href="https://support.apple.com/HT213900">If your eyes are too close or too far from your Apple Vision Pro displays</a></li><br/>
+<li><a href="https://support.apple.com/117742">Let another person use your Apple Vision Pro with Guest User</a></li><br/>
+<li><a href="https://support.apple.com/HT213968">Liquid damage to Apple Vision Pro and accessories not covered by warranty</a></li><br/>
+<li><a href="https://support.apple.com/HT213950">Restart Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT214002">Set up your Persona (beta) on Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT214004">Store your Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT214009">Update visionOS on your Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT213920">Use AirPods with Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT214045">Use Apple Vision Pro on an airplane with Travel Mode</a></li><br/>
+<li><a href="https://support.apple.com/HT213998">Use Bluetooth accessories with your Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/117741">Use gestures with Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT213971">Use your Mac with Apple Vision Pro</a></li><br/>
+<li><a href="https://support.apple.com/HT214044">What to do before you sell, give away, or trade in your Apple Vision Pro</a></li></ul>Apple also <a href="https://www.macrumors.com/2024/02/02/apple-vision-pro-support-videos/">shared video overviews</a> of the Settings app, Control Center, Guest User, accessibility features, and more on visionOS.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/03/apple-vision-pro-support-documents/">Apple Shares Vision Pro User Guide and Dozens of Support Documents With Useful Tips</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-shares-vision-pro-user-guide-and-dozens-of-support-documents-with-useful-tips.2418359/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Optic ID: Apple Explains Vision Pro&#039;s Iris Authentication System</title>
@@ -52,7 +143,7 @@ Apple says Optic ID uses "advanced hardware and software" for iris recognition.
 <br/>
 "When you set up Optic ID, spatiotemporally modulated eye-safe near-infrared light illuminates the eye, so that the Apple Vision Pro eye cameras can capture images of your iris," says Apple. "This iris image data is sent to and processed on the Secure Enclave and a portion of the Apple M2 chip's neural engine that's protected within the Secure Enclave, where it is transformed into a mathematical representation for enrollment. When you authenticate with Optic ID, the authentication attempt uses the same process to compare your iris to the enrolled biometric data to determine whether there is a match."<br/>
 <br/>
-Apple says the Optic ID system complies with international safety standards and "won't cause harm to the eyes or skin due to the low output of the emitters."<br/>
+Optic ID complies with international safety standards and "won't cause harm to the eyes or skin due to the low output of the emitters," according to Apple.<br/>
 <br/>
 Apple says that a probability that a random person could unlock your Vision Pro using Optic ID is less than one in a million, similar to Face ID. The company explains that Optic ID matches against "detailed iris structure in the near-infrared domain," which "reveals highly unique patterns independent of iris pigmentation."<br/>
 <br/>
@@ -770,341 +861,6 @@ It's unclear why the Vision Pro does not support Find My location tracking, but 
 One option for tracking the location of your Vision Pro is to purchase <a href="https://www.macrumors.com/2024/01/19/apple-releases-vision-pro-accessories/">Apple's travel case</a> and place an AirTag in it, and it is likely that accessory makers will come up with solutions for attaching an AirTag directly to the headset.<br/>
 <br/>
 Vision Pro owners can also ensure that Activation Lock is turned on by opening the Settings app, selecting Find My, and selecting Find My Vision Pro.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/02/apple-vision-pro-lacks-find-my-tracking/">Don&#039;t Lose Your &#36;3,500 Apple Vision Pro, You Can&#039;t Track Its Location</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/dont-lose-your-3-500-apple-vision-pro-you-cant-track-its-location.2418198/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Apple Deals of the Week: iPad Air Drops as Low as &#36;449.99, Plus Record Lows on MacBook Air, MagSafe Duo, and More</title>
-		<link>https://www.macrumors.com/2024/02/02/best-apple-deals-of-the-week-2-2-24/</link>
-		<comments>https://forums.macrumors.com/threads/best-apple-deals-of-the-week-ipad-air-drops-as-low-as-449-99-plus-record-lows-on-macbook-air-magsafe-duo-and-more.2418196/</comments>
-		<pubDate>Fri, 02 Feb 2024 11:24:08 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/02/best-apple-deals-of-the-week-2-2-24/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[This week we saw a diverse bunch of deals, with everything from Apple's iPad Air and MacBook Air getting all-time low discounts to notable price drops on non-Apple devices. This includes a massive &#36;600 discount on Samsung's popular ViewFinity S9 5K Smart Monitor, as well as ongoing markdowns on Anker's best Apple accessories.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/06/Hero0007.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-847997" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2>iPad Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/02/ipad-air-pink-feb.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-934208" /><br/>
-<ul><li><strong>What's the deal?</strong> Get &#36;150 off 5th gen iPad Air</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://howl.me/clxkYXiXGKb">Best Buy</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/01/31/best-buy-ipad-air/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://howl.me/clxkYXiXGKb"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>iPad Air (64GB Wi-Fi) for &#36;449.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clxk0ZOm0OM"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>iPad Air (256GB Wi-Fi) for &#36;599.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clxk2jeyYSK"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>iPad Air (64GB cellular) for &#36;599.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clxk2RAFUDo"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>iPad Air (256GB cellular) for &#36;749.99</div></a></div><br/>
-<br/>
-Best Buy has every 5th generation iPad Air model on sale this week, taking &#36;150 off these tablets with numerous all-time low prices. This discount brings the 64GB Wi-Fi tablet down to &#36;449.99, marking a new record low price for this iPad Air.<br/>
-<br/>
-<h2>Samsung Monitors</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/02/viewfinity-feb-pink.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-934207" /><br/>
-<ul><li><strong>What's the deal?</strong> Get &#36;600 off the Samsung ViewFinity S9 5K monitor</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://howl.me/clq17ynFNDS">Samsung</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/01/29/samsungs-viewfinity-s9-5k-999/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://howl.me/clq17ynFNDS"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;600 OFF</div>27-inch ViewFinity S9 5K Smart Monitor for &#36;999.99</div></a></div><br/>
-<br/>
-Samsung's popular 27-inch ViewFinity S9 5K Smart Monitor got a major discount this week, and it's still available today. You can get this display for &#36;999.99, a &#36;600 markdown on its normal price and a match for the best-ever price on this monitor. You can also <a href="https://www.macrumors.com/2024/01/29/samsungs-viewfinity-s9-5k-999/">find a few more monitor deals</a> in our original post.<br/>
-<br/>
-<h2>Anker</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/02/anker-feb-pink.png" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-934206" /><br/>
-<ul><li><strong>What's the deal?</strong> Buy two, save 15% on Anker accessories</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.ZX3GY19NGK88%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.ZX3GY19NGK88_1704725533960">Amazon</a> and <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fcollections%2Fmagnetic-sale%3Fref%3DnaviMenu">Anker</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/01/22/ankers-new-sale-has-magsafe/">Right here</a></li></ul><br/>
-<div class="center-wrap"><em><strong>Note: You won't see the deal price until checkout.</strong></em></div><br/>
-<div class="center-wrap"><a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fcollections%2Fmagnetic-sale%3Fref%3DnaviMenu"target="_blank"><div class="fancybutton"><div class="fancybadge">BUY 2, SAVE 15%</div>Anker MagGo Accessory Sale</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.ZX3GY19NGK88%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.ZX3GY19NGK88_1704725533960"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;55 OFF</div>Power Station 60,000 mAh for &#36;114.99</div></a></div><br/>
-<br/>
-Anker hosted a notable sale this week, and many of the highlights of the sale are still available at a discount. This sale is primarily focused on a buy two, save 15 percent discount for MagSafe-compatible "MagGo" accessories, but there are a few standalone discounts as well. Deals on this sale can be found on Anker's website and on Amazon.<br/>
-<br/>
-In terms of standalone deals, you'll find the Power Station 60,000 mAh for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.ZX3GY19NGK88%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.ZX3GY19NGK88_1704725533960"><strong>&#36;114.99</strong></a> (&#36;55 off) and 3-in-1 MagSafe Charging Cube for <a href="https://click.linksynergy.com/deeplink?id=J2shFQg6J/U&mid=43469&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fy1811%3Fvariant%3D42206465327254%26collections_magnetic-sale%3Dundefined%26Sort_by%3DRecommended"><strong>&#36;134.95</strong></a> (&#36;15 off).<br/>
-<br/>
-<h2>MacBook Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/02/15in-mba-pink-feb-.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-934205" /><br/>
-<ul><li><strong>What's the deal?</strong> Get &#36;300 off 15-inch MacBook Air</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://howl.me/clwvUhPbHPL">Best Buy</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/01/29/amazon-15-inch-macbook-air/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://howl.me/clwvUhPbHPL"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>15-inch MacBook Air (256GB) for &#36;999.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clwvVizVdRk"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>15-inch MacBook Air (512GB) for &#36;1,199.00</div></a></div><br/>
-<br/>
-Best Buy kicked off the week with major discounts on the 15-inch M2 MacBook Air, with &#36;300 off both the 256GB and 512GB models. These deals are available to everyone and do not require a My Best Buy Plus/Total membership.<br/>
-<br/>
-<h2>MagSafe Accessories</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/02/magsafe-duo-pink-feb.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-934204" /><br/>
-<ul><li><strong>What's the deal?</strong> Save on MagSafe Duo Charger and more</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://www.tkqlhce.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-duo-fast-wireless-charger%3Fref%3Dw_cnt_wp_0_1">Woot</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/01/30/woot-discounts-magsafe-duo/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://www.tkqlhce.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-magsafe-duo-fast-wireless-charger%3Fref%3Dw_cnt_wp_0_1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>MagSafe Duo Charger for &#36;79.99</div></a></div><br/>
-<br/>
-Woot hosted a big Apple accessory sale this week, the highlight of which is the MagSafe Duo Charger for just &#36;79.99, an all-time low price at &#36;49 off. You'll also find the Siri Remote, Apple Watch Magnetic Charging Dock, and more on sale.<br/>
-<br/>
-Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/02/best-apple-deals-of-the-week-2-2-24/">Best Apple Deals of the Week: iPad Air Drops as Low as &#36;449.99, Plus Record Lows on MacBook Air, MagSafe Duo, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-ipad-air-drops-as-low-as-449-99-plus-record-lows-on-macbook-air-magsafe-duo-and-more.2418196/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Vision Pro Apps to Check Out</title>
-		<link>https://www.macrumors.com/guide/vision-pro-app-list/</link>
-		<comments>https://forums.macrumors.com/threads/apple-vision-pro-apps-to-check-out.2418189/</comments>
-		<pubDate>Fri, 02 Feb 2024 10:32:08 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/vision-pro-app-list&#038;post_date=1706909528/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Vision Pro</category>
-		<category>Featured</category>
-		<category>Featured (sticky)</category>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[The Vision Pro is available today with a whole new <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, and developers large and small have created apps optimized for the spatial computing device. Optimized apps are those that take advantage of the immersive capabilities offered by the Vision Pro, but users will also find that many <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> apps can operate on the headset.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/Vision-Pro-Apps-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-934149" /><br/>
-We've rounded up some of the 600+ apps that are offering native <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> support for &zwnj;visionOS&zwnj; for those who have a new Vision Pro and are looking for new content to download.<br/>
-<br/>
-<h2 id="weather">Weather</h2><br/>
-There are quite a few popular weather apps that are making the transition to the Vision Pro &zwnj;App Store&zwnj;, and these are good picks if you're looking to outfit your virtual workspace with a window that provides insight into the outside conditions.<br/>
-<br/>
-<h3 id="carrot_weather">CARROT Weather</h3><br/>
-<a href="https://apps.apple.com/app/apple-store/id961390574">CARROT Weather</a> has a visionOS-optimized interface with a translucent window that can be put anywhere into the space around you. It has all of the features that you might expect from CARROT Weather on other platforms, including favorites, sunset/sunrise times, a 10-day forecast, air quality, current weather conditions, hourly forecast, and more. There's also a 3D globe that you can interact with to explore weather patterns in a new way.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/CARROT-Weather-Vision-Pro-4.jpeg" alt="" width="1280" height="720" class="aligncenter size-full wp-image-933472" /><br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/CARROT-Weather-Vision-Pro-2.jpeg" alt="" width="1280" height="720" class="aligncenter size-full wp-image-933470" /><br/>
-<ul><br/>
- <li><strong><a href="https://apps.apple.com/us/app/shorts-or-pants/id1538716652">Shorts or Pants</a></strong> - Shorts or Pants is a weather app that has customizable themes and cards for temperature, air quality, humidity, precipitation, UV index and more.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/mercury-weather/id1621800675">Mercury Weather</a></strong> - Mercury Weather offers a selection of interactive mini weather windows that can be placed anywhere in the environment.</li><br/>
-<li><strong><a href="https://apps.apple.com/us/app/seasons-immersive-weather/id6468994506">Seasons</a></strong> - Seasons is an immersive weather app that was designed for the Vision Pro. It uses spatial audio technology and it has 34 immersive weather atmospheres that users can experience. The app also offers minute, hour, and day-level forecasts along with other weather information.</li><br/>
-</ul><br/>
-<h2 id="productivity">Productivity</h2><br/>
-Microsoft is offering several Vision Pro-optimized apps, including Excel, PowerPoint, Word, and Teams, plus there are all kinds of to-do apps, calendars, and other options for your Vision Pro setup.<br/>
-<br/>
-<h3 id="microsofts_apps">Microsoft's Apps</h3><br/>
-Microsoft has <a href="https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-365-apps-available-on-apple-vision-pro/ba-p/4042505">designed Vision Pro versions</a> of <a href="https://apps.apple.com/us/app/microsoft-teams/id1113153706">Teams</a>, <a href="https://apps.apple.com/us/app/microsoft-word/id586447913">Word</a>, <a href="https://apps.apple.com/us/app/microsoft-excel/id586683407">Excel</a>, <a href="https://apps.apple.com/us/app/microsoft-powerpoint/id586449534">PowerPoint</a>, <a href="https://apps.apple.com/us/app/microsoft-outlook/id951937596">Outlook</a>, <a href="https://apps.apple.com/us/app/microsoft-onenote/id410395246">OneNote</a>, and <a href="https://apps.apple.com/us/app/microsoft-loop/id1637682491">Loop</a>. All of the apps have a visionOS-optimized interface with translucency to allow work content to blend in with the background, and the windows for the apps can be placed anywhere in virtual space.<br/>
-<br/>
-Vision Pro lets users practice their PowerPoint presentations as if presenting to an audience, while Excel has tools for graphing complex formulas, charts, and tables and for visualizing data. Word has a focus mode for blocking out distractions, and Teams uses the Vision Pro Persona feature.<br/>
-<br/>
-<h3 id="fantastical">Fantastical</h3><br/>
-Popular calendar app Fantastical has been redesigned for the Vision Pro, featuring a visionOS-optimized interface that can be placed anywhere in the virtual space around you. It has all of the Fantastical bells and whistles that users are familiar with, plus multiple window support and other &zwnj;visionOS&zwnj; features. Fantastical is free to use, with a subscription available to unlock more options. Existing subscribers will have access to all of the premium features in the &zwnj;visionOS&zwnj; app. <br/>
-<br/>
-<div class="center-wrap"><iframe title="Introducing Fantastical for Apple Vision Pro" src="https://www.youtube.com/embed/ccsMSGVBoxQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-<br/>
-<h3 id="things_3">Things 3</h3><br/>
-Popular task management app <a href="https://apps.apple.com/us/app/things-3-for-vision/id6475688586">Things 3</a> has a new interface designed for Vision Pro, which can be used across different environments. Multiple Things windows can be opened up and placed around you to create a customized workspace, and the interface can be navigated using eye and hand gestures. The app syncs with the Mac, &zwnj;iPad&zwnj;, <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, and Apple Watch versions of Things, and it works with a wireless keyboard. The app is available for a one-time purchase of &#36;30.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/things-3-vision-pro.jpeg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-934000" /><br/>
-<h3 id="box">Box</h3><br/>
-<a href="https://apps.apple.com/us/app/box-the-content-cloud/id290853822">Cloud storage service Box</a> has created an <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> app that supports viewing and manipulating 3D objects, collaboration, design optimization, videos and animations, and more. Box says that retailers can use Vision Pro to decide on window design proposals, manufacturers can view 3D renderings, and educational institutions can engage in virtual learning experiences with 3D models of complex concepts.<br/>
-<br/>
-<div class="center-wrap"><iframe title="Box for Apple Vision Pro" src="https://www.youtube.com/embed/BFPg3A5N0HQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-<br/>
-<a href="https://apps.apple.com/us/app/flowriter-writers-retreat/id6470159510">Flowriter</a> allows you to generate any location using AI, creating an immersive background that can be used as a backdrop for writing. The app provides custom cutouts so important items like a desk and keyboard remain visible, while everything else is shut out for concentration purposes. Files can be easily exported to a Mac, as can the generated backgrounds. The app is priced at &#36;9.99 per month.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/flowriter-app-visionos.jpg" alt="" width="1000" height="750" class="aligncenter size-full wp-image-934001" /><br/>
-<ul><br/>
- <li><a href="https://apps.apple.com/us/app/parcel/id375589283"><strong>Parcel</strong></a> - Delivery tracking app Parcel is available on the Vision Pro with a visionOS-optimized interface for package tracking.</li><br/>
- <li><a href="https://apps.apple.com/us/app/airmail-your-mail-with-you/id993160329"><strong>Airmail</strong></a> - Popular mail app Airmail is available on &zwnj;visionOS&zwnj;, so Airmail users can view their mail on Vision Pro in an optimized interface with window translucency and gesture support.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/omniplan-4/id1460319993">OmniPlan 4</a></strong> - OmniPlan 4 for Vision Pro brings the app's familiar interface into a spatial environment.</li><br/>
- <li><a href="https://apps.apple.com/us/app/remindercal-reminders-to-cal/id1662218674"><strong>ReminderCal 3</strong></a> - ReminderCal 3 brings the ReminderCal interface to Vision Pro, but it has been redesigned with a native look and interface. With ReminderCal 3, Reminders can be synced to the calendar, with everything done offline.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/focus-productivity-timer/id975017240">Focus</a></strong> - Focus is a Pomodoro time management app that brings a Pomodoro timer into your virtual space for task management and tracking work goals.</li><br/>
- <li><a href="https://apps.apple.com/ca/app/söka-bucket-lists-made-easy/id6446223795"><strong>Söka</strong></a> - Söka is an app for creating and tracking bucket lists and goals. It uses AI to generate suggestions.</li><br/>
- <li><strong><a href="https://apps.apple.com/de/app/planny-tagesplaner/id1515324201?mt=8">Planny</a></strong> - Planny is a simple day planning app with a visionOS-optimized interface.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/focused-work-pomodoro-timer/id1523968394">Focused Work</a></strong> - Focused Work is a Pomodoro timer app for setting up timed Focus sessions to get work done.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587">Email Me</a></strong> - Email Me is an app that lets you email a note to yourself so you do not forget to complete a task.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/runestone-editor/id1548193893">Runestone</a></strong> - Runestone is a plain text editor for the Vision Pro. It supports over 25 programming languages, and has syntax highlighting, line numbers, custom themes, and more.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/chronicling/id6445992145">Chronicling</a></strong> - Chronicling is designed to allow you to track and visualize anything, from habits and chores to moods, medications, events, and more.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/spark-mail-ai-email-inbox/id997102246">Spark</a></strong> - Readdle's popular email app Spark is available on the Vision Pro with a spatial-optimized experience. Emails can be drafted in an immersive, interactive environment and read in large windows.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/numerics-business-dashboards/id875319874">Numerics</a></strong> - Numerics is a dashboard app for tracking and sharing KPIs. It can unify metrics from a range of different tools into shareable dashboards that provide a 360-degree view of business performance.</li><br/>
-<li><strong><a href="https://apps.apple.com/ca/app/finalist/id6447014685">Finalist Daily Planner</a></strong> - Finalist Daily Planner integrates calendar events, Reminders, weather, and more for simple planning, plus it includes a notepad.</li><br/>
-</ul><br/>
-<h2 id="utilities">Utilities</h2><br/>
-The Vision Pro is shipping with a number of utility apps, so you will be able to do everything from use a calculator to keep track of a budget on the headset.<br/>
-<br/>
-<h3 id="juno">Juno</h3><br/>
-<a href="https://apps.apple.com/us/app/juno-for-youtube/id6476961640">Juno for YouTube</a> lets users watch YouTube in a &zwnj;visionOS&zwnj; interface without having to resort to Safari. YouTube is not making a Vision Pro app, so Juno is an alternative that offers native controls, resizing, aspect ratio detection, and more. It is priced at &#36;4.99.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/juno-youtube.jpeg" alt="" width="2732" height="1868" class="aligncenter size-full wp-image-934029" /><br/>
-<ul><br/>
- <li><strong><a href="https://apps.apple.com/us/app/pcalc/id284666222">Pcalc</a></strong> - Popular calculator app Pcalc has been ported over to the Vision Pro and it allows users to place a calculator anywhere in their workspace.</li><br/>
- <li><strong><a href="https://www.jig.space">JigSpace</a></strong> - JigSpace is an app that lets users create and view 3D presentations and view them in augmented reality.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/calcboard-spatial-calculator/id6476637607">Calc Board</a></strong> - Calc Board is a spatial calculator that provides a calculator that can be used with hand gestures with calculations shown on a separate display as an equation is written out.</li><br/>
- <li><a href="https://apps.apple.com/us/app/cardpointers-for-credit-cards/id1472875808"><strong>CardPointers</strong></a> - Aimed at helping people with credit cards save money by earning points and cash back. The &zwnj;visionOS&zwnj; version updates while a user shops in Safari, showing which cards will earn the most points at checkout.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/bills-to-budget/id1636872963">Bills to Budget</a></strong> - A money management and budgeting app that lets you see your spending on an expandable &zwnj;visionOS&zwnj; app window.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/plant-daddy-water-reminders/id1497476884">Plant Daddy</a></strong> - Lets you keep track of your plants and send reminders when it's time to water. Plant windows in &zwnj;visionOS&zwnj; can be arranged in virtual space, and you can, for example, set the window to be in the same area as your plants.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/timely-the-spatial-clock/id6476117550?uo=2">Timely: Spatial Clock</a></strong> - Timely is a simple app that allows Vision Pro users to add a clock anywhere in their workspace.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/la-terminal-ssh-client/id1629902861">La Terminal</a></strong> - La Terminal is a Vision Pro app for those who prefer to use the command line. It has Command Search and AI Assistance, along with CPU and memory use visualizations. There are different themes and backgrounds that users can choose from for a customized look.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/locked-notes-access/id6469049274?platform=appleVisionPro">Locked Notes: Access</a></strong> - Access is an app that lets you store passwords, bank accounts, secure notes, credit cards and other information with data synced via <a href="https://www.macrumors.com/guide/icloud/">iCloud</a>. It integrates with the Passwords feature on Apple devices.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/submanager/id1632853914?uo=4">SubManager</a></strong> - SubManager is a subscription management app that lets users track their subscriptions in one spot and get a heads up when a subscription is about to renew.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/visual-countdown-timer/id1576155611">Visual</a></strong> - Visual is a countdown timer that allows users to add a timer to a virtual workspace.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/tldr-ai/id6449050657">TLDR AI</a></strong> - Shows a summary of any article on the web and provides key points. It's also able to summarize any URL link or text pasted into it.</li><br/>
-<li><strong><a href="https://apps.apple.com/us/app/alpenglow-sunset-prediction/id978589174">Alpenglow</a></strong> - Alpenglow is an app that allows users to view sunrise, sunset, and magic hour times for any location for photo shoot planning. It also provides predictions on whether a sunrise or sunset will be colorful or lackluster.</li><br/>
-<li><strong><a href="https://apps.apple.com/us/app/tizipizi-time-zone-converter/id6449408612?platform=appleVisionPro">Tizipizi</a></strong> - Tizipizi is a time zone management app for converting time zones and scheduling meetings across the world. It has a reference clock, time sharing support, clock themes, meeting planning tools, and more.</li><br/>
-</ul><br/>
-<h2 id="lifestyle_fitness_and_cooking">Lifestyle, Fitness, and Cooking</h2><br/>
-Lifestyle apps run the gamut from meditation to room planning, and everything in between. There are quite a few apps that are aimed at relaxation, as well as some for cooking and working out.<br/>
-<br/>
-<h3 id="crouton">Crouton</h3><br/>
-<a href="https://apps.apple.com/us/app/crouton-recipe-manager/id1461650987">Recipe app Crouton</a> allows you to choose a recipe and follow along while you're cooking. A size guide lets you visualize the size of the dish, you can create meal planning card stacks to add them to a quick weekly meal plan, and there is an option for placing timers around the kitchen while you're cooking to keep an eye on what you're making in AR.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/crouton-visionos-app.jpg" alt="" width="1023" height="575" class="aligncenter size-full wp-image-933997" /><br/>
-<ul><br/>
- <li><strong><a href="https://apps.apple.com/us/app/odio-spatial-soundscapes/id1556016869">Odio</a></strong> - Odio offers immersive AR soundscapes that are designed to help users focus on work or relax. The app includes spatial audio ornaments that serve as a focal point for an immersive auditory experience.</li><br/>
- <li><a href="https://apps.apple.com/us/app/spatial-sprinkles/id6476932945"><strong>Sprinkles</strong></a> - Sprinkles is a super simple app that creates confetti showers and lets users operate a confetti cannon.</li><br/>
- <li><a href="https://apps.apple.com/gb/app/project-alleycat/id1483333906"><strong>Project Alleycat</strong></a> - Project Alleycat is a Vision Pro app that allows users to walk through the alleys in Tewkesbury, a medieval English town. The app includes guides on the history of Tewkesbury as well.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/resolve-spatial-bim-app/id6476718767">Resolve</a></strong> - Resolve is an enterprise app for Vision Pro that lets those who design, build, and operate buildings to review data on the headset. With Resolve, users can walk through buildings and explore designs before construction begins.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/smartgym-gym-home-workouts/id922744883?ls=1">SmartGym</a></strong> - SmartGym for Vision Pro lets users set up routines and exercises, learn proper technique, and monitor their fitness progress.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/animant-spatial-memories/id6452913494">Animant</a></strong> - Allows you to take a panorama to create a background, scan key objects, and animate the movement of the models in your space. It is a way of creating AR memories.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/healium-mobile/id1403144098?platform=appleVisionPro">Healium</a></strong> - Healium is a mindfulness app that offers immersive experiences designed to reduce stress and anxiety.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/ambre-recipe-organizer/id1102236212">Ambre</a></strong> - Recipe manager app Ambre allows users to open up ingredients and recipe instructions in different windows, with the windows able to be placed around the kitchen in an appropriate spot.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/elysian-fields-vision-relax/id6476831214">Elysian Fields</a></strong> - Elysian Fields is a meditation app that combines soothing sounds with high-quality visuals.</li><br/>
-<li><strong><a href="https://apps.apple.com/us/app/nuits-white-noise-soundscapes/id1667217062">Nuits</a></strong> - Nuits offers soothing sounds and backgrounds with animated miniatures. It can be used as a Pomodoro timer or to cut out background noise for better sleep and concentration.</li><br/>
-</ul><br/>
-<h2 id="entertainment">Entertainment</h2><br/>
-The entertainment category may have the most apps available on day one, with companies like Disney+ and Max developing custom experiences. There are also movie tracking apps, interactive sports apps, and more.<br/>
-<br/>
-<h3 id="disney+">Disney+</h3><br/>
-The Disney+ app for Vision Pro allows users to watch Disney+ content in four environments created by Disney, such as the Avengers Tower and Tatooine. Each of the environments includes animations and sounds that are designed to make the space feel alive, plus there are easter eggs from movies to find.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/Disney-Plus-Vision-Pro-1.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-930910" /><br/>
-<ul><br/>
- <li><strong><a href="https://apps.apple.com/us/app/max-stream-hbo-tv-movies/id1666653815">Max</a></strong> - The Max app features themed environments such as the Iron Throne room and Red Keep from the House of the Dragons show.</li><br/>
- <li>Amazon Prime Video</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/imax/id1537376352">IMAX</a></strong> - The IMAX app has a selection of 2D and 3D content, such as the Deep Sky documentary.</li><br/>
- <li><strong><a href="https://apps.apple.com/gb/app/nba-live-games-scores/id484672289">NBA</a></strong> - The NBA app on Vision Pro allows basketball fans to stream up to five broadcasts live or on demand, as well as watch real-time player and team stats.</li><br/>
- <li><strong><a href="https://www.pgatour.com/article/news/latest/2024/02/01/pga-tour-vision-experience-new-spatial-app-apple-vision-pro-february-2-reality-application-immersive?webview=1">PGA TOUR Vision</a></strong> - This app uses real-time shot tracking layered on top of 3D models of real golf courses to bring the tour to life in a user's space.</li><br/>
- <li><a href="https://apps.apple.com/us/app/mubi-stream-great-cinema/id626148774?platform=appleVisionPro"><strong>MUBI</strong></a> - MUBI content can be watched on the native MUBI app for Vision Pro.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/crunchyroll/id329913454?platform=appleVisionPro">Crunchyroll</a></strong> - Crunchyroll has a Vision Pro-optimized interface with options to customize watchlists and stream anime.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/play-save-videos-watch-later/id1596506190">Play</a></strong> - Play lets you bookmark and organize videos from streaming services, YouTube, and more to create playlists of content.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/film-noir-for-trakt-just-watch/id1528417240">FilmNoir</a></strong> - FilmNoir lets users track their favorite movies and TV shows, creating watch lists and a viewing history.</li><br/>
-<li><strong><a href="https://apps.apple.com/us/app/sequel-media-tracker/id1630746993?platform=appleVisionPro">Sequel</a></strong> - Sequel lets you keep track of movies you want to watch, games you want to play, and books you want to read all in one place.</li><br/>
-</ul><br/>
-<h2 id="communication">Communication</h2><br/>
-Popular video conferencing app Zoom has native Vision Pro support, and there are also a couple of GIF apps for finding and creating GIFs to share on social media.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/zoom-vision-pro.jpg" alt="" width="1024" height="576" class="aligncenter size-full wp-image-933387" /><br/>
-<ul><br/>
- <li><strong><a href="https://apps.apple.com/us/app/zoom-one-platform-to-connect/id546505307">Zoom</a></strong> - The Zoom app features a scalable interface that can be viewed in the real world or on a virtual backdrop. It supports Personas, much like <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a>. Later this year, the app will support 3D file sharing and Team Chat integration.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/gif-video-maker-blue-cap-co/id1625715926">GIF Editor</a></strong> - Allows you to create and combine GIFs and effects for use on social media.</li><br/>
- <li><strong><a href="https://apps.apple.com/gh/app/heypster-gif-5/id1571127299">Heypster</a></strong> - Heypster is an app that lets you search for GIFs to react with on social media.</li><br/>
-</ul><br/>
-<h2 id="audio">Audio</h2><br/>
-There are a range of audio apps that merge sound creation with gestures for a unique, immersive experience.<br/>
-<br/>
-<h3 id="djay">djay</h3><br/>
-Popular DJ software and music mixing app djay is <a href="https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929">available on the Apple Vision Pro</a>. The app has been redesigned entirely for the Vision Pro, offering a spatial interface and gesture-based controls for an immersive way to create new mixes. There are 3D turntables to interact with, dynamic light shows that accompany music, visual audio scrubbing, and fun extras like a disco ball that can be placed anywhere. Djay now integrates with <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> as well, a feature available across all of Apple's platforms.<br/>
-<br/>
-<div class="center-wrap"><iframe title="Introducing djay for Apple Vision Pro - featuring integration with Apple Music" src="https://www.youtube.com/embed/ZIFdgQ1Rzn8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-<ul><br/>
- <li><strong><a href="https://apps.apple.com/us/app/audio-vision/id6475745854">Audio Vision</a></strong> - Audio Vision is an audio analysis app that provides real-time spectrum analysis and a visualization of frequency distribution. It also includes waveform visualization for better comprehension of song and sound composition.</li><br/>
- <li><strong><a href="https://apps.apple.com/app/id149515200">Longplay</a></strong> - Longplay is a music app that puts your albums on a massive, curved wall so you can see everything in your library.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/spatial-symphony/id6476616491">Spatial Symphony</a></strong> - Spatial Symphony is a music app that allows users to create, manipulate, and explore sound using hand gestures. Users can select from a range of preset sounds and sculpt sound by moving their hands.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/nowplaying-music-trivia/id1596487035">NowPlaying</a></strong> NowPlaying has a SongDisplay feature that uses the Vision Pro microphone to identify music from any source, plus it provides interesting details about songs, albums, and artists.</li><br/>
- <li><strong><a href="https://software.moogmusic.com/">Animoog Galaxy</a></strong> - Animoog Galaxy is a music production app that combines generative visuals and audio with a user's existing environment. It has a range of synthesizer controls and 120 professionally designed presets for full design sound capabilities.</li><br/>
-<li><strong><a href="https://apps.apple.com/us/app/amazevr-concerts/id6474842602">AmazeVR Concerts</a></strong> - This app provides spatial interactive music performances, with concerts priced at &#36;13. There are performances from Zara Larsson, T-Pain, and UPSAHL, with more coming.</li><br/>
-</ul><br/>
-<br/>
-<h2 id="art_and_design">Art and Design</h2><br/>
-<ul><li><strong><a href="https://apps.apple.com/us/app/art-projector-da-vinci-eye/id6467633766">Da Vinci Eye</a></strong> - Da Vinci Eye is an app that can project an image on to any small or medium-sized surface so that you can trace it to make art. The app is designed to help users get better at drawing, painting, and other crafts. There's also a Mural Maker feature for creating large-scale art pieces.</li><br/>
- <li><a href="https://tool.planner5d.com/applevisionpro"><strong>Planner 5D</strong></a> - Planner 5D is an interior design and home improvement app that lets users view 3D design projects, customize interior items and surfaces, explore 360-degree renders and panoramas, and create designs with hundreds of catalog items.</li><br/>
-<li><strong><a href="https://apps.apple.com/us/app/livesurface-vision/id6474254673">LiveSurface</a></strong> - LiveSurface lets users place their art, photos, sculptures, and illustrations onto objects in the real world.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/bento-craft-marketing-assets/id6468541457">Bento Craft</a></strong> - Allows developers to create marketing images for their apps that can be used on social media, websites, and more.</li><br/>
-<li><strong><a href="https://apps.apple.com/de/app/scavengar-easy-ar-creation/id1438349207">Scenery</a></strong> - Scenery is a spatial computing creation and storytelling tool that allows creators to build multi-sensory immersive experiences without code.</li></ul><br/>
-<br/>
-<h2 id="education">Education</h2><br/>
-Education apps are some of the most interesting right now, with apps offering everything from an exploration of the night sky to an inside look at the heart.<br/>
-<br/>
-<h3 id="sky_guide">Sky Guide</h3><br/>
-<a href="https://apps.apple.com/us/app/sky-guide/id576588894">Sky Guide</a> has been redesigned for the Vision Pro, offering a series of experiences for users such as an auroral storm and a historic meteor shower, plus there are views of the sky in wavelengths not visible to the naked eye. Users can explore deep space with zoom binoculars and pull constellations from the sky to interact with them.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/skyguide-visionos-app.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-934006" /><br/>
-<h3 id="complete_heartx">Complete HeartX</h3><br/>
-<a href="https://apps.apple.com/us/app/complete-heartx/id6450795770">Complete HeartX</a> has photorealistic models of the heart. Gestures can be used to explore the heart from any angle, and there are details on cardiac conditions and how those conditions affect the structure and function of the heart.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/visionos-heart-app.jpg" alt="" width="3296" height="1854" class="aligncenter size-full wp-image-934007" /><br/>
-<h3 id="school_assistant">School Assistant</h3><br/>
-<a href="https://apps.apple.com/us/app/school-assistant-planner/id1465687472">School Assistant</a> is a planner app for students, allowing them to track homework, tests, class times, and more. It has a native &zwnj;visionOS&zwnj; design with translucency for windows, and as it is designed for students, it is totally free to download and use.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/school-assistant-visionos.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-933998" /><br/>
-<ul><br/>
- <li><strong><a href="https://www.foreflight.com/">Voyager</a></strong> - Voyager combines satellite imagery, high-resolution terrain, and live traffic data to provide a 3D airport exploration experience. Airports are shown in 3D on top of a floating disk that can be viewed from any angle.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/insight-heart/id1280845473?platform=appleVisionPro">Insight Heart</a></strong> - Insight Heart provides a close-up interactive look at the human heart.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/cellwalk/id1627776848?uo=2">CellWalk</a></strong> - CellWalk takes users inside the processes of life with guided lessons, an inside look into a bacteria cell, and more.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/night-sky/id475772902?platform=appleVisionPro">Night Sky</a></strong> - Night Sky is a personal planetarium app. Users can explore planets, stars, constellations, and more. The app is able to identify stars and planets that are in the sky above, and the planets and constellations can be interacted with using hand gestures.</li><br/>
-<li><strong><a href="https://apps.apple.com/us/app/schooly/id1524435833">Schooly</a></strong> - Schooly is an app for managing schoolwork and classes. It can be used for tracking assignments, getting reminders when work is due, and more.</li><br/>
-<li><strong><a href="https://apps.apple.com/us/app/subjects-school-planner/id1619679435?platform=appleVisionPro">Subjects</a></strong> - Subjects is an app for keeping tabs on homework, grades, and class schedules.</li><br/>
-</ul><br/>
-<h2 id="travel">Travel</h2><br/>
-<ul><br/>
- <li><strong><a href="https://apps.apple.com/uy/app/pines-tent-rv-camping-guide/id6469646997">Pines</a></strong> - Pines has information on more than 2,500 camping spots in the U.S., and the Vision Pro makes it easier to find and explore new spots.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/pack-repeat-packing-lists/id6473901846">Pack, Repeat</a></strong> - Pack, Repeat is an app that is designed to help users pack for a trip. It has a customizable checklist of all the items that a person might need, so that nothing is left behind.</li><br/>
-</ul><br/>
-<h2 id="shopping">Shopping</h2><br/>
-Lowe's, Zillow, and other companies have designed interactive apps that bring shopping into the living room.<br/>
-<h3 id="zillow">Zillow</h3><br/>
-Zillow has a <a href="https://www.zillowgroup.com/news/how-to-get-the-best-out-of-the-zillow-immerse-app/">useful new "Immerse" app</a> for Vision Pro that offers realistic, immersive virtual tours of houses that are for sale. The listings offer a 3D panoramic view of every room, from ceiling to floor.<br/>
-<div class="center-wrap"><iframe title="Zillow Immerse App Demo" src="https://www.youtube.com/embed/aEzTl0sOCTc" width="1280" height="720" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-<br/>
-<h3 id="lowes">Lowe's</h3><br/>
-The <a href="https://www.prnewswire.com/news-releases/lowes-unveils-lowes-style-studio-for-apple-vision-pro-302050735.html?tc=eml_cleartime">Lowe's app for Vision Pro</a> lets users create a dream kitchen, customizing an interactive, 3D kitchen scene. There are designer-curated styles and also customization options with hundreds of real-world materials, fixtures, and appliances.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/visionos-lowes-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-933999" /><br/>
-<ul><br/>
- <li><strong><a href="https://apps.apple.com/us/app/j-crew-virtual-closet/id6473550031">J.Crew</a></strong> - The J.Crew Virtual Closet app offers live consultations and helps users explore looks in a spatial environment using a mannequin that can be dressed in J.Crew outfits.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/wayfair-decorify/id6472541408">Wayfair Decorify</a></strong> - Wayfair's Decorify app lets users browse through items and view them in their spaces.</li><br/>
- <li><strong><a href="https://apps.apple.com/ca/app/facades/id6443868157?platform=appleVisionPro">Facades</a></strong> - Michael Steeber's Facades app that's focused on Apple's retail stores is available on Vision Pro. Users can explore all of Apple's 500+ stores, track stores they've visited, favorite stores, and see changes to stores over time.</li><br/>
-</ul><br/>
-<br/>
-<h2 id="games">Games</h2><br/>
-There are quite a few games available on the Vision Pro, many of which have Vision Pro-optimized interfaces that incorporate gesture-based gameplay. Many apps that are not Vision Pro optimized will also still run on the device and can be played using a Bluetooth controller.<br/>
-<br/>
-<h3 id="wisp_world">Wisp World</h3><br/>
-<a href="https://apps.apple.com/us/app/wisp-world/id6476198961">Wisp World</a> lets Vision Pro users befriend a little forest spirit that's meant to live on your desk. It can be used alongside other apps, adding a digital friend to your workspace.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/YH2fk7y44is" title="Wisp for Apple Vision Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-Over time, the spirit's habitat will evolve as you talk to it and bond with it, and there are soothing interactions and sounds. Wisp World features lore from Liquid City's mobile game Overbeast, so fans of that game will enjoy the app.<br/>
-<br/>
-<h3 id="blackbox">Blackbox</h3><br/>
-<a href="https://apps.apple.com/us/app/blackbox-for-vision/id6458588937">Puzzle game Blackbox</a>, priced at &#36;20, tasks players with solving a series of bubble puzzles that float in the air before them. As with Blackbox on &zwnj;iPhone&zwnj;, there are unique ways to conquer the puzzles, such as moving in a certain way, using sound, and more. Development on the game will continue throughout the year, and content updates will be available for free.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/5LShA47LhIc" title="Blackbox for Vision" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br/>
-<br/>
-<h3 id="loóna">Loóna</h3><br/>
-<a href="https://loona.vision/">Loóna</a> is a spatial puzzle game where players assemble 3D dioramas to create animated scenes that come to life. The game is described as a relaxing puzzle with intuitive mechanics that take advantage of the Vision Pro's gesture controls. The game is free to download, but unlocking the full version requires a &#36;19.99 in-app purchase.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/loona-vision-pro.jpg" alt="" width="2000" height="1124" class="aligncenter size-full wp-image-934168" /><br/>
-<h3 id="what_the_golf">What the Golf?</h3><br/>
-<a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a> game <a href="https://apps.apple.com/us/app/what-the-golf/id1415190483?ign-itscg=30200ADM">What the Golf?</a> for &zwnj;visionOS&zwnj; brings a golf course into the user's surroundings, and the idea is to play a round of gof with horses, cars, houses, planets, and others. It is similar to the What the Golf? game for iOS, but designed for a spatial environment.<br/>
-<br/>
-<div class="center-wrap"><iframe title="WHAT THE GOLF? - Apple Vision Pro Launch Trailer" src="https://www.youtube.com/embed/LaJ5yzmlNYs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-<h3 id="super_fruit_ninja">Super Fruit Ninja</h3><br/>
-<a href="https://apps.apple.com/us/app/super-fruit-ninja/id6450550849">Super Fruit Ninja</a> combines familiar gameplay with spatial computing. Players can slice and dice pineapples and watermelons by jabbing at them, send bombs away by pushing them, and fire shuriken into fruit with their palms.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/Apple-Vision-Pro-Super-Fruit-Ninja.jpeg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-933935" /><br/>
-<ul><br/>
- <li><strong><a href="https://apps.apple.com/us/app/game-room/id1642897935">Game Room</a></strong> - Game Room offers realistic recreations of classic tabletop games like Chess, Hearts, Yacht, Sea Battle, and Solitaire with gesture-based gameplay. Games can be played solo or against others from around the world.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/skatrix-pro/id6475421760">Skatrix Pro</a></strong> - In Skatrix Pro, spatial hand gestures can be used with a 3D joystick to control a skateboarder and perform physics-based tricks.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/stitch/id1581052096?platform=appleVisionPro">Stitch</a></strong> - Stitch is a puzzle game where players fill in each level by stitching on an embroidery hoop. The Vision Pro version features a more interactive gameplay environment with a realistic embroidery engine.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/illustrated/id1597761942?platform=appleVisionPro">Illustrated</a></strong> - Illustrated is a puzzle game that features illustrations from famous artists around the world.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/lego-builders-journey/id1441636691">LEGO Builder's Journey</a></strong> - With LEGO Builder's Journey, virtual LEGO bricks can be used to solve puzzles. This is a story-based app where users progress by figuring out how to solve each puzzle.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/synth-riders/id6473729300">Synth Riders</a></strong> - Synth Riders is an immersive rhythm game that tasks players with catching notes and dodging obstacles to the beet of the music. There are more than 70 soundtracks, and options for full immersion or gameplay in the user's room.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/puzzling-places/id6473639841">Puzzling Places</a></strong> - Puzzling Places is a 3D jigsaw puzzle game where users put together photorealistic miniatures of real places.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/crosscraft-custom-crosswords/id6472669260">CrossCraft</a></strong> - CrossCraft is an app that lets users create their own crossword puzzles for friends and family members.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/mahjong-space/id6474938032">Mahjong Space</a></strong> - Mahjong Space is a multiplayer spatial Mahjong game that can be set up on a real physical tabletop or in a floating window for multitasking while playing.</li><br/>
- <li><strong><a href="https://tiny-fins.com/">TinyFins</a></strong> - In TinyFins, users guide a school of fish through rings using their hands while avoiding sharks and pufferfish.</li><br/>
- <li><strong><a href="https://apps.apple.com/us/app/mtg-scanner-lions-eye/id1546754798?ign-itscg=30200&amp;ign-itsct=apps_box">Lion's Eye</a></strong> - Lion's Eye isn't quite a game itself, but it is game adjacent. It is a Magic: The Gathering collection manager and deck builder.</li><br/>
- <li><strong><a href="https://itunes.apple.com/app/apple-store/id6472619150">Ploppy Pairs</a> and <a href="https://itunes.apple.com/app/apple-store/id6472882190">Where is Ploppy</a></strong> - Ploppy Pairs is a simple game where users match cards together using SharePlay during a &zwnj;FaceTime&zwnj; call. Where is Ploppy sends a slew of objects into the space around the user, and the user is asked to find a specific object. The game supports VoiceOver and an aural navigation system to help players that are visually impaired find the cards.</li><br/>
-<li><strong><a href="https://apps.apple.com/us/app/void-x/id1622479769?platform=appleVisionPro">Void-X</a></strong> - Void-X is an arcade shoot 'em up game with a retro aesthetic and room-wide effects on Vision Pro.</li><br/>
-</ul><br/>
-<h2 id="popular_apps_not_on_vision_pro">Popular Apps Not on Vision Pro</h2><br/>
-Several popular apps do not plan to offer Vision Pro compatibility. These companies have also disabled the feature that would allow the &zwnj;iPad&zwnj; versions of their app to be used on Vision Pro.<br/>
-<ul><br/>
- <li>Netflix</li><br/>
- <li>Spotify</li><br/>
- <li>YouTube</li><br/>
- <li>Facebook</li><br/>
- <li>WhatsApp</li><br/>
-</ul><br/>
-<h2 id="more_apps">More Apps</h2><br/>
-Find a favorite Vision Pro app that we don't have on our list? Let us know in the comments below!<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/vision-pro-app-list/">Apple Vision Pro Apps to Check Out</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-apps-to-check-out.2418189/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
