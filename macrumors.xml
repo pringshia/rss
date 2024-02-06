@@ -14,12 +14,36 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 05 Feb 2024 16:10:13 PST</lastBuildDate>
+	<lastBuildDate>Mon, 05 Feb 2024 20:02:30 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>PSA: You&#039;ll Have to Visit an Apple Store If You Forget Your Vision Pro Passcode</title>
+		<link>https://www.macrumors.com/2024/02/05/vision-pro-passcode-apple-store/</link>
+		<comments>https://forums.macrumors.com/threads/psa-youll-have-to-visit-an-apple-store-if-you-forget-your-vision-pro-passcode.2418592/</comments>
+		<pubDate>Mon, 05 Feb 2024 17:24:43 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/05/vision-pro-passcode-apple-store/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Vision Pro</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> owners who forget the passcode they set will need to take the device to an Apple retail location to get it reset, reports <a href="https://www.bloomberg.com/news/articles/2024-02-05/forgot-your-apple-vision-pro-s-passcode-you-may-have-to-take-it-back-to-store"><em>Bloomberg</em>'s Mark Gurman</a>. There is apparently no on-device way to reset a Vision Pro passcode if it is forgotten.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/Apple-Vision-Pro-Dual-Loop-Band-Purple-Feature-2.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-929938" /><br/>
+By default, the Vision Pro asks for a six-digit passcode when it is being set up, which must be entered twice. Customers can opt for a longer or shorter passcode. Optic ID can be used in lieu of a passcode, but it works like <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>, and the passcode is required after a restart and in certain other situations.<br/>
+<br/>
+Customers who have forgotten their Vision Pro passcodes have been told by Apple that they will need to visit a retail store for a fix or will need to ship the headset to Apple if there isn't a nearby store. Like Apple's iOS devices, the incorrect passcode cannot be entered too many times or the device will be disabled, with a waiting period before a passcode can be entered again. Removing the passcode requires erasing all content on the Vision Pro.<br/>
+<br/>
+The <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> also must be erased to get rid of a passcode, but it is a process that can be done at home with a Mac or PC. The Apple Watch, which cannot connect to a Mac or PC, can be reset on the device itself using the Digital Crown or on a connected &zwnj;iPhone&zwnj;.<br/>
+<br/>
+There is an erase content setting on the Vision Pro, but there is no way to get into the reset mode using a combination of button presses. Erasing Vision Pro can only be done through the Settings app.<br/>
+<br/>
+Customers who have <a href="https://www.macrumors.com/2024/02/02/apple-selling-vision-pro-developer-strap/">the &#36;300 Developer Strap</a> may be able to wipe the device from a Mac, but most users will not be able to get this accessory as it is limited to registered developers in the United States.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/05/vision-pro-passcode-apple-store/">PSA: You&#039;ll Have to Visit an Apple Store If You Forget Your Vision Pro Passcode</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/psa-youll-have-to-visit-an-apple-store-if-you-forget-your-vision-pro-passcode.2418592/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Preparing iOS 17.3.1 Update for iPhone</title>
@@ -35,7 +59,7 @@
 		<description><![CDATA[Apple appears to be internally testing an iOS 17.3.1 update for the iPhone, based on evidence of the software version in our website's analytics logs this week.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2023/06/General-iOS-17-Feature-Orange-Purple.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-898582" /><br/>
-Our logs have revealed the existence of several iOS 17 versions before Apple released them, ranging from <a href="https://www.macrumors.com/2023/10/03/apple-preparing-ios-17-0-3/">iOS 17.0.3</a> to <a href="https://www.macrumors.com/2023/12/18/apple-preparing-ios-17-2-1/">iOS 17.2.1</a>. It is therefore likely, but not guaranteed, that Apple will follow through with releasing iOS 17.3.1.<br/>
+Our logs have revealed the existence of several iOS 17 versions before Apple released them, ranging from <a href="https://www.macrumors.com/2023/10/03/apple-preparing-ios-17-0-3/">iOS 17.0.3</a> to <a href="https://www.macrumors.com/2023/12/18/apple-preparing-ios-17-2-1/">iOS 17.2.1</a>, so there is a good chance that Apple will follow through with releasing iOS 17.3.1.<br/>
 <br/>
 iOS 17.3.1 should be a minor update that addresses software bugs and/or security vulnerabilities. <a href="https://www.macrumors.com/2023/02/13/apple-releases-ios-16-3-1/">iOS 16.3.1</a> was released on February 13 last year, and <a href="https://www.macrumors.com/2022/02/10/apple-releases-ios-15-3-1/">iOS 15.3.1</a> was released on February 10 in 2022, so it is likely that iOS 17.3.1 will be released within the next week or so if Apple sticks to a similar timeframe as in the past few years.<br/>
 <br/>
@@ -751,138 +775,6 @@ The first beta of iOS 17.4 <a href="https://www.macrumors.com/2024/02/02/next-ge
 Each week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.<br/>
 <br/>
 So if you want to have <a href="https://mailchi.mp/macrumors/feb-1-2024">top stories</a> like the above recap delivered to your email inbox each week, <b><a href="http://eepurl.com/OHdUX">subscribe to our newsletter</a></b>!<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/top-stories/">Top Stories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/03/top-stories-apple-vision-pro-launch/">Top Stories: Apple Vision Pro Launch, Next-Generation CarPlay Features, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/top-stories-apple-vision-pro-launch-next-generation-carplay-features-and-more.2418302/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Music vs. Spotify Buyer&#039;s Guide</title>
-		<link>https://www.macrumors.com/guide/apple-music-vs-spotify-buyers-guide/</link>
-		<comments>https://forums.macrumors.com/threads/apple-music-vs-spotify-buyers-guide.2418272/</comments>
-		<pubDate>Sat, 03 Feb 2024 00:00:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/apple-music-vs-spotify-buyers-guide&#038;post_date=1706958000/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Buyer's Guide</category>
-		<category>Featured</category>
-		<category>Spotify</category>
-		<category>Apple Music</category>
-		
-
-		<description><![CDATA[<a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> and Spotify overwhelmingly dominate the music streaming space, but the two services offer surprisingly different experiences despite their competitive pricing, so which is best?<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/Apple-Music-vs-Spotify-Feature-1.jpg" alt="" width="2000" height="1125" class="alignnone size-full wp-image-930264" /><br/>
-While Spotify has been around for longer than &zwnj;Apple Music&zwnj;, both services are now very widely adopted. &zwnj;Apple Music&zwnj; and Spotify have similar libraries with over 100 million songs, with features like personalized playlists, live lyrics, collaboration, crossfade, and SharePlay support, making it all the more difficult to choose between them. Read on for a detailed comparison to help you choose the music streaming service that's best for you.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;Apple Music&zwnj;</th><br/>
- <th>Spotify</th><br/>
- </tr><br/>
- <tr><br/>
- <td>Advanced library management, allowing users to curate a collection of music with a wide range of sorting options</td><br/>
- <td>No "library;" add songs to a playlist of liked tracks instead</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Basic music discovery algorithm</td><br/>
- <td>Advanced music discovery algorithm</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Limited personalization comprising "New Music Mix," "Get Up Mix," "Chill Mix," and a personal radio station</td><br/>
- <td>Personalized mixes including "Release Radar," "Discover Weekly," and "Tastebreakers," in addition to thousands of algorithmic playlists that are tailored to the user</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Emphasis on human-curated playlists, with limited use of algorithmic playlists</td><br/>
- <td>Emphasis on advanced algorithmic playlists</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Occasionally offers exclusive releases from major artists</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td>Spatial Audio with Dolby Atmos for a virtual surround sound experience with supported songs</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td>Lossless Audio up to 24-bit/192 kHz</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td>Apple Digital Masters specification</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td>&zwnj;Apple Music&zwnj; 1, &zwnj;Apple Music&zwnj; Hits, and &zwnj;Apple Music&zwnj; Country radio with live DJs, interviews, specials and show archive</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td>In-app music videos</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>In-app podcasts and audiobooks</td><br/>
- </tr><br/>
- <tr><br/>
- <td>&zwnj;Apple Music&zwnj; Classical app based on Primephonic</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td>&zwnj;Apple Music&zwnj; Sing karaoke experience</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td>Limited social sharing options</td><br/>
- <td>Comprehensive social sharing options, such as the ability to see what friends are listening to in real-time</td><br/>
- </tr><br/>
- <tr><br/>
- <td>&zwnj;Apple Music&zwnj; Replay year-long retrospective experience with limited social media support</td><br/>
- <td>Spotify Wrapped end-of-year retrospective experience with better social media support</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Closely integrated with the Apple ecosystem, including <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a>, Vision Pro, <a href="https://www.macrumors.com/guide/siri/">Siri</a>, and Apple Fitness+</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td>Available on all Apple devices and Android, as well as some games consoles and TVs</td><br/>
- <td>Available across a wide range of devices, including non-Apple ones, but no support for &zwnj;Apple TV&zwnj; and Vision Pro</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Known for user-friendly, cross-platform design</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Ability to control Spotify on one device from another</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Integration with existing iTunes libraries, allowing users to merge a personal music collection with the streaming library and upload and stream tracks that aren't in the &zwnj;Apple Music&zwnj; library</td><br/>
- <td>Ability to play local audio files</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Listen to &zwnj;Apple Music&zwnj; 1, &zwnj;Apple Music&zwnj; Hits, or &zwnj;Apple Music&zwnj; Country for free</td><br/>
- <td>Full library access and shuffled playlists with ads for free</td><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>Individual subscription</strong>: &#36;10.99/month<br/>
-<strong>Student subscription</strong>: &#36;5.99/month<br/>
-<strong>Family subscription</strong>: &#36;16.99/month</td><br/>
- <td><strong>Individual subscription</strong>: &#36;10.99/month<br/>
-<strong>Student subscription</strong>: &#36;5.99/month<br/>
-<strong>"Duo" household subscription</strong>: &#36;14.99/month<br/>
-<strong>Family subscription</strong>: &#36;16.99/month</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Included in all <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a> subscription bundle tiers</td><br/>
- <td></td><br/>
- </tr><br/>
- </table><br/>
-<div class="clear"></div><br/>
-<br/>
-Both &zwnj;Apple Music&zwnj; and Spotify boast extensive music libraries, sophisticated personalization features, and comparable subscription models, but the nuances of their offerings cater to slightly different audiences. When choosing between the services, you should decide which of the two following groups you fall into.<br/>
-<br/>
-&zwnj;Apple Music&zwnj; touts a seamless and feature-rich listening experience for Apple device users, offering particular advantages to those who are heavily embedded in Apple's ecosystem. The service is particularly appealing to audiophiles and those invested in high-quality audio, thanks to features like Lossless Audio and Spatial Audio. &zwnj;Apple Music&zwnj;'s exclusive content, such as live radio shows and the &zwnj;Apple Music&zwnj; Classical app, provides unique value to those seeking more than just a vast music library. &zwnj;Apple Music&zwnj; is the preferred choice for users who appreciate the convenience of &zwnj;Siri&zwnj; integration, conventional library management, the ability to merge their own music library with the streaming service, and who are possibly already subscribed to other Apple services, making the &zwnj;Apple One&zwnj; bundle an attractive proposition.<br/>
-<br/>
-Spotify, on the other hand, excels in music discovery and social sharing. Its sophisticated algorithms that power features like Discover Weekly and Release Radar are unmatched for surfacing new music tailored to the listener's tastes. Spotify's cross-platform design and compatibility with a wide range of devices make it a versatile option for users with a diverse range of hardware. The service's superior social features, such as the ability to see what friends are listening to in real-time, enrich the music discovery process. Spotify is the go-to choice for users who value these social and discovery aspects highly, as well as those who appreciate the option of a free, ad-supported tier.<br/>
-<br/>
-Which music streaming service do you prefer and why? Let us know in the comments.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/spotify/">Spotify</a>, <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/apple-music-vs-spotify-buyers-guide/">Apple Music vs. Spotify Buyer&#039;s Guide</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-music-vs-spotify-buyers-guide.2418272/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
