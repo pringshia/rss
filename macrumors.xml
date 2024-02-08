@@ -14,12 +14,203 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 07 Feb 2024 16:09:54 PST</lastBuildDate>
+	<lastBuildDate>Wed, 07 Feb 2024 20:02:40 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Security Researcher Allegedly Exploited Internal Apple Tool to Steal Millions</title>
+		<link>https://www.macrumors.com/2024/02/07/security-researcher-apple-theft/</link>
+		<comments>https://forums.macrumors.com/threads/security-researcher-allegedly-exploited-internal-apple-tool-to-steal-millions.2418847/</comments>
+		<pubDate>Wed, 07 Feb 2024 17:29:35 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/07/security-researcher-apple-theft/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[A security researcher who reported bugs to Apple was arrested in January for defrauding the company out of millions of dollars, according to a report from <a href="https://www.404media.co/security-researcher-allegedly-hacked-apples-backend-scammed-2-5-million/"><em>404 Media</em></a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-896108" /><br/>
+The researcher, Noah Roskin-Frazee, was accused alongside a co-conspirator obtaining over &#36;3 million in products and services through more than two dozen fraudulent orders. That included around &#36;2.5 million in gift cards and over &#36;100,000 in "products and services."<br/>
+<br/>
+While Apple is not explicitly named in the <a href="https://www.documentcloud.org/documents/24412154-noah-roskin-frazee?ref=404media.co">court records</a>, an unnamed "Company A" is located in Cupertino, California, and is clearly Apple. The court mentions that one of the perpetrators used gift cards to "purchase Final Cut Pro on Company A's <a href="https://www.macrumors.com/guide/app-store/">App Store</a>," and Apple is the only company that sells the software.<br/>
+<br/>
+In 2019, Frazee and his accomplice used a password reset tool to gain access to an employee account that belonged to an unnamed "Company B," which does customer support for Apple. That account led to access to additional employee credentials, and Frazee accessed Company B's VPN servers. From there, Frazee was able to get into Apple's systems, placing fraudulent orders for Apple products.<br/>
+<br/>
+He used Apple's "Toolbox" program that could be used to edit orders after they were placed, and he changed order values to zero, added products to orders, and extended <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a> contracts. He abused Apple's program from January to March 2019.<br/>
+<blockquote>The defendants remoted into computers located in India and Costa Rica as part of the scheme, the indictment adds. The scam itself involved changing order monetary values to zero, adding products to existing orders without cost such as phones and laptops, and extending existing service contracts, the indictment adds. That included extending a customer service contract that was associated with one of the defendants and his family for an extra two years without paying.</blockquote><br/>
+Apple thanked Frazee for in a <a href="https://support.apple.com/en-us/HT214036">January support document</a> for finding several bugs in <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, and the document was published less than two weeks after he was arrested. "We would like to acknowledge Noah Roskin-Frazee and Prof. J. (ZeroClicks.ai Lab) for their assistance," reads Apple's page in reference to a Wi-Fi vulnerability.<br/>
+<br/>
+Frazee has been charged with wire fraud, mail fraud, conspiracy to commit wire fraud and mail fraud, conspiracy to commit computer fraud and abuse, and intentional damage to a protected computer. He will be required to forfeit all of the stolen goods, and he could be sentenced to more than 20 years in jail if convicted.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/07/security-researcher-apple-theft/">Security Researcher Allegedly Exploited Internal Apple Tool to Steal Millions</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/security-researcher-allegedly-exploited-internal-apple-tool-to-steal-millions.2418847/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Now Selling Refurbished 14-inch M3 MacBook Pro</title>
+		<link>https://www.macrumors.com/2024/02/07/apple-refurbished-14-inch-m3-macbook-pro/</link>
+		<comments>https://forums.macrumors.com/threads/apple-now-selling-refurbished-14-inch-m3-macbook-pro.2418844/</comments>
+		<pubDate>Wed, 07 Feb 2024 16:51:41 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/07/apple-refurbished-14-inch-m3-macbook-pro/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		
+
+		<description><![CDATA[Apple today began offering <a href="https://www.apple.com/shop/refurbished/mac/macbook-pro">refurbished versions</a> of the 14-inch MacBook Pro with M3 chip, offering the machines at a discount for the first time since their October 2023 launch date.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/macbook-pro-bb-cyber.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-924141" /><br/>
+Pricing on the refurbished 14-inch MacBook Pro models starts at &#36;1,359, a &#36;240 discount off of the original &#36;1,599 starting price.<br/>
+<br/>
+As of right now, Apple appears to be offering only MacBook Pro models with the standard M3 chip, with no M3 Pro or M3 Max machines available for purchase. Apple has several configurations listed with additional storage space.<br/>
+<br/>
+Some of the entry-level models have already sold out, and availability will fluctuate as Apple restocks the refurbished store. Customers looking for a specific configuration should check back often.<br/>
+<br/>
+All of Apple's refurbished Macs are close to identical to new products. They are subject to a refurbishment process that includes full functionality testing, with any defective modules replaced, as well as a thorough cleaning and inspection. Refurbished products are eligible for <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a>+ and have the same 14-day return period as new Apple devices.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/07/apple-refurbished-14-inch-m3-macbook-pro/">Apple Now Selling Refurbished 14-inch M3 MacBook Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-selling-refurbished-14-inch-m3-macbook-pro.2418844/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.4 Beta: All the New Features</title>
+		<link>https://www.macrumors.com/guide/ios-17-4-beta-features/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-4-beta-all-the-new-features.2418843/</comments>
+		<pubDate>Wed, 07 Feb 2024 16:37:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-17-4-beta-features&#038;post_date=1707363420/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple is working on a new iOS 17.4 update that brings some major changes to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> (and the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>) in Europe. Some of the biggest updates are only going to update people in the European Union, but there are also plenty of features in iOS 17.4 that are available worldwide. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/iOS-17.4-Feature-Blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932462" /><br/>
+In this article, we've rounded up everything new so far in iOS 17.4. <br/>
+<br/>
+<h2 id="eu_changes">EU Changes</h2><br/>
+Apple implemented notable changes to the way the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> and apps operate in the European Union in order to comply with the Digital Markets Act. These changes are included in iOS 17.4, but are limited to countries that are in the European Union.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-Black.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-833990" /><br/>
+<h3 id="alternative_app_stores_and_new_app_store_terms">Alternative App Stores and New App Store Terms</h3><br/>
+App developers in the EU can opt to offer alternative app stores or install their apps through alternative stores, and Apple has a whole new fee structure that goes along with this change. There's a new business structure that developers can opt in to, which applies to both apps distributed in the &zwnj;App Store&zwnj; and apps that are distributed through alternative means.<br/>
+<br/>
+App developers using the new system will need to pay a standard fee of 0.50 euros per user per year, with the first million installs offered for free. Apps distributed through alternative app stores will have no commission. Apps distributed through the &zwnj;App Store&zwnj; will pay a reduced 17 percent commission, or 10 percent for those in the small business program or for user subscriptions older than a year.<br/>
+<br/>
+Developers can choose not to opt in to the new system and can use the existing system with the same 15/30 percent commission that's available elsewhere in the world. Apple has a fee calculator to help developers determine what they'll pay with the existing setup, with the new setup, with the new setup using alternative app stores, and with the new setup using the &zwnj;App Store&zwnj;.<br/>
+<br/>
+Users are able to set their preferred alternative app store as the default app store on their device if desired. EU users will see an option for this in the Settings app.<br/>
+<br/>
+There are a huge number of behind-the-scene changes that are enabling this feature in the EU, with updates to all kinds of system messaging. Users in the EU will, for example, get a pop up warning when an app from an alternative app store contains malware, and there are new screens for verifying the information from an alternative app.<br/>
+<br/>
+A Screen Time setting will allow parents to decide whether their children's devices are able to install apps from alternative app marketplaces.<br/>
+<br/>
+<h2 id="alternative_payment_options">Alternative Payment Options</h2><br/>
+Apple is also allowing apps to use alternative payment options in their apps, and there is no longer a requirement to use in-app purchase. Developers who distribute apps through the &zwnj;App Store&zwnj; and use an alternative payment option will see a three percent discount in their &zwnj;App Store&zwnj; fees.<br/>
+<br/>
+Developers who distribute through alternative apps and also use an alternative payment option will pay Apple no fees beyond the set 0.50 euro fee per user.<br/>
+<br/>
+With alternative payments, purchases for digital goods and services can be made directly in an app or a developer can choose to link to their website to have a user make a payment. Apple is requiring developers to use a known, secure payment provider.<br/>
+<br/>
+<h3 id="third-party_browser_updates">Third-Party Browser Updates</h3><br/>
+After updating to iOS 17.4, EU users that open Safari will see a pop up that allows them to choose a new default browser option from a list of the most popular browsers on iOS.<br/>
+<br/>
+Apple is also allowing alternative browser engines, and will not limit browsers like Chrome to the WebKit engine.<br/>
+<br/>
+<h3 id="nfc_access">NFC Access</h3><br/>
+Third-party payment apps and banks have access to the NFC chip in the &zwnj;iPhone&zwnj; in iOS 17.4, and can offer contactless payments directly on the &zwnj;iPhone&zwnj; without using <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a> or the Wallet app in the European Economic Area. Users can set a default contactless payment provider that activates at tap-to-pay terminals or when the Side button on the &zwnj;iPhone&zwnj; is pressed twice.<br/>
+<br/>
+The option for setting a default contactless payment provider is available in the Settings app in the EU, and this section will also provide details on all apps that have requested and been granted contactless payment access.<br/>
+<br/>
+EU users can also change the default Wallet app on the &zwnj;iPhone&zwnj;.<br/>
+<br/>
+<h2 id="gaming_app_changes">Gaming App Changes</h2><br/>
+Streaming game apps are now allowed on the &zwnj;App Store&zwnj; worldwide, which means services like Xbox Cloud Gaming and Nvidia GeForce NOW can be offered as standalone &zwnj;iPhone&zwnj; and &zwnj;iPad&zwnj; apps.<br/>
+<br/>
+Apple previously only allowed cloud gaming services to be offered via the web, but dedicated apps that let users stream games from servers are now permitted.<br/>
+<br/>
+Mini-app, mini-games, chatbots, and plug-ins are also now able to use the in-app purchase system.<br/>
+<br/>
+<h2 id="new_emoji">New Emoji</h2><br/>
+The iOS 17.4 beta adds new emoji characters that include lime, an edible brown mushroom, a phoenix, a broken chain, shaking head vertically (as in a "yes" nod), and shaking head horizontally (a "no" head shake).<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/iOS-17.4-New-Emoji-Feature-2.5.jpg" alt="" width="1920" height="1077" class="aligncenter size-full wp-image-932812" /><br/>
+These emoji are part of the Unicode 15.1 update that was <a href="https://www.macrumors.com/2023/09/19/ios-17-future-emoji/">approved in September 2023</a>.<br/>
+<br/>
+<h2 id="messaging_with_siri">Messaging with Siri</h2><br/>
+The Automatically Send Messages setting under <a href="https://www.macrumors.com/guide/siri/">Siri</a> & Search has been renamed "Messaging with &zwnj;Siri&zwnj;," and there is an option to set &zwnj;Siri&zwnj; to read incoming messages in a specific language like Spanish, French, German, Chinese, and many more.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/ios-17-4-messaging-with-siri.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-932819" /><br/>
+The change does not update the primary language that &zwnj;Siri&zwnj; listens in and responds to, but is limited to message playback.<br/>
+<br/>
+<h2 id="podcasts_and_music">Podcasts and Music</h2><br/>
+The "Listen Now" tabs in <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> and Podcasts have been renamed to "Home."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/apple-music-home.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-932818" /><br/>
+<br/>
+<h2 id="podcast_transcripts">Podcast Transcripts</h2><br/>
+The Podcasts app now offers transcripts, similar to how lyrics work in the &zwnj;Apple Music&zwnj; app. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/podcast-app-transcript.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-932875" /><br/>
+Podcasts also uses the &zwnj;Apple Music&zwnj; Now Playing bar when collapsed. <br/>
+<br/>
+<h2 id="safari">Safari</h2><br/>
+The URL/search bar in Safari is now wider than it was before.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/ios-17-4-wider-safari-url-bar.jpg" alt="" width="2807" height="1579" class="aligncenter size-full wp-image-932817" /><br/>
+<h2 id="stolen_device_protection">Stolen Device Protection</h2><br/>
+In the Stolen Device Protection section of the Settings app, there is now an option to require a security delay always or only when away from familiar locations. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/ios-17-4-stolen-device-protection.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-932874" /><br/>
+<br/>
+<h2 id="next-generation_carplay_support">Next-Generation CarPlay Support</h2><br/>
+Next-generation <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a> is set to launch in the U.S. later in 2024, and code in iOS 17.4 references eight new &zwnj;CarPlay&zwnj; apps. <br/>
+<br/>
+<ul><li><strong>Car Camera:</strong> This app will display the vehicle's rear-view camera feed.</li><br/>
+<li><strong>Charge:</strong> For electric vehicles, this app will display battery level, charging status, time remaining until the battery is fully charged, and more.</li><br/>
+<li><strong>Climate:</strong> This app will provide access to a vehicle's climate controls within &zwnj;CarPlay&zwnj;, allowing you to adjust the temperature of the A/C or heating system, fan speed, heated seats, heated steering wheel, and more.</li><br/>
+<li><strong>Closures:</strong> This app will display if any of the vehicle's doors are opened, and it might also display vehicle warning symbols.</li><br/>
+<li><strong>Media:</strong> This app will provide access to FM and AM radio station controls within &zwnj;CarPlay&zwnj;, along with other media options like SiriusXM. It is unclear if SiriusXM will offer satellite connectivity, or remain limited to internet streaming. Users will be able to select from a list of music genres, such as Top 40 and Rock.</li><br/>
+<li><strong>Tire Pressure:</strong> This app will display air pressure for each of the vehicle's tires, and provide low pressure, high pressure, and flat tire warnings.</li><br/>
+<li><strong>Trips:</strong> This app will provide a variety of driving-related data, including the vehicle's average speed, fuel efficiency or energy efficiency, the total time elapsed and distance traveled on a trip, and more.</li></ul>An image in iOS 17.4 beta suggests that &zwnj;CarPlay&zwnj; will also likely display a "Goodbye" screen after the driver shuts off the vehicle.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/Next-Generation-CarPlay-Goodbye.jpg" alt="" width="1374" height="484" class="aligncenter size-full wp-image-932992" /><br/>
+<br/>
+<h2 id="shareplay">SharePlay</h2><br/>
+SharePlay music control <a href="https://www.macrumors.com/2024/01/26/shareplay-music-control-homepod-apple-tv/">is expanding</a> to the <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> and <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> with iOS 17.4 and tvOS 17.4. With the feature, a user's family and friends can control the music that is playing on a &zwnj;HomePod&zwnj; or an &zwnj;Apple TV&zwnj;, so long as the user has granted permission.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/SharePlay-Music-Control-Expanding-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-933114" /><br/>
+The person who owns the &zwnj;HomePod&zwnj; or the &zwnj;Apple TV&zwnj; needs to have an &zwnj;Apple Music&zwnj; subscription, but the person who is granted SharePlay access can play music using &zwnj;Apple Music&zwnj; without a subscription.<br/>
+<br/>
+Connecting to a &zwnj;HomePod&zwnj; or &zwnj;Apple TV&zwnj; to use SharePlay can be done by scanning a QR code on the device owner's &zwnj;iPhone&zwnj; (for &zwnj;HomePod&zwnj;) or &zwnj;Apple TV&zwnj;. Users can connect to a device while in the same space or remotely.<br/>
+<br/>
+<h2 id="stopwatch_live_activity">Stopwatch Live Activity</h2><br/>
+iOS 17.4 adds a Live Activity function for the Stopwatch feature on the &zwnj;iPhone&zwnj;. When activated through the Clock app, the Stopwatch now shows up in the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a> and on the Lock Screen. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/ios-17-4-stopwatch.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-933379" /><br/>
+There are controls for pausing the Stopwatch, clearing it, and starting a new lap. <br/>
+<br/>
+<h2 id="apple_tv_app">Apple TV App</h2><br/>
+The "How to Watch" section in the &zwnj;Apple TV&zwnj; app that shows where a movie or TV show can be viewed now has a list interface rather than a card interface. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/ios-17-4-how-to-watch.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-933405" /><br/>
+<br/>
+<h2 id="app_store">App Store</h2><br/>
+The &zwnj;App Store&zwnj;'s Purchase feature now shows account-wide purchase history for an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a>. It includes TV and movie purchases, music purchases, subscriptions, and app purchases, and it is the same interface that is available when accessing the purchase information for any &zwnj;Apple ID&zwnj;.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/app-store-purchase-history-ios-17-4.jpg" alt="" width="5289" height="2975" class="aligncenter size-full wp-image-933406" /><br/>
+Apps are still listed, but under a new "Apps" section.<br/>
+<br/>
+<h2 id="clock_widget">Clock Widget</h2><br/>
+There's a new City Digital Clock widget that can be added to the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> or Lock Screen.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/ios-17-4-city-digital.jpg" alt="" width="5344" height="3006" class="aligncenter size-full wp-image-935544" /><br/>
+<h2 id="release_date">Release Date</h2><br/>
+Apple will release iOS 17.4 in March, likely during the first week of the month. <br/>
+<br/>
+<br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-17-4-beta-features/">iOS 17.4 Beta: All the New Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-4-beta-all-the-new-features.2418843/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>T-Mobile Debuts &#039;Magenta Status&#039; Rewards for Subscribers</title>
@@ -474,100 +665,6 @@ Apple still labels Personas as a "beta" feature on visionOS 1.1, and hopefully i
 As a refresher, Apple says a Persona is an "authentic spatial representation" of a person that shows their facial expressions and hand movements in real time. Personas fill in for you during video calls on the Vision Pro, since the headset covers your actual face. When you set up a Persona, your eyes are also captured for the EyeSight feature, which allows others to see a render of your eyes on the Vision Pro's outward display.<br/>
 <br/>
 In a support document last week, Apple provided <a href="https://www.macrumors.com/guide/vision-pro-persona-tips/">tips for capturing an ideal Persona</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/06/visionos-1-1-beta-improved-personas/">Apple Starts Improving Vision Pro Personas in visionOS 1.1 Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-starts-improving-vision-pro-personas-in-visionos-1-1-beta.2418727/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Won&#039;t Face AliveCor Antitrust Lawsuit Over Apple Watch Heart Rate Technology</title>
-		<link>https://www.macrumors.com/2024/02/06/apple-wins-alivecor-antitrust-fight/</link>
-		<comments>https://forums.macrumors.com/threads/apple-wont-face-alivecor-antitrust-lawsuit-over-apple-watch-heart-rate-technology.2418710/</comments>
-		<pubDate>Tue, 06 Feb 2024 15:31:09 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/06/apple-wins-alivecor-antitrust-fight/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Lawsuits</category>
-		<category>Apple Antitrust</category>
-		<category>AliveCor</category>
-		
-
-		<description><![CDATA[An antitrust lawsuit that AliveCor filed against Apple back in 2021 <a href="https://www.macrumors.com/2021/05/26/alivecor-apple-watch-antitrust-lawsuit/">will not proceed</a>, with the judge overseeing the case today filing a summary judgment in Apple's favor.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2016/03/Kardia-Band-apple-watch.jpg" alt="" width="800" height="450" class="aligncenter size-full wp-image-493409" /><br/>
-The full ruling is under seal as of now due to confidentiality requests from Apple and AliveCor, but the filing makes it clear that the case went in Apple's favor and the Cupertino company was not found to have engaged in anticompetitive behavior.<br/>
-<br/>
-AliveCor claimed that its "SmartRhythm" app that worked with its ECG KardiaBand was targeted several times by Apple for <a href="https://www.macrumors.com/guide/app-store/">App Store</a> rule violations, and then rendered non-functional with a change to the Apple Watch heart rhythm algorithm in watchOS 5.<br/>
-<br/>
-When watchOS 5 launched, Apple introduced its heart rate neural network (HRNN) that improved heart rate calculations during workouts. AliveCor claimed that Apple changed the algorithm to impact the KardiaBand, and demanded that Apple continue to support the older, less accurate technology that worked with the SmartRhythm app.<br/>
-<br/>
-AliveCor argued that the watchOS 5 changes were aimed solely at preventing third-party apps from identifying irregular heart rhythms, and that the update "eliminated competition" and deprived consumers of "choice for heartrate analysis." AliveCor was seeking damages and an injunction that would require Apple to "cease its abusive conduct" and continue to support the old heart rate algorithm.<br/>
-<br/>
-Apple argued that AliveCor did not have the right to dictate Apple's design decisions, and that the request to support the older heart rate technology would require the court to be a day-to-day enforcer of how Apple engineers its products. The court ultimately agreed with Apple.<br/>
-<br/>
-Apple in a statement to <em>MacRumors</em> said AliveCor's lawsuit attempted to challenge Apple's ability to improve the Apple Watch, with the company thanking the court for its decision.<br/>
-<blockquote>"At Apple, our teams are constantly innovating to create products and services that empower users with health, wellness, and life-saving features. AliveCor's lawsuit challenged Apple's ability to improve important capabilities of the Apple Watch that consumers and developers rely on, and today's outcome confirms that is not anticompetitive. We thank the Court for its careful consideration of this case, and will continue to protect the innovations we advance on behalf of our customers against meritless claims."</blockquote><br/>
-<br/>
-AliveCor in a statement to <em>MacRumors</em> said that it is disappointed with the court's decision and will appeal.<blockquote>AliveCor is deeply disappointed and strongly disagrees with the court's decision to dismiss our anti-competition case and we plan to appeal. We will continue to vigorously protect our intellectual property to benefit our consumers and promote innovation. The dismissal decision does not impact AliveCor's ongoing business; we will continue to design and provide the best portable ECG products and services to our customers.<br/>
-<br/>
-Separately, the ITC's findings that Apple has infringed AliveCor's patents still stand. Both the ITC and U.S. Patent Trial and Appeal Board (PTAB) appeals will be reviewed at the Federal Circuit in the Northern District of California in the coming months. In other recent developments, the PTAB recently ruled in AliveCor's favor by instituting Inter Partes Review (IPR) of Apple's patents and a stay of Apple's countersuit.</blockquote>AliveCor has also filed several patent infringement lawsuits against Apple, claiming that Apple copied its cardiological detection and analysis technology. These lawsuits are separate from today's antitrust decision.<br/>
-<br/>
-<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/lawsuit/">Apple Lawsuits</a>, <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a>, <a href="https://www.macrumors.com/guide/alivecor/">AliveCor</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/06/apple-wins-alivecor-antitrust-fight/">Apple Won&#039;t Face AliveCor Antitrust Lawsuit Over Apple Watch Heart Rate Technology</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-wont-face-alivecor-antitrust-lawsuit-over-apple-watch-heart-rate-technology.2418710/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Testing Slim Camera Bump Design for Base Model iPhone 16</title>
-		<link>https://www.macrumors.com/2024/02/06/apple-iphone-16-slim-camera-bump/</link>
-		<comments>https://forums.macrumors.com/threads/apple-testing-slim-camera-bump-design-for-base-model-iphone-16.2418704/</comments>
-		<pubDate>Tue, 06 Feb 2024 14:38:40 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/06/apple-iphone-16-slim-camera-bump/</guid>
-		<dc:creator>Marko Zivkovic</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 16</category>
-		
-
-		<description><![CDATA[Over the course of the last few months, Apple has been experimenting with different camera bump designs for the standard <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models. We outlined <a href="https://www.macrumors.com/2023/12/12/early-iphone-16-prototypes/">three of Apple's prototype designs</a> back in December, but now Apple has shifted focus once again.<br/>
-<br/>
-<img class="alignnone size-full wp-image-935159" src="https://images.macrumors.com/article-new/2024/02/iPhone-16-Camera-Lozenge-2-Colors.jpg" alt="" width="2250" height="1265" /><br/>
-<br/>
-Apple's latest prototype features a vertical camera arrangement with a pill-shaped raised surface, and we've created a series of mockups based on internal designs to help readers visualize the change.<br/>
-<br/>
-The pill-shaped camera bump features two separate camera rings for the Wide and Ultrawide cameras, adopting some of the stylistic cues from earlier prototype designs. A vertical camera arrangement has remained consistent throughout the prototyping process, and Apple has not changed the position of the flash or the camera lenses with this latest update.<br/>
-<br/>
-<img class="alignnone size-full wp-image-935161" src="https://images.macrumors.com/article-new/2024/02/iPhone-16-Camera-Lozenge-2-Perspective.jpg" alt="" width="2500" height="1406" /><br/>
-<br/>
-Our findings align with schematics recently <a href="https://twitter.com/MajinBuOfficial/status/1754127911202828783">shared by Majin Bu</a> on social media website X. Bu's leaked images also feature the same updated design.<br/>
-<br/>
-The latest camera look that Apple is experimenting with draws inspiration from older <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> models, such as the &zwnj;iPhone&zwnj; X. The &zwnj;iPhone&zwnj; X also had a pill-shaped camera with a slim bump design. While Apple used a vertical camera for the &zwnj;iPhone&zwnj; 12 as well, it had a wider square bump that also housed the flash and microphone.<br/>
-<br/>
-With the vertical camera layout, we are expecting Apple to bring Spatial Video recording to the base model &zwnj;iPhone 16&zwnj; and &zwnj;iPhone 16&zwnj; Plus models. Right now, the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models have a diagonal camera arrangement and are not able to capture spatial video, a feature that is so far limited to the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models and the Vision Pro headset itself.<br/>
-<br/>
-Apart from the updated camera bump design, more recent &zwnj;iPhone 16&zwnj; prototypes include slight modifications to the Action Button and Capture Button, <a href="https://www.macrumors.com/2024/01/12/apple-iphone-16-pro-action-button-tweaks/">as we reported previously</a>. The latest prototype units feature a smaller Action Button, akin to the one used on &zwnj;iPhone 15 Pro&zwnj;, along with a <a href="https://www.macrumors.com/2023/09/25/iphone-16-capture-button/">pressure-sensitive Capture Button</a> that sits flush with the frame of the device. While the camera bump design is largely a cosmetic update affecting the glass backplate, the change to the Action Button during the prototyping phase is more significant. Apple's updates suggest that it has scrapped its initial idea of bringing a <a href="https://www.macrumors.com/2023/11/30/iphone-16-action-button-all-models/">capacitive Action Button</a> to the &zwnj;iPhone 16&zwnj; range.<br/>
-<br/>
-Note that what we've shared here is sourced from pre-production information, and it may not ultimately reflect the design of the final mass-production units that are released this fall. As we've seen with previous &zwnj;iPhone&zwnj; models, Apple creates multiple designs and hardware configurations as part of the development process, and the &zwnj;iPhone 16&zwnj; range is no exception. More tangible information will come to light as the devices move closer to the EVT (Engineering Validation Testing) phase of development.<br/>
-<br/>
-For additional details on what to expect, check out our dedicated rumor roundup pages for <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> and <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/06/apple-iphone-16-slim-camera-bump/">Apple Testing Slim Camera Bump Design for Base Model iPhone 16</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-testing-slim-camera-bump-design-for-base-model-iphone-16.2418704/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Eve&#039;s Matter-Enabled Energy Outlet Now Available for Purchase</title>
-		<link>https://www.macrumors.com/2024/02/06/eve-energy-outlet-now-available/</link>
-		<comments>https://forums.macrumors.com/threads/eves-matter-enabled-energy-outlet-now-available-for-purchase.2418700/</comments>
-		<pubDate>Tue, 06 Feb 2024 13:43:58 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/06/eve-energy-outlet-now-available/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>HomeKit</category>
-		<category>Eve</category>
-		<category>Thread</category>
-		<category>Matter</category>
-		
-
-		<description><![CDATA[Eve Systems today announced that its Matter-enabled wall-in Eve Energy Outlet is available for purchase both <a href="https://www.evehome.com/en-us/eve-energy-outlet">from the Eve Store</a> and from <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CT62FC6W">Amazon</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-927012" src="https://images.macrumors.com/article-new/2023/12/eve-energy-outlet.jpg" alt="" width="2000" height="1125" /><br/>
-Announced back in December, the Eve Energy Outlet is able to replace any existing outlet in a single or multi-gang installation. It connects to a smart home setup using Thread, and has Matter integration.<br/>
-<br/>
-There are two receptacles that can be controlled individually, and it offers advanced energy monitoring functionality so users can see how much energy devices are consuming. Energy monitoring is supported in the Eve app.<br/>
-<br/>
-The Eve Energy Outlet is able to integrate with other <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> products thanks to Matter, so it can be used with automations and can be controlled through the Home app and through <a href="https://www.macrumors.com/guide/siri/">Siri</a>.<br/>
-<br/>
-The Eve Energy Outlet <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CT62FC6W">is priced at &#36;50</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a>, <a href="https://www.macrumors.com/guide/eve/">Eve</a>, <a href="https://www.macrumors.com/guide/thread/">Thread</a>, <a href="https://www.macrumors.com/guide/matter/">Matter</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/06/eve-energy-outlet-now-available/">Eve&#039;s Matter-Enabled Energy Outlet Now Available for Purchase</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/eves-matter-enabled-energy-outlet-now-available-for-purchase.2418700/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
