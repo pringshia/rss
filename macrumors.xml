@@ -14,12 +14,81 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 08 Feb 2024 12:02:18 PST</lastBuildDate>
+	<lastBuildDate>Thu, 08 Feb 2024 16:10:23 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Starts Letting Developers Add Alternative App Marketplaces to App Store Connect</title>
+		<link>https://www.macrumors.com/2024/02/08/app-store-connect-alternative-app-marketplaces/</link>
+		<comments>https://forums.macrumors.com/threads/apple-starts-letting-developers-add-alternative-app-marketplaces-to-app-store-connect.2418959/</comments>
+		<pubDate>Thu, 08 Feb 2024 14:17:03 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/08/app-store-connect-alternative-app-marketplaces/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>App Store</category>
+		<category>Apple Developer Program</category>
+		<category>App Store Connect</category>
+		
+
+		<description><![CDATA[EU developers can now add alternative app marketplaces to <a href="https://www.macrumors.com/guide/app-store/">App Store</a> Connect, <a href="https://developer.apple.com/news/releases/">Apple said today</a>. Apple is also accepting submissions for the Notarization process, which is required for all apps that will be distributed through alternative marketplaces.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/App-Store-vs-EU-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932826" /><br/>
+Apple is making these changes to &zwnj;App Store&zwnj; Connect ahead of the launch of iOS 17.4, an update that <a href="https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/">overhauls the app ecosystem in the European Union</a>. Alternative app marketplaces are special iOS apps that can be downloaded onto an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> from a website or a web browser, serving as an alternative to the &zwnj;App Store&zwnj;. App marketplaces are able to distribute iOS apps, giving developers a way to sell their apps without using the &zwnj;App Store&zwnj;.<br/>
+<br/>
+Both alternative marketplaces and apps that are added to the &zwnj;iPhone&zwnj; through one of the marketplaces are checked over by Apple to prevent malware, viruses, and similar malicious content.<br/>
+<br/>
+To add an alternative app marketplace or submit an app for Notarization, developers must <a href="https://developer.apple.com/news/?id=e59yuu15">agree to Apple's new business terms</a>. The business terms include a Core Technology Fee that requires app marketplaces to pay .50 euros per install, and apps to pay the same fee after 1 million installs.<br/>
+<br/>
+With alternative app marketplaces able to be added to &zwnj;App Store&zwnj; Connect, marketplace distribution and marketplace apps can be set up, and TestFlight can be used to beta test new features.<br/>
+<br/>
+TestFlight also supports apps that use alternative browser engines and alternative payments through third-party payment providers.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/apple-developer-program/">Apple Developer Program</a>, <a href="https://www.macrumors.com/guide/app-store-connect/">App Store Connect</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/08/app-store-connect-alternative-app-marketplaces/">Apple Starts Letting Developers Add Alternative App Marketplaces to App Store Connect</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-starts-letting-developers-add-alternative-app-marketplaces-to-app-store-connect.2418959/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Testing Improved Vision Pro Personas in visionOS 1.1</title>
+		<link>https://www.macrumors.com/2024/02/08/testing-personas-visionos-1-1/</link>
+		<comments>https://forums.macrumors.com/threads/testing-improved-vision-pro-personas-in-visionos-1-1.2418951/</comments>
+		<pubDate>Thu, 08 Feb 2024 13:14:48 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/08/testing-personas-visionos-1-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Vision Pro</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple is currently testing <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1.1, the first major update to the &zwnj;visionOS&zwnj; operating system that runs on the Vision Pro. &zwnj;visionOS&zwnj; 1.1 updates Personas, and multiple reports suggest the software makes Personas look better than before. We thought we'd take a closer look at Personas in &zwnj;visionOS&zwnj; 1.1, comparing the update to the prior &zwnj;visionOS&zwnj; 1.0.2 software.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/xEixxDkYXlo" title="Apple Vision Pro Persona FIXED in visionOS 1.1?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+Personas are a key feature on the Vision Pro, representing the user in video calls on <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a>, Zoom, and other platforms. Personas are a digital representation of the Vision Pro wearer, and are captured using the headset itself. With the Vision Pro, the wearer takes a 3D facial scan that captures their facial structure, expressions, hand movements, and more. Apple describes a Persona as an "authentic spatial representation" of a person.<br/>
+<br/>
+Apple released Personas in a beta capacity, and it's <a href="https://www.macrumors.com/2024/01/31/apple-vision-pro-personas-deeply-weird/">not hard to see why</a> with the Personas that have been shared on the initial versions of the &zwnj;visionOS&zwnj; software. Reviewers have called personas "deeply weird," "deep in the uncanny valley," "ridiculous," and "frightening."<br/>
+<br/>
+With &zwnj;visionOS&zwnj; 1.1, Personas have more natural looking eyes, skin tone improvements, and more detail that adds realism, though Apple's scanning feature still struggles with hair.<br/>
+<br/>
+Most Personas are noticeably better with the 1.1 update, but Apple still needs to do a lot of work to eliminate the otherworldly, unnatural vibe that the virtual representations give off. &zwnj;visionOS&zwnj; 1.1 is available to developers in beta right now, and it will likely see a launch in March alongside iOS 17.4.<br/>
+<br/>
+The update also adds Contact Key Verification, support for resetting the headset without a computer, and support for mobile device management.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/08/testing-personas-visionos-1-1/">Testing Improved Vision Pro Personas in visionOS 1.1</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/testing-improved-vision-pro-personas-in-visionos-1-1.2418951/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Tesla App Gains Ultra Wideband Support to Improve Phone Keys</title>
+		<link>https://www.macrumors.com/2024/02/08/tesla-app-ultra-wideband/</link>
+		<comments>https://forums.macrumors.com/threads/tesla-app-gains-ultra-wideband-support-to-improve-phone-keys.2418945/</comments>
+		<pubDate>Thu, 08 Feb 2024 12:53:35 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/08/tesla-app-ultra-wideband/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Tesla</category>
+		
+
+		<description><![CDATA[The latest Tesla software adds Ultra Wideband support (UWB) to improve the function of the built-in Phone Key feature in the Tesla app (via <em><a href="https://teslanorth.com/2024/02/08/tesla-phone-key-iphone-ultra-wideband/">Tesla North</a></em>). Tesla owners can use Phone Key to lock and unlock their vehicles without a physical key.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/12/tesla-red-orange-bg-feature.jpg" alt="" width="1560" height="827" class="aligncenter size-full wp-image-776244" /><br/>
+Ultra Wideband support provides more precise tracking capabilities than Bluetooth, which means the Phone Key feature will better recognize when an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> is near a vehicle to unlock/lock it at the appropriate time. From the release notes:<br/>
+<blockquote>Ultrawide band (UWB) technology is now available for Phone Key. So your vehicle and Phone Key can communicate with greater accuracy to more responsively lock, unlock, and open Automatic Doors.</blockquote><br/>
+Tesla owners will need both a vehicle that supports Ultra Wideband and an &zwnj;iPhone&zwnj; with Ultra Wideband to take advantage of the new capabilities. Enabling the updated UWB key requires going to the Phone Key section of the Tesla app (which must be upgraded to version 4.29.5) and following the upgrade steps.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/tesla/">Tesla</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/08/tesla-app-ultra-wideband/">Tesla App Gains Ultra Wideband Support to Improve Phone Keys</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tesla-app-gains-ultra-wideband-support-to-improve-phone-keys.2418945/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Releases macOS Sonoma 14.3.1 With Fix for Text Overlapping Bug</title>
@@ -558,75 +627,6 @@ There's a new City Digital Clock widget that can be added to the <a href="https:
 Apple will release iOS 17.4 in March, likely during the first week of the month. <br/>
 <br/>
 <br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-17-4-beta-features/">iOS 17.4 Beta: All the New Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-4-beta-all-the-new-features.2418843/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>T-Mobile Debuts &#039;Magenta Status&#039; Rewards for Subscribers</title>
-		<link>https://www.macrumors.com/2024/02/07/t-mobile-magenta-status-rewards/</link>
-		<comments>https://forums.macrumors.com/threads/t-mobile-debuts-magenta-status-rewards-for-subscribers.2418840/</comments>
-		<pubDate>Wed, 07 Feb 2024 15:54:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/07/t-mobile-magenta-status-rewards/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>T-Mobile</category>
-		
-
-		<description><![CDATA[T-Mobile <a href="https://www.t-mobile.com/news/un-carrier/magenta-status">today announced</a> that all of its customers have "Magenta Status," allowing them to access "one-of-a-kind" benefits from premium brands and services. T-Mobile says that customers can get discounts from "the biggest brands" like Hilton and Hertz.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/t-mobile-magenta-status.jpg" alt="" width="1250" height="625" class="aligncenter size-full wp-image-935555" /><br/>
-Some of the deals include 15 percent off Hilton hotel brands, no fuel refills at drop off at Dollar Rental locations, one &#36;5 movie ticket per month, and 25 percent off some shows at Live Nation amphitheaters and venues. T-Mobile says that customers can get up to &#36;1,500 a year in extra value.<br/>
-<br/>
-Magenta Status perks are in addition to the T-Mobile Tuesday rewards, with T-Mobile today adding a new "Tuesday" freebie from Little Caesars.<br/>
-<br/>
-The new Magenta Status rewards can be viewed in the T-Mobile Tuesdays app after updating to the latest version.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/t-mobile/">T-Mobile</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/07/t-mobile-magenta-status-rewards/">T-Mobile Debuts &#039;Magenta Status&#039; Rewards for Subscribers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/t-mobile-debuts-magenta-status-rewards-for-subscribers.2418840/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Plex Launches Movie Rental Store</title>
-		<link>https://www.macrumors.com/2024/02/07/plex-launches-movie-rental-store/</link>
-		<comments>https://forums.macrumors.com/threads/plex-launches-movie-rental-store.2418836/</comments>
-		<pubDate>Wed, 07 Feb 2024 15:22:31 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/07/plex-launches-movie-rental-store/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Plex</category>
-		
-
-		<description><![CDATA[Media platform Plex <a href="https://www.plex.tv/blog/welcome-to-rental-land-on-plex/">today announced</a> the launch of a dedicated movie rental store, allowing U.S. Plex users to purchase content directly from Plex rather than from a third-party store like YouTube, <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, or Amazon Video.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/plex-movie-rental-store.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-935551" /><br/>
-Popular movies like Barbie, Aquaman, Mission Impossible, Wonka, Priscilla, and more can be purchased using Plex.<br/>
-<br/>
-Plex users will have 30 days to start playback after renting a movie, and once playback begins, the movie can be watched multiple times in a 48-hour window.<br/>
-<br/>
-Along with recent movies to purchase, Plex also offers a large selection of movies that are available to watch for free on demand (with ads), as well as free live television.<br/>
-<br/>
-Plex movies can be rented through the Plex Web App on iOS devices, but purchases work on &zwnj;Apple TV&zwnj;, iOS, the Plex Web App, Fire TV, and supported smart TVs from LG, Samsung, and more. Plex does not support renting movies directly on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, or &zwnj;Apple TV&zwnj;, presumably to avoid Apple's cut.<br/>
-<br/>
-Rentals start at &#36;3.99 for older movies, but popular new releases cost up to &#36;20.99. Wonka, for example, is &#36;20.99, which is actually a dollar more than it costs to rent the movie from Apple's TV app. There is no option to purchase movies on Plex, and rented movies cannot be downloaded. <br/>
-<br/>
-Movie rentals are limited to the United States as of now, and Plex has not said whether the renting option will expand to additional countries.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/plex/">Plex</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/07/plex-launches-movie-rental-store/">Plex Launches Movie Rental Store</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/plex-launches-movie-rental-store.2418836/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases Safari Technology Preview 188 With Bug Fixes and Performance Improvements</title>
-		<link>https://www.macrumors.com/2024/02/07/apple-releases-safari-technology-preview-188/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-188-with-bug-fixes-and-performance-improvements.2418834/</comments>
-		<pubDate>Wed, 07 Feb 2024 14:58:56 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/07/apple-releases-safari-technology-preview-188/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Blurb</category>
-		<category>Safari Technology Preview</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser Apple <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed the &zwnj;Safari Technology Preview&zwnj; to test features that may be introduced into future release versions of Safari.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-785724" src="https://images.macrumors.com/article-new/2021/02/Safari-Technology-Preview-Feature.jpg" alt="" width="2368" height="1332" /><br/>
-&zwnj;Safari Technology Preview&zwnj; 188 includes fixes and updates for Accessibility, Animations, Browser Changes, CSS, Forms, Loading, Lockdown Mode, Media, Rendering, Scrolling, Storage, SVG, Web API, Web Extensions, WebAuthn, WebGL, and WebRTC.<br/>
-<br/>
-The current &zwnj;Safari Technology Preview&zwnj; release is compatible with machines running macOS Ventura and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, the latest version of macOS that Apple released in September 2023.<br/>
-<br/>
-The &zwnj;Safari Technology Preview&zwnj; update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has <a href="https://developer.apple.com/safari/download/">downloaded the browser</a>. Full release notes for the update are available <a href="https://developer.apple.com/safari/technology-preview/release-notes/">on the Safari Technology Preview website</a>.<br/>
-<br/>
-Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback from developers and users on its browser development process. &zwnj;Safari Technology Preview&zwnj; can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/07/apple-releases-safari-technology-preview-188/">Apple Releases Safari Technology Preview 188 With Bug Fixes and Performance Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-188-with-bug-fixes-and-performance-improvements.2418834/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
