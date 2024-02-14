@@ -14,12 +14,44 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 14 Feb 2024 00:03:45 PST</lastBuildDate>
+	<lastBuildDate>Wed, 14 Feb 2024 04:04:32 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple&#039;s Latest AI Tool Can Animate an Image Based on Your Description</title>
+		<link>https://www.macrumors.com/2024/02/14/apple-research-ai-tool-animates-images/</link>
+		<comments>https://forums.macrumors.com/threads/apples-latest-ai-tool-can-animate-an-image-based-on-your-description.2419416/</comments>
+		<pubDate>Wed, 14 Feb 2024 02:07:10 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/14/apple-research-ai-tool-animates-images/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple GPT</category>
+		
+
+		<description><![CDATA[Apple has made another addition to its growing AI repertoire with the creation of a tool that leverages large language models (LLMs) to animate static images based on a user's text prompts.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/apple-AI-research-dall-e.jpg" alt="" width="1792" height="1024" class="aligncenter size-full wp-image-936311" /><div class="center-wrap"><em>MacRumors image made with DALL·E</em></div><br/>
+Apple describes the innovation in a new research paper titled "<a href="https://arxiv.org/pdf/2402.06071.pdf">Keyframer: Empowering Animation Design Using Large Language Models.</a>" <br/>
+<blockquote>"While one-shot prompting interfaces are common in commercial text-to-image systems like Dall·E and Midjourney, we argue that animations require a more complex set of user considerations, such as timing and coordination, that are difficult to fully specify in a single prompt—thus, alternative approaches that enable users to iteratively construct and refine generated designs may be needed especially for animations.<br/>
+<br/>
+"We combined emerging design principles for language-based prompting of design artifacts with code-generation capabilities of LLMs to build a new AI-powered animation tool called Keyframer. With Keyframer, users can create animated illustrations from static 2D images via natural language prompting. Using GPT-4 3, Keyframer generates CSS animation code to animate an input Scalable Vector Graphic (SVG)."</blockquote>To create an animation, the user uploads an SVG image – of a space rocket, say – then types in a prompt like "generate three designs where the sky fades into different colors and the stars twinkle." Keyframer then generates CSS code for the animation, and the user can then refine it by editing the code directly or by entering additional text prompts. <br/>
+<br/>
+"Keyframer enabled users to iteratively refine their designs through sequential prompting, rather than having to consider their entire design upfront," explain the authors. "Through this work, we hope to inspire future animation design tools that combine the powerful generative capabilities of LLMs to expedite design prototyping with dynamic editors that enable creators to maintain creative control."<br/>
+<br/>
+According to the paper, the research was informed by interviews with professional animation designers and engineers. "I think this was much faster than a lot of things I've done," said one of the study participants quoted in the paper. "I think doing something like this before would have just taken hours to do."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/ai-model-animates-images-1.jpg" alt="" width="1779" height="1000" class="aligncenter size-full wp-image-936312" /><br/>
+The innovation is just the latest in a series of AI breakthroughs by Apple. Last week, Apple researchers <a href="https://www.macrumors.com/2024/02/07/apple-ai-model-edits-images-natural-language/">released</a> an AI model that harnesses the power of multimodal LLMs to perform pixel-level edits on images. <br/>
+<br/>
+In late December, Apple also <a href="https://www.macrumors.com/2023/12/21/apple-ai-researchers-run-llms-iphones/">revealed</a> that it had made strides in deploying LLMs on iPhones and other Apple devices with limited memory by inventing an innovative flash memory utilization technique.<br/>
+<br/>
+Both <em>The Information</em> and analyst Jeff Pu have said that Apple will have some kind of generative AI feature available on the ‌<a href="https://www.macrumors.com/guide/iphone/">iPhone</a>‌ and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> <a href="https://www.macrumors.com/2023/10/19/apple-generative-ai-late-2024-jeff-pu/">later in the year</a>, when <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> is released. The next version of Apple's mobile software is said to include an <a href="https://www.macrumors.com/2023/09/06/ios-18-siri-improvements/">enhanced version of Siri</a> with ChatGPT-like generative AI functionality, and has the potential to be the "biggest" update in the &zwnj;iPhone&zwnj;'s history, according to <a href="https://www.macrumors.com/2024/02/06/ios-18-biggest-update-rumor/"><em>Bloomberg</em> reporter Mark Gurman</a>. <br/>
+<br/>
+<em>(Via <em><a href="https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/">VentureBeat</a></em>.)</em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-gpt/">Apple GPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/14/apple-research-ai-tool-animates-images/">Apple&#039;s Latest AI Tool Can Animate an Image Based on Your Description</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-latest-ai-tool-can-animate-an-image-based-on-your-description.2419416/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Meta CEO Mark Zuckerberg Says Quest 3 is Better Than Apple Vision Pro</title>
@@ -525,207 +557,6 @@ Apple often introduces new iPhone colors around March or April, midway through t
 <ul><li><strong>March 2023:</strong> Apple made the iPhone 14 and iPhone 14 Plus <a href="https://www.macrumors.com/2023/03/07/apple-announces-yellow-iphone-14/">available in Yellow</a>.</li><br/>
 <li><strong>March 2022:</strong> Apple introduced a <a href="https://www.macrumors.com/2022/03/08/apple-unveils-new-iphone-13-green-and-iphone-13-pro-alpine-green-colors/">new Green color for the iPhone 13 and iPhone 13 mini</a>, and a new Alpine Green color for the iPhone 13 Pro models.</li><br/>
 <li><strong>April 2021:</strong> Apple made the <a href="https://www.macrumors.com/2021/04/20/apple-launching-iphone-12-in-new-purple-color-on-april-30/">iPhone 12 and iPhone 12 mini available in Purple</a>.</li></ul>Will the new color this year <a href="https://www.macrumors.com/2023/09/29/iphone-15-productred-possibility/">be (PRODUCT)RED</a>?<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a>, <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>, <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#11-iPad-Pro">11" iPad Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#12-9-iPad-Pro">12.9" iPad Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Don't Buy)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a>, <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/12/what-to-expect-from-apple-in-march-2024/">New MacBook Airs and iPads, iOS 17.4, and More Expected Next Month</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-macbook-airs-and-ipads-ios-17-4-and-more-expected-next-month.2419271/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 15 Pro vs. iPhone 16 Pro: 25+ Rumored Upgrades Compared</title>
-		<link>https://www.macrumors.com/guide/iphone-15-pro-vs-iphone-16-pro/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-15-pro-vs-iphone-16-pro-25-rumored-upgrades-compared.2419268/</comments>
-		<pubDate>Mon, 12 Feb 2024 08:42:52 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/iphone-15-pro-vs-iphone-16-pro&#038;post_date=1707766972/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15 Pro</category>
-		<category>iPhone 16 Pro</category>
-		
-
-		<description><![CDATA[After over a year of reports, there are now more than two dozen specific rumors about the features and improvements set to be offered by the <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a> models later this year. <br/>
-<br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/02/iPhone-15-Pro-vs-16-Pro-Feature-Cyan-Magenta.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-935694" /></div><br/>
-All of the changes the &zwnj;iPhone 16 Pro&zwnj; models are expected to feature compared to their direct forerunners are listed below, using information from reliable sources that we have <a href="https://www.macrumors.com/roundup/iphone-16-pro/">previously covered</a>. We will update this article as more rumors emerge in the coming months.<br/>
-<br/>
-<h3 id="displays">Displays</h3><br/>
-Both &zwnj;iPhone 16 Pro&zwnj; models are expected to feature larger displays than their predecessors, pushing the &zwnj;iPhone 16 Pro&zwnj; Max to be the biggest <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> ever offered. There are also reportedly improvements to the underlying OLED technology in store.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th><a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></th><br/>
- <th>&zwnj;iPhone 16 Pro&zwnj;</th><br/>
- </tr><br/>
- <tr><br/>
- <td>6.1- or 6.7-inch display</td><br/>
- <td>6.3- or 6.9-inch display</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>More efficient OLED display with brighter micro-lens technology</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-<h3 id="chip_thermals_and_connectivity">Chip, Thermals, and Connectivity</h3><br/>
-Under the hood, the &zwnj;iPhone 16 Pro&zwnj; models are rumored to bring notable improvements in processing power, thermal management, and connectivity. From a more powerful "A18 Pro" chip to advanced thermal designs and enhanced connectivity options including the latest Wi-Fi standards, these changes promise to further iterate on the &zwnj;iPhone&zwnj;'s basic specifications.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;iPhone 15 Pro&zwnj;</th><br/>
- <th>&zwnj;iPhone 16 Pro&zwnj;</th><br/>
- </tr><br/>
- <tr><br/>
- <td>A17 Pro chip (TSMC's "N3B" <a href="https://www.macrumors.com/guide/3nm/">3nm</a> process)</td><br/>
- <td>A18 Pro chip (TSMC's "N3E" enhanced &zwnj;3nm&zwnj; process)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Thermal design with copper heatsink and black foil battery casing</td><br/>
- <td>New thermal design with graphene heatsink and metal battery casing</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Snapdragon X70 5G modem</td><br/>
- <td>Snapdragon X75 5G modem</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Wi-Fi 6E connectivity</td><br/>
- <td>Wi-Fi 7 connectivity</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-<h3 id="cameras">Cameras</h3><br/>
-The &zwnj;iPhone 16 Pro&zwnj; models are slated to receive a range of substantial camera enhancements, such as a larger main camera sensor, a 48-megapixel sensor on the ultra wide camera, and a dedicated hardware button for photography and videography on the side of the device.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;iPhone 15 Pro&zwnj;</th><br/>
- <th>&zwnj;iPhone 16 Pro&zwnj;</th><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>"Capture Button" to trigger photography and videography features</td><br/>
- </tr><br/>
- <tr><br/>
- <td>1/1.28-inch main camera sensor</td><br/>
- <td><strong>iPhone 16 Pro‌ Max</strong>: 1/1.14-inch main camera sensor (12% larger)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Sony IMX-803 main camera sensor</td><br/>
- <td><strong>iPhone 16 Pro Max</strong>: Sony IMX-903 main camera sensor with stacked design for better performance, a 14-bit Analog-to-Digital Converter (ADC) for high-quality image data conversion, and Digital Gain Control (DCG) for better dynamic range and noise control</td><br/>
- </tr><br/>
- <tr><br/>
- <td>7P main camera lens</td><br/>
- <td>8P main camera lens</td><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>iPhone 15 Pro</strong>: Telephoto camera with second-generation sensor-shift optical image stabilization<br/>
-<strong>iPhone 15 Pro Max</strong>: Telephoto camera with larger sensor, folded tetraprism design, optical image stabilization, and autofocus 3D sensor-shift module</td><br/>
- <td>Telephoto camera with larger sensor, folded tetraprism design, optical image stabilization, and autofocus 3D sensor-shift module</td><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>iPhone 15 Pro</strong>: 77mm maximum focal length<br/>
-<strong>iPhone 15 Pro Max</strong>: 120mm maximum focal length</td><br/>
- <td><strong>iPhone 16 Pro</strong>: 120mm maximum focal length<br/>
-<strong>iPhone 16 Pro Max</strong>: "Super" telephoto camera with focal length above 300mm</td><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>iPhone 15 Pro</strong>: 0.5x, 1x, 2x, and 3x optical zoom<br/>
-<strong>iPhone 15 Pro Max</strong>: 0.5x, 1x, 2x, 3x, and 5x optical zoom (5x on Pro Max only)</td><br/>
- <td>0.5x, 1x, 2x, and 5x optical zoom </td><br/>
- </tr><br/>
- <tr><br/>
- <td>4P telephoto camera lens</td><br/>
- <td>5P telephoto camera lens</td><br/>
- </tr><br/>
- <tr><br/>
- <td>12-megapixel ultra wide camera</td><br/>
- <td>48-megapixel ultra wide camera</td><br/>
- </tr><br/>
- <tr><br/>
- <td>5P ultra wide camera lens</td><br/>
- <td>6P ultra wide camera lens</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-<h3 id="batteries_and_charging">Batteries and Charging</h3><br/>
-The &zwnj;iPhone 16 Pro&zwnj; models could receive some major improvements in battery technology and charging, sporting bigger, denser batteries and faster charging capabilities.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;iPhone 15 Pro&zwnj;</th><br/>
- <th>&zwnj;iPhone 16 Pro&zwnj;</th><br/>
- </tr><br/>
- <tr><br/>
- <td>Single-layer battery technology</td><br/>
- <td>Stacked battery technology for increased energy density and prolonged lifespan</td><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>iPhone 15 Pro Max</strong>: 4,422 mAh battery</td><br/>
- <td><strong>iPhone 16 Pro Max</strong>: 4,676 mAh battery (+5%)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Up to 27W wired charging</td><br/>
- <td>Up to 40W wired charging</td><br/>
- </tr><br/>
- <tr><br/>
- <td>15W charging via <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a></td><br/>
- <td>20W charging via &zwnj;MagSafe&zwnj;</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-<h3 id="other_features_and_changes">Other Features and Changes</h3><br/>
-While many of Apple's devices are rumored to receive a series of new AI-based features via software updates later this year, the &zwnj;iPhone 16 Pro&zwnj; models are expected to take these further with exclusive capabilities and an upgraded microphone.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;iPhone 15 Pro&zwnj;</th><br/>
- <th>&zwnj;iPhone 16 Pro&zwnj;</th><br/>
- </tr><br/>
- <tr><br/>
- <td>Upcoming support for new AI features in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></td><br/>
- <td>Upcoming support for new AI features in &zwnj;iOS 18&zwnj;, plus a suite of device-exclusive AI features</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Microphone</td><br/>
- <td>Upgraded microphone with improved signal-to-noise ratio and water resistance, designed to support new AI features</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Up to 1TB of storage</td><br/>
- <td>Up to 2TB of storage</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-<h3 id="dimensions">Dimensions</h3><br/>
-To accommodate the devices' larger displays, both &zwnj;iPhone 16 Pro&zwnj; models are rumored to grow in height and width, but no changes to the depth are anticipated.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;iPhone 15 Pro&zwnj;</th><br/>
- <th>&zwnj;iPhone 16 Pro&zwnj;</th><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>iPhone 15 Pro</strong>: 146.6mm height<br/>
-<strong>iPhone 15 Pro Max</strong>: 159.9mm height</td><br/>
- <td><strong>iPhone 16 Pro</strong>: 149.6mm height<br/>
-<strong>iPhone 16 Pro Max</strong>: 163.0mm height</td><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>iPhone 15 Pro</strong>: 70.60mm width<br/>
-<strong>iPhone 15 Pro Max</strong>: 76.70mm width</td><br/>
- <td><strong>iPhone 16 Pro</strong>: 71.45mm width<br/>
-<strong>iPhone 16 Pro Max</strong>: 77.58mm width</td><br/>
- </tr><br/>
- <tr><br/>
- <td><strong>iPhone 15 Pro</strong>: 187g weight<br/>
-<strong>iPhone 15 Pro Max</strong>: 221g weight</td><br/>
- <td><strong>iPhone 16 Pro</strong>: 194g weight<br/>
-<strong>iPhone 16 Pro Max</strong>: 225g weight</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-<h3 id="release_date">Release Date</h3><br/>
-The &zwnj;iPhone 16 Pro&zwnj; and &zwnj;iPhone 16 Pro&zwnj; Max are expected to launch in the fall. Apple usually hosts an event every September to unveil new &zwnj;iPhone&zwnj; models, with launch following just over a week later. For more information about the &zwnj;iPhone 16 Pro&zwnj; models, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">see our comprehensive roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Neutral)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/iphone-15-pro-vs-iphone-16-pro/">iPhone 15 Pro vs. iPhone 16 Pro: 25+ Rumored Upgrades Compared</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-pro-vs-iphone-16-pro-25-rumored-upgrades-compared.2419268/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
