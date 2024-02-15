@@ -14,12 +14,140 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 15 Feb 2024 08:02:37 PST</lastBuildDate>
+	<lastBuildDate>Thu, 15 Feb 2024 12:02:19 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Confirms iOS 17.4 Disables Home Screen Web Apps in the European Union</title>
+		<link>https://www.macrumors.com/2024/02/15/ios-17-4-web-apps-removed-apple/</link>
+		<comments>https://forums.macrumors.com/threads/apple-confirms-ios-17-4-disables-home-screen-web-apps-in-the-european-union.2419554/</comments>
+		<pubDate>Thu, 15 Feb 2024 11:02:43 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/15/ios-17-4-web-apps-removed-apple/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>European Union</category>
+		
+
+		<description><![CDATA[With the second beta of iOS 17.4, Apple <a href="https://www.macrumors.com/2024/02/08/ios-17-4-nerfs-web-apps-in-the-eu/">disabled much of the functionality</a> of Progressive Web Apps (PWAs) in the European Union. There was some speculation that it could be a temporary change or a bug related to some of the updates to the app ecosystem in Europe, but Apple has confirmed that PWAs were intentionally removed and won't be returning.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/iOS-17.4-Feature-Blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932462" /><br/>
+In an <a href="https://developer.apple.com/support/dma-and-apps-in-the-eu">update on the Developer website</a> (via <em><a href="https://9to5mac.com/2024/02/15/ios-17-4-web-apps-european-union/">9to5Mac</a></em>),  Apple explains that users in the EU will not have access to <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> web apps due to the support for alternative browser engines and the accompanying security risks and work required to implement a new solution.<br/>
+<br/>
+According to Apple, &zwnj;Home Screen&zwnj; web apps are built on WebKit and its security architecture, and are designed to "align with the privacy and security model for native apps on iOS." Storage isolation and system prompts to access privacy functions on a per-site basis are crucial.<br/>
+<br/>
+Without isolation, Apple claims that malicious web apps could read data from other web apps and gain access to a user's camera, microphone, and location without user consent. To fix these security issues, Apple would need to build a new integration architecture, which it says is not practical because of the other Digital Markets Act requirements and because &zwnj;Home Screen&zwnj; web apps aren't used by many people.<br/>
+<blockquote>The iOS system has traditionally provided support for Home Screen web apps by building directly on WebKit and its security architecture. That integration means Home Screen web apps are managed to align with the security and privacy model for native apps on iOS, including isolation of storage and enforcement of system prompts to access privacy impacting capabilities on a per-site basis.<br/>
+<br/>
+Without this type of isolation and enforcement, malicious web apps could read data from other web apps and recapture their permissions to gain access to a user's camera, microphone or location without a user's consent. Browsers also could install web apps on the system without a user's awareness and consent. Addressing the complex security and privacy concerns associated with web apps using alternative browser engines would require building an entirely new integration architecture that does not currently exist in iOS and was not practical to undertake given the other demands of the DMA and the very low user adoption of Home Screen web apps. And so, to comply with the DMA's requirements, we had to remove the Home Screen web apps feature in the EU.</blockquote><br/>
+<a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users in the European Union can access websites directly from the &zwnj;Home Screen&zwnj; through a bookmark, but PWA features won't be available. Web apps on the &zwnj;Home Screen&zwnj; will be forced to open in Safari (or another default browser) rather than in a dedicated window, there isn't support for long-term local storage, and notifications won't work.<br/>
+<br/>
+Apple says that the changes are a direct result of DMA compliance, and will affect only a "small number of users." The company also says that it regrets the impact the change will have on developers of &zwnj;Home Screen&zwnj; web apps and &zwnj;iPhone&zwnj; users.<br/>
+<br/>
+The update to &zwnj;Home Screen&zwnj; web apps comes alongside many other changes to the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> in the European Union, with Apple allowing alternative app marketplaces, alternative payment methods, different browser engines, and more.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/15/ios-17-4-web-apps-removed-apple/">Apple Confirms iOS 17.4 Disables Home Screen Web Apps in the European Union</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-confirms-ios-17-4-disables-home-screen-web-apps-in-the-european-union.2419554/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Responds to Meta&#039;s Plan to Charge 30% Fee on Boosted Posts Purchased Through App Store</title>
+		<link>https://www.macrumors.com/2024/02/15/apple-responds-to-meta-boosted-posts-fee/</link>
+		<comments>https://forums.macrumors.com/threads/apple-responds-to-metas-plan-to-charge-30-fee-on-boosted-posts-purchased-through-app-store.2419553/</comments>
+		<pubDate>Thu, 15 Feb 2024 10:39:11 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/15/apple-responds-to-meta-boosted-posts-fee/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>App Store</category>
+		<category>Meta</category>
+		
+
+		<description><![CDATA[In October 2022, Apple <a href="https://www.macrumors.com/2022/10/24/apple-updates-app-store-review-guidelines-2/">updated its App Store Review Guidelines</a> to clarify that sales of "boosted" posts in social media apps must use the App Store's in-app purchase system. Apple thereby receives up to a 30% cut of these sales.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/03/Facebook-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-786419" /><br/>
+As a result of that clarification, Meta today <a href="https://www.facebook.com/business/news/new-ways-for-small-business-to-boost-and-avoid-apple-service-charges">announced</a> that it will soon charge advertisers a 30% fee when they purchase boosted posts through the Facebook and Instagram apps for iOS. This policy will allow Meta to offset the amount that it will owe Apple for each sale — it is essentially passing on the added cost to its customers. Advertisers who purchase boosted posts through the iOS apps will also now be required to pay in advance, whereas Meta typically collects payment for boosted posts after they are shown.<br/>
+<br/>
+Meta said this change will take effect in the U.S. later this month, and in additional countries later this year. Advertisers can avoid the 30% fee and prepayment by purchasing boosted posts on the web at Facebook.com and Instagram.com.<br/>
+<br/>
+"We are required to either comply with Apple's guidelines, or remove boosted posts from our apps," said Meta, in a press release today. "We do not want to remove the ability to boost posts, as this would hurt small businesses by making the feature less discoverable and potentially deprive them of a valuable way to promote their business."<br/>
+<br/>
+Meta <a href="https://www.macrumors.com/2022/10/25/facebook-apple-app-store-guidelines-ads/">previously said</a> that "Apple continues to evolve its policies to grow their own business while undercutting others in the digital economy."<br/>
+<br/>
+Millions of small businesses use boosted posts on Facebook and Instagram, according to Meta. A boosted post is a key advertising tool for businesses, allowing them to reach larger audiences on Facebook and Instagram in exchange for payment.<br/>
+<br/>
+<h2>Apple Responds</h2><br/>
+In response to Meta's announcement, Apple said App Store apps have always been required to use its in-app purchase system for the sale of digital goods and services.<br/>
+<br/>
+"We have always required that purchases of digital goods and services within apps must use In-App Purchase," said Apple, in a statement shared with <em>MacRumors</em> today. "Boosting, which allows an individual or organization to pay to increase the reach of a post or profile, is a digital service — so of course In-App Purchase is required. This has always been the case and there are many examples of apps that do it successfully."<br/>
+<br/>
+If boosted posts have always been considered a digital service, it is unclear why Apple has allowed Meta to directly charge advertisers for many years, and it did not respond when we asked for an explanation. At a minimum, it appears that Apple has allowed Meta to circumvent the App Store's in-app purchase system for boosted posts since clarifying its App Store Review Guidelines in October 2022. That grace period is clearly ending now.<br/>
+<br/>
+As part of its response, Apple said it has indeed given Meta ample opportunity to comply with the App Store Review Guidelines as they are currently written.<br/>
+<br/>
+Apple added that businesses have the option to use the Meta Ads Manager app on iOS to set up and pay for their ad campaigns without using the App Store's in-app purchase system, as this app complies with the App Store Review Guidelines, which permit apps designed for the sole purpose of managing ad campaigns to offer direct payment options.<br/>
+<br/>
+<strong>Update:</strong> In response to our inquiry, Apple said when it finds that an app is out of compliance with the App Store Review Guidelines, its general approach is to work with the developer to help bring them into compliance with the rules. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/meta/">Meta</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/15/apple-responds-to-meta-boosted-posts-fee/">Apple Responds to Meta&#039;s Plan to Charge 30% Fee on Boosted Posts Purchased Through App Store</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-responds-to-metas-plan-to-charge-30-fee-on-boosted-posts-purchased-through-app-store.2419553/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18: All the Rumors and New Features Expected So Far</title>
+		<link>https://www.macrumors.com/2024/02/15/ios-18-features-and-rumors/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-all-the-rumors-and-new-features-expected-so-far.2419539/</comments>
+		<pubDate>Thu, 15 Feb 2024 08:54:43 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/15/ios-18-features-and-rumors/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> is still months away from being unveiled, but there are already rumors and expectations for the software update, as outlined below.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iOS-18-Mock-Feature-Baubles.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-909207" /><br/>
+iOS 18 is rumored to include new ChatGPT-like generative AI features for Siri and several built-in Apple apps. The update is expected to add RCS support to the Messages app for an improved texting experience with Android users. A sketchy rumor claimed that iOS 18 will also have some visionOS-inspired design changes.<br/>
+<br/>
+iOS 18 will be announced at Apple's annual developers conference WWDC in June, and the update will be released to all users in September.<br/>
+<br/>
+<h2>Generative AI and Smarter Siri</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iOS-18-Mock-Siri-Feature-Baubles.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-909208" /><br/>
+iOS 18 is rumored to have new generative AI features for Siri, Shortcuts, Messages, Apple Music, Pages, and more. On a February 2024 earnings call, Apple CEO Tim Cook said the company was working on generative AI and would <a href="https://www.macrumors.com/2024/02/01/apple-ai-details-coming-later-this-year/">share details "later this year."</a><br/>
+<br/>
+<em>Bloomberg</em>'s Mark Gurman <a href="https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/">said</a> generative AI "should improve how both Siri and the Messages app can field questions and auto-complete sentences." <em>The Information</em>'s Wayne Ma <a href="https://www.macrumors.com/2023/09/06/ios-18-siri-improvements/">said</a> Apple would incorporate large language models into Siri to let users automate complex tasks, a feature that would involve deeper integration with the Shortcuts app.<br/>
+<br/>
+Generative AI surged in popularity in 2022 after OpenAI released ChatGPT, a chatbot that can respond to questions and other prompts. Google, Microsoft, and other companies have also released similar chatbots and tools, including ones that can automatically generate images, respond to voice queries, and more.<br/>
+<br/>
+Some generative AI features <a href="https://www.macrumors.com/2023/11/09/iphone-16-exclusive-ai-features-ios-18/">might be exclusive to iPhone 16 models</a>, which are rumored to have a Neural Engine with <a href="https://www.macrumors.com/2024/02/14/iphone-16-upgraded-neural-engine-rumor/">"significantly" more cores</a>.<br/>
+<br/>
+<h2>RCS Support in Messages App</h2><br/>
+<img src="https://images.macrumors.com/article-new/2021/07/General-Apps-Messages.jpg" alt="" width="2500" height="1407" class="aligncenter size-full wp-image-808613" /><br/>
+In November 2023, Apple announced that it would <a href="https://www.macrumors.com/2023/11/16/apple-to-adopt-rcs-messaging-standard/">support the cross-platform messaging standard RCS</a> in the Messages app on the iPhone starting "later" in 2024, so it will likely be an iOS 18 feature based on that timeframe.<br/>
+<br/>
+RCS support should result in the following improvements to the default messaging experience between iPhones and Android devices:<ul><br/>
+ <li>Higher-resolution photos and videos</li><br/>
+ <li>Audio messages</li><br/>
+ <li>Typing indicators</li><br/>
+ <li>Read receipts</li><br/>
+ <li>Wi-Fi messaging between iPhones and Android devices</li><br/>
+ <li>Improved group chats, including the ability for iPhone users to leave a conversation that includes Android users</li><br/>
+ <li>Improved encryption compared to SMS</li><br/>
+</ul>These modern features are already available for iPhone-to-iPhone conversations with blue bubbles, via iMessage, and many of the features are also available in third-party messaging apps, such as WhatsApp and Telegram. RCS support on the iPhone will extend the features to green bubbles in the Messages app.<br/>
+<br/>
+<h2>Biggest iOS Update Ever?</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/02/iOS-18-Mock-iPhone-16-Feature-Gray.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-936483" /><br/>
+Apple believes iOS 18 has the potential to be the <a href="https://www.macrumors.com/2024/01/28/ios-18-big-expectations/">"biggest" software update in the iPhone's history</a>, according to <em>Bloomberg</em>'s Mark Gurman.<br/>
+<br/>
+"I'm told that the new operating system is seen within the company as one of the biggest iOS updates — if not the biggest — in the company's history," he wrote, in a January 2024 edition of <a href="https://www.bloomberg.com/news/newsletters/2024-01-28/apple-eu-changes-sideloading-third-party-app-stores-are-future-of-the-iphone-lrxjzbg6">his <em>Power On</em> newsletter</a>.<br/>
+<br/>
+<h2>visionOS-Inspired Design Changes?</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/02/visionOS-design.jpeg" alt="" width="1800" height="1012" class="aligncenter size-full wp-image-935810" /><br/>
+iOS 18 and iPadOS 18 will feature <a href="https://www.macrumors.com/2024/02/09/ios-18-visionos-design-elements-rumor/">visionOS-inspired design elements</a>, according to a rumor shared by Israeli website <em>The Verifier</em>.<br/>
+<br/>
+For example, the report claimed that the Apple TV app on iPadOS 18 will feature the same translucent navigation bar that was <a href="https://www.macrumors.com/2023/10/26/apple-tv-app-redesign-tvos-17-2/">introduced in the tvOS 17.2 version of the app</a> in 2023. The design of this menu draws similarities to visionOS, the operating system that runs on Apple's new Vision Pro mixed reality headset.<br/>
+<br/>
+Apple also plans to redesign various other system menus and built-in apps on iOS 18, including Safari, according to the report.<br/>
+<br/>
+<em>The Verifier</em> has a mixed track record with Apple rumors over the years, so this latest rumor should be treated with some skepticism.<br/>
+<br/>
+<h2>More Details</h2><br/>
+For additional information, read our <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18 roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/15/ios-18-features-and-rumors/">iOS 18: All the Rumors and New Features Expected So Far</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-all-the-rumors-and-new-features-expected-so-far.2419539/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Shop All-Time Low Prices on AirPods Pro 2 With USB-C and AirPods 3 in Amazon&#039;s Sale</title>
@@ -482,91 +610,6 @@ In late December, Apple also <a href="https://www.macrumors.com/2023/12/21/apple
 Both <em>The Information</em> and analyst Jeff Pu have said that Apple will have some kind of generative AI feature available on the ‌<a href="https://www.macrumors.com/guide/iphone/">iPhone</a>‌ and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> <a href="https://www.macrumors.com/2023/10/19/apple-generative-ai-late-2024-jeff-pu/">later in the year</a>, when <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> is released. The next version of Apple's mobile software is said to include an <a href="https://www.macrumors.com/2023/09/06/ios-18-siri-improvements/">enhanced version of Siri</a> with ChatGPT-like generative AI functionality, and has the potential to be the "biggest" update in the &zwnj;iPhone&zwnj;'s history, according to <a href="https://www.macrumors.com/2024/02/06/ios-18-biggest-update-rumor/"><em>Bloomberg</em> reporter Mark Gurman</a>. <br/>
 <br/>
 <em>(Via <em><a href="https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/">VentureBeat</a></em>.)</em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-gpt/">Apple GPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/14/apple-research-ai-tool-animates-images/">Apple&#039;s Latest AI Tool Can Animate an Image Based on Your Description</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-latest-ai-tool-can-animate-an-image-based-on-your-description.2419416/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Meta CEO Mark Zuckerberg Says Quest 3 is Better Than Apple Vision Pro</title>
-		<link>https://www.macrumors.com/2024/02/13/meta-quest-3-apple-vision-pro-zuckerberg/</link>
-		<comments>https://forums.macrumors.com/threads/meta-ceo-mark-zuckerberg-says-quest-3-is-better-than-apple-vision-pro.2419400/</comments>
-		<pubDate>Tue, 13 Feb 2024 17:41:06 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/13/meta-quest-3-apple-vision-pro-zuckerberg/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Meta CEO Mark Zuckerberg today compared the <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> to the &#36;500 Meta Quest 3 <a href="https://www.instagram.com/p/C3TkhmivNzt/">in an Instagram video</a>, and provided several reasons why he thinks Meta's headset is better than Apple's.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/meta-quest-3.jpg" alt="" width="1385" height="779" class="aligncenter size-full wp-image-914163" /><br/>
-According to Zuckerberg, the Quest 3 is better "for the vast majority of things that people use mixed reality for," and here are some of the things he said about the Meta Quest 3:<br/>
-<ul><br/>
- 	<li>It's 7x less expensive than Vision Pro.</li><br/>
- 	<li>It does high-quality passthrough with big screens "just like Vision Pro."</li><br/>
- 	<li>Quest is a lot more comfortable - it's 120 grams less.</li><br/>
- 	<li>There are no wires that get in the way when you move around.</li><br/>
- 	<li>The field of view is wider and the screen is brighter.</li><br/>
- 	<li>Vision Pro has motion blur when you move around. Quest is a lot crisper.</li><br/>
- 	<li>Precision controllers are available, as is hand tracking, and Quest's hand tracking is more accurate.</li><br/>
- 	<li>Quest's immersive content library is a lot deeper.</li><br/>
- 	<li>You can watch YouTube or play Xbox.</li><br/>
-</ul><br/>
-Zuckerberg said that he was surprised at the "tradeoffs" that Apple had to make to provide a higher resolution screen than is offered by the Quest 3, sacrificing "comfort," "ergonomics," and more. He went on to explain that Apple is not always the leader in a new product category, and that he hopes Meta's devices will ultimately "win."<blockquote>Now look, I know that some fanboys get upset whenever somebody dares to question if Apple is going to be the leader in a new category, but the reality is that every generation of computing has an open and a closed model. And yeah, in mobile, Apple's closed model won. It's not always that way. If you go back to the PC era, Microsoft's open model was the winner. In this next generation, Meta is going to be the open model, and I really want to make sure that the open model wins out again. The future is not yet written.</blockquote>The Meta Quest 3 launched back in October. It has two 2K LCD panels compared to the &zwnj;Apple Vision Pro&zwnj;'s 4K microLED displays. It weighs 515 grams while the Vision Pro weighs 600 to 650 grams, and it does not have a separate battery pack. It uses Qualcomm's Snapdragon XR2 Gen 2 chipset, has 8GB RAM, and is equipped with Touch Plus controllers.<br/>
-<br/>
-Meta has produced several headsets so far, including the Oculus Quest, the Oculus Quest 2, the Quest 3, and the Quest Pro. Apple plans to continue producing headsets, and rumors suggest that the next-generation version will be much more affordable. When explaining the price of the Vision Pro, <a href="https://www.macrumors.com/2024/02/02/tim-cook-on-vision-pro-moment/">Apple CEO Tim Cook said</a> that it was "tomorrow's technology today."<br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/13/meta-quest-3-apple-vision-pro-zuckerberg/">Meta CEO Mark Zuckerberg Says Quest 3 is Better Than Apple Vision Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/meta-ceo-mark-zuckerberg-says-quest-3-is-better-than-apple-vision-pro.2419400/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Pirated Movie App Disguised as Vision Test Snuck Onto App Store</title>
-		<link>https://www.macrumors.com/2024/02/13/pirated-movie-was-in-app-store/</link>
-		<comments>https://forums.macrumors.com/threads/pirated-movie-app-disguised-as-vision-test-snuck-onto-app-store.2419391/</comments>
-		<pubDate>Tue, 13 Feb 2024 16:14:25 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/13/pirated-movie-was-in-app-store/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>App Store</category>
-		
-
-		<description><![CDATA[A vision testing app named "Kimi" with a not-so-hidden pirated movie feature recently made its way past Apple's review team, ultimately reaching number eight on the list of top free entertainment apps.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/kimi-app.jpg" alt="" width="3291" height="1851" class="aligncenter size-full wp-image-936299" /><br/>
-As reported by <em><a href="https://www.theverge.com/2024/2/13/24071693/kimi-movie-piracy-app-store-trending-apple-iphone-ios">The Verge</a></em>, Kimi's <a href="https://www.macrumors.com/guide/app-store/">App Store</a> listing claimed that it was an app that "tests your eyesight," but when downloaded and installed, it opened right up to a clear TV show and movie interface for downloading and watching pirated content. There was no attempt to hide the app's true purpose behind some kind of vision test interface, which begs the question of how it made its way past the &zwnj;App Store&zwnj; review team.<br/>
-<br/>
-The &zwnj;App Store&zwnj; description mentioned comparing two pictures as an eyesight test, watching scenery, and playing games, but none of those features were present in the app.<br/>
-<br/>
-For an app focused on pirated content, Kimi had a fleshed out feature set. It offered top movies, search options, recommended suggestions, games, and more, with ads included for monetization purposes. The app was first approved in September, and it was available for several months in the iOS and macOS App Stores without Apple noticing.<br/>
-<br/>
-Apple pulled the app this morning after <em>The Verge</em> wrote about it, and it is no longer available.<br/>
-<br/>
-This is the second time in the last week that Apple's &zwnj;App Store&zwnj; has made headlines for questionable app approval. Last Thursday, popular password management app LastPass raised the alarm about a fake "LassPass" app that was imitating its design and feature set. Apple pulled the app about a day after the news was shared on media sites.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/app-store/">App Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/13/pirated-movie-was-in-app-store/">Pirated Movie App Disguised as Vision Test Snuck Onto App Store</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/pirated-movie-app-disguised-as-vision-test-snuck-onto-app-store.2419391/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Says There Are Now Over 1,000 Vision Pro Apps</title>
-		<link>https://www.macrumors.com/2024/02/13/apple-more-than-1000-vision-pro-apps/</link>
-		<comments>https://forums.macrumors.com/threads/apple-says-there-are-now-over-1-000-vision-pro-apps.2419386/</comments>
-		<pubDate>Tue, 13 Feb 2024 15:09:12 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/13/apple-more-than-1000-vision-pro-apps/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[There are more than 1,000 apps available for the Vision Pro, Apple marketing chief Greg Joswiak said today. There are also more than 1.5 million <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> apps that are compatible with the Vision Pro and that are able to run on the device.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/Apple-Vision-Pro-Dual-Loop-Band-Orange-Feature-2.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-929937" /><br/>
-When the Vision Pro launched, Apple said there were more than 600 apps available for the headset, so the number of apps has increased by over 400 in the weeks since the Vision Pro debuted. <br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">A huge thank you to our developers! Their hard work has already resulted in over 1,000 incredible spatial apps designed specifically for Vision Pro, along with over 1.5 million compatible apps. We&#39;re thrilled to see how they&#39;ll continue to push the boundaries for what’s possible.</p>&mdash; Greg Joswiak (@gregjoz) <a href="https://twitter.com/gregjoz/status/1757533581495382496?ref_src=twsrc%5Etfw">February 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-The Vision Pro is able to run many of the apps that are on the &zwnj;iPad&zwnj;, but the 1,000 app count is for those that have been designed for and optimized for the headset. <br/>
-<br/>
-We've <a href="https://www.macrumors.com/guide/vision-pro-app-list/">rounded up some of the many Vision Pro apps</a> available that are worth checking out.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/13/apple-more-than-1000-vision-pro-apps/">Apple Says There Are Now Over 1,000 Vision Pro Apps</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-says-there-are-now-over-1-000-vision-pro-apps.2419386/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
