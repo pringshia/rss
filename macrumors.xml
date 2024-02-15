@@ -14,12 +14,61 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 15 Feb 2024 00:03:47 PST</lastBuildDate>
+	<lastBuildDate>Thu, 15 Feb 2024 04:04:12 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Authy Is Sunsetting Its Desktop Authenticator Apps on March 19, 2024</title>
+		<link>https://www.macrumors.com/2024/02/15/authy-desktop-apps-end-of-life-march-2024/</link>
+		<comments>https://forums.macrumors.com/threads/authy-is-sunsetting-its-desktop-authenticator-apps-on-march-19-2024.2419505/</comments>
+		<pubDate>Thu, 15 Feb 2024 02:36:19 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/15/authy-desktop-apps-end-of-life-march-2024/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Two-Factor Authentication</category>
+		
+
+		<description><![CDATA[<a href="https://authy.com">Authy</a>, the two-factor authentication (2FA) service, says its desktop apps for macOS, Windows, and Linux will reach end-of-life on March 19, 2024.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/authy-desktop.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-936525" /><br/>
+Twilio, the company that owns Authy, revealed the decision on Wednesday in a <a href="https://support.authy.com/hc/en-us/articles/17592416719003-Business-customer-guide-End-of-Life-EOL-for-use-of-Authy-API-with-Twilio-Authy-Desktop-apps">updated support article</a>. It did not say whether Authy Desktop apps will stop working after this date or simply no longer receive updates, but the company confirmed that its mobile apps will continue to be maintained.<br/>
+<br/>
+As one of only a few third-party desktop 2FA code generator apps on Mac, the loss of Authy Desktop is likely to disappoint users who got used to signing into 2FA-protected accounts from their computer rather than having to get out their phone, where most 2FA apps usually live. <br/>
+<br/>
+For users in this position that own a Mac powered by Apple silicon, Authy suggests downloading the iOS version of the app to their computer. Otherwise, Authy recommends using the <a href="https://apps.apple.com/app/twilio-authy/id494168017">mobile version</a> instead, or switching to a <a href="https://help.twilio.com/articles/22771146070299-User-guide-End-of-Life-EOL-for-Twilio-Authy-Desktop-app">different authenticator app</a>. The bad news is that anyone who wants to switch to another 2FA app entirely will have to disable 2FA on all of their stored accounts first, because Authy lacks an export feature.<br/>
+<ul><li><a href="https://www.macrumors.com/how-to/use-safari-2fa-code-generator/">How to Use Safari's Built-in 2FA Code Generator</a></li></ul><br/>
+At the beginning of the year, Authy said that it was shutting down its desktop app in August 2024, so it has brought forward its decision to sunset the app by several months. The company said its decision to kill its desktop versions was made to "streamline our focus and provide more value on existing product solutions for which we see increasing demand."<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/two-factor-authentication/">Two-Factor Authentication</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/15/authy-desktop-apps-end-of-life-march-2024/">Authy Is Sunsetting Its Desktop Authenticator Apps on March 19, 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/authy-is-sunsetting-its-desktop-authenticator-apps-on-march-19-2024.2419505/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>DuckDuckGo Browser Gets Encrypted Bookmark and Password Syncing</title>
+		<link>https://www.macrumors.com/2024/02/15/duckduckgo-browser-password-sync/</link>
+		<comments>https://forums.macrumors.com/threads/duckduckgo-browser-gets-encrypted-bookmark-and-password-syncing.2419502/</comments>
+		<pubDate>Thu, 15 Feb 2024 02:04:17 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/15/duckduckgo-browser-password-sync/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>DuckDuckGo</category>
+		
+
+		<description><![CDATA[<a href="https://duckduckgo.com">DuckDuckGo Browser</a> users can now securely sync their favorites, bookmarks, and passwords across multiple devices, without having to set up an account or sign in to use it.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/duckduckgo-sync.jpg" alt="" width="2080" height="1144" class="aligncenter size-full wp-image-936522" /><br/>
+The privacy-first browser enables this through its new "Sync & Backup" feature, which generates a QR code on mobile devices or an alphanumeric code on a computer to establish syncing.<br/>
+<br/>
+As per DuckDuckGo's privacy, DuckDuckGo doesn't track users, and cannot access users' synced data, including passwords in the browser's built-in password manager, which encrypts passwords locally. When private sync is used, all data stays securely encrypted throughout the syncing process, since the unique key needed to decrypt it is stored only on the devices.<br/>
+<br/>
+Backup & Sync also enables users to migrate bookmarks and passwords to a new device, and sync their Email Protection account between devices. (DuckDuckGo Email Protection is a free email forwarding service that removes hidden email trackers and lets users create unique private email addresses on the fly.)<br/>
+<br/>
+According to DuckDuckGo, the new feature works across most Windows, Mac, Android, and <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> devices, and can be found in the browser's Settings (Sync & Backup ➝ Sync With Another Device). Those only working with one device can choose Sync and Back Up This Device from the Single-Device Setup section. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/duckduckgo.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-936521" /><br/>
+After setup, the browser generates a Recovery PDF document that contains the user's unique, locally generated Recovery Code, which can be used to gain access to synced data if the associated devices are lost or damaged.<br/>
+<br/>
+DuckDuckGo's browser offers more than a dozen privacy protections, including ad tracker blocking and cookie pop-up removal. It is available for <a href="https://apps.apple.com/app/duckduckgo-private-browser/id663592361?platform=iphone">iOS devices on the App Store</a> and for Mac on the <a href="https://apps.apple.com/gb/app/duckduckgo-private-browser/id663592361">Mac App Store</a> and <a href="https://duckduckgo.com/mac">DuckDuckGo website</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/duckduckgo/">DuckDuckGo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/15/duckduckgo-browser-password-sync/">DuckDuckGo Browser Gets Encrypted Bookmark and Password Syncing</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/duckduckgo-browser-gets-encrypted-bookmark-and-password-syncing.2419502/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>PSA: If You Bought Vision Pro at Launch, Your Return Window Ends Friday</title>
@@ -499,47 +548,6 @@ iOS 17.4 introduces sweeping changes to the way the <a href="https://www.macrumo
 There are, however, changes to gaming apps, and with the launch of iOS 17.4, Apple will be allowing cloud gaming apps like Xbox Cloud Gaming and Nvidia GeForce NOW. Mini games, chatbots, and plug-ins are also now able to use the in-app purchase system.<br/>
 <br/>
 Along with these updates, iOS 17.4 adds new emoji characters, transcripts for podcasts in the Podcasts app, support for using SharePlay with the <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a>, Stopwatch Live Activities, and more. Full details on everything new in iOS 17.4 can be found in <a href="https://www.macrumors.com/2024/01/25/ios-17-4-beta-1-changes/">our iOS 17.4 features article</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/13/ios-17-4-beta-3/">Apple Seeds Third Betas of iOS 17.4 and iPadOS 17.4 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-betas-of-ios-17-4-and-ipados-17-4-to-developers.2419351/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Third Beta of macOS Sonoma 14.4 to Developers</title>
-		<link>https://www.macrumors.com/2024/02/13/macos-sonoma-14-4-beta-3/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-third-beta-of-macos-sonoma-14-4-to-developers.2419350/</comments>
-		<pubDate>Tue, 13 Feb 2024 10:05:49 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/13/macos-sonoma-14-4-beta-3/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sonoma</category>
-		
-
-		<description><![CDATA[Apple today seeded the third beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.4 update to developers for testing purposes, with the software coming a week after the <a href="https://www.macrumors.com/2024/02/06/apple-seeds-macos-sonoma-14-4-beta-2/">release of the second beta</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
-Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
-<br/>
-&zwnj;macOS Sonoma&zwnj; 14.4 introduces some of the features in the iOS 17.4 beta, such as new emoji characters. We don't know what Mac-specific features are included, and little else was found in the first two betas.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/13/macos-sonoma-14-4-beta-3/">Apple Seeds Third Beta of macOS Sonoma 14.4 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-macos-sonoma-14-4-to-developers.2419350/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Third Beta of watchOS 10.4 to Developers</title>
-		<link>https://www.macrumors.com/2024/02/13/watchos-10-4-beta-3/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-third-beta-of-watchos-10-4-to-developers.2419352/</comments>
-		<pubDate>Tue, 13 Feb 2024 10:04:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/13/watchos-10-4-beta-3/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[Apple today seeded the third beta of an upcoming watchOS 10.4 update to developers for testing purposes, with the beta coming a week after the <a href="https://www.macrumors.com/2024/02/06/apple-seeds-watchos-10-4-beta-2/">release of the second watchOS 10.4 beta</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
-To install the ‌watchOS 10.4‌ update, developers need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
-<br/>
-Once beta updates have been activated, watchOS 10.4 can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
-<br/>
-watchOS 10.4 includes new emoji characters such as a lime, an edible brown mushroom, a phoenix, a broken chain, shaking head vertically (as in a "yes" nod), and shaking head horizontally (a "no" head shake).<br/>
-<br/>
-There is also a Vision Pro setting to disable the Double Tap feature on Apple Watch, as the hand gestures might interfere.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/13/watchos-10-4-beta-3/">Apple Seeds Third Beta of watchOS 10.4 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-watchos-10-4-to-developers.2419352/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
