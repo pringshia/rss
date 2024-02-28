@@ -14,12 +14,65 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 27 Feb 2024 12:02:48 PST</lastBuildDate>
+	<lastBuildDate>Tue, 27 Feb 2024 16:09:52 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Music and iTunes Store Experiencing Outage</title>
+		<link>https://www.macrumors.com/2024/02/27/apple-music-itunes-store-outage/</link>
+		<comments>https://forums.macrumors.com/threads/apple-music-and-itunes-store-experiencing-outage.2420590/</comments>
+		<pubDate>Tue, 27 Feb 2024 16:04:10 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/27/apple-music-itunes-store-outage/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> and the iTunes Store are experiencing issues, according to Apple's System Status page. &zwnj;Apple Music&zwnj; may be slow or unavailable for some users.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/08/apple-music.jpg" alt="" width="1306" height="734" class="aligncenter size-full wp-image-813608" /><br/>
+As for iTunes, some users are running into problems, and Apple is investigating as of right now. <br/>
+<br/>
+According to Apple, these issues began at 6:49 p.m. Eastern Time. There is no word yet on when service will resume functioning as normal. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/27/apple-music-itunes-store-outage/">Apple Music and iTunes Store Experiencing Outage</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-music-and-itunes-store-experiencing-outage.2420590/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Confirms iOS 17.4 Lets Video Calling Apps Turn Off Reactions</title>
+		<link>https://www.macrumors.com/2024/02/27/apple-confirms-ios-17-4-reactions-change/</link>
+		<comments>https://forums.macrumors.com/threads/apple-confirms-ios-17-4-lets-video-calling-apps-turn-off-reactions.2420585/</comments>
+		<pubDate>Tue, 27 Feb 2024 14:48:09 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/02/27/apple-confirms-ios-17-4-reactions-change/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today publicly confirmed that iOS 17.4 and iPadOS 17.4 allow developers of video calling apps to turn off the <a href="https://www.macrumors.com/how-to/use-reaction-effects-facetime/">Reactions feature</a> by default in their apps.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/02/ios-17-facetime-effects.jpg" alt="" width="1920" height="1070" class="aligncenter size-full wp-image-900390" /><br/>
+As we <a href="https://www.macrumors.com/2024/02/07/apple-api-for-turning-off-3d-gesture-effects/">reported earlier this month</a>, developers can control the default behavior of Reactions in their apps with a new API for iOS 17.4, iPadOS 17.4, and likely macOS 14.4. The updates are expected to be released to the public in March.<br/>
+<br/>
+Apple's <a href="https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_4-release-notes">developer notes</a> for the <a href="https://www.macrumors.com/2024/02/27/apple-seeds-ios-17-4-release-candidate/">iOS 17.4 and iPadOS 17.4 Release Candidates</a>:<blockquote>Developers can control the default behavior of Reactions with the key […] This is controlled per application and user choice will override application declared defaults.</blockquote>For example, video conferencing app Zoom could use Apple's new API to turn off the Reactions feature in its app by default. iPhone and iPad users who manually turn Reactions back on in Control Center would still be able to use the feature in the app. <br/>
+<br/>
+Reactions remain turned on by default on iOS 17.4 overall, so they still work in FaceTime and in apps that do not use the API without any further steps required.<br/>
+<br/>
+<h2>Reactions</h2><br/>
+Starting with iOS 17, iPadOS 17, and macOS Sonoma, you can make hand gestures during video calls in the FaceTime app and other video conferencing apps to <a href="https://www.macrumors.com/how-to/use-reaction-effects-facetime/">fill the screen with 3D effects</a>. For example, you can hold two thumbs up to show fireworks on the screen, or make two peace signs with your hands to show confetti.<br/>
+<br/>
+Unfortunately, many users are unaware that this new feature is turned on by default, which has led to some awkward and embarrassing moments during important video calls, such as online therapy sessions and business meetings.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Fetterman released the confetti on Zoom on MSNBC <a href="https://t.co/fpylDiU1uc">pic.twitter.com/fpylDiU1uc</a></p>&mdash; Andy Kaczynski (@KFILE) <a href="https://twitter.com/KFILE/status/1761108102575710607?ref_src=twsrc%5Etfw">February 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Instead of turning off Reactions by default altogether, Apple is allowing developers to control the feature on a per-app basis with this new API.<br/>
+<br/>
+<em>MacRumors contributor <a href="https://twitter.com/aaronp613">Aaron Perris</a> assisted with this story.</em><div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/27/apple-confirms-ios-17-4-reactions-change/">Apple Confirms iOS 17.4 Lets Video Calling Apps Turn Off Reactions</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-confirms-ios-17-4-lets-video-calling-apps-turn-off-reactions.2420585/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>New Spring Apple Watch Band Colors Coming Soon</title>
@@ -90,9 +143,9 @@ According to <em>Bloomberg</em>, senior Apple executives made the decision to wi
 		</item>
 		
 		<item>
-		<title>Apple Seeds Release Candidate Versions of iOS 17.4 and iPadOS 17.4 to Developers</title>
+		<title>Apple Seeds Release Candidate Versions of iOS 17.4 and iPadOS 17.4 to Developers [Update: Public Beta Available]</title>
 		<link>https://www.macrumors.com/2024/02/27/apple-seeds-ios-17-4-release-candidate/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-release-candidate-versions-of-ios-17-4-and-ipados-17-4-to-developers.2420564/</comments>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-release-candidate-versions-of-ios-17-4-and-ipados-17-4-to-developers-update-public-beta-available.2420564/</comments>
 		<pubDate>Tue, 27 Feb 2024 10:25:55 PST</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/02/27/apple-seeds-ios-17-4-release-candidate/</guid>
 		<dc:creator>Juli Clover</dc:creator>
@@ -124,13 +177,13 @@ There are, however, changes to gaming apps, and with the launch of iOS 17.4, App
 - Apple Cash virtual card numbers enable you to pay with Apple Cash at merchants that don't yet accept Apple Pay by typing in your number from Wallet or using Safari AutoFill<br/>
 - Fixes an issue where contact pictures are blank in Find My<br/>
 - Fixes an issue for Dual SIM users where the phone number changes from primary to secondary and is visible to a group they have messaged<br/>
-Some features may not be available for all regions or on all Apple devices. For information on the security content of Apple software updates, please visit this website: <a href="https://support.apple.com/kb/HT201222">https://support.apple.com/kb/HT201222</a></blockquote>Full details on everything new in iOS 17.4 can be found in <a href="https://www.macrumors.com/guide/ios-17-4-beta-features/">our iOS 17.4 features guide</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/27/apple-seeds-ios-17-4-release-candidate/">Apple Seeds Release Candidate Versions of iOS 17.4 and iPadOS 17.4 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-release-candidate-versions-of-ios-17-4-and-ipados-17-4-to-developers.2420564/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Some features may not be available for all regions or on all Apple devices. For information on the security content of Apple software updates, please visit this website: <a href="https://support.apple.com/kb/HT201222">https://support.apple.com/kb/HT201222</a></blockquote>Full details on everything new in iOS 17.4 can be found in <a href="https://www.macrumors.com/guide/ios-17-4-beta-features/">our iOS 17.4 features guide</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/27/apple-seeds-ios-17-4-release-candidate/">Apple Seeds Release Candidate Versions of iOS 17.4 and iPadOS 17.4 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-release-candidate-versions-of-ios-17-4-and-ipados-17-4-to-developers-update-public-beta-available.2420564/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Apple Seeds macOS Sonoma 14.4 Beta 5 to Developers</title>
+		<title>Apple Seeds macOS Sonoma 14.4 Beta 5 to Developers [Update: Public Beta Available]</title>
 		<link>https://www.macrumors.com/2024/02/27/apple-seeds-macos-sonoma-14-4-beta-5/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-macos-sonoma-14-4-beta-5-to-developers.2420566/</comments>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-macos-sonoma-14-4-beta-5-to-developers-update-public-beta-available.2420566/</comments>
 		<pubDate>Tue, 27 Feb 2024 10:24:00 PST</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/02/27/apple-seeds-macos-sonoma-14-4-beta-5/</guid>
 		<dc:creator>Juli Clover</dc:creator>
@@ -143,7 +196,7 @@ Some features may not be available for all regions or on all Apple devices. For 
 <img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
 Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
 <br/>
-&zwnj;macOS Sonoma&zwnj; 14.4 introduces some of the features in the iOS 17.4 beta, such as new emoji characters. We don't know what Mac-specific features are included, and little else was found in the betas so far. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/27/apple-seeds-macos-sonoma-14-4-beta-5/">Apple Seeds macOS Sonoma 14.4 Beta 5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-macos-sonoma-14-4-beta-5-to-developers.2420566/">Discuss this article</a> in our forums<br/><br/>]]></description>
+&zwnj;macOS Sonoma&zwnj; 14.4 introduces some of the features in the iOS 17.4 beta, such as new emoji characters. We don't know what Mac-specific features are included, and little else was found in the betas so far. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/27/apple-seeds-macos-sonoma-14-4-beta-5/">Apple Seeds macOS Sonoma 14.4 Beta 5 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-macos-sonoma-14-4-beta-5-to-developers-update-public-beta-available.2420566/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -286,7 +339,7 @@ Apple often releases a new iPhone color option in March or April too.<br/>This a
 		<description><![CDATA[iPadOS 18 will drop support for iPad models equipped with the A10X Fusion chip, according to a post on X today from a private account with a proven track record of sharing build numbers for upcoming iOS and iPadOS updates.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/02/iPad-Air-5.jpg" alt="" width="1200" height="675" class="aligncenter size-full wp-image-938463" /><br/>
-This means that iPadOS 18 would not be compatible with the first-generation 10.5-inch iPad Pro or the second-generation 12.9-inch iPad Pro models released in 2017. It almost certainly means that iPadOS 18 would drop support for iPad models powered by the regular A10 Fusion chip, including the sixth-generation and seventh-generation iPads.<br/>
+This means that iPadOS 18 would not be compatible with the first-generation 10.5-inch iPad Pro or the second-generation 12.9-inch iPad Pro models released in 2017. It almost certainly means that iPadOS 18 would drop support for iPad models powered by the regular A10 Fusion chip too, including the sixth-generation and seventh-generation iPads.<br/>
 <br/>
 The post was spotted by <em>MacRumors</em> contributor <a href="https://twitter.com/aaronp613">Aaron Perris</a>, and it has since been deleted. However, this was likely because the account prefers to keep a low profile, and many of its previously-deleted posts contained accurate information.<br/>
 <br/>
@@ -487,7 +540,9 @@ As noted by <em><a href="https://9to5mac.com/2024/02/26/netflix-billing-app-stor
 <blockquote>Some Apple-billed members in select countries may be prompted to add a new payment method to continue their subscription.</blockquote><br/>
 There is no word on how many Netflix subscribers are still paying through in-app purchase since it's been nearly six years since Netflix removed the option. Since 2018, Netflix has required customers who have Apple devices to sign up for a new Netflix subscription on the Netflix website. There is no option to subscribe through the Netflix app on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> or <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and these devices open to a sign-in screen.<br/>
 <br/>
-When Netflix first removed the option to pay through the &zwnj;App Store&zwnj;, it said customers who paid for subscriptions with in-app purchases could continue to use that billing method until their accounts were canceled, but Netflix seems to have run out of patience.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/netflix/">Netflix</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/26/netflix-stops-allowing-app-store-payment/">Netflix No Longer Allowing Subscribers to Pay Through Apple&#039;s App Store</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/netflix-no-longer-allowing-subscribers-to-pay-through-apples-app-store.2420481/">Discuss this article</a> in our forums<br/><br/>]]></description>
+When Netflix first removed the option to pay through the &zwnj;App Store&zwnj;, it said customers who paid for subscriptions with in-app purchases could continue to use that billing method until their accounts were canceled, but Netflix seems to have run out of patience.<br/>
+<br/>
+<b>Update:</b> Netflix has clarified that the changes affect basic plan members in some countries including the US and Canada, and it does not impact all Netflix users. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/netflix/">Netflix</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/26/netflix-stops-allowing-app-store-payment/">Netflix No Longer Allowing Subscribers to Pay Through Apple&#039;s App Store</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/netflix-no-longer-allowing-subscribers-to-pay-through-apples-app-store.2420481/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -537,57 +592,6 @@ In December 2023, Apple reportedly saw a 13% decline in revenue in China, follow
 <em>&zwnj;DigiTimes&zwnj;</em> reiterated <a href="https://www.macrumors.com/2024/02/16/ios-18-slew-of-new-ai-features/">previous rumors</a> suggesting that &zwnj;iOS 18&zwnj; will contain a number of new AI features, but cautioned that Apple needs to make significant progress in the AI space to meet consumer expectations and revive the company's popularity in China amid fierce competition from brands like Huawei, which are heavily investing in AI research and development. <br/>
 <br/>
 On an earnings call earlier this year, Apple CEO <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> said the company was working on generative AI and would <a href="https://www.macrumors.com/2024/02/01/apple-ai-details-coming-later-this-year/">share details "later this year."</a> Apple is expected to preview &zwnj;iOS 18&zwnj; at its annual developers conference WWDC in June, and the update should be released in September. Some new AI features could be exclusive to the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models later in the year, with the lineup rumored to get a <a href="https://www.macrumors.com/2024/02/14/iphone-16-upgraded-neural-engine-rumor/">"significantly" upgraded Neural Engine</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/china/">China</a>, <a href="https://www.macrumors.com/guide/digitimes-com/">DigiTimes</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/26/ios-18-could-revive-iphone-sales-in-china/">iOS 18&#039;s AI Features Could Revive iPhone Sales in China</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18s-ai-features-could-revive-iphone-sales-in-china.2420448/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Game Developers Describe &#039;Smell of Death&#039; Around Apple Arcade</title>
-		<link>https://www.macrumors.com/2024/02/26/developers-describe-apple-arcade-smell-of-death/</link>
-		<comments>https://forums.macrumors.com/threads/game-developers-describe-smell-of-death-around-apple-arcade.2420447/</comments>
-		<pubDate>Mon, 26 Feb 2024 07:24:34 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/26/developers-describe-apple-arcade-smell-of-death/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Apple Arcade</category>
-		
-
-		<description><![CDATA[Some game developers are dissatisfied with <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a> amid concerns about the subscription service's future, a new report claims. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2019/12/applearcade.jpg" alt="" width="1200" height="606" class="alignnone size-full wp-image-723048" /><br/>
-Sources speaking to <a href="https://mobilegamer.biz/inside-apple-arcade-axed-games-declining-payouts-disillusioned-studios-and-an-uncertain-future/"><em>mobilegamer.biz</em></a> described a "smell of death" around  Apple's games subscription service and noted the difference between the company's investment in TV and music, and its interest in games. "At the very top of the company there needs to be a passion and respect for games, and there just isn't," one developer said. "It all depends on how much buy-in there is from those guys at the top, and I don't think they really value Arcade or invest in it the same way you see them invest in music or TV."<br/>
-<br/>
-The service initially touted generous upfront payments to developers. Most games released on &zwnj;Apple Arcade&zwnj; in the service's first few years were apparently profitable, providing a lifeline for studios. "Despite its imperfections, we're very very happy Arcade exists. It has made premium games viable on mobile," one games studio executive said, explaining that their company would not exist without Apple's support.<br/>
-<br/>
-The report claims that &zwnj;Apple Arcade&zwnj;'s payouts to developers have been falling for several years, noticeably starting in October 2020. Both upfront payments and the per-play "bonus pool" have shrunk, and Apple is said to be evasive about how these sums are calculated. "They have this opaque metric that they call a qualifying session, and bonus pool payments are made based on that," one source said. "But no-one knows what a qualifying session actually is – it has something to do with if the game was launched, how long the player played for and how often they return. But it's a black box, really."<br/>
-<br/>
-"<a href="https://www.macrumors.com/guide/app-store/">App Store</a> Greats" are not eligible for upfront payments, receiving bonus pool contributions only. As a result, games with shorter narratives and premium indie titles earn less than games with longer-term retention. This apparently explains the slow loss of certain types of games on the service. Moreover, there has apparently been a strong shift toward prominent family-friendly IP in Apple's commissioning decisions, with one or two new "&zwnj;App Store&zwnj; Greats" per month. Very few original games are greenlit for the service unless they meet these requirements.<br/>
-<br/>
-While some developers spoke about their relationship positively, others described the company as "vindictive" or "spiteful" in its dealings. Some developers claim that the &zwnj;Apple Arcade&zwnj; team has not made its strategy shift and overall direction clear, and often simply stops replying to emails. "I got the sense they didn't really know where they were going with it all – almost like they weren't sure if they'd have jobs at the end of it," one studio representative said.<br/>
-<br/>
-Developers similarly spoke about their difficulties getting marketing support or obtaining features on the &zwnj;App Store&zwnj;, even when their games are struggling to get traction on &zwnj;Apple Arcade&zwnj;. "We have to basically beg for featuring from Apple. Getting that banner featuring at the top is like squeezing blood from a stone," one developer added.<br/>
-<br/>
-Apple "rebooted" the subscription service in April 2021, cancelling a large number of projects. Some developers believe that Netflix's competitive move into gaming subscriptions has prompted Apple to consider another &zwnj;Apple Arcade&zwnj; reboot, but the long-term future of the service is unclear.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/26/developers-describe-apple-arcade-smell-of-death/">Game Developers Describe &#039;Smell of Death&#039; Around Apple Arcade</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/game-developers-describe-smell-of-death-around-apple-arcade.2420447/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s Decision to Disable Web Apps Attracts Scrutiny in EU</title>
-		<link>https://www.macrumors.com/2024/02/26/disabled-web-apps-attract-eu-scrutiny/</link>
-		<comments>https://forums.macrumors.com/threads/apples-decision-to-disable-web-apps-attracts-scrutiny-in-eu.2420446/</comments>
-		<pubDate>Mon, 26 Feb 2024 07:07:10 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/02/26/disabled-web-apps-attract-eu-scrutiny/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>European Union</category>
-		<category>Apple Antitrust</category>
-		
-
-		<description><![CDATA[The European Commission is considering investigating Apple's move to disable <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> web apps in the EU, the <a href="https://www.ft.com/content/d2f7328c-5851-4f16-8f8d-93f0098b6adc"><em>Financial Times</em></a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2016/01/European-Commisssion.jpg" alt="" width="1080" height="719" class="alignnone size-full wp-image-484620" /><br/>
-Following the release of the second beta version of iOS 17.4, it emerged that Apple had <a href="https://www.macrumors.com/2024/02/08/ios-17-4-nerfs-web-apps-in-the-eu/">restricted the functionality of iOS web apps in the EU</a>. Web apps can no longer launch from the &zwnj;Home Screen&zwnj; in their own top-level window that takes up the entire screen, relegating them to a simple shortcut with an option to open within Safari instead. Critics argue that the move undermines the role of web apps as viable alternatives to native apps in iOS.<br/>
-<br/>
-EU competition regulators sent questions to developers last week to determine the impact of the change in what is apparently seen as a precursor to an in-depth probe. The European Commission confirmed its scrutiny to the <em>Financial Times</em>: <blockquote>We are indeed looking at the compliance packages of all gatekeepers, including Apple. In that context, we're in particular looking into the issue of progressive web apps, and can confirm sending the requests for information to Apple and to app developers, who can provide useful information for our assessment.</blockquote><br/>
-<br/>
-Apple claims that <a href="https://www.macrumors.com/2024/02/15/ios-17-4-web-apps-removed-apple/">it had to make the change to how web apps work</a> in iOS to comply with the EU's Digital Markets Act (DMA), arguing that third-party browsers used with web apps in Europe could expose users to unlawful security and privacy risks. It believes that the adjustments will only affect a small number of users.<br/>
-<br/>
-A potential probe into web apps could come after the <a href="https://www.macrumors.com/2024/02/19/iphone-changes-coming-to-eu-users/">March 6 deadline</a> for Apple to comply with the DMA, but formal proceedings could be prevented if Apple makes further concessions.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/02/26/disabled-web-apps-attract-eu-scrutiny/">Apple&#039;s Decision to Disable Web Apps Attracts Scrutiny in EU</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-decision-to-disable-web-apps-attracts-scrutiny-in-eu.2420446/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
