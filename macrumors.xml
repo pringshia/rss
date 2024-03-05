@@ -14,12 +14,89 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 04 Mar 2024 12:03:17 PST</lastBuildDate>
+	<lastBuildDate>Mon, 04 Mar 2024 16:10:42 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Vision Pro Personas and EyeSight Improving With visionOS 1.1</title>
+		<link>https://www.macrumors.com/2024/03/04/visionos-1-1-eyesight-personas-improvement/</link>
+		<comments>https://forums.macrumors.com/threads/vision-pro-personas-and-eyesight-improving-with-visionos-1-1.2421065/</comments>
+		<pubDate>Mon, 04 Mar 2024 15:33:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/visionos-1-1-eyesight-personas-improvement/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>visionOS</category>
+		
+
+		<description><![CDATA[Apple will soon release the first major software update for the Vision Pro, and the <a href="https://www.macrumors.com/2024/03/04/visionos-1-1-release-candidate/">new version of visionOS</a> will bring improvements not only to Personas, but also to the EyeSight feature.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/Apple-WWCD23-Vision-Pro-EyeSight-230605.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-922614" /><br/>
+Personas and EyeSight are Vision Pro additions that many people have poked fun at since the headset's release. Personas are a digital representation of the user that's shown in video calls, while EyeSight uses an external display to show the Vision Pro wearer's eyes if there are other people in the room. Personas and EyeSight are aimed at making the Vision Pro less of an isolating experience, but neither has been particularly well-received.<br/>
+<br/>
+As <a href="https://www.macrumors.com/2024/02/08/testing-personas-visionos-1-1/">we've previously shared</a>, the <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1.1 beta makes Personas look more realistic, and Apple's release notes provided with the &zwnj;visionOS&zwnj; 1.1 release candidate offer more insight. Specific improvements have been made to hair and makeup appearance and neck and mouth representation, and these tweaks make a big difference.<br/>
+<br/>
+<div class="center-wrap"><iframe title="Apple Vision Pro Persona FIXED in visionOS 1.1?" src="https://www.youtube.com/embed/xEixxDkYXlo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+The update also apparently improves rendering of the eyes for EyeSight, which isn't something that was previously noticed during the beta testing period. EyeSight draws on the Persona feature to capture a person's eyes to show on the external display. Presumably the EyeSight feature now looks somewhat better on the Vision Pro headset, but that it's gone so under the radar suggests Apple still has more work to do.<br/>
+<br/>
+Other new features in the update include improvements for the virtual keyboard and the Mac virtual display.<br/>
+<br/>
+&zwnj;visionOS&zwnj; 1.1 will be officially released as soon as this week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/visionos-1-1-eyesight-personas-improvement/">Vision Pro Personas and EyeSight Improving With visionOS 1.1</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/vision-pro-personas-and-eyesight-improving-with-visionos-1-1.2421065/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Siri Will Learn Your Music Preferences With HomePod Software 17.4</title>
+		<link>https://www.macrumors.com/2024/03/04/homepod-siri-music-preferences-17-4/</link>
+		<comments>https://forums.macrumors.com/threads/siri-will-learn-your-music-preferences-with-homepod-software-17-4.2421061/</comments>
+		<pubDate>Mon, 04 Mar 2024 14:32:09 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/homepod-siri-music-preferences-17-4/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>HomePod</category>
+		<category>HomePod mini</category>
+		
+
+		<description><![CDATA[Alongside iOS 17.4, iPadOS 17.4, and tvOS 17.4, Apple plans to release a <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> 17.4 software update that adds a small but meaningful change to <a href="https://www.macrumors.com/guide/siri/">Siri</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/05/homepod-blue-green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-895477" /><br/>
+&zwnj;Siri&zwnj; will be able to learn what a user's preferred media service is, which means that there won't be a need to include an app name when asking &zwnj;Siri&zwnj; to play content or go through the process to set a default third-party app.<br/>
+<br/>
+&zwnj;HomePod&zwnj; users have been able to play songs, podcasts, audiobooks, and other media using supported third-party apps through a &zwnj;Siri&zwnj; request for quite some time now, but this needed to be set up in the Settings section of the Home app. The option was fairly hidden, so some &zwnj;HomePod&zwnj; users might have forgotten the feature was even available. From Apple's release notes:<blockquote>This update enables Siri to learn your preferred media service, so you no longer need to include the name of the media app in your request.</blockquote>With &zwnj;HomePod&zwnj; 17.4, &zwnj;Siri&zwnj; will learn preferences and use those preferences to select apps. If you have YouTube Music, for example, you won't need to say "Play [song name] on YouTube Music" to bypass <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, nor will you need to set YouTube Music as your default music service in the Home app.<br/>
+<br/>
+&zwnj;Siri&zwnj; already works this way on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and asks users for their preferred app when playing content for the first time. As &zwnj;Siri&zwnj; has been updated to set a preference automatically, Apple has removed the Home app option that let users select a default media service.<br/>
+<br/>
+Third-party apps that work directly with the &zwnj;HomePod&zwnj; include YouTube Music, Deezer, Pandora, TuneIn, and iHeartRadio. Streaming music services need to support &zwnj;HomePod&zwnj; for the feature to work, and not all do. Note that popular music service Spotify can play content through a &zwnj;Siri&zwnj; request on &zwnj;HomePod&zwnj;, but it uses the &zwnj;iPhone&zwnj; to do so.<br/>
+<br/>
+Along with &zwnj;Siri&zwnj; support for a preferred music service, the &zwnj;HomePod&zwnj; 17.4 update also includes performance and stability improvements. The &zwnj;HomePod&zwnj; 17.4 software will see a release as soon as this week.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a>, <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#HomePod">HomePod (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#Homepod-Mini">HomePod Mini (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/homepod-homekit-carplay-home-auto-technology.193">HomePod, HomeKit, CarPlay, Home & Auto Technology</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/homepod-siri-music-preferences-17-4/">Siri Will Learn Your Music Preferences With HomePod Software 17.4</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/siri-will-learn-your-music-preferences-with-homepod-software-17-4.2421061/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Best Buy Has First Discounts on Apple&#039;s M3 MacBook Air Exclusively for Members</title>
+		<link>https://www.macrumors.com/2024/03/04/first-discounts-m3-macbook-air/</link>
+		<comments>https://forums.macrumors.com/threads/best-buy-has-first-discounts-on-apples-m3-macbook-air-exclusively-for-members.2421060/</comments>
+		<pubDate>Mon, 04 Mar 2024 14:01:59 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/first-discounts-m3-macbook-air/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">announced</a> the newest models of the MacBook Air, which include the M3 chip and come in 13-inch and 15-inch sizes. Just a few hours later, Best Buy now has the <a href="https://howl.me/clLuBIw32S9">first notable discounts</a> on these computers <strong>exclusively for My Best Buy Plus or My Best Buy Total members</strong>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/macbook-air-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-939665" /><em><small>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+If you're a Plus/Total member, you can get &#36;50 off both the 13-inch and 15-inch M3 MacBook Air.  My Best Buy Plus and My Best Buy Total begins at &#36;49.99/year, so these new MacBook Air discounts will only make sense for people who already have paid for the service.<br/>
+<br/>
+<div class="center-wrap"><em><strong>Note: Discounts available only to My Best Buy Plus/Total members.</strong></em></div><br/>
+<div class="center-wrap"><a href="https://howl.me/clLur9sCFjw"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>13-inch M3 MacBook Air (256GB) for &#36;1,049.00 </div></a></div><br/>
+<div class="center-wrap"><a href="https://howl.me/clLutG0IgBi"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>15-inch M3 MacBook Air (256GB) for &#36;1,249.00 </div></a></div><br/>
+<br/>
+With these discounts, the 256GB 13-inch M3 MacBook Air is available from &#36;1,049.00 and the 256GB 15-inch M3 MacBook Air is available from &#36;1,249.00. You'll find every new MacBook Air model on sale with Best Buy's exclusive &#36;50 discounts, including those with increased RAM.<br/>
+<br/>
+If you're willing to invest in a previous generation model, you can also find the <a href="https://www.macrumors.com/2024/03/04/best-buy-13-inch-m1-macbook-air/">13-inch M1 MacBook Air on sale at Best Buy</a>. We covered this deal earlier today, and it's a good option for anyone willing to sacrifice the internal upgrades of the M3 chip for a much lower price tag of &#36;749.99.<br/>
+<br/>
+Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/first-discounts-m3-macbook-air/">Best Buy Has First Discounts on Apple&#039;s M3 MacBook Air Exclusively for Members</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-buy-has-first-discounts-on-apples-m3-macbook-air-exclusively-for-members.2421060/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Ups Mac Trade-In Prices Following M3 MacBook Air Launch</title>
@@ -74,9 +151,9 @@ The higher-end M3 Pro and M3 Max MacBook Pro models are already able to drive mu
 		</item>
 		
 		<item>
-		<title>Apple to Pay Canadian Customers Up to &#36;150 Following iPhone Throttling Controversy</title>
+		<title>Apple to Pay Canadian Customers Up to &#36;150 Following iPhone Battery Controversy</title>
 		<link>https://www.macrumors.com/2024/03/04/apple-iphone-battery-settlement-approved-in-canada/</link>
-		<comments>https://forums.macrumors.com/threads/apple-to-pay-canadian-customers-up-to-150-following-iphone-throttling-controversy.2421040/</comments>
+		<comments>https://forums.macrumors.com/threads/apple-to-pay-canadian-customers-up-to-150-following-iphone-battery-controversy.2421040/</comments>
 		<pubDate>Mon, 04 Mar 2024 10:38:37 PST</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/apple-iphone-battery-settlement-approved-in-canada/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
@@ -94,7 +171,7 @@ Apple has denied the allegations described in the lawsuit, and the settlement do
 <br/>
 Apple was sued in multiple Canadian provinces over iPhone battery throttling in 2018, including Alberta, British Columbia, Ontario, and Saskatchewan. The cases were filed shortly after Apple revealed that it had <a href="https://www.macrumors.com/2017/12/18/geekbench-iphone-6s-slowdowns/">started throttling the maximum performance of some iPhone models with "chemically aged" batteries</a>, when necessary, to prevent the devices from unexpectedly shutting down. Apple introduced this new power management system in iOS 10.2.1, but it initially failed to mention the change in that update's release notes, leading to public outcry. <a href="https://www.macrumors.com/2017/12/28/apple-iphone-battery-performance-price-drop/">Apple eventually apologized</a> about its lack of transparency, and temporarily lowered the price of iPhone battery replacements to &#36;29 (USD) until the end of 2018.<br/>
 <br/>
-Apple agreed to pay up to &#36;500 million (USD) to settle a similar class action lawsuit in the U.S., and <a href="https://www.macrumors.com/2024/01/06/apple-starts-iphone-batterygate-payouts/">payments started going out in January</a> there.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/iphone-slowdown/">iPhone Slowdown</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/apple-iphone-battery-settlement-approved-in-canada/">Apple to Pay Canadian Customers Up to &#36;150 Following iPhone Throttling Controversy</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-pay-canadian-customers-up-to-150-following-iphone-throttling-controversy.2421040/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Apple agreed to pay up to &#36;500 million (USD) to settle a similar class action lawsuit in the U.S., and <a href="https://www.macrumors.com/2024/01/06/apple-starts-iphone-batterygate-payouts/">payments started going out in January</a> there.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/iphone-slowdown/">iPhone Slowdown</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/apple-iphone-battery-settlement-approved-in-canada/">Apple to Pay Canadian Customers Up to &#36;150 Following iPhone Battery Controversy</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-pay-canadian-customers-up-to-150-following-iphone-battery-controversy.2421040/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -610,86 +687,6 @@ The previous generation MacBook Air models with M2 chip, the 13-inch model of wh
 By contrast, the new 13-inch and 15-inch MacBook Air models support one external display with up to 6K resolution at 60Hz with the laptop lid open, and two external displays with up to 5K resolution at 60Hz with the lid closed.<br/>
 <br/>
 Apple <a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">announced</a> the two new MacBook Air models today. Pre-orders are now open on Apple's website, with the laptops set to launch on Friday, March 8. Apple today also <a href="https://www.macrumors.com/2024/03/04/apple-discontinues-m1-macbook-air/">discontinued</a> the MacBook Air with M1 chip as well as the <a href="https://www.macrumors.com/2024/03/04/m2-macbook-air-under-1000/">15-inch MacBook Air with M2 chip</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/m3-macbook-air-two-displays-lid-closed/">M3 MacBook Air Supports Up to Two External Displays With Lid Closed</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m3-macbook-air-supports-up-to-two-external-displays-with-lid-closed.2421000/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Discontinues MacBook Air With M1 Chip</title>
-		<link>https://www.macrumors.com/2024/03/04/apple-discontinues-m1-macbook-air/</link>
-		<comments>https://forums.macrumors.com/threads/apple-discontinues-macbook-air-with-m1-chip.2420996/</comments>
-		<pubDate>Mon, 04 Mar 2024 05:08:21 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/apple-discontinues-m1-macbook-air/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>MacBook Air 15&quot;</category>
-		<category>MacBook Air 13&quot;</category>
-		
-
-		<description><![CDATA[Apple today discontinued the MacBook Air with the M1 chip, which launched in November 2020 as one of the first Apple silicon Macs.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/11/macbook-air-m1-unboxing-feature.jpg" alt="" width="1616" height="902" class="aligncenter size-full wp-image-770435" /><br/>
-In the U.S., the MacBook Air lineup now consists of the 13-inch MacBook Air with the M2 chip starting at &#36;999, the 13-inch MacBook Air with the M3 chip starting at &#36;1,099, and the 15-inch MacBook Air with the M3 chip starting at &#36;1,299.<br/>
-<br/>
-For more details about the new 13-inch and 15-inch MacBook Air models with the M3 chip, read our <a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">coverage of Apple's announcement</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/apple-discontinues-m1-macbook-air/">Apple Discontinues MacBook Air With M1 Chip</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-discontinues-macbook-air-with-m1-chip.2420996/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Announces New MacBook Air Models With M3 Chip</title>
-		<link>https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/</link>
-		<comments>https://forums.macrumors.com/threads/apple-announces-new-macbook-air-models-with-m3-chip.2420995/</comments>
-		<pubDate>Mon, 04 Mar 2024 05:04:01 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>Featured (sticky)</category>
-		<category>MacBook Air 15&quot;</category>
-		<category>MacBook Air 13&quot;</category>
-		<category>New Banner (Featured)</category>
-		<category>Product Release (Buyer's Guide)</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2024/03/apple-unveils-the-new-13-and-15-inch-macbook-air-with-the-powerful-m3-chip/">announced</a> new 13- and 15-inch <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> models with M3 chip, improved external display support, Wi-Fi 6E, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/Apple-MacBook-Air-2-up-hero-240304.jpg" alt="" width="1960" height="1102" class="alignnone size-full wp-image-939381" /><br/>
-Apple says that the new &zwnj;MacBook Air&zwnj; is up to 60% faster than the <a href="https://www.macrumors.com/guide/m1/">M1</a> model and up to 13x faster than the fastest Intel-based &zwnj;MacBook Air&zwnj;. With a faster and more efficient Neural Engine, Apple says that the &zwnj;MacBook Air&zwnj; continues to be "the best consumer laptop for AI." It also gains an AV1 decode engine to provide more efficient and higher-quality video from streaming services.<br/>
-<br/>
-In addition to the M3 chip, the new &zwnj;MacBook Air&zwnj; offers Wi-Fi 6E, Voice Isolation and Wide Spectrum microphone modes, enhanced voice clarity in audio and video calls, and a more fingerprint-resistant finish with the Midnight color option. It also now supports up to <a href="https://www.macrumors.com/2024/03/04/m3-macbook-air-two-displays-lid-closed/">two external displays</a> when the laptop lid is closed, increasing from just a single external display on the previous Apple silicon models.<br/>
-<br/>
-Pre-orders of the new &zwnj;MacBook Air&zwnj; start today, with orders arriving to customers on Friday, March 8. It continues to be available in Midnight, Starlight, Space Gray, and Silver with a starting price of &#36;1,099.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">Apple Announces New MacBook Air Models With M3 Chip</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-announces-new-macbook-air-models-with-m3-chip.2420995/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>EU Fines Apple &#36;2 Billion for Anti-Competitive Behavior Toward Spotify</title>
-		<link>https://www.macrumors.com/2024/03/04/eu-fines-apple-2-billion/</link>
-		<comments>https://forums.macrumors.com/threads/eu-fines-apple-2-billion-for-anti-competitive-behavior-toward-spotify.2420990/</comments>
-		<pubDate>Mon, 04 Mar 2024 04:18:43 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/eu-fines-apple-2-billion/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>Spotify</category>
-		<category>European Union</category>
-		<category>European Commission</category>
-		<category>Europe</category>
-		<category>Apple Antitrust</category>
-		
-
-		<description><![CDATA[The European Commission today <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1161">fined Apple</a> €1.8 billion (&#36;1.95 billion) for anti-competitive conduct against rival music streaming services. In a <a href="https://www.apple.com/newsroom/2024/03/the-app-store-spotify-and-europes-thriving-digital-music-market/?1709553731">response</a> published on its website, Apple fiercely attacked the Commission's decision, as well as Spotify's behavior.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/App-Store-vs-EU-Feature-2.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-932826" /><br/>
-The fine comes as the conclusion to a long-running investigation by the EU, triggered by a complaint from Spotify, into Apple's treatment of third-party music streaming services on the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. The Commission now says that Apple abused its dominant position in the market by forbidding music streaming apps to tell users about cheaper subscription prices outside the app.<br/>
-<br/>
-<blockquote>The European Commission has fined Apple over €1.8 billion for abusing its dominant position on the market for the distribution of music streaming apps to iPhone and iPad users ('iOS users') through its App Store. In particular, the Commission found that Apple applied restrictions on app developers preventing them from informing iOS users about alternative and cheaper music subscription services available outside of the app ('anti-steering provisions'). This is illegal under EU antitrust rules.</blockquote><br/>
-<br/>
-In an extensive public <a href="https://www.apple.com/newsroom/2024/03/the-app-store-spotify-and-europes-thriving-digital-music-market/?1709553731">response</a>, Apple noted that while Spotify has a dominant, 56 percent share of Europe's music streaming market and a "large part of their success is due to the &zwnj;App Store&zwnj;," the company does not pay anything to Apple because it refuses to sell subscriptions in its app. Apple listed a large number of services that it provides to Spotify for free, such as distribution, APIs, frameworks, TestFlight, App Review, and in-person engineering assistance. "But free isn't enough for Spotify," Apple says. "They also want to rewrite the rules of the &zwnj;App Store&zwnj; — in a way that advantages them even more."<br/>
-<br/>
-<blockquote>Instead, Spotify wants to bend the rules in their favor by embedding subscription prices in their app without using the App Store's In-App Purchase system. They want to use Apple's tools and technologies, distribute on the App Store, and benefit from the trust we’ve built with users — and to pay Apple nothing for it.</blockquote><br/>
-<br/>
-Apple said that Spotify claimed in 2015 when it started working on the investigation with the European Commission that the "digital music market had stalled, and that Apple was holding competitors back." "Unfortunately for their case, Spotify continued to grow," Apple added.<br/>
-<br/>
-Apple noted that three different related cases mounted against it by the European Commission over the past eight years consistently found no evidence of consumer harm and no evidence of anti-competitive behavior.<br/>
-<br/>
-<blockquote>The reality is that European consumers have more choices than ever. Ironically, in the name of competition, today's decision just cements the dominant position of a successful European company that is the digital music market's runaway leader.</blockquote><br/>
-<br/>
-Apple also said that it is set to comply with the EU's Digital Markets Act (DMA) within days, alluding to the release of <a href="https://www.macrumors.com/guide/ios-17-4-beta-features/">iOS 17.4</a>, which includes a number of significant changes for users in Europe to meet the legislation's requirements. It believes that today's fine is "an effort by the Commission to enforce the DMA before the DMA becomes law," since it is "not grounded in existing competition law." Apple plans to appeal the decision.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/spotify/">Spotify</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/european-commission/">European Commission</a>, <a href="https://www.macrumors.com/guide/europe/">Europe</a>, <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/eu-fines-apple-2-billion/">EU Fines Apple &#36;2 Billion for Anti-Competitive Behavior Toward Spotify</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/eu-fines-apple-2-billion-for-anti-competitive-behavior-toward-spotify.2420990/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
