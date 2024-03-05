@@ -14,12 +14,280 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 05 Mar 2024 08:02:48 PST</lastBuildDate>
+	<lastBuildDate>Tue, 05 Mar 2024 12:03:11 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Gives Developers More Insight Into App Performance With Over 50 New Analytics Reports</title>
+		<link>https://www.macrumors.com/2024/03/05/apple-new-developer-analytics-reports/</link>
+		<comments>https://forums.macrumors.com/threads/apple-gives-developers-more-insight-into-app-performance-with-over-50-new-analytics-reports.2421140/</comments>
+		<pubDate>Tue, 05 Mar 2024 11:45:55 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/05/apple-new-developer-analytics-reports/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Developer Program</category>
+		
+
+		<description><![CDATA[Alongside the app ecosystem changes that Apple is making in the European Union to comply with the Digital Markets Act, Apple has introduced new analytics information that's available to developers around the world.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-757303" src="https://images.macrumors.com/article-new/2020/09/apple-developer-banner.jpeg" alt="" width="1024" height="572" /><br/>
+There are more than 50 reports that are available through the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> Connect API, with these reports aimed at giving developers more insight into their app performance. Apple added &zwnj;App Store&zwnj;, iOS, and CloudKit data analytics that provide hundreds of new metrics.<br/>
+<br/>
+Some of the new reports <a href="https://www.macrumors.com/2024/01/25/apple-developer-analytics-expansion/">were shared</a> back when Apple's app changes were first announced in January.<br/>
+<ul><br/>
+ 	<li><strong>App Store Engagement</strong> - Apple is offering additional insight into the number of users on the &zwnj;App Store&zwnj; that interact with a developer's app or share it with other people.</li><br/>
+ 	<li><strong>App Store Commerce</strong> - Developers can get more information on downloads, sales and proceeds, pre-orders, and transactions made with the In-App Purchase system.</li><br/>
+ 	<li><strong>App Usage</strong> - Apple now provides more information on crashes, active devices, installs, app deletions, and more.</li><br/>
+ 	<li><strong>Frameworks Usage</strong> - Developers can get info on their app's interaction with iOS features like <a href="https://www.macrumors.com/guide/home-screen/">Widgets</a>, <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a>, and PhotoPicker.</li><br/>
+ 	<li><strong>Performance</strong> - Apple offers insights into how apps perform and how users are interacting with specific app features.</li><br/>
+</ul><br/>
+The CloudKit console is also being updated with data about Apple Push Notifications and File Provider.<br/>
+<br/>
+Apple anonymizes the data that is used in the new report options, and developers can also now grant third-party access to their performance reports.<br/>
+<br/>
+More information on the new analytics reports will be provided by Apple later today.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-developer-program/">Apple Developer Program</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/05/apple-new-developer-analytics-reports/">Apple Gives Developers More Insight Into App Performance With Over 50 New Analytics Reports</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-gives-developers-more-insight-into-app-performance-with-over-50-new-analytics-reports.2421140/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Make Sure to Update: iOS 17.4 and iPadOS 17.4 Fix Two Major Security Vulnerabilities</title>
+		<link>https://www.macrumors.com/2024/03/05/ios-17-4-vulnerability-fix/</link>
+		<comments>https://forums.macrumors.com/threads/make-sure-to-update-ios-17-4-and-ipados-17-4-fix-two-major-security-vulnerabilities.2421136/</comments>
+		<pubDate>Tue, 05 Mar 2024 11:02:29 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/05/ios-17-4-vulnerability-fix/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> owners may want to update to iOS 17.4 and iPadOS 17.4 in the near future, as the updates address two security vulnerabilities that may have been exploited to gain access to user devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-896108" /><br/>
+In the <a href="https://support.apple.com/en-us/HT214081">security support document</a> for the updates, Apple says that it "is aware of a report" that RTKit and kernel vulnerabilities may have been exploited by bad actors.<blockquote>Impact: An attacker with arbitrary kernel read and write capability may be able to bypass kernel memory protections. Apple is aware of a report that this issue may have been exploited.</blockquote>Apple fixed the memory corruption issue with improved validation to patch the security hole.<br/>
+<br/>
+iOS 17.4 and iPadOS 17.4 also address an Accessibility vulnerability and an issue with Safari Private Browsing that could allow locked tabs to be briefly visible while switching tab groups.<br/>
+<br/>
+The software updates were released this morning and are available on eligible iPhones and iPads by going to Settings > General > Software Update.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/05/ios-17-4-vulnerability-fix/">Make Sure to Update: iOS 17.4 and iPadOS 17.4 Fix Two Major Security Vulnerabilities</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/make-sure-to-update-ios-17-4-and-ipados-17-4-fix-two-major-security-vulnerabilities.2421136/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Tweaks New EU App Store Business Terms After Developer Feedback</title>
+		<link>https://www.macrumors.com/2024/03/05/apple-tweaks-eu-app-store-business-terms/</link>
+		<comments>https://forums.macrumors.com/threads/apple-tweaks-new-eu-app-store-business-terms-after-developer-feedback.2421134/</comments>
+		<pubDate>Tue, 05 Mar 2024 10:41:47 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/05/apple-tweaks-eu-app-store-business-terms/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>App Store</category>
+		<category>Apple Developer Program</category>
+		
+
+		<description><![CDATA[With the launch of iOS 17.4, Apple's app ecosystem changes in the European Union have gone into effect. Apple today said that it made some last minute updates to its terms of service after receiving feedback from developers.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/App-Store-vs-EU-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932826" /><br/>
+To distribute apps through an app marketplace, with a reduced fee to Apple, or with an alternative payment option, developers have to opt in to new business terms that accept the Core Technology Fee and other new pricing mandates. Apple did not initially provide a way for developers to try the new system and then opt back out if it does not work out, but now there is a one-time term swap option available in some circumstances.<br/>
+<br/>
+Apple says that developers have a one-time option to terminate the new rule addendum [<a href="https://developer.apple.com/contact/request/download/alternate_eu_terms_addendum.pdf">PDF</a>] and swap back to Apple's standard business terms, though there is a catch. Developers who want to change back cannot have distributed an app through an alternative app marketplace or have used an alternative payment processing method.<blockquote>You may terminate this Addendum without also terminating the Developer Agreement one time, provided You have never had an Application be an Alternative App Marketplace (EU), be distributed through an Alternative App Marketplace (EU), use Linking Out, or use Alternative Payment Processing.</blockquote>Opt-out will be available for developers who decided to continue to distribute their apps through the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> while adopting the Core Technology Fee and reduced commission option. The CTF is .50 euros per download after 1 million downloads, and the commission is 13 percent for small business owners and 20 percent for installs over 1 million (this includes the &zwnj;App Store&zwnj; payment processing fee).<br/>
+<br/>
+Developers who want to create an alternative app marketplace <a href="https://developer.apple.com/support/alternative-app-marketplace-in-the-eu/">can now do so</a> without a stand-by letter of credit for €1,000,000, which would restrict marketplace creation to large companies. Developers who have been a member of good standing in the Apple Developer Program for two continuous years or more and have an app that had more than one million first annual installs in iOS in the EU in the prior calendar year can create a marketplace without the proof of funds.<br/>
+<br/>
+There is also no longer a corporate entity requirement when signing up for new terms, so a large business can sign up at the developer account level rather than having to have each controlling membership approve the swap to the updated business terms.<br/>
+<br/>
+With iOS 17.4 released, we should soon be seeing the first alternative app marketplaces launch. Developers are now free to adopt the new business terms, distribute their apps outside of the &zwnj;App Store&zwnj;, and use third-party payments in their apps. Note that all of these changes are limited to developers and users in the European Union.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/apple-developer-program/">Apple Developer Program</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/05/apple-tweaks-eu-app-store-business-terms/">Apple Tweaks New EU App Store Business Terms After Developer Feedback</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-tweaks-new-eu-app-store-business-terms-after-developer-feedback.2421134/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases iOS 17.4 and iPadOS 17.4 With EU App Changes, New Emoji, Podcast Transcripts and More</title>
+		<link>https://www.macrumors.com/2024/03/05/apple-releases-ios-17-4/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-ios-17-4-and-ipados-17-4-with-eu-app-changes-new-emoji-podcast-transcripts-and-more.2421124/</comments>
+		<pubDate>Tue, 05 Mar 2024 10:01:25 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/05/apple-releases-ios-17-4/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released iOS 17.4 and iPadOS 17.4, the fourth major updates to the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> operating system that came out in September 2023. The software updates come over a month after Apple <a href="https://www.macrumors.com/2024/01/22/apple-releases-ios-17-3/">released iOS 17.3 and iPadOS 17.3</a>.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/4D8Dy0kP-Cg" title="iOS 17.4 Out Now: New Features!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+iOS 17.4 and iPadOS 17.4 can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update. <br/>
+<br/>
+With iOS 17.4, Apple introduces sweeping changes to the way the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> and apps function in the European Union, paving the way for alternative app marketplaces on <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, alternative payment systems on iOS and iPadOS, third-party browser engine support, and NFC access for banks and third-party payment providers. These features are limited to the EU, and the changes are not applicable in other countries.<br/>
+<br/>
+Apple did, however, make worldwide changes to gaming apps. Apple is now allowing cloud gaming apps like Xbox Cloud Gaming and Nvidia GeForce NOW. Mini games, chatbots, and plug-ins are also now able to use the in-app purchase system.<br/>
+<br/>
+In addition to these App Store-related updates, iOS 17.4 adds new emoji characters, <a href="https://www.apple.com/newsroom/2024/03/apple-introduces-transcripts-for-apple-podcasts/">transcripts for podcasts</a> in the Podcasts app, Stopwatch Live Activities, improvements to battery health reporting on the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models, and more. Apple's full release notes for the update are below.<br/>
+<blockquote><strong>Emoji</strong><br/>
+- New mushroom, phoenix, lime, broken chain, and shaking heads emoji are now available in the emoji keyboard<br/>
+- 18 people and body emoji add the option to face them in either direction<br/>
+<br/>
+<strong>Apple Podcasts</strong><br/>
+- Transcripts let you follow an episode with text that highlights in sync with the audio in English, Spanish, French and German<br/>
+- Episode text can be read in full, searched for a word or phrase, tapped to play from a specific point and used with accessibility features such as Text Size, Increase Contrast, and VoiceOver<br/>
+<br/>
+<strong>This update includes the following enhancements and bug fixes:</strong><br/>
+- Music recognition lets you add songs you have identified to your Apple Music Playlists and Library, as well as Apple Music Classical<br/>
+- Siri has a new option to announce messages you receive in any supported language<br/>
+- Stolen Device Protection supports the option for increased security in all locations<br/>
+- Battery Health in Settings shows battery cycle count, manufacture date, and first use on iPhone 15 and iPhone 15 Pro models<br/>
+- Call Identification displays Apple-verified business name, logo, and department name when available<br/>
+- Business updates in Messages for Business provide trusted information for order status, flight notifications, fraud alerts or other transactions you opt into<br/>
+- Apple Cash virtual card numbers enable you to pay with Apple Cash at merchants that don't yet accept Apple Pay by typing in your number from Wallet or using Safari AutoFill<br/>
+- Fixes an issue where contact pictures are blank in Find My<br/>
+- Fixes an issue for Dual SIM users where the phone number changes from primary to secondary and is visible to a group they have messaged<br/>
+Some features may not be available for all regions or on all Apple devices. For information on the security content of Apple software updates, please visit this website: <a href="https://support.apple.com/kb/HT201222">https://support.apple.com/kb/HT201222</a></blockquote><br/>
+Note that Apple's release notes in the United States do not highlight the changes in the European Union, but the update does now allow for alternative app marketplaces to be installed on iPhones in Europe. If you're in Europe and affected by the changes, you will see different release notes that include details on Apple's app ecosystem updates. <blockquote><strong>Apps in the EU</strong><br/>
+Residents of the European Union will now have new options to:<br/>
+<br/>
+- Install apps from alternative app marketplaces<br/>
+- Install web browser with alternative browser engines<br/>
+- Manage your default web browser the first time you open Safari<br/>
+- Use alternative payment options for apps in the App Store with the external purchases badge<br/>
+- Some options require developer support</blockquote>More information on what's new in iOS 17.4 can be found in <a href="https://www.macrumors.com/guide/ios-17-4-beta-features/">our iOS 17.4 features guide</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/05/apple-releases-ios-17-4/">Apple Releases iOS 17.4 and iPadOS 17.4 With EU App Changes, New Emoji, Podcast Transcripts and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-17-4-and-ipados-17-4-with-eu-app-changes-new-emoji-podcast-transcripts-and-more.2421124/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>13-Inch vs. 15-Inch MacBook Air Buyer&#039;s Guide</title>
+		<link>https://www.macrumors.com/guide/13-vs-15-inch-macbook-air/</link>
+		<comments>https://forums.macrumors.com/threads/13-inch-vs-15-inch-macbook-air-buyers-guide.2391905/</comments>
+		<pubDate>Tue, 05 Mar 2024 08:47:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/13-vs-15-inch-macbook-air&#038;post_date=1709668020/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Buyer's Guide</category>
+		<category>Featured</category>
+		<category>MacBook Air 15&quot;</category>
+		<category>MacBook Air 13&quot;</category>
+		
+
+		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> continues to be available in 13- and 15-inch sizes after Apple's <a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">latest refresh</a> that added the M3 chip. The 15-inch &zwnj;MacBook Air&zwnj; offers almost all of the same hardware with a significantly larger display, yet there are still some key differences that are worth considering when purchasing one of the machines.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/06/MacBook-Air-Multiple-Sizes-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-851176" /><br/>
+The 13- and 15-inch &zwnj;MacBook Air&zwnj; models are almost exactly the same in terms of feature set and design, both sporting high-resolution Liquid Retina displays, <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>, two Thunderbolt ports, and much more. Both machines can be configured with the exact same amounts of memory and storage, and they are both available in the same color options. This simplifies purchasing decisions to just a few important aspects.<br/>
+<br/>
+<h3 id="key_differences">Key Differences</h3><br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th>13-inch &zwnj;MacBook Air&zwnj;</th><br/>
+ <th>15-inch &zwnj;MacBook Air&zwnj;</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>13.6-inch Liquid Retina display</td><br/>
+ <td>15.3-inch Liquid Retina display</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td><a href="https://www.macrumors.com/guide/m2/">M2</a> or M3 chip</td><br/>
+ <td>M3 chip</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Starts with 8-Core GPU</td><br/>
+ <td>10-Core GPU</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Four-speaker sound system</td><br/>
+ <td>Six-speaker sound system with force-cancelling woofers</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Integrated 52.6-watt-hour lithium-polymer battery</td><br/>
+ <td>Integrated 66.5-watt-hour lithium-polymer battery</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>30W USB-C Power Adapter (with 8-core GPU chip) or 35W Dual Port Compact Power Adapter</td><br/>
+ <td>35W Dual Port Compact Power Adapter</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Starts at &#36;999</td><br/>
+ <td>Starts at &#36;1,299</td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+It is important to note that while the 15-inch &zwnj;MacBook Air&zwnj; has a battery that is 13.9-watt-hours larger than the 13-inch model, both machines have the same 18-hour battery life. This is likely due to the increased power consumption of the larger display.<br/>
+<br/>
+If you plan to heavily use your laptop's built-in speakers, the 15-inch model offers a worthwhile reason to get the larger model, offering two extra speakers inside the larger chassis. The smaller &zwnj;MacBook Air&zwnj; also misses out on the force-canceling woofers that are present in the 15-inch model, meaning that its audio isn't quite as good.<br/>
+<br/>
+Since size is the main difference between the two &zwnj;MacBook Air&zwnj; models, prospective customers may wish to drill into the specific dimensions and weight of the machines. The 15-inch model adds 0.6 pounds (0.27 kg) and may be more difficult to get into a bag or backpack due to its larger footprint.<br/>
+<br/>
+<h3 id="dimensions">Dimensions</h3><br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>13-inch &zwnj;MacBook Air&zwnj;</th><br/>
+ <th>15-inch &zwnj;MacBook Air&zwnj;</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>Height</th><br/>
+ <td>0.44 inch (1.13 cm)</td><br/>
+ <td>0.45 inch (1.15 cm)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>Width</th><br/>
+ <td>11.97 inches (30.41 cm)</td><br/>
+ <td>13.40 inches (34.04 cm)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>Depth</th><br/>
+ <td>8.46 inches (21.5 cm)</td><br/>
+ <td>9.35 inches (23.76 cm)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <th>Weight</th><br/>
+ <td>2.7 pounds (1.24 kg)</td><br/>
+ <td>3.3 pounds (1.51 kg)</td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+While the 13-inch &zwnj;MacBook Air&zwnj; with the M3 chip starts at &#36;1,099, making it &#36;200 cheaper than the 15-inch model, if you choose the 13-inch &zwnj;MacBook Air&zwnj; with a 10-core GPU, this price difference shrinks to &#36;100. If you add the 35W Dual Port Compact Power Adapter, the difference shrinks to just &#36;80. With this in mind, most users considering an M3 model should opt for the 15-inch model since it provides much more screen real-estate and better speakers.<br/>
+<br/>
+You should only buy the M3 13-inch &zwnj;MacBook Air&zwnj; if you specifically want a lighter, more portable device and are concerned about having to carry a device as large as the 15-inch model around. Likewise, the 13-inch &zwnj;MacBook Air&zwnj; is a better buy if you are price-conscious and don't need anything more than an 8-core GPU and the 30W USB-C Power Adapter. The &#36;1,099 13-inch model is still quite a bit more affordable than the 15-inch &zwnj;MacBook Air&zwnj;, with virtually no compromises in terms of features. <br/>
+<br/>
+<ul><li><a href="https://www.macrumors.com/guide/m2-vs-m3-macbook-air/">M2 vs. M3 MacBook Air Buyer's Guide: All Differences Compared</a></li></ul><br/>
+<br/>
+The 13-inch &zwnj;MacBook Air&zwnj; is also available with the &zwnj;M2&zwnj; chip for &#36;999. This is the &zwnj;MacBook Air&zwnj; Apple introduced in mid-2022 and it now represents an entry-level model. If affordability is your main concern, this 13-inch model is the best choice, coming in at &#36;300 less than the 15-inch M3 model.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/13-vs-15-inch-macbook-air/">13-Inch vs. 15-Inch MacBook Air Buyer&#039;s Guide</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/13-inch-vs-15-inch-macbook-air-buyers-guide.2391905/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>New MacBook Air Launching on Friday With These 5 New Features</title>
+		<link>https://www.macrumors.com/2024/03/05/m3-macbook-air-features/</link>
+		<comments>https://forums.macrumors.com/threads/new-macbook-air-launching-on-friday-with-these-5-new-features.2421117/</comments>
+		<pubDate>Tue, 05 Mar 2024 08:26:55 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/05/m3-macbook-air-features/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>MacBook Air 15&quot;</category>
+		<category>MacBook Air 13&quot;</category>
+		
+
+		<description><![CDATA[Apple this week <a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">updated the 13-inch and 15-inch MacBook Air</a> with several new features and changes. The laptops can be ordered now, with in-store availability and deliveries to customers set to begin on Friday, March 8.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/Apple-MacBook-Air-2-up-hero-240304-feature.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-939443" /><br/>
+Below, we outline key new features added to the MacBook Air, including the M3 chip, Wi-Fi 6E, expanded external display support, and more.<br/>
+<br/>
+<h2>M3 Chip</h2><br/>
+Both the 13-inch and 15-inch MacBook Air are now available with Apple's latest M3 chip for faster performance and improved power efficiency.<br/>
+<br/>
+As expected, an <a href="https://www.macrumors.com/2024/03/05/first-benchmark-result-macbook-air-m3/">early benchmark result</a> has revealed that the M3 chip is up to 20% faster than the M2 chip in the previous MacBook Air models in terms of CPU performance. These results are consistent with the 14-inch MacBook Pro with the M3 chip.<br/>
+<br/>
+With the M3 chip, the MacBook Air has also gained hardware-accelerated ray tracing for improved graphics rendering in games, along with AV1 video decoding.<br/>
+<br/>
+<h2>Two External Displays</h2><br/>
+While previous MacBook Air models with Apple silicon officially support only one external display, the new models <a href="https://www.macrumors.com/2024/03/04/m3-macbook-air-two-displays-lid-closed/">support two external displays</a>. However, a second display can only be used when the MacBook Air's lid is closed.<br/>
+<br/>
+When the lid is open, the new models support one external display with up to 6K resolution at 60Hz. When the lid is closed, a second display with up to 5K resolution at 60Hz can be connected, according to Apple's tech specs.<br/>
+<br/>
+Even more displays can be connected to the MacBook Air with the use of DisplayLink adapters. <br/>
+<br/>
+<h2>Wi-Fi 6E</h2><br/>
+The new MacBook Airs support Wi-Fi 6E for "up to twice as fast" wireless download speeds compared to the previous models with Wi-Fi 6, according to Apple.<br/>
+<br/>
+Wi-Fi 6E extends the capabilities of Wi-Fi 6 to the 6 GHz band, enabling faster wireless speeds and reduced signal interference with a compatible device and router. The entire current-generation Mac lineup now supports Wi-Fi 6E.<br/>
+<br/>
+<h2>Microphone Upgrades</h2><br/>
+Apple says the microphones in the new MacBook Air models offer "enhanced voice clarity in audio and video calls" compared to the previous models. The microphones also gained support for <a href="https://www.macrumors.com/how-to/block-background-noise-facetime-mac/">"Voice Isolation" and "Wide Spectrum" modes</a>.<br/>
+<br/>
+<h2>Fingerprint Seal for Midnight Color</h2><br/>
+Just <a href="https://www.macrumors.com/2023/10/31/space-black-macbook-pro-hands-on-videos/">like the Space Black MacBook Pro</a>, the Midnight MacBook Air now features an "anodization seal to reduce fingerprints," according to Apple.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/05/m3-macbook-air-features/">New MacBook Air Launching on Friday With These 5 New Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-macbook-air-launching-on-friday-with-these-5-new-features.2421117/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>New Discover Samsung Spring Sale Has Massive &#36;700 Discount on ViewFinity S9 5K Smart Monitor and More</title>
@@ -80,7 +348,7 @@ We've rounded up a collection of other discounts you can find during the new Dis
 
 		<description><![CDATA[A refreshed <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> model will be announced this month, according to a rumor shared on Chinese social media.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2022/10/m2-ipad-pro-apple-pencil-hover.jpeg" alt="" width="1280" height="596" class="alignnone size-full wp-image-869663" /><br/>
+<img src="https://images.macrumors.com/article-new/2024/03/apple-pencil.jpeg" alt="" width="2048" height="1152" class="alignnone size-full wp-image-939786" /><br/>
 The rumor comes from Weibo user "<a href="https://www.macrumors.com/guide/setsuna-digital/">Instant Digital</a>," who notes that after over five years without an update, Apple finally plans to refresh the second-generation &zwnj;Apple Pencil&zwnj; this month. This corroborates <em>Bloomberg</em> reporter <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>'s <a href="https://www.macrumors.com/2024/03/03/no-apple-event-for-new-ipads-macs-gurman/">recent claim</a> that new Apple Pencils are on the way "in the next several weeks."<br/>
 <br/>
 There is a limited amount of information about what an updated ‌&zwnj;Apple Pencil&zwnj; might feature‌, but there have been rumors about <a href="https://www.macrumors.com/2023/10/02/apple-pencil-3-could-feature-magnetic-tips/">magnetically interchangeable tips</a>, <a href="https://www.macrumors.com/2020/07/17/apple-pencil-color-sensor-patent/">color sampling capabilities</a>, and a <a href="https://www.macrumors.com/2021/03/03/new-apple-pencil-allegedly-leaks/">shorter design with a glossy finish</a>.<br/>
@@ -394,7 +662,7 @@ Apple agreed to pay up to &#36;500 million (USD) to settle a similar class actio
 <img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
 Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
 <br/>
-&zwnj;macOS Sonoma&zwnj; 14.4 introduces new emoji characters, podcast episode text, and an option to only show icons for websites in the Safari Favorites Bar. The update also supports the new <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> models that were introduced today.<blockquote>macOS Sonoma 14.4 introduces new emoji as well as other features, bug fixes, and security updates for your Mac.</p><br/>
+&zwnj;macOS Sonoma&zwnj; 14.4 introduces new emoji characters, podcast episode text, and an option to only show icons for websites in the Safari Favorites Bar. The update also supports the new <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> models that were introduced today.<blockquote>macOS Sonoma 14.4 introduces new emoji as well as other features, bug fixes, and security updates for your Mac.<br/>
 <br/>
 <strong>Emoji</strong><br/>
 - New mushroom, phoenix, lime, broken chain, and shaking heads emoji are now available in emoji keyboard<br/>
@@ -410,298 +678,6 @@ Some features may not be available for all regions, or on all Apple devices.<br
 For detailed information about the security content of this update, please visit: https://support.apple.com/kb/HT201222</blockquote>macOS Sonoma 14.4 could see a public release as soon as this week.<br/>
 <br/>
 <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/apple-seeds-macos-sonoma-14-4-release-candidate/">Apple Seeds macOS Sonoma 14.4 Release Candidate</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-macos-sonoma-14-4-release-candidate.2421033/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds visionOS 1.1 Release Candidate</title>
-		<link>https://www.macrumors.com/2024/03/04/visionos-1-1-release-candidate/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-visionos-1-1-release-candidate.2421032/</comments>
-		<pubDate>Mon, 04 Mar 2024 10:05:32 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/visionos-1-1-release-candidate/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[Apple today seeded the release candidate version of an upcoming <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1.1 update for developers, allowing them to test new features ahead of the software seeing a public launch. The new update comes a week after the <a href="https://www.macrumors.com/2024/02/27/apple-releases-visionos-1-1-beta-4/">release of the fourth beta</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-934088" src="https://images.macrumors.com/article-new/2024/02/visionOS-Home-Screen.jpg" alt="" width="1920" height="1080" /><br/>
-The &zwnj;visionOS&zwnj; beta can be downloaded by going to the Settings app on the device and toggling on developer betas. A registered developer account is required, and Apple recommends making a backup before installing new software.<br/>
-<br/>
-&zwnj;visionOS&zwnj; 1.1 brings support for iMessage Contact Key Verification and it adds Apple device management to the Vision Pro. With this functionality, IT departments at companies and educational institutions can manage Vision Pro headsets in the same way they manage iPhones, iPads, and Macs.<br/>
-<br/>
-According to Apple's beta notes, users can now reposition volumetric scenes closer than before, enabling easier direct interaction with the volumetric scene content. That means objects can be placed closer to you. Apple also made several improvements to Personas, the virtual keyboard, and the Mac virtual display, with full release notes available below.<blockquote><strong>Mobile Device Management</strong><br/>
-- Enables account-driven device and user enrollment using Managed Apple IDs<br/>
-- Support for device configuration (Wi-Fi, VPN, email accounts, single sign-on, and more)<br/>
-- Support for deploying apps in volume including iPhone and iPad compatible apps, visionOS apps included in a Universal purchase, and proprietary in-house visionOS apps<br/>
-- Support for remote erase via MDM and device inventory data<br/>
-<br/>
-<strong>Messages</strong><br/>
-- Adds support for iMessage Contact Key Verification<br/>
-<br/>
-<strong>Accessibility</strong><br/>
-- Closed captions can be anchored to the playback control while viewing Apple Immersive Video<br/>
-<br/>
-<strong>Persona (beta) and EyeSight</strong><br/>
-- Adds an option to enroll your Persona hands-free<br/>
-- Improves hair and makeup appearance<br/>
-- Improves neck and mouth representation<br/>
-- Improves rendering of the eyes for EyeSight<br/>
-<br/>
-<strong>Virtual keyboard</strong><br/>
-- Cursor positioning for text input is now more accurate<br/>
-- Resolves some instances where the virtual keyboard placement obscures the text input field<br/>
-- Fixes an issue where in some cases, the text preview on the virtual keyboard may appear out of sync with the text field in the app<br/>
-- Fixes an issue where the edit menu may appear unexpectedly<br/>
-<br/>
-<strong>Mac Virtual Display</strong><br/>
-- Improves the reliability of discovering and connecting to a Mac using Mac Virtual Display<br/>
-- Resolves an issue where Universal Control may stop working<br/>
-- Addresses a connectivity issue that occurs when a previously paired Bluetooth device cannot be found<br/>
-<br/>
-<strong>Captive Network Support</strong><br/>
-- Ability to set up your device while using a captive WiFi network such as those found at hotels, cafes and airports<br/>
-<br/>
-For information on the security content of Apple software updates, please visit this website:<br/>
-https://support.apple.com/kb/HT201222</blockquote>With the RC now available, the &zwnj;visionOS&zwnj; 1.1 beta will likely be released to the public in less than a week. <br/>
-<br/>
-<br/>
-<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/visionos-1-1-release-candidate/">Apple Seeds visionOS 1.1 Release Candidate</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-visionos-1-1-release-candidate.2421032/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds watchOS 10.4 Release Candidate to Developers</title>
-		<link>https://www.macrumors.com/2024/03/04/apple-seeds-watchos-10-4-rc/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-watchos-10-4-release-candidate-to-developers.2421034/</comments>
-		<pubDate>Mon, 04 Mar 2024 10:04:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/apple-seeds-watchos-10-4-rc/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[Apple today seeded the release candidate version of an upcoming watchOS 10.4 update to developers for testing purposes, with the software coming a week after the <a href="https://www.macrumors.com/2024/02/20/apple-seeds-watchos-10-4-beta-4-to-developers/">release of the fourth watchOS 10.4 beta</a>. The RC is the finalized version of watchOS 10.4 that will see a public launch next week. <br/>
-<br/>
-<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
-To install the ‌watchOS 10.4‌ update, developers need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
-<br/>
-Once beta updates have been activated, watchOS 10.4 can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
-<br/>
-watchOS 10.4 includes new emoji characters such as a lime, an edible brown mushroom, a phoenix, a broken chain, shaking head vertically (as in a "yes" nod), and shaking head horizontally (a "no" head shake). There is also a Setting to disable the Double Tap feature on Apple Watch when using Vision Pro, as the Double Tap gestures might be accidentally activated when controlling Vision Pro.<br/>
-<br/>
-Apple's release notes for the update are below:<blockquote>watchOS 10.4 includes new features, improvements, and bug fixes, including:<br/>
-- Tap to Show Full Notification setting now allows you to double tap to expand the notification<br/>
-- Using Apple Pay with Confirm with AssistiveTouch will require a passcode for additional security and will not support double clicking the side button<br/>
-- Resolves an issue that causes some users to experience false touches on the display<br/>
-- Fixes an issue that prevents contacts from syncing to Apple Watch for some users<br/>
-<br/>
-For information on the security content of Apple software updates, please visit this website: https://support.apple.com/kb/HT201222</blockquote>watchOS 10.4 will likely see a public release in the near future alongside iOS 17.4. <br/>
-<br/>
-<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-programming.135">Apple Programming</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/apple-seeds-watchos-10-4-rc/">Apple Seeds watchOS 10.4 Release Candidate to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-watchos-10-4-release-candidate-to-developers.2421034/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds tvOS 17.4 Release Candidate to Developers</title>
-		<link>https://www.macrumors.com/2024/03/04/apple-seeds-tvos-17-4-rc/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-tvos-17-4-release-candidate-to-developers.2421035/</comments>
-		<pubDate>Mon, 04 Mar 2024 10:03:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/apple-seeds-tvos-17-4-rc/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV</category>
-		<category>Blurb</category>
-		
-
-		<description><![CDATA[Apple today seeded the release candidate version of an upcoming tvOS 17.4 update to developers for testing purposes, with the software coming one week after the <a href="https://www.macrumors.com/2024/02/27/apple-seeds-tvos-17-4-beta-5/">release of the fifth tvOS 17.4 beta</a>. The RC is the final version of tvOS 17.4 that will be provided to the public as long as no bugs are found in the software. <br/>
-<br/>
-<img class="aligncenter size-full wp-image-856182" src="https://images.macrumors.com/article-new/2022/07/apple-tv-4k-green.jpg" alt="" width="2500" height="1406" /><br/>
-Registered developers are able to download the tvOS 17.4 update by opting in to the beta through the Settings app on the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>. A registered developer account is required.<br/>
-<br/>
-tvOS software releases are usually minor in scale compared to other operating system updates, focusing primarily on smaller improvements rather than outward-facing changes.<br/>
-<br/>
-Early tvOS 17.4 betas added support for <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> SharePlay on the &zwnj;Apple TV&zwnj;, but the feature was removed in later betas and it is not clear if it is coming. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/apple-seeds-tvos-17-4-rc/">Apple Seeds tvOS 17.4 Release Candidate to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-tvos-17-4-release-candidate-to-developers.2421035/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Instagram Gains Direct Message Editing, Pinned Chats and More</title>
-		<link>https://www.macrumors.com/2024/03/04/instagram-dm-editing-pinned-chats/</link>
-		<comments>https://forums.macrumors.com/threads/instagram-gains-direct-message-editing-pinned-chats-and-more.2421029/</comments>
-		<pubDate>Mon, 04 Mar 2024 09:32:24 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/instagram-dm-editing-pinned-chats/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Instagram</category>
-		
-
-		<description><![CDATA[Instagram <a href="https://about.instagram.com/blog/announcements/new-dm-improvements">today announced several updates</a> for its direct messaging feature, including message editing and pinned chats. Direct messages sent on Instagram can now be edited for up to 15 minutes after sending.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/instagram-dm-editing-option.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-939508" /><br/>
-To edit a message, long press on it and then choose the "Edit" option. Users will see that the content has been edited, and the feature brings Instagram in line with Facebook and with Apple's own iMessage editing feature.<br/>
-<br/>
-Up to three chats will soon be able to pinned to the top of the message inbox, with support for both group messages and one on one conversations. Swipe left or tap and hold on a chat and choose the "pin" option to pin it to the top of the messaging interface.<br/>
-<br/>
-Instagram added a new toggle for disabling read receipts, which can be done for all chats or just for certain chats. The account-wide setting can be turned on in the settings section by going to Messages and then story replies.<br/>
-<br/>
-Along with these updates, Instagram introduced several new themes that can be activated on a per-chat basis, plus there is now an option to save favorite stickers in DMs for quicker access. Pressing and holding on a sticker allows it to be saved.<br/>
-<br/>
-These new features are rolling out to Instagram users starting today, and it can take some time for the options to be available for everyone.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/instagram/">Instagram</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/instagram-dm-editing-pinned-chats/">Instagram Gains Direct Message Editing, Pinned Chats and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/instagram-gains-direct-message-editing-pinned-chats-and-more.2421029/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>M2 vs. M3 MacBook Air Buyer&#039;s Guide: All Differences Compared</title>
-		<link>https://www.macrumors.com/guide/m2-vs-m3-macbook-air/</link>
-		<comments>https://forums.macrumors.com/threads/m2-vs-m3-macbook-air-buyers-guide-all-differences-compared.2421026/</comments>
-		<pubDate>Mon, 04 Mar 2024 09:18:13 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/m2-vs-m3-macbook-air&#038;post_date=1709583493/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Buyer's Guide</category>
-		<category>Featured</category>
-		<category>MacBook Air 15&quot;</category>
-		<category>MacBook Air 13&quot;</category>
-		
-
-		<description><![CDATA[Apple <a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">today</a> brought the <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> up to date with its latest-generation Apple silicon. The company has reworked the lineup and its pricing, phasing out the <a href="https://www.macrumors.com/guide/m1/">M1</a> machine from 2020 and discontinuing the 15-inch <a href="https://www.macrumors.com/guide/m2/">M2</a> &zwnj;MacBook Air&zwnj; introduced in June 2023, so which model should you buy?<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/M2-MBA-vs-M3-MacBook-Air-Buyers-Guide-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-939499" /><br/>
-The <a href="https://www.macrumors.com/guide/2024-macbook-air/">2024 MacBook Air</a> is available in 13.6- and 15.3-inch display sizes just like its predecessor, with the smaller model starting at &#36;1,099 and the larger model starting at &#36;1,299. The 13.6-inch &zwnj;MacBook Air&zwnj; with the &zwnj;M2&zwnj; chip from 2022 <a href="https://www.macrumors.com/2024/03/04/m2-macbook-air-under-1000/">remains in the lineup</a>, now at a price of &#36;999. This means that buyers have the choice between the 2022 &zwnj;MacBook Air&zwnj;, its 2024 successor, and a big-screen variant of the 2024 model. It is also worth remembering that it is possible to shave at least &#36;100 off the price of a new &zwnj;MacBook Air&zwnj; directly from Apple with education pricing.<br/>
-<br/>
-Read on to find out about all of the differences between the &zwnj;M2&zwnj; and M3 &zwnj;MacBook Air&zwnj; models to help you decide which model is best for you, as well as if it may be worth upgrading. <br/>
-<br/>
-<h3 id="m2_vs._m3_chip">M2 vs. M3 Chip</h3><br/>
-The main upgrade offered by the &zwnj;2024 MacBook Air&zwnj; models is the M3 chip. In benchmark tests, the M3 outperforms the ‌&zwnj;M2&zwnj;‌ by about 17% in single-core tasks and approximately 21% in multi-core tasks. In GPU performance measured by Metal benchmarks, the M3 exhibits a notable improvement of around 15% over the ‌&zwnj;M2&zwnj;‌.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;M2&zwnj; Chip</th><br/>
- <th>M3 Chip</th><br/>
- </tr><br/>
- <tr><br/>
- <td>Based on A15 Bionic chip from <a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a> (2021)</td><br/>
- <td>Based on A17 Pro chip from <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> (2023)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Enhanced 5nm node (N5P)</td><br/>
- <td><a href="https://www.macrumors.com/guide/3nm/">3nm</a> node (N3B)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>20 billion transistors</td><br/>
- <td>25 billion transistors</td><br/>
- </tr><br/>
- <tr><br/>
- <td>3.49 GHz CPU clock speed</td><br/>
- <td>4.05 GHz CPU clock speed</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Neural Engine</td><br/>
- <td>15% faster Neural Engine</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Support for AV1 decode</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>New GPU architecture</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Dynamic Caching</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Hardware-accelerated ray tracing</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Hardware-accelerated mesh shading</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-The M3 chip introduces an all-new GPU architecture. This architecture includes Dynamic Caching, a breakthrough feature that optimizes GPU memory allocation and utilization, adapting in real-time to varying task demands. This enhancement not only boosts graphics performance for intensive applications but also bolsters the chip's overall energy efficiency. This is particularly beneficial for graphics-heavy tasks like advanced video editing, 3D rendering, and gaming. It also features support for AV1 video decode to provide more efficient and higher-quality video from streaming services.<br/>
-<br/>
-<ul><li><a href="https://www.macrumors.com/guide/apple-silicon-buyers-guide/">Apple Silicon Buyer's Guide: Which Chip Should You Choose?</a></li></ul><br/>
-<br/>
-Despite similarities in the 16-core Neural Engine between the ‌&zwnj;M2&zwnj;‌ and M3, the M3's adoption of a ‌&zwnj;3nm&zwnj;‌ fabrication process leads to more efficient execution of machine learning and AI tasks. Additionally, the M3 maintains up to 24GB of unified memory, just like the ‌&zwnj;M2&zwnj;‌, but leverages the new process for more efficient memory bandwidth utilization.<br/>
-<br/>
-One other notable difference between the ‌&zwnj;M2&zwnj;‌ and M3 chips is their energy efficiency. The ‌&zwnj;3nm&zwnj;‌ fabrication process enables the M3 to achieve higher performance without a proportional increase in power consumption, making the chip particularly appealing for laptop users who value a balance between power and battery life.<br/>
-<br/>
-<ul><li><a href="https://www.macrumors.com/guide/how-much-better-really-is-m3/">M2 vs. M3 Buyer's Guide: How Much Better Really Is M3?</a></li></ul><br/>
-<br/>
-Overall, the M3 chip is a considerable upgrade from the ‌&zwnj;M2&zwnj;‌, distinguished by its higher transistor count, improved performance in CPU and GPU tasks, and superior energy efficiency. While the M3 offers clear advancements, the extent of its superiority does not necessitate an immediate upgrade for current ‌&zwnj;M2&zwnj;‌ users, especially if their existing workflows are still completed comfortably. For new buyers or those upgrading from older models, the M3's improvements in performance and efficiency will be much more pronounced.<br/>
-<br/>
-<h3 id="other_differences">Other Differences</h3><br/>
-There are a number of other notable differences between the two &zwnj;MacBook Air&zwnj; generations beyond their chips. While these upgrades are fairly small, they are worth bearing in mind when contemplating whether to get the latest model.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;M2&zwnj; &zwnj;MacBook Air&zwnj; (2022 and 2023)</th><br/>
- <th>M3 &zwnj;MacBook Air&zwnj; (2024)</th><br/>
- </tr><br/>
- <tr><br/>
- <td>Available with 13.6-inch display only, 15.3-inch model discontinued</td><br/>
- <td>Available with both 13.6- and 15.3-inch display size options</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Support for one external display</td><br/>
- <td>Support for up to two external displays when the lid is closed</td><br/>
- </tr><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Voice Isolation and Wide Spectrum microphone modes</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Enhanced voice clarity in audio and video calls</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Wi-Fi 6 support</td><br/>
- <td>Wi-Fi 6E support</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Anodization seal to reduce fingerprints with Midnight finish</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Starts at &#36;999</td><br/>
- <td>Starts at &#36;1,099</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-<h3 id="final_thoughts">Final Thoughts</h3><br/>
-Overall, the M3 &zwnj;MacBook Air&zwnj; is a minor upgrade over its predecessor, largely focusing on enhanced performance rather than new capabilities. Its main target audience is those who have an older &zwnj;MacBook Air&zwnj;, such as an &zwnj;M1&zwnj; or Intel-based model, or no &zwnj;MacBook Air&zwnj; at all.<br/>
-<br/>
-Unless you can leverage the specific advantages of the M3 chip and require maximum performance from its highly portable form factor, it is likely not worth buying the M3 &zwnj;MacBook Air&zwnj; over the &zwnj;M2&zwnj; &zwnj;MacBook Air&zwnj; for most users. However, if future-proofing is a major priority because you tend to keep your computer for many years, the extra &#36;100 to get the latest model will probably be warranted. The M3 model's <a href="https://www.macrumors.com/2024/03/04/m3-macbook-air-two-displays-lid-closed/">support for two external displays</a> may also justifiably swing your buying decision if you have multiple monitors.<br/>
-<br/>
-If you plan to buy a new &zwnj;MacBook Air&zwnj; from Apple and want the larger, 15.3-inch model, then the latest M3 model is your only option as the &zwnj;M2&zwnj; 15.3-inch machine has now been discontinued. That being said, the &zwnj;M2&zwnj; 15.3-inch &zwnj;MacBook Air&zwnj; is still readily available second-hand, refurbished, and <a href="https://www.macrumors.com/roundup/best-apple-deals/#macbook_air">from third-party retailers</a> for prices well below the &#36;1,299 price of the latest model. If you want the larger model, it may be worth seeking out one of these <a href="https://www.macrumors.com/roundup/best-apple-deals/#macbook_air">deals</a> on an &zwnj;M2&zwnj; model before opting for the latest M3 machine directly from Apple. <br/>
-<br/>
-It is certainly not worth upgrading from the &zwnj;M2&zwnj; to the M3 &zwnj;MacBook Air&zwnj; for the overwhelming majority of customers. Upgrading from an &zwnj;M2&zwnj; 13-inch &zwnj;MacBook Air&zwnj; to an M3 15-inch &zwnj;MacBook Air&zwnj; may be more justifiable owing to the display size increase, but there is little that the latest generation meaningfully offers over its predecessor.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/m2-vs-m3-macbook-air/">M2 vs. M3 MacBook Air Buyer&#039;s Guide: All Differences Compared</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m2-vs-m3-macbook-air-buyers-guide-all-differences-compared.2421026/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Get Apple&#039;s Magic Keyboard for Just &#36;179.99 and Pair it With the iPad Air at the Record Low Price of &#36;449.99</title>
-		<link>https://www.macrumors.com/2024/03/04/magic-keyboard-for-179-99/</link>
-		<comments>https://forums.macrumors.com/threads/get-apples-magic-keyboard-for-just-179-99-and-pair-it-with-the-ipad-air-at-the-record-low-price-of-449-99.2421019/</comments>
-		<pubDate>Mon, 04 Mar 2024 08:08:36 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/04/magic-keyboard-for-179-99/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Amazon today has Apple's Magic Keyboard for the 11-inch iPad Pro and fourth/fifth generation iPad Air at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0863BQJMS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;179.99</strong></a>, down from &#36;299.00. This is the first time we've tracked a deal on the keyboard in 2024, and it's a solid second-best price on the accessory.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/04/Magic-Keyboard-Side-Anlge-Red.jpg" alt="" width="1328" height="747" class="aligncenter size-full wp-image-738387" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Specifically, the Magic Keyboard is compatible with the 11-inch iPad Pro (first, second, third, and fourth generations) and the iPad Air (fourth and fifth generations). Amazon only has the black color option at this &#36;179.99 price tag, and it's currently the only retailer offering such a low price.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0863BQJMS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;119 OFF</div>Apple Magic Keyboard for &#36;179.99</div></a></div><br/>
-<br/>
-If you're shopping for an iPad to pair with the Magic Keyboard, Best Buy has every model of the 5th generation iPad Air on sale at an all-time low price right now. Prices start at <a href="https://howl.me/clxkYXiXGKb"><strong>&#36;449.99</strong></a> for the 64GB Wi-Fi tablet, down from &#36;599.00. These are &#36;150 off across the board, and also include best-ever prices on both cellular models.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/clxkYXiXGKb"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>64GB Wi-Fi iPad Air for &#36;449.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clxk0ZOm0OM"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>256GB Wi-Fi iPad Air for &#36;599.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clxk2jeyYSK"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>64GB Cellular iPad Air for &#36;599.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clxk2RAFUDo"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>256GB Cellular iPad Air for &#36;749.99</div></a></div><br/>
-<br/>
-Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/04/magic-keyboard-for-179-99/">Get Apple&#039;s Magic Keyboard for Just &#36;179.99 and Pair it With the iPad Air at the Record Low Price of &#36;449.99</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/get-apples-magic-keyboard-for-just-179-99-and-pair-it-with-the-ipad-air-at-the-record-low-price-of-449-99.2421019/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
