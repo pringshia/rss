@@ -14,12 +14,137 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 11 Mar 2024 13:02:26 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 11 Mar 2024 17:10:53 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Reportedly &#039;Just Started Formal Development&#039; of M4 MacBook Pro</title>
+		<link>https://www.macrumors.com/2024/03/11/apple-reportedly-developing-m4-macbook-pro/</link>
+		<comments>https://forums.macrumors.com/threads/apple-reportedly-just-started-formal-development-of-m4-macbook-pro.2421664/</comments>
+		<pubDate>Mon, 11 Mar 2024 15:21:28 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/11/apple-reportedly-developing-m4-macbook-pro/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		<category>Mark Gurman</category>
+		<category>M4 Macs</category>
+		
+
+		<description><![CDATA[<em>Bloomberg</em>'s Mark Gurman today held a <a href="https://www.bloomberg.com/news/live-blog/2024-03-11/apple-car-canceled--live-q-a-with-bloomberg-s-mark-gurman">Q&A session focused on the Apple Car</a>, in which he revealed that the vehicle's chip would have been equivalent to four M2 Ultra chips combined. He also said the vehicle had an underlying "safetyOS" system that was one part of the overall operating system, but he did not elaborate.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/m3-mbp-space-black.jpg" alt="" width="1440" height="810" class="aligncenter size-full wp-image-919466" /><br/>
+Gurman also briefly touched on a few other topics, including that Apple apparently "just started formal development" of a new MacBook Pro with an M4 chip. He did not provide any additional details about the chip, which has yet to be announced by Apple.<br/>
+<br/>
+Apple announced the M1 chip for Macs in November 2020, followed by the M2 chip in June 2022 and the M3 chip towards the end of October 2023, so there has been around a year-and-a-half gap between each of the chips being introduced. If that pattern continues, the M4 chip would be released in the first half of 2025. However, a late 2024 release is also possible if the interval shrinks to one year.<br/>
+<br/>
+Apple last updated the MacBook Pro lineup in October with M3, M3 Pro, and M3 Max chips. As part of that refresh, Apple <a href="https://www.macrumors.com/2023/10/30/apple-discontinues-13-inch-macbook-pro/">discontinued the 13-inch MacBook Pro</a> and replaced it with a new base model 14-inch MacBook Pro with the M3 chip. Apple has also <a href="https://www.macrumors.com/2023/10/30/apple-announces-imac-with-m3-chip/">updated the iMac</a> <a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">and MacBook Air</a> with the M3 chip, leaving the Mac mini, Mac Studio, and Mac Pro as the only current-generation Macs still equipped with the M2 family of chips.<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th></th><br/>
+ <th>Current Chip</th><br/>
+ <th>Last Updated</th><br/>
+ <th>Next Chip</th><br/>
+ <th>ETA</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <td><b>13" MacBook Air</b></td><br/>
+<td>M3</td><br/>
+<td>March 2024</td><br/>
+<td>M4</td><br/>
+<td>2025</td><br/>
+ </tr><br/>
+<tr><br/>
+ <td><b>15" MacBook Air</b></td><br/>
+<td>M3</td><br/>
+<td>March 2024</td><br/>
+<td>M4</td><br/>
+<td>2025</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td><b>14" MacBook Pro</b></td><br/>
+<td>M3/M3 Pro/M3 Max</td><br/>
+<td>October 2023</td><br/>
+<td>M4/M4 Pro/M4 Max</td><br/>
+<td>Late 2024/2025</td><br/>
+ </tr><br/>
+<tr><br/>
+ <td><b>16" MacBook Pro</b></td><br/>
+<td>M3 Pro/M3 Max</td><br/>
+<td>October 2023</td><br/>
+<td>M4 Pro/M4 Max</td><br/>
+<td>Late 2024/2025</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td><b>iMac</b></td><br/>
+<td>M3</td><br/>
+<td>October 2023</td><br/>
+<td>M4</td><br/>
+<td>2025</td><br/>
+ </tr><br/>
+<tr><br/>
+ <td><b>Mac Studio</b></td><br/>
+<td>M2 Max/M2 Ultra</td><br/>
+<td>June 2023</td><br/>
+<td>M3 Max/M3 Ultra</td><br/>
+<td>2024</td><br/>
+ </tr><br/>
+<tr><br/>
+ <td><b>Mac Pro</b></td><br/>
+<td>M2 Ultra</td><br/>
+<td>June 2023</td><br/>
+<td>M3 Ultra</td><br/>
+<td>2024</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td><b>Mac mini</b></td><br/>
+<td>M2/M2 Pro</td><br/>
+<td>January 2023</td><br/>
+<td>M3/M3 Pro</td><br/>
+<td>2024</td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+Apple's chipmaking partner TSMC is expected to begin volume production of chips <a href="https://www.macrumors.com/2024/02/28/apple-designing-2nm-silicon-chips/">based on its 2nm process</a> in the second half of 2025, so the M4 chip will likely remain 3nm like the M3 chip. However, the M4 chip will likely be manufactured with an enhanced version of TSMC's 3nm process for improved performance and power efficiency.<br/>
+<br/>
+Last month, the Taiwanese publication <em>Economic Daily News</em> reported that the M4 chip will <a href="https://www.macrumors.com/2024/02/14/iphone-16-upgraded-neural-engine-rumor/">feature an upgraded Neural Engine</a> with "significantly" more cores for artificial intelligence tasks, but no other specific details are known about the chip at this time.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, <a href="https://www.macrumors.com/guide/m4-macs/">M4 Macs</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/11/apple-reportedly-developing-m4-macbook-pro/">Apple Reportedly &#039;Just Started Formal Development&#039; of M4 MacBook Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-reportedly-just-started-formal-development-of-m4-macbook-pro.2421664/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Reportedly Distributing &#039;VendorUI&#039; Version of iOS 18 to Factories</title>
+		<link>https://www.macrumors.com/2024/03/11/apple-ios-18-vendorui/</link>
+		<comments>https://forums.macrumors.com/threads/apple-reportedly-distributing-vendorui-version-of-ios-18-to-factories.2421661/</comments>
+		<pubDate>Mon, 11 Mar 2024 14:55:55 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/11/apple-ios-18-vendorui/</guid>
+		<dc:creator>Marko Zivkovic</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[Apple recently started distributing internal builds of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> to factories and relevant vendors, according to credible information shared on X by a private account with a track record of sharing accurate details on Apple's plans. The version of iOS that Apple provides at this stage is called "VendorUI," and access to it is strictly controlled. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iOS-18-Mock-Feature-Baubles.jpg" alt="" width="2250" height="1266" class="alignnone size-full wp-image-909207" /><br/>
+Sent out on an annual basis, VendorUI is a variant of iOS that is provided to factories for quality control testing. Because it has a pre-production version of the iOS user interface that Apple won't publicly unveil until WWDC, Apple is careful about where it is distributed. VendorUI can include references to new features, new settings or changes in branding. Unlike the versions of iOS used by Apple's software engineers, VendorUI often has certain apps omitted, ensuring that only the apps necessary for testing are present.<br/>
+<br/>
+With every iOS release, Apple develops several different versions of iOS:<br/>
+<br/>
+<ul><br/>
+<li><strong>Release</strong> – Stock iOS intended for end-consumers.<br/>
+<li><strong>InternalUI</strong> – Created for Apple's software engineers, often contains pre-production version of the iOS user interface, with unreleased and unannounced features.<br/>
+<li><strong>VendorUI</strong> – Designed for quality control testing in factories and can contain elements of pre-production iOS user interface.<br/>
+<li><strong>NonUI</strong> – Developed for hardware engineers and calibration machines, does not feature the standard iOS user interface.<br/>
+<li><strong>LLDiags</strong> – Intended for use in low-level diagnostics and has no user interface at all except for a simple diagnostics menu (Diags). <br/>
+</ul><br/>
+<br/>
+The distribution of the VendorUI version of &zwnj;iOS 18&zwnj; means that we could soon start seeing more iOS features leak because the operating system is available to a larger number of people.<br/>
+<br/>
+Even without VendorUI, information about iOS has started to come out. We've heard that &zwnj;iOS 18&zwnj; will have a heavy focus on AI, and there <a href="https://www.macrumors.com/2024/03/07/ios-18-macos-15-accessibility/">will be new Accessibility features</a>, such as Adaptive Voice Shortcuts and Live Speech Categories. Internal versions of iOS can also contain hardware information, and back in December, we shared details <a href="https://www.macrumors.com/2023/12/20/ios-18-code-four-new-iphone-models/">on the iPhone 16 hardware</a> sourced from &zwnj;iOS 18&zwnj; code.<br/>
+<br/>
+To learn more about the features that are expected in &zwnj;iOS 18&zwnj;, check out our dedicated rumor roundup page for <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/11/apple-ios-18-vendorui/">Apple Reportedly Distributing &#039;VendorUI&#039; Version of iOS 18 to Factories</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-reportedly-distributing-vendorui-version-of-ios-18-to-factories.2421661/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iOS 18 and macOS 15 to Include Updated Freeform App With &#039;Scenes&#039; Feature</title>
@@ -694,150 +819,6 @@ Due to the complexities of international laws regarding giveaways, only <strong>
 <br/>
 <div class="center-wrap"><a class="e-widget no-button" href="https://gleam.io/UaV54/grid-studio-giveaway" rel="nofollow">GRID Studio Giveaway</a><br/>
 <script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script></div>The contest will run from today (March 8) at 9:00 a.m. Pacific Time through 9:00 a.m. Pacific Time on March 15. The winner will be chosen randomly on or shortly after March 15 and will be contacted by email. The winner will have 48 hours to respond and provide a shipping address before a new winner is chosen.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/giveaway/">Giveaway</a>, <a href="https://www.macrumors.com/guide/grid-studio/">Grid Studio</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/08/macrumors-giveaway-grid-studio-ipad-march/">MacRumors Giveaway: Win an iPad From GRID Studio</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macrumors-giveaway-win-an-ipad-from-grid-studio.2421410/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The MacRumors Show: Apple&#039;s New MacBook Air With M3!</title>
-		<link>https://www.macrumors.com/2024/03/08/the-macrumors-show-m3-macbook-air/</link>
-		<comments>https://forums.macrumors.com/threads/the-macrumors-show-apples-new-macbook-air-with-m3.2421408/</comments>
-		<pubDate>Fri, 08 Mar 2024 08:49:28 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/08/the-macrumors-show-m3-macbook-air/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>The MacRumors Show</category>
-		
-
-		<description><![CDATA[On this week's episode of <a href="https://podcasts.apple.com/podcast/is-the-m3-macbook-air-a-good-upgrade/id1602394741?i=1000648508039">The MacRumors Show</a>, we discuss Apple's <a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">new MacBook Air</a> models featuring the M3 chip.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/3gOdWKrudB8?si=LUpcNTKxMEo2AxZT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1">Subscribe to The MacRumors Show YouTube channel</a> for more videos</em></div><br/>
-We delve into the new machines' features, exploring <a href="https://www.macrumors.com/guide/m2-vs-m3-macbook-air/">upgrades</a> such as the M3 chip, improved microphones, and more versatile external display support. We discuss the <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>'s ideal configurations and key buying decisions, weighing the new machines up against the MacBook Pro, and take a look at where the &zwnj;MacBook Air&zwnj; could be headed next amid reports of an significant <a href="https://www.macrumors.com/2023/03/30/oled-macbook-air-now-in-development/">upgrade to OLED display technology</a> in the future. We also discuss the rest of Apple's rumored announcements for March, which include <a href="https://www.macrumors.com/2023/10/18/2024-ipad-pro-what-to-expect/">new OLED iPad Pro models</a>, a <a href="https://www.macrumors.com/2024/03/05/new-apple-pencil-to-launch-this-month/">new Apple Pencil</a>, and a <a href="https://www.macrumors.com/2023/08/27/new-ipad-pro-and-redesigned-magic-keyboard/">redesigned Magic Keyboard</a> accessory. <br/>
-<br/>
-<a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a> is now on <a href="https://www.youtube.com/@themacrumorsshow">its own YouTube channel</a>, so make sure you're subscribed to keep up with new episodes and clips going forward:<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1"><div class="fancybutton">Subscribe to <em>The MacRumors Show</em> YouTube channel!</div></a></div><br/>
-<br/>
-You can also listen to &zwnj;The MacRumors Show&zwnj; on <a href="https://podcasts.apple.com/podcast/id1602394741">Apple Podcasts</a>, <a href="https://open.spotify.com/show/41XOHIA6w8IxAKJZvrnx90">Spotify</a>, <a href="https://overcast.fm/itunes1602394741">Overcast</a>, or your preferred podcasts app. You can also <a href="https://audioboom.com/channels/5096144.rss">copy our RSS feed</a> directly into your podcast player.<br/>
-<br/>
-<div class="center-wrap"><iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/the-macrumors-show/id1602394741?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe></div><br/>
-If you haven't already listened to the <a href="https://www.macrumors.com/2024/02/23/the-macrumors-show-brian-tong-vision-pro/">previous episode of The MacRumors Show</a>, catch up for our discussion about Apple's decision to cancel its long-rumored electric vehicle project.<br/>
-<br/>
-Subscribe to &zwnj;The MacRumors Show&zwnj; for new episodes every week, where we discuss some of the topical news breaking here on <em>MacRumors</em>, often joined by interesting guests such as <a href="https://www.macrumors.com/2024/02/23/the-macrumors-show-brian-tong-vision-pro/">Brian Tong</a>, <a href="https://www.macrumors.com/2024/02/09/the-macrumors-show-one-week-with-vision-pro/">Quinn Nelson</a>, <a href="https://www.macrumors.com/2023/11/24/the-macrumors-show-kevin-nether-talks-iphone-16/">Kevin Nether</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Jared Nelson</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Eli Hodapp</a>, <a href="https://www.macrumors.com/2023/10/20/the-macrumors-show-luke-miani-talks-future-of-ipad/">Luke Miani</a>, <a href="https://www.macrumors.com/2023/10/13/the-macrumors-show-former-apple-executive-mike-bell/">Mike Bell</a>, <a href="https://www.macrumors.com/2023/10/06/the-macrumors-show-sara-dietschy-apple-accessories/">Sara Dietschy</a>, <a href="https://www.macrumors.com/2023/09/15/the-macrumors-show-ijustine-talks-iphone-15/">iJustine</a>, <a href="https://www.macrumors.com/2023/08/25/the-macrumors-show-iphone-15-jon-rettinger/">Jon Rettinger</a>, <a href="https://www.macrumors.com/2023/02/10/the-macrumors-show-andru-edwards-iphone-ultra/">Andru Edwards</a>, <a href="https://www.macrumors.com/2023/05/26/the-macrumors-show-arnold-kim/">Arnold Kim</a>, <a href="https://www.macrumors.com/2023/05/19/the-macrumors-show-ben-sullins-apple-car/">Ben Sullins</a>, <a href="https://www.macrumors.com/2023/04/07/the-macrumors-show-marcus-kane-headset-design/">Marcus Kane</a>, <a href="https://www.macrumors.com/2023/03/24/the-macrumors-show-christopher-lawley-talks-ipados/">Christopher Lawley</a>, <a href="https://www.macrumors.com/2023/03/10/the-macrumors-show-frank-mcshan-yellow-iphone-14/">Frank McShan</a>, <a href="https://www.macrumors.com/2023/02/24/the-macrumors-show-david-lewis-talks-apple-audio/">David Lewis</a>, <a href="https://www.macrumors.com/2023/01/27/the-macrumors-show-tyler-stalman-new-macs/">Tyler Stalman</a>, <a href="https://www.macrumors.com/2022/12/23/the-macrumors-show-apple-2022-jon-prosser-sam-kohl/">Jon Prosser</a>, <a href="https://www.macrumors.com/2022/09/02/the-macrumors-show-apple-event-expectations/">Sam Kohl</a>, <a href="https://www.macrumors.com/2022/11/09/the-macrumors-show-john-gruber-talks-macos-ventura/">John Gruber</a>, <a href="https://www.macrumors.com/2022/10/28/the-macrumors-show-ipados-16-ft-federico-viticci/">Federico Viticci</a>, <a href="https://www.macrumors.com/2022/08/26/the-macrumors-show-thomas-frank-talks-productivity/">Thomas Frank</a>, <a href="https://www.macrumors.com/2022/07/21/the-macrumors-show-jonathan-morrison/">Jonathan Morrison</a>, <a href="https://www.macrumors.com/2022/07/12/the-macrumors-show-ross-young/">Ross Young</a>, <a href="https://www.macrumors.com/2022/06/21/the-macrumors-show-ian-zelbo/">Ian Zelbo</a>, and <a href="https://www.macrumors.com/2022/03/25/the-macrumors-show-rene-ritchie-talks-mac-studio/">Rene Ritchie</a>.<br/>
-<br/>
-&zwnj;The MacRumors Show&zwnj; is on X <a href="https://twitter.com/macrumorsshow">@MacRumorsShow</a><a href="https://twitter.com/macrumorsshow"></a>, so be sure to give us a follow to keep up with the podcast. You can also head over to <a href="https://forums.macrumors.com/threads/the-macrumors-show-discussion-thread.2383023/">The MacRumors Show</a> forum thread to engage with us directly. Remember to rate and review the podcast, and let us know what subjects and guests you would like to see in the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/08/the-macrumors-show-m3-macbook-air/">The MacRumors Show: Apple&#039;s New MacBook Air With M3!</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-macrumors-show-apples-new-macbook-air-with-m3.2421408/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>MacBook Air Buyer&#039;s Guide: Comparing the Generations</title>
-		<link>https://www.macrumors.com/guide/macbook-air-generations-compared/</link>
-		<comments>https://forums.macrumors.com/threads/macbook-air-buyers-guide-comparing-the-generations.2392779/</comments>
-		<pubDate>Fri, 08 Mar 2024 08:15:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/macbook-air-generations-compared&#038;post_date=1709928900/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Buyer's Guide</category>
-		<category>MacBook Air 15&quot;</category>
-		<category>MacBook Air 13&quot;</category>
-		
-
-		<description><![CDATA[Apple's <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> has undergone some major changes in recent years, including the switch to Apple silicon, a complete redesign, and the introduction of a 15-inch model, making it all the more important to consider if now is a good time to upgrade or if an older model will suffice for your needs.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/MacBook-Air-15-Inch-Feature-Yellow.jpg" alt="" width="1600" height="894" class="alignnone size-full wp-image-898579" /><br/>
-Following its latest refresh, Apple discontinued the <a href="https://www.macrumors.com/guide/m1/">M1</a> 13-inch &zwnj;MacBook Air&zwnj; from 2020 and the <a href="https://www.macrumors.com/guide/m2/">M2</a> 15-inch &zwnj;MacBook Air&zwnj; from 2023. Now, customers can choose between the &zwnj;M2&zwnj; 13-inch &zwnj;MacBook Air&zwnj; from 2022 for &#36;999, and the M3 13- and 15-inch MacBook Airs that were just introduced for &#36;1,099 and &#36;1,299, respectively. <br/>
-<br/>
-See the breakdown below for each new feature, change, and improvement that was added with each &zwnj;MacBook Air&zwnj; model since 2018 compared to its direct predecessor:<br/>
-<br/>
-<h3 id="macbook_air_m3_2024">MacBook Air (M3, 2024)</h3><br/>
-<ul><br/>
-<li>M3 Chip</li><br/>
-<li>15% faster Neural Engine</li><br/>
-<li>Support for AV1 decode</li><br/>
-<li>New GPU architecture</li><br/>
-<li>Dynamic Caching</li><br/>
-<li>Hardware-accelerated ray tracing</li><br/>
-<li>Hardware-accelerated mesh shading</li><br/>
-<li>Support for up to two external displays when the lid is closed</li><br/>
-<li>Voice Isolation and Wide Spectrum microphone modes</li><br/>
-<li>Enhanced voice clarity in audio and video calls</li><br/>
-<li>Wi-Fi 6E</li><br/>
-<li>Anodization seal to reduce fingerprints with Midnight finish</li><br/>
-</ul><br/>
-<br/>
-<h3 id="macbook_air_m2_20222023">MacBook Air (M2, 2022/2023)</h3><br/>
-<ul><br/>
-<li>Thinner design with flat lid, rounded bottom edges, and uniform thickness</li><br/>
-<li>13.6- or 15.3-inch Liquid Retina display</li><br/>
-<li>Apple &zwnj;M2&zwnj; chip</li><br/>
-<li>Up to 10-core GPU</li><br/>
-<li>Hardware-accelerated H.264, HEVC, ProRes and ProRes RAW</li><br/>
-<li>ProRes encode and decode engine</li><br/>
-<li>Up to 24GB unified memory</li><br/>
-<li>100GB/s memory bandwidth</li><br/>
-<li>500 nits brightness</li><br/>
-<li>1080p <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> HD camera</li><br/>
-<li>Four-speaker sound system or six-speaker sound system with force-cancelling woofers </li><br/>
-<li>3.5mm headphone jack with support for high-impedance headphones</li><br/>
-<li>Bluetooth 5.3</li><br/>
-<li><a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a> 3</li><br/>
-<li>Fast-charge capable with available 70W USB‑C Power Adapter</li><br/>
-<li>Available in Silver, Space Gray, Starlight, and Midnight</li><br/>
-<li>1.24 kg (2.7 pounds) or 1.51 kg (3.3 pounds)</li><br/>
-</ul><br/>
-<br/>
-<h3 id="macbook_air_m1_2020">MacBook Air (M1, 2020)</h3><br/>
-<ul><br/>
-<li>Apple &zwnj;M1&zwnj; chip</li><br/>
-<li>8-core CPU</li><br/>
-<li>Up to 8-core GPU</li><br/>
-<li>Media engine</li><br/>
-<li>Hardware-accelerated H.264 and HEVC</li><br/>
-<li>Video decode engine </li><br/>
-<li>Video encode engine</li><br/>
-<li>16-core Neural Engine</li><br/>
-<li>Up to 16GB unified memory</li><br/>
-<li>62.5GB/s memory bandwidth</li><br/>
-<li>Wide colour (P3)</li><br/>
-<li>Image signal processor with computational video</li><br/>
-<li>Up to 18-hour battery life</li><br/>
-</ul><br/>
-<br/>
-<h3 id="macbook_air_intel_2020">MacBook Air (Intel, 2020)</h3><br/>
-<ul><br/>
-<li>Up to Intel Core i7 processor</li><br/>
-<li>Intel Iris Plus Graphics GPU</li><br/>
-<li>Up to 2TB storage</li><br/>
-<li>Magic Keyboard</li><br/>
-<li>Bluetooth 5.0</li><br/>
-<li>1.29 kg (2.8 pounds)</li><br/>
-</ul><br/>
-<br/>
-<h3 id="macbook_air_intel_2018">MacBook Air (Intel, 2018)</h3><br/>
-<ul><br/>
-<li>Tapered "wedge" design</li><br/>
-<li>13.3-inch Retina display</li><br/>
-<li>Up to Intel Core i5 processor</li><br/>
-<li>Up to 4-core CPU</li><br/>
-<li>Intel UHD Graphics 617</li><br/>
-<li>Up to 16GB memory</li><br/>
-<li>Up to 1.5TB storage</li><br/>
-<li>Butterfly Keyboard</li><br/>
-<li>400 nits brightness</li><br/>
-<li>Full standard colour (sRGB)</li><br/>
-<li>720p &zwnj;FaceTime&zwnj; HD camera</li><br/>
-<li>Stereo speakers </li><br/>
-<li>3.5mm headphone jack</li><br/>
-<li>Wi‑Fi 6</li><br/>
-<li>Bluetooth 4.2</li><br/>
-<li>Up to 12-hour battery life</li><br/>
-<li>Available in Silver, Space Gray, and Gold</li><br/>
-<li>1.25 kg (2.75 pounds)</li><br/>
-</ul><br/>
-<br/>
-&zwnj;M2&zwnj; &zwnj;MacBook Air&zwnj; users have very little reason to upgrade to an M3 model unless they need absolute peak performance and don't want to buy a MacBook Pro, or perhaps if they purchased the 13-inch machine in 2022 and are now interested in the 15-inch M3 model.<br/>
-<br/>
-Most &zwnj;M1&zwnj; &zwnj;MacBook Air&zwnj; users will stand to benefit from upgrading to the M3 model, especially if they are looking for a bigger screen and opt for the 15-inch model. These users would gain a much more modern design, a larger and brighter display, better performance, faster memory, a 1080p camera, improved speakers, &zwnj;MagSafe&zwnj; 3, fast-charging, and more. Nevertheless, some &zwnj;M1&zwnj; &zwnj;MacBook Air&zwnj; users may be better off waiting for the next major refresh if they are still happy with the machine, and upgrading is not essential.<br/>
-<br/>
-<ul><li><a href="https://www.macrumors.com/guide/13-vs-15-inch-macbook-air/">13-Inch vs. 15-Inch M2 MacBook Air Buyer's Guide</a></li></ul><br/>
-<br/>
-For those who have an Intel-based &zwnj;MacBook Air&zwnj;, either of the generations currently on sale represent a highly worthwhile upgrade spearheaded by Apple silicon for a major performance improvement and upgrading is recommended, with many of the above upgrades quickly stacking up.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/macbook-air-generations-compared/">MacBook Air Buyer&#039;s Guide: Comparing the Generations</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macbook-air-buyers-guide-comparing-the-generations.2392779/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
