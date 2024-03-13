@@ -14,12 +14,66 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 12 Mar 2024 13:02:51 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 12 Mar 2024 17:11:00 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Stops Signing iOS 17.3.1, Downgrading No Longer Available</title>
+		<link>https://www.macrumors.com/2024/03/12/apple-stops-signing-ios-17-3-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-stops-signing-ios-17-3-1-downgrading-no-longer-available.2421778/</comments>
+		<pubDate>Tue, 12 Mar 2024 16:45:30 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/12/apple-stops-signing-ios-17-3-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple today stopped signing iOS 17.3.1 preventing <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users from downgrading to that version of iOS. iOS 17.3.1 is no longer being signed following the March 5 <a href="https://www.macrumors.com/guide/ios-17-4-features/">release of iOS 17.4</a>, an update that introduced app ecosystem changes in the EU, new emoji, and more.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/iOS-17.3.1-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-935028" /><br/>
+Apple routinely stops signing older versions of iOS, so it is not unusual that the iOS 17.3.1 update is no longer available. Apple prevents users from installing older versions of iOS to encourage customers to keep their operating systems up to date and to prevent downgrading to older, less secure versions of the &zwnj;iPhone&zwnj; operating system.<br/>
+<br/>
+iOS 17.4 is now the only publicly released version of iOS available. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/12/apple-stops-signing-ios-17-3-1/">Apple Stops Signing iOS 17.3.1, Downgrading No Longer Available</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-stops-signing-ios-17-3-1-downgrading-no-longer-available.2421778/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal</title>
+		<link>https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/</link>
+		<comments>https://forums.macrumors.com/threads/apple-watch-pulse-oximetry-can-be-reactivated-through-software-in-2028-or-with-successful-appeal.2421763/</comments>
+		<pubDate>Tue, 12 Mar 2024 13:23:23 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Patent Lawsuits</category>
+		<category>Masimo</category>
+		
+
+		<description><![CDATA[Apple has been selling the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a> <a href="https://www.macrumors.com/2024/01/17/apple-watch-series-9-ultra-2-without-blood-oxygen/">without the blood oxygen monitoring feature</a> in the U.S. since mid-January, and while we've suspected Apple would be able to <a href="https://www.macrumors.com/2024/01/18/masimo-ceo-apple-blood-oxygen-sensor-unreliable/">reintroduce pulse oximetry</a> in models that lack it through a future software update, new information from the U.S. Customs and Border Protection (CBP) confirms that reactivation is indeed a possibility. As a recap, Apple was <a href="https://www.macrumors.com/2023/10/27/us-trade-tribunal-apple-watch-ban-masimo/">found to be infringing</a> on patented pulse oximetry technology owned by Masimo, and was banned from importing the &zwnj;Apple Watch Series 9&zwnj; and Ultra 2 into the U.S.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-895884" src="https://images.macrumors.com/article-new/2023/05/apple-watch-ultra-yellow.jpg" alt="" width="2250" height="1266" /><br/>
+The original January 12 order from CBP that allowed Apple to bring Apple Watch models with a disabled sensor in the United States <a href="https://rulings.cbp.gov/ruling/H335304">was published</a> recently (<a href="https://ipfray.com/exclusive-if-you-recently-bought-an-apple-watch-in-the-u-s-youll-likely-get-pulse-oximetry-for-free-provided-that-apples-appeal-succeeds/">via <em>ip fray</a></em>), and it gives some insight into how Apple disabled pulse oximetry. While some of the order is redacted, Apple implemented a fix that turns off pulse oximetry when an Apple Watch is paired to an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. Blood oxygen sensing becomes inaccessible to the user, and opening the blood oxygen app gives a warning that the feature is not available. Apple said that it hardcoded each Apple Watch at the factory with new software.<br/>
+<br/>
+As part of the process to get approval to sell &zwnj;Apple Watch Series 9&zwnj; and Ultra 2 models without pulse oximetry enabled, Apple had to provide the code disabling the feature and test devices to Masimo. Masimo didn't want Apple to have such an easy fix, so it paired the "redesigned" Apple Watches with a jailbroken &zwnj;iPhone&zwnj; running an older version of iOS, and was able to get pulse oximetry working.<br/>
+<br/>
+Masimo tried to argue that activating pulse oximetry through a jailbroken phone meant Apple had not effectively removed the feature and the devices should not be allowed to be imported in to the U.S. Masimo also tried to say that jailbreaking is "permissible, common, and readily known," but Masimo's arguments were unsuccessful. The Exclusion Order Enforcement Branch of the U.S. Customs and Border Patrol ultimately decided that disabling pulse oximetry in the &zwnj;Apple Watch Series 9&zwnj; and Ultra 2 was enough to avoid infringing on Masimo patents, allowing those models to be offered for sale at Apple retail stores in the U.S.<br/>
+<br/>
+Because Masimo was able to get blood oxygen sensing working using software on a jailbroken &zwnj;iPhone&zwnj;, Apple too would be able to reactivate the blood oxygen sensor in the models where it has been disabled through a software update. When no longer subject to an import ban, Apple will be able to reintroduce blood oxygen sensing for &zwnj;Apple Watch Series 9&zwnj; and &zwnj;Apple Watch Ultra 2&zwnj; users who are not able to access the feature.<br/>
+<br/>
+As noted by <em><a href="https://ipfray.com/exclusive-if-you-recently-bought-an-apple-watch-in-the-u-s-youll-likely-get-pulse-oximetry-for-free-provided-that-apples-appeal-succeeds/">ip fray</a></em>, the patents that Apple was found to have infringed on expire in August of 2028, which means that Apple will be able to re-enable pulse oximetry in affected models at that time. Apple <a href="https://www.macrumors.com/2023/12/27/apple-watch-series-9-and-ultra-2-sales-ban-paused/">filed an appeal</a> with the United States International Trade Commission to attempt to get the ruling overturned, so if the appeal is successful, Apple could be able to re-add blood oxygen sensing sooner.<br/>
+<br/>
+Apple could also opt to settle with Masimo and work out a licensing deal, but at this point, it doesn't sound like that is going to happen. Masimo CEO Joe Kiani said in January that he <a href="https://www.macrumors.com/2024/01/18/masimo-ceo-apple-blood-oxygen-sensor-unreliable/">had not spoken with Apple</a>, and while he would be open to settling, an apology and an "honest dialogue" would need to be part of any settlement discussion.<br/>
+<br/>
+Kiani has maligned the Apple Watch blood oxygen sensor several times, saying that customers are "better off without" the feature because it is not a "reliable, medical pulse oximeter."<br/>
+<br/>
+The &zwnj;Apple Watch Series 9&zwnj; and Ultra 2 only have disabled blood oxygen sensing capabilities in the United States, as the ban is not applicable in other countries. The Apple Watches remain fully functional outside of the U.S.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/patent-lawsuits/">Patent Lawsuits</a>, <a href="https://www.macrumors.com/guide/masimo/">Masimo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/">Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-watch-pulse-oximetry-can-be-reactivated-through-software-in-2028-or-with-successful-appeal.2421763/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Teases New Store &#039;Coming Soon&#039; at Square One Mall Near Toronto</title>
@@ -36,7 +90,9 @@
 <img src="https://images.macrumors.com/article-new/2024/03/New-Apple-Square-One.jpg" alt="" width="3800" height="2138" class="aligncenter size-full wp-image-940947" /><div class="center-wrap"><em>The new Apple Square One</em></div><br/>
 "A brand-new Apple Store is coming soon," the <a href="https://www.apple.com/ca/retail/squareone/">store's page</a> says. The teaser message was <a href="https://mastodon.social/@michaelsteeber/112084399504297364">spotted by Michael Steeber</a>, who writes a <a href="https://michaelsteeber.substack.com/">weekly newsletter about Apple retail called Tabletops</a>, and tipster <a href="https://twitter.com/ApolloZhaoD/status/1767589911169839393">Apollo Zhao</a> also alerted us to the news.<br/>
 <br/>
-Apple's existing store at Square One opened in August 2009. The new location is significantly larger, and will better accommodate the heavy customer traffic at Square One, the second-largest indoor shopping mall in Canada.<br/>
+The new store is located on the second floor of Square One, above the central food court, and it has a very wide, partially-curved facade.<br/>
+<br/>
+Apple's existing store at Square One opened in August 2009. The new location is significantly larger, and it will better accommodate the heavy customer traffic at Square One, the second-largest indoor shopping mall in Canada.<br/>
 <br/>
 Apple has yet to share an exact opening date for the new store, and the company did not immediately respond to a request for comment.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/12/apple-teases-new-square-one-store-canada/">Apple Teases New Store &#039;Coming Soon&#039; at Square One Mall Near Toronto</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-teases-new-store-coming-soon-at-square-one-mall-near-toronto.2421756/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
@@ -615,69 +671,6 @@ Apple has also developed the following keyboard shortcuts for Freeform Scenes:<
 Although this feature is in testing, it is worth noting that not all features make it to release, and Apple also sometimes delays new additions until a later version of iOS. While Freeform Scenes is in development for &zwnj;iOS 18&zwnj; and macOS 18, it could be pulled or introduced at a later date. <br/>
 <br/>
 For more details on what to expect with Apple's upcoming operating systems, check out our rumor roundup page for <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/guide/macos-15/">macOS 15</a>, <a href="https://www.macrumors.com/guide/freeform/">Freeform</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/11/ios-18-macos-15-freeform-app-scenes/">iOS 18 and macOS 15 to Include Updated Freeform App With &#039;Scenes&#039; Feature</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-and-macos-15-to-include-updated-freeform-app-with-scenes-feature.2421654/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Get Deep Discounts on OWC&#039;s Best Thunderbolt Docks, USB-C Hubs, Memory, and More Mac Accessories</title>
-		<link>https://www.macrumors.com/2024/03/11/get-deep-discounts-on-owc-docks/</link>
-		<comments>https://forums.macrumors.com/threads/get-deep-discounts-on-owcs-best-thunderbolt-docks-usb-c-hubs-memory-and-more-mac-accessories.2421647/</comments>
-		<pubDate>Mon, 11 Mar 2024 10:20:45 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/11/get-deep-discounts-on-owc-docks/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[OWC is hosting a <a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2F">big Mac accessory sale</a> that includes a number of discounts on Thunderbolt docks, USB-C hubs, external drives and enclosures, internal memory upgrade kits for Mac, and more. Most products are in stock and ready to ship out today, and OWC offers free shipping on orders &#36;149.00 and over.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/owc-docks.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-940659" /><em><small>Note: MacRumors is an affiliate partner with OWC. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Highlights of the sale include a collection of Thunderbolt docks for up to &#36;130 off. These docks allow you to easily connect a wide array of peripherals to your Mac, including two 4K displays or one 5K display with the <a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3DK14PSG%2F">14-Port Thunderbolt 3 Dock</a>, which is available for &#36;149.99. This isn't quite as steep of a discount as we've previously seen on the accessory, but at &#36;130 off it's still a great second-best price for anyone who missed last week's sale.<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3DK14PSG%2F"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;130 OFF</div>OWC 14-Port Thunderbolt 3 Dock for &#36;149.99</div></a></div><br/>
-<br/>
-All of the devices listed below are in new condition at OWC, although the retailer does provide various item condition options for anyone who might want to save money by purchasing open box items. Be sure to visit <a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2F">OWC's sale landing page</a> to browse the full sale, which also features deals on cables, Mac accessories, keyboards, and headphones.<br/>
-<br/>
-<h2>Docks and Hubs</h2><br/>
-<ul><li><a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTCDSDRDR%2F">Atlas Dual SD Card Reader</a> - &#36;79.99, down from &#36;89.99</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3MDK5P%2F">Thunderbolt Mini Dock</a> - &#36;109.99, down from &#36;129.99</li><br/>
-<li><a href="https://www.tkqlhce.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB4HUB5P%2F">Thunderbolt Hub</a> - &#36;129.99, down from &#36;149.99</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3DK14PSG%2F">14-Port Thunderbolt Dock</a> - &#36;149.99, down from &#36;279.99</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB4DKG11P%2F">Thunderbolt Go Dock</a> - &#36;299.99, down from &#36;349.99</li></ul><br/>
-<h2>External Drives and Enclosures</h2><br/>
-<ul><li><a href="https://www.tkqlhce.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FME3NH7T04C%2F">4TB Mercury Elite Pro External Storage</a> - &#36;129.99, down from &#36;199.99</li><br/>
-<li><a href="https://www.tkqlhce.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FME3NH7T12C%2F">12TB Mercury Elite Pro External Storage</a> - &#36;199.99, down from &#36;369.99</li><br/>
-<li><a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FME3NH7T16C%2F">16TB Mercury Elite Pro External Storage</a> - &#36;249.99, down from &#36;379.99</li><br/>
-<li><a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FMED3ER7T08C%2F">8TB Mercury Elite Pro RAID External Storage</a> - &#36;269.99, down from &#36;394.99</li><br/>
-<li><a href="https://www.dpbolvw.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FMED3ER7T24C%2F">24TB Mercury Elite Pro RAID External Storage</a> - &#36;399.99, down from &#36;699.99</li></ul><br/>
-<h2>Memory</h2><br/>
-<ul><li><a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2F2666DDR4S32P%2F">32GB Memory Upgrade Kit</a> - &#36;78.99, down from &#36;89.98</li><br/>
-<li><a href="https://www.dpbolvw.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2F2666DDR4S64S%2F">64GB Memory Upgrade Kit</a> - &#36;154.99, down from &#36;179.96</li></ul> <br/>
-<h2>Miscellaneous</h2><br/>
-<ul><li><a href="https://www.jdoqocy.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FCBLUSCC2M1%2F">2M USB-C to USB-C Charging Cable</a> - &#36;3.98, down from &#36;14.99</li><br/>
-<li><a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FMatias%2FFK416BT%2F">Matias Wireless Multi-Pairing Keyboard</a> - &#36;49.99, down from &#36;69.00</li></ul> Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/11/get-deep-discounts-on-owc-docks/">Get Deep Discounts on OWC&#039;s Best Thunderbolt Docks, USB-C Hubs, Memory, and More Mac Accessories</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/get-deep-discounts-on-owcs-best-thunderbolt-docks-usb-c-hubs-memory-and-more-mac-accessories.2421647/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Gurman: New iPads to Launch Towards &#039;End of March&#039; or April</title>
-		<link>https://www.macrumors.com/2024/03/11/new-ipads-end-of-march-or-april-gurman/</link>
-		<comments>https://forums.macrumors.com/threads/gurman-new-ipads-to-launch-towards-end-of-march-or-april.2421643/</comments>
-		<pubDate>Mon, 11 Mar 2024 09:42:13 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/11/new-ipads-end-of-march-or-april-gurman/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPad Air</category>
-		<category>iPad Pro 11&quot;</category>
-		<category>iPad Pro 12.9&quot;</category>
-		<category>Mark Gurman</category>
-		
-
-		<description><![CDATA[Apple plans to release new iPad Pro and iPad Air models "around the end of March or in April," according to <a href="https://www.bloomberg.com/news/newsletters/2024-03-10/what-did-the-apple-car-look-like-inside-apple-s-planned-self-driving-vehicle-ltlic8vt"><em>Bloomberg</em>'s Mark Gurman</a>. He also expects new Magic Keyboard and Apple Pencil accessories for iPads to launch simultaneously.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/iPad-Air-12.9-Inch-Feature.jpg" alt="" width="2192" height="1233" class="aligncenter size-full wp-image-917813" /><div class="center-wrap"><em>Apple is expected to release a larger 12.9-inch iPad Air</em></div><br/>
-In his <a href="https://www.bloomberg.com/news/newsletters/2024-03-10/what-did-the-apple-car-look-like-inside-apple-s-planned-self-driving-vehicle-ltlic8vt"><em>Power On</em> newsletter</a> on Sunday, Gurman reiterated that Apple is preparing a special build of the already-released iPadOS 17.4 update for the new iPads:<blockquote>Apple is preparing to launch revamped iPad Pros, new iPad Airs (including a 12.9-inch version), a Magic Keyboard and upgraded Apple Pencil. Look for that new hardware around the end of March or in April, as that's when the accompanying iPadOS 17.4 software should be ready to go.</blockquote>The following iPad-related announcements are expected in the March-April window:<ul><li>Two new iPad Pro models with the M3 chip, OLED displays, a <a href="https://www.macrumors.com/2024/02/20/upcoming-oled-ipad-pro-thinner/">thinner enclosure</a>, a <a href="https://www.macrumors.com/2024/03/08/ipad-air-ipad-pro-landscape-facetime-camera/">landscape-oriented front camera</a>, a redesigned rear camera bump and other design tweaks, and <a href="https://www.macrumors.com/2023/12/18/ipad-pro-magsafe-charging/">possibly MagSafe wireless charging</a></li><br/>
-<li>Two new iPad Air models with the M2 chip and a <a href="https://www.macrumors.com/2024/03/08/ipad-air-ipad-pro-landscape-facetime-camera/">landscape-oriented front camera</a>, including a first-ever 12.9-inch model</li><br/>
-<li>A new Magic Keyboard for the iPad Pro with a larger trackpad, <a href="https://www.macrumors.com/2023/09/03/gurman-new-ipad-magic-keyboard-to-feature-aluminum/">a partially-aluminum enclosure</a>, and other design tweaks</li><br/>
-<li>A <a href="https://www.macrumors.com/2024/03/05/new-apple-pencil-to-launch-this-month/">new Apple Pencil</a></li></ul>Gurman previously <a href="https://www.macrumors.com/2024/03/03/no-apple-event-for-new-ipads-macs-gurman/">ruled out an Apple Event for the new iPads</a>. Instead, the devices will likely be announced in a press release on the Apple Newsroom website, like the 13-inch and 15-inch MacBook Air models with the M3 chip <a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">were last week</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a>, <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#11-iPad-Pro">11" iPad Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#12-9-iPad-Pro">12.9" iPad Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/11/new-ipads-end-of-march-or-april-gurman/">Gurman: New iPads to Launch Towards &#039;End of March&#039; or April</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/gurman-new-ipads-to-launch-towards-end-of-march-or-april.2421643/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
