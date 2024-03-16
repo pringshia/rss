@@ -14,12 +14,33 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Sat, 16 Mar 2024 09:02:51 PDT</lastBuildDate>
+	<lastBuildDate>Sat, 16 Mar 2024 13:02:51 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Oracle Warns macOS 14.4 Can Cause Java to Terminate Unexpectedly</title>
+		<link>https://www.macrumors.com/2024/03/16/oracle-warns-about-macos-14-4-java-issues/</link>
+		<comments>https://forums.macrumors.com/threads/oracle-warns-macos-14-4-can-cause-java-to-terminate-unexpectedly.2422104/</comments>
+		<pubDate>Sat, 16 Mar 2024 11:04:49 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/16/oracle-warns-about-macos-14-4-java-issues/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>macOS Sonoma</category>
+		<category>Java</category>
+		
+
+		<description><![CDATA[Oracle this week warned that the <a href="https://www.macrumors.com/2024/03/07/apple-releases-macos-sonoma-14-4/">macOS 14.4 update</a> released earlier this month for Macs can cause Java processes to "terminate unexpectedly."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/macos-sonoma-feature-purple-green.jpg" alt="" width="2585" height="1454" class="aligncenter size-full wp-image-898568" /><br/>
+In a <a href="https://blogs.oracle.com/java/post/java-on-macos-14-4">blog post</a> on Friday, Oracle's Senior Director of Product Management Aurelio Garcia-Ribeyro recommended that Apple silicon Mac users who rely on Java avoid updating to macOS 14.4 until the issue is resolved by Apple:<blockquote>An issue introduced by macOS 14.4, which causes Java process[es] to terminate unexpectedly, is affecting all Java versions from Java 8 to the early access builds of JDK 22. There is no workaround available, and since there is no easy way to revert a macOS update, affected users might be unable to return to a stable configuration unless they have a complete backup of their systems prior to the OS update.</blockquote>The blog post and <a href="https://bugs.java.com/bugdatabase/view_bug?bug_id=8327860">bug report</a> include more technical details about the issue.<br/>
+<br/>
+Oracle says it has notified Apple about the issue. Apple did not immediately respond to our request for comment about the matter.<br/>
+<br/>
+<strong>Update:</strong> macOS 14.4 also has <a href="https://support.izotope.com/hc/en-us/articles/17519558551581-Issues-with-macOS-14-4-Sonoma">compatibility</a> <a href="https://twitter.com/sonnoxplugins/status/1766062245551694135">issues</a> with audio plug-ins protected by PACE/iLok. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/java/">Java</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/16/oracle-warns-about-macos-14-4-java-issues/">Oracle Warns macOS 14.4 Can Cause Java to Terminate Unexpectedly</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/oracle-warns-macos-14-4-can-cause-java-to-terminate-unexpectedly.2422104/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Get Samsung&#039;s ViewFinity S9 5K Smart Monitor With Steep &#36;700 Discount, Plus More Display Deals</title>
@@ -958,28 +979,6 @@ If Apple wants to be able to rival Microsoft's Bing, OpenAI's ChatGPT, and other
 Apple is aiming to have AI features run on-device for privacy reasons, and DarwinAI's efforts to make smaller AI systems could be of use to further that endeavor.<br/>
 <br/>
 Apple CEO <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> <a href="https://www.macrumors.com/2024/02/28/tim-cook-apple-generative-ai-break-new-ground/">has promised</a> that Apple will "break new ground" in generative AI in 2024. "We believe it will unlock transformative opportunities for our users," said Cook.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-acquisition/">Apple Acquisition</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/14/apple-acquires-darwinai/">Apple Buys DarwinAI Ahead of Major Generative AI Updates Coming in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-buys-darwinai-ahead-of-major-generative-ai-updates-coming-in-ios-18.2421935/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Hello Kitty to Make Special Appearance at Apple Union Square</title>
-		<link>https://www.macrumors.com/2024/03/14/hello-kitty-apple-union-square/</link>
-		<comments>https://forums.macrumors.com/threads/hello-kitty-to-make-special-appearance-at-apple-union-square.2421929/</comments>
-		<pubDate>Thu, 14 Mar 2024 09:55:52 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/14/hello-kitty-apple-union-square/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Arcade</category>
-		
-
-		<description><![CDATA[To celebrate an in-game event for popular <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a> game Hello Kitty Island Adventure, Apple is teaming up with Sanrio to have Hello Kitty herself visit <a href="https://www.apple.com/retail/unionsquare/">Apple Union Square</a> in San Francisco, California.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/hello-kitty-island-adventure.jpg" alt="" width="2000" height="1126" class="aligncenter size-full wp-image-941307" /><br/>
-Hello Kitty will be at the San Francisco store on Wednesday, March 20 from 4:00 p.m. to 6:00 p.m. That is the week of the Game Developers Conference, so GDC attendees that are visiting the city will be able to attend to meet Hello Kitty.<br/>
-<br/>
-Apple says that Hello Kitty will spread a message of happiness, friendship, and inclusivity, which matches the theme of the Hello Kitty Island Adventure in-game event. The virtual event, which takes place from March 18 to 25, celebrates International Day of Happiness. Players will be tasked with spreading joy through a surprise recipe and with surprise gifts.<br/>
-<br/>
-Chelsea Howe, Chief Product Officer of Sunblink (the developer behind Hello Kitty Island Adventure), and Jill Koch, SVP of Marketing at Sanrio, will also be accompanying Hello Kitty at Apple Union Square. The two will speak on the inspiration behind the game.<br/>
-<br/>
-<a href="https://apps.apple.com/us/app/hello-kitty-island-adventure/id1553505132">Hello Kitty Island Adventure</a> is part of the <a href="https://www.apple.com/apple-arcade/">Apple Arcade gaming subscription</a>, priced at &#36;6.99 per month. All members of a family group can play &zwnj;Apple Arcade&zwnj; games for the single subscription price. Hello Kitty Island Adventure is updated on a regular basis with new in-game content and events.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/14/hello-kitty-apple-union-square/">Hello Kitty to Make Special Appearance at Apple Union Square</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/hello-kitty-to-make-special-appearance-at-apple-union-square.2421929/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
