@@ -14,12 +14,61 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 19 Mar 2024 01:03:30 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 19 Mar 2024 05:03:55 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>macOS Sonoma 14.4 Bug &#039;Destroys Saved Versions in iCloud Drive&#039;</title>
+		<link>https://www.macrumors.com/2024/03/19/sonoma-bug-destroys-saved-versions-icloud-drive/</link>
+		<comments>https://forums.macrumors.com/threads/macos-sonoma-14-4-bug-destroys-saved-versions-in-icloud-drive.2422273/</comments>
+		<pubDate>Tue, 19 Mar 2024 04:12:12 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/19/sonoma-bug-destroys-saved-versions-icloud-drive/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>macOS Sonoma</category>
+		<category>iCloud Drive</category>
+		
+
+		<description><![CDATA[Apple's latest<a href="https://www.macrumors.com/2024/03/07/apple-releases-macos-sonoma-14-4/"> macOS Sonoma 14.4 software update</a> appears to be guilty of another bug, this time affecting saved versions in iCloud Drive.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/01/iCloud-Bug-Feature-Green.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-834609" /><br/>
+Versions are normally created automatically when users save files using apps that work with the version system in macOS. (To check if your Mac is using the <a href="https://support.apple.com/en-gb/guide/mac-help/mh40710/mac">past versions system</a>, look for a "Revert To" option in the app's File menu.)<br/>
+<br/>
+According to <a href="https://eclecticlight.co/2024/03/18/serious-bug-in-sonoma-14-4-will-destroy-saved-versions-in-icloud-drive/"><em>The Electric Light Company</em>'s Howard Oakley</a>, users running macOS 14.4 that have "Optimize Mac Storage" enabled should be aware that they are at risk of losing all previously saved versions of a file if they opt to remove it from iCloud Drive local storage. <br/>
+<blockquote>In previous versions of macOS, when a file is evicted from local storage in iCloud Drive [using the Remove Download option in the right-click contextual menu], all its saved versions have been preserved. Download that file again from iCloud Drive, and versions saved on that Mac (but not other Macs or devices) have remained fully accessible. Do that in 14.4, and all previous versions are now removed, and lost forever.</blockquote>Oakley said his own tests confirmed that this behavior does not happen in macOS Sonoma 14.3 or macOS Ventura, so it is exclusive to macOS 14.4. For users who have already updated, he suggests either not saving files to iCloud Drive at all, or turning off Optimize Mac Storage. <br/>
+<br/>
+To perform the latter in System Settings, click your Apple ID, select iCloud, and then toggle off the switch next to "Optimize Mac Storage." You may need to perform this action twice – reports suggest it can turn back on by itself. For a more exhaustive account of the problem, see Oakley's <a href="https://eclecticlight.co/2024/03/19/sonomas-lost-versions-bug-what-it-is-and-how-to-safeguard-versions/">subsequent post</a>.<br/>
+<br/>
+There are several bugs reported in macOS 14.4, and we have recorded some of the most prominent issues in a <a href="https://www.macrumors.com/2024/03/18/do-not-update-macos-sonoma-14-4/">dedicated article</a> that we have updated since this story was published. Have you been affected by the latest bug? Let us know in the comments.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/icloud-drive/">iCloud Drive</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/19/sonoma-bug-destroys-saved-versions-icloud-drive/">macOS Sonoma 14.4 Bug &#039;Destroys Saved Versions in iCloud Drive&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macos-sonoma-14-4-bug-destroys-saved-versions-in-icloud-drive.2422273/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 17 to Feature New Scratch Resistant Anti-Reflective Display</title>
+		<link>https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-17-to-feature-new-scratch-resistant-anti-reflective-display.2422268/</comments>
+		<pubDate>Tue, 19 Mar 2024 02:51:34 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Corning</category>
+		<category>Instant Digital</category>
+		
+
+		<description><![CDATA[Next year's iPhone 17 will feature an anti-reflective display that is more scratch-resistant than Apple's Ceramic Shield found on iPhone 15 models, according to a new rumor out of Asia.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/iphone-15-galaxy-s24-ultra-corning-glass.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-941959" /><div class="center-wrap"><em>Anti-reflection properties of Galaxy S24 Ultra (bottom) vs. iPhone 15 (Image: <a href="https://x.com/UniverseIce/status/1749261102310199416?s=20">IceUniverse</a>)</em></div><br/>
+Chinese Weibo leaker <a href="https://weibo.com/n/刹那数码">Instant Digital</a> claimed on Tuesday that the outer glass on the iPhone 17 is set to have a "super-hard anti-reflective layer" that is "more scratch-resistant than you think." The coating equipment has just been handed over to China's supply chain, according to the leaker, but not in time for it to feature in this year's upcoming iPhone 16 series.<br/>
+<br/>
+"Ceramic Shield" is a marketing name for a glass-ceramic material developed by Corning in collaboration with Apple. Apple says the Ceramic Shield on the iPhone 15 is "tougher than any smartphone glass." Introduced on iPhone 12 models in 2020, Apple advertised the ceramic-infused glass as increasing drop performance by 4x compared to the iPhone 11.<br/>
+<br/>
+More recently, Samsung debuted its newest Galaxy S24 Ultra, which features a Gorilla Glass Armor display panel, also developed by Corning. <a href="https://www.corning.com/gorillaglass/worldwide/en/corning-gorilla-armor.html">According to Corning</a>, the Armor panel cuts reflections by 75 percent compared to a typical glass surface, and is resistant to micro scratches that build up over time on competing glass panels. Corning also claims the panels offer over 4x more scratch resistance than competitive aluminosilicate cover glasses.<br/>
+<br/>
+It's not clear whether Apple is planning to adopt Gorilla Glass Armor for the iPhone 17, but the description matches the Chinese leaker's claims. Corning could also be supplying Apple with an equivalent technology that will be branded under another name. <br/>
+<ul><li><a href="https://www.macrumors.com/2024/02/22/iphone-17-five-rumored-features-2025/">Six Reasons to Wait for Next Year's iPhone 17</a></li></ul><br/>
+Corning has been a longtime Apple supplier, with Gorilla Glass used in devices across Apple's product lineup. In <a href="https://www.macrumors.com/2021/05/10/apple-awards-corning-45m-manufacturing-fund/">2021</a>, Apple said it had invested a combined &#36;495 million to support Corning's ongoing research and development into "state-of-the-art glass processes," which led to the creation of Ceramic Shield.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/corning/">Corning</a>, <a href="https://www.macrumors.com/guide/instant-digital/">Instant Digital</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/">iPhone 17 to Feature New Scratch Resistant Anti-Reflective Display</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-17-to-feature-new-scratch-resistant-anti-reflective-display.2422268/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>When Will Apple Announce WWDC 2024 Dates?</title>
@@ -183,6 +232,10 @@ The update may <a href="https://discussions.apple.com/thread/255522015?sortBy=be
 <span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">PACE/iLok Protections</span><br><br/>
 <span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">Audio Unit Plugins Crash</span><br><br/>
 There have been reports of compatibility issues with PACE products, including the <a href="https://help.ilok.com/faq_licenses.html#sonoma_14_4_plugins">iLok License Manager</a>, connected to Apple silicon Macs running macOS 14.4. The problem specifically impacts plugins from various manufacturers that are safeguarded by PACE/iLok, including those <a href="https://help.uaudio.com/hc/en-us/articles/24492336117652-PACE-iLok-Issue-with-macOS-Sonoma-14-4-Update">made by Universal Audio</a>, when used with host DAWs such as Logic Pro. Temporarily setting a DAW and the iLok License Manager application to <a href="https://help.ilok.com/faq_licenses.html#sonoma_14_4_plugins">run in Rosetta mode</a> appears to circumvent the issue. <br/>
+<br/>
+<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">iCloud Drive</span><br><br/>
+<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">Destroys Saved Versions</span><br><br/>
+Users running macOS 14.4 that have "Optimize Mac Storage" enabled should be aware that they are at risk of losing <a href="https://www.macrumors.com/2024/03/19/sonoma-bug-destroys-saved-versions-icloud-drive/">all previously saved versions of a file</a> if they opt to remove it from iCloud Drive local storage. Versions are normally created automatically when users save files using apps that work with the version system in macOS. If you have already updated, either do not save files to iCloud Drive at all, or turning off Optimize Mac Storage. To perform the latter in System Settings, click your Apple ID, select iCloud, and then toggle off the switch next to "Optimize Mac Storage."<br/>
 <br/>
 <h2>Consider Not Updating</h2><br/>
 If you anticipate that any of these problems could significantly impact your daily operations or productivity, it may be prudent to delay updating to the latest version of macOS Sonoma until Apple addresses these concerns with a subsequent fix. Have you identified any other issues since updating? Let us know in the comments and we might include them here if they turn out to be commonplace.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/18/do-not-update-macos-sonoma-14-4/">macOS Sonoma 14.4: Reasons Not to Update</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macos-sonoma-14-4-reasons-not-to-update.2422216/">Discuss this article</a> in our forums<br/><br/>]]></description>
@@ -776,92 +829,6 @@ The ‌&zwnj;iPhone 15&zwnj; was a fairly significant upgrade over the ‌&zwnj;
 <br/>
 <h2 id="release_date">Release Date</h2><br/>
 The &zwnj;iPhone 16&zwnj; and &zwnj;iPhone 16&zwnj; Plus are expected to launch in the fall. Apple usually hosts an event every September to unveil new <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> models, with launch following just over a week later. For more information about the &zwnj;iPhone 16&zwnj; models, <a href="https://www.macrumors.com/roundup/iphone-16/">see our comprehensive roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a>, <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/iphone-14-vs-iphone-16/">iPhone 14 vs. iPhone 16: 30+ Upgrades to Expect</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-14-vs-iphone-16-30-upgrades-to-expect.2422087/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Top Stories: iPhone Apps via Web in EU, iOS 17.4.1 Coming Soon, and More</title>
-		<link>https://www.macrumors.com/2024/03/16/top-stories-iphone-apps-via-web/</link>
-		<comments>https://forums.macrumors.com/threads/top-stories-iphone-apps-via-web-in-eu-ios-17-4-1-coming-soon-and-more.2422081/</comments>
-		<pubDate>Sat, 16 Mar 2024 06:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/16/top-stories-iphone-apps-via-web/</guid>
-		<dc:creator>MacRumors Staff</dc:creator>
-		<category>Featured</category>
-		<category>Top Stories</category>
-		
-
-		<description><![CDATA[Apple news and rumors settled down a bit this week following the launch of the M3 MacBook Air, but there was still plenty to talk about including Apple's ongoing changes to satisfy the EU's Digital Markets Act and signs of an upcoming iOS update likely to address some bugs.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/top-stories-16mar2024.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-941512" /><br/>
-We're also looking forward to new iPad Pro and iPad Air models coming in the next few weeks or so, plus the iPhone 16 lineup later this year, so read on for the latest on these stories and more!<br/>
-<br/>
-<h2>Apple Announces Ability to Download iPhone Apps From Websites in EU</h2><br/>
-Apple this week announced that <a href="https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/">iPhone users in the EU will soon be able to download apps directly from the websites</a> of eligible developers. Apple says web distribution will be available in a software update that will be released "later this spring," which likely refers to iOS 17.5.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/Apple-EU-iOS-Changes.jpg" alt="" width="1312" height="738" class="aligncenter size-full wp-image-933094" /><br/>
-Apple already <a href="https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/">added support for alternative app marketplaces</a> on the iPhone in the EU with iOS 17.4, released earlier this month.<br/>
-<br/>
-These changes are a result of the EU's Digital Markets Act, which Apple has strongly opposed but reluctantly complied with.<br/>
-<br/>
-<h2>Apple Preparing iOS 17.4.1 Update for iPhone</h2><br/>
-Apple is <a href="https://www.macrumors.com/2024/03/11/apple-preparing-ios-17-4-1/">internally testing iOS 17.4.1 for the iPhone</a>, based on evidence of the software update in our website's logs this week. It is unclear exactly when the update will be released to the public.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.4.1-Feature-Joe-Blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-940545" /><br/>
-Our logs have revealed the existence of several iOS 17 versions before Apple released them, ranging from iOS 17.0.3 to iOS 17.3.1. iOS 17.4.1 should be a minor update that addresses software bugs and/or security vulnerabilities.<br/>
-<br/>
-<h2>2024 iPad Pro: Key Rumors to Be Aware of Ahead of Announcement</h2><br/>
-<em>Bloomberg</em>'s Mark Gurman expects new iPad Pro and iPad Air models to be <a href="https://www.macrumors.com/2024/03/11/new-ipads-end-of-march-or-april-gurman/">released towards the "end of March" or in April</a>. He also expects new Magic Keyboard and Apple Pencil accessories to be released for iPads simultaneously.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/M3-iPad-Feature-3.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-917548" /><br/>
-We have <a href="https://www.macrumors.com/2024/03/11/2024-ipad-pro-key-rumors/">recapped key rumors about the 2024 iPad Pro models</a> ahead of the devices being announced, so be sure to check out our list of expected features and more.<br/>
-<br/>
-<h2>Video Comparison: M3 MacBook Air vs. M3 MacBook Pro</h2><br/>
-Earlier this month, Apple <a href="https://www.macrumors.com/2024/03/04/apple-announces-m3-macbook-air/">updated the 13-inch and 15-inch MacBook Air</a> with its latest-generation M3 chip, Wi-Fi 6E support, and compatibility with two external displays when the laptop's lid is closed.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/M3-Pro-vs.-M3-Air-Thumb-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-940924" /><br/>
-In a recent video on our YouTube channel, we <a href="https://www.macrumors.com/2024/03/12/m3-macbook-air-vs-macbook-pro/">compared the new MacBook Air with the base model 14-inch MacBook Pro with the M3 chip</a>.<br/>
-<br/>
-<a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to <em>MacRumors</em> on YouTube</a> for even more Apple news and rumors!<br/>
-<br/>
-<h2>Every iPhone 16 Rumor We've Covered So Far</h2><br/>
-While the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16 lineup</a> is still months away, there are already many rumors about the devices.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/iPhone-16-Mock-Header-Updated-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-922680" /><br/>
-This week, we <a href="https://www.macrumors.com/2024/03/14/every-iphone-16-rumor-weve-covered-so-far/">recapped every iPhone 16 rumor that we have heard about so far</a>. Check out our list for an overview of new features and changes expected for the iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. As usual, the devices are expected to be released in September, alongside <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and more.<br/>
-<br/>
-<h2>Everything We Know About Apple's Next-Generation CarPlay</h2><br/>
-It has been nearly two years since Apple first previewed next-generation CarPlay at WWDC 2022, and it has still yet to become available in any vehicles. In an article this week, we <a href="https://www.macrumors.com/2024/03/13/apple-next-generation-carplay-recap/">recapped the latest information about the upcoming software system</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/06/next-generation-carplay-multi-display.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-848463" /><br/>
-<a href="https://www.macrumors.com/2024/03/13/apple-next-generation-carplay-recap/">Next-generation CarPlay</a> will have deeper integration with a vehicle's instrument cluster, climate controls, FM radio, and more. It will also support multiple displays across the dashboard, and offer a variety of personalization options.<br/>
-<br/>
-<h3>MacRumors Newsletter</h3><br/>
-Each week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.<br/>
-<br/>
-So if you want to have <a href="https://mailchi.mp/macrumors/mar-14-2024">top stories</a> like the above recap delivered to your email inbox each week, <b><a href="http://eepurl.com/OHdUX">subscribe to our newsletter</a></b>!<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/top-stories/">Top Stories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/16/top-stories-iphone-apps-via-web/">Top Stories: iPhone Apps via Web in EU, iOS 17.4.1 Coming Soon, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/top-stories-iphone-apps-via-web-in-eu-ios-17-4-1-coming-soon-and-more.2422081/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Buy Selling M1 MacBook Air for &#36;650, a New All-Time Low Price</title>
-		<link>https://www.macrumors.com/2024/03/15/best-buy-macbook-air-all-time-low/</link>
-		<comments>https://forums.macrumors.com/threads/best-buy-selling-m1-macbook-air-for-650-a-new-all-time-low-price.2422051/</comments>
-		<pubDate>Fri, 15 Mar 2024 16:47:34 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/15/best-buy-macbook-air-all-time-low/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Deals</category>
-		<category>Best Buy</category>
-		
-
-		<description><![CDATA[Best Buy is selling the <a href="https://howl.me/clLm50orOos">13-inch M1 MacBook Air for &#36;649.99</a>, which is the lowest price that we've seen to date on the machine. Best Buy's price drop comes just hours after Walmart <a href="https://www.macrumors.com/2024/03/15/walmart-selling-macbook-air-with-m1-chip/">started selling</a> the M1 MacBook Air for &#36;699.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-850533" src="https://images.macrumors.com/article-new/2022/06/M1-MacBook-Air-Deals-Feature-Warm.jpg" alt="" width="2125" height="1195" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Just after Apple announced the new 13-inch and 15-inch MacBook Air models, Best Buy started selling the M1 MacBook Air for &#36;750, so the price has come down &#36;100 in the last 10 days. The model that Best Buy has for &#36;649.99 is the entry-level version with 8GB Unified Memory, an 8-core CPU, a 7-core GPU, and a 256GB SSD.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/clLm50orOos"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;350 OFF</div>13-inch M1 MacBook Air for &#36;649.99</div></a></div><br/>
-<br/>
-Apple discontinued the M1 MacBook Air on March 4, which is why we're seeing such low prices on remaining inventory. The M1 MacBook Air first came out in 2020, so it is four years old at this point, but the Apple silicon chip is still more than adequate for day-to-day tasks. <a href="https://howl.me/clLm50orOos">&#36;649 is a great price</a> for those who want to get an Apple silicon Mac while also saving some cash.<br/>
-<br/>
-As the M1 MacBook Air is no longer being manufactured, available supply is likely to dry up soon. For deals on other Macs, make sure to <a href="https://www.macrumors.com/roundup/best-apple-deals/">check out our dedicated Deals Roundup</a>, which we updated regularly.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/best-buy/">Best Buy</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/15/best-buy-macbook-air-all-time-low/">Best Buy Selling M1 MacBook Air for &#36;650, a New All-Time Low Price</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-buy-selling-m1-macbook-air-for-650-a-new-all-time-low-price.2422051/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
