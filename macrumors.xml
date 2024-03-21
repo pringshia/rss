@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 21 Mar 2024 09:02:34 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 21 Mar 2024 13:02:43 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,9 +22,68 @@
 	<generator>https://www.macrumors.com</generator>
 		
 		<item>
-		<title>Apple Responds to Being Sued by U.S. Department of Justice</title>
+		<title>iPadOS 17.4.1 Fixes QR Code Scanning Bug</title>
+		<link>https://www.macrumors.com/2024/03/21/ios-17-4-1-qr-code-scanning-bug/</link>
+		<comments>https://forums.macrumors.com/threads/ipados-17-4-1-fixes-qr-code-scanning-bug.2422469/</comments>
+		<pubDate>Thu, 21 Mar 2024 11:30:28 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/21/ios-17-4-1-qr-code-scanning-bug/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[The <a href="https://www.macrumors.com/2024/03/21/apple-releases-ios-17-4-1/">iPadOS 17.4.1 update</a> that Apple released this morning addresses a bug that could prevent certain iPads from being able to scan QR codes.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/ipad-purple-prime-day.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-916648" /><br/>
+According to an <a href="https://support.apple.com/en-us/118614">Apple Support document</a>, a bug in iOS 17.4 impacted the camera on the 6th-generation <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, 7th-generation &zwnj;iPad&zwnj;, 10.5-inch <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>, and second-generation 12.9-inch &zwnj;iPad Pro&zwnj;, preventing camera apps from being able to scan QR codes. Apple says that customers affected by this issue should update to iPadOS 17.4.1 to fix the problem.<br/>
+<br/>
+Prior to iPadOS 17.4.1, Apple was suggesting that &zwnj;iPad&zwnj; users unable to scan QR codes with the Camera app and other third-party apps use the Code Scanner function in the Control Center.<br/>
+<br/>
+Apple's release notes did not mention the bug fix, perhaps due to the limited number of &zwnj;iPad&zwnj; models that are impacted. iPadOS 17.4.1 also added other unspecified bug fixes and security improvements.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/21/ios-17-4-1-qr-code-scanning-bug/">iPadOS 17.4.1 Fixes QR Code Scanning Bug</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipados-17-4-1-fixes-qr-code-scanning-bug.2422469/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases visionOS 1.1.1 With Bug Fixes</title>
+		<link>https://www.macrumors.com/2024/03/21/apple-releases-visionos-1-1-1-with-bug-fixes/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-visionos-1-1-1-with-bug-fixes.2422458/</comments>
+		<pubDate>Thu, 21 Mar 2024 10:10:33 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/21/apple-releases-visionos-1-1-1-with-bug-fixes/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>visionOS</category>
+		
+
+		<description><![CDATA[Apple today released <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1.1.1, a minor update to the &zwnj;visionOS&zwnj; operating system that came out in February. &zwnj;visionOS&zwnj; 1.1.1 comes two weeks <a href="https://www.macrumors.com/2024/03/07/apple-releases-visionos-1-1/">after the launch of visionOS 1.1</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-934088" src="https://images.macrumors.com/article-new/2024/02/visionOS-Home-Screen.jpg" alt="" width="1920" height="1080" /><br/>
+&zwnj;visionOS&zwnj; updates can be installed by going to the Settings app on the Vision Pro, selecting the General section, and choosing Software Update. The Vision Pro headset will need to be removed to install new software, with a progress bar available on the front EyeSight display.<br/>
+<br/>
+According to Apple's release notes for the update, &zwnj;visionOS&zwnj; 1.1.1 introduces "important bug fixes and security updates." The software is recommended for all users.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/21/apple-releases-visionos-1-1-1-with-bug-fixes/">Apple Releases visionOS 1.1.1 With Bug Fixes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-visionos-1-1-1-with-bug-fixes.2422458/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases iOS 17.4.1 and iPadOS 17.4.1 With Bug Fixes and Security Improvements</title>
+		<link>https://www.macrumors.com/2024/03/21/apple-releases-ios-17-4-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-ios-17-4-1-and-ipados-17-4-1-with-bug-fixes-and-security-improvements.2422457/</comments>
+		<pubDate>Thu, 21 Mar 2024 10:06:46 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/21/apple-releases-ios-17-4-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released iOS 17.4.1 and iPadOS 17.4.1, minor updates to the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> and <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> operating systems. The new software comes a couple of weeks after Apple <a href="https://www.macrumors.com/2024/03/05/apple-releases-ios-17-4/">released iOS 17.4 and iPadOS 17.4</a> with app changes in the European Union, new emoji, and more.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.4.1-Feature-Joe-Blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-940545" /><br/>
+iOS 17.4.1 and iPadOS 17.4.1 can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update. For customers who are still on iOS 16, Apple has also released an iOS 16.7.7 security update. <br/>
+<br/>
+According to Apple's release notes, the iOS 17.4.1 update includes important security updates and bug fixes. <br/>
+<br/>
+Apple will likely begin testing iOS 17.5 in the near future, with betas expected to come out in the next two weeks.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/21/apple-releases-ios-17-4-1/">Apple Releases iOS 17.4.1 and iPadOS 17.4.1 With Bug Fixes and Security Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-17-4-1-and-ipados-17-4-1-with-bug-fixes-and-security-improvements.2422457/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Sued by U.S. Department of Justice, Says Lawsuit is &#039;Wrong&#039;</title>
 		<link>https://www.macrumors.com/2024/03/21/apple-sued-by-us-department-of-justice/</link>
-		<comments>https://forums.macrumors.com/threads/apple-responds-to-being-sued-by-u-s-department-of-justice.2422451/</comments>
+		<comments>https://forums.macrumors.com/threads/apple-sued-by-u-s-department-of-justice-says-lawsuit-is-wrong.2422451/</comments>
 		<pubDate>Thu, 21 Mar 2024 07:50:14 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/03/21/apple-sued-by-us-department-of-justice/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
@@ -35,7 +94,7 @@
 
 		<description><![CDATA[The U.S. Department of Justice today <a href="https://www.justice.gov/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets">announced</a> it has <a href="https://www.justice.gov/opa/media/1344546/dl?inline">filed an antitrust lawsuit</a> against Apple. The lawsuit alleges that Apple has an illegal monopoly in the smartphone market with the iPhone and the device's locked-down ecosystem.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2023/12/Apple-Logo-16x9-US-Flag-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-926535" /><br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/pbpkMKZUuxU" title="Apple is Being Sued by U.S. Department of Justice!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
 In a statement shared with <em>MacRumors</em>, Apple said the lawsuit is "wrong on the facts and the law," and the company vowed to "vigorously defend" itself:<blockquote>At Apple, we innovate every day to make technology people love—designing products that work seamlessly together, protect people's privacy and security, and create a magical experience for our users. This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets. If successful, it would hinder our ability to create the kind of technology people expect from Apple—where hardware, software, and services intersect. It would also set a dangerous precedent, empowering government to take a heavy hand in designing people's technology. We believe this lawsuit is wrong on the facts and the law, and we will vigorously defend against it.</blockquote>The complaint was filed today in a U.S. District Court in New Jersey by the Justice Department and 16 other U.S. state and district attorneys general. Apple is accused of violating various U.S. federal and state antitrust laws, including the Sherman Act.<br/>
 <br/>
 In its press release, the Justice Department highlighted some of the allegations:<blockquote>- <strong>Blocking Innovative Super Apps</strong>. Apple has disrupted the growth of apps with broad functionality that would make it easier for consumers to switch between competing smartphone platforms.<br/>
@@ -44,7 +103,7 @@ In its press release, the Justice Department highlighted some of the allegations
 - <strong>Diminishing the Functionality of Non-Apple Smartwatches.</strong> Apple has limited the functionality of third-party smartwatches so that users who purchase the Apple Watch face substantial out-of-pocket costs if they do not keep buying iPhones.<br/>
 - <strong>Limiting Third Party Digital Wallets.</strong> Apple has prevented third-party apps from offering tap-to-pay functionality, inhibiting the creation of cross-platform third-party digital wallets.</blockquote>Apple's anticompetitive conduct also affects "web browsers, video communication, news subscriptions, entertainment, automotive services, advertising, location services, and more," according to the Justice Department.<br/>
 <br/>
-Jonathan Kanter, Assistant Attorney General of the Justice Department's Antitrust Division:<blockquote>For years, Apple responded to competitive threats by imposing a series of "Whac-A-Mole" contractual rules and restrictions that have allowed Apple to extract higher prices from consumers, impose higher fees on developers and creators, and to throttle competitive alternatives from rival technologies. Today's lawsuit seeks to hold Apple accountable and ensure it cannot deploy the same, unlawful playbook in other vital markets.</blockquote>The entire complaint spans <a href="https://www.justice.gov/opa/media/1344546/dl?inline">88 pages</a>, so there is a lot of information to unpack. Stay tuned for more coverage throughout the day.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/lawsuit/">Apple Lawsuits</a>, <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/21/apple-sued-by-us-department-of-justice/">Apple Responds to Being Sued by U.S. Department of Justice</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-responds-to-being-sued-by-u-s-department-of-justice.2422451/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Jonathan Kanter, Assistant Attorney General of the Justice Department's Antitrust Division:<blockquote>For years, Apple responded to competitive threats by imposing a series of "Whac-A-Mole" contractual rules and restrictions that have allowed Apple to extract higher prices from consumers, impose higher fees on developers and creators, and to throttle competitive alternatives from rival technologies. Today's lawsuit seeks to hold Apple accountable and ensure it cannot deploy the same, unlawful playbook in other vital markets.</blockquote>The entire complaint spans <a href="https://www.justice.gov/opa/media/1344546/dl?inline">88 pages</a>, so there is a lot of information to unpack. Stay tuned for more coverage throughout the day.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/lawsuit/">Apple Lawsuits</a>, <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/21/apple-sued-by-us-department-of-justice/">Apple Sued by U.S. Department of Justice, Says Lawsuit is &#039;Wrong&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-sued-by-u-s-department-of-justice-says-lawsuit-is-wrong.2422451/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -494,97 +553,6 @@ For the iPad Air, you can get every Wi-Fi model on sale for a record low price o
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8ZLZ53M%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3S52LG1288F1D%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3S52LG1288F1D_1710770092703">Explorer 2000 Pro Portable Power Station</a> - &#36;1,199.00, down from &#36;1,899.00</li><br/>
 <li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6DL1VPD%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1QELY4DYBF6HU%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1QELY4DYBF6HU_1710770037246">Expansion Battery Pack for 2000 Plus</a> - &#36;1,199.00 with on-page coupon, down from &#36;1,599.00</li></ul> Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<br/>
 <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/20/amazons-big-spring-sale/">Amazon&#039;s Prime Day &#039;Big Spring Sale&#039; Debuts Big Discounts on Apple Devices, Anker Accessories, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazons-prime-day-big-spring-sale-debuts-big-discounts-on-apple-devices-anker-accessories-and-more.2422359/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Tim Cook Visits China Ahead of New Apple Store Opening in Shanghai</title>
-		<link>https://www.macrumors.com/2024/03/20/tim-cook-visits-shanghai/</link>
-		<comments>https://forums.macrumors.com/threads/tim-cook-visits-china-ahead-of-new-apple-store-opening-in-shanghai.2422356/</comments>
-		<pubDate>Wed, 20 Mar 2024 06:54:26 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/20/tim-cook-visits-shanghai/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>China</category>
-		<category>Tim Cook</category>
-		<category>Apple Store</category>
-		
-
-		<description><![CDATA[Apple CEO Tim Cook is touring Shanghai, China this week, meeting with retail employees, suppliers, developers, the film industry, and others. He has been <a href="https://weibo.com/timcook">sharing photos</a> from his trip on Chinese social media platform Weibo.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/Tim-Cook-Shanghai.jpeg" alt="" width="1200" height="702" class="aligncenter size-full wp-image-942239" /><br/>
-Cook's visit is timed with the upcoming grand opening of Apple's new Jing'an store in Shanghai on Thursday, March 21 at 7 p.m. local time.<br/>
-<br/>
-Apple provided more details about the store <a href="https://www.apple.com/newsroom/2024/03/apple-jingan-to-welcome-its-first-customers-thursday-march-21-in-shanghai/">in a recent press release</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/Apple-Jingan.jpg" alt="" width="1440" height="810" class="aligncenter size-full wp-image-942235" /><br/>
-"Located next to the landmark Jing'an Temple, Apple Jing'an is a must-see destination in Shanghai," said Apple. "Approaching the store through a grove of maple trees that line the upper plaza, visitors are treated to a stunning view of the temple. As customers descend down the stairs, they pass by terracing, double-curved walls that extend forward in a circle to form amphitheater seating that will host Today at Apple sessions specially created for Apple Jing'an to celebrate the community and its creators."<br/>
-<br/>
-A custom wallpaper with a flower-like Apple logo is available for download for the iPhone, iPad, and Mac <a href="https://www.apple.com.cn/retail/jingan/">on the store's page</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/Apple-Jingan-Wallpaper.jpeg" alt="" width="1960" height="1080" class="aligncenter size-full wp-image-942237" /><br/>
-Those who attend the grand opening of Apple Jing'an will receive a custom tote bag, pin, and Apple logo sticker, according to <a href="https://michaelsteeber.substack.com/p/exploring-apple-jingan">Michael Steeber's weekly newsletter</a> about Apple's retail stores. His newsletter provides a closer look at the store's design.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/china/">China</a>, <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a>, <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/20/tim-cook-visits-shanghai/">Tim Cook Visits China Ahead of New Apple Store Opening in Shanghai</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tim-cook-visits-china-ahead-of-new-apple-store-opening-in-shanghai.2422356/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>New iPad Pro Rumored to Have Matte Screen Option Like Studio Display&#039;s Nano-Texture Glass</title>
-		<link>https://www.macrumors.com/2024/03/20/new-ipad-pro-to-gain-matte-option/</link>
-		<comments>https://forums.macrumors.com/threads/new-ipad-pro-rumored-to-have-matte-screen-option-like-studio-displays-nano-texture-glass.2422354/</comments>
-		<pubDate>Wed, 20 Mar 2024 06:21:29 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/20/new-ipad-pro-to-gain-matte-option/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>iPad Air</category>
-		<category>iPad Pro 11&quot;</category>
-		<category>iPad Pro 12.9&quot;</category>
-		<category>OLED iPad Pro</category>
-		<category>2024 iPad Air</category>
-		<category>Instant Digital</category>
-		
-
-		<description><![CDATA[Apple's next-generation <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models will be offered with a matte display option for the first time, according to the Weibo leaker known as "<a href="https://www.macrumors.com/guide/instant-digital/">Instant Digital</a>."<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/iPad-Pro-Matte-Display-Feature-1.6.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-942196" /><br/>
-The Weibo user explained that the &zwnj;iPad Pro&zwnj;'s new matte display option will be offered in addition to the standard, glossy glass finish. It apparently features -4° to +29° of haze and may tout some kind of blue-light blocking technology to help protect the eyes. Matte screen protectors for the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> have become popular, so it is possible that Apple is trying to offer such an option at the point of purchase for those who want it.<br/>
-<br/>
-It is not known if the matte display option will be "nano-texture" glass like on the Pro Display XDR and Studio Display, but it seems plausible. Nano-texture glass is effectively a matte finish that scatters light to minimize glare, which is ideal in environments with bright light sources. While matte screen coatings effectively reduce reflections, they also make the image slightly more dull and hazy. Nano-texture glass features an etched surface to help preserve image quality.<br/>
-<br/>
-Nano-texture glass has only been offered on desktop displays so far. It is harder to clean owing to its textured surface that grips oil and debris more tightly, and Apple cautions that it should only be cleaned with a polishing cloth made with soft, non-abrasive material. It is not clear how a matte display on the &zwnj;iPad&zwnj; would hold up to fingerprints as a result. <br/>
-<br/>
-The matte display option may also be available on the next-generation <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> models, but the leaker could not confirm if this will be the case. They added that new &zwnj;iPad&zwnj; models will be <a href="https://www.macrumors.com/2024/03/18/new-ipads-march-26-launch-date-rumor/">announced next week</a>.<br/>
-<br/>
-Earlier this week, Instant Digital said that the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> 17 <a href="https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/">will feature an anti-reflective display</a> that is more scratch-resistant than Apple's Ceramic Shield found on recent models. It is not apparent if this technology is related to the new matte display option for the &zwnj;iPad&zwnj;, but it is a possibility.<br/>
-<br/>
-Instant Digital has a mixed track record in terms of revealing accurate information about Apple's plans, but their claims are worth paying attention to. The source was <a href="https://www.macrumors.com/2023/03/03/iphone-14-new-color-rumor/">first to report</a> the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a>'s Yellow spring refresh in 2023, <a href="https://www.macrumors.com/2023/09/04/future-iphone-could-capture-spatial-photos-videos/">Spatial Video</a> capture on the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, and the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a>'s <a href="https://www.macrumors.com/2023/08/04/apple-watch-series-9-basically-unchanged/">minor hardware update</a>, as well as being the only source of the only rumor claiming that the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and &zwnj;iPhone 15&zwnj; Plus would feature <a href="https://www.macrumors.com/2023/04/17/iphone-15-and-15-plus-frosted-glass-rumor/">frosted back glass</a>. However, they also made claims about <a href="https://www.macrumors.com/2023/04/25/ios-17-lock-screen-apple-music-rumors/">several iOS 17 features</a> and the release of a <a href="https://www.macrumors.com/2023/09/10/ipad-air-6-rumored-to-launch-in-october/">new iPad Air in October 2023</a> that did not pan out.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a>, <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/oled-ipad-pro/">OLED iPad Pro</a>, <a href="https://www.macrumors.com/guide/2024-ipad-air/">2024 iPad Air</a>, <a href="https://www.macrumors.com/guide/instant-digital/">Instant Digital</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#11-iPad-Pro">11" iPad Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#12-9-iPad-Pro">12.9" iPad Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/20/new-ipad-pro-to-gain-matte-option/">New iPad Pro Rumored to Have Matte Screen Option Like Studio Display&#039;s Nano-Texture Glass</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-ipad-pro-rumored-to-have-matte-screen-option-like-studio-displays-nano-texture-glass.2422354/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>EU Antitrust Chief Warns Apple About App Store Fees and Safety Warnings</title>
-		<link>https://www.macrumors.com/2024/03/20/eu-antitrust-chief-warns-apple-app-store-fees/</link>
-		<comments>https://forums.macrumors.com/threads/eu-antitrust-chief-warns-apple-about-app-store-fees-and-safety-warnings.2422345/</comments>
-		<pubDate>Wed, 20 Mar 2024 04:15:24 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/20/eu-antitrust-chief-warns-apple-app-store-fees/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>App Store</category>
-		<category>European Union</category>
-		<category>European Commission</category>
-		<category>Apple Antitrust</category>
-		
-
-		<description><![CDATA[Key parts of Apple's compliance with the Digital Markets Act (DMA) are set to be investigated by European regulators based on developer feedback, the EU's antitrust chief warned on Tuesday.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/App-Store-vs-EU-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932826" /><br/>
-In an interview with <em><a href="https://www.reuters.com/technology/eus-vestager-warns-about-apple-meta-fees-disparaging-rival-products-2024-03-19/">Reuters</a></em>, the European Commission's Executive Vice-President Margrethe Vestager said that Apple's introduction of new fees was already being looked at as a potential attempt to dissuade developers from using alternative app stores.<br/>
-<blockquote>"There are things that we take a keen interest in, for instance, if the new Apple fee structure will de facto not make it in any way attractive to use the benefits of the DMA. That kind of thing is what we will be investigating," she told Reuters.</blockquote>Apple enabled alternative app stores in the EU <a href="https://www.macrumors.com/2024/02/19/iphone-changes-coming-to-eu-users/">earlier this month</a>, allowing third-party app stores to offer a catalog of other developers' apps as well as the marketplace developer's own apps. Apple also has a new fee structure as part of the change that has already come under fire from <a href="https://www.macrumors.com/2024/03/01/spotify-epic-games-apple-dma-complaint/">several developers and EU associations</a>. <br/>
-<br/>
-In addition, Vestager warned Apple and other companies against discouraging users from switching to other app marketplaces by disparaging them, saying this kind of behaviour could trigger an investigation. Apple has already claimed some of the DMA-enforced changes could <a href="https://www.macrumors.com/2024/03/01/apple-whitepaper-alternative-app-marketplaces/">expose users to security risks</a> that they are otherwise protected against when using the App Store.<br/>
-<blockquote>"I would think of it as unwise to say that the services are not safe to use, because that has nothing to do with the DMA," said Vestager. "The DMA is there to open the market for other service providers to get to you and how your service provider of your operating system, how they will make sure that it is safe is for them to decide."<br/>
-<br/>
-"And of course, if we see or get the suspicion that this is in order to say that someone else are not doing their job of course, we might take initiatives to look into that," she added.</blockquote>Vestager said feedback from developers was key to whether she would launch investigations into companies that must comply with the DMA. Asked whether she had received any comments from third parties, she replied: "Quite a lot."<br/>
-<br/>
-Apple's app ecosystem changes in the European Union went into effect with the launch of iOS 17.4 on March 6. Apple has since been tweaking the app ecosystem rules that it introduced based on developer feedback and discussions with EU regulators. <br/>
-<br/>
-For example, third-party app stores are now able to offer apps <a href="https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/">directly from their own catalog</a>, and developers will soon be able to distribute apps directly from their websites as long as they meet Apple's requirements. <br/>
-<br/>
-Apple says it is also working out a solution that would prevent its 0.50 euro <a href="https://www.macrumors.com/2024/01/25/apple-eu-fees-could-bankrupt-app-developers/">Core Technology Fee (CTF)</a> from bankrupting developers if their free app goes viral.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/european-commission/">European Commission</a>, <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/20/eu-antitrust-chief-warns-apple-app-store-fees/">EU Antitrust Chief Warns Apple About App Store Fees and Safety Warnings</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/eu-antitrust-chief-warns-apple-about-app-store-fees-and-safety-warnings.2422345/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
