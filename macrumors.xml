@@ -14,12 +14,224 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 25 Mar 2024 13:03:05 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 25 Mar 2024 17:10:58 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple vs. the U.S. Department of Justice: What You Need to Know</title>
+		<link>https://www.macrumors.com/guide/apple-vs-doj/</link>
+		<comments>https://forums.macrumors.com/threads/apple-vs-the-u-s-department-of-justice-what-you-need-to-know.2422813/</comments>
+		<pubDate>Mon, 25 Mar 2024 16:25:09 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/apple-vs-doj&#038;post_date=1711419909/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>Mega Guides</category>
+		<category>Apple vs. DoJ</category>
+		
+
+		<description><![CDATA[On March 21, the United States Justice Department <a href="https://www.macrumors.com/2024/03/21/apple-sued-by-us-department-of-justice/">sued Apple for antitrust violations</a>, concluding a multi-year investigation into Apple's business practices. The U.S. government is also pursuing antitrust cases against Google, Amazon, and Meta, as part of an expansive look into the practices of major tech companies.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-943221" /><br/>
+Apple plans to "vigorously defend" against the DoJ's lawsuit, which seeks to fundamentally change the way that Apple operates. This will be a legal battle that spans multiple years, and we'll keep this guide updated with the latest news as the case progresses.<br/>
+<br/>
+<h2 id="dojs_claims">DoJ's Claims</h2><br/>
+The lawsuit that the DoJ filed against Apple is broad ranging, and rather than focusing on one or two issues, it aims to establish a long-running history of anti-competitive behavior. The DoJ tries to establish a pattern of business decisions that have suppressed competition, with the DoJ arguing that Apple has time and time again opted to "make its products worse for consumers to prevent competition from emerging."<br/>
+<br/>
+It is the opinion of the DoJ that Apple has gotten consumers "hooked" on its platform through these choices, making it unreasonably difficult for customers to switch to another smartphone brand. There is no allowance made for customer preference and the idea that people simply like their iPhones - the DoJ positions Apple as a monopolist that has manipulated people into sticking with its ecosystem by blocking competing apps, services, and products.<br/>
+<br/>
+<h3 id="suppressing_technologies">Suppressing Technologies</h3><br/>
+While the full lawsuit details a long list of ways Apple has allegedly harmed consumers, the DoJ cites five specific examples of Apple blocking technologies that it claims would decrease barriers to switching and give consumers a "higher-quality user experience on any smartphone."<br/>
+<br/>
+The DoJ is of the opinion that if Apple did not historically limit cloud gaming, digital wallets, and non-Apple Watch smartwatches, that people would freely choose to purchase less expensive alternative smartphones over the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. The DoJ believes that Apple is not facing pressure from "innovative, cross-platform technologies" because Apple "makes other products worse" rather than making its own products better.<br/>
+<ul><br/>
+ <li><strong>Super apps</strong> - The DoJ defines super apps as those that provide a user with "broad functionality" in a single app and have the benefit of providing a consistent user experience across devices. An example of a super app is WeChat, which is widely used in China for communicating, making payments, and more. The DoJ says that Apple has "denied users access to super apps" in the U.S., but it is worth noting that there is a cultural aspect to these apps, and they just haven't caught on in the U.S. the way they have in China. Mini apps are often frequently referenced too, as Apple did have restrictions on apps offering mini games and other multi-app features (these restrictions were eliminated in iOS 17.4).</li><br/>
+ <li><strong>Cloud streaming</strong> - The DoJ suggests that Apple is suppressing cloud streaming games by preventing them from being available on the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. Cloud streaming apps have been usable on Safari, and as of iOS 17.4, Apple <a href="https://www.macrumors.com/2024/01/29/apple-allows-cloud-gaming-apps-on-app-store/">changed its rules</a> to allow streaming game apps like Xbox Cloud Gaming to offer streaming games through a single &zwnj;App Store&zwnj; app. This argument is no longer entirely relevant, but the DoJ believes that by not allowing cloud gaming apps, Apple prevented consumers from buying cheaper phones. The idea here is that customers had to opt in to expensive iPhones to play "high-compute" games because they weren't available to play using cloud services.</li><br/>
+ <li><strong>Messaging apps</strong> - The DoJ thinks that third-party apps should be able to send and receive SMS messages, rather than these messages being routed to the Messages app. This would let users switch phones without changing the way they communicate. The filing takes issue with the lack of an iMessage app for Android, Apple's efforts to block the Beeper Mini app, green bubbles, and the adoption of <a href="https://www.macrumors.com/guide/rcs/">RCS</a>.</li><br/>
+ <li><strong>Smartwatches</strong> - Apple suppresses key functions of third-party smartwatches, preventing &zwnj;iPhone&zwnj; users from getting Apple Watch-like functionality from smartwatches with "better user interfaces and services." The DoJ says that Apple locks customers in to the &zwnj;iPhone&zwnj; with the Apple Watch, because the Apple Watch can't be used on other smartphones. A user who wants to switch from the &zwnj;iPhone&zwnj; must also purchase an Android-compatible smartwatch.</li><br/>
+ <li><strong>Digital Wallets</strong> - Apple does not let banking apps access NFC and provide digital payments services, and customers are not able to choose their "trusted banking apps" as their digital wallet. Apple also prevents developers from creating cross-platform wallets that would make it easier to switch from &zwnj;iPhone&zwnj; to Android, and alternative wallets could also be used for in-app purchases. The DoJ claims that the payments that banks make to Apple for using <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a> would otherwise be used for features and benefits for smartphone users.</li><br/>
+</ul><br/>
+<br/>
+<h3 id="privacy_and_security">Privacy and Security</h3><br/>
+The DoJ suggests that Apple justifies its anticompetitive conduct with privacy and security concerns.<br/>
+<ul><br/>
+ <li>Apple spends billions on marketing to promote "the self-serving premise that only Apple can safeguard consumers' privacy and security interests."</li><br/>
+ <li>Apple selectively compromises privacy and security interests when it is in Apple's financial interest. The examples used here include the lack of end-to-end encryption between Android and &zwnj;iPhone&zwnj; messages and the making Google the default browser engine when "more private options" are available.</li><br/>
+ <li>The safe, secure experience on Mac is evidence that Apple's control over app distribution and creation is "substantially more restrictive than necessary to protect user privacy and security."</li><br/>
+ <li>Apple makes the &zwnj;iPhone&zwnj; less secure if that helps it maintain monopoly power. The DoJ cites unencrypted text messages sent from iPhones to Android phones as an example. "If Apple wanted to," it could let &zwnj;iPhone&zwnj; users send encrypted messages to Android users.</li><br/>
+</ul><br/>
+<br/>
+<h3 id="the_app_store">The App Store</h3><br/>
+The DoJ mentions Apple's &zwnj;App Store&zwnj; policies and fees, but it is not the main focus of the lawsuit. While the DoJ was preparing its case, the Apple vs. <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a> lawsuit took place, and Apple was found not to have a mobile gaming monopoly. That undoubtedly influenced the DoJ filing, but there is wording here<br/>
+<ul><br/>
+ <li>Apple uses &zwnj;App Store&zwnj; rules to "extract monopoly rents" from third-party developers.</li><br/>
+ <li>Apple prohibits the creation and use of alternative app stores, and has arbitrary enforcement of its own &zwnj;App Store&zwnj; rules.</li><br/>
+ <li>Developers are not able to offer web apps as an alternative to &zwnj;App Store&zwnj; apps because &zwnj;iPhone&zwnj; users "do not look for or know how to find web apps."</li><br/>
+ <li>Apple uses &zwnj;App Store&zwnj; rules and restrictions to penalize and restrict developers that threaten its monopoly. It does allow apps to use private APIs, and requires web browsers to use WebKit.</li><br/>
+ <li>Apple's efforts to restrict super apps and cloud streaming apps may have slowed the development of innovative apps related to education, artificial intelligence, and productivity. It has also kept app developers for creating features prohibited by Apple on other platforms.</li><br/>
+</ul><br/>
+<br/>
+<h3 id="iphone_cost_and_development">iPhone Cost and Development</h3><br/>
+<ul><br/>
+ <li>Apple inflates the price for buying and using iPhones.</li><br/>
+ <li>Apple spent more than twice as much on stock buybacks and dividends as it did on research and development (&#36;30B vs. &#36;77B in fiscal 2023).</li><br/>
+ <li>Apple slowed down innovation on &zwnj;iPhone&zwnj; to extract revenue from customers using subscriptions and cloud services.</li><br/>
+ <li>Powerful, expensive hardware is unnecessary if consumers can play games through cloud streaming apps.</li><br/>
+</ul><br/>
+<h3 id="services">Services</h3><br/>
+<ul><br/>
+ <li>Apple's subscription services increase the cost of switching from the &zwnj;iPhone&zwnj; to another smartphone. The DoJ references <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>, Apple's cloud storage, and <a href="https://www.macrumors.com/guide/apple-news-plus/">Apple News</a>+ because these are exclusive to the &zwnj;iPhone&zwnj;. This results in "significant frictions" for &zwnj;iPhone&zwnj; users who want to switch.</li><br/>
+ <li>Apple uses its "rapidly expanding" role as a TV and movie producer to control content and affect the "flow of speech."</li><br/>
+</ul><br/>
+<h3 id="green_bubbles_and_imessage">"Green Bubbles" and iMessage</h3><br/>
+<ul><br/>
+ <li>By using green bubbles, Apple "signals to users" that rival smartphones are lower quality because the experience of messaging non-iPhone users is worse. The DoJ says this is because conversations are not encrypted, videos are grainy, and users cannot edit messages or see typing indicators.</li><br/>
+ <li>Non-iPhone users experience "social stigma, exclusion, and blame" for "breaking" chats with where other participants own iPhones. This is "particularly powerful" for teenagers, and "social pressure" causes teens to switch to &zwnj;iPhone&zwnj;.</li><br/>
+ <li>While the DoJ's comments on messaging largely ignore that Apple plans to bring feature parity with &zwnj;RCS&zwnj;, it says that won't be enough because third-party apps still won't be able to be set as the default app for SMS/&zwnj;RCS&zwnj; messages.</li><br/>
+ <li>The DoJ speculates that because &zwnj;RCS&zwnj; improves over time, Apple might not support later versions of &zwnj;RCS&zwnj;, so cross-platform messages "could soon be broken on iPhones" after Apple adds &zwnj;RCS&zwnj; support later in 2024.</li><br/>
+ <li>The DoJ <a href="https://www.macrumors.com/2023/12/10/apple-confirms-it-shut-down-beeper-mini/">references Beeper Mini</a>, an app that gained access to Apple's iMessage servers by exploiting fake credentials. The DoJ claims that it was a solution that "fixed" the broken cross-platform messaging experience. Apple made &zwnj;iPhone&zwnj; users less secure because it also supported end-to-end encryption.</li><br/>
+</ul><br/>
+<br/>
+<h3 id="carplay">CarPlay</h3><br/>
+<ul><br/>
+ <li>Apple's next-generation <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a> forces an iPhone-centric experience by taking over "all of the screens, sensors, and gauges" in a car in order to use &zwnj;CarPlay&zwnj; features. The DoJ suggests Apple is leveraging the &zwnj;iPhone&zwnj; user base to exert power over American carmakers and restrict innovation, but Apple has so far not seen a lot of traction with &zwnj;CarPlay&zwnj; 2 and many car makers, such as Tesla and GM, are opting out of &zwnj;CarPlay&zwnj;.</li><br/>
+</ul><br/>
+<br/>
+<h3 id="competitors">Competitors</h3><br/>
+<ul><br/>
+ <li>The DoJ claims that Apple is the reason that only Google and Samsung remain as meaningful competitors in the premium smartphone market.</li><br/>
+ <li>The DoJ blames Apple's market dominance for failed smartphones that include the Amazon Fire Phone and the Microsoft Windows Phone.</li><br/>
+</ul><br/>
+<br/>
+<h3 id="other_doj_claims">Other DoJ Claims</h3><br/>
+<ul><br/>
+ <li>The iPod was successful because of the DoJ's antitrust case against Microsoft because it allowed Apple to launch iTunes on Windows PCs. "Microsoft did not charge Apple a 30 percent fee for each song downloaded from the iTunes Store."</li><br/>
+ <li>The DoJ holds itself responsible for Apple's success. U.S. vs. Microsoft "created new opportunities for innovation," and without this case, Apple would have had more difficulty achieving success with the iPod and the subsequent &zwnj;iPhone&zwnj;.</li><br/>
+ <li>Apple made smartphones other than the &zwnj;iPhone&zwnj; worse by stifling the growth of cloud gaming apps and interactive AI services.</li><br/>
+ <li>The DoJ says that Apple copied the idea of a smartwatch from third-party developers.</li><br/>
+ <li>The DoJ warns that Apple may "use its power to force its own users (and their data to become its next profitable product."</li><br/>
+</ul><br/>
+<br/>
+<h2 id="dojs_market_definition">DoJ's Market Definition</h2><br/>
+The DoJ suggests that Apple violated Section 2 of the Sherman Act, which says that it is illegal to acquire or maintain monopoly power "through improper means." To make this argument, the DoJ needs to prove that Apple is a monopoly power in a relevant market, and that Apple used anticompetitive conduct to achieve and maintain that monopoly.<br/>
+<br/>
+Sherman Act claims failed in Epic vs. Apple because &zwnj;Epic Games&zwnj; was not successful narrowing down the defined market in which Apple had a supposed monopoly. &zwnj;Epic Games&zwnj; argued that the relevant market was apps on Apple devices, but the court decided it was all digital mobile gaming transactions. Apple was not found to have a monopoly.<br/>
+<br/>
+The DoJ is also using a narrowed market definition that may not hold up. It has created a "performance smartphone market" defined as a "more expensive segment of the broader smartphone market." In this "performance market," Apple's U.S. market share by revenue is over 70 percent. In the "broader smartphone market" in the U.S., Apple has a 65 percent share.<br/>
+<br/>
+It could be tough for the DoJ to prove that Apple has a monopoly with only a 65 percent share of the market. 70 percent market share is a more solid argument for a monopoly, but the case against Apple won't be as strong as the case against Google. Google, for example, has a 90 percent share of the search engine market.<br/>
+<br/>
+Apple claims that it operates in a global market, and that the market share that should be considered is the global market share. Apple only has around a 20 percent cut of the global market.<br/>
+<br/>
+The DoJ also argues that Apple has a larger share "among key demographics" such as higher-income households and among young people.<br/>
+<br/>
+<h2 id="what_the_doj_wants">What the DoJ Wants</h2><br/>
+The DoJ wants the court to find that Apple has acted unlawfully to monopolize or attempt to monopolize the U.S. smartphone market. It has asked for "relief as needed" to address anticompetitive harm and restore competitive conditions, and a ruling that prevents Apple from continuing to engage in anticompetitive practices.<br/>
+<br/>
+According to the DoJ, Apple should be prevented from using its control of app distribution to undermine cross-platform technologies, that it should not be able to use private APIs to undermine cross-platform technologies like messaging and smartwatches, and that Apple should be prevented from using the terms and conditions of its contracts with developers, consumers, and accessory makers to maintain a monopoly.<br/>
+<br/>
+<h2 id="apples_response">Apple's Response</h2><br/>
+Apple has an official statement on the DoJ's lawsuit:<blockquote>At Apple, we innovate every day to make technology people love--designing products that work seamlessly together, protect people's privacy and security, and create a magical experience for our users. This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets. If successful, it would hinder our ability to create the kind of technology people expect from Apple--where hardware, software, and services intersect. It would also set a dangerous precedent, empowering government to take a heavy hand in designing people's technology. We believe this lawsuit is wrong on the facts and the law, and we will vigorously defend against it.</blockquote><br/>
+Apple has also held media briefings and shared information on key facts in the lawsuit. Some highlights:<br/>
+<ul><br/>
+ <li>The DoJ has changed the scope of its case six times due to the results in &zwnj;Epic Games&zwnj; v. Apple and other lawsuits. Several theories were considered and had to be abandoned because of a lack of evidence.</li><br/>
+ <li>Apple says that the lawsuit won't be successful because it does not get the facts right. It would set a dangerous precedent for government interference in technology, and would make the &zwnj;iPhone&zwnj; less private, less secure, and more vulnerable to malware. The &zwnj;iPhone&zwnj; would not be able to operate as well with other Apple products, and user information would be put at risk.</li><br/>
+ <li>Apple claims the DoJ wants to turn the &zwnj;iPhone&zwnj; into an Android, and that the case goes after the key features that make the &zwnj;iPhone&zwnj; experience unique.</li><br/>
+ <li>Apple does not believe the lawsuit has a basis in antitrust law and seems to be suggesting that Apple has an obligation to design its products in a way that would help competitors.</li><br/>
+ <li>In a recent ruling in the AliveCor v. Apple dispute, the court said that it cannot oversee technology and innovation, and it is not for the court to analyze algorithms.</li><br/>
+ <li>The DoJ ignored changes to streaming game apps and plans to implement &zwnj;RCS&zwnj;, and Apple says that super apps have always been permitted.</li><br/>
+ <li>Apple claims the DoJ is trying to fit Apple into the theories that were successful in the antitrust case against Microsoft 20 years back, but Apple does not agree with the parallels. Microsoft had a 95 percent share of the market, and Apple says that business decisions are made to provide consumers with maximum privacy and safety.</li><br/>
+ <li>Apple says the DoJ misses that customers are loyal because they are satisfied with their devices and love Apple products.</li><br/>
+ <li>Apple claims it spent three years looking at whether it made sense to make an Apple Watch for Android, but ultimately chose not to make one because it would be inferior and would have limits impacting privacy and security.</li><br/>
+ <li>iMessage has not been designed for other platforms because Apple doesn't have a way to verify that a third-party device has encryption and authentication procedures that meet its standards, and that security issues on third-party devices could expose the content of &zwnj;iPhone&zwnj; users' messages, leading to fraud and spam issues.</li><br/>
+</ul><br/>
+<br/>
+<h2 id="read_the_full_lawsuit">Read the Full Lawsuit</h2><br/>
+<div class="center-wrap"><iframe class="scribd_iframe_embed" title="United States et al v Apple Inc" src="https://www.scribd.com/embeds/717095810/content?start_page=1&view_mode=scroll&access_key=key-FCk4OGhTWJoCqsIVOd5Y" tabindex="0" data-auto-height="true" data-aspect-ratio="0.7729220222793488" scrolling="no" width="100%" height="600" frameborder="0"></iframe></div><br/>
+<br/>
+<h2 id="whats_next">What's Next</h2><br/>
+Now that the DoJ has filed a lawsuit, Apple will have a 60-day period to respond. Apple plans to move to dismiss the complaint.<br/>
+<br/>
+If that doesn't happen, the case will move forward. There will be briefings, hearings, and a discovery period. It will be a few months before there are additional filings, and the entire legal process will span for multiple years. Apple says that it plans to vigorously fight the case.<br/>
+<br/>
+Should the judge assigned to the case rule in the DoJ's favor, there will be appeals and then remedies for the anticompetitive behavior will need to be determined.<br/>This article, &quot;<a href="https://www.macrumors.com/guide/apple-vs-doj/">Apple vs. the U.S. Department of Justice: What You Need to Know</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vs-the-u-s-department-of-justice-what-you-need-to-know.2422813/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 16 Pro&#039;s A18 Pro Chip Rumored to Boost AI, Retain 6-Core GPU</title>
+		<link>https://www.macrumors.com/2024/03/25/iphone-16-pro-a18-pro-chip-details/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-16-pros-a18-pro-chip-rumored-to-boost-ai-retain-6-core-gpu.2422808/</comments>
+		<pubDate>Mon, 25 Mar 2024 15:47:21 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/25/iphone-16-pro-a18-pro-chip-details/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iPhone 16 Pro</category>
+		<category>Jeff Pu</category>
+		
+
+		<description><![CDATA[Apple's next-generation <a href="https://www.macrumors.com/2023/09/27/iphone-16-lineup-a18-a18-pro-chips-analyst-says/">A18 Pro chip</a> for iPhone 16 Pro models will feature a larger die size for boosted artificial intelligence performance, according to Jeff Pu, an investment analyst who covers companies within Apple's supply chain.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-16-Side-Feature.jpg" alt="" width="3532" height="1986" class="aligncenter size-full wp-image-913689" /><br/>
+In a research note with Hong Kong-based investment firm Haitong International Securities this week, Pu added that the A18 Pro chip will be equipped with a 6-core GPU, which would be equal to the A17 Pro chip in iPhone 15 Pro models.<br/>
+<br/>
+<h2>Generative AI</h2><br/>
+iOS 18 is <a href="https://www.macrumors.com/2024/02/16/ios-18-slew-of-new-ai-features/">rumored to include new generative AI features</a> for a range of iPhone features and apps, including Siri, Spotlight, Apple Music, Health, Messages, Numbers, Pages, Keynote, Shortcuts, and more. Apple has reportedly considered partnering with companies <a href="https://www.macrumors.com/2024/03/22/apple-generative-ai-google-openai-baidu/">such as Google, OpenAI, and Baidu</a> for at least some of these features.<br/>
+<br/>
+iPhone 16 Pro models are rumored to feature an <a href="https://www.macrumors.com/2024/02/14/iphone-16-upgraded-neural-engine-rumor/">upgraded Neural Engine</a> with "significantly" more cores, which could result in some of iOS 18's generative AI features being exclusive to those models. Pu previously said the larger die size would be related to the Neural Engine, which could power on-device generative AI features.<br/>
+<br/>
+Apple has used a 16-core Neural Engine since the iPhone 12 series. However, it has still improved the Neural Engine's performance over the years, even when core counts have not changed. For example, Apple says the A17 Pro chip has up to a 2x faster Neural Engine compared to the one in the iPhone 14 Pro's A16 Bionic chip.<br/>
+<br/>
+Apple has promised to make generative AI announcements <a href="https://www.macrumors.com/2024/02/01/apple-ai-details-coming-later-this-year/">later this year</a>. iOS 18 will be previewed at Apple's developers conference <a href="https://www.macrumors.com/roundup/wwdc/">WWDC</a> in June, so we're just a few months away from learning about the company's plans.<br/>
+<br/>
+<h2>6-Core GPU</h2><br/>
+With the A17 Pro chip, iPhone 15 Pro models have significantly improved graphics capabilities compared to previous models. Apple said the new 6-core GPU is up to 20% faster and also more power efficient than the 5-core GPU in the A16 Bionic chip. iPhone 15 Pro models also support hardware-accelerated ray tracing and mesh shading for improved graphics rendering, which results in more realistic graphics in games.<br/>
+<br/>
+Pu believes Apple will stick with a 6-core GPU for the A18 Pro chip, so graphics improvements may be more limited for iPhone 16 Pro models this year.<br/>
+<br/>
+<h2>Wrap Up</h2><br/>
+Apple is expected to announce the iPhone 16 series in September. For more details, read our <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> and <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro roundups</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/jeff-pu/">Jeff Pu</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/25/iphone-16-pro-a18-pro-chip-details/">iPhone 16 Pro&#039;s A18 Pro Chip Rumored to Boost AI, Retain 6-Core GPU</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-pros-a18-pro-chip-rumored-to-boost-ai-retain-6-core-gpu.2422808/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Update Your iPhone Now: iOS 17.4.1 Includes These Security Fixes</title>
+		<link>https://www.macrumors.com/2024/03/25/ios-17-4-1-security-fix-notes/</link>
+		<comments>https://forums.macrumors.com/threads/update-your-iphone-now-ios-17-4-1-includes-these-security-fixes.2422792/</comments>
+		<pubDate>Mon, 25 Mar 2024 13:36:27 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/25/ios-17-4-1-security-fix-notes/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today provided details about the security fixes</a> included in last week's <a href="https://www.macrumors.com/2024/03/21/apple-releases-ios-17-4-1/">iOS 17.4.1 and iPadOS 17.4.1 software updates</a> for the iPhone and iPad.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.4.1-Includes-These-Security-Fixes-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-943212" /><br/>
+In a <a href="https://support.apple.com/en-us/HT214097">support document</a>, Apple said the updates patch an image-related security vulnerability that "may lead to arbitrary code execution."<br/>
+<br/>
+The full details:<blockquote><strong>CoreMedia</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: Processing an image may lead to arbitrary code execution<br/>
+<br/>
+Description: An out-of-bounds write issue was addressed with improved input validation.<br/>
+<br/>
+CVE-2024-1580: Nick Galloway of Google Project Zero<br/>
+<br/>
+<strong>WebRTC</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: Processing an image may lead to arbitrary code execution<br/>
+<br/>
+Description: An out-of-bounds write issue was addressed with improved input validation.<br/>
+<br/>
+CVE-2024-1580: Nick Galloway of Google Project Zero</blockquote>To update your iPhone or iPad, open the Settings app and tap General → Software Update.<br/>
+<br/>
+Apple said it has patched the same vulnerability in <a href="https://support.apple.com/kb/HT214096">macOS 14.4.1</a> and <a href="https://support.apple.com/kb/HT214093">visionOS 1.1.1</a> as well.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/25/ios-17-4-1-security-fix-notes/">Update Your iPhone Now: iOS 17.4.1 Includes These Security Fixes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/update-your-iphone-now-ios-17-4-1-includes-these-security-fixes.2422792/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Outlines &#039;Reasons to Upgrade&#039; Your iPhone on New Website</title>
@@ -528,140 +740,6 @@ The business card is from 1983, and it has been authenticated by well-known memo
 RR Auction believes this sale has set a new record-high price for a signed business card.<br/>
 <br/>
 Jobs passed away in 2011 at the age of 56. Throughout his career, he was reluctant to sign autographs, so items with his signature on them often sell for large sums of money. Last year, for example, a check signed by Jobs <a href="https://www.macrumors.com/2023/05/11/steve-jobs-check-100k-auction/">sold for over &#36;100,000 at auction</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/steve-jobs/">Steve Jobs</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/22/steve-jobs-signed-business-card-auction/">Steve Jobs Signed Business Card Fetches Over &#36;180,000 at Auction</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/steve-jobs-signed-business-card-fetches-over-180-000-at-auction.2422557/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The MacRumors Show: Apple&#039;s Four Upcoming AirPods Models</title>
-		<link>https://www.macrumors.com/2024/03/22/the-macrumors-show-four-new-airpods/</link>
-		<comments>https://forums.macrumors.com/threads/the-macrumors-show-apples-four-upcoming-airpods-models.2422553/</comments>
-		<pubDate>Fri, 22 Mar 2024 09:03:14 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/22/the-macrumors-show-four-new-airpods/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>The MacRumors Show</category>
-		
-
-		<description><![CDATA[On this week's episode of <a href="https://podcasts.apple.com/podcast/apples-four-new-airpods-models-coming-soon/id1602394741?i=1000650131936">The MacRumors Show</a>, we discuss Apple's rumored plan to refresh the entire AirPods lineup with a series of new models. <br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/9iStGe7ItWM?si=PFQjoZlYbtHwdZan" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1">Subscribe to The MacRumors Show YouTube channel</a> for more videos</em></div><br/>
-The fourth-generation AirPods will reportedly feature a new design with a better fit, improved sound quality, and an updated charging case with a USB-C port. For the first time ever, Apple is also apparently planning to offer a higher-end version of the AirPods with active noise cancelation and a speaker in the charging case to play a sound for easy location via <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a>.<br/>
-<br/>
-The second-generation <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a> are expected to be a minor refresh, simply swapping the Lightning port of the current model for USB-C and adding Bluetooth 5.3 support. New color options are also a possibility, but it looks like Apple's most premium audio device will continue to miss out on the H2 chip, Adaptive Audio, improved Active Noise Cancellation, skin-detect sensors, sweat and water resistance, the ultra wideband chip, Precision Finding, and support for additional charging methods. <br/>
-<br/>
-Both the fourth-generation AirPods and the second-generation &zwnj;AirPods Max&zwnj; are expected to launch in late 2024. Further in the future, Apple is expected to launch the third-generation <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> with an updated design that is focused on improved comfort and a faster chip.<br/>
-<br/>
-<a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a> is now on <a href="https://www.youtube.com/@themacrumorsshow">its own YouTube channel</a>, so make sure you're subscribed to keep up with new episodes and clips going forward:<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1"><div class="fancybutton">Subscribe to <em>The MacRumors Show</em> YouTube channel!</div></a></div><br/>
-<br/>
-You can also listen to &zwnj;The MacRumors Show&zwnj; on <a href="https://podcasts.apple.com/podcast/id1602394741">Apple Podcasts</a>, <a href="https://open.spotify.com/show/41XOHIA6w8IxAKJZvrnx90">Spotify</a>, <a href="https://overcast.fm/itunes1602394741">Overcast</a>, or your preferred podcasts app. You can also <a href="https://audioboom.com/channels/5096144.rss">copy our RSS feed</a> directly into your podcast player.<br/>
-<br/>
-<div class="center-wrap"><iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/the-macrumors-show/id1602394741?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe></div><br/>
-If you haven't already listened to the <a href="https://www.macrumors.com/2024/03/15/the-macrumors-show-new-ipad-air-upgrade/">previous episode of The MacRumors Show</a>, catch up for our discussion about Apple's upcoming <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> models, which are expected to be announced in just a matter of weeks. <br/>
-<br/>
-Subscribe to &zwnj;The MacRumors Show&zwnj; for new episodes every week, where we discuss some of the topical news breaking here on <em>MacRumors</em>, often joined by interesting guests such as <a href="https://www.macrumors.com/2024/02/23/the-macrumors-show-brian-tong-vision-pro/">Brian Tong</a>, <a href="https://www.macrumors.com/2024/02/09/the-macrumors-show-one-week-with-vision-pro/">Quinn Nelson</a>, <a href="https://www.macrumors.com/2023/11/24/the-macrumors-show-kevin-nether-talks-iphone-16/">Kevin Nether</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Jared Nelson</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Eli Hodapp</a>, <a href="https://www.macrumors.com/2023/10/20/the-macrumors-show-luke-miani-talks-future-of-ipad/">Luke Miani</a>, <a href="https://www.macrumors.com/2023/10/13/the-macrumors-show-former-apple-executive-mike-bell/">Mike Bell</a>, <a href="https://www.macrumors.com/2023/10/06/the-macrumors-show-sara-dietschy-apple-accessories/">Sara Dietschy</a>, <a href="https://www.macrumors.com/2023/09/15/the-macrumors-show-ijustine-talks-iphone-15/">iJustine</a>, <a href="https://www.macrumors.com/2023/08/25/the-macrumors-show-iphone-15-jon-rettinger/">Jon Rettinger</a>, <a href="https://www.macrumors.com/2023/02/10/the-macrumors-show-andru-edwards-iphone-ultra/">Andru Edwards</a>, <a href="https://www.macrumors.com/2023/05/26/the-macrumors-show-arnold-kim/">Arnold Kim</a>, <a href="https://www.macrumors.com/2023/05/19/the-macrumors-show-ben-sullins-apple-car/">Ben Sullins</a>, <a href="https://www.macrumors.com/2023/04/07/the-macrumors-show-marcus-kane-headset-design/">Marcus Kane</a>, <a href="https://www.macrumors.com/2023/03/24/the-macrumors-show-christopher-lawley-talks-ipados/">Christopher Lawley</a>, <a href="https://www.macrumors.com/2023/03/10/the-macrumors-show-frank-mcshan-yellow-iphone-14/">Frank McShan</a>, <a href="https://www.macrumors.com/2023/02/24/the-macrumors-show-david-lewis-talks-apple-audio/">David Lewis</a>, <a href="https://www.macrumors.com/2023/01/27/the-macrumors-show-tyler-stalman-new-macs/">Tyler Stalman</a>, <a href="https://www.macrumors.com/2022/12/23/the-macrumors-show-apple-2022-jon-prosser-sam-kohl/">Jon Prosser</a>, <a href="https://www.macrumors.com/2022/09/02/the-macrumors-show-apple-event-expectations/">Sam Kohl</a>, <a href="https://www.macrumors.com/2022/11/09/the-macrumors-show-john-gruber-talks-macos-ventura/">John Gruber</a>, <a href="https://www.macrumors.com/2022/10/28/the-macrumors-show-ipados-16-ft-federico-viticci/">Federico Viticci</a>, <a href="https://www.macrumors.com/2022/08/26/the-macrumors-show-thomas-frank-talks-productivity/">Thomas Frank</a>, <a href="https://www.macrumors.com/2022/07/21/the-macrumors-show-jonathan-morrison/">Jonathan Morrison</a>, <a href="https://www.macrumors.com/2022/07/12/the-macrumors-show-ross-young/">Ross Young</a>, <a href="https://www.macrumors.com/2022/06/21/the-macrumors-show-ian-zelbo/">Ian Zelbo</a>, and <a href="https://www.macrumors.com/2022/03/25/the-macrumors-show-rene-ritchie-talks-mac-studio/">Rene Ritchie</a>.<br/>
-<br/>
-&zwnj;The MacRumors Show&zwnj; is on X <a href="https://twitter.com/macrumorsshow">@MacRumorsShow</a><a href="https://twitter.com/macrumorsshow"></a>, so be sure to give us a follow to keep up with the podcast. You can also head over to <a href="https://forums.macrumors.com/threads/the-macrumors-show-discussion-thread.2383023/">The MacRumors Show</a> forum thread to engage with us directly. Remember to rate and review the podcast, and let us know what subjects and guests you would like to see in the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/22/the-macrumors-show-four-new-airpods/">The MacRumors Show: Apple&#039;s Four Upcoming AirPods Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-macrumors-show-apples-four-upcoming-airpods-models.2422553/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Apple Deals of the Week: Amazon&#039;s Prime Day &#039;Big Spring Sale&#039; Ushers In Major Discounts on AirPods, M1 iMac, and More</title>
-		<link>https://www.macrumors.com/2024/03/22/best-apple-deals-of-the-week-3-22-24/</link>
-		<comments>https://forums.macrumors.com/threads/best-apple-deals-of-the-week-amazons-prime-day-big-spring-sale-ushers-in-major-discounts-on-airpods-m1-imac-and-more.2422547/</comments>
-		<pubDate>Fri, 22 Mar 2024 07:58:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/22/best-apple-deals-of-the-week-3-22-24/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[You'll find most of this week's best deals at Amazon thanks to its new Big Spring Sale, including low prices on the AirPods Pro 2 with USB-C and M1 iMacs. There are also notable discounts on Anker and Jackery accessories during this event.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/best-apple-deals-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-942642" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2>Amazon's Big Spring Sale</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/03/Amazons-Big-Spring-Sale04.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-942242" /><br/>
-<ul><li><strong>What's the deal?</strong> Save sitewide during this Springtime Prime Day</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fevents%2Fbigspringsale%2F%3F_encoding%3DUTF8%26pd_rd_w%3DurmHl%26content-id%3Damzn1.sym.6776e672-6a82-4766-9fe9-bd329e7e4096%26pf_rd_p%3D6776e672-6a82-4766-9fe9-bd329e7e4096%26pf_rd_r%3D8TV83XNJ1Y2849SC9MMD%26pd_rd_wg%3Dyuc7v%26pd_rd_r%3Dbb4d17d2-52a8-4e26-bfab-5af463fe1948">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/03/20/amazons-big-spring-sale/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fevents%2Fbigspringsale%2F%3F_encoding%3DUTF8%26pd_rd_w%3DurmHl%26content-id%3Damzn1.sym.6776e672-6a82-4766-9fe9-bd329e7e4096%26pf_rd_p%3D6776e672-6a82-4766-9fe9-bd329e7e4096%26pf_rd_r%3D8TV83XNJ1Y2849SC9MMD%26pd_rd_wg%3Dyuc7v%26pd_rd_r%3Dbb4d17d2-52a8-4e26-bfab-5af463fe1948"target="_blank"><div class="fancybutton"><div class="fancybadge">SITEWIDE DEALS</div>Amazon's Big Spring Sale</div></a></div><br/>
-<br/>
-Amazon this week kicked off the "Big Spring Sale," which is set to run all weekend and end on Monday, March 25. Similar to past Prime Days, there are hundreds of deals to be discovered during this sitewide event, and many of the deals we're highlighting in this post are from the Big Spring Sale. For more specific information, you can check out our <a href="https://www.macrumors.com/2024/03/20/amazons-big-spring-sale/">original post</a>.<br/>
-<br/>
-<h2>AirPods Pro 2</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/03/airpods-pro-2-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-942647" /><br/>
-<ul><li><strong>What's the deal?</strong> Get &#36;60 off AirPods Pro 2 with USB-C</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/03/21/airpods-pro-2-new-low-price/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>AirPods Pro 2 with USB-C for &#36;189.00</div></a></div><br/>
-<br/>
-Amazon has Apple's AirPods Pro 2 with USB-C for &#36;189.00 during the Big Spring Sale, which is now a solid second-best price on the headphones. This model was briefly available for &#36;179.99 this week, and it's possible that price could come back before the event ends on Monday.<br/>
-<br/>
-<h2>Jackery</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/03/jackery-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-942646" /><br/>
-<ul><li><strong>What's the deal?</strong> Get low prices on Jackery products</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/03/18/anker-and-jackery-discounts/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>Jackery Explorer 100 Plus for &#36;99.99</div></a></div><br/>
-<br/>
-Another set of deals you can find during the Amazon Big Spring Sale are discounts on Jackery power stations, starting at just &#36;99.99 for the Explorer 100 Plus Portable Power Station. You can find the full list of Jackery devices on sale below.<br/>
-<br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Explorer 100 Plus Portable Power Station</a> - &#36;99.99, down from &#36;149.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CGZW67B6%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.2D47DQD1FRWW3%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.2D47DQD1FRWW3_1710770158851">Solar Generator 300 Plus Portable Power Station</a> - &#36;449.00 with on-page coupon, down from &#36;579.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CFVCRJVL%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3IF0PS8UT4GJ7%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3IF0PS8UT4GJ7_1710770002372">Expansion Battery Pack for 1000 Plus</a> - &#36;698.99, down from &#36;799.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8ZLZ53M%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3S52LG1288F1D%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3S52LG1288F1D_1710770092703">Explorer 2000 Pro Portable Power Station</a> - &#36;1,199.00, down from &#36;1,899.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6DL1VPD%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1QELY4DYBF6HU%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1QELY4DYBF6HU_1710770037246">Expansion Battery Pack for 2000 Plus</a> - &#36;1,199.00 with on-page coupon, down from &#36;1,599.00</li></ul><br/>
-<br/>
-<h2>Anker</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/03/anker-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-942645" /><br/>
-<ul><li><strong>What's the deal?</strong> Save on Anker portable speakers, batteries, and more</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BXW5JQ21%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1632VO3MVFX5T%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1632VO3MVFX5T_1710770307988">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/03/18/anker-and-jackery-discounts/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CDJWTWMB%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3NUAPVI1RMDMY%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3NUAPVI1RMDMY_1710770269976"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;16 OFF</div>Soundcore Motion 300 Wireless Bluetooth Speaker for &#36;63.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BXW5JQ21%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1632VO3MVFX5T%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1632VO3MVFX5T_1710770307988"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>Soundcore Motion X600 Wireless Bluetooth Speaker for &#36;149.98</div></a></div><br/>
-<br/>
-In addition to all of the Jackery deals, you can still find quite a few Anker markdowns on Amazon right now. We've highlighted some of the best sales below, but be sure to read our <a href="https://www.macrumors.com/2024/03/18/anker-and-jackery-discounts/">original article</a> for all of the best discounts.<br/>
-<br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV66XQ66">Nano Portable Charger with Built-In Lightning Connector</a> - &#36;18.99, down from &#36;29.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C9D7R1B6%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3IQ1Y7SBOA6VQ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3IQ1Y7SBOA6VQ_1704725913103">Nano Power Bank with Built-In USB-C Cable</a> - &#36;34.99 with a Prime membership, down from &#36;49.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BYP45YVF%2Fref%3Dox_sc_act_title_1%3Fsmid%3DA294P4X9EWVXLJ%26psc%3D1">Prime Power Bank 20,000 mAh with 100W Charging Base</a> - &#36;157.24 with on-page coupon, down from &#36;184.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.ZX3GY19NGK88%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.ZX3GY19NGK88_1704725956687">Portable Power Station with Smart Display + Retractable Light</a> - &#36;109.99 with on-page coupon, down from &#36;149.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-A1770-Powerhouse%2Fdp%2FB099Z2RDS5%3Fref_%3Dast_sto_dp%26th%3D1">SOLIX F1200 Portable Power Station</a> - &#36;749.00 with on-page coupon, down from &#36;1,098.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-A1780-Power-Storage%2Fdp%2FB09XM7WDZ2%3Fref_%3Dast_sto_dp%26th%3D1">SOLIX F2000 Portable Power Station</a> - &#36;1,399.00 with on-page coupon, down from &#36;1,999.00</li></ul><br/>
-<br/>
-<h2>iMac</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/03/imac-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-942644" /><br/>
-<ul><li><strong>What's the deal?</strong> Take up to &#36;651 off M1 iMac</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0932G65T7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/03/19/apples-m1-imacs-discounts/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0932G65T7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;601 OFF</div>M1 iMac (256GB) for &#36;898.98</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0931VVFG5%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;651 OFF</div>M1 iMac (512GB) for &#36;1,048.97</div></a></div><br/>
-<br/>
-Expercom this week introduced steep discounts on the M1 24-inch iMac on Amazon, offering up to &#36;651 off select models. These deals are all-time low prices across the board and perfect for anyone who needs to upgrade from an Intel-based iMac and doesn't necessarily need the newest M3 models.<br/>
-<br/>
-Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/22/best-apple-deals-of-the-week-3-22-24/">Best Apple Deals of the Week: Amazon&#039;s Prime Day &#039;Big Spring Sale&#039; Ushers In Major Discounts on AirPods, M1 iMac, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-amazons-prime-day-big-spring-sale-ushers-in-major-discounts-on-airpods-m1-imac-and-more.2422547/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s Potential Partners for iOS 18 Generative AI Features Include Google, OpenAI, and Baidu</title>
-		<link>https://www.macrumors.com/2024/03/22/apple-generative-ai-google-openai-baidu/</link>
-		<comments>https://forums.macrumors.com/threads/apples-potential-partners-for-ios-18-generative-ai-features-include-google-openai-and-baidu.2422541/</comments>
-		<pubDate>Fri, 22 Mar 2024 06:55:37 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/22/apple-generative-ai-google-openai-baidu/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple has held discussions with Baidu about using the Chinese company's generative AI model to power some of the iPhone's rumored generative AI features, according to <a href="https://www.wsj.com/tech/apple-held-talks-with-chinas-baidu-over-ai-for-its-devices-76879b7f"><em>The Wall Street Journal</em></a>. As previously reported, Apple is also said to have held similar discussions <a href="https://www.macrumors.com/2024/03/21/apple-iphone-ai-talks-google-openai-ongoing/">with Google and OpenAI</a>, the company behind the popular ChatGPT chatbot.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iOS-18-Mock-Siri-Feature-Baubles.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-909208" /><br/>
-If these partnerships move forward, it is likely that Baidu would power some of Apple's generative AI features in China, while other companies like Google or OpenAI would serve as partners in the U.S. and other countries. China requires generative AI models to receive local regulatory approval, and Baidu's Ernie chatbot is on the approved list, but Google's Gemini and OpenAI's ChatGPT chatbots are not available in the country.<br/>
-<br/>
-Apple has repeatedly teased that it has generative AI announcements <a href="https://www.macrumors.com/2024/02/01/apple-ai-details-coming-later-this-year/">to share later this year</a>, and this likely refers to iOS 18. The software update is <a href="https://www.macrumors.com/2024/02/16/ios-18-slew-of-new-ai-features/">rumored to include new generative AI features</a> for a range of iPhone features and apps, including Siri, Spotlight, Apple Music, Health, Messages, Numbers, Pages, Keynote, Shortcuts, and more.<br/>
-<br/>
-iPhone 16 models are rumored to feature an <a href="https://www.macrumors.com/2024/02/14/iphone-16-upgraded-neural-engine-rumor/">upgraded Neural Engine</a> with "significantly" more cores, which could result in some of iOS 18's generative AI features being exclusive to those models. iPhone 15 models have a 16-core Neural Engine.<br/>
-<br/>
-iOS 18 will be previewed at Apple's developers conference <a href="https://www.macrumors.com/roundup/wwdc/">WWDC</a> in June, so we're just a few months away from learning about these generative AI plans.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/22/apple-generative-ai-google-openai-baidu/">Apple&#039;s Potential Partners for iOS 18 Generative AI Features Include Google, OpenAI, and Baidu</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-potential-partners-for-ios-18-generative-ai-features-include-google-openai-and-baidu.2422541/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
