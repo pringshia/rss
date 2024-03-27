@@ -14,12 +14,70 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 26 Mar 2024 13:02:51 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 26 Mar 2024 17:10:35 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Warning: Apple Users Targeted in Advanced Phishing Attack Involving Password Reset Requests</title>
+		<link>https://www.macrumors.com/2024/03/26/apple-password-reset-phishing-attack/</link>
+		<comments>https://forums.macrumors.com/threads/warning-apple-users-targeted-in-advanced-phishing-attack-involving-password-reset-requests.2422902/</comments>
+		<pubDate>Tue, 26 Mar 2024 16:34:28 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/26/apple-password-reset-phishing-attack/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Phishing attacks taking advantage of what appears to be a bug in Apple's password reset feature have become increasingly common, according to a report from <em><a href="https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/">KrebsOnSecurity</a></em>. Multiple Apple users users have been targeted in an attack that bombards them with an endless stream of notifications or multi-factor authentication (MFA) messages in an attempt to get them to approve an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> password change.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/reset-password-request-iphone.jpg" alt="" width="3617" height="2035" class="aligncenter size-full wp-image-943548" /><br/>
+An attacker is able to cause the target's <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, Apple Watch, or Mac to display system-level password change approval texts over and over again, with the hope that the person being targeted will mistakenly approve the request or get tired of the notifications and click on the accept button. If the request is approved, the attacker is able to change the &zwnj;Apple ID&zwnj; password and lock the Apple user out of their account.<br/>
+<br/>
+Because the password requests target the &zwnj;Apple ID&zwnj;, they pop up on all of a user's devices. The notifications render all linked Apple products unable to be used until the popups are dismissed one by one on each device. Twitter user Parth Patel recently <a href="https://twitter.com/parth220_/status/1771589789143478471">shared his experience</a> being targeted with the attack, and he says he could not use his devices until he clicked on "Don't Allow" for more than 100 notifications.<br/>
+<br/>
+When attackers are unable to get the person to click "Allow" on the password change notification, targets often get phone calls that seem to be coming from Apple. On these calls, the attacker claims to know that the victim is under attack, and attempts to get the one-time password that is sent to a user's phone number when attempting a password change.<br/>
+<br/>
+In Patel's case, the attacker was using information leaked from a people search website, which included name, current address, past address, and phone number, giving the person attempting to access his account ample information to work from. The attacker happened to have his name wrong, and he also became suspicious because he was asked for a one-time code that Apple explicitly sends with a message confirming that Apple does not ask for those codes.<br/>
+<br/>
+The attack seems to hinge on the perpetrator having access to the email address and phone number associated with an &zwnj;Apple ID&zwnj;. <br/>
+<br/>
+<em>KrebsOnSecurity</em> looked into the issue, and found that attackers appear to be using Apple's page for a forgotten &zwnj;Apple ID&zwnj; password. This page requires a user's &zwnj;Apple ID&zwnj; email or phone number, and it has a CAPTCHA. When an email address is put in, the page displays the last two digits of the phone number associated with the Apple account, and filing in the missing digits and hitting submit sends a system alert.<br/>
+<br/>
+It is not clear how the attackers are abusing the system to send multiple messages to Apple users, but it appears to be a bug that is being exploited. It is unlikely that Apple's system is meant to be able to be used to send more than 100 requests, so presumably the rate limit is being bypassed.<br/>
+<br/>
+Apple device owners targeted by this kind of attack should be sure to tap "Don't Allow" on all requests, and should be aware that Apple does not make phone calls requesting one-time password reset codes.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/26/apple-password-reset-phishing-attack/">Warning: Apple Users Targeted in Advanced Phishing Attack Involving Password Reset Requests</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/warning-apple-users-targeted-in-advanced-phishing-attack-involving-password-reset-requests.2422902/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Maps May Gain Custom Routes With iOS 18</title>
+		<link>https://www.macrumors.com/2024/03/26/apple-maps-custom-routes-ios-18/</link>
+		<comments>https://forums.macrumors.com/threads/apple-maps-may-gain-custom-routes-with-ios-18.2422896/</comments>
+		<pubDate>Tue, 26 Mar 2024 15:10:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/26/apple-maps-custom-routes-ios-18/</guid>
+		<dc:creator>Aaron Perris</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[Apple may be planning to add support for "custom routes" in <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, according to code reviewed by <em>MacRumors</em>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/03/apple-maps-3d-feature.jpg" alt="" width="1600" height="896" class="aligncenter size-full wp-image-841030" /><br/>
+&zwnj;Apple Maps&zwnj; does not currently offer a way to input self-selected routes, with Maps users limited to Apple's pre-selected options, but that may change in &zwnj;iOS 18&zwnj;. Apple has pushed an &zwnj;iOS 18&zwnj; file to its maps back-end labeled "CustomRouteCreation." While not much is revealed by the file except for the name, it does mention that this upcoming feature will be limited to the United States at launch.<br/>
+<br/>
+Custom routes would allow users to set what specific roads they want to travel down, whether for scenic purposes or for the familiarity of a route. Route options beyond the default have been a <a href="https://discussions.apple.com/thread/252235149">highly requested</a> &zwnj;Apple Maps&zwnj; feature for several years now, and other services like Google Maps allow users to create custom routes on a computer and then view them on an iOS device.<br/>
+<br/>
+&zwnj;iOS 18&zwnj; will be introduced at the Worldwide Developers Conference on Monday, June 10. For more details about the update, check out our <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18 roundup</a>.<br/>
+<br/>
+<em>(Thanks, <a href="https://twitter.com/nicolas09F9">Nicolás</a>!)</em><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/26/apple-maps-custom-routes-ios-18/">Apple Maps May Gain Custom Routes With iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-maps-may-gain-custom-routes-with-ios-18.2422896/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>WWDC 2024 Will Include In-Person Special Event at Apple Park</title>
@@ -180,6 +238,7 @@ In the &zwnj;WWDC 2024&zwnj; announcement, Apple said that developers can experi
 		<guid isPermaLink="false">https://www.macrumors.com/2024/03/26/apple-announces-wwdc-2024/</guid>
 		<dc:creator>Juli Clover</dc:creator>
 		<category>Featured</category>
+		<category>Featured (sticky)</category>
 		<category>WWDC</category>
 		
 
@@ -643,82 +702,6 @@ The site highlights differences in display technology, design, sizing, connectiv
 To further soften the costs of upgrading, Apple advertises <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a> Monthly Installments and carrier deals that can drop the price of the &zwnj;iPhone 15&zwnj; to &#36;0. Apple also details the ease of upgrading to a new device with features like Quick Start and eSIM.<br/>
 <br/>
 Much of the smartphone market in the United States is saturated, and there are few new customers for Apple. Upgraders are an important market segment, and Apple is continually seeking ways to get customers to regularly purchase new iPhones to maintain sales momentum.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/25/apple-why-upgrade-site/">Apple Outlines &#039;Reasons to Upgrade&#039; Your iPhone on New Website</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-outlines-reasons-to-upgrade-your-iphone-on-new-website.2422789/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases macOS Sonoma 14.4.1 With Fix for USB Hub Bug</title>
-		<link>https://www.macrumors.com/2024/03/25/apple-releases-macos-sonoma-14-4-1/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-macos-sonoma-14-4-1-with-fix-for-usb-hub-bug.2422775/</comments>
-		<pubDate>Mon, 25 Mar 2024 10:10:13 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/25/apple-releases-macos-sonoma-14-4-1/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sonoma</category>
-		
-
-		<description><![CDATA[Apple today released <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.4.1, a minor update for the &zwnj;macOS Sonoma&zwnj; operating system that launched last September. &zwnj;macOS Sonoma&zwnj; 14.4.1 comes three weeks after &zwnj;macOS Sonoma&zwnj; 14.4.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
-The ‌‌‌‌&zwnj;macOS Sonoma&zwnj;‌‌ 14.4‌.1 update can be downloaded for free on all eligible Macs using the Software Update section of System Settings. There's also a macOS 13.6.6 release for those who are still running macOS Ventura.<br/>
-<br/>
-According to Apple's release notes, the &zwnj;macOS Sonoma&zwnj; 14.4.1 update fixes an issue that could cause USB hubs connected to external displays not to be recognized. It also addresses an issue that could cause apps with Java to quit unexpectedly, and it fixes an issue that could cause Audio Unit plug-ins for professional music apps not to open.<br/>
-<br/>
-All three of these bugs are notable issues that Mac users <a href="https://www.macrumors.com/2024/03/18/do-not-update-macos-sonoma-14-4/">have been complaining about</a> since the launch of macOS 14.4. Oracle <a href="https://www.macrumors.com/2024/03/16/oracle-warns-about-macos-14-4-java-issues/">warned users about the Java issue</a> last week, letting customers know that Apple silicon Mac users relying on Java should hold off on updating to macOS 14.4 if possible, and there were a <a href="https://www.macrumors.com/2024/03/13/macos-sonoma-14-4-usb-hub-issues-reported/">number of reports about problems</a> with hubs and monitors from customers who had installed 14.4. <blockquote>This update provides bug fixes for your Mac, including:<br/>
-- USB hubs connected to external displays may not be recognized<br/>
-- Copy protected Audio Unit plug-ins designed for professional music apps may not open or pass validation<br/>
-- Apps that include Java may quit unexpectedly<br/>
-For information on the security content of Apple software updates, please visit this website: https://support.apple.com/kb/HT201222</blockquote>More on all of the features that are included in &zwnj;macOS Sonoma&zwnj; update <a href="https://www.macrumors.com/roundup/macos-sonoma/">can be found in our dedicated roundup</a>. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/25/apple-releases-macos-sonoma-14-4-1/">Apple Releases macOS Sonoma 14.4.1 With Fix for USB Hub Bug</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-macos-sonoma-14-4-1-with-fix-for-usb-hub-bug.2422775/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Buy&#039;s New Sitewide Sale Has Record Low Prices on iPads and MacBooks, Plus &#36;50 Off PlayStation 5</title>
-		<link>https://www.macrumors.com/2024/03/25/best-buys-sale-ipads-playstation/</link>
-		<comments>https://forums.macrumors.com/threads/best-buys-new-sitewide-sale-has-record-low-prices-on-ipads-and-macbooks-plus-50-off-playstation-5.2422771/</comments>
-		<pubDate>Mon, 25 Mar 2024 09:01:41 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/25/best-buys-sale-ipads-playstation/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Best Buy has kicked off the week with the introduction of a <a href="https://howl.me/clUjj1Kcba2">new sitewide sale</a> that includes big discounts on video game consoles, TVs, headphones, and Apple products. Specifically, you can find all-time low prices on the iPad Air and M2 MacBook Air during this event.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/best-buy-new-image.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-943156" /><em><small>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2>Video Games</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/03/ps5-blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-943158" /><br/>
-Sony's PlayStation 5 Slim console launched last November and Best Buy and other retailers have been hosting solid deals on the hardware for a few weeks now. At Best Buy, you can get the PS5 Slim (Disc Edition) Spider-Man 2 Bundle for <a href="https://howl.me/clUh1erQcL6"><strong>&#36;449.99</strong></a>, down from its launch price of &#36;499.99.<br/>
-<br/>
-The PS5 Slim (Digital Edition) Spider-Man 2 Bundle is available for <a href="https://howl.me/clUh0j2gc8v"><strong>&#36;399.99</strong></a>, down from &#36;449.99. Sony increased the price of the Digital Edition by &#36;50 at the launch of the new Slim consoles, so this deal effectively brings the price back down to the level of the original PS5 Digital Edition.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/clUh1erQcL6"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>PS5 Slim Spider-Man 2 Bundle for &#36;449.99</div></a></div><br/>
-<br/>
-Both bundles also include the Spider-Man 2 game as a digital download, which is an extra value worth &#36;69.99 when not on sale. You can also find video game gift cards on sale at Best Buy this week, as well as Nintendo Switch consoles and games.<br/>
-<br/>
-<ul><li><a href="https://howl.me/clUh0j2gc8v">PlayStation 5 Slim Console Digital Edition (Spider-Man 2 Bundle)</a> - &#36;399.99, down from &#36;449.99</li><br/>
-<li><a href="https://howl.me/clUh1erQcL6">PlayStation 5 Slim Console Disc Edition (Spider-Man 2 Bundle)</a> - &#36;449.99, down from &#36;499.99</li><br/>
-<li><a href="https://howl.me/clUh2IRVS3a">Gaming gift cards</a> - BOGO 15% off</li><br/>
-<li><a href="https://howl.me/clUh7fsEqDX">Nintendo Switch consoles</a> - Get up to &#36;30 off Geek Squad refurbished devices</li><br/>
-<li><a href="https://howl.me/clUh43zrxW5">Nintendo Switch games</a> - Get up to &#36;35 off popular titles</li></ul><h2>iPad Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/03/ipad-air-blue-new.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-940259" /><br/>
-Best Buy has every model of the 5th generation iPad Air on sale at an all-time low price right now, starting at <a href="https://howl.me/clxkYXiXGKb"><strong>&#36;449.99</strong></a> for the 64GB Wi-Fi tablet, down from &#36;599.00. These are &#36;150 off across the board, and also include best-ever prices on both cellular models.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/clxkYXiXGKb"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>64GB Wi-Fi iPad Air for &#36;449.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clxk0ZOm0OM"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>256GB Wi-Fi iPad Air for &#36;599.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clxk2jeyYSK"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>64GB Cellular iPad Air for &#36;599.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clxk2RAFUDo"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>256GB Cellular iPad Air for &#36;749.99</div></a></div><h2>iPad Mini</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/03/new-ipad-mini-blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-940258" /><br/>
-Best Buy has the 64GB Wi-Fi iPad mini 6 for <a href="https://howl.me/clEafckZntZ"><strong>&#36;399.99</strong></a> this week, down from &#36;499.00, and the 256GB Wi-Fi iPad mini is available for <a href="https://howl.me/clHYsjeNRxs"><strong>&#36;549.99</strong></a>, down from &#36;649.00. Both of these are solid second-best prices on the iPad mini 6.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/clEafckZntZ"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;99 OFF</div>64GB Wi-Fi iPad mini 6 for &#36;399.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clHYsjeNRxs"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;99 OFF</div>256GB Wi-Fi iPad mini 6 for &#36;549.99</div></a></div><h2>MacBook Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/03/new-macbook-air-blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-940257" /><br/>
-Best Buy has both the 13-inch and 15-inch M2 MacBook Air models on sale at all-time low prices right now. The steepest discounts can be found on the larger display model, with the 256GB M2 15-inch MacBook Air priced at <a href="https://howl.me/clwvUhPbHPL"><strong>&#36;999.00</strong></a>, down from &#36;1,299.00. You can also get the 512GB M2 model on sale at <a href="https://howl.me/clwvVizVdRk"><strong>&#36;1,199.00</strong></a>, down from &#36;1,499.00. <br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/clUiqmQewga"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>13-inch M2 MacBook Air (256GB) for &#36;899.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clUiqOThUJw"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>13-inch M2 MacBook Air (512GB) for &#36;1,099.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clwvUhPbHPL"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>15-inch M2 MacBook Air (256GB) for &#36;999.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clwvVizVdRk"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>15-inch M2 MacBook Air (512GB) for &#36;1,199.00</div></a></div> If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/25/best-buys-sale-ipads-playstation/">Best Buy&#039;s New Sitewide Sale Has Record Low Prices on iPads and MacBooks, Plus &#36;50 Off PlayStation 5</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-buys-new-sitewide-sale-has-record-low-prices-on-ipads-and-macbooks-plus-50-off-playstation-5.2422771/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
