@@ -14,12 +14,111 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 28 Mar 2024 05:04:56 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 28 Mar 2024 09:03:09 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>BlackBerry-Like &#039;Clicks&#039; Keyboard Shipping for More iPhone Models Soon</title>
+		<link>https://www.macrumors.com/2024/03/28/clicks-keyboard-shipping-soon-for-more-iphones/</link>
+		<comments>https://forums.macrumors.com/threads/blackberry-like-clicks-keyboard-shipping-for-more-iphone-models-soon.2423003/</comments>
+		<pubDate>Thu, 28 Mar 2024 07:37:16 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/28/clicks-keyboard-shipping-soon-for-more-iphones/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[The company behind the new <a href="https://www.clicks.tech/">"Clicks" physical keyboard</a> accessory for the iPhone says it will soon start shipping for a few more models.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/Clicks-Keyboard-iPhone-Yellow.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-943929" /><br/>
+In an email <a href="https://www.threads.net/@parkerortolani/post/C5CkLE-MjZv">shared by Parker Ortolani</a> on Threads this week, the company said the iPhone 15 Pro version of the keyboard will begin shipping to customers worldwide by April 15. And on the Clicks website, the iPhone 15 Pro Max and iPhone 14 Pro Max versions of the keyboard are estimated to ship by April 30 and in May, respectively.<br/>
+<br/>
+Clicks started shipping the iPhone 14 Pro version of the keyboard in February, and this is the only model that has arrived to customers so far. The keyboard was <a href="https://www.macrumors.com/2024/01/04/clicks-iphone-keyboard/">first announced in early January</a>, ahead of the annual CES tech conference.<br/>
+<br/>
+Inspired by the once-popular BlackBerry smartphone, Clicks is both a physical keyboard and a case for the iPhone. The keyboard connects to the iPhone's USB-C or Lightning port, and it features dedicated keys for emoji and dictation, backlit keys, and a pass-through charging port. Wireless charging is still supported through the case.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/Clicks-Keyboard-iPhone.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-943927" /><br/>
+One advantage of using a physical keyboard with an iPhone is a full-screen experience, as the on-screen keyboard does not appear. There are also keyboard shortcuts, such as CMD-H to return to the Home Screen and CMD-Space to open Spotlight.<br/>
+<br/>
+The obvious downsides of the keyboard are the added size and weight, but there is a niche market of physical keyboard fans who are willing to put up with these compromises to have an old-school BlackBerry-like typing experience.<br/>
+<br/>
+Clicks was co-founded by well-known tech personalities "MrMobile" and "CrackBerry Kevin." The keyboard starts at &#36;139 in the U.S., and it is offered in London Sky and BumbleBee color options. It has silicone on the front, and vegan leather on the back. The keyboard is currently sold out, with the company <a href="https://www.clicks.tech/product/clicks-for-iphone">accepting reservations</a> for future availability.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/28/clicks-keyboard-shipping-soon-for-more-iphones/">BlackBerry-Like &#039;Clicks&#039; Keyboard Shipping for More iPhone Models Soon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/blackberry-like-clicks-keyboard-shipping-for-more-iphone-models-soon.2423003/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>M3 Max Chip Has Hidden Change That Could Affect Future &#039;M3 Ultra&#039; Chip</title>
+		<link>https://www.macrumors.com/2024/03/28/m3-max-chip-hidden-change/</link>
+		<comments>https://forums.macrumors.com/threads/m3-max-chip-has-hidden-change-that-could-affect-future-m3-ultra-chip.2423001/</comments>
+		<pubDate>Thu, 28 Mar 2024 07:09:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/28/m3-max-chip-hidden-change/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Apple Silicon</category>
+		
+
+		<description><![CDATA[Apple's M3 Ultra chip may be designed as its own, standalone chip, rather than be made up of two M3 Max dies, according to a plausible new theory.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/apple-silicon-1-feature.jpg" alt="" width="1422" height="800" class="alignnone size-full wp-image-924673" /><br/>
+The theory comes from <a href="https://www.youtube.com/c/maxtechofficial">Max Tech</a>'s <a href="https://twitter.com/VadimYuryev">Vadim Yuryev</a>, who outlined his thinking in a <a href="https://twitter.com/VadimYuryev/status/1773135334567788661">post on X</a> earlier today. Citing a <a href="https://x.com/techanalye1/status/1740142759942750246?s=20">post from @techanalye1</a> which suggests the M3 Max chip no longer features the UltraFusion interconnect, Yuryev postulated that the as-yet-unreleased "M3 Ultra" chip will not be able to comprise two Max chips in a single package. This means that the M3 Ultra is likely to be a standalone chip for the first time.<br/>
+<br/>
+This would enable Apple to make specific customizations to the M3 Ultra to make it more suitable for intense workflows. For example, the company could omit efficiency cores entirely in favor of an all-performance core design, as well as add even more GPU cores. At minimum, a single M3 Ultra chip designed in this way would be almost certain to offer better performance scaling than the <a href="https://www.macrumors.com/guide/m2/">M2</a> Ultra did compared to the &zwnj;M2&zwnj; Max, since there would no longer be efficiency losses over the UltraFusion interconnect.<br/>
+<br/>
+Furthermore, Yuryev speculated that the M3 Ultra could feature its own UltraFusion interconnect, allowing two M3 Ultra dies to be combined in a single package for double the performance in a hypothetical "M3 Extreme" chip. This would enable superior performance scaling compared to packaging four M3 Max dies and open the possibility of even higher amounts of unified memory.<br/>
+<br/>
+Little is currently known about the M3 Ultra chip, but a <a href="https://www.macrumors.com/2024/01/05/m3-ultra-mac-studio-to-launch-in-mid-2024/">report in January</a> suggested that it will be fabricated using TSMC's N3E node, just like the A18 chip that is expected to debut in the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> lineup later in the year. This means it would be Apple's first N3E chip. The M3 Ultra is rumored to launch in a refreshed <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a> model in <a href="https://www.macrumors.com/2024/01/05/m3-ultra-mac-studio-to-launch-in-mid-2024/">mid-2024</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/28/m3-max-chip-hidden-change/">M3 Max Chip Has Hidden Change That Could Affect Future &#039;M3 Ultra&#039; Chip</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m3-max-chip-has-hidden-change-that-could-affect-future-m3-ultra-chip.2423001/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Amazon Discounts AirTag 4-Pack to &#36;74.99 (&#36;24 Off)</title>
+		<link>https://www.macrumors.com/2024/03/28/amazon-discounts-airtag/</link>
+		<comments>https://forums.macrumors.com/threads/amazon-discounts-airtag-4-pack-to-74-99-24-off.2422999/</comments>
+		<pubDate>Thu, 28 Mar 2024 06:50:14 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/28/amazon-discounts-airtag/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		
+
+		<description><![CDATA[Apple's AirTag 4-Pack has dropped to <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0932QJ2JZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;74.99</strong></a> today on Amazon, down from &#36;99.00. This deal brings the AirTag 4-Pack back down to its all-time low price, which is a price that we haven't tracked since the holiday season.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/04/AirTag-and-Lavender-iPhone.jpg" alt="" width="1001" height="563" class="aligncenter size-full wp-image-796089" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+If you only need one AirTag, Amazon has the 1-Pack for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0933BVK6T%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;24.00</strong></a>, which is a solid second-best price on the Bluetooth tracker. Delivery dates for the AirTag 4-Pack are estimated between this Saturday, March 30 and Tuesday, April 2, while the 1-Pack dates have stretched into mid-April.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0932QJ2JZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;24 OFF</div>AirTag 4-Pack for &#36;74.99</div></a></div><br/>
+<br/>
+AirTag provides a way to keep track of your items in the iOS Find My app, allowing you to play a sound on the built-in speaker to find something locally or with precision finding when it's farther away. Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/28/amazon-discounts-airtag/">Amazon Discounts AirTag 4-Pack to &#36;74.99 (&#36;24 Off)</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-discounts-airtag-4-pack-to-74-99-24-off.2422999/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.4 Seemingly Brings Qi2 Wireless Charging Support to iPhone 12</title>
+		<link>https://www.macrumors.com/2024/03/28/ios-17-4-qi2-support-iphone-12/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-4-seemingly-brings-qi2-wireless-charging-support-to-iphone-12.2422995/</comments>
+		<pubDate>Thu, 28 Mar 2024 05:34:02 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/03/28/ios-17-4-qi2-support-iphone-12/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>iPhone 12</category>
+		<category>iPhone 12 Pro</category>
+		<category>Qi2</category>
+		
+
+		<description><![CDATA[iOS 17.4 brings support for 15W wireless charging with Qi2 to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> 12, according to <a href="https://www.macworld.com/article/2280827/iphone-12-qi2-magnetic-wireless-charging-15w.html"><em>Macworld</em></a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/04/iphone-12-preorder-purple.jpg" alt="" width="1213" height="682" class="alignnone size-full wp-image-794852" /><br/>
+Qi2 is a next-generation wireless charging technology designed by the Wireless Power Consortium (WPC) and based on <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a>. &zwnj;MagSafe&zwnj; was first introduced on the &zwnj;iPhone&zwnj; 12 and offers speeds of up to 15W. Third-party wireless chargers without &zwnj;MagSafe&zwnj; certification have been limited to maximum speeds of 7.5W, but Qi2 can reach the full 15W.<br/>
+<br/>
+Last year, Apple <a href="https://www.macrumors.com/2023/12/05/ios-17-2-qi-iphone-13-14-models/">enabled 15W speeds</a> with Qi2 wireless chargers on the <a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a> and <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> via iOS 17.2. The <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> lineup already supported Qi2 upon launch, leaving the &zwnj;iPhone&zwnj; 12 as the only &zwnj;iPhone&zwnj; model with &zwnj;MagSafe&zwnj; without the faster charging capability when using Qi2 accessories.<br/>
+<br/>
+Citing reader reports and its own tests, <em>Macworld</em> claims that the &zwnj;iPhone&zwnj; 12 is able to charge at 15W when using a Qi2 wireless charger after an update to iOS 17.4. When using a Qi2 charger, the device now displays the animation that only appears when 15W charging is active and tests with the Anker Qi2 MagGo Wireless Charger demonstrated charging speeds in line with &zwnj;MagSafe&zwnj;.<br/>
+<br/>
+Apple openly stated that iOS 17.2 brought Qi2 support to the &zwnj;iPhone 13&zwnj; and &zwnj;iPhone 14&zwnj;, but it did not make any such claim about iOS 17.4 and the &zwnj;iPhone&zwnj; 12. This may be because the &zwnj;iPhone&zwnj; 12's wireless charging technology was built around the original Qi standard and &zwnj;MagSafe&zwnj; before Qi2 was finalized.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/qi2/">Qi2</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/28/ios-17-4-qi2-support-iphone-12/">iOS 17.4 Seemingly Brings Qi2 Wireless Charging Support to iPhone 12</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-4-seemingly-brings-qi2-wireless-charging-support-to-iphone-12.2422995/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Foldable iPhone Could Arrive in 2027 or Be Postponed Indefinitely</title>
@@ -317,9 +416,9 @@ Apple apparently intends to have the technology in all U.S. retail stores by ear
 		</item>
 		
 		<item>
-		<title>Apple Vision Pro Gets First Discount (&#36;150 Off) at Woot, But There&#039;s a Catch</title>
+		<title>Apple Vision Pro Gets First Discount at Woot (&#36;200 Off) [Updated]</title>
 		<link>https://www.macrumors.com/2024/03/27/apple-vision-pro-first-discount/</link>
-		<comments>https://forums.macrumors.com/threads/apple-vision-pro-gets-first-discount-150-off-at-woot-but-theres-a-catch.2422940/</comments>
+		<comments>https://forums.macrumors.com/threads/apple-vision-pro-gets-first-discount-at-woot-200-off-updated.2422940/</comments>
 		<pubDate>Wed, 27 Mar 2024 07:30:55 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/03/27/apple-vision-pro-first-discount/</guid>
 		<dc:creator>Mitchel Broussard</dc:creator>
@@ -327,18 +426,19 @@ Apple apparently intends to have the technology in all U.S. retail stores by ear
 		<category>Featured</category>
 		
 
-		<description><![CDATA[The Apple Vision Pro has received its first discount today at Woot, now available for <a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-mql83ll-a-vision-pro-256gb%3Fref%3Dcnt_wp_0_1"><strong>&#36;3,349.00</strong></a>, down from &#36;3,499.00, but Woot does not make it clear what size light seals and head bands are in the box. The headset is in new condition and it comes with a one year Apple manufacturer limited warranty.<br/>
+		<description><![CDATA[The Apple Vision Pro has received its first discount today at Woot, now available for <a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-mql83ll-a-vision-pro-256gb%3Fref%3Dcnt_wp_0_1"><strong>&#36;3,299.00</strong></a>, down from &#36;3,499.00. The headset is in new condition and it comes with a one year Apple manufacturer limited warranty.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/01/Apple-Vision-Pro-Dual-Loop-Band-Teal-Feature-2.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-929939" /><em><small>Note: MacRumors is an affiliate partner with Woot. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
-So far, Vision Pro has only been available through Apple, as head scans are required in order to ensure proper sizing of the light seal and head bands. Woot's product listing does not offer a selection of sizes and does not specify what sizes of light seal and head bands are included, so it is unclear what customers will receive with their orders.<br/>
+This model comes with a 21W light seal, small solo knit band, and small dual loop band. You can use <a href="https://www.apple.com/shop/buy-vision/apple-vision-pro">Apple's website</a> to determine if this size is right for you, but if it doesn't match your sizing recommendation you won't be able to take advantage of this discount.<br/>
 <br/>
-<div class="center-wrap"><a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-mql83ll-a-vision-pro-256gb%3Fref%3Dcnt_wp_0_1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>Apple Vision Pro for &#36;3,349.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://www.kqzyfj.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-mql83ll-a-vision-pro-256gb%3Fref%3Dcnt_wp_0_1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>Apple Vision Pro for &#36;3,299.00</div></a></div><br/>
 <br/>
 Despite the murkiness with the sizes, Woot's discount today is notable as the very first sale we've ever seen from any major retailer for the Apple Vision Pro, which launched back in February. Woot says that this sale will last until it sells out, and there's an estimated delivery date between April 8 and April 10.<br/>
 <br/>
 Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<br/>
-<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/27/apple-vision-pro-first-discount/">Apple Vision Pro Gets First Discount (&#36;150 Off) at Woot, But There&#039;s a Catch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-gets-first-discount-150-off-at-woot-but-theres-a-catch.2422940/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<br/>
+<strong>Updated:</strong> Woot has further discounted the Apple Vision Pro, and provided more details about sizing on the headset.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/27/apple-vision-pro-first-discount/">Apple Vision Pro Gets First Discount at Woot (&#36;200 Off) [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-gets-first-discount-at-woot-200-off-updated.2422940/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -473,133 +573,6 @@ Custom routes would allow users to set what specific roads they want to travel d
 &zwnj;iOS 18&zwnj; will be introduced at the Worldwide Developers Conference on Monday, June 10. For more details about the update, check out our <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18 roundup</a>.<br/>
 <br/>
 <em>(Thanks, <a href="https://twitter.com/nicolas09F9">Nicolás</a>!)</em><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/26/apple-maps-custom-routes-ios-18/">Apple Maps May Gain Custom Routes With iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-maps-may-gain-custom-routes-with-ios-18.2422896/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>WWDC 2024 Will Include In-Person Special Event at Apple Park</title>
-		<link>https://www.macrumors.com/2024/03/26/wwdc-2024-apple-park-special-event/</link>
-		<comments>https://forums.macrumors.com/threads/wwdc-2024-will-include-in-person-special-event-at-apple-park.2422883/</comments>
-		<pubDate>Tue, 26 Mar 2024 12:12:31 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/26/wwdc-2024-apple-park-special-event/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>WWDC</category>
-		<category>Apple Park</category>
-		<category>Apple Developer Program</category>
-		
-
-		<description><![CDATA[While Apple does not plan to hold a traditional in-person WWDC event this year, the company will invite select developers and students to attend a special event at the <a href="https://www.macrumors.com/guide/apple-park/">Apple Park</a> campus in Cupertino, California.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/apple-park-special-event-2024.jpg" alt="" width="1500" height="844" class="aligncenter size-full wp-image-943518" /><br/>
-On Monday, June 10, Apple will <a href="https://developer.apple.com/wwdc24/special-event/">host a keynote viewing party</a> to let attendees watch the pre-recorded unveiling of new software updates. Apple also promises "exciting new programming," an opportunity to meet with Apple experts, and other "special activities."<br/>
-<br/>
-At <a href="https://www.macrumors.com/2023/05/16/wwdc-2023-apple-park-viewing-event-details/">last year's special event</a>, developers and students were provided with refreshments in the morning, followed by the keynote event. The Platforms State of the Union followed, and there were two &zwnj;Apple Park&zwnj; tours to choose from. The day ended with the Apple Design Awards and an evening dinner.<br/>
-<br/>
-Note that there will be a reception event at Apple's Infinite Loop campus on Sunday, June 9, where attendees can pick up their badges early.<br/>
-<br/>
-Prior to 2020, the Worldwide Developers Conference was an in-person event that was hosted in San Jose, California. Developers were required to pay &#36;1,599 to purchase a ticket to attend, and space was limited. Starting in 2020, Apple turned WWDC into an online event open to all developers, but there have been small in-person events at &zwnj;Apple Park&zwnj; since 2022.<br/>
-<br/>
-<h2>Lottery Selection</h2><br/>
-Apple is inviting a limited number of developers and students to &zwnj;Apple Park&zwnj; for the special event, and attendees will be selected through a lottery process.<br/>
-<br/>
-<h2>Who is Eligible to Attend</h2><br/>
-Current Apple Developer Program or Apple Developer Enterprise Program members can ask to attend, as can Apple Entrepreneur Camp alumni and Swift Student Challenge winners from 2022 to 2024.<br/>
-<br/>
-350 Swift Student Challenge winners are set to be announced on Thursday, March 28. 50 Distinguished Winners will receive an invite to a special three-day experience that includes the special event on June 10.<br/>
-<br/>
-Both adults and children aged 13 to 17 can apply, but children will need to be accompanied by a legal guardian.<br/>
-<br/>
-<h2>How to Register for Apple's Special Event</h2><br/>
-Those eligible to enter the lottery can do so on Apple's developer website <a href="https://developer.apple.com/wwdc24/special-event/request/">through the special event request page</a>. Apple is accepting requests to attend through 11:59 p.m. Pacific Time on Wednesday, April 3.<br/>
-<br/>
-Attendees chosen by the random selection process will be informed about their status by the end of the day on Thursday, April 4.<br/>
-<br/>
-<h2>Costs</h2><br/>
-There is no cost to attend the special event at &zwnj;Apple Park&zwnj;, but Apple will not cover transportation. Out-of-state attendees will need to purchase plane tickets, accommodations at nearby hotels, and will need to find a way to get to &zwnj;Apple Park&zwnj; on the day of the event.<br/>
-<br/>
-<h2>Media</h2><br/>
-In addition to inviting developers and students, Apple will likely extend invitations to select members of the media. Media invites for the &zwnj;Apple Park&zwnj; event have not yet gone out.<br/>
-<br/>
-<h2>WWDC Details</h2><br/>
-<a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a> will take place from Monday, June 10 to Friday, June 14. Developers who are not selected to attend can watch the June 10 keynote event on Apple's website or on YouTube.<br/>
-<br/>
-For those unable to watch the live stream, or who prefer to read a text version of the announcements, we'll have live &zwnj;WWDC 2024&zwnj; coverage both here on MacRumors.com and through our <a href="https://twitter.com/macrumorslive?lang=en">MacRumorsLive Twitter account</a>, so make sure to follow.<br/>
-<br/>
-Apple also plans to share all of the WWDC sessions and events in its Developer app and on a <a href="https://www.macrumors.com/2024/03/26/apple-developer-youtube-account-wwdc-2024/">new Apple Developer YouTube channel</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-park/">Apple Park</a>, <a href="https://www.macrumors.com/guide/apple-developer-program/">Apple Developer Program</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-inc-and-tech-industry.8">Apple, Inc and Tech Industry</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/26/wwdc-2024-apple-park-special-event/">WWDC 2024 Will Include In-Person Special Event at Apple Park</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/wwdc-2024-will-include-in-person-special-event-at-apple-park.2422883/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18 Reportedly Won&#039;t Feature Apple&#039;s Own ChatGPT-Like Chatbot</title>
-		<link>https://www.macrumors.com/2024/03/26/ios-18-reportedly-wont-have-apple-chatbot/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-reportedly-wont-feature-apples-own-chatgpt-like-chatbot.2422879/</comments>
-		<pubDate>Tue, 26 Mar 2024 11:35:54 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/26/ios-18-reportedly-wont-have-apple-chatbot/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iOS 18</category>
-		<category>Mark Gurman</category>
-		
-
-		<description><![CDATA[<a href="https://www.bloomberg.com/news/articles/2024-03-26/apple-set-to-unveil-ai-strategy-at-june-10-developers-conference"><em>Bloomberg</em>'s Mark Gurman</a> today reported that Apple is not planning to debut its own generative AI chatbot with its next major software updates, including iOS 18 for the iPhone. Instead, he reiterated that Apple has <a href="https://www.macrumors.com/2024/03/22/apple-generative-ai-google-openai-baidu/">held discussions with companies such as Google, OpenAI, and Baidu</a> about potential generative AI partnerships.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iOS-18-Mock-Siri-Feature-Baubles.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-909208" /><br/>
-Recent reports indicated that Apple has considered licensing existing chatbots, such as <a href="https://www.macrumors.com/2024/03/21/apple-iphone-ai-talks-google-openai-ongoing/">Google's Gemini and OpenAI's ChatGPT</a>, but Apple offering its own chatbot of some kind on iOS 18 had not been explicitly ruled out until now.<br/>
-<br/>
-Gurman still expects AI to be a major focus at Apple's <a href="https://www.macrumors.com/2024/03/26/apple-announces-wwdc-2024/">just-announced WWDC 2024 developers conference</a>. He reiterated that Apple plans to announce new AI features that "assist users in their daily lives," but he did not provide any specific details. He has previously reported that generative AI will <a href="https://www.macrumors.com/2024/02/16/ios-18-slew-of-new-ai-features/">improve Siri's ability to answer more complex questions</a>, and allow the Messages app to auto-complete sentences. Other apps like Apple Music, Shortcuts, Pages, Numbers, and Keynote are also expected to gain generative AI functionality.<br/>
-<br/>
-Apple already promised that the company would share generative AI announcements <a href="https://www.macrumors.com/2024/02/01/apple-ai-details-coming-later-this-year/">later this year</a>, and the company <a href="https://www.macrumors.com/2024/03/26/apple-ios-18-ai-wwdc-2024/">hinted at it again today</a>. WWDC 2024 runs from June 10 through June 14, with video sessions to be <a href="https://www.macrumors.com/2024/03/26/apple-developer-youtube-account-wwdc-2024/">shared on YouTube for the first time</a>.<br/>
-<br/>
-The first iOS 18 beta should be made available to developers following the WWDC keynote, and the update is expected to be released to all users in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/26/ios-18-reportedly-wont-have-apple-chatbot/">iOS 18 Reportedly Won&#039;t Feature Apple&#039;s Own ChatGPT-Like Chatbot</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-reportedly-wont-feature-apples-own-chatgpt-like-chatbot.2422879/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Hints at iOS 18 AI Announcements Coming at WWDC 2024</title>
-		<link>https://www.macrumors.com/2024/03/26/apple-ios-18-ai-wwdc-2024/</link>
-		<comments>https://forums.macrumors.com/threads/apple-hints-at-ios-18-ai-announcements-coming-at-wwdc-2024.2422876/</comments>
-		<pubDate>Tue, 26 Mar 2024 10:53:45 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/26/apple-ios-18-ai-wwdc-2024/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iOS 18</category>
-		<category>WWDC</category>
-		
-
-		<description><![CDATA[Apple today announced official dates for the 35th annual Worldwide Developers Conference, which is set to begin on Monday, June 10. In its announcements, Apple sometimes gives us minor hints on what to expect, and Greg Joswiak is making some not-so-subtle references to AI.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-840591" src="https://images.macrumors.com/article-new/2022/03/hey-siri-banner-apple.jpg" alt="" width="1200" height="630" /><br/>
-In a tweet, Joswiak said that the <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a> event is going to be "Absolutely Incredible," and he deliberately capitalized the first two letters of each word, AI.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mark your calendars for <a href="https://twitter.com/hashtag/WWDC24?src=hash&amp;ref_src=twsrc%5Etfw">#WWDC24</a>, June 10-14. It’s going to be Absolutely Incredible! <a href="https://t.co/YIln5972ZD">pic.twitter.com/YIln5972ZD</a></p>&mdash; Greg Joswiak (@gregjoz) <a href="https://twitter.com/gregjoz/status/1772671384335925493?ref_src=twsrc%5Etfw">March 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-There have been multiple rumors suggesting that AI will be a major focus in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, macOS 15, and other operating system updates that are set to come out this year. Apple will add AI features to many of its built-in apps, and the company is in talk with Google and other companies about integrating an existing large language model (LLM) into &zwnj;iOS 18&zwnj;.<br/>
-<br/>
-Over the course of the last few months, Apple executives have confirmed Apple's work on AI, Apple CEO <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> <a href="https://www.macrumors.com/2024/02/28/tim-cook-apple-generative-ai-break-new-ground/">said in February</a> that Apple plans to "break new ground" on generative AI in 2024. "We believe it will unlock transformative opportunities for our users," said Cook.<br/>
-<br/>
-Cook in November confirmed that Apple was "investing quite a bit" in AI, and during Apple's most recent earnings call, he said that Apple was spending a "tremendous amount of time and effort" on AI, with details set to <a href="https://www.macrumors.com/2024/02/01/apple-ai-details-coming-later-this-year/">come out later in 2024</a>.<br/>
-<br/>
-&zwnj;WWDC 2024&zwnj; is set to take place during the week of June 10, and it will begin with a keynote event that will see the unveiling of &zwnj;iOS 18&zwnj; and other operating system updates.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-inc-and-tech-industry.8">Apple, Inc and Tech Industry</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/26/apple-ios-18-ai-wwdc-2024/">Apple Hints at iOS 18 AI Announcements Coming at WWDC 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-hints-at-ios-18-ai-announcements-coming-at-wwdc-2024.2422876/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple to Announce 2024 Swift Student Challenge Winners on March 28</title>
-		<link>https://www.macrumors.com/2024/03/26/apple-swift-student-challenge-winners-march-28/</link>
-		<comments>https://forums.macrumors.com/threads/apple-to-announce-2024-swift-student-challenge-winners-on-march-28.2422871/</comments>
-		<pubDate>Tue, 26 Mar 2024 10:38:05 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/26/apple-swift-student-challenge-winners-march-28/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>WWDC</category>
-		<category>Swift</category>
-		<category>Swift Playgrounds</category>
-		
-
-		<description><![CDATA[As part of today's <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a> announcement, Apple said that it plans to announce this year's Swift Student Challenge winners on Thursday, March 28. The annual Swift Student Challenge asks students to create an innovative coding project using the Swift Playgrounds app.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-932478" src="https://images.macrumors.com/article-new/2024/01/swift-student-challenge-2024.jpeg" alt="" width="2048" height="1151" /><br/>
-While Apple normally starts the Swift Student Challenge when WWDC dates are announced, the company <a href="https://www.macrumors.com/2024/02/05/apple-2024-swift-student-challenge/">launched the challenge early</a> to give students more time to work on their projects.<br/>
-<br/>
-Submissions were accepted from February 5 to February 25, and are now closed.<br/>
-<br/>
-Apple is selecting 350 winners for the 2024 challenge, all of whom will be eligible to attend the June 10 WWDC Special Event at the <a href="https://www.macrumors.com/guide/apple-park/">Apple Park</a> campus in Cupertino, California. Winners will need to enter the lottery process to get a chance to attend.<br/>
-<br/>
-Apple is also choosing 50 Distinguished Winners recognized for "outstanding submissions." The Distinguished Winners will be invited to Cupertino for a three-day experience that will include the Special Event keynote viewing and other activities.<br/>
-<br/>
-Swift Student Challenge winners will be informed via email if they've won later this week. Projects are judged based on technical accomplishment, creativity of ideas, and the content of written responses explaining the project.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/swift/">Swift</a>, <a href="https://www.macrumors.com/guide/swift-playgrounds/">Swift Playgrounds</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-inc-and-tech-industry.8">Apple, Inc and Tech Industry</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/26/apple-swift-student-challenge-winners-march-28/">Apple to Announce 2024 Swift Student Challenge Winners on March 28</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-announce-2024-swift-student-challenge-winners-on-march-28.2422871/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
