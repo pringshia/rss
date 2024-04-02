@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 02 Apr 2024 09:03:13 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 02 Apr 2024 13:02:53 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,13 +22,224 @@
 	<generator>https://www.macrumors.com</generator>
 		
 		<item>
-		<title>Alleged iOS 18 Design Resource Reveals visionOS-Like Redesign</title>
+		<title>Apple Releases New Firmware for AirPods Max</title>
+		<link>https://www.macrumors.com/2024/04/02/airpods-max-firmware-update-6a325/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-new-firmware-for-airpods-max.2423402/</comments>
+		<pubDate>Tue, 02 Apr 2024 12:41:52 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/airpods-max-firmware-update-6a325/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>AirPods Max</category>
+		
+
+		<description><![CDATA[Apple today introduced a new firmware update for <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a>. The new firmware is 6A325, up from the 6A324 firmware <a href="https://www.macrumors.com/2024/01/30/apple-releases-6a324-firmware-for-airpods-max/">released in January</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/Airpods-Max-Feature-Green-Triad.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-936393" /><br/>
+Apple does not provide details on what features might be included in the refreshed firmware, so it is unclear what's new, and the notes often only list generic bug fixes. <br/>
+<br/>
+Apple also does not offer instructions on how to upgrade the software on the AirPods, but firmware is generally installed over-the-air while the ‌‌AirPods‌‌ are powered on and connected to an iOS device or a Mac.<br/>
+<br/>
+You can check your ‌‌‌AirPods‌‌ Max‌‌‌‌‌‌‌ firmware by following these steps:<br/>
+<ul><br/>
+ 	<li>Connect your ‌‌‌‌‌‌AirPods to your iOS device.</li><br/>
+ 	<li>Open the Settings app.</li><br/>
+ 	<li>Tap General.</li><br/>
+ 	<li>Tap About.</li><br/>
+ 	<li>Tap ‌‌‌‌‌AirPods‌‌‌‌‌.</li><br/>
+ 	<li>Look at the number next to "Firmware Version."</li><br/>
+</ul><br/>
+If we find anything notable in the firmware release, we'll update this article.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Max">AirPods Max (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/airpods-max-firmware-update-6a325/">Apple Releases New Firmware for AirPods Max</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-firmware-for-airpods-max.2423402/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.5 Lets EU iPhone Users Download Apps From Websites</title>
+		<link>https://www.macrumors.com/2024/04/02/ios-17-5-app-website-downloads-eu/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-5-lets-eu-iphone-users-download-apps-from-websites.2423395/</comments>
+		<pubDate>Tue, 02 Apr 2024 11:09:44 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/ios-17-5-app-website-downloads-eu/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today released the first beta of iOS 17.5 to developers, and as expected, the update introduces support for downloading apps from developer websites in the European Union.<br/>
+<br/>
+<img class="alignnone size-full wp-image-933094" src="https://images.macrumors.com/article-new/2024/01/Apple-EU-iOS-Changes.jpg" alt="" width="1312" height="738" /><br/>
+In iOS 17.4, Apple began allowing developers to offer their apps through alternative app marketplaces in the European Union to comply with the Digital Markets Act. Apple initially intended for apps to only be available through these marketplaces, but in March, Apple said that it would in fact be adding support for <a href="https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/">downloading apps directly from websites</a>.<br/>
+<br/>
+To offer an app for download from a website in the European Union, developers need to meet specific criteria. Developers need to be a member of the Apple Developer Program for two continuous years or more and must have an app with more than one million first installs on iOS in the European Union in the prior year. Other requirements include submitting to Apple's notarization process and publishing transparent data collection policies.<br/>
+<br/>
+Apple will provide authorized developers with an API that allows them to offer their apps for download via the web. Apps downloaded this way will be able to be backed up, restored, updated, and more.<br/>
+<br/>
+This is the first time that Apple has sanctioned downloading an app directly from a website. Support for this feature will allow apps like Spotify, Fortnite, and others to be downloaded directly on iPhones should the developers behind those apps opt in to Apple's terms.<br/>
+<br/>
+Apps offered through the web do not have to pay any commission to Apple, but they are subject to the 0.50 euro Core Technology Fee.<br/>
+<br/>
+As with alternative app marketplaces, app downloads from the web are available in the European Union only under the terms of the DMA. Note that apps can only be downloaded this way on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> as the changes do not apply to the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/ios-17-5-app-website-downloads-eu/">iOS 17.5 Lets EU iPhone Users Download Apps From Websites</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-5-lets-eu-iphone-users-download-apps-from-websites.2423395/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds First Beta of macOS Sonoma 14.5 to Developers</title>
+		<link>https://www.macrumors.com/2024/04/02/apple-seeds-macos-sonoma-14-5-beta-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-first-beta-of-macos-sonoma-14-5-to-developers.2423387/</comments>
+		<pubDate>Tue, 02 Apr 2024 10:10:03 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/apple-seeds-macos-sonoma-14-5-beta-1/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today seeded the first beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.5 update to developers, with the software coming nearly a month after Apple <a href="https://www.macrumors.com/2024/03/07/apple-releases-macos-sonoma-14-4/">released macOS Sonoma 14.4</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
+Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
+<br/>
+We don't yet know what might be included in &zwnj;macOS Sonoma&zwnj; 14.5, but if new features are found in the beta, we'll update this post.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/apple-seeds-macos-sonoma-14-5-beta-1/">Apple Seeds First Beta of macOS Sonoma 14.5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-beta-of-macos-sonoma-14-5-to-developers.2423387/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds First Betas of iOS 17.5 and iPadOS 17.5 to Developers</title>
+		<link>https://www.macrumors.com/2024/04/02/apple-seeds-ios-17-5-beta-1-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-first-betas-of-ios-17-5-and-ipados-17-5-to-developers.2423386/</comments>
+		<pubDate>Tue, 02 Apr 2024 10:09:44 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/apple-seeds-ios-17-5-beta-1-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today seeded the first betas of upcoming iOS 17.5 and iPadOS 17.5 updates to developers for testing purposes, with the software coming two weeks after Apple <a href="https://www.macrumors.com/2024/03/05/apple-releases-ios-17-4/">released iOS 17.4 and iPadOS 17.4</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.5-Feature-Green-and-Purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-940351" /><br/>
+Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
+<br/>
+Most of the features that Apple promised would be coming in &zwnj;iOS 17&zwnj; have now been released, but iOS 17.5 is expected to introduce additional app ecosystem changes in the European Union. App developers will be able to offer apps for download on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> <a href="https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/">directly from their websites</a>, in addition to through app marketplaces. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/apple-seeds-ios-17-5-beta-1-to-developers/">Apple Seeds First Betas of iOS 17.5 and iPadOS 17.5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-betas-of-ios-17-5-and-ipados-17-5-to-developers.2423386/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases First Beta of visionOS 1.2 to Developers</title>
+		<link>https://www.macrumors.com/2024/04/02/apple-seeds-visionos-1-2-beta-1-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-first-beta-of-visionos-1-2-to-developers.2423389/</comments>
+		<pubDate>Tue, 02 Apr 2024 10:08:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/apple-seeds-visionos-1-2-beta-1-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>visionOS</category>
+		
+
+		<description><![CDATA[Apple today released the first beta of an upcoming <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1.2 update to developers, allowing them to test new features ahead of the software seeing a public launch. The &zwnj;visionOS&zwnj; 1.2 beta comes a month after the <a href="https://www.macrumors.com/2024/03/07/apple-releases-visionos-1-1/">release of visionOS 1.1</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-934088" src="https://images.macrumors.com/article-new/2024/02/visionOS-Home-Screen.jpg" alt="" width="1920" height="1080" /><br/>
+The &zwnj;visionOS&zwnj; beta can be downloaded by going to the Settings app on the device and toggling on developer betas. A registered developer account is required, and Apple recommends making a backup before installing new software.<br/>
+<br/>
+Apple may make further improvements to Personas, EyeSight, and other features with &zwnj;visionOS&zwnj; 1.2. We'll update this article when we discover what's new in the software.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/apple-seeds-visionos-1-2-beta-1-to-developers/">Apple Releases First Beta of visionOS 1.2 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-first-beta-of-visionos-1-2-to-developers.2423389/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds First Beta of watchOS 10.5 to Developers</title>
+		<link>https://www.macrumors.com/2024/04/02/apple-seeds-watchos-10-5-beta-1-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-first-beta-of-watchos-10-5-to-developers.2423390/</comments>
+		<pubDate>Tue, 02 Apr 2024 10:07:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/apple-seeds-watchos-10-5-beta-1-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today seeded the first beta of an upcoming watchOS 10.5 update to developers for testing purposes, with the beta coming a month after the <a href="https://www.macrumors.com/2024/03/07/apple-releases-watchos-10-4/">release of watchOS 10.4</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
+To install the ‌watchOS 10.5 update, developers need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
+<br/>
+Once beta updates have been activated, watchOS 10.5 can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
+<br/>
+We don't yet know what's included in watchOS 10.5, but should anything new be found, we'll update this article. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/apple-seeds-watchos-10-5-beta-1-to-developers/">Apple Seeds First Beta of watchOS 10.5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-beta-of-watchos-10-5-to-developers.2423390/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds First Beta of tvOS 17.5 to Developers</title>
+		<link>https://www.macrumors.com/2024/04/02/apple-seeds-tvos-17-5-beta-1-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-first-beta-of-tvos-17-5-to-developers.2423391/</comments>
+		<pubDate>Tue, 02 Apr 2024 10:06:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/apple-seeds-tvos-17-5-beta-1-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple TV</category>
+		<category>Blurb</category>
+		
+
+		<description><![CDATA[Apple today seeded the first beta of an upcoming tvOS 17.5 to developers for testing purposes, with the beta coming a month after the <a href="https://www.macrumors.com/2024/03/07/apple-releases-tvos-17-4/">release of tvOS 17.4</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/07/apple-tv-4k-green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-856182" /><br/>
+Registered developers are able to download the tvOS 17.5 update by opting in to the beta through the Settings app on the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>. A registered developer account is required.<br/>
+<br/>
+tvOS software updates are often minor in scale compared to other operating system updates, focusing primarily on smaller improvements rather than outward-facing changes. We don't yet know what's included in tvOS 17.5.<br/>
+<br/>
+Apple shares some information on tvOS releases in its <a href="https://support.apple.com/en-us/HT207936">tvOS support document</a>, which is updated after each tvOS launch, but Apple does not provide notes during beta testing.<br/>
+<br/>
+Though we don't always know what's new in tvOS betas, we let <em>MacRumors</em> readers know when new updates are available so those who are developers can download new software upon release.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/apple-seeds-tvos-17-5-beta-1-to-developers/">Apple Seeds First Beta of tvOS 17.5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-beta-of-tvos-17-5-to-developers.2423391/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>New Beats Solo 4 Headphones Show Up in FCC Database as Launch Approaches</title>
+		<link>https://www.macrumors.com/2024/04/02/apple-beats-solo-4-headphones/</link>
+		<comments>https://forums.macrumors.com/threads/new-beats-solo-4-headphones-show-up-in-fcc-database-as-launch-approaches.2423381/</comments>
+		<pubDate>Tue, 02 Apr 2024 09:41:08 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/apple-beats-solo-4-headphones/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>Beats</category>
+		
+
+		<description><![CDATA[Apple is working on a new version of the popular Beats Solo on-ear headphones, and it looks like we are getting closer to a potential launch date. FCC documents for the Beats Solo 4 headphones were found today, and that typically happens in the weeks ahead of a debut. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/new-beats-solo-4.jpg" alt="" width="1129" height="635" class="aligncenter size-full wp-image-938522" /><br/>
+Signs of the Beats Solo 4 were <a href="https://www.macrumors.com/2024/02/27/apple-working-on-beats-solo-4-headphones/">first spotted in late February</a>, with images found in the iOS 17.4 beta. The headphones look similar to the Solo 3 headphones, but with some minor design tweaks that bring them in line with the Beats Studio Pro that came out last year. <br/>
+<br/>
+We are expecting the Beats Solo 4 to come in three colors, including black, pink, and blue. While we don't know the full feature set, we found code that suggests they will support Spatial Audio. <br/>
+<br/>
+The headphones are likely to adopt some of the changes that were brought to the Beats Studio Pro, including improved sound quality and a USB-C port instead of a micro-USB port. Gesture support will be included, with a press on the "b" button to play/pause and answer calls, a double press to skip songs, and a long press to activate <a href="https://www.macrumors.com/guide/siri/">Siri</a>.<br/>
+<br/>
+The Beats Solo 3 headphones first came out in 2016, and while there have been new color releases, the line is long overdue for an update. There is no word as of yet when the Solo 4 will come out, but FCC filings usually show up around a month in advance. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/beats/">Beats</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/apple-beats-solo-4-headphones/">New Beats Solo 4 Headphones Show Up in FCC Database as Launch Approaches</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-beats-solo-4-headphones-show-up-in-fcc-database-as-launch-approaches.2423381/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Updates iWork Apps With New Features on Mac, iPad, and iPhone</title>
+		<link>https://www.macrumors.com/2024/04/02/apple-updates-iwork-apps-with-new-features/</link>
+		<comments>https://forums.macrumors.com/threads/apple-updates-iwork-apps-with-new-features-on-mac-ipad-and-iphone.2423380/</comments>
+		<pubDate>Tue, 02 Apr 2024 09:07:18 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/apple-updates-iwork-apps-with-new-features/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iWork</category>
+		<category>Pages</category>
+		<category>Keynote</category>
+		<category>Numbers</category>
+		
+
+		<description><![CDATA[Apple today updated its trio of iWork apps Keynote, Numbers, and Pages for the Mac, iPad, and iPhone with several new features and changes.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/09/iWork-macOS-Trio-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-818315" /><br/>
+The release notes for version 14.0 of the Mac apps follow, and the release notes for version 14.0 of the iPad and iPhone apps are nearly identical.<br/>
+<br/>
+<h2>Keynote</h2><blockquote>• Add a new look to your slides with the Dynamic Color, Minimalist Light, and Minimalist Dark themes<br/>
+• Streamlined in-app notifications inform you when a person joins a collaborative presentation for the first time<br/>
+• Preserve file format and full quality when adding HEIC photos taken on iPhone or iPad<br/>
+• Press and hold the Command key to select noncontiguous words, sentences, or paragraphs<br/>
+• Improved compatibility for slide transitions when importing and exporting Microsoft PowerPoint files<br/>
+• Additional stability and performance improvements</blockquote>App Store links: <a href="https://apps.apple.com/us/app/-/id409183694">Mac</a> and <a href="https://apps.apple.com/us/app/-/id361285480">iPad/iPhone</a>.<br/>
+<h2>Numbers</h2><blockquote>• Streamlined in-app notifications inform you when a person joins a collaborative spreadsheet for the first time<br/>
+• Preserve file format and full quality when adding HEIC photos taken on iPhone or iPad<br/>
+• Press and hold the Command key to select noncontiguous words, sentences, or paragraphs<br/>
+• Additional stability and performance improvements</blockquote>App Store links: <a href="https://apps.apple.com/us/app/-/id409203825">Mac</a> and <a href="https://apps.apple.com/us/app/-/id361304891">iPad/iPhone</a>.<br/>
+<h2>Pages</h2><blockquote>• Press and hold the Command key to select noncontiguous words, sentences, or paragraphs<br/>
+• Streamlined in-app notifications inform you when a person joins a collaborative document for the first time<br/>
+• Preserve file format and full quality when adding HEIC photos taken on iPhone or iPad<br/>
+• Additional stability and performance improvements</blockquote>App Store links: <a href="https://apps.apple.com/us/app/-/id409201541">Mac</a> and <a href="https://apps.apple.com/us/app/-/id361309726">iPad/iPhone</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/iwork/">iWork</a>, <a href="https://www.macrumors.com/guide/pages/">Pages</a>, <a href="https://www.macrumors.com/guide/keynote/">Keynote</a>, <a href="https://www.macrumors.com/guide/numbers/">Numbers</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/apple-updates-iwork-apps-with-new-features/">Apple Updates iWork Apps With New Features on Mac, iPad, and iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-updates-iwork-apps-with-new-features-on-mac-ipad-and-iphone.2423380/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Alleged iOS 18 Design Resource Reveals visionOS-Like Redesign [Updated]</title>
 		<link>https://www.macrumors.com/2024/04/02/ios-18-resource-reveals-visionos-redesign/</link>
-		<comments>https://forums.macrumors.com/threads/alleged-ios-18-design-resource-reveals-visionos-like-redesign.2423376/</comments>
+		<comments>https://forums.macrumors.com/threads/alleged-ios-18-design-resource-reveals-visionos-like-redesign-updated.2423376/</comments>
 		<pubDate>Tue, 02 Apr 2024 08:19:30 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/ios-18-resource-reveals-visionos-redesign/</guid>
 		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
 		<category>iOS 18</category>
 		
 
@@ -47,7 +258,9 @@ For example, the Apple TV app on iPadOS 18 will apparently feature the same tran
 <br/>
 While Gurman implied that the redesign may not emerge this year, he was more firm about iOS 18 being redesigned in a <a href="https://www.bloomberg.com/news/newsletters/2023-11-12/apple-aapl-plans-ambitious-ios-18-and-macos-15-updates-seeks-to-squash-bugs-lovjlsf6">November edition</a> of his newsletter, when he said Apple's senior management had <a href="https://www.macrumors.com/2023/11/13/apple-says-ios-18-ambitious-compelling/">described iOS 18 as "ambitious and compelling,"</a> with "major new features and designs."<br/>
 <br/>
-The purported iOS 18 Camera app design resource seemingly lines up with these reports, showing a substantial rethinking of Apple's visual elements in line with visionOS, but it may not be legitimate. Apple is expected to preview iOS 18 at its annual developers conference WWDC on June 10. The first beta should be available shortly after the announcement. The update should be released to all users in September alongside the iPhone 16 lineup. For more details about the upcoming software update, see our comprehensive <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18 roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/ios-18-resource-reveals-visionos-redesign/">Alleged iOS 18 Design Resource Reveals visionOS-Like Redesign</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/alleged-ios-18-design-resource-reveals-visionos-like-redesign.2423376/">Discuss this article</a> in our forums<br/><br/>]]></description>
+The purported iOS 18 Camera app design resource seemingly lines up with these reports, showing a substantial rethinking of Apple's visual elements in line with visionOS, but it may not be legitimate. Apple is expected to preview iOS 18 at its annual developers conference WWDC on June 10. The first beta should be available shortly after the announcement. The update should be released to all users in September alongside the iPhone 16 lineup. For more details about the upcoming software update, see our comprehensive <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18 roundup</a>.<br/>
+<br/>
+<b>Update 11:35 a.m.</b>: We've received information from several sources indicating that the image is fake.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/ios-18-resource-reveals-visionos-redesign/">Alleged iOS 18 Design Resource Reveals visionOS-Like Redesign [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/alleged-ios-18-design-resource-reveals-visionos-like-redesign-updated.2423376/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -311,322 +524,6 @@ Google plans to destroy "billions of data points" that were improperly collected
 A Google spokesperson told <em>The <a href="https://www.macrumors.com/guide/wsj-com/">Wall Street Journal</a></em> that Google does not have an issue with deleting "old technical data" that was not associated with individuals or used for personalization. The agreement still needs final approval from the judge overseeing the case.<br/>
 <br/>
 Google is wrapping up several smaller lawsuits as it faces off with the U.S. Department of Justice <a href="https://www.macrumors.com/2020/10/20/google-antitrust-lawsuit-us-government/">over its search and ad businesses</a>. Google has been accused of making preferential deals that have harmed the search industry and of having too much control over advertising tools. The search battle has been ongoing since last September, while the ad lawsuit will proceed in September 2024.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/chrome/">Chrome</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/01/google-delete-chrome-incognito-data/">Google to Delete Chrome Incognito Browsing Data to Settle Lawsuit</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/google-to-delete-chrome-incognito-browsing-data-to-settle-lawsuit.2423318/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Card Savings Account to Receive First-Ever Interest Rate Decrease</title>
-		<link>https://www.macrumors.com/2024/04/01/apple-card-savings-rate-to-decrease/</link>
-		<comments>https://forums.macrumors.com/threads/apple-card-savings-account-to-receive-first-ever-interest-rate-decrease.2423317/</comments>
-		<pubDate>Mon, 01 Apr 2024 14:34:49 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/01/apple-card-savings-rate-to-decrease/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>Apple Card</category>
-		
-
-		<description><![CDATA[Nearly one year after it launched in the U.S., the Apple Card's high-yield savings account will be receiving its first-ever interest rate decrease.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/apple-card-savings-account-feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-928948" /><br/>
-Starting on April 3, the Apple Card savings account's annual percentage yield (APY) will be lowered to 4.4%, according to data on Apple's backend discovered by <em>MacRumors</em> contributor <a href="https://www.macrumors.com/author/aaron-perris/">Aaron Perris</a>. The account currently has a 4.5% APY.<br/>
-<br/>
-4.4% will still be a competitive rate <a href="https://www.macrumors.com/2024/04/01/apple-card-savings-rate-comparison-april/">compared to many other popular high-yield savings accounts</a>, which typically offer rates between 4.25% and 5.25%.<br/>
-<br/>
-When the Apple Card's savings account first became available, it offered an APY of 4.15%. The rate then increased three times, first to 4.25%, then to 4.35%, and finally to 4.5%. The drop to 4.4% will be the first time the rate has gone down.<br/>
-<br/>
-Apple launched its savings account <a href="https://www.macrumors.com/2023/04/17/apple-card-savings-account-launching-today/">in April 2023</a>, in partnership with Goldman Sachs. The account can be opened and managed in the Wallet app on the iPhone, and it has no fees, no minimum deposits, and no minimum balance requirements. You must have an Apple Card, be a U.S. resident, and be at least 18 years old to open an account.<br/>
-<br/>
-The account allows Apple Card holders to earn interest on their Daily Cash cashback balance, and on funds deposited via a linked bank account or an Apple Cash balance. The maximum balance allowed <a href="https://www.macrumors.com/2024/03/01/apple-card-savings-1-million-limit/">is now &#36;1,000,000</a>, up from a previous limit of &#36;250,000.<br/>
-<br/>
-To open a savings account in the Wallet app, tap on your Apple Card, tap on the circle with three dots at the top of the screen, tap Daily Cash, and select Set Up Savings.<br/>
-<br/>
-Goldman Sachs reportedly plans to <a href="https://www.macrumors.com/2023/11/28/apple-goldman-sachs-partnership-ending/">end its consumer lending partnership with Apple</a>, but it is unclear how this might impact Apple Card holders.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/01/apple-card-savings-rate-to-decrease/">Apple Card Savings Account to Receive First-Ever Interest Rate Decrease</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-card-savings-account-to-receive-first-ever-interest-rate-decrease.2423317/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>AT&amp;T Notifying Customers About Massive Data Leak</title>
-		<link>https://www.macrumors.com/2024/04/01/att-data-leak-notifications/</link>
-		<comments>https://forums.macrumors.com/threads/at-t-notifying-customers-about-massive-data-leak.2423309/</comments>
-		<pubDate>Mon, 01 Apr 2024 13:32:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/01/att-data-leak-notifications/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>AT&amp;amp;T</category>
-		
-
-		<description><![CDATA[AT&T this week is letting customers and former customers know about <a href="https://www.att.com/support/article/my-account/000101995">a major data leak</a>, and it is sending out emails and resetting passcodes to prevent unauthorized account access.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/ATT-Banner.jpeg" alt="" width="1200" height="630" class="aligncenter size-full wp-image-937556" /><br/>
-7.6 million customers and 65.4 million former customers have had their passcodes stolen and have had sensitive data leaked. AT&T claims that there was no unauthorized access to its systems resulting in the theft of the data set, with the information obtained several years ago.<br/>
-<br/>
-Back in 2021, a hacking group said that it had stolen information on 70 million AT&T customers. AT&T at the time said that it had not suffered a breach, and the company still insists that the data did not come from its systems. Customer information leaked includes names, addresses, birth dates, AT&T account numbers, phone numbers, email addresses, and social security numbers, along with passcodes.<br/>
-<br/>
-The data was not made public until March 2024, but now that it is out in the wild, AT&T has initiated passcode resets and says that it is working with external cybersecurity experts to further analyze the situation.<br/>
-<br/>
-The company says leaked data does not include financial information or call history, and it will be providing complimentary identity theft and credit monitoring services for those who had their personal information compromised.<br/>
-<blockquote>AT&T has determined that AT&T data-specific fields were contained in a data set released on the dark web. While AT&T has made this determination, it is not yet known whether the data in those fields originated from AT&T or one of its vendors.<br/>
-<br/>
-With respect to the balance of the data set, which includes personal information such as social security numbers, the source of the data is still being assessed. Based on our preliminary analysis, the data set appears to be from 2019 or earlier, impacting approximately 7.6 million current AT&T account holders and 65.4 million former account holders. Currently, AT&T does not have evidence of unauthorized access to its systems resulting in theft of the data set.</blockquote>Impacted current and former customers will be receiving a letter or an email from AT&T.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/att/">AT&amp;T</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/01/att-data-leak-notifications/">AT&amp;T Notifying Customers About Massive Data Leak</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/at-t-notifying-customers-about-massive-data-leak.2423309/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>AltStore for iPhone in EU Will Have Apps Backed By Patreon</title>
-		<link>https://www.macrumors.com/2024/04/01/altstore-eu-iphone-patreon/</link>
-		<comments>https://forums.macrumors.com/threads/altstore-for-iphone-in-eu-will-have-apps-backed-by-patreon.2423298/</comments>
-		<pubDate>Mon, 01 Apr 2024 11:06:59 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/01/altstore-eu-iphone-patreon/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>App Store</category>
-		<category>European Union</category>
-		
-
-		<description><![CDATA[With iOS 17.4, Apple began supporting alternative app marketplaces in the European Union, and the first of these stores will be launching soon to give consumers new ways to install apps without having to use the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/App-Store-vs-EU-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932826" /><br/>
-Developer Riley Testut, known for Game Boy Advance emulator GBA4iOS, is working on AltStore, one of several alternative app marketplaces. As noted by <em><a href="https://techcrunch.com/2024/04/01/the-altstore-an-alternative-app-store-coming-to-eu-will-offer-patreon-backed-apps/">TechCrunch</a></em>, app marketplaces like AltStore will be able to monetize in ways that aren't currently possible. AltStore will accept payment through Patreon rather than making money through paid apps or ads.<br/>
-<br/>
-To use the first AltStore apps developed by Testut, customers will need to <a href="https://faq.altstore.io/patreon/beta-access">pledge &#36;1 to &#36;3</a> per month through Patreon. Video game emulator Delta will initially be free, and clipboard manager Clip will require a pledge of &#36;1. Later, beta versions of Delta and Clip will require &#36;3 per month to download and use.<br/>
-<br/>
-<div class="center-wrap"><iframe src="https://mastodon.social/@rileytestut/112168595273155086/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script></div><br/>
-With Patreon, Testut is able to offer subscription-based pricing that does not provide a 15 to 30 cut to Apple. Patreon collects between five and eight percent of income earned, depending on Patreon join date, plus a payment processing fee that ranges from three to five percent.<br/>
-<br/>
-Patreon's fees come in below Apple's fees, but should an AltStore app see more than one million first annual installs in a year, Apple will charge a 0.50 euro Core Technology Fee for each additional app install. The Core Technology Fee (CTF) makes it risky for free apps to be distributed through alternative app marketplaces, but <a href="https://www.macrumors.com/2024/03/18/apple-eu-core-technology-fee-viral-solution/">Apple recently said</a> that it is working on a solution to avoid bankrupting free apps that go viral and rack up too much in fees.<br/>
-<br/>
-After AltStore launches and Testut has it working properly, other developers will be able to distribute their apps through it as well. They'll have the option of using Patreon like Testut does for his apps, or another alternative. Patreon has the benefit of providing reward tiers, exclusive blog posts for subscribers, and other alternative content, plus subscriber numbers can be capped to avoid Apple's CTF.<br/>
-<br/>
-Testut plans to launch the AltStore as soon as he gets final approval from Apple, and as with all alternative app marketplaces, it will be limited to the European Union. Apps can only be installed through alternative means on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, not the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and only in eligible European countries. There are no &zwnj;App Store&zwnj; changes for the rest of the world to allow for alternative app installation.<br/>
-<br/>
-Last week, the European Commission (EC) opened a <a href="https://www.macrumors.com/2024/03/25/eu-to-investigate-apple-dma-compliance/">non-compliance investigation into Apple</a> to determine if the changes that it made are sufficient to meet the demands of the Digital Markets Act. Apple could be forced to change some of its rules or change the Core Technology Fee if the EC decides that Apple's updates do not go far enough.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/01/altstore-eu-iphone-patreon/">AltStore for iPhone in EU Will Have Apps Backed By Patreon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/altstore-for-iphone-in-eu-will-have-apps-backed-by-patreon.2423298/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPad Mini 6 Hits New All-Time Low Price of &#36;375 on Amazon</title>
-		<link>https://www.macrumors.com/2024/04/01/ipad-mini-6-new-low-price/</link>
-		<comments>https://forums.macrumors.com/threads/ipad-mini-6-hits-new-all-time-low-price-of-375-on-amazon.2423295/</comments>
-		<pubDate>Mon, 01 Apr 2024 10:11:41 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/01/ipad-mini-6-new-low-price/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Apple's 64GB Wi-Fi iPad mini 6 has dropped to a new all-time low price today on Amazon, available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G9BXKF5%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;375.00</strong></a> in Starlight, down from &#36;499.00. Amazon provides an estimated delivery date between this Wednesday, April 3 and Saturday, April 6 if you order today.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/09/iPad-mini-6-orange-BG.jpg" alt="" width="1881" height="1058" class="aligncenter size-full wp-image-816576" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-This is now the best price we've ever tracked on the iPad mini 6, and it beats the previous low tracked over the holidays by about &#36;5. Right now, only Amazon has the Starlight color at this price, but you can get the three other colors for &#36;99 off with an on-page coupon.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G9BXKF5%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;124 OFF</div>iPad mini 6 (64GB Wi-Fi) for &#36;375.00</div></a></div><br/>
-<br/>
-Apple's iPad mini 6 was introduced in late 2021, so it's reaching the end of its lifecycle at this point. This is likely why we'll start seeing steeper deals on the miniature tablet, which includes the A15 Bionic chip, a USB-C port, and Apple Pencil 2 support.<br/>
-<br/>
-If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/01/ipad-mini-6-new-low-price/">iPad Mini 6 Hits New All-Time Low Price of &#36;375 on Amazon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipad-mini-6-hits-new-all-time-low-price-of-375-on-amazon.2423295/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Card Savings Account: How the 4.5% Rate Compares in April 2024</title>
-		<link>https://www.macrumors.com/2024/04/01/apple-card-savings-rate-comparison-april/</link>
-		<comments>https://forums.macrumors.com/threads/apple-card-savings-account-how-the-4-5-rate-compares-in-april-2024.2423294/</comments>
-		<pubDate>Mon, 01 Apr 2024 10:00:49 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/01/apple-card-savings-rate-comparison-april/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Card</category>
-		
-
-		<description><![CDATA[The calendar has turned to April, so we have updated our chart comparing the Apple Card savings account's annual percentage yield (APY) to some other popular high-yield savings accounts (HYSAs) available to U.S. residents.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/apple-card-savings-account-feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-928948" /><br/>
-With a 4.5% APY, Apple's savings account remains a middle-of-the-pack HYSA, but balance minimums and other requirements vary by financial institution.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>Provider</th><br/>
- <th>Maximum APY*</th><br/>
- </tr><br/>
- <tr><br/>
- <td>Ally</td><br/>
- <td>4.25%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Discover</td><br/>
- <td>4.25%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>American Express</td><br/>
- <td>4.35%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Barclays</td><br/>
- <td>4.35%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Capital One</td><br/>
- <td>4.35%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Citizens Bank</td><br/>
- <td>4.5%</td><br/>
- </tr><br/>
-<tr><br/>
- <td><strong>Apple (Goldman Sachs)</strong></td><br/>
- <td><strong>4.5%</strong></td><br/>
- </tr><br/>
- <tr><br/>
- <td>Marcus (Goldman Sachs)</td><br/>
- <td>4.5%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>SoFi</td><br/>
- <td>4.6%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>PNC Bank</td><br/>
- <td>4.65%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Betterment</td><br/>
- <td>4.75%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Synchrony</td><br/>
- <td>4.75%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Wealthfront</td><br/>
- <td>5%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>CIT Bank</td><br/>
- <td>5.05%</td><br/>
- </tr><br/>
- <tr><br/>
- <td>UFB Direct</td><br/>
- <td>5.25%</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><small>* Advertised APYs as of April 1, 2024, excluding promotional and affiliate rates. APYs are subject to change at any time. This list is not comprehensive.</small><br/>
-<br/>
-Apple launched its savings account <a href="https://www.macrumors.com/2023/04/17/apple-card-savings-account-launching-today/">in April 2023</a>, in partnership with Goldman Sachs. The account can be opened and managed in the Wallet app on the iPhone, and it has no fees, no minimum deposits, and no minimum balance requirements. You must have an Apple Card, be a U.S. resident, and be at least 18 years old to open an account.<br/>
-<br/>
-The account allows Apple Card holders to earn interest on their Daily Cash cashback balance, and on funds deposited via a linked bank account or an Apple Cash balance. The maximum balance allowed <a href="https://www.macrumors.com/2024/03/01/apple-card-savings-1-million-limit/">is now &#36;1,000,000</a>, up from a previous limit of &#36;250,000.<br/>
-<br/>
-To open a savings account in the Wallet app, tap on your Apple Card, tap on the circle with three dots at the top of the screen, tap Daily Cash, and select Set Up Savings.<br/>
-<br/>
-Goldman Sachs reportedly plans to <a href="https://www.macrumors.com/2023/11/28/apple-goldman-sachs-partnership-ending/">end its consumer lending partnership with Apple</a>, but it is unclear how this might impact Apple Card holders.<br/>
-<br/>
-<strong>Update:</strong> Just hours after publishing this comparison chart, we learned that the Apple Card savings account's APY <a href="https://www.macrumors.com/2024/04/01/apple-card-savings-rate-to-decrease/">will be lowered to 4.4%</a> on Wednesday.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/01/apple-card-savings-rate-comparison-april/">Apple Card Savings Account: How the 4.5% Rate Compares in April 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-card-savings-account-how-the-4-5-rate-compares-in-april-2024.2423294/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Buy Introduces All-Time Low Prices on Apple&#039;s M3 MacBook Pro for Members</title>
-		<link>https://www.macrumors.com/2024/04/01/best-buy-m3-macbook-pro/</link>
-		<comments>https://forums.macrumors.com/threads/best-buy-introduces-all-time-low-prices-on-apples-m3-macbook-pro-for-members.2423285/</comments>
-		<pubDate>Mon, 01 Apr 2024 08:38:53 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/01/best-buy-m3-macbook-pro/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Best Buy is discounting a <a href="https://howl.me/clXg7GZlmgN">large collection of M3 MacBook Pro</a> computers today, including both the 14-inch and 16-inch versions of the laptop. Every deal in this sale requires you to have a <a href="https://howl.me/clXhbFzfyiP">My Best Buy Plus or Total membership</a>, although non-members can still get solid second-best prices on these MacBook Pro models.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/macbook-pro-blue-feb.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-935646" /><em><small>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-These deals are part of a larger <a href="https://howl.me/clXhbVZIGB5">sitewide sale at Best Buy</a>, which also includes discounts on video games, TVs, tablets, headphones, and more. Another highlight of this event is the PlayStation 5 Slim Bundle with Marvel's Spider-Man for <a href="https://howl.me/clUh1erQcL6"><strong>&#36;449.99</strong></a>, down from &#36;499.99. The PlayStation 5 Slim (Digital Edition) Spider-Man 2 Bundle is available for <a href="https://howl.me/clUh0j2gc8v"><strong>&#36;399.99</strong></a>, down from &#36;449.99. These are both solid &#36;50 discounts on the rarely discounted console.<br/>
-<br/>
-<h2>14-Inch MacBook Pro</h2><br/>
-Starting with the 14-inch M3 MacBook Pro, there are three total models on sale right now at Best Buy. The cheapest model is the 512GB M3 Pro model at <a href="https://howl.me/clALtdDDDQt"><strong>&#36;1,749.00</strong></a>, down from &#36;1,999.00.<br/>
-<br/>
-<div class="center-wrap"><em><strong>Note: My Best Buy Plus/Total membership required to see final deal price.</strong></em></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clALtdDDDQt"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>M3 Pro 14-inch MacBook Pro (512GB) for &#36;1,749.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clALuHQfnL8"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>M3 Pro 14-inch MacBook Pro (1TB) for &#36;2,149.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clG8UfisKWG"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>M3 Max 14-inch MacBook Pro (1TB) for &#36;2,949.00</div></a></div><h2>16-Inch MacBook Pro</h2><br/>
-You'll find bigger deals on the 16-inch MacBook Pro, particularly on the M3 Max models of the computer. For the M3 Pro models, prices start at <a href="https://howl.me/clJ6WARoNVB"><strong>&#36;2,249.00</strong></a> for the 512GB/18GB RAM 16-inch MacBook Pro and increase to <a href="https://howl.me/clJ6Yk5LhHP"><strong>&#36;2,649.00</strong></a> for the 512GB/36GB RAM model, both of which are all-time low prices.<br/>
-<br/>
-<div class="center-wrap"><em><strong>Note: My Best Buy Plus/Total membership required to see final deal price.</strong></em></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clJ6WARoNVB"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>M3 Pro 16-inch MacBook Pro (512GB, 18GB RAM) for &#36;2,249.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clJ6Yk5LhHP"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>M3 Pro 16-inch MacBook Pro (512GB, 36GB RAM) for &#36;2,649.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clJ6ZwjRDtm"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;255 OFF</div>M3 Max 16-inch MacBook Pro (1TB, 36GB RAM) for &#36;3,244.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/clJ60jB5Zoi"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;295 OFF</div>M3 Max 16-inch MacBook Pro (1TB, 48GB RAM) for &#36;3,704.00</div></a></div> <br/>
-<br/>
-Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/01/best-buy-m3-macbook-pro/">Best Buy Introduces All-Time Low Prices on Apple&#039;s M3 MacBook Pro for Members</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-buy-introduces-all-time-low-prices-on-apples-m3-macbook-pro-for-members.2423285/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>What to Expect From iOS 17.5</title>
-		<link>https://www.macrumors.com/2024/04/01/what-to-expect-from-ios-17-5/</link>
-		<comments>https://forums.macrumors.com/threads/what-to-expect-from-ios-17-5.2423283/</comments>
-		<pubDate>Mon, 01 Apr 2024 08:20:05 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/01/what-to-expect-from-ios-17-5/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple has yet to release the first beta of iOS 17.5 for the iPhone, but two changes are already expected with the upcoming software update.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.5-Feature-Orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-943813" /><br/>
-iOS 17.5 will likely allow iPhone users in the EU to download apps directly from the websites of eligible developers, and the update might include some changes to how Apple ID recovery contacts work. More details about these potential changes follow.<br/>
-<br/>
-<h2>Web Distribution</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/02/apple-ios-app-store-safari-changes.jpeg" alt="" width="2048" height="1151" class="aligncenter size-full wp-image-933983" /><br/>
-<a href="https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/">Apple recently announced</a> that eligible developers will soon be able to distribute their iOS apps to EU users directly from a website they own. Apple said this new "Web Distribution" feature will be available starting "later this spring" with an upcoming software update for the iPhone, which presumably refers to iOS 17.5.<br/>
-<br/>
-"Web Distribution" will be limited to larger developers based in the EU. To qualify for this distribution method, Apple says the developer must be a member of the Apple Developer Program for two continuous years or more, and have an app that had more than one million annual installs on iOS in the EU in the prior calendar year.<br/>
-<br/>
-"Web Distribution" builds upon the <a href="https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/">alternative app marketplaces</a> that Apple already allows on the iPhone in the EU starting with iOS 17.4. Apple has made these app-related changes to comply with the EU's Digital Markets Act.<br/>
-<br/>
-<h2>Apple ID Recovery Contact Changes</h2><br/>
-<img src="https://images.macrumors.com/article-new/2021/10/Recovery-Contact-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-820584" /><br/>
-iOS 17.5 may include some changes to Apple ID recovery contacts, according to known tipster <a href="https://twitter.com/nicolas09F9/status/1773052260450197992">Nicolás Álvarez</a>. However, he did not share any specific details, and he said there is a chance that the changes would not be visible to users.<br/>
-<br/>
-Setting up recovery contacts for your Apple ID can help to ensure that you always have access to your account, even if you forget the password or a linked device's passcode.<br/>
-<ul><li><a href="https://www.macrumors.com/how-to/set-recovery-contact-apple-account/">How to Set a Recovery Contact for Your Apple ID Account</a></li></ul><h2>Timing</h2><br/>
-iOS 17.5 will likely be released to the public before the end of May.<br/>
-<br/>
-In a <a href="https://www.macrumors.com/guide/when-will-apple-release-ios-17-5/">social media post last week</a>, <em>Bloomberg</em>'s Mark Gurman said Apple would finish internal development of the first beta of iOS 17.5 this week. However, it is unclear if that means the first beta will be released this week or later.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/01/what-to-expect-from-ios-17-5/">What to Expect From iOS 17.5</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/what-to-expect-from-ios-17-5.2423283/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Says iPhone 6 Plus Now &#039;Obsolete&#039; and iPad Mini 4 Now &#039;Vintage&#039;</title>
-		<link>https://www.macrumors.com/2024/04/01/apple-says-iphone-6-plus-is-now-obsolete/</link>
-		<comments>https://forums.macrumors.com/threads/apple-says-iphone-6-plus-now-obsolete-and-ipad-mini-4-now-vintage.2423274/</comments>
-		<pubDate>Mon, 01 Apr 2024 06:42:08 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/01/apple-says-iphone-6-plus-is-now-obsolete/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Vintage and Obsolete Apple Products</category>
-		
-
-		<description><![CDATA[Apple today added a handful of devices to its public-facing <a href="https://support.apple.com/en-us/102772">vintage and obsolete products list</a>, including some older iPhone and iPad models.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/12/a-iphone-6-plus-ad.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-827724" /><br/>
-Apple now considers the iPhone 6 Plus to be "obsolete" worldwide, meaning that Apple Stores and Apple Authorized Service Providers no longer offer repairs or other hardware service for the device. Apple says it considers a product "obsolete" once seven years have passed since the company last distributed it for sale.<br/>
-<br/>
-Apple launched the iPhone 6 and iPhone 6 Plus in September 2014, with key features including larger screens than previous models and Apple Pay support. Apple discontinued the iPhone 6 Plus in September 2016, but the iPhone 6 remained available through resellers in select countries for a few more years, so it is not yet considered "obsolete."<br/>
-<br/>
-On the software side, iOS 13 dropped support for the iPhone 6 and iPhone 6 Plus in 2019.<br/>
-<br/>
-As for the iPad, Apple now considers the fourth-generation iPad mini to be "vintage," meaning that more than five years have passed since the company stopped distributing the device for sale. Apple Stores and Apple Authorized Service Providers continue to offer repairs for vintage products for up to two more years, subject to parts availability.<br/>
-<br/>
-Apple also added the iPhone 8 and iPhone 8 Plus to its "vintage" products list, but in the (PRODUCT)RED color only. The devices remained available in other colors for longer, so those colors are not "vintage" yet.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/vintage-and-obsolete/">Vintage and Obsolete Apple Products</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/01/apple-says-iphone-6-plus-is-now-obsolete/">Apple Says iPhone 6 Plus Now &#039;Obsolete&#039; and iPad Mini 4 Now &#039;Vintage&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-says-iphone-6-plus-now-obsolete-and-ipad-mini-4-now-vintage.2423274/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s Website Finally Has &#039;Tech Specs&#039; Pages for Apple Watch Models</title>
-		<link>https://www.macrumors.com/2024/03/30/apples-watch-tech-specs-pages/</link>
-		<comments>https://forums.macrumors.com/threads/apples-website-finally-has-tech-specs-pages-for-apple-watch-models.2423180/</comments>
-		<pubDate>Sat, 30 Mar 2024 11:25:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/03/30/apples-watch-tech-specs-pages/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Watch</category>
-		<category>Apple Watch SE</category>
-		<category>Apple Watch Ultra</category>
-		
-
-		<description><![CDATA[Apple this week <a href="https://twitter.com/aaronp613/status/1773807348097638700">added</a> dedicated "Tech Specs" pages to its website for the <a href="https://www.apple.com/apple-watch-series-9/specs/">Apple Watch Series 9</a>, <a href="https://www.apple.com/apple-watch-ultra-2/specs/">Apple Watch Ultra 2</a>, and <a href="https://www.apple.com/apple-watch-se/specs/">second-generation Apple Watch SE</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/Apple-Watch-Series-9.jpg" alt="" width="2880" height="1620" class="aligncenter size-full wp-image-910331" /><br/>
-The pages offer a variety of information about the latest Apple Watch models, including details about materials and finishes, size and weight, hardware, connectivity, battery life, health and wellness features, safety features, accessibility features, and more.<br/>
-<br/>
-The pages complement the previously-existing <a href="https://www.apple.com/watch/compare/">Apple Watch comparison tool</a>.<br/>
-<br/>
-There is not much else to say about the pages, other than "finally."<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a>, <a href="https://www.macrumors.com/roundup/apple-watch-se/">Apple Watch SE</a>, <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#Apple_Watch_SE">Apple Watch SE (Caution)</a>, <a href="https://buyersguide.macrumors.com/#Apple_Watch_Ultra">Apple Watch Ultra (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/03/30/apples-watch-tech-specs-pages/">Apple&#039;s Website Finally Has &#039;Tech Specs&#039; Pages for Apple Watch Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-website-finally-has-tech-specs-pages-for-apple-watch-models.2423180/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
