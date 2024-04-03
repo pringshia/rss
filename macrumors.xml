@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 03 Apr 2024 09:03:24 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 03 Apr 2024 13:02:44 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,9 +22,87 @@
 	<generator>https://www.macrumors.com</generator>
 		
 		<item>
-		<title>iOS 17.5 Potentially References New Apple Pencil and &#039;Squeeze&#039; Gesture</title>
+		<title>Apple Exploring &#039;Mobile Robot&#039; That &#039;Follows Users Around Their Homes&#039;</title>
+		<link>https://www.macrumors.com/2024/04/03/apple-reportedly-investigating-robotics/</link>
+		<comments>https://forums.macrumors.com/threads/apple-exploring-mobile-robot-that-follows-users-around-their-homes.2423460/</comments>
+		<pubDate>Wed, 03 Apr 2024 12:21:06 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/03/apple-reportedly-investigating-robotics/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Mark Gurman</category>
+		
+
+		<description><![CDATA[Apple is exploring various "personal robotics" projects in an effort to create its "next big thing," according to <a href="https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts"><em>Bloomberg</em>'s Mark Gurman</a>.<br/>
+<br/>
+<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/04/Amazon-Astro.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-944747" /><em>Amazon's Astro robot</em></div><br/>
+One of these projects is described as a "mobile robot" that would "follow users around their homes," while another is said to be an "advanced table-top home device that uses robotics to move a display around":<blockquote>Engineers at Apple have been exploring a mobile robot that can follow users around their homes, said the people, who asked not to be identified because the skunk-works project is private. The iPhone maker also has developed an advanced table-top home device that uses robotics to move a display around, they said.</blockquote>Apple is investigating the use of AI algorithms that would help robots "navigate cluttered spaces within people's homes," the report says. Apple has apparently wanted to create robots that can "handle chores, like cleaning dishes in a sink," but Gurman said this feat is unlikely this decade due to "extraordinarily difficult engineering challenges."<br/>
+<br/>
+Apple's home robot could compete with the likes of Amazon's Astro, which serves as a mobile virtual assistant and provides home security monitoring.<br/>
+<br/>
+As for the table-top device, Gurman said one idea was for its display to "mimic the head movements" of a person on a FaceTime video call. However, he said Apple has faced technical challenges related to "balancing the weight of a robotic motor on a small stand," and some Apple executives have apparently debated whether to develop such a device.<br/>
+<br/>
+The robotics projects are said to be in the very early stages of research, and it is unclear if any of them will ever be released to the public. For now, these are just moonshot ideas, but they are fascinating ones to learn about.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/03/apple-reportedly-investigating-robotics/">Apple Exploring &#039;Mobile Robot&#039; That &#039;Follows Users Around Their Homes&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-exploring-mobile-robot-that-follows-users-around-their-homes.2423460/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPadOS 17.5 Beta Hints at Battery Capacity and Cycle Count Menu on Upcoming iPads</title>
+		<link>https://www.macrumors.com/2024/04/03/ipados-17-5-beta-battery-health-code/</link>
+		<comments>https://forums.macrumors.com/threads/ipados-17-5-beta-hints-at-battery-capacity-and-cycle-count-menu-on-upcoming-ipads.2423459/</comments>
+		<pubDate>Wed, 03 Apr 2024 11:49:58 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/03/ipados-17-5-beta-battery-health-code/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iPad Air</category>
+		<category>iPad Pro 11&quot;</category>
+		<category>iPad Pro 12.9&quot;</category>
+		
+
+		<description><![CDATA[Apple may be planning to expand the iPhone's Battery Health menu to upcoming iPad models, based on evidence uncovered in the <a href="https://www.macrumors.com/2024/04/02/apple-seeds-ios-17-5-beta-1-to-developers/">iPadOS 17.5 beta</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iPad-Battery-Feature.jpg" alt="" width="1990" height="1120" class="aligncenter size-full wp-image-944716" /><br/>
+As discovered by <em>MacRumors</em> contributors <a href="https://www.macrumors.com/author/steve-moser/">Steve Moser</a> and <a href="https://www.macrumors.com/author/aaron-perris/">Aaron Perris</a>, there are several new references to a Battery Health menu on the iPad within the code for the first iPadOS 17.5 beta, which was released to developers earlier this week. The menu is expected to show an iPad battery's maximum remaining capacity and cycle count.<br/>
+<br/>
+A sample of the code strings added in the iPadOS 17.5 beta:<br/>
+<br/>
+<ul><li>"iPad must be regularly used while not connected to power to show maximum capacity."</li><br/>
+<li>"This is the number of times iPad has used your battery's capacity."</li><br/>
+<li>"The iPad battery is performing as expected."</li><br/>
+<li>"iPad batteries, like all rechargeable batteries, have a limited lifespan and may eventually need to be serviced or replaced."</li><br/>
+<li>"The original battery was designed to retain X capacity at X cycles under ideal conditions. Actual battery performance depends on a number of variables, including how iPad is used and charged regularly. The one-year warranty includes service for defective batteries in addition to rights provided under local consumer laws."</li></ul><br/>
+<br/>
+There is no visible Battery Health menu on any existing iPad models on the first iPadOS 17.5 beta, leading us to believe that the menu may be limited to the <a href="https://www.macrumors.com/2024/03/28/new-ipad-models-may-launch/">new iPad Pro and iPad Air models that are rumored to launch in May</a>, and likely other new iPads released in the future. Apple has shown battery capacity information on iPhones for many years, but cycle count information is currently <a href="https://www.macrumors.com/2023/09/20/iphone-15-shows-battery-cycle-count/">limited to the latest iPhone 15 series</a>.<br/>
+<br/>
+Apple will likely release iPadOS 17.5 to the public in May. Given this is a code finding in a beta, we cannot guarantee that a Battery Health menu will be added to the iPad, but it is certainly something that Apple has been working on.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a>, <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#11-iPad-Pro">11" iPad Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#12-9-iPad-Pro">12.9" iPad Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/03/ipados-17-5-beta-battery-health-code/">iPadOS 17.5 Beta Hints at Battery Capacity and Cycle Count Menu on Upcoming iPads</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipados-17-5-beta-hints-at-battery-capacity-and-cycle-count-menu-on-upcoming-ipads.2423459/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Testing the New Apple Vision Pro Spatial Persona</title>
+		<link>https://www.macrumors.com/2024/04/03/testing-vision-pro-spatial-persona/</link>
+		<comments>https://forums.macrumors.com/threads/testing-the-new-apple-vision-pro-spatial-persona.2423452/</comments>
+		<pubDate>Wed, 03 Apr 2024 11:09:21 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/03/testing-vision-pro-spatial-persona/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>visionOS</category>
+		
+
+		<description><![CDATA[As of this week, <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> users can <a href="https://www.macrumors.com/2024/04/02/spatial-personas-beta-coming-to-vision-pro/">set up a spatial Persona</a>, which is a new version of a Persona that's designed to make it feel like you're interfacing with other people right in the same room. We thought we'd test out the spatial Persona feature to see how it works and whether it's an improvement over the regular Persona option.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZN1ADgbgDMY?si=uoXk3TI6iDhYmwo7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+Spatial Personas have a translucent background and include the head, hands, and top part of the torso to provide a more natural feel so that it seems like the people in the conversation are in the same physical room with one another. With spatial Personas, people can move about in their real world space, and that's reflected in the virtual setting. Persona location is the same for all people on a call, so if there are five participants, each one has a different location just as they would sitting together in a room.<br/>
+<br/>
+If you look at or point to someone on the call, the other participants can see where you are looking or pointing. Voices are also directional relative to where each person is at.<br/>
+<br/>
+Standard Personas show only a person's face and are limited to a small tile, but spatial Personas have a much more immersive feel. Apple has been improving Personas since the Vision Pro headset launched, and while there's still an uncanny valley feel to them, the visuals are much improved and overall less creepy.<br/>
+<br/>
+Spatial Personas can be used for watching movies and TV shows together, <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> and other video calls, using apps like Freeform, playing games, and more.<br/>
+<br/>
+As of right now, spatial Personas are live in <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> in a beta capacity, with the &zwnj;visionOS&zwnj; 1.1 update required. Spatial Personas work with up to five participants.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/03/testing-vision-pro-spatial-persona/">Testing the New Apple Vision Pro Spatial Persona</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/testing-the-new-apple-vision-pro-spatial-persona.2423452/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPadOS 17.5 Beta Potentially References New Apple Pencil and &#039;Squeeze&#039; Gesture</title>
 		<link>https://www.macrumors.com/2024/04/03/ios-17-5-apple-pencil-4-rumor/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-5-potentially-references-new-apple-pencil-and-squeeze-gesture.2423447/</comments>
+		<comments>https://forums.macrumors.com/threads/ipados-17-5-beta-potentially-references-new-apple-pencil-and-squeeze-gesture.2423447/</comments>
 		<pubDate>Wed, 03 Apr 2024 09:03:02 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/04/03/ios-17-5-apple-pencil-4-rumor/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
@@ -43,7 +121,7 @@ NumberOfApplePencilV4ConnectionsCount</blockquote>A new Apple Pencil is rumored 
 <br/>
 Additional code in the iOS 17.5 beta uncovered by <em>MacRumors</em> contributor <a href="https://www.macrumors.com/author/aaron-perris/">Aaron Perris</a> suggests that the Apple Pencil could gain a "squeeze" gesture for certain actions, but details are slim. The gesture may provide users with a quicker way to add a sticker, text box, signature, or shape in image editing apps, the code suggests.<br/>
 <br/>
-<em>MacRumors</em> exclusively reported that Apple has <a href="https://www.macrumors.com/2024/03/25/apple-pencil-visionon-support-in-testing/">tested a new Apple Pencil with visionOS support</a>, but it is unclear if this feature will be released to the public.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a>, <a href="https://forums.macrumors.com/forums/ipad-accessories.139">iPad Accessories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/03/ios-17-5-apple-pencil-4-rumor/">iOS 17.5 Potentially References New Apple Pencil and &#039;Squeeze&#039; Gesture</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-5-potentially-references-new-apple-pencil-and-squeeze-gesture.2423447/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<em>MacRumors</em> exclusively reported that Apple has <a href="https://www.macrumors.com/2024/03/25/apple-pencil-visionon-support-in-testing/">tested a new Apple Pencil with visionOS support</a>, but it is unclear if this feature will be released to the public.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a>, <a href="https://forums.macrumors.com/forums/ipad-accessories.139">iPad Accessories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/03/ios-17-5-apple-pencil-4-rumor/">iPadOS 17.5 Beta Potentially References New Apple Pencil and &#039;Squeeze&#039; Gesture</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipados-17-5-beta-potentially-references-new-apple-pencil-and-squeeze-gesture.2423447/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -493,79 +571,6 @@ The release notes for version 14.0 of the Mac apps follow, and the release notes
 • Streamlined in-app notifications inform you when a person joins a collaborative document for the first time<br/>
 • Preserve file format and full quality when adding HEIC photos taken on iPhone or iPad<br/>
 • Additional stability and performance improvements</blockquote>App Store links: <a href="https://apps.apple.com/us/app/-/id409201541">Mac</a> and <a href="https://apps.apple.com/us/app/-/id361309726">iPad/iPhone</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/iwork/">iWork</a>, <a href="https://www.macrumors.com/guide/pages/">Pages</a>, <a href="https://www.macrumors.com/guide/keynote/">Keynote</a>, <a href="https://www.macrumors.com/guide/numbers/">Numbers</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/apple-updates-iwork-apps-with-new-features/">Apple Updates iWork Apps With New Features on Mac, iPad, and iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-updates-iwork-apps-with-new-features-on-mac-ipad-and-iphone.2423380/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Alleged iOS 18 Design Resource Reveals visionOS-Like Redesign [Updated]</title>
-		<link>https://www.macrumors.com/2024/04/02/ios-18-resource-reveals-visionos-redesign/</link>
-		<comments>https://forums.macrumors.com/threads/alleged-ios-18-design-resource-reveals-visionos-like-redesign-updated.2423376/</comments>
-		<pubDate>Tue, 02 Apr 2024 08:19:30 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/ios-18-resource-reveals-visionos-redesign/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[A first look at iOS 18's rumored visionOS-style redesign may have been revealed by a new image of the Camera app.<br/>
-<br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/04/iOS-18-Camera-App-Possible-Leak-16x9-1.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-944500" /><em>Alleged iOS 18 design resource.</em></div><br/>
-<em>MacRumors</em> received the above iPhone frame template from an anonymous source who claims they obtained it from an iOS engineer. It will allegedly be included as part of the <a href="https://developer.apple.com/design/resources/">Apple Design Resources</a> for iOS 18, which helps developers visually design apps using software like Sketch and Photoshop. We cannot attest to the authenticity of the image, but believe it is worth sharing because it is consistent with previous rumors.<br/>
-<br/>
-In February, Israeli website <em>The Verifier</em> claimed that iOS 18 and iPadOS 18 will feature <a href="https://www.macrumors.com/2024/02/09/ios-18-visionos-design-elements-rumor/">visionOS-inspired design elements</a>. The Vision Pro headset's OS features a high level of depth translucency with glass-like buttons that have reflective edges. <br/>
-<br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/02/visionOS-design.jpeg" alt="" width="1800" height="1012" class="aligncenter size-full wp-image-935810" /><em>visionOS design elements.</em></div><br/>
-<br/>
-For example, the Apple TV app on iPadOS 18 will apparently feature the same translucent navigation bar that was <a href="https://www.macrumors.com/2023/10/26/apple-tv-app-redesign-tvos-17-2/">introduced in the tvOS 17.2 version of the app</a> last year. The design of this menu has clear similarities to visionOS. Apple also plans to redesign various other system menus and built-in apps on iOS 18, including Safari, according to the report.<br/>
-<br/>
-<em>The Verifier</em> has a mixed track record with Apple rumors over the years, but <em>Bloomberg</em>'s Mark Gurman subsequently said that Apple is <a href="https://www.macrumors.com/2024/02/25/ios-18-design-changes-rumors/">working to update the design of iOS</a> as "early as this year." He agreed that iOS could take some design cues from visionOS going forward, but Gurman does not expect a "total overhaul that mirrors visionOS." The extent of the potential redesign is therefore still unknown.<br/>
-<br/>
-While Gurman implied that the redesign may not emerge this year, he was more firm about iOS 18 being redesigned in a <a href="https://www.bloomberg.com/news/newsletters/2023-11-12/apple-aapl-plans-ambitious-ios-18-and-macos-15-updates-seeks-to-squash-bugs-lovjlsf6">November edition</a> of his newsletter, when he said Apple's senior management had <a href="https://www.macrumors.com/2023/11/13/apple-says-ios-18-ambitious-compelling/">described iOS 18 as "ambitious and compelling,"</a> with "major new features and designs."<br/>
-<br/>
-The purported iOS 18 Camera app design resource seemingly lines up with these reports, showing a substantial rethinking of Apple's visual elements in line with visionOS, but it may not be legitimate. Apple is expected to preview iOS 18 at its annual developers conference WWDC on June 10. The first beta should be available shortly after the announcement. The update should be released to all users in September alongside the iPhone 16 lineup. For more details about the upcoming software update, see our comprehensive <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18 roundup</a>.<br/>
-<br/>
-<b>Update 11:35 a.m.</b>: We've received information from several sources indicating that the image is fake.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/ios-18-resource-reveals-visionos-redesign/">Alleged iOS 18 Design Resource Reveals visionOS-Like Redesign [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/alleged-ios-18-design-resource-reveals-visionos-like-redesign-updated.2423376/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s AirPods 2 Drop to Low Price of &#36;89 on Amazon</title>
-		<link>https://www.macrumors.com/2024/04/02/airpods-2-low-price-of-89/</link>
-		<comments>https://forums.macrumors.com/threads/apples-airpods-2-drop-to-low-price-of-89-on-amazon.2423371/</comments>
-		<pubDate>Tue, 02 Apr 2024 07:58:26 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/airpods-2-low-price-of-89/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple's entry-level AirPods 2 have hit <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;89.00</strong></a> today on Amazon, down from &#36;129.00. This is one of the few times in 2024 the AirPods 2 have dropped below their typical &#36;99.00 deal price, so if you've been waiting to purchase now is a good time.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/05/Airpods-2-Discount-Feature-Purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-895364" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-The AirPods 2 feature Apple's H1 chip, providing seamless setup for iPhone and other Apple devices. They lack some of the more advanced features of the newer AirPods 3 and updated AirPods Pro 2 with USB-C, but for anyone who just needs a reliable pair of wireless earbuds, they're perfect at this low price.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;40 OFF</div>AirPods 2 for &#36;89.00</div></a></div><br/>
-<br/>
-Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>. We track sales for every model of the AirPods in our <a href="https://www.macrumors.com/guide/airpods-deals/">Best AirPods Deals</a> guide, so be sure to bookmark that page while you shop around for the wireless headphones.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/airpods-2-low-price-of-89/">Apple&#039;s AirPods 2 Drop to Low Price of &#36;89 on Amazon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-airpods-2-drop-to-low-price-of-89-on-amazon.2423371/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Spatial Personas Coming to Apple Vision Pro in Beta Today</title>
-		<link>https://www.macrumors.com/2024/04/02/spatial-personas-beta-coming-to-vision-pro/</link>
-		<comments>https://forums.macrumors.com/threads/spatial-personas-coming-to-apple-vision-pro-in-beta-today.2423365/</comments>
-		<pubDate>Tue, 02 Apr 2024 07:10:20 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/02/spatial-personas-beta-coming-to-vision-pro/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[Apple today announced that Spatial Personas are now available for all Vision Pro users in a public beta.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/Spatial-Persona-Apple.jpg" alt="" width="1600" height="900" class="alignnone size-full wp-image-944483" /><br/>
-Apple <a href="https://www.macrumors.com/2023/06/07/vision-pro-spatial-personas/">previewed Spatial Personas</a> at WWDC last year. Unlike the existing Personas feature, which is confined to a tile and facial expressions only, Spatial Personas allow Vision Pro users to "break out of the familiar <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> tile and feel more present, like they are gathered in the same physical space." They feature a transparent background and are able to show body language and additional movement such as hand gestures for a more lifelike experience.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I tried Spatial Persona on Apple Vision Pro yesterday. I watched a movie trailer with several other Personas in Apple TV, examined a 3D jet turbine in JigSpace, collaborated on a whiteboard in Freemform, and played Hearts in Game Room.<br><br>It was pretty cool! Apple Vision Pro… <a href="https://t.co/toFY5IVQuz">pic.twitter.com/toFY5IVQuz</a></p>&mdash; Ray Wong (@raywongy) <a href="https://twitter.com/raywongy/status/1775149090961015037?ref_src=twsrc%5Etfw">April 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-<br/>
-Spatial Personas are independent of a <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> software update or beta, but require &zwnj;visionOS&zwnj; 1.1 or later. The feature is available during &zwnj;FaceTime&zwnj; calls and supports up to five participants at once. <em><a href="https://www.inverse.com/tech/spatial-persona-apple-vision-pro">Inverse</a></em> and <a href="https://www.roadtovr.com/apple-vision-pro-spatial-personas-hands-on/"><em>Road to VR</em></a> today shared first impressions of the new feature.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/02/spatial-personas-beta-coming-to-vision-pro/">Spatial Personas Coming to Apple Vision Pro in Beta Today</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/spatial-personas-coming-to-apple-vision-pro-in-beta-today.2423365/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
