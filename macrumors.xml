@@ -14,12 +14,72 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Sat, 06 Apr 2024 05:03:42 PDT</lastBuildDate>
+	<lastBuildDate>Sat, 06 Apr 2024 09:03:17 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Top Stories: iOS 17.5 Beta, The Latest on New iPads, and More</title>
+		<link>https://www.macrumors.com/2024/04/06/top-stories-ios-17-5-beta/</link>
+		<comments>https://forums.macrumors.com/threads/top-stories-ios-17-5-beta-the-latest-on-new-ipads-and-more.2423660/</comments>
+		<pubDate>Sat, 06 Apr 2024 06:00:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/06/top-stories-ios-17-5-beta/</guid>
+		<dc:creator>MacRumors Staff</dc:creator>
+		<category>Featured</category>
+		<category>Top Stories</category>
+		
+
+		<description><![CDATA[We're still two months away from the unveiling of iOS 18 at WWDC, so Apple is pushing forward with the first beta of new iOS 17.5 and iPadOS 17.5 updates likely to be officially released next month. These updates are smaller in scale than the recent 17.4 updates, but we're still finding some interesting changes in them.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/top-stories-6apr2024.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-945110" /><br/>
+Meanwhile, the wait for new iPads continues, and it appears we've got around another month before we'll see them released. Other news this week included a iPhone 16 display rumor, details on upcoming Beats Solo 4 headphones, and the release of more immersive spatial Personas for Apple Vision Pro, so read on below for all the details!<br/>
+<br/>
+<h2>Here's Everything New in iOS 17.5 Beta 1</h2><br/>
+Apple this week made the <a href="https://www.macrumors.com/2024/04/02/apple-seeds-ios-17-5-beta-1-to-developers/">first betas of iOS 17.5 and iPadOS 17.5</a> available to developers and public beta testers. The upcoming software updates include <a href="https://www.macrumors.com/2024/04/03/everything-new-in-ios-17-5-beta-1/">only a few new user-facing features</a> for the iPhone and iPad so far, but hidden code changes reveal some additional possibilities.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.5-Feature-Orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-943813" /><br/>
+We have put together a list of <a href="https://www.macrumors.com/2024/04/03/everything-new-in-ios-17-5-beta-1/">everything discovered in the first iOS 17.5 and iPadOS 17.5 betas</a>, including code changes related to a Battery Health menu coming to the iPad, a new Apple Pencil, and more.<br/>
+<br/>
+iOS 17.5 and iPadOS 17.5 will likely be released to the public in May.<br/>
+<br/>
+<h2>iPhone 16 Rumored to Feature Even Thinner Bezels</h2><br/>
+For the second time in as many months, it has been rumored that <a href="https://www.macrumors.com/2024/04/04/iphone-16-even-thinner-bezels/">at least some iPhone 16 models will feature even thinner bezels around the screen</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/Apple-iPhone-15-Pro-lineup-Action-button-230912.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-910375" /><br/>
+The higher-end <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro and iPhone 16 Pro Max are expected to feature larger 6.3-inch and 6.9-inch displays</a>, but the thinner bezels could result in the devices having only modestly larger dimensions compared to the 6.1-inch iPhone 15 Pro and the 6.7-inch iPhone 15 Pro Max.<br/>
+<br/>
+<h2>Apple Suppliers Say New iPads Have Been 'Repeatedly Postponed'</h2><br/>
+It has been <a href="https://buyersguide.macrumors.com/#12-9-iPad-Pro">nearly 18 months since Apple last updated its iPad lineup</a>, and customers are anxiously waiting for new models to be announced. For months, there have been <a href="https://www.macrumors.com/guide/oled-ipad-pro/">rumors about new iPad Pro</a> and <a href="https://www.macrumors.com/guide/2024-ipad-air/">iPad Air models</a>, but the estimated timeframe for their release has been repeatedly pushed back from March to April <a href="https://www.macrumors.com/2024/03/28/new-ipad-models-may-launch/">to May</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/M3-iPad-Feature-3.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-917548" /><br/>
+In defense of these rumors, it does sound like the new iPads have indeed experienced delays, as <a href="https://www.macrumors.com/2024/04/04/apple-suppliers-say-new-ipads-repeatedly-postponed/">some Apple suppliers say production of related components has been "repeatedly postponed."</a><br/>
+<br/>
+<h2>iPadOS 17.5 Beta Hints at Battery Capacity and Cycle Count Menu on Upcoming iPads</h2><br/>
+Apple may be planning to expand the iPhone's Battery Health menu to upcoming iPads, based on <a href="https://www.macrumors.com/2024/04/03/ipados-17-5-beta-battery-health-code/">evidence uncovered in the iPadOS 17.5 beta</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iPad-Battery-Feature.jpg" alt="" width="1990" height="1120" class="aligncenter size-full wp-image-944716" /><br/>
+The first iPadOS 17.5 beta includes <a href="https://www.macrumors.com/2024/04/03/ipados-17-5-beta-battery-health-code/">several new references to a Battery Health menu on the iPad</a>, but the feature is not actually visible yet, and it may be exclusive to upcoming iPads. The menu is expected to show an iPad battery's maximum remaining capacity and cycle count.<br/>
+<br/>
+<h2>New Beats Solo 4 to Feature Improved Sound, USB-C</h2><br/>
+<a href="https://www.macrumors.com/2024/04/02/new-beats-solo-4-to-feature-improved-sound-usb-c/">New features and details for the rumored Beats Solo 4</a> surfaced this week, shortly after the headphones appeared <a href="https://www.macrumors.com/2024/04/02/apple-beats-solo-4-headphones/">in the FCC database</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/new-beats-solo-4.jpg" alt="" width="1129" height="635" class="aligncenter size-full wp-image-938522" /><br/>
+Key features expected for the Beats Solo 4 include <a href="https://www.macrumors.com/2024/04/02/new-beats-solo-4-to-feature-improved-sound-usb-c/">improved sound quality, a USB-C charging port, and up to 50 hours of battery life for music playback</a>. Like the Beats Solo 3 headphones that launched in 2016, the Solo 4 are expected to cost &#36;199 in the United States.<br/>
+<br/>
+<h2>Testing the Apple Vision Pro's New Spatial Personas Feature</h2><br/>
+<a href="https://www.macrumors.com/2024/04/02/spatial-personas-beta-coming-to-vision-pro/">Spatial Personas are now available on Apple's Vision Pro headset</a> in beta capacity. The feature is available on visionOS 1.1 and later.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/New-Spatial-Persona-Thumb-2.jpg" alt="" width="2560" height="1440" class="aligncenter size-full wp-image-944685" /><br/>
+In a <a href="https://www.macrumors.com/2024/04/03/testing-vision-pro-spatial-persona/">recent video</a> on our YouTube channel, we <a href="https://www.macrumors.com/2024/04/03/testing-vision-pro-spatial-persona/">tested the new spatial Personas</a>, which "break out of the familiar FaceTime tile and feel more present" in the visionOS space compared to the standard Personas that have been available since day one, according to Apple.<br/>
+<br/>
+<h3>MacRumors Newsletter</h3><br/>
+Each week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.<br/>
+<br/>
+So if you want to have <a href="https://mailchi.mp/macrumors/apr-4-2024">top stories</a> like the above recap delivered to your email inbox each week, <b><a href="http://eepurl.com/OHdUX">subscribe to our newsletter</a></b>!<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/top-stories/">Top Stories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/06/top-stories-ios-17-5-beta/">Top Stories: iOS 17.5 Beta, The Latest on New iPads, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/top-stories-ios-17-5-beta-the-latest-on-new-ipads-and-more.2423660/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple&#039;s Work on Robots: What We Know So Far</title>
@@ -590,29 +650,6 @@ Google says that the &zwnj;Find My&zwnj; Device network will let Android users f
 Beta testers can opt-in through the Software Update section of the System Settings app. Under Beta updates, simply toggle on the Sonoma Public Beta. Note that you must sign up to participate on Apple's <a href="https://beta.apple.com">beta testing website</a>.<br/>
 <br/>
 There were no new features found in the &zwnj;macOS Sonoma&zwnj; 14.5 developer beta, and Apple listed no additions in its release notes. It is likely that the update focuses on bug fixes and other small under-the-hood improvements. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/04/apple-seeds-first-public-beta-of-macos-14-5/">Apple Seeds First Public Beta of macOS 14.5</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-public-beta-of-macos-14-5.2423540/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases First Public Beta of iOS 17.5</title>
-		<link>https://www.macrumors.com/2024/04/04/apple-releases-ios-17-5-public-beta-1/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-first-public-beta-of-ios-17-5.2423538/</comments>
-		<pubDate>Thu, 04 Apr 2024 10:07:45 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/04/apple-releases-ios-17-5-public-beta-1/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple today seeded the first betas of upcoming iOS 17.5 and iPadOS 17.5 updates to public beta testers, allowing non-developers to test the software ahead of its release. The public iOS 17.5 and iPadOS 17.5 betas come two days after Apple released the betas for developers.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.5-Feature-Orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-943813" /><br/>
-Public beta testers can get the beta by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Public Beta. Signing up on Apple's beta testing website is required.<br/>
-<br/>
-iOS 17.5 is limited on new outward-facing features, focusing primarily on changes in the European Union. App developers in the EU are now able to add their <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> apps to their website, so that users can download them directly without having to use the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>.<br/>
-<br/>
-To offer an app for download from a website in the European Union, developers need to meet specific criteria. Developers need to be a member of the Apple Developer Program for two continuous years or more and must have an app with more than one million first installs on iOS in the European Union in the prior year. Other requirements include submitting to Apple's notarization process and publishing transparent data collection policies.<br/>
-<br/>
-This feature is limited to the European Union due to the Digital Markets Act and is not available to all users.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/04/apple-releases-ios-17-5-public-beta-1/">Apple Releases First Public Beta of iOS 17.5</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-first-public-beta-of-ios-17-5.2423538/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
