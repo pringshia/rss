@@ -14,12 +14,84 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 10 Apr 2024 13:03:01 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 10 Apr 2024 17:11:46 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Suggests Solution for &#039;Ghost Touch&#039; Issue on Apple Watch Series 7 and Later</title>
+		<link>https://www.macrumors.com/2024/04/10/apple-watch-ghost-touch-issue-series-7/</link>
+		<comments>https://forums.macrumors.com/threads/apple-suggests-solution-for-ghost-touch-issue-on-apple-watch-series-7-and-later.2423963/</comments>
+		<pubDate>Wed, 10 Apr 2024 16:39:54 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/10/apple-watch-ghost-touch-issue-series-7/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[The touch-related bug that was known to be impacting the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and the <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a> also affects the Apple Watch Series 7, Series 8, and Ultra 1, Apple <a href="https://twitter.com/stellafudge/status/1778197004029394994">said in a memo</a> shared with Apple Authorized Service Providers.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/apple-watch-series-8-green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-901498" /><br/>
+Service providers have been told not to replace watches for the ghost touch problem, instead instructing customers to fix the issue <a href="https://www.macrumors.com/how-to/force-restart-your-apple-watch/">through a force restart</a>. A force restart can be initiated by simultaneously holding down the side button and the Digital Crown for 10 seconds. AASPs have also been asked to make sure affected Apple Watches are running the latest version of watchOS.<br/>
+<br/>
+Apple first began looking into the touch-related problem affecting some Apple Watch models <a href="https://www.macrumors.com/2024/02/10/apple-watch-series-9-ultra-2-touch-screen-issue/">in February</a>. At the time, it was a bug that had been seen on the Series 9 and the Ultra 2. Apple Watch owners were experiencing "false" or "ghost" touches on the display, which could cause the screen to "jump erratically" or exhibit unexpected behavior without user interaction.<br/>
+<br/>
+A fix for the ghost touch issue was <a href="https://www.macrumors.com/2024/03/07/apple-releases-watchos-10-4/">added in watchOS 10.4</a>, so presumably that version of the software addresses the issue on all impacted models. If not, the wording of Apple's memo suggests a further fix will be coming in the near future.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/10/apple-watch-ghost-touch-issue-series-7/">Apple Suggests Solution for &#039;Ghost Touch&#039; Issue on Apple Watch Series 7 and Later</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-suggests-solution-for-ghost-touch-issue-on-apple-watch-series-7-and-later.2423963/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Safari Technology Preview 192 With Bug Fixes and Performance Improvements</title>
+		<link>https://www.macrumors.com/2024/04/10/apple-releases-safari-technology-preview-192/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-192-with-bug-fixes-and-performance-improvements.2423956/</comments>
+		<pubDate>Wed, 10 Apr 2024 14:47:20 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/10/apple-releases-safari-technology-preview-192/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Blurb</category>
+		<category>Safari Technology Preview</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser Apple <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed the &zwnj;Safari Technology Preview&zwnj; to test features that may be introduced into future release versions of Safari.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-785724" src="https://images.macrumors.com/article-new/2021/02/Safari-Technology-Preview-Feature.jpg" alt="" width="2368" height="1332" /><br/>
+&zwnj;Safari Technology Preview&zwnj; 192 includes fixes and updates for Authentication, CSS, Editing, JavaScript, Media, Rendering, Web API, and Web Extensions. <br/>
+<br/>
+The current &zwnj;Safari Technology Preview&zwnj; release is compatible with machines running macOS Ventura and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, the latest version of macOS that Apple released in September 2023.<br/>
+<br/>
+The &zwnj;Safari Technology Preview&zwnj; update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has <a href="https://developer.apple.com/safari/download/">downloaded the browser</a>. Full release notes for the update are available <a href="https://developer.apple.com/safari/technology-preview/release-notes/">on the Safari Technology Preview website</a>.<br/>
+<br/>
+Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback from developers and users on its browser development process. &zwnj;Safari Technology Preview&zwnj; can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/10/apple-releases-safari-technology-preview-192/">Apple Releases Safari Technology Preview 192 With Bug Fixes and Performance Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-192-with-bug-fixes-and-performance-improvements.2423956/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Store Employees in New Jersey File to Unionize</title>
+		<link>https://www.macrumors.com/2024/04/10/apple-store-new-jersey-union-filing/</link>
+		<comments>https://forums.macrumors.com/threads/apple-store-employees-in-new-jersey-file-to-unionize.2423952/</comments>
+		<pubDate>Wed, 10 Apr 2024 13:32:46 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/10/apple-store-new-jersey-union-filing/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Store</category>
+		
+
+		<description><![CDATA[Apple employees at the <a href="https://www.apple.com/retail/shorthills/">Apple Store in Short Hills</a>, New Jersey have petitioned to unionize, reports <em><a href="https://www.bloomberg.com/news/articles/2024-04-10/apple-store-in-new-jersey-files-to-unionize-in-renewed-effort">Bloomberg</a></em>. Retail store unionization efforts have died down in recent months after locations in Oklahoma and Maryland <a href="https://www.macrumors.com/2022/10/14/apple-store-oklahoma-city-unionizes/">successfully unionized</a> in 2022.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/apple-short-hills-new-jersey.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-945775" /><br/>
+There are 104 workers at Apple Short Hills, which is located in the Short Hills Mall. Communication Workers of America (CWA) filed a unionization petition with the National Labor Relations Board on behalf of employees earlier this week.<br/>
+<br/>
+In a statement, the CWA said that forming a union would be the best way to "ensure all Apple workers receive the respect, pay, benefits and working conditions" that they deserve. The group has requested that Apple "not to interfere in our ongoing organizing efforts and, instead, allow workers to freely determine for themselves whether to form a union."<br/>
+<br/>
+Apple told <em>Bloomberg</em> that it offers "exceptional" benefits and competitive pay to its employees.<br/>
+<blockquote>We have always paid our retail teams in the top tier of the market. And we provide exceptional and comprehensive benefits for all full- and part-time employees as a part of the overall support we provide to our valued team members.</blockquote><br/>
+Following the petition, workers at the store will need to vote on whether to join the union. If a majority decide to do so, the store will unionize. Union employees are able to negotiate with Apple for improved working conditions and benefits. In Maryland, workers have been working to negotiate with Apple for a 10 percent pay increase, tips from customers, and changes to overtime and leave policies.<br/>
+<br/>
+While two stores have unionized, unionization efforts have failed in other locations. An Apple retail location in St. Louis <a href="https://www.macrumors.com/2022/12/05/apple-st-louis-rejects-unionization/">voted not to unionize</a>, and a store in Atlanta withdrew its request to unionize after alleged interference from Apple. The U.S. National Labor Relations Board said in December 2022 that Apple had <a href="https://www.macrumors.com/2022/12/05/apple-atlanta-illegal-anti-union-tactics/">violated federal law</a> by holding mandatory anti-union meetings and coercing and interrogating the Atlanta workers.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/10/apple-store-new-jersey-union-filing/">Apple Store Employees in New Jersey File to Unionize</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-store-employees-in-new-jersey-file-to-unionize.2423952/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Review: Six Months With the iPhone 15 Pro</title>
@@ -105,6 +177,10 @@ This version of the Apple Watch features the S9 chip, a brighter display than th
 		<description><![CDATA[iOS 18 will apparently feature a new Safari browsing assistant, according to backend code on Apple's servers <a href="https://twitter.com/nicolas09F9/status/1778043763660591579">discovered by Nicolás Álvarez</a>. <em>MacRumors</em> contributor Aaron Perris <a href="https://twitter.com/aaronp613/status/1778051299893809152">confirmed</a> that the code exists, but not many details are known at this time.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/03/iOS-18-WWDC-24-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-944197" /><br/>
+Álvarez said it seems like the browsing assistant will use iCloud Private Relay's infrastructure to send relevant data to Apple in a privacy-focused manner. If so, perhaps the feature will <a href="https://twitter.com/ParkerOrtolani/status/1778049294324412921">require an iCloud+ subscription</a>, but this is merely speculation.<br/>
+<br/>
+<strong>Update:</strong> Álvarez has <a href="https://twitter.com/nicolas09F9/status/1778141576247599535">since said</a> that iCloud Private Relay might not be related to this feature.<br/>
+<br/>
 A browsing assistant in Safari could be one of the many new <a href="https://www.macrumors.com/2024/02/16/ios-18-slew-of-new-ai-features/">generative AI features</a> that are rumored to be coming to the iPhone with iOS 18 later this year. There are already multiple iPhone web browsers with AI tools, such as Microsoft Edge with a <a href="https://www.microsoft.com/en-us/edge/learning-center/how-to-use-copilot-in-edge-on-your-phone?form=MA13I2">GPT-4-powered Copilot</a> and <a href="https://www.macrumors.com/2024/01/29/arc-search-iphone-app-ai/">Arc Search</a>, which can summarize web pages to provide concise information.<br/>
 <br/>
 Álvarez also uncovered a so-called "Encrypted Visual Search" feature in the backend code on Apple's servers, but no specific details are known. <em>MacRumors</em> contributor Steve Moser last year discovered a <a href="https://www.macrumors.com/2023/06/21/vision-pro-visual-search-feature/">new Visual Search feature for Apple's Vision Pro headset</a> in visionOS beta code, which would allow users to copy and paste printed text from the real world into apps and more, but the feature has yet to launch. It is possible that Apple is planning to debut a more secure version of the feature. However, the code could also relate to the iPhone's existing Visual Look Up feature that can identify objects in photos and videos.<br/>
@@ -526,67 +602,6 @@ You can get the 8GB RAM/256GB SSD 15-inch M3 MacBook Air for <a href="https://ho
 These computers just debuted in March 2024, featuring faster M3 chips, 15.3-inch Liquid Retina displays, a 1080p FaceTime HD camera, six-speaker sound system, two USB-C ports, a MagSafe charging port, and 3.5mm headphone jack.<br/>
 <br/>
 Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/09/15-inch-m3-macbook-air-150-off/">Apple&#039;s 15-Inch M3 MacBook Air Drops to New Low Prices at &#36;150 Off on Best Buy</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-15-inch-m3-macbook-air-drops-to-new-low-prices-at-150-off-on-best-buy.2423854/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Highlights How Business Can Use Vision Pro</title>
-		<link>https://www.macrumors.com/2024/04/09/how-business-can-use-vision-pro/</link>
-		<comments>https://forums.macrumors.com/threads/apple-highlights-how-business-can-use-vision-pro.2423851/</comments>
-		<pubDate>Tue, 09 Apr 2024 07:34:40 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/09/how-business-can-use-vision-pro/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Vision Pro</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2024/04/apple-vision-pro-brings-a-new-era-of-spatial-computing-to-business/">highlighted</a> the Vision Pro headset's enterprise use-cases, such as customizable workspaces, collaboration on 3D designs, delivering specialized employee training, and guiding remote fieldwork. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/Apple-Vision-Pro-NVIDIA-Omniverse-Cloud-APIs.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-945455" /><br/>
-Apple explained how the Vision Pro can enhance business productivity, featuring integration with widely used applications like SAP Analytics Cloud and Microsoft 365 in a spatial computing context. For example, SAP Analytics Cloud on the Vision Pro allows users to interact with their data in three-dimensional space, offering insights that were previously unattainable in a flat, two-dimensional interface. Similarly, Microsoft 365 apps have been optimized for the headset, providing users with a unique, distraction-free workspace that leverages the infinite canvas of spatial computing for multitasking and collaboration.<br/>
-<br/>
-The Vision Pro's high-resolution displays and processing capabilities allow for the creation and manipulation of digital twins of products, facilities, and processes with a high level of detail and accuracy. This has significant implications for industries like automotive engineering, where real-time data analysis and decision-making are crucial. Apple pointed out its partnership with Porsche to create the <a href="https://www.macrumors.com/2024/03/11/tim-cook-appears-in-porsche-premiere-video/">Porsche Race Engineer app</a> as an example of this.<br/>
-<br/>
-Training and simulation represent another area where the Vision Pro could make a substantial impact. By enabling realistic, immersive training experiences, companies like KLM Royal Dutch Airlines can improve technical maintenance and operations without the need for costly physical prototypes or taking equipment offline for training purposes. The Engine Shop app, for instance, allows KLM technicians to train on engine models in full fidelity within their own space, streamlining the training process and reducing the likelihood of errors. Similarly, Resolve's app for building engineers enhances the planning and execution of maintenance work by overlaying detailed schematics and 3D models onto the physical world.<br/>
-<br/>
-To encourage the development and integration of the Vision Pro in business workflows, Apple has introduced a range of developer resources, including the Enterprise Spatial Design Lab, and partnerships with industry leaders like Deloitte and Porsche. See Apple's <a href="https://www.apple.com/newsroom/2024/04/apple-vision-pro-brings-a-new-era-of-spatial-computing-to-business/">full press release</a> for more information.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/09/how-business-can-use-vision-pro/">Apple Highlights How Business Can Use Vision Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-highlights-how-business-can-use-vision-pro.2423851/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Arcade Adding These New Games in May</title>
-		<link>https://www.macrumors.com/2024/04/09/apple-arcade-games-coming-may-2024/</link>
-		<comments>https://forums.macrumors.com/threads/apple-arcade-adding-these-new-games-in-may.2423850/</comments>
-		<pubDate>Tue, 09 Apr 2024 07:27:16 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/09/apple-arcade-games-coming-may-2024/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Arcade</category>
-		
-
-		<description><![CDATA[Apple today revealed three new games coming to Apple Arcade on May 2, including retro 2D pixelated platforming game <a href="https://apps.apple.com/us/app/a-slight-chance-of-sawblades/id6478231600">A Slight Chance of Sawblades+</a>, rogue-like game <a href="https://apps.apple.com/us/app/dicey-dungeons/id6477867401">Dicey Dungeons+</a>, and match-three puzzle game <a href="https://apps.apple.com/us/app/summer-pop/id6450008544">Summer Pop+</a>. All games available on Apple Arcade are ad-free and do not offer in-app purchases.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/05/Apple-Arcade-new-games-hero.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-894522" /><br/>
-Apple Arcade <a href="https://www.macrumors.com/2024/04/04/apple-arcade-april-4-games/">gained three new games on the iPhone and iPad</a> last week, including Sega's Puyo Puyo Puzzle Pop. The service recently added new games on the Vision Pro headset too, including <a href="https://www.macrumors.com/2024/03/27/more-apple-arcade-games-coming-to-vision-pro/">endless runner Alto's Odyssey: The Lost City</a>, hand-drawn adventure game Gibbon: Beyond the Trees, and physics-based puzzler Spire Blast. Apple Arcade game Crossy Road Castle will <a href="https://www.macrumors.com/2024/03/12/apple-arcade-new-games-april-2024/">also be expanding to the Vision Pro</a> on April 25.<br/>
-<br/>
-Accessible through the App Store, Apple Arcade is a subscription-based service that provides access to hundreds of games across the iPhone, iPad, Mac, Apple TV, and Vision Pro, all free of ads and in-app purchases. The service <a href="https://www.macrumors.com/2023/10/25/apple-services-price-increases/">received its first price increase</a> last year, with U.S. pricing rising from &#36;4.99 to &#36;6.99 per month.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/09/apple-arcade-games-coming-may-2024/">Apple Arcade Adding These New Games in May</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-arcade-adding-these-new-games-in-may.2423850/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Get the AirPods Pro 2 With USB-C for &#36;189 on Amazon</title>
-		<link>https://www.macrumors.com/2024/04/09/get-the-airpods-pro-2-amazon/</link>
-		<comments>https://forums.macrumors.com/threads/get-the-airpods-pro-2-with-usb-c-for-189-on-amazon.2423848/</comments>
-		<pubDate>Tue, 09 Apr 2024 07:12:11 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/09/get-the-airpods-pro-2-amazon/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Apple's AirPods Pro 2 with USB-C/MagSafe Charging Case have hit <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;189.00</strong></a> on Amazon, down from &#36;249.00. We haven't seen this deal since Amazon's Big Spring Sale last month, and right now the AirPods Pro 2 have an estimated arrival date between April 11 and 14.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/05/Airpods-Pro-2-Discount-Feature-Warm-Green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-895411" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-There are a few minor changes to the AirPods Pro 2 besides the addition of USB-C, including additional dust resistance and support for lossless audio with the Vision Pro headset. If you're looking for an even cheaper model of AirPods, Amazon also has the AirPods 2 for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;89.00</strong></a> right now, down from &#36;129.00.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>AirPods Pro 2 (USB-C) for &#36;189.00</div></a></div><br/>
-<br/>
-Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/09/get-the-airpods-pro-2-amazon/">Get the AirPods Pro 2 With USB-C for &#36;189 on Amazon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/get-the-airpods-pro-2-with-usb-c-for-189-on-amazon.2423848/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
