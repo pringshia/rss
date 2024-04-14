@@ -14,12 +14,128 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Sun, 14 Apr 2024 07:06:16 PDT</lastBuildDate>
+	<lastBuildDate>Sun, 14 Apr 2024 11:16:45 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>M4 Macs Are Expected to Launch in This Order Starting Later This Year</title>
+		<link>https://www.macrumors.com/2024/04/14/when-are-m4-macs-launching/</link>
+		<comments>https://forums.macrumors.com/threads/m4-macs-are-expected-to-launch-in-this-order-starting-later-this-year.2424174/</comments>
+		<pubDate>Sun, 14 Apr 2024 10:40:26 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/14/when-are-m4-macs-launching/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>Mark Gurman</category>
+		
+
+		<description><![CDATA[<em>Bloomberg</em>'s Mark Gurman recently reported that the first Macs with M4 series chips <a href="https://www.macrumors.com/2024/04/11/m4-ai-chips-late-2024/">will be released later this year</a>, with more models to follow next year. In his <a href="https://www.bloomberg.com/news/newsletters/2024-04-14/humane-ai-pin-review-the-device-isn-t-going-to-kill-apple-s-iphone-luziqlew"><em>Power On</em> newsletter</a> today, Gurman shared a more specific roadmap for these Macs.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/m3-mbp-space-black.jpg" alt="" width="1440" height="810" class="aligncenter size-full wp-image-919466" /><br/>
+<a href="https://www.bloomberg.com/news/newsletters/2024-04-14/humane-ai-pin-review-the-device-isn-t-going-to-kill-apple-s-iphone-luziqlew">Here is the order</a> in which Gurman expects the Macs to launch:<blockquote>1. A low-end 14-inch MacBook Pro with the M4, coming around the end of 2024.<br/>
+2. A 24-inch iMac with the M4, also expected around the end of the year.<br/>
+3. New 14-inch and 16-inch high-end MacBook Pros with M4 Pro/Max chips, due between the end of 2024 and early 2025.<br/>
+4. A Mac mini in both M4 and M4 Pro configurations, coming between the end of 2024 and early 2025.<br/>
+5. New 13-inch and 15-inch MacBook Airs, slated for around spring 2025.<br/>
+6. A Mac Studio with a high-end M4 chip, coming around the middle of 2025.<br/>
+7. A Mac Pro with an M4 Ultra chip, due in the second half of 2025.</blockquote>Gurman reiterated that Apple has internally tested an M3 Ultra chip, which would be suitable for the Mac Studio and the Mac Pro, but he said it is "all but assured that at least some of Apple's high-end desktops" will skip the M3 chip series.<br/>
+<br/>
+Gurman said that Apple will emphasize the artificial intelligence capabilities of the M4 chip series.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/14/when-are-m4-macs-launching/">M4 Macs Are Expected to Launch in This Order Starting Later This Year</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m4-macs-are-expected-to-launch-in-this-order-starting-later-this-year.2424174/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple&#039;s First AI Features in iOS 18 Reportedly Won&#039;t Use Cloud Servers</title>
+		<link>https://www.macrumors.com/2024/04/14/apples-first-ios-18-ai-features-no-cloud/</link>
+		<comments>https://forums.macrumors.com/threads/apples-first-ai-features-in-ios-18-reportedly-wont-use-cloud-servers.2424167/</comments>
+		<pubDate>Sun, 14 Apr 2024 09:52:52 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/14/apples-first-ios-18-ai-features-no-cloud/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 18</category>
+		<category>Mark Gurman</category>
+		
+
+		<description><![CDATA[Apple's first set of <a href="https://www.macrumors.com/2024/02/16/ios-18-slew-of-new-ai-features/">new AI features planned for iOS 18</a> will not rely on cloud servers at all, according to <a href="https://www.bloomberg.com/news/newsletters/2024-04-14/humane-ai-pin-review-the-device-isn-t-going-to-kill-apple-s-iphone-luziqlew"><em>Bloomberg</em>'s Mark Gurman</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iOS-18-Siri-Integrated-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-945741" /><br/>
+"As the world awaits Apple's big AI unveiling on June 10, it looks like the initial wave of features will work entirely on device," said Gurman, in the Q&A section of his <a href="https://www.bloomberg.com/news/newsletters/2024-04-14/humane-ai-pin-review-the-device-isn-t-going-to-kill-apple-s-iphone-luziqlew"><em>Power On</em> newsletter</a> today. "That means there's no cloud processing component to the company's large language model, the software that powers the new capabilities."<br/>
+<br/>
+Apple will probably still offer some cloud-based AI features powered by Google's Gemini or another provider, according to Gurman. Apple has reportedly held discussions with companies <a href="https://www.macrumors.com/2024/03/22/apple-generative-ai-google-openai-baidu/">such as Google, OpenAI, and China's Baidu</a> about potential generative AI partnerships. iOS 18 is <a href="https://www.macrumors.com/2024/03/26/ios-18-reportedly-wont-have-apple-chatbot/">not expected to include Apple's own ChatGPT-like chatbot</a>, but it is unclear if Gemini or other chatbot will be directly integrated into iOS 18.<br/>
+<br/>
+It is possible that Apple could offer some of its own cloud-based generative AI features in the future, as Apple supply chain analysts like Ming-Chi Kuo and Jeff Pu have said that the company is <a href="https://www.macrumors.com/2023/10/23/apple-ai-server-spending-2024/">actively purchasing AI servers</a>.<br/>
+<br/>
+iOS 18 is rumored to have <a href="https://www.macrumors.com/2024/02/16/ios-18-slew-of-new-ai-features/">new generative AI features</a> for the iPhone's Spotlight search tool, Siri, Safari, Shortcuts, Apple Music, Messages, Health, Numbers, Pages, Keynote, and more. Gurman previously reported that generative AI will improve Siri's ability to answer more complex questions, and allow the Messages app to auto-complete sentences.<br/>
+<br/>
+Apple is expected to unveil iOS 18 and other software updates at its annual developers conference WWDC, which <a href="https://www.macrumors.com/2024/03/26/apple-announces-wwdc-2024/">runs from June 10 through June 14</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/14/apples-first-ios-18-ai-features-no-cloud/">Apple&#039;s First AI Features in iOS 18 Reportedly Won&#039;t Use Cloud Servers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-first-ai-features-in-ios-18-reportedly-wont-use-cloud-servers.2424167/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Samsung Introduces Sitewide Savings on Galaxy Devices, Smart Monitors, TVs, and More</title>
+		<link>https://www.macrumors.com/2024/04/14/samsung-sitewide-savings-galaxy/</link>
+		<comments>https://forums.macrumors.com/threads/samsung-introduces-sitewide-savings-on-galaxy-devices-smart-monitors-tvs-and-more.2424163/</comments>
+		<pubDate>Sun, 14 Apr 2024 09:02:56 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/14/samsung-sitewide-savings-galaxy/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		
+
+		<description><![CDATA[Samsung this weekend has the 27-inch ViewFinity S9 5K Smart Monitor at a steep discount, available for <a href="https://howl.me/clLNLtD8GuF"><strong>&#36;899.99</strong></a>, down from &#36;1,599.99. In addition to this &#36;700 discount, you'll find deals on <a href="https://howl.me/clLNSBlHkaL">4K and 5K Samsung monitors</a>, including the Smart Monitor M8, as well as storage, audio, TVs, smartphones, and home appliances.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/samsung-viewfinity-green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-940238" /><em><small>Note: MacRumors is an affiliate partner with Samsung. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+Overall, the ViewFinity S9 5K Smart Monitor is at a very solid second-best price this weekend, just &#36;50 higher compared to the previous record low price. This monitor has a matte display, modular 4K SlimFit camera, and support for Thunderbolt 4.<br/>
+<br/>
+<div class="center-wrap"><a href="https://howl.me/clLNLtD8GuF"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;700 OFF</div>27-inch ViewFinity S9 5K Smart Monitor for &#36;899.99</div></a></div><br/>
+<br/>
+Samsung's 27-inch Smart Monitor M8 is also being discounted during this sale, available for <a href="https://howl.me/clP2G8L9fVC"><strong>&#36;399.99</strong></a> in Warm White, down from &#36;699.99. This is a 4K smart monitor with a design that looks similar to the iMac line, and it's at another great second-best price during Samsung's monitor sale.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/smart-monitor-m8-samsung-green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-946191" /><div class="center-wrap"><a href="https://howl.me/clP2G8L9fVC"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>27-inch Smart Monitor M8 for &#36;399.99</div></a></div><br/>
+<br/>
+Additionally, Samsung has quite a few more monitor and TV deals, which we've rounded up below. Anyone shopping for a Samsung smartphone or tablet can also find a few offers on the Galaxy AI-powered Galaxy Z Flip5, Galaxy Z Fold5, and Galaxy Tab S9 Ultra.<br/>
+<br/>
+<h2>Monitors</h2><br/>
+<ul><li><a href="https://howl.me/clq2gYG78Q9">34-inch ViewFinity HDR10 Curved Monitor</a> - &#36;499.99, down from &#36;699.99</li><br/>
+<li><a href="https://howl.me/clq2gbHK6cQ">49-inch Odyssey G9 Curved Gaming Monitor</a> - &#36;999.99, down from &#36;1,299.99</li><br/>
+<li><a href="https://howl.me/clLNROoH7so">34-inch OLED Curved Smart Gaming Monitor</a> - &#36;1,199.99, down from &#36;1,499.99</li><br/>
+<li><a href="https://howl.me/clq2e77z0lE">49-inch Odyssey OLED G9 Curved Gaming Monitor</a> - &#36;1,099.99, down from &#36;1,799.99</li></ul><br/>
+<h2>TVs/Audio</h2><br/>
+<ul><li><a href="https://howl.me/clLN0R87SoM">Q-Series Wireless Dolby ATMOS Soundbar</a> - &#36;1,099.99, down from &#36;1,399.99</li><br/>
+<li><a href="https://howl.me/clLNX3ZnLNR">55-inch Neo QLED 4K Smart TV</a> - &#36;999.99, down from &#36;1,499.99</li><br/>
+<li><a href="https://howl.me/clLNXcrr7pC">The Frame</a> - Save up to &#36;1,000 on select models</li><br/>
+<li><a href="https://howl.me/clLNYXDQ23m">65-inch OLED S90C TV</a> - &#36;1,599.99, down from &#36;2,599.99</li><br/>
+<li><a href="https://howl.me/clLNWfhuoAS">85-inch Samsung Neo QLED 4K Smart TV</a> - &#36;2,399.99, down from &#36;4,799.99</li></ul><br/>
+<h2>Smartphones/Tablets</h2><br/>
+<ul><li><a href="https://howl.me/clLN3lYPzGg">Galaxy S24+</a> - Save up to &#36;1,050 with participating carriers</li><br/>
+<li><a href="https://howl.me/clLN39d8ucx">Galaxy S24 Ultra</a> - Save up to &#36;900 with participating carriers</li><br/>
+<li><a href="https://howl.me/cl1Y0enK9OW">Galaxy Z Fold5</a> - Save up to &#36;1,100 with participating carriers</li><br/>
+<li><a href="https://howl.me/cl1Y0wHuCr6">Galaxy Z Flip5</a> - Save up to &#36;1,050 with participating carriers</li><br/>
+<li><a href="https://howl.me/cl1Y0OGHMzE">Galaxy Tab S9 Ultra</a> - Get up to &#36;800 instant trade-in credit</li></ul> Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/14/samsung-sitewide-savings-galaxy/">Samsung Introduces Sitewide Savings on Galaxy Devices, Smart Monitors, TVs, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/samsung-introduces-sitewide-savings-on-galaxy-devices-smart-monitors-tvs-and-more.2424163/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Game Boy Emulator for iPhone Now Available in App Store Following Rule Change</title>
+		<link>https://www.macrumors.com/2024/04/14/game-boy-emulator-in-app-store/</link>
+		<comments>https://forums.macrumors.com/threads/game-boy-emulator-for-iphone-now-available-in-app-store-following-rule-change.2424159/</comments>
+		<pubDate>Sun, 14 Apr 2024 08:06:28 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/14/game-boy-emulator-in-app-store/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>App Store</category>
+		<category>Emulator</category>
+		
+
+		<description><![CDATA[A week after Apple updated its App Review Guidelines to <a href="https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/">permit retro game console emulators</a>, a <a href="https://apps.apple.com/us/app/igba-gba-gbc-retro-emulator/id6482993626">Game Boy emulator for the iPhone called iGBA</a> has <a href="https://www.reddit.com/r/iosgaming/comments/1c35zop/new_gba_and_gbc_emulator_on_app_store/">appeared in the App Store</a> worldwide. The emulator is already one of the top free apps on the App Store charts.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iGBA-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-946239" /><br/>
+<br/>
+It was not entirely clear if Apple would allow emulators to work with all and any games, but iGBA is able to load any Game Boy ROMs that users download from the web and open via the Files app on the iPhone. Accordingly, it seems like there are no game restrictions for emulators, unless Apple mistakenly approved iGBA on the App Store.<br/>
+<br/>
+iGBA works with Game Boy, Game Boy Color, and Game Boy Advance games. It is important to note that it can be illegal to possess certain ROMs from game developers, but <a href="https://hh.gbdev.io/">homebrew Game Boy games</a> are typically in the clear.<br/>
+<br/>
+iGBA <a href="https://www.threads.net/@rileytestut/post/C5u9xdDNCJ2">appears to be a copy</a> of Riley Testut's <a href="https://github.com/CocoaBob/GBA4iOS">open-source GBA4iOS emulator</a>, but with ads that can track users. GBA4iOS is the predecessor to Testut's current Nintendo game emulator <a href="https://faq.deltaemulator.com/">Delta</a>, which can be installed on the iPhone outside of the App Store, and will soon be available through his <a href="https://www.macrumors.com/2024/04/01/altstore-eu-iphone-patreon/">alternative app marketplace AltStore</a> on iPhones in the EU. It is not clear if Testut plans to make Delta available in the App Store following the rule change.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/emulator/">Emulator</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/14/game-boy-emulator-in-app-store/">Game Boy Emulator for iPhone Now Available in App Store Following Rule Change</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/game-boy-emulator-for-iphone-now-available-in-app-store-following-rule-change.2424159/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Best Buy Opens Up Sitewide Sale With Record Low Prices on M3 MacBook Air, iPad, and Much More</title>
@@ -204,7 +320,6 @@ Subscribe to &zwnj;The MacRumors Show&zwnj; for new episodes every week, where w
 		<guid isPermaLink="false">https://www.macrumors.com/2024/04/12/best-apple-deals-of-the-week-4-12-24/</guid>
 		<dc:creator>Mitchel Broussard</dc:creator>
 		<category>Deals</category>
-		<category>Featured</category>
 		
 
 		<description><![CDATA[This week's best deals can all be found on Amazon, which is hosting steep discounts on the AirPods Pro 2, Apple Watch Series 9, and the M3 iMac.<br/>
@@ -565,101 +680,6 @@ The alerts come at a time when many nations are preparing for democratic electio
 Apple advises those who have received a threat notification to seek expert help, such as the rapid-response emergency security assistance provided by the Digital Security Helpline at the nonprofit Access Now. Apple threat notification recipients can contact the Digital Security Helpline 24 hours a day, seven days a week <a href="https://www.accessnow.org/help/">through their website</a>. <br/>
 <br/>
 Users who have not received an Apple threat notification but have good reason to believe they may be individually targeted by mercenary spyware attacks are advised to <a href="https://www.macrumors.com/how-to/enable-lockdown-mode-ios/">enable Lockdown Mode</a> on their devices for additional protection.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-security/">Apple Security</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/11/apple-warns-users-mercenary-spyware-attacks/">Apple Warns Users in 92 Countries About Mercenary Spyware Attacks</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-warns-users-in-92-countries-about-mercenary-spyware-attacks.2423987/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Suggests Solution for &#039;Ghost Touch&#039; Issue on Apple Watch Series 7 and Later</title>
-		<link>https://www.macrumors.com/2024/04/10/apple-watch-ghost-touch-issue-series-7/</link>
-		<comments>https://forums.macrumors.com/threads/apple-suggests-solution-for-ghost-touch-issue-on-apple-watch-series-7-and-later.2423963/</comments>
-		<pubDate>Wed, 10 Apr 2024 16:39:54 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/10/apple-watch-ghost-touch-issue-series-7/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[The touch-related bug that was known to be impacting the <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a> and the <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a> also affects the Apple Watch Series 7, Series 8, and Ultra 1, Apple <a href="https://twitter.com/stellafudge/status/1778197004029394994">said in a memo</a> shared with Apple Authorized Service Providers.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/apple-watch-series-8-green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-901498" /><br/>
-Service providers have been told not to replace watches for the ghost touch problem, instead instructing customers to fix the issue <a href="https://www.macrumors.com/how-to/force-restart-your-apple-watch/">through a force restart</a>. A force restart can be initiated by simultaneously holding down the side button and the Digital Crown for 10 seconds. AASPs have also been asked to make sure affected Apple Watches are running the latest version of watchOS.<br/>
-<br/>
-Apple first began looking into the touch-related problem affecting some Apple Watch models <a href="https://www.macrumors.com/2024/02/10/apple-watch-series-9-ultra-2-touch-screen-issue/">in February</a>. At the time, it was a bug that had been seen on the Series 9 and the Ultra 2. Apple Watch owners were experiencing "false" or "ghost" touches on the display, which could cause the screen to "jump erratically" or exhibit unexpected behavior without user interaction.<br/>
-<br/>
-A fix for the ghost touch issue was <a href="https://www.macrumors.com/2024/03/07/apple-releases-watchos-10-4/">added in watchOS 10.4</a>, so presumably that version of the software addresses the issue on all impacted models. If not, the wording of Apple's memo suggests a further fix will be coming in the near future.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/10/apple-watch-ghost-touch-issue-series-7/">Apple Suggests Solution for &#039;Ghost Touch&#039; Issue on Apple Watch Series 7 and Later</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-suggests-solution-for-ghost-touch-issue-on-apple-watch-series-7-and-later.2423963/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases Safari Technology Preview 192 With Bug Fixes and Performance Improvements</title>
-		<link>https://www.macrumors.com/2024/04/10/apple-releases-safari-technology-preview-192/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-192-with-bug-fixes-and-performance-improvements.2423956/</comments>
-		<pubDate>Wed, 10 Apr 2024 14:47:20 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/10/apple-releases-safari-technology-preview-192/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Blurb</category>
-		<category>Safari Technology Preview</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser Apple <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed the &zwnj;Safari Technology Preview&zwnj; to test features that may be introduced into future release versions of Safari.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-785724" src="https://images.macrumors.com/article-new/2021/02/Safari-Technology-Preview-Feature.jpg" alt="" width="2368" height="1332" /><br/>
-&zwnj;Safari Technology Preview&zwnj; 192 includes fixes and updates for Authentication, CSS, Editing, JavaScript, Media, Rendering, Web API, and Web Extensions. <br/>
-<br/>
-The current &zwnj;Safari Technology Preview&zwnj; release is compatible with machines running macOS Ventura and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, the latest version of macOS that Apple released in September 2023.<br/>
-<br/>
-The &zwnj;Safari Technology Preview&zwnj; update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has <a href="https://developer.apple.com/safari/download/">downloaded the browser</a>. Full release notes for the update are available <a href="https://developer.apple.com/safari/technology-preview/release-notes/">on the Safari Technology Preview website</a>.<br/>
-<br/>
-Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback from developers and users on its browser development process. &zwnj;Safari Technology Preview&zwnj; can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/10/apple-releases-safari-technology-preview-192/">Apple Releases Safari Technology Preview 192 With Bug Fixes and Performance Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-192-with-bug-fixes-and-performance-improvements.2423956/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Store Employees in New Jersey File to Unionize</title>
-		<link>https://www.macrumors.com/2024/04/10/apple-store-new-jersey-union-filing/</link>
-		<comments>https://forums.macrumors.com/threads/apple-store-employees-in-new-jersey-file-to-unionize.2423952/</comments>
-		<pubDate>Wed, 10 Apr 2024 13:32:46 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/10/apple-store-new-jersey-union-filing/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Store</category>
-		
-
-		<description><![CDATA[Apple employees at the <a href="https://www.apple.com/retail/shorthills/">Apple Store in Short Hills</a>, New Jersey have petitioned to unionize, reports <em><a href="https://www.bloomberg.com/news/articles/2024-04-10/apple-store-in-new-jersey-files-to-unionize-in-renewed-effort">Bloomberg</a></em>. Retail store unionization efforts have died down in recent months after locations in Oklahoma and Maryland <a href="https://www.macrumors.com/2022/10/14/apple-store-oklahoma-city-unionizes/">successfully unionized</a> in 2022.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/apple-short-hills-new-jersey.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-945775" /><br/>
-There are 104 workers at Apple Short Hills, which is located in the Short Hills Mall. Communication Workers of America (CWA) filed a unionization petition with the National Labor Relations Board on behalf of employees earlier this week.<br/>
-<br/>
-In a statement, the CWA said that forming a union would be the best way to "ensure all Apple workers receive the respect, pay, benefits and working conditions" that they deserve. The group has requested that Apple "not to interfere in our ongoing organizing efforts and, instead, allow workers to freely determine for themselves whether to form a union."<br/>
-<br/>
-Apple told <em>Bloomberg</em> that it offers "exceptional" benefits and competitive pay to its employees.<br/>
-<blockquote>We have always paid our retail teams in the top tier of the market. And we provide exceptional and comprehensive benefits for all full- and part-time employees as a part of the overall support we provide to our valued team members.</blockquote><br/>
-Following the petition, workers at the store will need to vote on whether to join the union. If a majority decide to do so, the store will unionize. Union employees are able to negotiate with Apple for improved working conditions and benefits. In Maryland, workers have been working to negotiate with Apple for a 10 percent pay increase, tips from customers, and changes to overtime and leave policies.<br/>
-<br/>
-While two stores have unionized, unionization efforts have failed in other locations. An Apple retail location in St. Louis <a href="https://www.macrumors.com/2022/12/05/apple-st-louis-rejects-unionization/">voted not to unionize</a>, and a store in Atlanta withdrew its request to unionize after alleged interference from Apple. The U.S. National Labor Relations Board said in December 2022 that Apple had <a href="https://www.macrumors.com/2022/12/05/apple-atlanta-illegal-anti-union-tactics/">violated federal law</a> by holding mandatory anti-union meetings and coercing and interrogating the Atlanta workers.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/10/apple-store-new-jersey-union-filing/">Apple Store Employees in New Jersey File to Unionize</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-store-employees-in-new-jersey-file-to-unionize.2423952/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Review: Six Months With the iPhone 15 Pro</title>
-		<link>https://www.macrumors.com/2024/04/10/iphone-15-pro-six-month-review/</link>
-		<comments>https://forums.macrumors.com/threads/review-six-months-with-the-iphone-15-pro.2423944/</comments>
-		<pubDate>Wed, 10 Apr 2024 10:53:48 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/10/iphone-15-pro-six-month-review/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15 Pro</category>
-		
-
-		<description><![CDATA[It's been a bit over six months since the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> lineup came out in September, and <em>MacRumors</em> videographer Dan Barbera has been using an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max sans case since launch. Over on our YouTube channel, Dan did a long term review to demo how his phone has held up and his thoughts on the Action button, battery life, and camera features.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/sYOXToOgmSs" title="iPhone 15 Pro Max Review: 6 Months Later!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-The &zwnj;iPhone 15 Pro&zwnj; and Pro Max are Apple's first iPhones with a titanium shell instead of a stainless steel or aluminum shell, and titanium is supposed to be more durable. After suffering from several drops without a case, Dan's <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> is scuffed and chipped, but there are no scratches. As for the screen, it has a minor scratch or two.<br/>
-<br/>
-Battery health is at 98 percent and 174 cycles, and there have been some fluctuations in battery life with software updates. It's a little hard to get a solid read on battery because of day-to-day differences in usage.<br/>
-<br/>
-Some people have had trouble finding a use for the Action button, but assigning it to the camera is one way to ensure that it gets used. With the camera setting, a quick press on the button launches the camera so there's no need to press on the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> or open up the Camera app. Apple is rumored to be adding a dedicated Capture button for the camera with the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models, so the Action button might get less useful at that point for those who use it for the camera.<br/>
-<br/>
-For &zwnj;iPhone 15 Pro&zwnj; owners, how's your battery life, and do you use the Action button? Let us know in the comments below.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Neutral)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/10/iphone-15-pro-six-month-review/">Review: Six Months With the iPhone 15 Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/review-six-months-with-the-iphone-15-pro.2423944/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
