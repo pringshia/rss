@@ -14,12 +14,39 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 15 Apr 2024 09:02:41 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 15 Apr 2024 13:02:51 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Further Explains Why Game Boy Emulator iGBA Was Removed From App Store</title>
+		<link>https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/</link>
+		<comments>https://forums.macrumors.com/threads/apple-further-explains-why-game-boy-emulator-igba-was-removed-from-app-store.2424241/</comments>
+		<pubDate>Mon, 15 Apr 2024 09:41:49 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>App Store</category>
+		<category>Emulator</category>
+		
+
+		<description><![CDATA[Over the weekend, a Game Boy emulator named iGBA <a href="https://www.macrumors.com/2024/04/14/game-boy-emulator-in-app-store/">appeared in the iPhone's App Store</a>, but Apple quickly removed the app due to <a href="https://www.macrumors.com/2024/04/15/apple-removes-igba-from-app-store/">violations of the company's App Review Guidelines related to spam and copyright</a>. Apple has since shared additional details about why it removed iGBA from the App Store, and it also clarified its guidelines for emulators.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iGBA-Feature-Slashed.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-946574" /><br/>
+iGBA was a <a href="https://www.threads.net/@rileytestut/post/C5xvTs1tp2u">copycat version</a> of developer Riley Testut's <a href="https://github.com/CocoaBob/GBA4iOS">open-source GBA4iOS app</a>, with the addition of ads on top. While it did not explicitly name GBA4iOS, Apple told us it removed iGBA from the App Store after learning that it was a knockoff app that copied another developer's work and attempted to pass it off as its own.<br/>
+<br/>
+Notably, Apple confirmed to us that emulators on the App Store are permitted to load ROMs downloaded from the web, so long as the app is emulating retro console games only. Apple also said it had approved iGBA's functionality, before learning that it was a knockoff app, suggesting that Game Boy emulation is permitted on the App Store, but the company has yet to share any other examples of retro game consoles.<br/>
+<br/>
+All in all, it appears that iGBA was removed from the App Store entirely because it was a ripoff of GBA4iOS, rather than due to piracy concerns resulting from users being able to load any ROM downloaded from the web. However, exactly which consoles Apple considers to be retro, and if there will be any other restrictions, remains to be seen.<br/>
+<br/>
+It also remains to be seen how Nintendo reacts to Apple approving Game Boy emulators for distribution through the App Store on the iPhone. On its <a href="https://en-americas-support.nintendo.com/app/answers/detail/a_id/55888/~/intellectual-property-%26-piracy-faq">U.S. customer support website</a>, Nintendo says downloading pirated copies of its games is illegal:<blockquote>Pirate copies of game files are often referred to as "ROMs".<br/>
+<br/>
+The uploading and downloading of pirate copies of Nintendo games is illegal.</blockquote>We have reached out to Nintendo for comment.<br/>
+<br/>
+Apple updated its App Review Guidelines to <a href="https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/">permit retro game console emulators</a> earlier this month. Apple says developers of emulators are "responsible for all such software" offered in the app, including compliance with "all applicable laws."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/emulator/">Emulator</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/">Apple Further Explains Why Game Boy Emulator iGBA Was Removed From App Store</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-further-explains-why-game-boy-emulator-igba-was-removed-from-app-store.2424241/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iPhone 15 Pro vs. iPhone 16 Pro: 30 Rumored Upgrades Compared</title>
@@ -845,57 +872,6 @@ DuckDuckGo's personal information removal tool regularly scans 50 sites that sel
 Identity theft restoration includes the support of a dedicated advisor that will work with users to restore stolen accounts, replace bank cards and other identifying documents, recover financial losses, and correct credit reports.<br/>
 <br/>
 Privacy Pro from DuckDuckGo is <a href="https://spreadprivacy.com/meetprivacypro/">priced at &#36;9.99 per month</a> or &#36;99.99 per year, and it is currently only available in the United States. Users will need to ensure they are using the latest version of the DuckDuckGo browser to take advantage of the features.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/duckduckgo/">DuckDuckGo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/11/duckduckgo-privacy-pro-subscription/">DuckDuckGo Launches 3-in-1 &#039;Privacy Pro&#039; Subscription With VPN and Personal Data Removal Tool</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/duckduckgo-launches-3-in-1-privacy-pro-subscription-with-vpn-and-personal-data-removal-tool.2424020/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Review: Nanoleaf Debuts New Matter-Connected Outdoor String Lights</title>
-		<link>https://www.macrumors.com/review/nanolear-outdoor-string-lights/</link>
-		<comments>https://forums.macrumors.com/threads/review-nanoleaf-debuts-new-matter-connected-outdoor-string-lights.2424018/</comments>
-		<pubDate>Thu, 11 Apr 2024 12:14:56 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/review/nanolear-outdoor-string-lights&#038;post_date=1712873696/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Nanoleaf</category>
-		
-
-		<description><![CDATA[Popular home lighting company <a href="https://nanoleaf.me/en-US/">Nanoleaf</a> today introduced its latest product, Smart Multicolor Outdoor String Lights that bring HomeKit-compatible decorative lighting to decks, porches, backyards, gardens, pool areas, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/nanoleaf-outdoor-lights-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-945596" /><br/>
-Nanoleaf is known for unique light designs, and the Outdoor String Lights aren't an exception. The bulbs have an angular five-sided shape that makes them more geometric than soft. They're made from a hard, clear plastic material and they look like they're made from crystal or ice. If you want cozy, romantic-style lighting, Nanoleaf's lights might not be the right vibe because of the shape, but if you want lights that are fun and eye-catching, these are perfect.<br/>
-<br/>
-There are multicolor LEDs in each bulb, so you can control the lights individually and set them to any color, including shades of white. If you unscrew one of the bulbs, there's actually a second protective plastic dome inside that further diffuses the light. The bulb shape might not have a cozy feel, but the lights can be soft yellows and whites, or any other shade of the rainbow, plus there are dimming controls. The colors are accurate and it does well with blues, purples, and greens, shades that can sometimes be off with LED lighting.<br/>
-<br/>
-The Outdoor String Lights are meant for ambient lighting, and even at 100 percent brightness, they're on the dimmer side depending on the colors used. Nanoleaf says they're 55 lumens per bulb, so a 15-meter strand is 1100 lumens total. These are available in 15-meter (49ft) and 30-meter lengths (98ft), with the 15-meter version offering 20 bulbs and the 30-meter version offering 40 bulbs. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/nanoleaf-outdoor-lights-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-945597" /><br/>
-Strands can be connected together, but the maximum length is 45 meters or 147 feet, equivalent to one 30-meter strand and one 15-meter expansion. For anything longer, you'll need separate sets with multiple power supplies. The lights have thick black cabling for weather protection, so these are probably not string lights you're going to want to use indoors unless you have a room where an industrial look works.<br/>
-<br/>
-There's 6.5 feet of cord between the power supply and the controller and then another foot or so between the controller and the first light. The bulbs are spaced about two feet apart, and they hang down four inches, so they look best when draped down across beams or using outdoor light poles.<br/>
-<br/>
-The lights have IP65 water resistance and the controller is IP67 rated, so they can be used outdoors in the rain and elements without protection all year. Nanoleaf offers a two-year warranty on the lights.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/nanoleaf-outdoor-lights-3.jpg" alt="" width="2000" height="2000" class="aligncenter size-full wp-image-945598" /><br/>
-In terms of aesthetics, the Nanoleaf Outdoor Lights are great, but connectivity needs improvement. These connect to <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> through Matter, and Matter devices continue to face issues on Apple's platform. I think it's more of an Apple issue than a Nanoleaf issue because I see these same Matter problems regardless of device, but it's a problem any potential buyer needs to be aware of.<br/>
-<br/>
-The Outdoor String Lights have randomly disconnected or become unreachable for no particular reason a handful of times. Sometimes unplugging them fixes it, and sometimes they just start working again after being unreachable. As a caveat, I don't know if the Matter/&zwnj;HomeKit&zwnj; interoperability issue I have is exacerbated by my Wi-Fi network or other factors. I have an Orbi mesh Wi-Fi 6E network, and while my standard &zwnj;HomeKit&zwnj; products seem to generally be reliable (especially those with hubs), Matter is not. The Outdoor String Lights are mostly functional and the disconnects aren't constant, but it is worth noting that the lights may not always work seamlessly for &zwnj;HomeKit&zwnj; users.<br/>
-<br/>
-I would have preferred native &zwnj;HomeKit&zwnj; support to Matter for the lights, but these are Matter only. There is no Thread support, and as with other Nanoleaf products, you can only use a 2.4GHz network.<br/>
-<br/>
-On a more positive note, Nanoleaf has one of the better smart home apps. There are built-in scenes available in the app for the Outdoor String Lights, but I can also create my own or use scenes created by other Nanoleaf users. Nanoleaf also has an AI feature where you can type in any phrase like "tropical sunset" or "ocean waves" to get a custom scene in colors that match what you're aiming for.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/nanoleaf-outdoor-lights-4.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-945599" /><br/>
-The AI works with a fairly wide range of suggestions, and I get a good range of colors. The only downside is that it appears to have a single color-shifting pattern, but Nanoleaf does support other patterns when you create your own scenes or download them. As these are able to connect to &zwnj;HomeKit&zwnj; via Matter, you can use <a href="https://www.macrumors.com/guide/siri/">Siri</a> commands and turn them on and off with the Home app.<br/>
-<br/>
-The Home app also supports automations for turning the Outdoor Lights on and off at select times or pairing them with other &zwnj;HomeKit&zwnj; devices.<br/>
-<br/>
-<h2>Bottom Line</h2><br/>
-The Nanoleaf Outdoor String Lights are some of the neatest outdoor lights that I've seen, and the multicolored LEDs pair well with the geometric shape. These are expensive and are not cost efficient if you have a large area to cover in lights, but one or two strands will elevate any outdoor setup.<br/>
-<br/>
-I have not seen flawless operation from the Outdoor String Lights, and have had to deal with some disconnects, so that's something to be aware of. I am hopeful that Apple and Nanoleaf updates in the future will fix any of the lingering issues that Matter-enabled devices are still experiencing.<br/>
-<br/>
-<h2>How to Buy</h2><br/>
-Nanoleaf's Outdoor String Lights can be <a href="https://nanoleaf.me/en-US/products/essentials/outdoor/multicolor-string-lights/">purchased from the Nanoleaf website</a>. A 15-meter strand is priced at &#36;100, and a 30-meter strand is priced at &#36;180. Additional 15-meter expansion packs are available for &#36;70.<br/>
-<br/>
-<em><small>Note: Nanoleaf provided MacRumors with a set of Outdoor String Lights for the purpose of this review. No other compensation was received.</small></em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/nanoleaf/">Nanoleaf</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/review/nanolear-outdoor-string-lights/">Review: Nanoleaf Debuts New Matter-Connected Outdoor String Lights</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/review-nanoleaf-debuts-new-matter-connected-outdoor-string-lights.2424018/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
