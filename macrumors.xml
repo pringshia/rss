@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 16 Apr 2024 13:02:30 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 16 Apr 2024 17:11:37 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,13 +22,92 @@
 	<generator>https://www.macrumors.com</generator>
 		
 		<item>
-		<title>NES Emulator for iPhone and iPad Now Available on App Store</title>
+		<title>Native Microsoft OneNote App Now Available for Apple Vision Pro</title>
+		<link>https://www.macrumors.com/2024/04/16/microsoft-onenote-vision-pro/</link>
+		<comments>https://forums.macrumors.com/threads/native-microsoft-onenote-app-now-available-for-apple-vision-pro.2424348/</comments>
+		<pubDate>Tue, 16 Apr 2024 16:23:30 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/16/microsoft-onenote-vision-pro/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Microsoft</category>
+		
+
+		<description><![CDATA[Microsoft <a href="https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-onenote-now-available-on-apple-vision-pro/ba-p/4115959">today introduced</a> a version of OneNote that is designed to run on the <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> headset. OneNote for Vision Pro was created for <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a>, and it includes many of the features that are available on OneNote for <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/microsoft-onenote-vision-pro.jpg" alt="" width="999" height="562" class="aligncenter size-full wp-image-946785" /><br/>
+The app can be used to write memos, notes, and digital notebooks, and there are options to sync content to OneDrive for access across multiple platforms. There is support for tags like Important and To Do, and notes can be protected with a password.<br/>
+<br/>
+OneNote on Vision Pro works hands-free or with a connected keyboard and mouse. In the future, Microsoft plans to add support for Copilot, two-factor authentication, and inserting images from the camera or the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app.<br/>
+<br/>
+OneNote <a href="https://apps.apple.com/us/app/microsoft-onenote/id410395246">can be downloaded</a> from the &zwnj;visionOS&zwnj; <a href="https://www.macrumors.com/guide/app-store/">App Store</a> as of today. It works with personal and work accounts that are not managed by an organization.<br/>
+<br/>
+Microsoft has made many of its apps available on the Vision Pro, including Teams, Word, Excel, PowerPoint, and Outlook.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/microsoft/">Microsoft</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/16/microsoft-onenote-vision-pro/">Native Microsoft OneNote App Now Available for Apple Vision Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/native-microsoft-onenote-app-now-available-for-apple-vision-pro.2424348/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Everything New in the iOS 17.5 Beta</title>
+		<link>https://www.macrumors.com/guide/ios-17-5-beta-features/</link>
+		<comments>https://forums.macrumors.com/threads/everything-new-in-the-ios-17-5-beta.2424343/</comments>
+		<pubDate>Tue, 16 Apr 2024 15:08:39 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-17-5-beta-features&#038;post_date=1713316119/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple is currently testing iOS 17.5, the fifth major update to the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> operating system that came out last September. Like iOS 17.4, iOS 17.5 primarily focuses on regulatory changes in the European Union, but there are a few other features worth noting.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.5-Feature-Green-and-Purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-940351" /><br/>
+This guide aggregates everything that's been found during the iOS 17.5 beta testing period so far.<br/>
+<br/>
+<h2 id="app_downloads_from_websites_eu_only">App Downloads From Websites (EU Only)</h2><br/>
+iOS 17.5 introduces support for <a href="https://www.macrumors.com/2024/04/02/ios-17-5-app-website-downloads-eu/">web-based app distribution</a> in the European Union, allowing developers to offer their apps for download directly on their websites. Apps can be downloaded from websites in the EU <a href="https://www.macrumors.com/2024/04/16/ios-17-5-app-web-downloads-eu/">as of the second beta</a>. <br/>
+<br/>
+As with the iOS 17.4 changes that added alternative app marketplaces, this functionality is limited to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and can only be used in the EU. Developers need to be a member of the Apple Developer Program for two continuous years or more and must have more than one million first installs on iOS in the prior year to offer an app for download.<br/>
+<br/>
+All apps downloaded from websites onto iPhones must submit to Apple's notarization process, and while there is no commission to pay to Apple, Apple does charge a 0.50 euro Core Technology Fee.<br/>
+<br/>
+<h2 id="podcast_widget">Podcast Widget</h2><br/>
+The Podcasts widget that can be added to the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> or the Lock screen now features a background that changes depending on the art of the podcast that's being played.<br/>
+<br/>
+<h2 id="mobile_device_management">Mobile Device Management</h2><br/>
+MDM solutions are able to enforce a beta version during automated device enrollment. Automated device enrollment is designed to simplify initial device setup.<br/>
+<br/>
+<h2 id="apple_news+">Apple News+</h2><br/>
+<a href="https://www.macrumors.com/guide/apple-news-plus/">Apple News</a>+ includes a new <a href="https://www.macrumors.com/2024/04/10/ios-17-5-apple-news-quartiles-game/">daily word game</a> called Quartiles. The game requires players to combine tiles to form words and earn points. Quartiles is limited to customers who have a paid &zwnj;Apple News&zwnj;+ subscription.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iOS-17.5-Quartiles-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-945719" /><br/>
+<h2 id="code_changes">Code Changes</h2><br/>
+There are several changes to the code in iOS 17.5, and these hint at features that could come later in the beta or when the update launches.<br/>
+<br/>
+<h3 id="third-party_item_tracker_alerts">Third-Party Item Tracker Alerts</h3><br/>
+iOS 17.5 <a href="https://www.macrumors.com/2024/04/03/ios-17-5-third-party-item-tracker-alerts/">references support</a> for third-party item trackers, a feature that Apple has been working on since last year.<br/>
+<br/>
+Apple and Google developed a cross-platform solution for unwanted tracking alerts, and it looks like iOS 17.5 will let &zwnj;iPhone&zwnj; users know when a third-party tracker is nearby. "You can disable this item and stop it from sharing its location with the owner. To do this, follow the instructions provided on a website by the manufacturer of this item," reads some of the code in the update.<br/>
+<br/>
+Google launched its <a href="https://www.macrumors.com/2024/04/08/google-android-find-my-device-network-2/">Android-based Find My Device network</a> earlier this month.<br/>
+<br/>
+<h3 id="facetime">FaceTime</h3><br/>
+<a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> may gain a "Block All Participants" option for group &zwnj;FaceTime&zwnj; calls, possibly for blocking spam. This feature does not appear to be functional as of yet.<br/>
+<br/>
+<h3 id="ipad_battery_health">iPad Battery Health</h3><br/>
+There are references to a Battery Health menu on the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, a feature that is not currently available. This is not an option in the beta as of now, and it may be limited to the new iPads that Apple is rumored to be introducing in May.<br/>
+<br/>
+The Battery Health menu would likely show maximum remaining capacity and charge cycle count, similar to the Battery Health menu on &zwnj;iPhone&zwnj;.<br/>
+<br/>
+<h3 id="new_apple_pencil">New Apple Pencil</h3><br/>
+There are references to an <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> "V4" in the iOS 17.5 code, and there are also mentions of a "squeeze" feature that could perhaps add support for completing actions with a squeeze on the new &zwnj;Apple Pencil&zwnj;.<br/>
+<br/>
+<h2 id="release_date">Release Date</h2><br/>
+Apple is likely to release iOS 17.5 in early May. New iPads are planned for May, so the update could come out right around when Apple debuts the new &zwnj;iPad&zwnj; models.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-17-5-beta-features/">Everything New in the iOS 17.5 Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-new-in-the-ios-17-5-beta.2424343/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>NES Emulator for iPhone and iPad Now Available on App Store [Removed]</title>
 		<link>https://www.macrumors.com/2024/04/16/nes-emulator-bimmy-for-iphone-in-app-store/</link>
-		<comments>https://forums.macrumors.com/threads/nes-emulator-for-iphone-and-ipad-now-available-on-app-store.2424326/</comments>
+		<comments>https://forums.macrumors.com/threads/nes-emulator-for-iphone-and-ipad-now-available-on-app-store-removed.2424326/</comments>
 		<pubDate>Tue, 16 Apr 2024 11:33:05 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/04/16/nes-emulator-bimmy-for-iphone-in-app-store/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
 		<category>App Store</category>
 		<category>Emulator</category>
 		
@@ -40,7 +119,9 @@ On the App Store, Bimmy is described as a tool for testing and playing public do
 <br/>
 The release of Bimmy comes after <a href="https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/">Apple removed Game Boy emulator iGBA from the App Store</a> for ripping off another emulator known as GBA4iOS, which was distributed outside the App Store. Apple said it had approved of iGBA's functionality prior to learning that the app was a knockoff, suggesting that emulators for older Nintendo game consoles are permitted on the App Store, and Bimmy seems to be the first proof of that.<br/>
 <br/>
-Apple updated its App Review Guidelines to <a href="https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/">permit retro game console emulators</a> earlier this month. Apple says developers of emulators are "responsible for all such software" offered in the app, including compliance with "all applicable laws."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/emulator/">Emulator</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/16/nes-emulator-bimmy-for-iphone-in-app-store/">NES Emulator for iPhone and iPad Now Available on App Store</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/nes-emulator-for-iphone-and-ipad-now-available-on-app-store.2424326/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Apple updated its App Review Guidelines to <a href="https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/">permit retro game console emulators</a> earlier this month. Apple says developers of emulators are "responsible for all such software" offered in the app, including compliance with "all applicable laws."<br/>
+<br/>
+<strong>Update:</strong> In a post on the MacRumors Forums, the developer of Bimmy <a href="https://forums.macrumors.com/threads/nes-emulator-for-iphone-and-ipad-now-available-on-app-store.2424326/post-33074585">said</a> they decided to remove the app from the App Store. "No one reached out to me pressuring me to remove it," he said. "But I'd rather not have the risk."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/emulator/">Emulator</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/16/nes-emulator-bimmy-for-iphone-in-app-store/">NES Emulator for iPhone and iPad Now Available on App Store [Removed]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/nes-emulator-for-iphone-and-ipad-now-available-on-app-store-removed.2424326/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -704,76 +785,6 @@ The &zwnj;iPhone 16 Pro&zwnj; and &zwnj;iPhone 16 Pro&zwnj; Max are expected to 
 <br/>
 <h2 id="will_it_be_worth_upgrading">Will It Be Worth Upgrading?</h2><br/>
 The &zwnj;iPhone 15 Pro&zwnj; was a fairly significant upgrade over the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> Pro in 2023, introducing a new design with a titanium frame, slimmer bezels, the Action button, a USB-C port, and more. The &zwnj;iPhone 16 Pro&zwnj;'s upgrades will likely not be as substantial as those offered by its predecessor. As a result, most &zwnj;iPhone 15 Pro&zwnj; users will have little reason to upgrade, but some who would appreciate a larger display, better cameras, and a dedicated button for photography and videography features may find it worthwhile.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Neutral)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/iphone-15-pro-vs-iphone-16-pro/">iPhone 15 Pro vs. iPhone 16 Pro: 30 Rumored Upgrades Compared</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-pro-vs-iphone-16-pro-30-rumored-upgrades-compared.2419268/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Save on Anker&#039;s Best Portable Batteries and USB-C Accessories, Plus Jackery&#039;s Power Stations</title>
-		<link>https://www.macrumors.com/2024/04/15/anker-portable-batteries-jackery/</link>
-		<comments>https://forums.macrumors.com/threads/save-on-ankers-best-portable-batteries-and-usb-c-accessories-plus-jackerys-power-stations.2424233/</comments>
-		<pubDate>Mon, 15 Apr 2024 08:03:56 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/15/anker-portable-batteries-jackery/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Today we're tracking a few deals offered by <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C812422R%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3SU6JI04LB2MZ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3SU6JI04LB2MZ_1713191397056">Anker</a> and <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Jackery</a>, including a wide array of wall chargers and other USB-C accessories. All of the products in this sale can be found on Amazon, and some will require you to clip an on-page coupon then head to the checkout screen before you see the final sale price.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/new-anker-jackery-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-946517" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Highlights of Jackery's deals include the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Explorer 100 Plus Portable Power Station</a>, available for just &#36;99.99, down from &#36;149.00. This is a miniature-sized portable power station that can fit in the palm of your hand and weighs just 2.13 lbs, while featuring a 31,000 mAh capacity and 128W output.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>Jackery Explorer 100 Plus for &#36;99.99</div></a></div><br/>
-<br/>
-Switching to the Anker deals, you can get the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C812422R%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3SU6JI04LB2MZ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3SU6JI04LB2MZ_1713191397056">20,000 mAh Prime Power Bank with Smart Digital Display</a> for &#36;104.99 with an on-page coupon, down from &#36;129.99. If you need a bigger battery, you can get the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.10G3BZB00CFWS%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.10G3BZB00CFWS_1713191978237">Portable Power Station with Smart Display + Retractable Light</a> for &#36;109.99 with an on-page coupon, down from &#36;149.99. Additionally, below you'll find more Anker accessories including speakers and USB-C products.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C812422R%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3SU6JI04LB2MZ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3SU6JI04LB2MZ_1713191397056"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;25 OFF</div>20,000 mAh Prime Power Bank with Smart Digital Display for &#36;104.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.10G3BZB00CFWS%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.10G3BZB00CFWS_1713191978237"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;40 OFF</div>Portable Power Station with Smart Display + Retractable Light for &#36;109.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09TT8GZK9%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.HZBHG58DP8H0%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.HZBHG58DP8H0_1709134987908"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;37 OFF</div>Anker 3-in-1 MagSafe Charging Cube for &#36;112.46</div></a></div><h2>Jackery</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Explorer 100 Plus Portable Power Station</a> - &#36;99.99, down from &#36;149.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CGZW67B6%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.2D47DQD1FRWW3%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.2D47DQD1FRWW3_1710770158851">Solar Generator 300 Plus Portable Power Station</a> - &#36;449.00, down from &#36;579.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CFVCRJVL%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3IF0PS8UT4GJ7%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3IF0PS8UT4GJ7_1710770002372">Expansion Battery Pack for 1000 Plus</a> - &#36;509.00 with on-page coupon, down from &#36;799.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8ZLZ53M%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3S52LG1288F1D%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3S52LG1288F1D_1710770092703">Explorer 2000 Pro Portable Power Station</a> - &#36;1,199.00, down from &#36;1,899.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6DL1VPD%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1QELY4DYBF6HU%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1QELY4DYBF6HU_1710770037246">Expansion Battery Pack for 2000 Plus</a> - &#36;1,199.00 with on-page coupon, down from &#36;1,599.00</li></ul><br/>
-<h2>Anker</h2><br/>
-<h3>Audio</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CDJWTWMB%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3NUAPVI1RMDMY%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3NUAPVI1RMDMY_1710770269976">Soundcore Motion 300 Wireless Bluetooth Speaker</a> - &#36;63.99, down from &#36;79.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CQ53RVTW%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.25RMP5XMPEBDM%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.25RMP5XMPEBDM_1713191835036">Soundcore Boom 2 Outdoor Speaker</a> - &#36;109.99 with code INFBOOM2, down from &#36;129.99</li></ul><br/>
-<h3>Portable Batteries</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C9D7R1B6%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3IQ1Y7SBOA6VQ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3IQ1Y7SBOA6VQ_1704725913103">Nano Power Bank with Built-In USB-C Cable</a> - &#36;34.99 for Prime members, down from &#36;49.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BYP45YVF%2Fref%3Dox_sc_act_title_1%3Fsmid%3DA294P4X9EWVXLJ%26psc%3D1">Prime Power Bank 20,000 mAh with 100W Charging Base</a> - &#36;159.99 with on-page coupon, down from &#36;184.99</li></ul><br/>
-<h3>Power Stations</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.10G3BZB00CFWS%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.10G3BZB00CFWS_1713191978237">Portable Power Station with Smart Display + Retractable Light</a> - &#36;109.99 with on-page coupon, down from &#36;149.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09TT8GZK9%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.HZBHG58DP8H0%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.HZBHG58DP8H0_1709134987908">3-in-1 MagSafe Charging Cube</a> - &#36;112.46 with on-page coupon, down from &#36;149.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-A1770-Powerhouse%2Fdp%2FB099Z2RDS5%3Fref_%3Dast_sto_dp%26th%3D1">SOLIX F1200 Portable Power Station</a> - &#36;749.00 with on-page coupon, down from &#36;1,098.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-A1780-Power-Storage%2Fdp%2FB09XM7WDZ2%3Fref_%3Dast_sto_dp%26th%3D1">SOLIX F2000 Portable Power Station</a> - &#36;1,399.00 with on-page coupon, down from &#36;1,999.00</li></ul><br/>
-<h3>Wall Chargers</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Durable-Compact-Included%2Fdp%2FB099F558S1%3Fref_%3Dast_sto_dp%26th%3D1">20W USB-C Charger</a> - &#36;11.19 for Prime members, down from &#36;16.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Compact-Pixelbook-ThinkPad%2Fdp%2FB09Q52CXX1%3Fref_%3Dast_sto_dp%26th%3D1">100W 3-Port USB-C Charger</a> - &#36;53.95, down from &#36;74.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charging-Station-Undetachable-Extension%2Fdp%2FB0C7B4W2BV%3Fref_%3Dast_sto_dp%26th%3D1">6-in-1 Nano Charging Station</a> - &#36;45.99, down from &#36;65.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Compact-MacBook-Pixelbook%2Fdp%2FB0C4YTB56H%3Fref_%3Dast_sto_dp">Prime 67W 3-Port Charger</a> - &#36;44.99, down from &#36;65.99</li></ul><br/>
-<h3>Hubs</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Transfer-Extended-Charging-Supported%2Fdp%2FB0CCDZWH5H%3Fref_%3Dast_sto_dp%26th%3D1">4-Port USB-C Hub</a> - &#36;15.99, down from &#36;19.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-MacBook-Docking-Station-Thinkpad%2Fdp%2FB0BNZ5TCG8%3Fref_%3Dast_sto_dp">10-in-1 USB-C Hub</a> - &#36;75.00, down from &#36;149.99</li></ul> If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/15/anker-portable-batteries-jackery/">Save on Anker&#039;s Best Portable Batteries and USB-C Accessories, Plus Jackery&#039;s Power Stations</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/save-on-ankers-best-portable-batteries-and-usb-c-accessories-plus-jackerys-power-stations.2424233/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Sports App Updated for NBA and NHL Playoffs</title>
-		<link>https://www.macrumors.com/2024/04/15/apple-sports-app-updated-for-nba-and-nhl-playoffs/</link>
-		<comments>https://forums.macrumors.com/threads/apple-sports-app-updated-for-nba-and-nhl-playoffs.2424229/</comments>
-		<pubDate>Mon, 15 Apr 2024 06:36:16 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/15/apple-sports-app-updated-for-nba-and-nhl-playoffs/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Sports</category>
-		
-
-		<description><![CDATA[Apple's <a href="https://www.macrumors.com/2024/02/21/apple-sports-app-announced/">recently-launched Sports app</a> for the iPhone was updated today ahead of the NBA and NHL playoffs, which both begin this weekend.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/Apple-Sports-App-Preview-Feature.jpg" alt="" width="1961" height="1102" class="aligncenter size-full wp-image-937385" /><br/>
-Apple says fans will be able to "follow every matchup with added details on each series and more," but we have not noticed any immediate changes in the app after updating to the new version. The first NBA and NHL playoff series begin on Saturday, April 20, so the extra details will presumably become visible then. Some info like playoff matchups and conference standings was already available in the previous version of the app.<br/>
-<br/>
-Released in February, the Apple Sports app shows scores, schedules, stats, and more for a variety of leagues, such as the NBA, NHL, MLB, MLS, and Premier League. The app also displays real-time play-by-play information for ongoing games.<br/>
-<br/>
-Apple Sports is available for free <a href="https://apps.apple.com/us/app/apple-sports/id6446788829">on the App Store</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-sports/">Apple Sports</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/15/apple-sports-app-updated-for-nba-and-nhl-playoffs/">Apple Sports App Updated for NBA and NHL Playoffs</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-sports-app-updated-for-nba-and-nhl-playoffs.2424229/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
