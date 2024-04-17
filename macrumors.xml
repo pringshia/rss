@@ -14,12 +14,168 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 17 Apr 2024 09:03:45 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 13:03:00 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Hands-On With the New App Store Delta Game Emulator</title>
+		<link>https://www.macrumors.com/2024/04/17/delta-emulator-hands-on/</link>
+		<comments>https://forums.macrumors.com/threads/hands-on-with-the-new-app-store-delta-game-emulator.2424397/</comments>
+		<pubDate>Wed, 17 Apr 2024 12:19:34 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/17/delta-emulator-hands-on/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[A decade ago, developer Riley Testut released <a href="https://www.macrumors.com/2014/02/19/gba4ios-game-boy-emulator/">the GBA4iOS emulator for iOS</a>, and since it was against the rules at the time, Apple put a stop to downloads. Emulators have been a violation of the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> rules for years, but that changed on April 5 when Apple suddenly reversed course and said that it was <a href="https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/">allowing retro game emulators</a> on the &zwnj;App Store&zwnj;.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/DV9QFZltxDI" title="Delta Emulator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+With official support available for emulators, Testut this morning <a href="https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/">released his latest emulator</a>, Delta, on the &zwnj;App Store&zwnj;. Unlike the other two emulators that have been released in the last week, Delta is incredibly polished and provides an all-around pleasant gameplay experience.<br/>
+<br/>
+Delta supports game systems that include the NES, SNES, Nintendo 64, Game Boy Color, Game Boy Advance, and Nintendo DS. Skins for the different systems load automatically depending on what's being played, and the app does an excellent job making you feel like you're playing on a retro Nintendo device.<br/>
+<br/>
+It is worth noting that Delta is such a great emulator because it is not, in fact, new. It has been able to be installed on <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> using alternate installation means, but the &zwnj;App Store&zwnj; is a much more streamlined way to get it. Delta is <strong>the</strong> must have emulator, at least for NES content.<br/>
+<br/>
+Delta's on-screen controls work flawlessly for games, but it is also compatible with a wide range of retro and modern game controllers. It supports save and load states, and content can be synced between devices. There are also advanced features like support for Game Genie and GameShark cheat codes, a hold button, and fast forward for speeding through slow parts of games.<br/>
+<br/>
+When you import a game, Delta automatically detects the appropriate box art, and there is support for <a href="https://www.macrumors.com/guide/3d-touch/">3D Touch</a> and app icon shortcuts for accessing recent and favorite games.<br/>
+<br/>
+There are no games included with Delta when you install it, but it can open zipped files that are uploaded to <a href="https://www.macrumors.com/guide/icloud-drive/">iCloud Drive</a>, Dropbox, or Google Drive. Apple's &zwnj;App Store&zwnj; rules permit "retro game console emulator apps" and Apple says that developers are required to ensure that their software complies with "all applicable laws."<br/>
+<br/>
+If you haven't downloaded Delta already, it's well worth going to pick it up. We're not expecting Delta to get pulled from the &zwnj;App Store&zwnj;, but there's always the possibility that Nintendo could protest now that it's more widely available, so download it sooner rather than later.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/17/delta-emulator-hands-on/">Hands-On With the New App Store Delta Game Emulator</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/hands-on-with-the-new-app-store-delta-game-emulator.2424397/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>What to Know About Apple Allowing Game Emulators in the App Store</title>
+		<link>https://www.macrumors.com/2024/04/17/what-to-know-about-iphone-app-store-emulators/</link>
+		<comments>https://forums.macrumors.com/threads/what-to-know-about-apple-allowing-game-emulators-in-the-app-store.2424395/</comments>
+		<pubDate>Wed, 17 Apr 2024 11:46:03 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/17/what-to-know-about-iphone-app-store-emulators/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>App Store</category>
+		<category>Emulator</category>
+		
+
+		<description><![CDATA[Apple updated its App Review Guidelines this month to <a href="https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/">allow "retro game console emulator apps"</a> on the App Store for the iPhone and other devices. Below, we outline everything to know about these emulators and available options so far.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/Emulators-in-the-App-Store-What-to-Know-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-947035" /><br/>
+This information is up to date as of April 2024, but Apple's policies could change over time.<br/>
+<br/>
+<h2>What is Allowed</h2><br/>
+Apple told us that emulators that can load games (ROMs) are permitted on the App Store, so long as the apps are emulating "retro console games" only.<br/>
+<br/>
+Apple would not tell us which consoles it classifies as retro, but developer Riley Testut's popular emulator Delta is <a href="https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/">now available on the App Store</a>, and it can emulate games for the Game Boy, Game Boy Color, Game Boy Advance, Nintendo Entertainment System (NES), Super Nintendo Entertainment System (SNES), Nintendo 64, and Nintendo DS.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/Emulators-in-the-App-Store-What-to-Know-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-947034" /><br/>
+There is also a Commodore 64 emulator on the App Store called <a href="https://apps.apple.com/us/app/emu64-xl/id6483251916">Emu64 XL</a>.<br/>
+<br/>
+We have not come across any other fully-functioning emulators on the App Store released after the rule change, but more will likely be available in the future. Apple recently <a href="https://www.macrumors.com/2024/04/15/apple-removes-igba-from-app-store/">removed an emulator called iGBA</a> from the App Store for ripping off Testut's code for Delta and its predecessor GBA4iOS, while the developer of NES emulator Bimmy <a href="https://www.macrumors.com/2024/04/16/nes-emulator-bimmy-for-iphone-in-app-store/">decided to remove the app</a> from the App Store to avoid the risk of legal action from Nintendo.<br/>
+<br/>
+<h2>Legality</h2><br/>
+While a U.S. court <a href="https://en.wikipedia.org/wiki/Sony_Computer_Entertainment,_Inc._v._Connectix_Corp.">ruled</a> that emulators are legal, downloading copyrighted ROMs is typically against the law in the country. On its <a href="https://en-americas-support.nintendo.com/app/answers/detail/a_id/55888/~/intellectual-property-%26-piracy-faq">customer support website</a> in the U.S., Nintendo says that downloading pirated copies of its games is illegal:<blockquote>Pirate copies of game files are often referred to as "ROMs".<br/>
+<br/>
+The uploading and downloading of pirate copies of Nintendo games is illegal.</blockquote>Nintendo recently sued the developers of Nintendo Switch emulator Yuzu for "facilitating piracy at a colossal scale," leading to a <a href="https://www.theverge.com/2024/3/4/24090357/nintendo-yuzu-emulator-lawsuit-settlement">reported &#36;2.4 million settlement</a>. Nintendo has yet to comment on the availability of emulators in the App Store, but Delta and its predecessor GBA4iOS have been available on the iPhone outside of the App Store for over a decade now without being shut down. Nintendo did <a href="https://www.idownloadblog.com/2014/05/14/nintendo-strikes-gba4ios-with-dmca-takedown-notice/">issue a DMCA takedown notice</a> against the GBA4iOS website in 2014, but the emulators have continued to remain available.<br/>
+<br/>
+For those who want to abide by the letter of the law, it is generally legal to download and play <a href="https://hh.gbdev.io/">"homebrew" games</a> available in the public domain.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/emulator/">Emulator</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/17/what-to-know-about-iphone-app-store-emulators/">What to Know About Apple Allowing Game Emulators in the App Store</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/what-to-know-about-apple-allowing-game-emulators-in-the-app-store.2424395/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>AltStore PAL Alternative App Marketplace Launches on iPhone in EU</title>
+		<link>https://www.macrumors.com/2024/04/17/altstore-eu-alternative-app-marketplace/</link>
+		<comments>https://forums.macrumors.com/threads/altstore-pal-alternative-app-marketplace-launches-on-iphone-in-eu.2424392/</comments>
+		<pubDate>Wed, 17 Apr 2024 10:30:27 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/17/altstore-eu-alternative-app-marketplace/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>European Union</category>
+		
+
+		<description><![CDATA[One of the first alternative app marketplaces went live in the European Union today, with developer Riley Testut <a href="http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal/">introducing AltStore PAL</a>, a version of his AltStore that can be accessed in EU countries.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/altstore-pal-eu.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-947008" /><br/>
+<a href="https://altstore.io">AltStore PAL</a> is an open-source app that is designed to distribute apps from independent developers. At launch, it features two apps, including Testut's Delta game emulator and clipboard manager app Clip. Delta is also being <a href="https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/">simultaneously released in the App Store</a> outside of the European Union, but it looks like EU customers will need to download it from AltStore.<br/>
+<br/>
+Testut says that once AltStore PAL is "running smoothly," third-party app developers will be able to submit their apps for distribution outside of the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. The app marketplace is designed to be decentralized with no directory, so developers will need to self-promote their apps and direct users to their websites to install an app through AltStore.<br/>
+<br/>
+Distributing apps through AltStore is free of charge, but it is worth noting that apps that see more than one million first annual installs will need to pay Apple an 0.50 euro Core Technology Fee. App marketplaces have to pay the fee for every install with no free allowance, so AltStore is charged 0.50 euros each time it is installed. To afford the fee, Testut is charging 1.50 euros per year for AltStore PAL access.<br/>
+<br/>
+Testut has been working on AltStore PAL since Apple announced plans to support <a href="https://www.macrumors.com/2024/02/08/app-store-connect-alternative-app-marketplaces/">alternative app marketplaces</a> in iOS 17.4. It is open to all apps, but Testut says that it makes the most sense for "smaller, indie apps that otherwise couldn't exist due to &zwnj;App Store&zwnj; rules."<br/>
+<br/>
+AltStore PAL is equipped with Patreon integration to allow developers to monetize their apps. Developers can offer their apps to just their patrons, and this method of distribution also allows for a sub-1 million cap on those who can subscribe to use an app.<br/>
+<br/>
+<a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users in the European Union can download AltStore PAL <a href="https://altstore.io">from the AltStore website</a>. Alternative app marketplaces are not available outside of the European Union.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/17/altstore-eu-alternative-app-marketplace/">AltStore PAL Alternative App Marketplace Launches on iPhone in EU</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/altstore-pal-alternative-app-marketplace-launches-on-iphone-in-eu.2424392/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Second Public Beta of macOS 14.5</title>
+		<link>https://www.macrumors.com/2024/04/17/apple-seeds-second-public-beta-of-macos-14-5/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-second-public-beta-of-macos-14-5.2424391/</comments>
+		<pubDate>Wed, 17 Apr 2024 10:27:23 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/17/apple-seeds-second-public-beta-of-macos-14-5/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today seeded the second beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.5 update to public beta testers, allowing non-developers to test the software ahead of its launch. The public beta comes two weeks after Apple <a href="https://www.macrumors.com/2024/04/04/apple-seeds-first-public-beta-of-macos-14-5/">released the first public beta</a>. <br/>
+<br/>
+<img class="aligncenter size-full wp-image-900182" src="https://images.macrumors.com/article-new/2023/06/macos-sonoma-4.jpg" alt="" width="2336" height="1314" /><br/>
+Beta testers can opt-in through the Software Update section of the System Settings app. Under Beta updates, simply toggle on the Sonoma Public Beta. Note that you must sign up to participate on Apple's <a href="https://beta.apple.com">beta testing website</a>.<br/>
+<br/>
+There have been no new features found in the &zwnj;macOS Sonoma&zwnj; 14.5 developer betas so far, and Apple listed no additions in its release notes. It is likely that the update focuses on bug fixes and other small under-the-hood improvements. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/17/apple-seeds-second-public-beta-of-macos-14-5/">Apple Seeds Second Public Beta of macOS 14.5</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-public-beta-of-macos-14-5.2424391/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Second Public Beta of iOS 17.5</title>
+		<link>https://www.macrumors.com/2024/04/17/apple-releases-second-public-beta-of-ios-17-5/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-second-public-beta-of-ios-17-5.2424390/</comments>
+		<pubDate>Wed, 17 Apr 2024 10:25:57 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/17/apple-releases-second-public-beta-of-ios-17-5/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today seeded the second betas of upcoming iOS 17.5 and iPadOS 17.5 updates to public beta testers, allowing non-developers to test the software ahead of its release. The second public iOS 17.5 and iPadOS 17.5 betas come two weeks after Apple <a href="https://www.macrumors.com/2024/04/04/apple-releases-ios-17-5-public-beta-1/">released the first betas</a> for public beta testers.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-943813" src="https://images.macrumors.com/article-new/2024/03/iOS-17.5-Feature-Orange.jpg" alt="" width="2500" height="1406" /><br/>
+Public beta testers can get the beta by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Public Beta. Signing up on Apple's beta testing website is required.<br/>
+<br/>
+iOS 17.5 is limited on new outward-facing features, focusing primarily on changes in the European Union. App developers in the EU are now able to add their <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> apps to their website, so that users can download them directly without having to use the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>.<br/>
+<br/>
+To offer an app for download from a website in the European Union, developers need to meet specific criteria. Developers need to be a member of the Apple Developer Program for two continuous years or more and must have an app with more than one million first installs on iOS in the European Union in the prior year. Other requirements include submitting to Apple's notarization process and publishing transparent data collection policies.<br/>
+<br/>
+This feature is limited to the European Union due to the Digital Markets Act and is not available to all users.<br/>
+<br/>
+iOS 17.5 and iPadOS 17.5 <a href="https://www.macrumors.com/2024/04/03/everything-new-in-ios-17-5-beta-1/">also have updates</a> to mobile device management and there are code changes suggesting Battery Health functionality could come to the new iPads and that Apple will soon add alerts for third-party item trackers.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/17/apple-releases-second-public-beta-of-ios-17-5/">Apple Releases Second Public Beta of iOS 17.5</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-second-public-beta-of-ios-17-5.2424390/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Delta Game Emulator Now Available From App Store on iPhone</title>
+		<link>https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/</link>
+		<comments>https://forums.macrumors.com/threads/delta-game-emulator-now-available-from-app-store-on-iphone.2424388/</comments>
+		<pubDate>Wed, 17 Apr 2024 09:58:28 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Game emulator apps have <a href="https://www.macrumors.com/2024/04/15/apple-removes-igba-from-app-store/">come and gone</a> since <a href="https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/">Apple announced App Store support</a> for them on April 5, but now popular game emulator Delta from developer Riley Testut is available for download.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/Delta-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-946979" /><br/>
+Testut is known as the developer behind GBA4iOS, an open-source emulator that was available on the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> for a brief time more than a decade ago. GBA4iOS led to Delta, an emulator that has been available outside of the &zwnj;App Store&zwnj;, but is now sanctioned by Apple.<br/>
+<br/>
+Delta is an all-in-one emulator that supports game systems including NES, SNES, N64, Nintendo DS, Game Boy, and Game Boy Advance. It works with popular game controllers, and supports cheats, save states, backups, syncing, and more. As this is Testut's longtime project, it is more polished and feature rich than other emulators that have popped up.<br/>
+<br/>
+Other features include custom controller skins, an option to fast forward, a "hold" button for games where a button needs to be consistently held, support for <a href="https://www.macrumors.com/guide/haptic-touch-vs-3d-touch-whats-the-difference/">Haptic Touch</a>, and appropriate box art for imported games. Local multiplayer gaming is available, and up to four players can participate.<br/>
+<br/>
+Earlier this week, Apple approved iGBA, a direct copy of Testut's original GBA4iOS app. iGBA made it to the top of the &zwnj;App Store&zwnj; charges, but Apple <a href="https://www.macrumors.com/2024/04/15/apple-removes-igba-from-app-store/">pulled it</a> after learning that it was a knockoff. <br/>
+<br/>
+Delta can be downloaded from the &zwnj;App Store&zwnj; for free, and it does not collect information or include ads. The app is available in the United States and other countries, but it is not available in the European Union where it is instead being offered through an alternative app marketplace. [<a href="https://apps.apple.com/us/app/delta-game-emulator/id1048524688">Direct Link</a>]<br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/">Delta Game Emulator Now Available From App Store on iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/delta-game-emulator-now-available-from-app-store-on-iphone.2424388/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>AirPods Pro 2 Available for &#36;189 Plus More Deals on Headphones and Earbuds</title>
@@ -379,163 +535,6 @@ To install the ‌watchOS 10.5 update, developers need to open the Apple Watch a
 Once beta updates have been activated, watchOS 10.5 can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
 <br/>
 We don't yet know what's included in watchOS 10.5, and there were no new features found in the first beta.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/16/apple-seeds-watchos-10-5-beta-2-to-developers/">Apple Seeds Second Beta of watchOS 10.5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-beta-of-watchos-10-5-to-developers.2424321/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Second Beta of tvOS 17.5 to Developers</title>
-		<link>https://www.macrumors.com/2024/04/16/apple-seeds-tvos-17-5-beta-2-to-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-second-beta-of-tvos-17-5-to-developers.2424319/</comments>
-		<pubDate>Tue, 16 Apr 2024 09:55:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/16/apple-seeds-tvos-17-5-beta-2-to-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV</category>
-		
-
-		<description><![CDATA[Apple today seeded the second beta of an upcoming tvOS 17.5 to developers for testing purposes, with the beta coming two weeks after the <a href="https://www.macrumors.com/2024/04/02/apple-seeds-tvos-17-5-beta-1-to-developers/">release of the first beta</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/07/apple-tv-4k-green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-856182" /><br/>
-Registered developers are able to download the tvOS 17.5 update by opting in to the beta through the Settings app on the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>. A registered developer account is required.<br/>
-<br/>
-tvOS software updates are often minor in scale compared to other operating system updates, focusing primarily on smaller improvements rather than outward-facing changes. We don't yet know what's included in tvOS 17.5.<br/>
-<br/>
-Apple shares some information on tvOS releases in its <a href="https://support.apple.com/en-us/HT207936">tvOS support document</a>, which is updated after each tvOS launch, but Apple does not provide notes during beta testing.<br/>
-<br/>
-Though we don't always know what's new in tvOS betas, we let <em>MacRumors</em> readers know when new updates are available so those who are developers can download new software upon release.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/16/apple-seeds-tvos-17-5-beta-2-to-developers/">Apple Seeds Second Beta of tvOS 17.5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-beta-of-tvos-17-5-to-developers.2424319/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Amazon Takes &#36;60 Off 2nd Gen Apple Watch SE, Starting at Just &#36;189</title>
-		<link>https://www.macrumors.com/2024/04/16/amazon-apple-watch-se-189-2/</link>
-		<comments>https://forums.macrumors.com/threads/amazon-takes-60-off-2nd-gen-apple-watch-se-starting-at-just-189.2424310/</comments>
-		<pubDate>Tue, 16 Apr 2024 08:13:08 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/16/amazon-apple-watch-se-189-2/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Apple's 40mm GPS Apple Watch SE is on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;189.00</strong></a> today on Amazon, down from &#36;249.00. This is just &#36;10 higher compared to its all-time low price on the wearable. This deal is available in the Silver, Midnight, and Starlight Aluminum Case options, and only Amazon has the discount.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/09/apple-watch-se-gen-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-865510" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-You can also get the 44mm GPS Apple Watch SE on sale right now, available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYCT6C%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;219.00</strong></a> on Amazon, down from &#36;279.00. This is another near all-time low price that's just &#36;10 away from the lowest price on the Apple Watch SE, and it's available in Midnight and Starlight Aluminum options.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXCXKPD%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>Apple Watch SE (40mm GPS) for &#36;189.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYCT6C%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>Apple Watch SE (44mm GPS) for &#36;219.00</div></a></div><br/>
-<br/>
-Additionally, both cellular models have hit record low prices this week on Amazon. The 40mm cellular Apple Watch SE is on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX7PF7V%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;239.00</strong></a>, down from &#36;299.00, and the 44mm cellular model is on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHXB1D3Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;269.00</strong></a>, down from &#36;329.00. You can find these all-time low prices available in multiple colors right now on Amazon.<br/>
-<br/>
-This model of the Apple Watch SE launched in September 2022 and remains Apple's most affordable Apple Watch. The Apple Watch SE lacks some of the upgraded features you'll find in some Series 9 or Ultra 2 models, like temperature sensing and ECG functionality, but it will otherwise provide you with all key Apple Watch features, and at the cheapest price possible.<br/>
-<br/>
-Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/16/amazon-apple-watch-se-189-2/">Amazon Takes &#36;60 Off 2nd Gen Apple Watch SE, Starting at Just &#36;189</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-takes-60-off-2nd-gen-apple-watch-se-starting-at-just-189.2424310/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Says &#039;Goodbye Leather&#039; in New iPhone Ad Following Controversial Switch to &#039;FineWoven&#039; Material</title>
-		<link>https://www.macrumors.com/2024/04/16/apple-says-goodbye-leather-in-new-iphone-ad/</link>
-		<comments>https://forums.macrumors.com/threads/apple-says-goodbye-leather-in-new-iphone-ad-following-controversial-switch-to-finewoven-material.2424304/</comments>
-		<pubDate>Tue, 16 Apr 2024 07:22:24 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/16/apple-says-goodbye-leather-in-new-iphone-ad/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Ads</category>
-		<category>FineWoven</category>
-		
-
-		<description><![CDATA[Apple today shared a new iPhone ad called "<a href="https://www.youtube.com/watch?v=JlU4Bb3z5wg">Goodbye Leather</a>" on its YouTube channel in the U.K., months after the company controversially switched from leather to a much-criticized "FineWoven" fabric material for accessories.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/JlU4Bb3z5wg?si=sW3fdSUe2c2rmdqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
-Apple <a href="https://www.macrumors.com/2023/09/12/apple-announces-finewoven/">discontinuing leather accessories</a> for environmental benefits was a noble aspiration, but FineWoven accessories have been <a href="https://www.macrumors.com/2023/09/21/apples-finewoven-iphone-cases-poor-reviews/">very poorly received</a>. Just days after the first FineWoven cases were released for the iPhone, some customers and media outlets complained about the fabric exterior being prone to scratches and stains. A photo of a FineWoven case with a <a href="https://www.macrumors.com/2023/09/25/finewoven-iphone-case-continued-criticism/">misaligned USB-C port cutout</a> also surfaced.<br/>
-<br/>
-<em>The Wall Street Journal</em>'s Joanna Stern said her FineWoven case <a href="https://www.macrumors.com/2024/02/26/finewoven-iphone-cases-brown-like-rotten-banana/">was "browning like a rotten banana"</a> after five months of usage.<br/>
-<br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/02/finewoven-case-stern.jpeg" alt="" width="3000" height="1999" class="aligncenter size-full wp-image-938281" /><em>Image Credit: Joanna Stern/The Wall Street Journal</em></div><br/>
-"The edges are peeling, the fabric is scratched up like an old CD and it's browning like a rotten banana," she wrote, in her <a href="https://www.wsj.com/articles/sign-up-for-tech-things-with-joanna-stern-11666299694"><em>Tech Things</em> newsletter</a>. "I've been waiting for the CDC to show up at my house to declare it a biomedical concern."<br/>
-<br/>
-Apple has yet to comment on FineWoven criticism, and it remains to be seen if the company discontinues the line or improves the material in any way.<br/>
-<br/>
-<em>Thanks, <a href="https://www.dylanmcd.com/">Dylan McDonald</a>!</em><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-ads/">Apple Ads</a>, <a href="https://www.macrumors.com/guide/finewoven/">FineWoven</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/16/apple-says-goodbye-leather-in-new-iphone-ad/">Apple Says &#039;Goodbye Leather&#039; in New iPhone Ad Following Controversial Switch to &#039;FineWoven&#039; Material</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-says-goodbye-leather-in-new-iphone-ad-following-controversial-switch-to-finewoven-material.2424304/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>All iPhone 16 Models to Feature Action Button, But Usefulness Debated</title>
-		<link>https://www.macrumors.com/2024/04/16/iphone-16-action-button-useful-or-not/</link>
-		<comments>https://forums.macrumors.com/threads/all-iphone-16-models-to-feature-action-button-but-usefulness-debated.2424299/</comments>
-		<pubDate>Tue, 16 Apr 2024 06:54:19 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/16/iphone-16-action-button-useful-or-not/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPhone 15 Pro</category>
-		<category>iPhone 16</category>
-		<category>iPhone 16 Pro</category>
-		<category>Action Button</category>
-		
-
-		<description><![CDATA[Last September, Apple's iPhone 15 Pro models debuted with a new customizable Action button, offering faster access to a handful of functions, as well as the ability to assign Shortcuts. Apple is poised to include the feature on <a href="https://www.macrumors.com/2023/11/30/iphone-16-action-button-all-models/">all upcoming iPhone 16 models</a>, so we asked iPhone 15 Pro users what their experience has been with the additional button so far.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Action-Button-Translate.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-911022" /><br/>
-The Action button replaces the switch that activates Ring and Silent on Apple's iPhone 15 Pro models, while the standard iPhone 15 and iPhone 15 Plus models retain the traditional Ring/Silent switch. By default, the Action button still activates these two functions via a long press, but users can also make it activate a range of other functions, including quickly opening the camera app or enabling the flashlight, activating Voice Memos, Focus modes, Translate, and accessibility features like Magnifier. <br/>
-<br/>
-Of around 7,000 <em>MacRumors</em> readers who <a href="https://x.com/MacRumors/status/1779882443941597638">responded to our poll</a> on social media, just over half (50.6%) said they often forgot the Action button is even there, while over a quarter of respondents (26.8%) said they use the Action button "occasionally." Based on readers who commented, most occasional users assigned the camera or flashlight to the Action button – functions that are also easily accessible via the Lock screen. A subsection of users in the same category said they have the Action button set to activate/deactivate Mute, to mimic the physical Mute switch it replaced.<br/>
-<ul><li><a href="https://www.macrumors.com/how-to/iphone-15-pro-how-to-customize-action-button/">iPhone 15 Pro: How to Customize the Action Button</a></li></ul><br/>
-Some respondents (12.6%) agreed with the description that the Action button is a "game changer." Most users in this category used it to activate custom Shortcuts, which allowed for novel uses like skipping forward in podcasts, adding to-dos, prompting ChatGPT, activating smart lights, or opening a folder. Some in this category simply appreciated the fact that it saved them time accessing more standard functions that would otherwise involve navigating through onscreen menus.<br/>
-<br/>
-The rest of our poll respondents (10%) agreed that the Action button was something of a "volume decoy," implying that they often pressed it by accident when they intended to adjust audio levels via the volume buttons, usually when their iPhone was in a pocket or purse.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">With the Action button introduced on the iPhone 15 Pro set to expand to all models later this year, we want to hear from current users: Does it make your iPhone life easier?</p>&mdash; MacRumors.com (@MacRumors) <a href="https://twitter.com/MacRumors/status/1779882443941597638?ref_src=twsrc%5Etfw">April 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-Our social media poll represents a small, self-selecting cohort of iPhone 15 Pro users. It is also an example of convenience sampling, and by no means statistically sound. Even so, it seems the case could be made that many people have had trouble finding a dedicated use case for the Action button. <br/>
-<br/>
-Assigning the button to the camera appears to be the most popular way to increase the likelihood that it gets used. Launching the camera app like this avoids having to press or swipe the Lock Screen or select the Camera app from the Home screen. However, Apple is rumored to be adding a "<a href="https://www.macrumors.com/2023/12/17/iphone-16-capture-button-video/">Capture button</a>" to the iPhone 16 for video recording, so the Action button might get less useful for those who use it for this purpose.<br/>
-<br/>
-Meanwhile, anecdotal evidence suggests there is a fair amount of frustration among "power users" that Apple has not added more flexibility to the way the Action button works. Currently the button only responds to a long press, but more sophisticated iPhone users want a built-in ability to set different customizations for short presses, double-presses, and triple presses. <br/>
-<ul><li><a href="https://www.macrumors.com/how-to/iphone-15-pro-assign-two-shortcuts-action-button/">How to Assign Two Functions to the Action Button</a></li></ul><br/>
-So what do you think of the Action button? Is it a hit or miss for Apple? Let us know your thoughts and any favorite use cases in the comments.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/action-button/">Action Button</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Neutral)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/16/iphone-16-action-button-useful-or-not/">All iPhone 16 Models to Feature Action Button, But Usefulness Debated</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/all-iphone-16-models-to-feature-action-button-but-usefulness-debated.2424299/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Promotes Recycling Your Devices &#039;For Free&#039; Ahead of Earth Day</title>
-		<link>https://www.macrumors.com/2024/04/16/apple-promotes-free-recycling-ahead-of-earth-day/</link>
-		<comments>https://forums.macrumors.com/threads/apple-promotes-recycling-your-devices-for-free-ahead-of-earth-day.2424294/</comments>
-		<pubDate>Tue, 16 Apr 2024 06:13:56 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/16/apple-promotes-free-recycling-ahead-of-earth-day/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Environment</category>
-		<category>Earth Day</category>
-		
-
-		<description><![CDATA[Ahead of Earth Day on April 22, Apple has added a banner to its website that reminds customers they can recycle their Apple devices "for free" with the company's recycling partners. The process can be initiated on Apple's <a href="https://www.apple.com/shop/trade-in">trade-in page</a> in many countries, with customers able to submit a form to receive a prepaid shipping label for their devices.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/Apple-Recycling-iPhones.jpg" alt="" width="1369" height="770" class="aligncenter size-full wp-image-946654" /><br/>
-"We'll recycle your Apple devices, cables, cases, accessories, and other similar electronics for free," says Apple. "You'll help protect the earth's precious resources and reduce waste as we work toward a better future for the planet."<br/>
-<br/>
-On a related note, Apple today shared a new <a href="https://www.youtube.com/watch?v=ksHnnuP4DKQ">"Recycling Robots" video</a> on its YouTube channel in the U.K. that says Apple's recycling robots are now able to recover recyclable materials from a total of 23 different iPhone models.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/ksHnnuP4DKQ?si=CnyFrf4HIGbGTChx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
-<br/>
-"Our custom recycling robot Daisy can disassemble 23 different iPhone models to recover crucial materials like gold and rare earth elements," <a href="https://www.apple.com/uk/iphone/more/">says</a> Apple. "Robot Dave extracts tungsten from Taptic Engines, while robot Taz takes care of audio modules. Together, they're leading the way in recovering recycled materials for the next generation of products."<br/>
-<br/>
-Apple will likely release its 2024 Environmental Progress Report soon, and share other Earth Day announcements over the coming days.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-environment/">Apple Environment</a>, <a href="https://www.macrumors.com/guide/earth-day/">Earth Day</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/16/apple-promotes-free-recycling-ahead-of-earth-day/">Apple Promotes Recycling Your Devices &#039;For Free&#039; Ahead of Earth Day</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-promotes-recycling-your-devices-for-free-ahead-of-earth-day.2424294/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Elusive Spotify Lossless Option May Arrive as Paid &#039;Music Pro&#039; Add-on</title>
-		<link>https://www.macrumors.com/2024/04/16/spotify-lossless-option-music-pro-add-on/</link>
-		<comments>https://forums.macrumors.com/threads/elusive-spotify-lossless-option-may-arrive-as-paid-music-pro-add-on.2424285/</comments>
-		<pubDate>Tue, 16 Apr 2024 04:05:48 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/16/spotify-lossless-option-music-pro-add-on/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Spotify</category>
-		
-
-		<description><![CDATA[Spotify's elusive lossless music experience is being teased again, this time based on code uncovered by <em><a href="https://www.theverge.com/2024/4/12/24128584/spotify-music-pro-lossless-audio">The Verge</a></em> in recent builds of the Spotify app for Android.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/08/General-Spotify-Feature.jpg" alt="" width="2500" height="1407" class="aligncenter size-full wp-image-810756" /><br/>
-More than three years have elapsed since Spotify announced its intention to offer a "HiFi" premium option that would give users access to a catalog of CD-quality music tracks. Originally the company said the tier would go live by the end of 2021, but a shift in the wider streaming market upended that idea.<br/>
-<br/>
-<a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> has since rolled lossless listening into its standard subscription price, while Amazon stopped charging extra for its lossless music library. The moves effectively kiboshed Spotify's original strategy of marketing an exclusively lossless HiFi tier.<br/>
-<br/>
-That said, it doesn't sound as if lossless is coming as a free perk. The latest rumors suggest that Spotify now aims to offer lossless audio playback in an optional "Music Pro" add-on that will also include new DJ remix features, which let subscribers "speed up, mash-up, and otherwise edit" tracks from their favorite artists, according to <em><a href="https://www.wsj.com/business/media/spotify-to-let-users-play-dj-competing-with-remixes-on-tiktok-da35e25c">The Wall Street Journal</a></em>.<br/>
-<br/>
-Spotify will likely make some basic remixing tools available as part of its Premium subscription (currently &#36;10.99 a month, or &#36;5.99 for students), but more powerful tools will be part of its "Music Pro" add-on. Where recent rumors of a new top "Supremium" tier fit in is unclear. <br/>
-<ul><li><a href="https://www.macrumors.com/guide/apple-music-vs-spotify-buyers-guide/">Apple Music vs. Spotify Buyer's Guide</a></li></ul><br/>
-The intended price of the premium add-on has not been revealed, but given that major rivals include lossless in their standard plans, expecting subscribers to pay anything more than a nominal fee may be a big ask.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/spotify/">Spotify</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/16/spotify-lossless-option-music-pro-add-on/">Elusive Spotify Lossless Option May Arrive as Paid &#039;Music Pro&#039; Add-on</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/elusive-spotify-lossless-option-may-arrive-as-paid-music-pro-add-on.2424285/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
