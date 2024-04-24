@@ -14,12 +14,60 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 23 Apr 2024 13:02:28 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 23 Apr 2024 17:11:21 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple&#039;s M4 Mac Studio: What We Know So Far</title>
+		<link>https://www.macrumors.com/guide/m4-mac-studio/</link>
+		<comments>https://forums.macrumors.com/threads/apples-m4-mac-studio-what-we-know-so-far.2424785/</comments>
+		<pubDate>Tue, 23 Apr 2024 15:31:43 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/m4-mac-studio&#038;post_date=1713922303/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>Mac Studio</category>
+		<category>Mega Guides</category>
+		<category>M4 Mac Studio</category>
+		
+
+		<description><![CDATA[Apple is planning to refresh the entire Mac lineup with updated M4 chips starting in late 2024 and continuing into 2025, and that will include a new M4 chip for Apple's mid-tier desktop machine, the <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/M4-Mac-Studio-Feature.jpg" alt="" width="2672" height="1503" class="aligncenter size-full wp-image-946114" /><br/>
+<h2 id="m4_chip_rumors">M4 Chip Rumors</h2><br/>
+Apple has a lineup of M4 chips in development, including the standard M4, the M4 Pro and M4 Max, and a higher-end version that's codenamed "Hidra." This higher-end chip could be an "Ultra" version that's equivalent to the <a href="https://www.macrumors.com/guide/m2/">M2</a> Ultra, or it might even be something even more powerful.<br/>
+<br/>
+With the &zwnj;M2&zwnj; lineup, the &zwnj;M2&zwnj; Ultra is a chip that is in fact two &zwnj;M2&zwnj; Max chips linked together. There is no M3 Ultra at this time, but the architecture of the M3 Max chip <a href="https://www.macrumors.com/2024/03/28/m3-max-chip-hidden-change/">has led to speculation</a> that future Ultra chips might be standalone chips rather than constructed from two Max dies.<br/>
+<br/>
+The M3 Max seems to lack the UltraFusion interconnect that allowed the &zwnj;M2&zwnj; Max chips to function as an Ultra. Because that's missing, it's likely the Ultra chip would have dedicated development with customizations for heavy workloads. Apple could tweak the number of performance and efficiency cores to focus on power, and add more GPU cores.<br/>
+<br/>
+Current &zwnj;Mac Studio&zwnj; machines use &zwnj;M2&zwnj; Max and &zwnj;M2&zwnj; Ultra chips, so we can expect the M4 models to be equipped with M4 Max and M4 Ultra (or its equivalent) chips. Aside from the <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a>, the &zwnj;Mac Studio&zwnj; is the only Apple machine that uses "Ultra" chips.<br/>
+<br/>
+The &zwnj;Mac Studio&zwnj; is designed for Mac users who have system intensive workflows that require advanced compute and graphics capabilities. There isn't a lot of differentiation between the &zwnj;Mac Studio&zwnj; and &zwnj;Mac Pro&zwnj; as of right now, so Apple may be planning for a more powerful M4 Ultra variant for the &zwnj;Mac Pro&zwnj;.<br/>
+<br/>
+Apple is going all-in on artificial intelligence across its product lineup in the coming months, so the M4 is expected to have a focus on boosting AI and machine learning performance. Rumors suggest there will be an updated Neural Engine with a greater number of cores to handle AI tasks.<br/>
+<br/>
+<h3 id="memory_updates">Memory Updates</h3><br/>
+The next &zwnj;Mac Studio&zwnj; and &zwnj;Mac Pro&zwnj; could support as much as 500GB of Unified Memory, up from the current 192GB maximum.<br/>
+<br/>
+<h2 id="what_about_the_m3">What About the M3?</h2><br/>
+With Apple planning to refresh the &zwnj;Mac Studio&zwnj; with M4 chips in 2025, it's not entirely clear as of yet if there will be an M3 refresh this year.<br/>
+<br/>
+The <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, MacBook Pro, and <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> lines have been updated with M3 chips, but the <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a>, &zwnj;Mac Studio&zwnj;, and &zwnj;Mac Pro&zwnj; are still using &zwnj;M2&zwnj; chips. With the M4 refresh already planned, Apple could skip the M3 update for its desktop machines, but it's also possible we'll get an M3 refresh around the middle of the year and a second M4 refresh next year, which would put a year between each update.<br/>
+<br/>
+Apple is testing a version of the &zwnj;Mac Studio&zwnj; with an M3 processor, so an update this year and then a second update next year is plausible.<br/>
+<br/>
+<h2 id="design_changes">Design Changes</h2><br/>
+The &zwnj;Mac Studio&zwnj; hasn't had a design update since it was first launched in March 2022, but it hasn't really existed long enough to need a refresh. Apple tends to wait several years before making major changes to Mac hardware, and we are not expecting the &zwnj;Mac Studio&zwnj; to get a refreshed look in the near future.<br/>
+<br/>
+It will likely be closer to 2026 or 2027 before Apple considers updating the design, though it could be even longer. The &zwnj;Mac mini&zwnj; has not seen notable design changes since 2010.<br/>
+<br/>
+<h2 id="release_date">Release Date</h2><br/>
+According <a href="https://www.macrumors.com/2024/04/14/when-are-m4-macs-launching/">to <em>Bloomberg</em>'s Mark Gurman</a>, the &zwnj;Mac Studio&zwnj; with M4 chip is expected to be released in mid-2025, which would suggest a possible introduction at the 2025 Worldwide Developers Conference.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac-Studio">Mac Studio (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-studio.237">Mac Studio</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/m4-mac-studio/">Apple&#039;s M4 Mac Studio: What We Know So Far</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-m4-mac-studio-what-we-know-so-far.2424785/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Get Up to &#36;105 Off Apple&#039;s M3 iMacs on Amazon, Starting at &#36;1,199</title>
@@ -513,29 +561,6 @@ For night shots, the Oppo images came out better for the most part. The nighttim
 For telephoto images and Portrait images, the &zwnj;iPhone&zwnj; had the edge in terms of focus and color, though the photos were sometimes softer than the Oppo's shots.<br/>
 <br/>
 Which images do you prefer? Let us know in the comments below.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/22/iphone-15-pro-max-vs-oppo-x7-ultra/">Camera Comparison: iPhone 15 Pro Max vs. Oppo Find X7 Ultra</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/camera-comparison-iphone-15-pro-max-vs-oppo-find-x7-ultra.2424689/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Working to Secure Streaming Rights to FIFA Club World Cup</title>
-		<link>https://www.macrumors.com/2024/04/22/apple-fifa-tournament-rights/</link>
-		<comments>https://forums.macrumors.com/threads/apple-working-to-secure-streaming-rights-to-fifa-club-world-cup.2424683/</comments>
-		<pubDate>Mon, 22 Apr 2024 09:58:29 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/22/apple-fifa-tournament-rights/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>FIFA</category>
-		<category>Apple Sports</category>
-		
-
-		<description><![CDATA[Apple is working to secure an exclusive TV deal with soccer governing organization FIFA, reports <em><a href="https://www.nytimes.com/2024/04/22/business/fifa-apple-tv-deal.html">The New York Times</a></em>. FIFA will launch a revamped version of Club World Cup in 2025, and Apple wants the TV rights. Club World Cup 2025 will feature 32 teams from each of the six confederations.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/fifa.jpg" alt="" width="1535" height="863" class="aligncenter size-full wp-image-947662" /><br/>
-An agreement between Apple and FIFA could be announced as soon as this month, and the first tournament will take place in the United States next summer. Apple could be paying around &#36;1 billion, and <em>The New York Times</em> says it is not yet clear if there will be any free-to-air rights. If not, the entire tournament could be available only to <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a> subscribers.<br/>
-<br/>
-Apple has already shelled out &#36;2.5 billion to secure global broadcasting rights to Major League Soccer. MLS and League Cup games are streamed on &zwnj;Apple TV+&zwnj;, with access priced at &#36;14.99 per month or &#36;99 per season for non-subscribers and &#36;12.99 per month or &#36;79 per season for those who subscribe to &zwnj;Apple TV+&zwnj;.<br/>
-<br/>
-Apple sees live sports as a way to lure new customers to the &zwnj;Apple TV+&zwnj; streaming service. In addition to the MLS deal, it has also secured a deal with Major League Baseball. Apple negotiated for <a href="https://www.macrumors.com/2022/12/19/apple-quits-nfl-sunday-ticket-negotiations/">NFL Sunday Ticket access</a>, and while that didn't work out, a report from <em><a href="https://theathletic.com/5430093/2024/04/22/nba-tv-rights-amazon-nbc/">The Athletic</a></em> suggests that Apple is still in the running to secure some streaming access to NBA games.<br/>
-<br/>
-Earlier this year, Apple introduced a <a href="https://www.macrumors.com/2024/02/21/apple-sports-app-hands-on/">dedicated Apple Sports app</a> that allows users to get real-time scores and stats for their favorite teams. The app is able to sync with the My Sports experience in the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/fifa/">FIFA</a>, <a href="https://www.macrumors.com/guide/apple-sports/">Apple Sports</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/22/apple-fifa-tournament-rights/">Apple Working to Secure Streaming Rights to FIFA Club World Cup</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-working-to-secure-streaming-rights-to-fifa-club-world-cup.2424683/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
