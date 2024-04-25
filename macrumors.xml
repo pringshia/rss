@@ -14,12 +14,156 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 24 Apr 2024 13:03:08 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 24 Apr 2024 17:11:25 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Releases Safari Technology Preview 193 With Bug Fixes and Performance Improvements</title>
+		<link>https://www.macrumors.com/2024/04/24/apple-releases-safari-technology-preview-193/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-193-with-bug-fixes-and-performance-improvements.2424852/</comments>
+		<pubDate>Wed, 24 Apr 2024 17:03:46 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/24/apple-releases-safari-technology-preview-193/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Blurb</category>
+		<category>Safari Technology Preview</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser Apple <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed the &zwnj;Safari Technology Preview&zwnj; to test features that may be introduced into future release versions of Safari.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-785724" src="https://images.macrumors.com/article-new/2021/02/Safari-Technology-Preview-Feature.jpg" alt="" width="2368" height="1332" /><br/>
+&zwnj;Safari Technology Preview&zwnj; 193 includes fixes and updates for Accessibility, CSS, Forms, JavaScript, Rendering, Web API, and Web Inspector.<br/>
+<br/>
+The current &zwnj;Safari Technology Preview&zwnj; release is compatible with machines running macOS Ventura and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, the latest version of macOS that Apple released in September 2023.<br/>
+<br/>
+The &zwnj;Safari Technology Preview&zwnj; update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has <a href="https://developer.apple.com/safari/download/">downloaded the browser</a>. Full release notes for the update are available <a href="https://developer.apple.com/safari/technology-preview/release-notes/">on the Safari Technology Preview website</a>.<br/>
+<br/>
+Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback from developers and users on its browser development process. &zwnj;Safari Technology Preview&zwnj; can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download.<br/>
+<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/24/apple-releases-safari-technology-preview-193/">Apple Releases Safari Technology Preview 193 With Bug Fixes and Performance Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-193-with-bug-fixes-and-performance-improvements.2424852/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>WhatsApp for iOS Gains Support for Passkeys</title>
+		<link>https://www.macrumors.com/2024/04/24/whatsapp-ios-passkey-support/</link>
+		<comments>https://forums.macrumors.com/threads/whatsapp-for-ios-gains-support-for-passkeys.2424850/</comments>
+		<pubDate>Wed, 24 Apr 2024 16:40:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/24/whatsapp-ios-passkey-support/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>WhatsApp</category>
+		
+
+		<description><![CDATA[Meta-owned messaging platform WhatsApp <a href="https://twitter.com/WhatsApp/status/1783169135221846430">today announced</a> that it is rolling out support for passkeys on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, a feature that will let WhatsApp users log in to their accounts on iOS devices using <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a>, <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>, or their device passcode.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/03/Whatsapp-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-786421" /><br/>
+Passkeys serve as a replacement for a traditional password, and because device authentication is required, passkeys put a stop to online attacks like phishing. With a passkey, there's no password to steal, and no one-time SMS or authentication code that can be intercepted.<br/>
+<br/>
+Passkeys are also more convenient, because logins are done with a quick &zwnj;Face ID&zwnj; or &zwnj;Touch ID&zwnj; scan rather than a password. WhatsApp passkeys can be enabled by opening up the app settings, choosing the Account section, and tapping on "Passkeys."<br/>
+<br/>
+Apple has supported passkeys since 2022, and they work on devices that run iOS 16 and later, iPadOS 16 and later, and macOS Ventura and later. Many companies have been implementing support for passkeys, including X (formerly Twitter), Google, TikTok, PayPal, Best Buy, Microsoft, PlayStation, and eBay.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/whatsapp/">WhatsApp</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/24/whatsapp-ios-passkey-support/">WhatsApp for iOS Gains Support for Passkeys</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/whatsapp-for-ios-gains-support-for-passkeys.2424850/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iMazing iPhone Management Software Gets Fresh Design, Support for Vision Pro</title>
+		<link>https://www.macrumors.com/2024/04/24/imazing-3-update-vision-pro/</link>
+		<comments>https://forums.macrumors.com/threads/imazing-iphone-management-software-gets-fresh-design-support-for-vision-pro.2424849/</comments>
+		<pubDate>Wed, 24 Apr 2024 16:22:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/24/imazing-3-update-vision-pro/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[DigiDNA today announced the launch of iMazing 3, an updated version of its <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> management software designed for Macs and Windows machines.<br/>
+<br/>
+<div class="center-wrap"><iframe title="Introducing iMazing 3 - The iPhone manager, redesigned for the future." src="https://www.youtube.com/embed/3gMEIX5rC6c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+iMazing 3 features an updated user interface with a dedicated "Discover" section that makes it easier to find popular tools for doing things like transferring photos from an &zwnj;iPhone&zwnj;, downloading Messages, transferring music, and making backups.<br/>
+<br/>
+A Device Overview section offers details about connected products like serial number, model number, device ID, date of latest backup, and more, for simple multi-device management, and there's also a Data section for accessing saved media, messages, contacts, and other content.<br/>
+<br/>
+For battery management, there is a battery section that provides details on current temperature, design max charge, effective max charge, and charge cycles, plus there are options for managing storage.<br/>
+<br/>
+The iMazing 3 software on Mac works with the Vision Pro in addition to the &zwnj;iPhone&zwnj; and the &zwnj;iPad&zwnj;, and there is support for remote pairing. Other new features include a <a href="https://www.macrumors.com/guide/ios-dark-mode/">Dark Mode</a>, improved Backup and snapshot management, and a redesigned settings interface.<br/>
+<br/>
+iMazing 3 can be downloaded from <a href="https://imazing.com/">the iMazing website</a> at prices starting at &#36;40. iMazing customers who purchased the software after October 20, 2020 can upgrade for free, and those with older licenses can upgrade at a 50 percent discount.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/24/imazing-3-update-vision-pro/">iMazing iPhone Management Software Gets Fresh Design, Support for Vision Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/imazing-iphone-management-software-gets-fresh-design-support-for-vision-pro.2424849/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Open Source AI Models That Run On-Device</title>
+		<link>https://www.macrumors.com/2024/04/24/apple-ai-open-source-models/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-open-source-ai-models-that-run-on-device.2424846/</comments>
+		<pubDate>Wed, 24 Apr 2024 15:39:50 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/24/apple-ai-open-source-models/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Artificial Intelligence</category>
+		
+
+		<description><![CDATA[Apple today released several open source large language models (LLMs) that are designed to run on-device rather than through cloud servers. Called OpenELM (Open-source Efficient Language Models), the LLMs are available on <a href="https://huggingface.co/apple/OpenELM">the Hugging Face Hub</a>, a community for sharing AI code.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/Apple-Silicon-AI-Optimized-Feature-Siri.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-947745" /><br/>
+As outlined in a white paper [<a href="https://arxiv.org/pdf/2404.14619">PDF</a>], there are eight total OpenELM models, four of which were pre-trained using the CoreNet library, and four instruction tuned models. Apple uses a layer-wise scaling strategy that is aimed at improving accuracy and efficiency.<br/>
+<br/>
+Apple provided code, training logs, and multiple versions rather than just the final trained model, and the researchers behind the project hope that it will lead to faster progress and "more trustworthy results" in the natural language AI field.<br/>
+<blockquote>OpenELM, a state-of-the-art open language model. OpenELM uses a layer-wise scaling strategy to efficiently allocate parameters within each layer of the transformer model, leading to enhanced accuracy. For example, with a parameter budget of approximately one billion parameters, OpenELM exhibits a 2.36% improvement in accuracy compared to OLMo while requiring 2x fewer pre-training tokens.<br/>
+<br/>
+Diverging from prior practices that only provide model weights and inference code, and pre-train on private datasets, our release includes the complete framework for training and evaluation of the language model on publicly available datasets, including training logs, multiple checkpoints, and pre-training configurations.</blockquote><br/>
+Apple says that it is releasing the OpenELM models to "empower and enrich the open research community" with stage-of-the-art language models. Sharing open source models gives researchers a way to investigate risks and data and model biases. Developers and companies are able to use the models as-is or make modifications.<br/>
+<br/>
+The open sharing of information has become an important tool for Apple to recruit top engineers, scientists, and experts because it provides opportunities for research papers that would not normally have been able to be published under Apple's secretive policies.<br/>
+<br/>
+Apple has not yet brought these kinds of AI capabilities to its devices, but <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> is expected to include a number of new AI features, and rumors suggest that Apple is planning to run its large language models on-device for privacy purposes.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/artificial-intelligence/">Artificial Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/24/apple-ai-open-source-models/">Apple Releases Open Source AI Models That Run On-Device</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-open-source-ai-models-that-run-on-device.2424846/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Spotify and Apple Again Clash Over App Store Rules and Fees</title>
+		<link>https://www.macrumors.com/2024/04/24/apple-spotify-app-store-rules-eu/</link>
+		<comments>https://forums.macrumors.com/threads/spotify-and-apple-again-clash-over-app-store-rules-and-fees.2424843/</comments>
+		<pubDate>Wed, 24 Apr 2024 14:36:13 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/24/apple-spotify-app-store-rules-eu/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Spotify</category>
+		<category>European Union</category>
+		
+
+		<description><![CDATA[Spotify has not been able to get Apple to <a href="https://www.macrumors.com/2024/03/14/spotify-no-apple-approval-subscription-update/">approve an EU app update</a> that added information on subscription pricing and links to the Spotify website, and it turns out that's because Spotify has not agreed to the terms of Apple's Music Streaming Services Entitlement.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-801789" src="https://images.macrumors.com/article-new/2021/06/Apple-vs-Spotify-feature2.jpg" alt="" width="2500" height="1406" /><br/>
+A <a href="https://www.macrumors.com/2024/03/04/eu-fines-apple-2-billion/">recent antitrust ruling</a> from the European Commission fined Apple nearly &#36;2 billion and mandated that Apple "remove anti-steering provisions" for music apps in the European Economic Area (EEA). As a result, Apple <a href="https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/">updated its App Store rules</a> with a Music Streaming Services Entitlement that allows music apps in the EEA to inform users of other ways to purchase digital music content or services and to add website links for purchasing digital music subscriptions.<br/>
+<br/>
+That might sound like a win for apps like Spotify, but Apple requires developers who use the entitlement to pay a 27 percent fee (reduced for subscriptions older than one year and for small businesses) on all website purchases referred by Apple. So if Spotify puts a link in its app and a user clicks it and subscribes, Spotify would owe Apple a 27 percent commission (three percent less than the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> purchase fee).<br/>
+<br/>
+Spotify does not currently pay Apple any money, and it does not want to. Directly after the European Commission's ruling, Spotify on March 5 <a href="https://www.macrumors.com/2024/03/14/spotify-no-apple-approval-subscription-update/">submitted an EU app update</a> that had information on subscription pricing and links to its websites for customers to make purchases. This was prior to when Apple had announced its entitlement plan.<br/>
+<br/>
+Apple ignored Spotify's app update, and Spotify <a href="https://www.macrumors.com/2024/03/14/spotify-no-apple-approval-subscription-update/">complained on March 14</a> that Apple had not "acknowledged or responded" to its &zwnj;App Store&zwnj; submission. Spotify at the time called on the European Commission to force Apple to approve its app update.<br/>
+<br/>
+Apple kept ignoring Spotify's submission, until today, when Spotify submitted a new version of its app. Spotify said on X (<a href="https://twitter.com/SpotifyNews/status/1783130145605173309">formerly Twitter</a>) that the update has no links and includes just the "bare minimum" on pricing and a mention that subscriptions can be purchased from Spotify, which it claims is acceptable under the European Commission's ruling.<br/>
+<br/>
+Spotify left out a small detail, though. It turns out that Spotify did not <a href="https://developer.apple.com/support/music-streaming-services-entitlement-eea/">request a Music Streaming Services Entitlement</a> and did not agree to Apple's new terms for the entitlement. The &zwnj;App Store&zwnj; Review Team sent Spotify a letter (via <em><a href="https://appleinsider.com/articles/24/04/24/spotify-second-ios-app-update-attempt-in-eu-fails-to-pass-app-store-review">AppleInsider</a></em>) that says the entitlement is required even though there is no link because Spotify's submission has a call to action to purchase a Spotify subscription on its website.<br/>
+<blockquote>We are reaching out to let you know about new information regarding your app, Spotify - Music and Podcasts, version 8.9.33.<br/>
+<br/>
+As you may be aware, Apple created a new Music Streaming Services Entitlement (EEA) for iOS and iPadOS music streaming apps offered in EEA storefronts. The entitlement allows music streaming apps to use buttons, external links, or other calls to action to direct customers to a purchase mechanism on a website owned or controlled by the developer. You must accept its terms before adding any of these capabilities to your app. Please find more information about the entitlement here.<br/>
+<br/>
+We note that your current submission includes a call to action to purchase a Spotify subscription on your website. As such, you must accept the terms of the Music Streaming Services Entitlement (EEA) and include the entitlement profile in your app for submission. To be clear, this entitlement is required even if your app does not include an external link (nor does it require that you offer an external link). We will, however, approve version 8.9.33 after you accept the terms of the Music Streaming Services Entitlement (EEA) and resubmit it for review.<br/>
+<br/>
+If you have any questions about this information, please reply to this message to let us know.</blockquote><br/>
+Apple says that if Spotify agrees to the terms of the Music Streaming Services Entitlement, it will approve the latest Spotify app update. Without a link to the Spotify website, Spotify would presumably not have to pay Apple a commission because there would be no way for Apple to track clicks from its app to Spotify, but there may be some other part of the entitlement that Spotify is reluctant to agree to.<br/>
+<br/>
+Apple does not plan to let Spotify include a link to the Spotify website without paying the required 27 percent fee, but adding subscription pricing information without a link does seem to be permitted per the language of Apple's letter to Spotify.<br/>
+<br/>
+Spotify has confirmed that it does not plan to opt in to Apple's EU &zwnj;App Store&zwnj; business terms, which are separate from the Music Streaming Services Entitlement and are part of the changes that Apple implemented as required by the Digital Markets Act.<br/>
+<br/>
+Because Spotify does not want to agree to the EU &zwnj;App Store&zwnj; business terms, it is limited on the features that it can add to its app in the EU. To offer the Spotify app directly from its website in the EU, Spotify would need to agree to the terms and would have to pay a 0.50 euro Core Technology Fee for users that download the app.<br/>
+<br/>
+Spotify does not let customers sign up for a Spotify subscription in the app as of right now, so it does not have to pay anything. Web-based distribution and linking out to the Spotify website both have associated fees, and Spotify is aiming for a solution where it does not have to pay anything. Spotify's full statement on its update, from Chief Public Affairs Officer Dustee Jenkins:<blockquote>Despite Apple's attempts to punish developers with new fees, we remain committed to giving consumers real choice in our app at no increased cost. That's why we have submitted a new update to Apple. It features basic pricing and website information - the bare minimum outlined under the European Commission's ruling in its music streaming case.<br/>
+<br/>
+By charging developers for communicating with consumers through links in-app, Apple continues to break European law. It's past time for the Commission to enforce its decision so that consumers can see real, positive benefits.</blockquote>Though Spotify has a clear path to get its app update approved, the company claims that Apple is breaking European law by charging the 27 percent fee for links and it calls on the European Commission to "enforce its decision."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/spotify/">Spotify</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/24/apple-spotify-app-store-rules-eu/">Spotify and Apple Again Clash Over App Store Rules and Fees</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/spotify-and-apple-again-clash-over-app-store-rules-and-fees.2424843/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Vision Pro Gains Apple Arcade Games Crossy Road Castle and Solitaire Stories</title>
@@ -459,129 +603,6 @@ There are also code changes that hint at new Apple Pencils and a Battery Health 
 The &zwnj;visionOS&zwnj; beta can be downloaded by going to the Settings app on the device and toggling on developer betas. A registered developer account is required, and Apple recommends making a backup before installing new software.<br/>
 <br/>
 Apple may make further improvements to Personas, EyeSight, and other features with &zwnj;visionOS&zwnj; 1.2, but no major new additions were found in the first two betas.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/23/apple-seeds-visionos-1-2-beta-3-to-developers/">Apple Seeds Third Beta of visionOS 1.2 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-visionos-1-2-to-developers.2424758/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Third Beta of watchOS 10.5 to Developers</title>
-		<link>https://www.macrumors.com/2024/04/23/apple-seeds-watchos-10-5-beta-3-to-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-third-beta-of-watchos-10-5-to-developers.2424759/</comments>
-		<pubDate>Tue, 23 Apr 2024 10:02:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/23/apple-seeds-watchos-10-5-beta-3-to-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[Apple today seeded the third beta of an upcoming watchOS 10.5 update to developers for testing purposes, with the beta coming a week after the <a href="https://www.macrumors.com/2024/04/16/apple-seeds-watchos-10-5-beta-2-to-developers/">release of the second beta</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
-To install the ‌watchOS 10.5 update, developers need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
-<br/>
-Once beta updates have been activated, watchOS 10.5 can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
-<br/>
-We don't yet know what's included in watchOS 10.5, and there were no new features found in the first two beta updates.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/23/apple-seeds-watchos-10-5-beta-3-to-developers/">Apple Seeds Third Beta of watchOS 10.5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-watchos-10-5-to-developers.2424759/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Third Beta of tvOS 17.5 to Developers</title>
-		<link>https://www.macrumors.com/2024/04/23/apple-seeds-tvos-17-5-beta-3-to-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-third-beta-of-tvos-17-5-to-developers.2424757/</comments>
-		<pubDate>Tue, 23 Apr 2024 10:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/23/apple-seeds-tvos-17-5-beta-3-to-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV</category>
-		<category>Blurb</category>
-		
-
-		<description><![CDATA[Apple today seeded the third beta of an upcoming tvOS 17.5 to developers for testing purposes, with the beta coming a week after the <a href="https://www.macrumors.com/2024/04/16/apple-seeds-tvos-17-5-beta-2-to-developers/">release of the second beta</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/07/apple-tv-4k-green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-856182" /><br/>
-Registered developers are able to download the tvOS 17.5 update by opting in to the beta through the Settings app on the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>. A registered developer account is required.<br/>
-<br/>
-tvOS software updates are often minor in scale compared to other operating system updates, focusing primarily on smaller improvements rather than outward-facing changes. We don't yet know what's included in tvOS 17.5.<br/>
-<br/>
-Apple shares some information on tvOS releases in its <a href="https://support.apple.com/en-us/HT207936">tvOS support document</a>, which is updated after each tvOS launch, but Apple does not provide notes during beta testing.<br/>
-<br/>
-Though we don't always know what's new in tvOS betas, we let <em>MacRumors</em> readers know when new updates are available so those who are developers can download new software upon release.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/23/apple-seeds-tvos-17-5-beta-3-to-developers/">Apple Seeds Third Beta of tvOS 17.5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-tvos-17-5-to-developers.2424757/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Cuts Vision Pro Shipments as Demand Falls &#039;Sharply Beyond Expectations&#039;</title>
-		<link>https://www.macrumors.com/2024/04/23/apple-cuts-vision-pro-shipments/</link>
-		<comments>https://forums.macrumors.com/threads/apple-cuts-vision-pro-shipments-as-demand-falls-sharply-beyond-expectations.2424752/</comments>
-		<pubDate>Tue, 23 Apr 2024 09:44:39 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/23/apple-cuts-vision-pro-shipments/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Vision Pro</category>
-		<category>Featured</category>
-		<category>Ming-Chi Kuo</category>
-		
-
-		<description><![CDATA[Apple has dropped the number of Vision Pro units that it plans to ship in 2024, going from an expected 700 to 800k units to just 400k to 450k units, <a href="https://medium.com/@mingchikuo/apple-cuts-2024-2025-vision-pro-shipment-forecasts-unfavorable-to-mr-headset-pancake-and-micro-38796834f930">according to Apple analyst Ming-Chi Kuo</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/Apple-Vision-Pro-Dual-Loop-Band-Orange-Feature-2.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-929937" /><br/>
-Orders have been scaled back before the Vision Pro has launched in markets outside of the United States, which Kuo says is a sign that demand in the U.S. has "fallen sharply beyond expectations." As a result, Apple is expected to take a "conservative view" of headset demand when the Vision Pro launches in additional countries. <br/>
-<br/>
-Kuo <a href="https://www.macrumors.com/2024/02/28/kuo-on-apple-vision-pro-wider-launch/">previously said</a> that Apple will introduce the Vision Pro in new markets before the June Worldwide Developers Conference, which suggests that we could see it available in additional areas in the next month or so.<br/>
-<br/>
-Apple is expecting Vision Pro shipments to decline year-over-year in 2025 compared to 2024, and the company is said to be "reviewing and adjusting" its headset product roadmap. Kuo does not believe there will be a new Vision Pro model in 2025, an adjustment to a prior report suggesting a <a href="https://www.macrumors.com/2024/02/28/kuo-vision-pro-major-upgrades-unlikely-until-2027/">modified version of the Vision Pro</a> would enter mass production late next year.<br/>
-<br/>
-In a February report, Kuo said that Apple was working to improve the efficiency of production and supply change management, with little change to the product specifications and user experience. At the time, Kuo estimated that we would not see a Vision Pro with significant updates until 2027.<br/>
-<br/>
-Kuo believes that Apple needs to work to address the lack of key applications, price, and comfort without impacting user experience. Poor Vision Pro sales is expected to impact the growth of pancake lenses and the adoption of microOLED display technology in small-sized consumer electronics. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/23/apple-cuts-vision-pro-shipments/">Apple Cuts Vision Pro Shipments as Demand Falls &#039;Sharply Beyond Expectations&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-cuts-vision-pro-shipments-as-demand-falls-sharply-beyond-expectations.2424752/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Finally Plans to Release a Calculator App for iPad Later This Year</title>
-		<link>https://www.macrumors.com/2024/04/23/calculator-app-for-ipad-rumor/</link>
-		<comments>https://forums.macrumors.com/threads/apple-finally-plans-to-release-a-calculator-app-for-ipad-later-this-year.2424750/</comments>
-		<pubDate>Tue, 23 Apr 2024 09:08:08 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/23/calculator-app-for-ipad-rumor/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple is finally planning a Calculator app for the iPad, over 14 years after launching the device, according to a source familiar with the matter. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/iPad-And-Calculator-App-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-947832" /><br/>
-iPadOS 18 will include a built-in Calculator app for all iPad models that are compatible with the software update, which is expected to be unveiled during the opening keynote of Apple's annual developers conference WWDC <a href="https://www.macrumors.com/2024/03/26/apple-announces-wwdc-2024/">on June 10</a>.<br/>
-<br/>
-<em>AppleInsider</em> last week reported that <a href="https://www.macrumors.com/2024/04/19/macos-15-revamped-calculator-app/">macOS 15 will feature a revamped Calculator app</a> with a resizable window, <a href="https://www.macrumors.com/2024/04/17/ios-18-notes-app-voice-memos-math-rumors/">integration with the Notes app</a>, a sidebar that lists recent calculations, and more. While we have not independently confirmed those details, it is possible that the updated Mac app will be based on the new iPad app.<br/>
-<br/>
-The lack of an official Calculator app on the iPad has been a long-running meme on social media, given it is such a basic tool. In the meantime, iPad users must rely on third-party calculator apps in the App Store, such as PCalc and Calcbot.<br/>
-<br/>
-In June 2020, Apple's software engineering chief Craig Federighi <a href="https://www.youtube.com/watch?v=Q2aaCDNjWEg">told tech reviewer Marques Brownlee</a> that the company simply "hadn't gotten around" to releasing a "great" calculator app for the iPad. "That day may come," he added.<br/>
-<br/>
-The first beta of iPadOS 18 is expected to be released immediately following the WWDC keynote, and the update should be widely released in September.<br/>
-<br/>
-Now, if only we could get Instagram and WhatsApp for the iPad…<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/23/calculator-app-for-ipad-rumor/">Apple Finally Plans to Release a Calculator App for iPad Later This Year</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-finally-plans-to-release-a-calculator-app-for-ipad-later-this-year.2424750/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Nomad Launches Glow 2.0 Apple Watch Sport Band and iPhone Case</title>
-		<link>https://www.macrumors.com/2024/04/23/nomad-glow-watch-band-iphone-case/</link>
-		<comments>https://forums.macrumors.com/threads/nomad-launches-glow-2-0-apple-watch-sport-band-and-iphone-case.2424749/</comments>
-		<pubDate>Tue, 23 Apr 2024 09:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/23/nomad-glow-watch-band-iphone-case/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Nomad</category>
-		
-
-		<description><![CDATA[Popular accessory maker Nomad today announced the launch a second-generation glow in the dark band designed for the Apple Watch, with the new version featuring a much more pronounced glow than before.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/nomad-glow-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-947538" /><br/>
-Nomad says that its <a href="https://nomadgoods.com/products/sport-band-glow-2">Glow 2.0 Sport Band</a> is three times brighter than the prior-generation version, and it did indeed have a strong and long lasting glow in our testing. In the light, the band is a soft green color, but in the dark, it shifts to a bright, neon green color. Nomad said that it experimented with more than two dozen variations to get the color and glow of the band correct.<br/>
-<br/>
-To go along with the Glow 2.0 Sport Band, Nomad is also introducing a <a href="https://nomadgoods.com/products/sport-case-glow-iphone-15-pro-max">Glow Sport Case</a>, which is its first glow in the dark <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> case option. It has the same light green color in the light, and it too turns a neon green to match the band. It is worth noting that glow in the dark products need light exposure, so the intensity and length of the glow depend on the light exposure the watch and case receive during the day.<br/>
-<br/>
-The Glow 2.0 Sport Band is made from the same FKM fluoroelastomer rubber as Nomad's other Sport Bands, so if you've tried one of those, this is the same general feel. It's thicker and more rigid than Apple's sport band, and the lack of flex makes it a little less comfortable, but it is still overall easy to wear. It is waterproof and sweatproof, so it is ideal for swimming and other activities that involve water. There are holes in the band to keep it from getting too sweaty underneath during heavy activity.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/nomad-glow-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-947539" /><br/>
-The case is a variation of Nomad's Sport Case, and it is available for the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models. The case itself is glossy, but there is adequate grip that keeps it from being easily dropped, and there is a rubber bumper around the sides and the camera. Buttons are made from aluminum and are easy to press, and it does include support for <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a> so it works with &zwnj;MagSafe&zwnj; accessories.<br/>
-<br/>
-Nomad says that its Sport Cases are designed to provide 8-foot drop protection, and the rubber bumper does provide quite a bit of extra cushioning to the area around the display. The case is not as thin as Apple's silicone case, but it does seem to offer good protection, and the glow in the dark feature is fun at night. During the day, the case is a pleasant light green.<br/>
-<br/>
-The <a href="https://nomadgoods.com/products/sport-band-glow-2">Glow 2.0 Sport Band</a> is priced at &#36;60, while the <a href="https://nomadgoods.com/products/sport-case-glow-iphone-15-pro-max">Glow Sport Case</a> is priced at &#36;50. Both products can be purchased from the Nomad website starting today.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/nomad/">Nomad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/23/nomad-glow-watch-band-iphone-case/">Nomad Launches Glow 2.0 Apple Watch Sport Band and iPhone Case</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/nomad-launches-glow-2-0-apple-watch-sport-band-and-iphone-case.2424749/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
