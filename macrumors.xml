@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 24 Apr 2024 17:11:25 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 24 Apr 2024 21:03:00 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -55,7 +55,7 @@ Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback fro
 		<category>WhatsApp</category>
 		
 
-		<description><![CDATA[Meta-owned messaging platform WhatsApp <a href="https://twitter.com/WhatsApp/status/1783169135221846430">today announced</a> that it is rolling out support for passkeys on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, a feature that will let WhatsApp users log in to their accounts on iOS devices using <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a>, <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>, or their device passcode.<br/>
+		<description><![CDATA[Meta-owned messaging platform WhatsApp <a href="https://twitter.com/WhatsApp/status/1783169135221846430">today announced</a> that it is rolling out support for passkeys on iOS, a feature that will let WhatsApp users log in to their accounts on iOS devices using <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a>, <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>, or their device passcode.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2021/03/Whatsapp-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-786421" /><br/>
 Passkeys serve as a replacement for a traditional password, and because device authentication is required, passkeys put a stop to online attacks like phishing. With a passkey, there's no password to steal, and no one-time SMS or authentication code that can be intercepted.<br/>
@@ -113,7 +113,7 @@ Apple provided code, training logs, and multiple versions rather than just the f
 <blockquote>OpenELM, a state-of-the-art open language model. OpenELM uses a layer-wise scaling strategy to efficiently allocate parameters within each layer of the transformer model, leading to enhanced accuracy. For example, with a parameter budget of approximately one billion parameters, OpenELM exhibits a 2.36% improvement in accuracy compared to OLMo while requiring 2x fewer pre-training tokens.<br/>
 <br/>
 Diverging from prior practices that only provide model weights and inference code, and pre-train on private datasets, our release includes the complete framework for training and evaluation of the language model on publicly available datasets, including training logs, multiple checkpoints, and pre-training configurations.</blockquote><br/>
-Apple says that it is releasing the OpenELM models to "empower and enrich the open research community" with stage-of-the-art language models. Sharing open source models gives researchers a way to investigate risks and data and model biases. Developers and companies are able to use the models as-is or make modifications.<br/>
+Apple says that it is releasing the OpenELM models to "empower and enrich the open research community" with state-of-the-art language models. Sharing open source models gives researchers a way to investigate risks and data and model biases. Developers and companies are able to use the models as-is or make modifications.<br/>
 <br/>
 The open sharing of information has become an important tool for Apple to recruit top engineers, scientists, and experts because it provides opportunities for research papers that would not normally have been able to be published under Apple's secretive policies.<br/>
 <br/>
