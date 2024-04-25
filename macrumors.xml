@@ -14,12 +14,111 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 25 Apr 2024 01:03:50 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 25 Apr 2024 05:04:23 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>How to Make Your iPhone Screen Less Bright in Bed</title>
+		<link>https://www.macrumors.com/how-to/make-iphone-display-dimmer-white-point/</link>
+		<comments>https://forums.macrumors.com/threads/how-to-make-your-iphone-screen-less-bright-in-bed.2424882/</comments>
+		<pubDate>Thu, 25 Apr 2024 03:40:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/make-iphone-display-dimmer-white-point&#038;post_date=1714052400/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Shortcuts</category>
+		
+
+		<description><![CDATA[Most of us stare at our iPhones for far too long, and this constant exposure to a bright screen can strain our eyes, especially in low-light conditions or during the twilight hours. That's where the ability to dim your iPhone screen beyond the standard brightness settings becomes a game-changer. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iphone-in-bed.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-948101" /><br/>
+If the screen of your iPhone or iPad is too bright for comfort, the usual solution is to go to Settings ➝ Display & Brightness and drag the Brightness slider to the left, or open Control Center and adjust the corresponding setting from there. However, if the lowest setting offered by the Brightness level just isn't dim enough for you, there's another way to make your screen even darker. <br/>
+<br/>
+This feature is particularly useful if you find yourself needing to use your device in dark environments, such as in a bedroom where a partner is sleeping, or in a dimly lit theater. It's also a boon for anyone with light sensitivity, providing a more comfortable viewing experience that minimizes eye strain and fatigue. Let's look at how to set it up below.<br/>
+<br/>
+<h2>Reduce White Point</h2><br/>
+<ol><br/>
+  <li>Open Settings on your iPhone.</li><br/>
+  <li>Select <strong>Accessibility</strong> from the list of options.</li><br/>
+  <li>Scroll down and select <strong>Accessibility Shortcut</strong>.</li><br/>
+  <li>Tap <strong>Reduce White Point</strong>, then drag it up near the top of the list using the three lines icon.</li><br/>
+</ol><img src="https://images.macrumors.com/article-new/2024/03/reduce-white-point-setup.jpg" alt="settings" width="4137" height="2716" class="aligncenter size-full wp-image-942525" /><br/>
+<br/>
+Now that's set up, simply triple-click your iPhone's <strong>Side button</strong> to display the Accessibility Shortcut menu, then tap <strong>Reduce White Point</strong>. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/reduce-white-point.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-942527" /><br/>
+Your iPhone display will now be dimmer than the dimmest setting offered by the standard Brightness level.<br/>
+<br/>
+<h2>Reset White Point</h2><br/>
+To return the white point to its normal level, simply triple-click the <strong>Side button</strong> again and tap <strong>Reduce White Point</strong> to uncheck it. <br/>
+<br/>
+<h2>Adjust White Point</h2><br/>
+If the White Point is still too bright (or too dim), you can adjust it manually: In Settings, go to <strong>Accessibility ➝ Display & Text Size</strong>, then scroll down and turn on the switch next to <strong>Reduce White Point</strong>. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/adjust-white-point.jpg" alt="settings" width="4137" height="2716" class="aligncenter size-full wp-image-942529" /><br/>
+This will reveal a slider that you can move left or right to change the brightness level.<br/>
+<br/>
+<h2>Trigger Reduced White Point at Bedtime</h2><br/>
+It's possible to make the Reduced White Point setting come on when Bedtime starts, or when your Sleep focus is enabled. This offers an automated approach to minimizing screen brightness, which is particularly beneficial for winding down before bedtime. <br/>
+<br/>
+Blue light is known for its potential to disrupt natural sleep patterns by inhibiting the production of melatonin, a hormone crucial for sleep regulation. That makes an automation especially useful if you have a habit of reading or browsing on your iPhone as part of your nighttime routine, allowing you to do so without significantly impacting your sleep quality. Here's how it's done.<br/>
+<ol><br/>
+  <li>Open the Shortcuts app, then tap the <strong>+</strong> icon in the top-right corner of the screen.</li><br/>
+  <li>Tap <strong>Add Action</strong>.<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/add-action-shortcuts.jpg" alt="shortcuts" width="2738" height="2716" class="aligncenter size-full wp-image-942532" /><br/>
+  <li>Type "White Point" in the search field, then choose <strong>Set White Point</strong> when it appears below.</li><br/>
+  <li>Tap the blue "Turn" text, then choose <strong>Toggle</strong> from the dropdown menu.</li><br/>
+  <li>Tap <strong>Done</strong> in the top-right corner of the screen.<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/toggle-white-point-shortcut.jpg" alt="shortcuts" width="4137" height="2716" class="aligncenter size-full wp-image-942533" /><br/>
+</ol>After following the above steps, you should see your new "Set White Point" shortcut in the Shortcuts menu. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/set-white-point-shortcut-gallery.jpg" alt="shortcuts" width="1920" height="1080" class="aligncenter size-full wp-image-942541" /><br/>
+The Shortcut is now ready to use in a new custom automation. It's easy to make, just follow these steps.<br/>
+<ol><br/>
+  <li>In the Shortcuts app, select the <strong>Automation</strong> tab, then tap the <strong>+</strong> icon in the top-right corner of the screen.</li><br/>
+  <li>Under "Personal Automation," choose <strong>Sleep</strong>.<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/white-point-bedtime1.jpg" alt="shortcuts" width="2738" height="2716" class="aligncenter size-full wp-image-942534" /><br/>
+  <li>On the "When" screen, choose <strong>Bedtime Begins</strong> and <strong>Run Immediately</strong>, then tap <strong>Next</strong>.</li><br/>
+  <li>On the "When Bedtime Starts" screen, choose your custom <strong>Set White Point</strong> shortcut.<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/white-point-bedtime2.jpg" alt="shortcuts" width="2738" height="2716" class="aligncenter size-full wp-image-942535" /><br/>
+</ol>You're all done. In the future, when Bedtime starts or when you enable the Sleep focus, your screen's white point will be automatically reduced. <br/>
+<br/>
+<h2>Trigger White Point When Bedtime Ends</h2><br/>
+To make sure the white point on your iPhone's display is reset when bedtime ends in the morning, you just have to create an additional automation. This basically involves the same steps you just used to create the first custom automation, except instead of choosing Bedtime Begins in step 3, select <strong>Waking Up</strong>. Here are those steps again for your convenience, but with a modified step 3.<br/>
+<ol><br/>
+  <li>In the Shortcuts app, select the <strong>Automation</strong> tab, then tap the <strong>+</strong> icon in the top-right corner of the screen.</li><br/>
+  <li>Under "Personal Automation," choose <strong>Sleep</strong>.</li><br/>
+  <li>On the "When" screen, choose <strong>Waking Up</strong> and <strong>Run Immediately</strong>, then tap <strong>Next</strong>.</li><br/>
+  <li>On the "When Bedtime Starts" screen, choose your custom <strong>Set White Point</strong> shortcut.</li><br/>
+</ol>That's it! The white point on your iPhone display will now return to normal when your bedtime ends.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/shortcuts/">Shortcuts</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/make-iphone-display-dimmer-white-point/">How to Make Your iPhone Screen Less Bright in Bed</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/how-to-make-your-iphone-screen-less-bright-in-bed.2424882/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Threads Tests Option to Archive Posts as Platform Hits 150M+ Users</title>
+		<link>https://www.macrumors.com/2024/04/25/threads-tests-archive-option-150m-users/</link>
+		<comments>https://forums.macrumors.com/threads/threads-tests-option-to-archive-posts-as-platform-hits-150m-users.2424881/</comments>
+		<pubDate>Thu, 25 Apr 2024 03:26:19 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/04/25/threads-tests-archive-option-150m-users/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Threads</category>
+		
+
+		<description><![CDATA[Threads is testing an option that allows users to archive old posts so that they don't appear on their profile, according to Instagram head Adam Mosseri. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/instagram-threads-app.jpg" alt="" width="1079" height="607" class="aligncenter size-full wp-image-902359" /><br/>
+In a <a href="https://www.threads.net/@mosseri/post/C6Jq-r-xVpM">post</a> on the Meta-owned social media platform, Mosseri said that the archive option being tested with a small number of people included a manual setting for individual posts, as well as the ability  to automatically archive all posts after a certain period of time. <br/>
+<br/>
+Users also have the option to unarchive a post to make it public again. If beta testing goes well, the ability to archive posts is likely to be rolled out globally as an option rather than a default behavior, which Mosseri said was the overwhelming preference based on user feedback.<br/>
+<br/>
+When it launched back in July, Threads was very barebones, with Meta working to add new functionality on a regular basis to bring the network in line with X (Twitter). It has since gained a web app, an ability to search for posts, and a post editing feature. Just last week, Threads began rolling out an option to some users to <a href="https://www.threads.net/@mosseri/post/C5yvw9LP4j8">filter search results</a> by the most recent posts, rather than just posts suggested by its algorithm. <br/>
+<br/>
+The slow trickle of new features appears to be gradually paying off: The app now has more than 150 million monthly users, according to Mark Zuckerberg, who revealed the figures on Wednesday during Meta's <a href="https://s21.q4cdn.com/399680738/files/doc_financials/2024/q1/META-Q1-2024-Earnings-Call-Transcript.pdf">first-quarter earnings call</a>. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/archive-posts-threads.jpg" alt="" width="1441" height="1440" class="aligncenter size-full wp-image-948093" /><br/>
+The number indicates an increase of about 20 million new users since February, suggesting steady growth, albeit at a slower rate than its initial rapid popularity, when the app racked up 100 million users in its first week. Zuckerberg said in October he believes Threads has a good chance of becoming Meta's next billion-user app.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/threads/">Threads</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/25/threads-tests-archive-option-150m-users/">Threads Tests Option to Archive Posts as Platform Hits 150M+ Users</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/threads-tests-option-to-archive-posts-as-platform-hits-150m-users.2424881/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Releases Safari Technology Preview 193 With Bug Fixes and Performance Improvements</title>
@@ -564,45 +663,6 @@ Registered developers can opt-in to the beta through the Software Update section
 <br/>
 We don't yet know what might be included in &zwnj;macOS Sonoma&zwnj; 14.5, and no new features were found in the first two developer betas.<br/>
 <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/23/apple-seeds-macos-sonoma-14-5-beta-3/">Apple Seeds Third Beta of macOS Sonoma 14.5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-macos-sonoma-14-5-to-developers.2424756/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Third Betas of iOS 17.5 and iPadOS 17.5 to Developers</title>
-		<link>https://www.macrumors.com/2024/04/23/apple-seeds-ios-17-5-beta-3-to-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-third-betas-of-ios-17-5-and-ipados-17-5-to-developers.2424754/</comments>
-		<pubDate>Tue, 23 Apr 2024 10:04:47 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/23/apple-seeds-ios-17-5-beta-3-to-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple today seeded the third betas of upcoming iOS 17.5 and iPadOS 17.5 updates to developers for testing purposes, with the software coming a week after Apple <a href="https://www.macrumors.com/2024/04/16/apple-seeds-ios-17-5-beta-2-to-developers/">released the second betas</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.5-Feature-Orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-943813" /><br/>
-Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
-<br/>
-Most of the features that Apple promised would be coming in &zwnj;iOS 17&zwnj; have now been released, but iOS 17.5 adds additional app ecosystem changes in the European Union. App developers can offer apps for download on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> <a href="https://www.macrumors.com/2024/04/16/ios-17-5-app-web-downloads-eu/">directly from their websites</a>, in addition to through app marketplaces.<br/>
-<br/>
-There are also code changes that hint at new Apple Pencils and a Battery Health feature for the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, with more information on what's new available in our <a href="https://www.macrumors.com/guide/ios-17-5-beta-features/">iOS 17.5 beta features post</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/23/apple-seeds-ios-17-5-beta-3-to-developers/">Apple Seeds Third Betas of iOS 17.5 and iPadOS 17.5 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-betas-of-ios-17-5-and-ipados-17-5-to-developers.2424754/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Third Beta of visionOS 1.2 to Developers</title>
-		<link>https://www.macrumors.com/2024/04/23/apple-seeds-visionos-1-2-beta-3-to-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-third-beta-of-visionos-1-2-to-developers.2424758/</comments>
-		<pubDate>Tue, 23 Apr 2024 10:04:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/23/apple-seeds-visionos-1-2-beta-3-to-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[Apple today released the third beta of an upcoming <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1.2 update to developers, allowing them to test new features ahead of the software seeing a public launch. The third &zwnj;visionOS&zwnj; 1.2 beta comes one week after the <a href="https://www.macrumors.com/2024/04/16/apple-seeds-visionos-1-2-beta-2-to-developers/">release the second beta</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-934088" src="https://images.macrumors.com/article-new/2024/02/visionOS-Home-Screen.jpg" alt="" width="1920" height="1080" /><br/>
-The &zwnj;visionOS&zwnj; beta can be downloaded by going to the Settings app on the device and toggling on developer betas. A registered developer account is required, and Apple recommends making a backup before installing new software.<br/>
-<br/>
-Apple may make further improvements to Personas, EyeSight, and other features with &zwnj;visionOS&zwnj; 1.2, but no major new additions were found in the first two betas.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/23/apple-seeds-visionos-1-2-beta-3-to-developers/">Apple Seeds Third Beta of visionOS 1.2 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-third-beta-of-visionos-1-2-to-developers.2424758/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
