@@ -14,12 +14,38 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 02 May 2024 01:03:11 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 05:04:39 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Watch AFib History Feature Qualified by FDA to Evaluate Medical Devices</title>
+		<link>https://www.macrumors.com/2024/05/02/apple-watch-afib-history-evaluate-medical-devices/</link>
+		<comments>https://forums.macrumors.com/threads/apple-watch-afib-history-feature-qualified-by-fda-to-evaluate-medical-devices.2425302/</comments>
+		<pubDate>Thu, 02 May 2024 04:27:11 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/02/apple-watch-afib-history-evaluate-medical-devices/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple Watch</category>
+		<category>FDA</category>
+		
+
+		<description><![CDATA[Apple's atrial fibrillation (AFib) history feature on Apple Watch has been <a href="https://content.govdelivery.com/accounts/USFDA/bulletins/399d551">qualified</a> by the FDA under its Medical Device Development Tools (MDDT) program, the first digital health technology feature of its kind to do so.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/06/watchos-9-afib-history.jpg" alt="" width="2676" height="1502" class="aligncenter size-full wp-image-849842" /><br/>
+Since 2022, Apple Watch has supported AFib History, which allows users diagnosed with atrial fibrillation to view an estimate of how frequently their heart is in this type of irregular rhythm. <br/>
+<br/>
+The feature analyzes pulse rate data collected by a photoplethysmography (PPG) sensor to identify episodes consistent with AFib and provides the user with a retrospective estimate of AFib burden (a measure of the amount of time spent in AFib during past Apple Watch wear). Apple says the feature is intended for individuals aged 22 years or older who have been diagnosed with atrial fibrillation.<br/>
+<br/>
+The AFib History feature received FDA clearance in the United States just prior to its announcement by Apple, after being validated in a clinical study. The MDDT program under which the feature was <a href="https://www.fda.gov/media/178230/download?attachment">approved</a> today is the FDA's method of qualifying tools that medical device sponsors can choose to use in the development and evaluation of medical devices.  <br/>
+<br/>
+According to the FDA, the Atrial Fibrillation History feature is:<br/>
+<ul><li>The first digital health technology qualified under the MDDT program, providing a non-invasive way to check estimates of atrial fibrillation (AFib) burden within clinical studies.</li><br/>
+<li>Designed to be used as a biomarker test to help evaluate estimates of AFib burden as a secondary effectiveness endpoint within clinical studies intended to evaluate the safety and effectiveness of cardiac ablation devices to treat.</li><br/>
+<li>Designed to be used throughout the clinical study, both before and after cardiac ablation devices, to monitor a study participant’s weekly estimate of AFib burden.</li></ul><em>(Via <a href="https://www.myhealthyapple.com/fda-qualifies-afib-history-mddt/">MyHealthyApple.com</a>.)</em><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch Series 9</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/fda/">FDA</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Neutral)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/02/apple-watch-afib-history-evaluate-medical-devices/">Apple Watch AFib History Feature Qualified by FDA to Evaluate Medical Devices</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-watch-afib-history-feature-qualified-by-fda-to-evaluate-medical-devices.2425302/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Google Paid Apple &#36;20 Billion in 2022 to Be Default Safari Search Engine</title>
@@ -538,24 +564,6 @@ There are also code changes that hint at new Apple Pencils and a Battery Health 
 Registered developers can opt in to the beta through the Software Update section of the System Settings app. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
 <br/>
 We don't yet know what is included in &zwnj;macOS Sonoma&zwnj; 14.5, and no new features were found in the first three developer betas. Fresh release candidate versions of macOS Ventura 13.6.7 and macOS Monterey 12.7.5 have also been seeded to developers.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/30/macos-sonoma-14-5-beta-4-developers/">Apple Seeds Fourth Beta of macOS Sonoma 14.5 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-macos-sonoma-14-5-to-developers-update-public-beta-available.2425208/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Fourth Beta of visionOS 1.2 to Developers</title>
-		<link>https://www.macrumors.com/2024/04/30/visionos-1-2-beta-4-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-visionos-1-2-to-developers.2425209/</comments>
-		<pubDate>Tue, 30 Apr 2024 10:16:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/30/visionos-1-2-beta-4-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[Apple today released the fourth beta of an upcoming <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1.2 update to developers, allowing them to test new features ahead of the software seeing a public launch. The fourth &zwnj;visionOS&zwnj; 1.2 beta comes one week after the <a href="https://www.macrumors.com/2024/04/23/apple-seeds-visionos-1-2-beta-3-to-developers/">release the third beta</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-934088" src="https://images.macrumors.com/article-new/2024/02/visionOS-Home-Screen.jpg" alt="" width="1920" height="1080" /><br/>
-The &zwnj;visionOS&zwnj; beta can be downloaded by going to the Settings app on the device and toggling on developer betas. A registered developer account is required, and Apple recommends making a backup before installing new software.<br/>
-<br/>
-Apple may make further improvements to Personas, EyeSight, and other features with &zwnj;visionOS&zwnj; 1.2, but no major new additions were found in the first three betas.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/30/visionos-1-2-beta-4-developers/">Apple Seeds Fourth Beta of visionOS 1.2 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-visionos-1-2-to-developers.2425209/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
