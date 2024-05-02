@@ -14,12 +14,248 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 02 May 2024 05:04:39 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 09:03:13 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Confirms iPadOS Will Get Same EU App Changes as iOS This Fall</title>
+		<link>https://www.macrumors.com/2024/05/02/ipados-eu-app-changes-fall/</link>
+		<comments>https://forums.macrumors.com/threads/apple-confirms-ipados-will-get-same-eu-app-changes-as-ios-this-fall.2425320/</comments>
+		<pubDate>Thu, 02 May 2024 08:01:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/02/ipados-eu-app-changes-fall/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>App Store</category>
+		<category>European Union</category>
+		
+
+		<description><![CDATA[Apple today confirmed that it will be bringing all of the app ecosystem changes made to iOS in the European Union to iPadOS in the fall. Earlier this week, the European Commission said that iPadOS is <a href="https://www.macrumors.com/2024/04/29/eu-says-ipados-digital-gatekeeper-dma/">also a gatekeeper platform</a> under the Digital Markets Act.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/ipad-pro-new-blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-940265" /><br/>
+EU developers will be able to distribute <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> apps outside of the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> using alternative app marketplaces or websites, and all of the same terms will apply. The Core Technology Fee will be charged for apps that are distributed outside of the &zwnj;App Store&zwnj; and have more than one million first annual installs, though there are exceptions for small developers, which Apple also announced today.<br/>
+<br/>
+With iPadOS being added to the mix, Apple has also confirmed that users who install the same app on both iOS and iPadOS in a 12-month period will only generate one first annual install for that app rather than two, which should help developers keep below the CTF threshold.<br/>
+<br/>
+As with the changes to iOS, the upcoming changes to iPadOS only apply to developers who distribute apps in the European Union and &zwnj;iPad&zwnj; users in the EU. For the rest of the world, there are no changes and apps will continue to be available only from the &zwnj;App Store&zwnj;.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/02/ipados-eu-app-changes-fall/">Apple Confirms iPadOS Will Get Same EU App Changes as iOS This Fall</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-confirms-ipados-will-get-same-eu-app-changes-as-ios-this-fall.2425320/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Tweaks EU Core Technology Fee to Avoid Bankrupting Unexpectedly Viral Apps</title>
+		<link>https://www.macrumors.com/2024/05/02/apple-updates-core-technology-fee-eu/</link>
+		<comments>https://forums.macrumors.com/threads/apple-tweaks-eu-core-technology-fee-to-avoid-bankrupting-unexpectedly-viral-apps.2425319/</comments>
+		<pubDate>Thu, 02 May 2024 08:00:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/02/apple-updates-core-technology-fee-eu/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>App Store</category>
+		<category>European Union</category>
+		
+
+		<description><![CDATA[Apple today announced that it is tweaking the terms of the 0.50 euro Core Technology Fee (CTF) that apps distributed using the new EU business terms must pay, introducing a solution that would keep small apps that go viral from being bankrupt.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-932826" src="https://images.macrumors.com/article-new/2024/01/App-Store-vs-EU-Feature-2.jpg" alt="" width="2500" height="1406" /><br/>
+First, independent and small developers who earn no revenue at all will not have to pay the CTF. Students, hobbyists, and freeware app developers who distribute free apps and earn no money will not be charged the fee. Developers will need to declare their non-commercial status on an annual basis, and to maintain this status, developers must have no revenue in or out of the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> for their app product.<br/>
+<br/>
+Second, to address fears of the CTF causing outrageous fees for an app that suddenly goes viral, Apple has implemented a three year on-ramping process for small developers. The three year period begins when a developer agrees to the new &zwnj;App Store&zwnj; business terms, and during this time, if an app goes viral and exceeds the one million annual install threshold that triggers the CTF, the CTF won't be charged if the developer earns less than 10 million euros in global business revenue, and the fee is reduced after that.<br/>
+<ul><br/>
+ 	<li>Under 10 million euros: No CTF during the three year period.</li><br/>
+ 	<li>Between 10 million and 50 million euros: CTF must be paid, but it is capped at one million euros per year for the three year period.</li><br/>
+ 	<li>Beyond 50 million euros: Benefit is no longer available, and the full CTF has to be paid.</li><br/>
+<li>After three years: Developers will pay for each first annual install after the initial one million first annual installs per year.</li><br/>
+</ul><br/>
+Note that this ramp up period is only available to small developers who have not previously exceeded one million first annual installs, and it is calculated based on global business revenue rather than just &zwnj;App Store&zwnj; revenue. <br/>
+<br/>
+Apple says that 99 percent of developers will not be subject to the CTF to begin with, but the new ramp up period will go further to make sure that small developers who get a breakout hit will have time to scale their businesses before having to pay fees.<br/>
+<br/>
+Back in March, developer Riley Testut spoke with Apple officials at a workshop on the Digital Markets Act, and he asked what would happen if a young developer had an app go viral and unwittingly racked up millions in fees. Testut asked the question because when he was a high school student, he released GBA4iOS outside of the &zwnj;App Store&zwnj;. It was unexpectedly downloaded more than 10 million times, and that would have bankrupted him had he been subject to the Core Technology Fee.<br/>
+<br/>
+In response, Apple VP of regulatory law Kyle Andeers said that Apple was working on a solution because the company is not trying to stifle innovation. Apple believes that a free app going viral and being subject to exorbitant fees will be a rare occurrence, but the changes will keep that from happening. The CTF update will also be a welcome change for those who want to release entirely free apps outside of the &zwnj;App Store&zwnj;.<br/>
+<br/>
+The CTF is only applicable to apps that have opted in to the new &zwnj;App Store&zwnj; business terms in the European Union. Apps in the EU are now able to be distributed through alternative app stores and developer websites without having to rely on the &zwnj;App Store&zwnj;.<br/>
+<br/>
+Apple has more information about the new changes to the CTF on its <a href="https://developer.apple.com/support/core-technology-fee">updated CTF support page</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/02/apple-updates-core-technology-fee-eu/">Apple Tweaks EU Core Technology Fee to Avoid Bankrupting Unexpectedly Viral Apps</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-tweaks-eu-core-technology-fee-to-avoid-bankrupting-unexpectedly-viral-apps.2425319/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Amazon Discounts Popular Accessories From Anker, Eufy, and Jackery</title>
+		<link>https://www.macrumors.com/2024/05/02/amazon-discounts-accessories-anker/</link>
+		<comments>https://forums.macrumors.com/threads/amazon-discounts-popular-accessories-from-anker-eufy-and-jackery.2425318/</comments>
+		<pubDate>Thu, 02 May 2024 07:56:20 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/02/amazon-discounts-accessories-anker/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Today we're tracking a few deals offered by <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C812422R%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3SU6JI04LB2MZ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3SU6JI04LB2MZ_1713191397056">Anker</a>, <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BKJZ5BVF%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.21TJMGTITJI3Q%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.21TJMGTITJI3Q_1714659979654">Eufy</a>, and <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Jackery</a>, including a wide array of wall chargers, Bluetooth trackers, and other USB-C accessories. All of the products in this sale can be found on Amazon, and some will require you to clip an on-page coupon then head to the checkout screen before you see the final sale price.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/anker-purple-may.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-949011" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+This week Eufy has a pair of discounts on its Find My-compatible SmartTrack Bluetooth tracker accessories exclusively for Prime members, including the SmartTrack Card for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BKJZ5BVF%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.21TJMGTITJI3Q%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.21TJMGTITJI3Q_1714659979654"><strong>&#36;19.99</strong></a>, down from &#36;29.99. You can also get the SmartTrack Link in multiple pack options if you have Amazon Prime, starting at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8GDXPBL%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1714659794010"><strong>&#36;15.99</strong></a> for the 1-Pack, down from &#36;19.99.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BKJZ5BVF%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.21TJMGTITJI3Q%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.21TJMGTITJI3Q_1714659979654"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;10 OFF</div>Eufy SmartTrack Card for &#36;19.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN86R2HC%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1714660094244"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;21 OFF</div>Eufy SmartTrack Link 4-Pack for &#36;48.99</div></a></div><br/>
+<br/>
+Switching to the Anker deals, you can get the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C812422R%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3SU6JI04LB2MZ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3SU6JI04LB2MZ_1713191397056">20,000 mAh Prime Power Bank with Smart Digital Display</a> for &#36;89.98, down from &#36;129.99. If you need a bigger battery, you can get the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.10G3BZB00CFWS%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.10G3BZB00CFWS_1713191978237">Portable Power Station with Smart Display + Retractable Light</a> for &#36;109.99 with an on-page coupon, down from &#36;149.99. Additionally, below you'll find more Anker accessories including speakers and USB-C products.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C812422R%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3SU6JI04LB2MZ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3SU6JI04LB2MZ_1713191397056"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;40 OFF</div>20,000 mAh Prime Power Bank with Smart Digital Display for &#36;89.98</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.10G3BZB00CFWS%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.10G3BZB00CFWS_1713191978237"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;40 OFF</div>Portable Power Station with Smart Display + Retractable Light for &#36;109.99</div></a></div><br/>
+<br/>
+Anker is also hosting a BOGO sale this week on Amazon, allowing you to save 15 percent on select charging accessories when you purchase two at once. You can find the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fpromotion%2Fpsp%2FA1XLK5JR9AUNRG%3Fref%3Dpsp_pc_cart_collapse_cpi_t1">full lineup on this landing page</a>, and it includes the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CFDSMNT7%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1QN268QXZWAAI%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1QN268QXZWAAI_1714660272222">MagGo 10,000 mAh Power Bank with Smart Display</a>, <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C9CSG3B7%3Fm%3DA294P4X9EWVXLJ%26ref%3Dpsp_pc_a_A1XLK5JR9AUNRG%26th%3D1">Nano 10,000 mAh Power Bank with Built-in USB-C Cable</a>, and more.<br/>
+<br/>
+Highlights of Jackery's deals include the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Explorer 100 Plus Portable Power Station</a>, available for just &#36;119.99, down from &#36;149.00. This is a miniature-sized portable power station that can fit in the palm of your hand and weighs just 2.13 lbs, while featuring a 31,000 mAh capacity and 128W output.<br/>
+<br/>
+<div class="center-wrap"><em><strong>Note: You won't see the deal price until checkout.</strong></em></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;29 OFF</div>Jackery Explorer 100 Plus for &#36;119.99</div></a></div><h2>Eufy</h2><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8GDXPBL%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1714659902126">SmartTrack Link 1-Pack</a> - &#36;15.99 for Prime members, down from &#36;19.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BNVFJMZR%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1714659917907">SmartTrack Link 2-Pack</a> - &#36;26.99 for Prime members, down from &#36;35.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN86R2HC%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1714659964727">SmartTrack Link 4-Pack</a> - &#36;48.99 for Prime members, down from &#36;69.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BKJZ5BVF%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.21TJMGTITJI3Q%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.21TJMGTITJI3Q_1714659979654">SmartTrack Card</a> - &#36;19.99 for Prime members, down from &#36;29.99</li></ul><br/>
+<h2>Anker</h2><br/>
+<h3>Audio</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CDJWTWMB%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3NUAPVI1RMDMY%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3NUAPVI1RMDMY_1710770269976">Soundcore Motion 300 Wireless Bluetooth Speaker</a> - &#36;64.99, down from &#36;79.99</li></ul><br/>
+<h3>Portable Batteries</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C9D7R1B6%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3IQ1Y7SBOA6VQ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3IQ1Y7SBOA6VQ_1704725913103">Nano Power Bank with Built-In USB-C Cable</a> - &#36;39.99, down from &#36;49.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BYP45YVF%2Fref%3Dox_sc_act_title_1%3Fsmid%3DA294P4X9EWVXLJ%26psc%3D1">Prime Power Bank 20,000 mAh with 100W Charging Base</a> - &#36;139.99, down from &#36;184.99</li></ul><br/>
+<h3>Power Stations</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.10G3BZB00CFWS%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.10G3BZB00CFWS_1713191978237">Portable Power Station with Smart Display + Retractable Light</a> - &#36;109.99 with on-page coupon, down from &#36;149.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09TT8GZK9%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.HZBHG58DP8H0%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.HZBHG58DP8H0_1709134987908">3-in-1 MagSafe Charging Cube</a> - &#36;129.99, down from &#36;149.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-A1780-Power-Storage%2Fdp%2FB09XM7WDZ2%3Fref_%3Dast_sto_dp%26th%3D1">SOLIX F2000 Portable Power Station</a> - &#36;1,499.00 with on-page coupon, down from &#36;1,999.00</li></ul><br/>
+<h3>Wall Chargers</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Durable-Compact-Included%2Fdp%2FB099F558S1%3Fref_%3Dast_sto_dp%26th%3D1">20W USB-C Charger</a> - &#36;9.99, down from &#36;16.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Compact-Pixelbook-ThinkPad%2Fdp%2FB09Q52CXX1%3Fref_%3Dast_sto_dp%26th%3D1">100W 3-Port USB-C Charger</a> - &#36;42.99, down from &#36;74.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charging-Station-Undetachable-Extension%2Fdp%2FB0C7B4W2BV%3Fref_%3Dast_sto_dp%26th%3D1">6-in-1 Nano Charging Station</a> - &#36;49.49, down from &#36;65.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Compact-MacBook-Pixelbook%2Fdp%2FB0C4YTB56H%3Fref_%3Dast_sto_dp">Prime 67W 3-Port Charger</a> - &#36;59.99, down from &#36;65.99</li></ul><br/>
+<h3>Hubs</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Transfer-Extended-Charging-Supported%2Fdp%2FB0CCDZWH5H%3Fref_%3Dast_sto_dp%26th%3D1">4-Port USB-C Hub</a> - &#36;15.99, down from &#36;19.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-MacBook-Docking-Station-Thinkpad%2Fdp%2FB0BNZ5TCG8%3Fref_%3Dast_sto_dp">10-in-1 USB-C Hub</a> - &#36;74.99 for Prime members, down from &#36;149.99</li></ul> <br/>
+<h2>Jackery</h2><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Explorer 100 Plus Portable Power Station</a> - &#36;119.99 with on-page coupon, down from &#36;149.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CGZW67B6%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.LPIOTAJGGK4P%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.LPIOTAJGGK4P_1713373339383">Solar Generator 300 Plus Portable Power Station</a> - &#36;499.00, down from &#36;579.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CFVCRJVL%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.2HOQ15SVTKP5E%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.2HOQ15SVTKP5E_1713373175628">Expansion Battery Pack for 1000 Plus</a> - &#36;599.00, down from &#36;799.00</li> <br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB083KBKJ8Q%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1KHS8AIX808CW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1KHS8AIX808CW_1713373227768">Explorer 1000 Portable Power Station</a> - &#36;649.00 with on-page coupon, down from &#36;999.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8ZLZ53M%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.231PUR2N7PBPM%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.231PUR2N7PBPM_1713373287626">Explorer 2000 Pro Portable Power Station</a> - &#36;1,299.00 with on-page coupon, down from &#36;1,899.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6DL1VPD%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1QELY4DYBF6HU%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1QELY4DYBF6HU_1710770037246">Expansion Battery Pack for 2000 Plus</a> - &#36;1,259.00 with on-page coupon, down from &#36;1,599.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZ8DZ3HR%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.B0BZ8DZ3HR%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3M5389ELMN7TD_1713385917457%26th%3D1">Explorer 3000 Pro Portable Power Station</a> - &#36;2,499.00, down from &#36;2,799.00</li></ul><br/>
+<br/>
+If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/02/amazon-discounts-accessories-anker/">Amazon Discounts Popular Accessories From Anker, Eufy, and Jackery</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-discounts-popular-accessories-from-anker-eufy-and-jackery.2425318/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 15 and 15 Plus Proving Less Popular With Buyers This Year</title>
+		<link>https://www.macrumors.com/2024/05/02/cirp-iphone-15-vs-14-sales-q1/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-15-and-15-plus-proving-less-popular-with-buyers-this-year.2425315/</comments>
+		<pubDate>Thu, 02 May 2024 07:44:09 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/02/cirp-iphone-15-vs-14-sales-q1/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>CIRP</category>
+		
+
+		<description><![CDATA[Apple's <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models were its most purchased smartphones in the U.S. in the first quarter of this year, according to the latest <a href="https://cirpapple.substack.com/p/iphone-15-winners-and-losers">Consumer Intelligence Research Partners (CIRP) report</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/09/iPhone-14-vs-iPhone-15-Feature.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-863031" /><br/>
+The &zwnj;iPhone 15 Pro&zwnj; and Pro Max accounted for 22% and 23% of all iPhones sold in Q1 2024, for a 45% combined share. The <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> Plus took a 9% share of all iPhones sold, while the &zwnj;iPhone 15&zwnj; and <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> were the third most popular, each taking 14% of the share. <br/>
+<br/>
+The &zwnj;iPhone 15 Pro&zwnj; and Pro Max share hardly changed compared to the &zwnj;iPhone 14&zwnj; Pro and Pro Max the same quarter a year ago. However, Apple saw sales of the base model &zwnj;iPhone 15&zwnj; decline relative to a year ago. The overall mix of &zwnj;iPhone 15&zwnj; models was lower, accounting for 68% of all <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> sales. <br/>
+<br/>
+By contrast, in Q1 2023 the &zwnj;iPhone 14&zwnj; series had a 7% higher share of all iPhones sold, taking 75% combined. The percentages suggest that the &zwnj;iPhone 14&zwnj; and &zwnj;iPhone 14&zwnj; Plus were more popular than the &zwnj;iPhone 15&zwnj; and &zwnj;iPhone 15&zwnj; Plus over the equivalent quarter the previous year. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/CIRP-iphone-14-15-quarters-compared.jpg" alt="" width="1127" height="827" class="aligncenter size-full wp-image-948990" /><br/>
+Noting the change, CIRP comments:<br/>
+<blockquote>We see this as a continuation of a trend from the past couple of quarters, as the lower- priced current models give up some share to older models. The once flagship, now base iPhone 15, is no longer the leading-edge choice, as the Pro and Pro Max models take that role.</blockquote>Last week, CIRP released a report indicating that new &zwnj;iPhone&zwnj; activations are down to a low not seen in the U.S. smartphone market <a href="https://www.macrumors.com/2024/04/25/iphone-activation-market-share-decline/">for the last six years</a>. <br/>
+<br/>
+CIRP said that Apple's installed smartphone base was higher than recorded activations, but Apple's share of new &zwnj;iPhone&zwnj; activations fell from 40% to 33% over the past year, suggesting a shift away from the higher market shares Apple enjoyed in previous years.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/cirp/">CIRP</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/02/cirp-iphone-15-vs-14-sales-q1/">iPhone 15 and 15 Plus Proving Less Popular With Buyers This Year</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-15-and-15-plus-proving-less-popular-with-buyers-this-year.2425315/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>How to Enable Stolen Device Protection on iPhone</title>
+		<link>https://www.macrumors.com/how-to/enable-stolen-device-protection/</link>
+		<comments>https://forums.macrumors.com/threads/how-to-enable-stolen-device-protection-on-iphone.2425308/</comments>
+		<pubDate>Thu, 02 May 2024 05:45:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/enable-stolen-device-protection&#038;post_date=1714664700/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple Security</category>
+		
+
+		<description><![CDATA[When Apple released iOS 17.3 in January, it introduced a Stolen Device Protection feature to provide iPhone users with added security. This article explains what it does, why you might want to turn it on, and how to go about doing so.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/ios-stolen-device-protection.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-926120" /><br/>
+In 2023, reports began emerging about a new method thieves were using to steal iPhones and access users' highly sensitive data. Thieves would surreptitiously spy on their victims in public while they entered their passcode, before going on to steal the device. With the passcode known to them, criminals could empty bank accounts, steal passwords, and make the iPhone untraceable.<br/>
+<br/>
+<h2>Enter, Stolen Device Protection</h2><br/>
+To make it harder for a thief to access passcode-protected data on a stolen iPhone, Apple in iOS 17.3 included Stolen Device Protection. With the feature enabled, Face ID or Touch ID is required to access passwords in iCloud Keychain, Lost Mode settings, options for erasing the device, and making purchases in Safari.<br/>
+<br/>
+In addition to the new biometric requirements, the feature also imposes a one-hour security delay on actions like changing an Apple ID password. In other words, if someone tries to change Apple ID login information, Face ID authentication is required, and then an hour must pass before the password can be changed. The only time this wait period is not imposed is when the device at a trusted location like home or work.<br/>
+<br/>
+<h2>Actions Requiring Face ID/Touch ID With Stolen Device Protection Enabled</h2><br/>
+ <ul><br/>
+ <li>Viewing/using passwords or passkeys saved in iCloud Keychain</li><br/>
+ <li>Applying for a new Apple Card</li><br/>
+ <li>Viewing an Apple Card virtual card</li><br/>
+ <li>Turning off Lost Mode</li><br/>
+ <li>Erasing all content and settings</li><br/>
+ <li>Taking certain Apple Cash and Savings actions in Wallet</li><br/>
+ <li>Using payment methods saved in Safari</li><br/>
+ <li>Using your iPhone to set up a new device</li><br/>
+</ul><br/>
+Note that these actions do not have a passcode backup, so you can't use a passcode to avoid using Face ID or Touch ID. <br/>
+<br/>
+<h2>Actions Requiring 1-Hour Delay With Stolen Device Protection Enabled</h2><br/>
+Actions that require biometric authentication and have a one-hour security delay include the following:<br/>
+<ul><br/>
+ <li>Changing your Apple ID password</li><br/>
+ <li>Updating select Apple ID account security settings, including adding or removing a trusted device, trusted phone number, Recovery Key, or Recovery Contact</li><br/>
+ <li>Changing your iPhone passcode</li><br/>
+ <li>Adding or removing Face ID or Touch ID</li><br/>
+ <li>Turning off Find My</li><br/>
+ <li>Turning off Stolen Device Protection</li><br/>
+</ul><br/>
+<h2>How to Enable Stolen Device Protection</h2><br/>
+Note that Stolen Device Protection is only available on iPhones that are able to run iOS 17, which includes the iPhone XS and newer. Also, make sure your iPhone is up-to-date and running iOS 17.3 or later (Settings ➝ General ➝ Software Update). Here's how to enable the feature.<br/>
+<ol><li>Open the Settings app.</li><br/>
+<li>Scroll down and tap <strong>Face ID & Passcode</strong> (or <strong>Touch ID & Passcode</strong>, depending on iPhone model).</li><br/>
+<li>Enter your passcode at the prompt.</li><br/>
+<li>Scroll down and tap <strong>Stolen Device Protection</strong>.</li><br/>
+<li>Toggle on the switch next to <strong>Stolen Device Protection</strong>, then tap <strong>Turn On</strong> at the prompt.</ol><img src="https://images.macrumors.com/article-new/2024/01/stolen-device-protection-iphone.jpg" alt="settings" width="4137" height="2716" class="aligncenter size-full wp-image-938365" /><br/>
+<br/>
+Note that if your iPhone is running iOS 17.4 or later, an additional option on this screen lets you choose to require a security delay when your device is <strong>Away from Familiar Locations</strong>, or <strong>Always</strong>. Otherwise, that's all there is to it. You can just as easily turn off the feature by toggling off the <strong>Stolen Device Protection</strong> switch, but you'll need to authenticate to do so.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-security/">Apple Security</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/enable-stolen-device-protection/">How to Enable Stolen Device Protection on iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/how-to-enable-stolen-device-protection-on-iphone.2425308/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Anthropic Announces Claude AI Chatbot App for iPhone and iPad</title>
+		<link>https://www.macrumors.com/2024/05/02/claude-ai-iphone-app-launch-anthropic/</link>
+		<comments>https://forums.macrumors.com/threads/anthropic-announces-claude-ai-chatbot-app-for-iphone-and-ipad.2425307/</comments>
+		<pubDate>Thu, 02 May 2024 05:12:03 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/02/claude-ai-iphone-app-launch-anthropic/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[AI safety and research company Anthropic has <a href="https://www.anthropic.com/news/team-plan-and-ios">announced</a> the launch of its Claude iOS app, offering users easier access to the conversational agent from their <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/claude-ios-app.jpeg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-948971" /><br/>
+Similar to OpenAI's ChatGPT, the Claude chatbot operates by processing large amounts of text data to understand and generate human-like responses. Its architecture is based on machine learning techniques including large language models (LLMs). <br/>
+<br/>
+Whereas ChatGPT is foremost designed for versatility and scalability, Anthropic says its focus is on creating a "steerable" AI so that users can direct the model's style and content more effectively, thereby mitigating potential harmful outputs and biases from the outset.<br/>
+<br/>
+The AI company says its Claude iOS app features:<br/>
+<blockquote><ul><li>Seamless syncing with web chats: Pick up where you left off across devices.</li><br/>
+<li>Vision capabilities: Use photos from your library, take new photos, or upload files so you can have real-time image analysis, contextual understanding, and mobile-centric use cases on the go.</li><br/>
+<li>Open access: Users across all plans, including Pro and Team, can download the app free of charge.</li></ul></blockquote>According to Anthropic, early testers report that the Claude app is exceptional for brainstorming ideas on the go, getting quick answers to questions, or analyzing scenes and images from the real world. <br/>
+<br/>
+In March, Anthropic <a href="https://www.anthropic.com/news/claude-3-family">announced</a> that its Claude 3 language model surpassed ChatGPT and Google's Gemini in various critical industry benchmarks. According to the company, Claude 3 excelled in areas including graduate-level reasoning and multilingual math and coding, among other metrics. <br/>
+<br/>
+Anthropic also highlighted that their most advanced version of Claude 3, named Opus, demonstrated capabilities close to human level, particularly in delivering quick responses, making it well-suited for complex and urgent tasks.<br/>
+<br/>
+Claude for &zwnj;iPhone&zwnj; and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> is a free download available from the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. [<a href="https://apps.apple.com/app/claude/id6473753684">Direct Link</a>] Users can get 5x more Claude usage than its free plan allows and access Anthropic's most powerful model (Claude 3 Opus) by upgrading to a <a href="https://www.anthropic.com/claude">paid Pro plan</a>, which is &#36;20 per month.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/02/claude-ai-iphone-app-launch-anthropic/">Anthropic Announces Claude AI Chatbot App for iPhone and iPad</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/anthropic-announces-claude-ai-chatbot-app-for-iphone-and-ipad.2425307/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Watch AFib History Feature Qualified by FDA to Evaluate Medical Devices</title>
@@ -65,7 +301,7 @@ The DoJ has accused Google of having a monopoly on search, and in the lawsuit ag
 <br/>
 Google has been the default search engine on Apple devices since 2002, though the deal has been renegotiated several times. Apple and Google have worked to keep the terms of the search engine agreement under wraps during the trial and before, but it has been well known that Google is paying Apple <a href="https://www.macrumors.com/2023/10/11/google-pays-apple-billions-default-search/">billions per year</a>.<br/>
 <br/>
-Last October, Microsoft CEO Satya Nadella testified that the agreement between Apple and Google has made it impossible for search engines like Bing to compete. Microsoft at one point wanted Apple to buy Bing, but Apple <a href="https://www.macrumors.com/2023/09/28/microsoft-bing-acquisition-talks/">was not interested</a>. Microsoft blamed Google, but Apple's <a href="https://www.macrumors.com/guide/eddy-cue/">Eddy Cue</a> said that Aplple was concerned that Bing could not compete in "quality and capabilities." Cue claimed that Apple uses Google as the &zwnj;iPhone&zwnj;'s default search engine because Apple has "always thought it was the best."<br/>
+Last October, Microsoft CEO Satya Nadella testified that the agreement between Apple and Google has made it impossible for search engines like Bing to compete. Microsoft at one point wanted Apple to buy Bing, but Apple <a href="https://www.macrumors.com/2023/09/28/microsoft-bing-acquisition-talks/">was not interested</a>. Microsoft blamed Google, but Apple's <a href="https://www.macrumors.com/guide/eddy-cue/">Eddy Cue</a> said that Apple was concerned that Bing could not compete in "quality and capabilities." Cue claimed that Apple uses Google as the &zwnj;iPhone&zwnj;'s default search engine because Apple has "always thought it was the best."<br/>
 <br/>
 Google is the default search engine on Apple devices in most countries, but users can opt to swap to Yahoo, Bing, DuckDuckGo, and Ecosia as alternatives. Changing browser engines requires opening up the Safari settings.<br/>
 <br/>
@@ -412,158 +648,6 @@ Apple requires in-app purchase to be used for digital goods and services, and Ti
 TikTok coins would likely be considered tips, and Apple has forced other major social networks like Facebook to use in-app purchase for a creator tipping feature. What TikTok is doing is actually similar to the <a href="https://www.macrumors.com/2020/08/13/fornite-adds-direct-payment-option-on-ios/">direct purchase options</a> that <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a> added to the Fortnite app back in 2020, a move that ultimately led to the <a href="https://www.macrumors.com/2020/08/13/apple-removes-fortnite-from-app-store/">banning of the Fortnite app</a> and a multi-year legal battle.<br/>
 <br/>
 Most TikTok users are only able to purchase coins through the in-app purchase interface, and the option to purchase direct from TikTok with a credit or debit card is allegedly a feature showing up only for a small number of users. The option is perhaps being limited to those who have spent a lot of money on coins in the past.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/30/tiktok-app-store-rules-tips/">TikTok May Be Breaking App Store Rules by Avoiding Commissions on Tips</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tiktok-may-be-breaking-app-store-rules-by-avoiding-commissions-on-tips.2425220/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 17.5 Includes &#039;Repair State&#039; Option That Doesn&#039;t Require Turning Off Find My for Service</title>
-		<link>https://www.macrumors.com/2024/04/30/ios-17-5-repair-state/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-5-includes-repair-state-option-that-doesnt-require-turning-off-find-my-for-service.2425219/</comments>
-		<pubDate>Tue, 30 Apr 2024 13:24:29 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/30/ios-17-5-repair-state/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[With iOS 17.5, Apple is adding a "Repair State" feature that is designed to allow an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> to be sent in for service without deactivating <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a> and Activation Lock. The fourth iOS 17.5 beta that came out today adds a "Remove This Device" option for all devices in &zwnj;Find My&zwnj;, and using it with an &zwnj;iPhone&zwnj; puts that &zwnj;iPhone&zwnj; into the new Repair State.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/ios-17-5-repair-state.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-948810" /><br/>
-Right now, sending an &zwnj;iPhone&zwnj; to Apple to be repaired <a href="https://support.apple.com/en-us/109519">requires turning off Find My</a>, and Apple says that it "might not" be able to repair devices that have &zwnj;Find My&zwnj; activated. Turning off &zwnj;Find My&zwnj; disables Activation Lock, an important anti-theft security feature that prevents an &zwnj;iPhone&zwnj; from being used with another <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a>.<br/>
-<br/>
-Apple currently uses &zwnj;Find My&zwnj; and Activation Lock as a way to ensure that a person sending a device in for repair actually owns that device, and that it's not stolen. An &zwnj;iPhone&zwnj; sent in for repair with &zwnj;Find My&zwnj; disabled cannot be tracked, and it is not protected from theft, so if it is lost or stolen at some point in transit during the repair process, there is no recovery method available. Removing &zwnj;Find My&zwnj; also has a hitch with Stolen Device Protection, as there is an hour wait when turning off &zwnj;Find My&zwnj;, which can be inconvenient for repair purposes.<br/>
-<br/>
-The new repair state leaves &zwnj;Find My&zwnj; turned on, so Activation Lock remains enabled, and the &zwnj;iPhone&zwnj; continues to be trackable with the &zwnj;Find My&zwnj; app while it is being repaired. When enabled, the device in the repair state has a "Ready for Repair" label. "This device remains fully functional in the repair state," reads the text.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/ios-17-5-repair-state-icon.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-948812" /><br/>
-In the list of devices, an &zwnj;iPhone&zwnj; put into a repair state has a small stethoscope icon, and it can be marked as lost. While in repair state, the &zwnj;iPhone&zwnj; is fully functional.<br/>
-<br/>
-As of right now, using the "Remove This Device" option in &zwnj;Find My&zwnj; to enable a repair state appears to be limited to the &zwnj;iPhone&zwnj;. Using it on other devices like an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, Mac, or Apple Watch shows a warning that the feature will remove the device from the &zwnj;Apple ID&zwnj; account, allowing it to be used by someone else. Note that an &zwnj;iPhone&zwnj; must be online and trackable through &zwnj;Find My&zwnj; for the repair state option to pop up. An &zwnj;iPhone&zwnj; that is offline will display the standard removal text. It is also worth noting that repair state cannot be disabled at the current time.<br/>
-<br/>
-Repair state is a feature that is still in development, so it might work with other devices when iOS 17.5 and its sister updates launch in May.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/30/ios-17-5-repair-state/">iOS 17.5 Includes &#039;Repair State&#039; Option That Doesn&#039;t Require Turning Off Find My for Service</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-5-includes-repair-state-option-that-doesnt-require-turning-off-find-my-for-service.2425219/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases New Firmware for USB-C Apple Pencil</title>
-		<link>https://www.macrumors.com/2024/04/30/apple-releases-usb-c-apple-pencil-firmware/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-new-firmware-for-usb-c-apple-pencil.2425217/</comments>
-		<pubDate>Tue, 30 Apr 2024 12:41:38 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/30/apple-releases-usb-c-apple-pencil-firmware/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Pencil</category>
-		
-
-		<description><![CDATA[Apple today released a firmware update for the USB-C <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> that came out last year. The new firmware has a version number of 10M6060, up from 10M5164. On device, the updated firmware version number will be 37377.37377.16.0.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-917176" src="https://images.macrumors.com/article-new/2023/10/Apple-Pencil-USB-C-sliding-cap-feature.jpg" alt="" width="1960" height="1102" /><br/>
-There is no word on what features, fixes, or updates might be included in the new firmware, and Apple does not offer release notes for &zwnj;Apple Pencil&zwnj; software releases.<br/>
-<br/>
-The USB-C &zwnj;Apple Pencil&zwnj; is nearly identical in design to the &zwnj;Apple Pencil&zwnj; 2, but it is shorter and has a hidden USB-C port for charging and pairing. It cannot wirelessly charge, and it lacks some of the features available with the more expensive &zwnj;Apple Pencil&zwnj; models such as pressure sensitivity.<br/>
-<br/>
-Apple does not have an established procedure for updating &zwnj;Apple Pencil&zwnj; hardware, but in the case of the USB-C &zwnj;Apple Pencil&zwnj;, connecting it to an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> with a USB-C cable and powering on the &zwnj;iPad&zwnj; should be enough to spur the update to download.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad-accessories.139">iPad Accessories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/30/apple-releases-usb-c-apple-pencil-firmware/">Apple Releases New Firmware for USB-C Apple Pencil</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-firmware-for-usb-c-apple-pencil.2425217/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>What to Expect From Apple&#039;s Earnings Report This Week Following Vision Pro Launch</title>
-		<link>https://www.macrumors.com/2024/04/30/apple-q2-2024-earnings-preview/</link>
-		<comments>https://forums.macrumors.com/threads/what-to-expect-from-apples-earnings-report-this-week-following-vision-pro-launch.2425216/</comments>
-		<pubDate>Tue, 30 Apr 2024 12:39:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/30/apple-q2-2024-earnings-preview/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Earnings</category>
-		<category>AAPL</category>
-		
-
-		<description><![CDATA[Apple will report its earnings results for the second quarter of its 2024 fiscal year <a href="https://www.macrumors.com/2024/04/04/apple-to-report-earnings-on-may-2/">on Thursday, May 2</a> at 1:30 p.m. Pacific Time. Apple's CEO Tim Cook and CFO Luca Maestri will discuss the results on a conference call with analysts a half hour later.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Blue-Magenta.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-898550" /><br/>
-Keep reading for some key things to know about the quarter, including a recap of new products announced, revenue expectations, and more.<br/>
-<br/>
-<h2>New Products During Quarter</h2><br/>
-The quarter ran from December 31, 2023 through March 30, 2024, according to Apple's fiscal calendar. The following products launched during this period:<ul><li>Apple Vision Pro</li><br/>
-<li>13-inch MacBook Air with M3 chip</li><br/>
-<li>15-inch MacBook Air with M3 chip</li></ul><h2>Revenue Expectations</h2><br/>
-Apple has not provided formal revenue guidance since before the COVID-19 pandemic, but the average Wall Street estimate for Apple's second quarter revenue is &#36;90 billion, according to <a href="https://www.zacks.com/stock/news/2264410/should-you-buy-apple-aapl-stock-ahead-of-q2-earnings">Zacks Investment Research</a>. This would be around a 5% decline compared to the &#36;94.8 billion revenue the company reported <a href="https://www.macrumors.com/2023/05/04/apple-2q-2023-earnings/">in the year-ago quarter</a>.<br/>
-<br/>
-Maestri provided the following commentary on Apple's earnings call last quarter:<blockquote>As a reminder, in the December quarter a year ago, we faced significant supply constraints on the iPhone 14 Pro and 14 Pro Max due to COVID-19 factory shutdowns. And in the March quarter a year ago, we were able to replenish channel inventory and fulfill significant pent-up demand from the constraints. We estimate that this impact added close to &#36;5 billion to the March quarter's total revenue last year. When we remove this impact from last year's revenue, we expect both our March quarter total company revenue and iPhone revenue to be similar to a year ago.</blockquote><h2>Conference Call</h2><br/>
-Cook and Maestri will hold a conference call at 2:00 p.m. Pacific Time on Thursday to discuss the company's quarterly earnings results. The call should last around one hour, and it will include a Q&A segment with analysts.<br/>
-<br/>
-A live audio stream of the conference call will be available on <a href="https://www.apple.com/investor/earnings-call/">Apple's Investor Relations page</a>, and a recording will be available later in the day for replay.<br/>
-<br/>
-<h2>What's Next</h2><br/>
-Apple's current quarter runs through June 29. Apple has yet to announce any new products during the quarter, but it is expected to unveil new versions of the iPad Pro, iPad Air, Apple Pencil, and Magic Keyboard at its <a href="https://www.macrumors.com/2024/04/23/apple-event-let-loose-may-7/">"Let Loose" event on May 7</a>.<br/>
-<br/>
-AAPL is trading above &#36;172 as of writing, down from a 52-week high of &#36;199.62.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/earnings/">Earnings</a>, <a href="https://www.macrumors.com/guide/aapl/">AAPL</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/30/apple-q2-2024-earnings-preview/">What to Expect From Apple&#039;s Earnings Report This Week Following Vision Pro Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/what-to-expect-from-apples-earnings-report-this-week-following-vision-pro-launch.2425216/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18 Rumored to Add New Features to These 15 Apps on Your iPhone</title>
-		<link>https://www.macrumors.com/2024/04/30/ios-18-rumor-recap-for-apps/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-rumored-to-add-new-features-to-these-15-apps-on-your-iphone.2425212/</comments>
-		<pubDate>Tue, 30 Apr 2024 10:44:40 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/30/ios-18-rumor-recap-for-apps/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple is expected to announce <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> during its <a href="https://www.macrumors.com/2024/03/26/apple-announces-wwdc-2024/">WWDC keynote on June 10</a>, and new features have already been rumored for many apps, including Apple Music, Apple Maps, Calculator, Messages, Notes, Safari, and others.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/iOS-18-Apple-Music-Messages-and-Notes-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-948782" /><br/>
-Below, we recap iOS 18 rumors on a per-app basis, based on reports from <em>MacRumors</em>, <em>Bloomberg</em>'s Mark Gurman, and others:<br/>
-<br/>
-<ul><li><strong>Apple Maps:</strong> At least two new Apple Maps features are expected on iOS 18, including <a href="https://www.macrumors.com/2024/03/26/apple-maps-custom-routes-ios-18/">custom routes</a> and <a href="https://www.macrumors.com/2024/03/27/ios-18-topographic-maps/">topographic maps</a>. Custom routes would allow users to choose specific roads to travel on while navigating, while topographic maps include details such as trails, contour lines, elevation, and points of interest for hiking. Topographic maps were added to the Apple Watch with watchOS 10.</li><br/>
-<li><strong>Apple Music:</strong> With iOS 18, Apple Music will reportedly be able to <a href="https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/">auto-generate playlists</a>.</li><br/>
-<li><strong>Calculator:</strong> iOS 18, iPadOS 18, and macOS 15 are rumored to feature a <a href="https://www.macrumors.com/2024/04/19/macos-15-revamped-calculator-app/">revamped Calculator app with several new features</a>, including a sidebar that lists recent calculations, an improved interface for converting units, integration with the Notes app, and more. That means the <a href="https://www.macrumors.com/2024/04/23/calculator-app-for-ipad-rumor/">Calculator app will finally be available on iPads</a>.</li><br/>
-<li><strong>Freeform:</strong> iOS 18 is rumored to <a href="https://www.macrumors.com/2024/03/11/ios-18-macos-15-freeform-app-scenes/">add a new "Scenes" option to Apple's drawing app Freeform</a>. This feature would allow users to select specific sections ("scenes") on the canvas for easier navigation.</li><br/>
-<li><strong>Health:</strong> Apple is reportedly planning new AI-powered features <a href="https://www.bloomberg.com/news/articles/2024-02-15/apple-s-ai-plans-github-copilot-rival-for-developers-tool-for-testing-apps">for its Health app</a>, but no specific details are known yet.</li><br/>
-<li><strong>Keynote, Numbers, and Pages:</strong> Alongside iOS 18, Apple reportedly plans to update its iWork suite of productivity apps with new generative AI features for <a href="https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/">auto-generating slides in Keynote, writing faster in Pages, and more</a>.</li><br/>
-<li><strong>Mail, Photos, and Fitness:</strong> These apps will reportedly be <a href="https://www.macrumors.com/2024/04/28/ios-18-notes-mail-photos-fitness-rumors/">"overhauled" with iOS 18</a>, but no specific details are known yet.</li><br/>
-<li><strong>Messages:</strong> iOS 18 is expected to <a href="https://www.macrumors.com/2023/11/16/apple-to-adopt-rcs-messaging-standard/">add RCS support to the Messages app</a>, which will improve the messaging experience between iPhones and Android devices by allowing for higher-resolution photos and videos, audio messages, typing indicators, read receipts, Wi-Fi messaging, and more. It has also been rumored that the Messages app will <a href="https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/">use generative AI to auto-complete sentences</a> more effectively.</li><br/>
-<li><strong>Notes:</strong> With iOS 18, the Notes app is expected to <a href="https://www.macrumors.com/2024/04/17/ios-18-notes-app-voice-memos-math-rumors/">be able to display mathematical notation</a>, allowing users to include more types of algebraic equations and formulas in notes. The app is also rumored to gain a built-in audio recording tool, eliminating the need to switch over to the Voice Memos app.</li><br/>
-<li><strong>Safari:</strong> iOS 18 is likely to <a href="https://www.macrumors.com/2024/04/10/ios-18-safari-browsing-assistant-rumor/">add a browsing assistant to Safari</a>, which could <a href="https://www.macrumors.com/2024/04/30/safari-ai-features-coming-in-ios-18/">summarize web pages and more</a>. A new "Web Eraser" feature that would allow users to remove certain elements from web pages has also been rumored.</li><br/>
-<li><strong>Shortcuts:</strong> With iOS 18, users will reportedly be able to <a href="https://www.macrumors.com/2023/09/06/ios-18-siri-improvements/">automate complex tasks more easily</a> with the Shortcuts app.</li></ul>While they are not dedicated apps, it has also been rumored that generative AI technology will allow the iPhone's virtual assistant Siri and built-in search tool Spotlight to <a href="https://www.macrumors.com/2024/02/16/ios-18-slew-of-new-ai-features/">respond to more complex questions and search queries</a>.<br/>
-<br/>
-For even more rumors, read our <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18 roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/30/ios-18-rumor-recap-for-apps/">iOS 18 Rumored to Add New Features to These 15 Apps on Your iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-rumored-to-add-new-features-to-these-15-apps-on-your-iphone.2425212/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Fourth Betas of iOS 17.5 and iPadOS 17.5 to Developers [Update: Public Beta Available]</title>
-		<link>https://www.macrumors.com/2024/04/30/ios-17-5-beta-4-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-betas-of-ios-17-5-and-ipados-17-5-to-developers-update-public-beta-available.2425207/</comments>
-		<pubDate>Tue, 30 Apr 2024 10:18:26 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/30/ios-17-5-beta-4-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple today seeded the fourth betas of upcoming iOS 17.5 and iPadOS 17.5 updates to developers for testing purposes, with the software coming a week after Apple <a href="https://www.macrumors.com/2024/04/23/apple-seeds-ios-17-5-beta-3-to-developers/">released the third betas</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.5-Feature-Orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-943813" /><br/>
-Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
-<br/>
-Most of the features that Apple promised would be coming in &zwnj;iOS 17&zwnj; have now been released, but iOS 17.5 adds additional app ecosystem changes in the European Union. App developers can offer apps for download on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> <a href="https://www.macrumors.com/2024/04/16/ios-17-5-app-web-downloads-eu/">directly from their websites</a>, in addition to through app marketplaces.<br/>
-<br/>
-There are also code changes that hint at new Apple Pencils and a Battery Health feature for the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, with more information on what's new available in our <a href="https://www.macrumors.com/2024/04/03/everything-new-in-ios-17-5-beta-1/">iOS 17.5 beta features post</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/30/ios-17-5-beta-4-developers/">Apple Seeds Fourth Betas of iOS 17.5 and iPadOS 17.5 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-betas-of-ios-17-5-and-ipados-17-5-to-developers-update-public-beta-available.2425207/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Fourth Beta of macOS Sonoma 14.5 to Developers [Update: Public Beta Available]</title>
-		<link>https://www.macrumors.com/2024/04/30/macos-sonoma-14-5-beta-4-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-macos-sonoma-14-5-to-developers-update-public-beta-available.2425208/</comments>
-		<pubDate>Tue, 30 Apr 2024 10:17:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/04/30/macos-sonoma-14-5-beta-4-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sonoma</category>
-		
-
-		<description><![CDATA[Apple today seeded the fourth beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.5 update to developers, with the software coming a week after Apple <a href="https://www.macrumors.com/2024/04/23/apple-seeds-macos-sonoma-14-5-beta-3/">released the third beta</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
-Registered developers can opt in to the beta through the Software Update section of the System Settings app. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
-<br/>
-We don't yet know what is included in &zwnj;macOS Sonoma&zwnj; 14.5, and no new features were found in the first three developer betas. Fresh release candidate versions of macOS Ventura 13.6.7 and macOS Monterey 12.7.5 have also been seeded to developers.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/04/30/macos-sonoma-14-5-beta-4-developers/">Apple Seeds Fourth Beta of macOS Sonoma 14.5 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-macos-sonoma-14-5-to-developers-update-public-beta-available.2425208/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
