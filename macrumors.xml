@@ -14,12 +14,61 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 13 May 2024 01:03:23 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 13 May 2024 05:04:13 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Gamma Emulator Brings Classic PS1 Gaming to iPhone and iPad</title>
+		<link>https://www.macrumors.com/2024/05/13/gamma-ps1-emulator-released-iphone/</link>
+		<comments>https://forums.macrumors.com/threads/gamma-emulator-brings-classic-ps1-gaming-to-iphone-and-ipad.2426173/</comments>
+		<pubDate>Mon, 13 May 2024 04:15:08 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/gamma-ps1-emulator-released-iphone/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[<a href="https://apps.apple.com/us/app/gamma-game-emulator/id6499106870?platform=iphone">Gamma</a>, a new emulator for playing classic PlayStation 1 games on iPhone and iPad, has just hit the App Store. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/gamma-emulator-ios.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-950357" /><br/>
+Developed by Benjamin Stark, aka ZodTTD, Gamma features customizable onscreen controller skins, and includes support for Bluetooth controllers as well as wired and non-wired keyboards.<br/>
+<br/>
+Similar to the fantastically popular <a href="https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/">Delta emulator</a>, the Gamma app uses third-party cloud syncing services for backing up game files and save states, and also downloads game cover artwork. <br/>
+<br/>
+Fortunately for PS1 fans, Gamma does not require BIOS files to run games, although some users have reported a few issues getting some ROMs to run smoothly, but bug fixes are likely coming soon. Stark is a veteran of the emulator field and has been making retro game emulators on mobile for over 15 years.<br/>
+<br/>
+It's worth noting that while Gamma is free to download and contains no iAPs (as per <a href="https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/">Apple's emulator rules</a>) its <a href="https://apps.apple.com/us/app/gamma-game-emulator/id6499106870?platform=iphone">App Store page</a> says that it collects identifiers that can be used to track you, and may collect location and usage data. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/gamma-ps1-emulator-released-iphone/">Gamma Emulator Brings Classic PS1 Gaming to iPhone and iPad</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/gamma-emulator-brings-classic-ps1-gaming-to-iphone-and-ipad.2426173/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Wrapping Up OpenAI Deal to Bring ChatGPT Features to iOS 18</title>
+		<link>https://www.macrumors.com/2024/05/13/apple-finalizing-deal-openai-chatgpt-ios-18/</link>
+		<comments>https://forums.macrumors.com/threads/apple-wrapping-up-openai-deal-to-bring-chatgpt-features-to-ios-18.2426171/</comments>
+		<pubDate>Mon, 13 May 2024 03:14:38 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/apple-finalizing-deal-openai-chatgpt-ios-18/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		<category>Bloomberg</category>
+		<category>Artificial Intelligence</category>
+		<category>ChatGPT</category>
+		<category>Apple GPT</category>
+		
+
+		<description><![CDATA[Apple has closed in on a deal with OpenAI that should see ChatGPT being used to power new features in its next iPhone operating system, according to <em>Bloomberg</em>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/iOS-18-WWDC-24-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-944197" /><br/>
+In a <a href="https://www.bloomberg.com/news/articles/2024-05-11/apple-closes-in-on-deal-with-openai-to-put-chatgpt-on-iphone">report</a> over the weekend, <em>Bloomberg</em> claimed that the two companies have been "finalizing terms for a pact to use ChatGPT features in Apple's iOS 18." How the popular chatbot would integrate with Apple's software is not yet known. <br/>
+<br/>
+The agreement would see ChatGPT become another tool in a range of AI features that Apple is expected to bring to iPhones. Apple is also said to be in <a href="https://www.macrumors.com/2024/03/18/apple-google-gemini-ios-18-iphone/">ongoing talks</a> with Google to license its Gemini chatbot, but those discussions have not reportedly led to an agreement. Apple is known to have been in talks with OpenAI since <a href="https://www.macrumors.com/2024/03/21/apple-iphone-ai-talks-google-openai-ongoing/">February</a>.<br/>
+<br/>
+Apple at its annual Worldwide Developers Conference next month is expected to announce <a href="https://www.macrumors.com/2023/11/13/apple-says-ios-18-ambitious-compelling/">several AI features</a> coming to iOS 18, which is said to be one of the biggest upgrades to the iPhone operating system in years. According to Haitong analyst Jeff Pu, Apple plans to run some of the features on data servers <a href="https://www.macrumors.com/2024/05/06/apple-building-m2-ultra-and-m4-servers/">powered by its own in-house chips</a>.<br/>
+<br/>
+Apple CEO Tim Cook confirmed in <a href="https://www.macrumors.com/2024/02/28/tim-cook-apple-generative-ai-break-new-ground/">February</a> that Apple plans to "break new ground" in AI. <em>Bloomberg</em> reporter Mark Gurman has previously <a href="https://www.macrumors.com/2023/03/15/apple-engineers-working-on-chatgpt-like-ai/">reported</a> that Apple is also working on its own chatbot tool that some engineers have dubbed "Apple GPT" to rival OpenAI's ChatGPT.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/artificial-intelligence/">Artificial Intelligence</a>, <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a>, <a href="https://www.macrumors.com/guide/apple-gpt/">Apple GPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/apple-finalizing-deal-openai-chatgpt-ios-18/">Apple Wrapping Up OpenAI Deal to Bring ChatGPT Features to iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-wrapping-up-openai-deal-to-bring-chatgpt-features-to-ios-18.2426171/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Best Apple Deals of the Week: First Discounts Hit M4 iPad Pro Alongside Sales on AirPods, MacBooks, and More</title>
@@ -592,108 +641,6 @@ The Combo Touch comes with a detachable keyboard and flexible kickstand for mult
 There is a multi-touch trackpad, which Logitech says offers intuitive and precise input and navigation. There are auto-backlit keys in a standard layout with sixteen brightness levels. Shortcut keys allow easy access to volume control, media playback, screenshots, and more, plus there is a <a href="https://www.macrumors.com/guide/smart-connector/">Smart Connector</a> for connectivity so there's no need for Bluetooth.<br/>
 <br/>
 The Combo Touch for the 11-inch &zwnj;iPad Air&zwnj; is &#36;200, while the Combo Touch for the 13-inch model is &#36;230. The &zwnj;iPad Pro&zwnj; versions are priced at &#36;230 and &#36;260, respectively, for the 11-inch and 13-inch models. The keyboards can be <a href="https://www.logitech.com/en-us/products/ipad-keyboards/combo-touch-ipad-learn.html">purchased from the Logitech website</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/09/logitech-launches-keyboard-cases-for-new-ipad-air-and-ipad-pro-models/">Logitech Launches Keyboard Cases for New iPad Air and iPad Pro Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/logitech-launches-keyboard-cases-for-new-ipad-air-and-ipad-pro-models.2425889/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Pencil Pro: All the New Features</title>
-		<link>https://www.macrumors.com/2024/05/09/apple-pencil-pro-features/</link>
-		<comments>https://forums.macrumors.com/threads/apple-pencil-pro-all-the-new-features.2425881/</comments>
-		<pubDate>Thu, 09 May 2024 10:03:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/09/apple-pencil-pro-features/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>Apple Pencil</category>
-		
-
-		<description><![CDATA[Apple this week debuted the <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> Pro, marking the first major revision to the &zwnj;Apple Pencil&zwnj; lineup since the 2018 launch of the &zwnj;Apple Pencil&zwnj; 2. There are some major changes that were introduced with the new accessory, including new gestures and capabilities.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/Apple-Pencil-Pro-Newsroom.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-949489" /><br/>
-<h2>Squeeze</h2><br/>
-The squeeze gesture allows the &zwnj;Apple Pencil&zwnj; Pro to sense when pressure is applied to the sides of the device. Using squeeze brings up a palette so that you can do things like switch tools, line weights, and colors.<br/>
-<br/>
-Developers can customize how apps react to the squeeze gesture so it can bring up custom controls in each app.<br/>
-<br/>
-<h2>Barrel Roll</h2><br/>
-There is a gyroscope in the &zwnj;Apple Pencil&zwnj; Pro that allows the rotation of the barrel to change the orientation of certain tools. It basically offers much more precise control of shaped pen and brush tools, similar to how a real pen or brush would function when you tilt it while drawing or sketching.<br/>
-<br/>
-<h2>Haptic Feedback</h2><br/>
-A built-in haptic engine offers haptic feedback when using the &zwnj;Apple Pencil&zwnj; Pro's gestures. A light haptic pulse will respond when using a squeeze or double-tap gesture, plus there is feedback when using the snap to a Smart Shape feature.<br/>
-<br/>
-<h2>Find My</h2><br/>
-<a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a> is available for the &zwnj;Apple Pencil&zwnj; Pro so it can be tracked right alongside the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> and other devices in the &zwnj;Find My&zwnj; app.<br/>
-<br/>
-<h2>Charging and Pairing</h2><br/>
-The &zwnj;Apple Pencil&zwnj; Pro attaches to the side of the <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> or the <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a>, and the magnetic connection enables automatic pairing and charging. There is a new magnetic interface that is available on the 2024 &zwnj;iPad Pro&zwnj; models.<br/>
-<br/>
-<h2>Existing Features</h2><br/>
-Current &zwnj;Apple Pencil&zwnj; features like &zwnj;Apple Pencil&zwnj; hover and double tap are supported. Hover lets you preview where the &zwnj;Apple Pencil&zwnj; will touch down on the display before a mark is made, while double tap can be used for swapping between tools.<br/>
-<br/>
-Low latency, tilt sensitivity, and pressure sensitivity are all included features.<br/>
-<br/>
-<h2>Compatibility</h2><br/>
-The &zwnj;Apple Pencil&zwnj; Pro is compatible with the <a href="https://www.macrumors.com/guide/m2/">M2</a> &zwnj;iPad Air&zwnj; models and the M4 &zwnj;iPad Pro&zwnj; models, so it only works with the May 2024 iPads.<br/>
-<br/>
-<h2>Price</h2><br/>
-The &zwnj;Apple Pencil&zwnj; Pro is priced at &#36;129, which is also the cost of the &zwnj;Apple Pencil&zwnj; 2.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad-accessories.139">iPad Accessories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/09/apple-pencil-pro-features/">Apple Pencil Pro: All the New Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-pencil-pro-all-the-new-features.2425881/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>10 Reasons to Wait for Next Year&#039;s iPhone 17</title>
-		<link>https://www.macrumors.com/2024/05/09/10-reasons-to-wait-iphone-17/</link>
-		<comments>https://forums.macrumors.com/threads/10-reasons-to-wait-for-next-years-iphone-17.2425877/</comments>
-		<pubDate>Thu, 09 May 2024 09:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/09/10-reasons-to-wait-iphone-17/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPhone 17</category>
-		
-
-		<description><![CDATA[Apple's iPhone development roadmap runs several years into the future and the company is continually working with suppliers on several successive iPhone models concurrently, which is why we sometimes get rumored feature leaks so far ahead of launch. The iPhone 17 series is no different, and already we have some idea of what to expect from Apple's 2025 smartphone lineup.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/04/Beyond-iPhone-13-Better-Blue-Face-ID-Single-Camera-Hole.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-891051" /><br/>
-If you plan to skip this year's iPhone 16, or if you're just plain curious about what's on the horizon, here are 10 rumored features that we are expecting to arrive in time for its successor, the iPhone 17 series, which is likely to be released in September 2025.<br/>
-<br><br/>
-<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">1. Under-Display Face ID</span><br><br/>
-<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">iPhone 17 Pro & iPhone 17 Pro Max</span><br><br/>
-The iPhone 17 Pro is <a href="https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/">expected</a> to be the first ‌iPhone‌ to feature under-panel Face ID technology. The only external indication of the under-display ‌Face ID‌ technology will likely be a circular cutout for the front-facing camera. This will probably be Apple's last premium model to include a circular cutout for the front-facing camera. Apple is then <a href="https://www.macrumors.com/2023/12/06/iphone-under-display-camera/">expected</a> adopt under-display cameras in 2027's "Pro" ‌iPhone‌ models for a true "all-screen" appearance.<br/>
-<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;"><br/>
-    2. New Display Sizes</span><br><br/>
-<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">iPhone 17 & iPhone 17 Plus</span><br><br/>
-This year's iPhone 16 Pro and iPhone 16 Pro Max are <a href="https://www.macrumors.com/2023/05/30/iphone-16-pro-to-feature-taller-aspect-ratio/">rumored</a> to be getting bigger display sizes, going from 6.12- and 6.69-inches to 6.27- and 6.86-inches, respectively. For 2025, Apple is also expected to bring the larger 6.27-inch display size to its standard ‌iPhone‌ model, while the equivalent "iPhone 17 Plus" model could adopt <a href="https://www.macrumors.com/2024/05/06/iphone-17-slim-rumor/">completely new display dimensions</a>. <br/>
-<br/>
-<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;"><br/>
-    3. 120Hz ProMotion (Always-on Display)</span><br><br/>
-<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">iPhone 17 & iPhone 17 Plus</span><br><br/>
-Apple intends to <a href="https://www.macrumors.com/2023/04/03/promotion-standard-iphones-2025/">expand</a> ProMotion to its standard models in 2025, allowing them to ramp up to a 120Hz refresh rate for smoother scrolling and video content when necessary. Notably, ProMotion would also enable the display on the iPhone 17 and iPhone 17 Plus to ramp down to a more power-efficient refresh rate as low as 1Hz, allowing for an always-on display that can show the Lock Screen's clock, widgets, notifications, and wallpaper even when the device is locked.<br/>
-<br/>
-<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">4. Apple-Designed Wi-Fi 7 Chip</span><br><br/>
-<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">iPhone 17 Pro & iPhone 17 Pro Max</span><br><br/>
-Apple's premium 2025 models are <a href="https://www.macrumors.com/2023/12/15/iphone-17-pro-apple-wifi-7-chip-rumor/">expected</a> to be equipped with an Apple-designed Wi-Fi 7 chip for the first time. Wi-Fi 7 support would allow the "Pro" models to send and receive data over the 2.4GHz, 5GHz, and 6GHz bands simultaneously with a supported router, resulting in faster Wi-Fi speeds, lower latency, and more reliable connectivity. The Wi-Fi chip would also allow Apple to further reduce its dependance on external suppliers like Broadcom, which currently supplies Apple with a combined Wi-Fi and Bluetooth chip for iPhones.<br/>
-<br/>
-<br/>
-<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">5. 48MP Telephoto Lens</span><br><br/>
-<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">iPhone 17 Pro Max</span><br><br/>
-An upgraded 48-megapixel Telephoto lens on Apple's largest premium device is <a href="https://www.macrumors.com/2023/12/15/iphone-17-pro-max-48mp-telephoto-lens-rumor/">expected</a> to be optimized for use with Apple's upcoming Vision Pro headset, which launches on February 2, 2024. (The current iPhone 15 Pro models feature 48-megapixel main, 12-megapixel ultra wide, and 12-megapixel telephoto lenses.) That would make 2025's "Pro Max" the first iPhone to have a rear camera system composed entirely of 48-megapixel lenses, making it capable of capturing even more photographic detail.<br/>
-<br/>
-<br/>
-<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">6. 24MP Selfie Camera</span><br><br/>
-<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">All iPhone 17 Models</span><br><br/>
-The iPhone 17 lineup will feature a <a href="https://www.macrumors.com/2024/01/04/kuo-iphone-17-to-feature-24mp-front-facing-camera/">24-megapixel front-facing camera</a> with a six-element lens, according to one rumor. The iPhone 14 and 15 feature a 12-megapixel front-facing camera with five plastic lens elements, and this year's iPhone 16 lineup is expected to feature the same hardware. The upgraded resolution to 24 megapixels on the iPhone 17 will allow photos to maintain their quality even when cropped or zoomed in, while the larger number of pixels will capture finer details. The upgrade to a six-element lens should also slightly enhance image quality. <br/>
-<br/>
-<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">7. Scratch Resistant Anti-Reflective Display</span><br><br/>
-<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">All iPhone 17 Models</span><br><br/>
-The iPhone 17 will feature an anti-reflective display that is more scratch-resistant than Apple's Ceramic Shield found on iPhone 15 models, <a href="https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/">according to one rumor</a>. The outer glass on the iPhone 17 is said to have a "super-hard anti-reflective layer" that is "more scratch-resistant." It's not clear whether Apple is planning to adopt the Gorilla Glass Armor that Samsung uses in its Galaxy S24 Ultra, but the description of Corning's latest technology matches the rumor.<br/>
-<br/>
-<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">8. More Memory</span><br><br/>
-<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">iPhone 17 Pro & iPhone 17 Pro Max</span><br><br/>
-Apple's Pro models next year will come with 12GB of RAM, claims <a href="https://www.macrumors.com/2024/05/06/iphone-17-pro-12gb-ram-rumor/">Jeff Pu</a> of investment firm Haitong. For comparison, the iPhone 15 Pro models have 8GB of RAM, while the iPhone 16 Pro models are also expected to have 8GB of RAM. Any such increase would allow for improved multitasking on the iPhone, as well as provide additional resources for any artificial intelligence features that require large-language models to be resident in memory.<br/>
-<br/>
-<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">9. Smaller Dynamic Island</span><br><br/>
-<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">iPhone 17 Pro Max</span><br><br/>
-Apple's highest-end 2025 iPhone will feature a significantly narrower Dynamic Island, thanks to the device's adoption of a smaller "metalens" for the Face ID system, <a href="https://www.macrumors.com/2024/05/06/iphone-17-pro-12gb-ram-rumor/">claims</a> Haitong's Jeff Pu. Assuming that's the case, it would be the first time that Apple has changed the Dynamic Island since it debuted on the iPhone 14 Pro in 2022.<br/>
-<br/>
-<span style="font-weight: bold; font-size: 18px; color: #4A90E2; margin-top: 2px;">10. iPhone 17 "Slim" </span><br><br/>
-<span style="font-weight: bold; font-size: 14px; color: #FFFFFF; background-color: #4A90E2; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">iPhone 17 Plus</span><br><br/>
-Apple's iPhone 17 Plus will feature a 6.55-inch display, according to analyst Ross Young of Display Supply Chain Consultants (DSCC). Responding to a claim by Jeff Pu that the ‌iPhone‌ 17 Plus will be replaced by an "<a href="https://www.macrumors.com/2024/05/06/iphone-17-slim-rumor/">iPhone 17 Slim,</a>" Young <a href="https://www.macrumors.com/2024/05/06/iphone-17-slim-to-feature-6-55-inch-display/">said</a> to expect a reduction of 2% over the previous, current, and next-generation models. Based on his logic, a smaller display would help differentiate the larger ‌iPhone‌ 17 model from the ‌iPhone‌ 17 Pro Max, while remaining larger than the ‌iPhone‌ 17 and ‌iPhone‌ 17 Pro.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/09/10-reasons-to-wait-iphone-17/">10 Reasons to Wait for Next Year&#039;s iPhone 17</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/10-reasons-to-wait-for-next-years-iphone-17.2425877/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
