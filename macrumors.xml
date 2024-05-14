@@ -14,12 +14,262 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 14 May 2024 05:04:48 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 14 May 2024 09:03:18 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>New iPad Pro and iPad Air Will Have Day-One Software Update With These Release Notes</title>
+		<link>https://www.macrumors.com/2024/05/14/new-ipad-pro-and-ipad-air-day-one-update/</link>
+		<comments>https://forums.macrumors.com/threads/new-ipad-pro-and-ipad-air-will-have-day-one-software-update-with-these-release-notes.2426305/</comments>
+		<pubDate>Tue, 14 May 2024 07:54:34 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/14/new-ipad-pro-and-ipad-air-day-one-update/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[The new iPad Pro and iPad Air will begin arriving to customers over the next 24 hours. It appears that the initial batch of the devices will have a <a href="https://twitter.com/aaronp613/status/1790190359445655828">special build of iPadOS 17.4 preinstalled</a>, but an <a href="https://twitter.com/aaronp613/status/1790188873697362295">iPadOS 17.5 software update will be available</a> in the Settings app right away, according to <em>MacRumors</em> contributor <a href="https://www.macrumors.com/author/aaron-perris/">Aaron Perris</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/M4-iPad-Pro-and-Air-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950313" /><br/>
+iPadOS 17.5 has a special build number of 21F84 on the new iPads, and modified release notes that mention improved document scanning:<blockquote>Apple News+<br/>
+• Offline mode in Apple News+ gives you access to the Today feed and News+ tab, even when you don't have an internet connection<br/>
+• Quartiles is a new and original daily word game that is now available in Apple News+<br/>
+• Scoreboard in News+ Puzzles gives you access to new player data for Crossword, Mini Crossword and Quartiles, including stats and streaks<br/>
+<br/>
+Tracking Notifications<br/>
+• Cross-Platform Tracking Detection delivers notifications to users if a compatible Bluetooth tracker they do not own is moving with them, regardless of what operating system the device is paired with<br/>
+<br/>
+Document Scanning<br/>
+• Document scanning is improved on the new iPad Air and iPad Pro</blockquote>The new iPad Pro models with the M4 chip are equipped with "adaptive True Tone flash" for improved document scanning. It is unclear if the feature requires iPadOS 17.5, or if the update simply further optimizes the functionality.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/iPad-Pro-Improved-Document-Scanning.jpg" alt="" width="5100" height="2868" class="aligncenter size-full wp-image-950698" /><br/>
+With adaptive True Tone flash and AI, the new iPad Pro can eliminate shadows on scanned documents, as Apple explained in a press release:<blockquote>It also now features a new adaptive True Tone flash that makes document scanning on the new iPad Pro better than ever. Using AI, the new iPad Pro automatically identifies documents right in the Camera app, and if a shadow is in the way, it instantly takes multiple photos with the new adaptive flash, stitching the scan together for a dramatically better scan.</blockquote>Improved document scanning will be available in the Camera, Files, and Notes apps, and third-party apps will be able to offer the feature too.<br/>
+<br/>
+The new iPad Air does not have adaptive True Tone flash, so it is unclear how document scanning is improved on those models, as Apple indicates.<br/>
+<br/>
+iPadOS 17.5 was <a href="https://www.macrumors.com/2024/05/13/apple-releases-ios-17-5/">already released on Monday</a> for all other iPads, with a build number of 21F79 and no mention of improved document scanning.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/14/new-ipad-pro-and-ipad-air-day-one-update/">New iPad Pro and iPad Air Will Have Day-One Software Update With These Release Notes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-ipad-pro-and-ipad-air-will-have-day-one-software-update-with-these-release-notes.2426305/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 17.5 Includes These 15 Security Fixes, But One Causes Another Bug</title>
+		<link>https://www.macrumors.com/2024/05/14/ios-17-5-security-patches/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-5-includes-these-15-security-fixes-but-one-causes-another-bug.2426301/</comments>
+		<pubDate>Tue, 14 May 2024 06:58:41 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/14/ios-17-5-security-patches/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/2024/05/13/apple-releases-ios-17-5/">iOS 17.5 and iPadOS 17.5</a> include 15 security patches for the iPhone and iPad, according to a recently-published <a href="https://support.apple.com/en-us/HT214101">Apple support document</a>, but unfortunately one of the patches has led to a software bug affecting alternative app marketplaces.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/iOS-17.5-Security-Update-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950652" /><br/>
+<a href="https://twitter.com/mysk_co/status/1790121816872161363">According to Mysk</a>, a security patch related to the MarketplaceKit framework has resulted in a bug that prevents iPhone users in the EU from reinstalling an alternative app marketplace <a href="https://www.macrumors.com/2024/04/17/altstore-eu-alternative-app-marketplace/">like AltStore</a> if they happen to delete the app after initially installing it. Apple will likely fix this issue in a subsequent update, such as iOS 17.5.1.<br/>
+<br/>
+In related news, one security researcher <a href="https://twitter.com/R00tkitSMM/status/1790269915028467800">has complained</a> that the iOS kernel vulnerability they discovered was not eligible for payment under the Apple Security Bounty program. It is listed in the iOS 17.5 security fixes below under "AppleAVD."<br/>
+<br/>
+Apple's full list of security patches included in iOS 17.5 and iPadOS 17.5:<br/>
+<br/>
+<blockquote><strong>AppleAVD</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An app may be able to execute arbitrary code with kernel privileges<br/>
+<br/>
+Description: The issue was addressed with improved memory handling.<br/>
+<br/>
+CVE-2024-27804: Meysam Firouzi (@R00tkitSMM)<br/>
+<br/>
+<strong>AppleMobileFileIntegrity</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An attacker may be able to access user data<br/>
+<br/>
+Description: A logic issue was addressed with improved checks.<br/>
+<br/>
+CVE-2024-27816: Mickey Jin (@patch1t)<br/>
+<br/>
+<strong>AVEVideoEncoder</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An app may be able to disclose kernel memory<br/>
+<br/>
+Description: The issue was addressed with improved memory handling.<br/>
+<br/>
+CVE-2024-27841: an anonymous researcher<br/>
+<br/>
+<strong>Find My</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: A malicious application may be able to determine a user's current location<br/>
+<br/>
+Description: A privacy issue was addressed by moving sensitive data to a more secure location.<br/>
+<br/>
+CVE-2024-27839: Alexander Heinrich, SEEMOO, TU Darmstadt (@Sn0wfreeze), and Shai Mishali (@freak4pc)<br/>
+<br/>
+<strong>Kernel</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An attacker may be able to cause unexpected app termination or arbitrary code execution<br/>
+<br/>
+Description: The issue was addressed with improved memory handling.<br/>
+<br/>
+CVE-2024-27818: pattern-f (@pattern_F_) of Ant Security Light-Year Lab<br/>
+<br/>
+<strong>Libsystem</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An app may be able to access protected user data<br/>
+<br/>
+Description: A permissions issue was addressed by removing vulnerable code and adding additional checks.<br/>
+<br/>
+CVE-2023-42893: an anonymous researcher<br/>
+<br/>
+<strong>Maps</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An app may be able to read sensitive location information<br/>
+<br/>
+Description: A path handling issue was addressed with improved validation.<br/>
+<br/>
+CVE-2024-27810: LFY@secsys of Fudan University<br/>
+<br/>
+<strong>MarketplaceKit</strong><br/>
+<br/>
+Available for: iPhone XS and later<br/>
+<br/>
+Impact: A maliciously crafted webpage may be able to distribute a script that tracks users on other webpages<br/>
+<br/>
+Description: A privacy issue was addressed with improved client ID handling for alternative app marketplaces.<br/>
+<br/>
+CVE-2024-27852: Talal Haj Bakry and Tommy Mysk of Mysk Inc. (@mysk_co)<br/>
+<br/>
+<strong>Notes</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An attacker with physical access to an iOS device may be able to access notes from the lock screen<br/>
+<br/>
+Description: This issue was addressed through improved state management.<br/>
+<br/>
+CVE-2024-27835: Andr.Ess<br/>
+<br/>
+<strong>RemoteViewServices</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An attacker may be able to access user data<br/>
+<br/>
+Description: A logic issue was addressed with improved checks.<br/>
+<br/>
+CVE-2024-27816: Mickey Jin (@patch1t)<br/>
+<br/>
+<strong>Screenshots</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An attacker with physical access may be able to share items from the lock screen<br/>
+<br/>
+Description: A permissions issue was addressed with improved validation.<br/>
+<br/>
+CVE-2024-27803: an anonymous researcher<br/>
+<br/>
+<strong>Shortcuts</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: A shortcut may output sensitive user data without consent<br/>
+<br/>
+Description: A path handling issue was addressed with improved validation.<br/>
+<br/>
+CVE-2024-27821: Kirin (@Pwnrin), zbleet, and Csaba Fitzl (@theevilbit) of Kandji<br/>
+<br/>
+<strong>Sync Services</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An app may be able to bypass Privacy preferences<br/>
+<br/>
+Description: This issue was addressed with improved checks<br/>
+<br/>
+CVE-2024-27847: Mickey Jin (@patch1t)<br/>
+<br/>
+<strong>Voice Control</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An attacker may be able to elevate privileges<br/>
+<br/>
+Description: The issue was addressed with improved checks.<br/>
+<br/>
+CVE-2024-27796: ajajfxhj<br/>
+<br/>
+<strong>WebKit</strong><br/>
+<br/>
+Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later<br/>
+<br/>
+Impact: An attacker with arbitrary read and write capability may be able to bypass Pointer Authentication<br/>
+<br/>
+Description: The issue was addressed with improved checks.<br/>
+<br/>
+WebKit Bugzilla: 272750<br/>
+CVE-2024-27834: Manfred Paul (@_manfp) working with Trend Micro's Zero Day Initiative</blockquote>Apple <a href="https://www.macrumors.com/2024/05/13/apple-releases-ios-17-5/">released iOS 17.5 and iPadOS 17.5 on Monday</a> following around six weeks of beta testing.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/14/ios-17-5-security-patches/">iOS 17.5 Includes These 15 Security Fixes, But One Causes Another Bug</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-5-includes-these-15-security-fixes-but-one-causes-another-bug.2426301/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>13-Inch iPad Pro Magic Keyboard ~50 Grams Lighter Than Older Model</title>
+		<link>https://www.macrumors.com/2024/05/14/ipad-pro-magic-keyboard-accessory-weight/</link>
+		<comments>https://forums.macrumors.com/threads/13-inch-ipad-pro-magic-keyboard-50-grams-lighter-than-older-model.2426297/</comments>
+		<pubDate>Tue, 14 May 2024 05:55:39 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/14/ipad-pro-magic-keyboard-accessory-weight/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Magic Keyboard</category>
+		
+
+		<description><![CDATA[Apple's new Magic Keyboard accessory for the latest <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models is "thinner and lighter" than the model it replaces, according to the company. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/magic-keyboard-3.jpg" alt="" width="3174" height="1785" class="aligncenter size-full wp-image-950182" /><br/>
+Apple typically does not provide weight specifications for <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> accessories, but some early reviewers have effectively confirmed Apple's claims with their own figures for the 13-inch version of the Magic Keyboard.<br/>
+<br/>
+<em>Six Colors</em>' <a href="https://sixcolors.com/post/2024/05/m4_ipad_pro_review/">Jason Snell</a> weighed the 13-inch Magic Keyboard at 667 grams, while <a href="https://youtu.be/cOiGtyPTrvU">Brian Tong</a> put the accessory at 662 grams and <em><a href="https://www.theverge.com/24155440/apple-ipad-pro-2024-review">The Verge</a></em> recorded 658 grams on its scales.<br/>
+<br/>
+Despite the small variations, from these figures we can conclude that the 13-inch Magic Keyboard is around 50 grams lighter than the previous generation model, which weighed around <a href="https://www.macrumors.com/2020/04/20/magic-keyboard-ipad-pro-heavier-macbook/">710 grams</a>.<br/>
+<br/>
+It's worth noting that at 580 grams, the new 13-inch &zwnj;iPad Pro&zwnj; itself is <a href="https://www.macrumors.com/2024/05/08/ipad-air-now-heavier-than-ipad-pro/">much lighter</a> than the previous generation 12.9-inch &zwnj;iPad Pro&zwnj;, which weighed 682 grams. <br/>
+<br/>
+Based on these numbers, the total weight of the &zwnj;iPad Pro&zwnj; and Magic Keyboard is around 1,247 grams, which is exceedingly close to the stated 1.24 kg weight of Apple's M3-powered 13-inch <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>.<br/>
+<br/>
+Meanwhile, the 11-inch Magic Keyboard is 580 grams, according to a <a href="https://forums.macrumors.com/threads/early-magic-keyboard-and-apple-pencil-pro.2426072/">MacRumors forum member</a> who received theirs early. In comparison, previous model weighs 601 grams.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/magic-keyboard/">Magic Keyboard</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/14/ipad-pro-magic-keyboard-accessory-weight/">13-Inch iPad Pro Magic Keyboard ~50 Grams Lighter Than Older Model</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/13-inch-ipad-pro-magic-keyboard-50-grams-lighter-than-older-model.2426297/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Next-Generation iPad Air With M3 Chip Already Rumored</title>
+		<link>https://www.macrumors.com/2024/05/14/next-gen-ipad-air-with-m3-chip-rumored/</link>
+		<comments>https://forums.macrumors.com/threads/next-generation-ipad-air-with-m3-chip-already-rumored.2426292/</comments>
+		<pubDate>Tue, 14 May 2024 05:36:24 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/14/next-gen-ipad-air-with-m3-chip-rumored/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iPad Air</category>
+		<category>M3</category>
+		
+
+		<description><![CDATA[Apple's next <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> will use an M3 processor, according to details posted on X earlier today by a private account with a proven track record of sharing accurate information about Apple's plans.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/M2-iPad-Air-Hero-Feature-Purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-949535" /><br/>
+Apple just last week <a href="https://www.macrumors.com/2024/05/07/apple-announces-ipad-air-models-in-new-11-13-inch/">announced</a> its latest &zwnj;iPad Air&zwnj; models powered by the company's <a href="https://www.macrumors.com/guide/m2/">M2</a> chip. The two new 11-inch and 13-inch models replaced the previous M1-powered 10.9-inch &zwnj;iPad Air&zwnj;, which was released in 2022. Apple also just announced new M4 <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models that were until recently expected to feature the M3 chip. <br/>
+<br/>
+Combined with Apple's surprise debut of the M4, today's rumor suggests that Apple plans to keep the &zwnj;iPad Air&zwnj; one step behind the &zwnj;iPad Pro&zwnj; in terms of processor generations. Given the recent announcements, it's very early to speculate on a future generation of &zwnj;iPad Air&zwnj;, but rumors have suggested that Apple plans to introduce a <a href="https://www.macrumors.com/2024/02/21/apple-oled-roadmap/">10.8-inch OLED iPad Air</a>, and that the tablet could come out <a href="https://www.macrumors.com/2024/03/15/ipad-air-oled-adoption-timeline/">between 2026 and 2028</a>.<br/>
+<br/>
+The new &zwnj;iPad Air&zwnj; is nearly 50% faster than the previous &zwnj;iPad Air&zwnj; with <a href="https://www.macrumors.com/guide/m1/">M1</a>, according to Apple. Compared to &zwnj;iPad Air&zwnj; with A14 Bionic, it provides 3x faster performance. Like the previous model, the &zwnj;iPad Air&zwnj; starts at &#36;599, while the 13-inch device starts at &#36;799, and both sizes are available from Wednesday, May 15.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/m3/">M3</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/14/next-gen-ipad-air-with-m3-chip-rumored/">Next-Generation iPad Air With M3 Chip Already Rumored</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/next-generation-ipad-air-with-m3-chip-already-rumored.2426292/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iPad Pro: How Apple Intends to Avoid Another &#039;Bendgate&#039; Controversy</title>
@@ -286,7 +536,7 @@ The &zwnj;iPad Pro&zwnj; is equipped with Apple's next-generation M4 chip, and a
 According to <em><a href="https://www.theverge.com/24155440/apple-ipad-pro-2024-review">The Verge</a></em>, the M4 &zwnj;iPad Pro&zwnj; scored 50 percent higher than the M3 version in benchmark tests, but while it feels faster, it doesn't feel 50 percent faster. There likely isn't a way to tell the difference between the 9-core and 10-core M4 &zwnj;iPad Pro&zwnj; models.<br/>
 <blockquote>Apps load and close a half-beat faster with the M4, even complex games run perfectly smooth (I still can't believe how good Call of Duty: Warzone Mobile looks on this device), and iMovie renders video noticeably more quickly than on the 11-inch M2 Pro I've been using for a couple of years. Individually, these aren't earth-shattering upgrades, but particularly if you're doing a lot of intense photo and video work or even love a long Warzone session, it's a real performance bump.</blockquote><br/>
 <h3>Software</h3><br/>
-Despite the incredible performance that the M4 chip brings, reviewers pointed out the shortcomings of iPadOS. <a href="https://sixcolors.com/post/2024/05/m4_ipad_pro_review/"><em>SixColors</em> Jason Snell</a> said that the &zwnj;iPad Pro&zwnj; is able to "handle pretty much any task it's capable of executing," but that it's "let down by iPadOS limitations."<br/>
+Despite the incredible performance that the M4 chip brings, reviewers pointed out the shortcomings of iPadOS. <a href="https://sixcolors.com/post/2024/05/m4_ipad_pro_review/"><em>Six Colors</em>' Jason Snell</a> said that the &zwnj;iPad Pro&zwnj; is able to "handle pretty much any task it's capable of executing," but that it's "let down by iPadOS limitations."<br/>
 <br/>
 Longtime &zwnj;iPad&zwnj; user <a href="https://www.macstories.net/stories/not-an-ipad-pro-review/">Federico Viticci of <em>MacStories</em></a> didn't share a full review of the new &zwnj;iPad&zwnj;, but he penned a piece pointing out the many shortcomings of iPadOS. It's well worth a read to see what it's like using an &zwnj;iPad&zwnj; as a main machine, with highlights on the pain points of multitasking, limited apps, and more.<br/>
 <br/>
@@ -305,7 +555,7 @@ Almost every review mentioned the shortcomings of iPadOS as the major fault with
 <blockquote>All of the traditional upsides of OLED are immediately apparent: since OLEDs control each pixel individually, you get much richer blacks, so the letterboxes above and below a video just disappear into the bezel, and photos look much more dynamic. Colors are incredibly vibrant -- to the point of occasionally looking too contrasty and HDR-y to my eyes. The Pro's peak brightness is significantly brighter than the new Air, too, which is tough to pull off with an OLED.</blockquote><br/>
 <br/>
 <h3>Design</h3><br/>
-Jason Snell of <em>SixColors</em> said that while the &zwnj;iPad Pro&zwnj;'s internals have been updated, it <a href="https://sixcolors.com/post/2024/05/m4_ipad_pro_review/">looks a lot like</a> a "thinner version of the 2018-era design." It's a "good design" that didn't need to be updated, but the lighter weight makes it less awkward to hold in one hand.<br/>
+Jason Snell of <em>Six Colors</em> said that while the &zwnj;iPad Pro&zwnj;'s internals have been updated, it <a href="https://sixcolors.com/post/2024/05/m4_ipad_pro_review/">looks a lot like</a> a "thinner version of the 2018-era design." It's a "good design" that didn't need to be updated, but the lighter weight makes it less awkward to hold in one hand.<br/>
 <br/>
 There continues to be just one Thunderbolt 4 port that limits connecting external devices and charging at the same time without a dock.<br/>
 <br/>
@@ -316,7 +566,7 @@ There continues to be just one Thunderbolt 4 port that limits connecting externa
 <em><a href="https://www.independent.co.uk/extras/indybest/gadgets-tech/laptops-tablets/ipad-pro-m4-2024-review-b2544053.html">The Independent</a></em> said that the thin design is the most noticeable &zwnj;iPad Pro&zwnj; feature, and though it's thin, it's durable.<blockquote>The larger of the two iPad Pro models takes your breath away. At 5.1mm thick, it's not only much thinner than the last large Pro model, which was 6.4mm thick, it's actually thinner than any product Apple has made before. Let that sink in. It's thinner than the tiny iPod nano, though Apple says it's as tough and durable as before. In the hand, there's no flex or creaking even if you try to twist it.</blockquote><br/>
 <br/>
 <h3>Apple Pencil Pro and Magic Keyboard</h3><br/>
-<a href="https://sixcolors.com/post/2024/05/m4_ipad_pro_review/"><em>SixColors</em>' Jason Snell</a> said that the Magic Keyboard is an improvement over the original model thanks to the full function row, the larger trackpad, and the addition of haptic feedback. With aluminum, it feels "a bit more like one of Apple's laptops."<br/>
+<a href="https://sixcolors.com/post/2024/05/m4_ipad_pro_review/"><em>Six Colors</em>' Jason Snell</a> said that the Magic Keyboard is an improvement over the original model thanks to the full function row, the larger trackpad, and the addition of haptic feedback. With aluminum, it feels "a bit more like one of Apple's laptops."<br/>
 <br/>
 <em><a href="https://www.engadget.com/ipad-pro-2024-review-so-very-nice-and-so-very-expensive-210012937.html?src=rss">Engadget</a></em> said that the Magic Keyboard is thinner and lighter than before, for a more compact and portable feel.<br/>
 <br/>
@@ -546,130 +796,6 @@ tvOS 17.5 can be downloaded using the Settings app on the ‌<a href="https://ww
 Compared to other operating system updates, tvOS 17.5 updates are often minor in scale, focusing on bug fixes and other small improvements. We did not find new features during the tvOS 17.5 beta testing process.<br/>
 <br/>
 Apple shares release notes for tvOS <a href="https://support.apple.com/en-us/106336">in its tvOS support document</a>, which is updated after each new version of tvOS comes out.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/apple-releases-tvos-17-5/">Apple Releases tvOS 17.5</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-tvos-17-5.2426208/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Here&#039;s How Fast the 9-Core M4 Chip is Based on Early Benchmark Result</title>
-		<link>https://www.macrumors.com/2024/05/13/m4-chip-9-core-cpu-benchmark-result/</link>
-		<comments>https://forums.macrumors.com/threads/heres-how-fast-the-9-core-m4-chip-is-based-on-early-benchmark-result.2426202/</comments>
-		<pubDate>Mon, 13 May 2024 09:44:03 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/m4-chip-9-core-cpu-benchmark-result/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPad Pro</category>
-		<category>Geekbench</category>
-		<category>Benchmarks</category>
-		
-
-		<description><![CDATA[An alleged <a href="https://browser.geekbench.com/v6/cpu/6062510">Geekbench 6 benchmark result</a> for the lower-end version of the M4 chip with a 9-core CPU surfaced over the weekend, providing a first look at how it performs compared to the higher-end M4 chip with a 10-core CPU.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/M4-iPad-Pro-Thumb-3.jpg" alt="" width="2400" height="1350" class="aligncenter size-full wp-image-949127" /><br/>
-The result indicates that the 9-core M4 chip is around 10% slower than the 10-core variant in terms of multi-core performance. While that outcome might seem obvious at first glance, the 9-core variant of the chip has three performance cores, instead of four in the 10-core variant, so this result was not guaranteed.<br/>
-<br/>
-Assuming that the Geekbench 6 listing is accurate, the 9-core M4 chip is still around 13% faster than the M3 chip for multi-core performance, and up to 35% faster than the M2 chip in the previous-generation iPad Pro.<br/>
-<br/>
-Here's how the 9-core M4 chip stacks up in multi-core Geekbench 6 results:<br/>
-<br/>
-<ul><li><strong>M4 chip (10-core CPU):</strong> ~14,600</li><br/>
-<li><strong>M4 chip (9-core CPU):</strong> ~13,000</li><br/>
-<li><strong>M3 chip (8-core CPU):</strong> ~11,600</li><br/>
-<li><strong>M2 chip (8-core CPU):</strong> ~9,600</li></ul><br/>
-<br/>
-The new 11-inch and 13-inch iPad Pro models are equipped with a 9-core M4 chip when configured with 256GB or 512GB of storage, while models with 1TB or 2TB of storage are equipped with a 10‑core M4 chip. Both variants have a 10-core GPU.<br/>
-<br/>
-For reasons unclear, the Geekbench 6 listing shows the iPad Pro with the 9-core M4 chip as running iPadOS 17.6, whereas all results for the 10-core model have shown iPadOS 17.4 so far. The first beta of iPadOS 17.6 will likely be made available for testing later this month, following the upcoming release of iPadOS 17.5.<br/>
-<br/>
-The new iPad Pro models launch on Wednesday.<br/>
-<br/>
-<em>Thanks, <a href="https://twitter.com/mbrkhrdt">Michael Burkhardt</a>!</em><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/geekbench/">Geekbench</a>, <a href="https://www.macrumors.com/guide/benchmarks/">Benchmarks</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Pro">iPad Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/m4-chip-9-core-cpu-benchmark-result/">Here&#039;s How Fast the 9-Core M4 Chip is Based on Early Benchmark Result</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/heres-how-fast-the-9-core-m4-chip-is-based-on-early-benchmark-result.2426202/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple to Expand Vision Pro to Additional Countries After WWDC</title>
-		<link>https://www.macrumors.com/2024/05/13/vision-pro-expanded-launch-after-wwdc/</link>
-		<comments>https://forums.macrumors.com/threads/apple-to-expand-vision-pro-to-additional-countries-after-wwdc.2426197/</comments>
-		<pubDate>Mon, 13 May 2024 09:03:21 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/vision-pro-expanded-launch-after-wwdc/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Vision Pro</category>
-		
-
-		<description><![CDATA[Sales of the <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> will soon begin in countries outside of the United States, <a href="https://www.bloomberg.com/news/articles/2024-05-13/apple-set-to-sell-vision-pro-headset-internationally-for-first-time">reports <em>Bloomberg</em></a>. Hundreds of employees from international retail stores have been flying into Cupertino for multi-day Vision Pro training sessions.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-898552" /><br/>
-Apple held similar training sessions ahead of when the Vision Pro launched in the United States, with employees learning how to provide customer demonstrations and answer customer questions. An exact launch date for the Vision Pro hasn't yet been announced, but it is expected to expand to additional countries after WWDC. This year's Worldwide Developers Conference is set to take place from June 10 to June 14.<br/>
-<br/>
-Employees from stores in Australia, China, Germany, France, Japan, South Korea, and Singapore are attending the training sessions, so these are likely to be the first countries to get the Vision Pro after the United States. Apple analyst <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a> <a href="https://www.macrumors.com/2024/02/28/kuo-on-apple-vision-pro-wider-launch/">previously said</a> the Vision Pro would launch in more countries prior to WWDC, but that may now be inaccurate with <em>Bloomberg</em>'s information suggesting a June debut.<br/>
-<br/>
-U.S. interest in the Vision Pro <a href="https://www.macrumors.com/2024/04/22/apple-vision-pro-customer-interest-dying-down/">has died down</a> in the months following the launch of the device, and Apple has allegedly <a href="https://www.macrumors.com/2024/04/23/apple-cuts-vision-pro-shipments/">cut Vision Pro shipments</a> as a result. International sales could bring a renewed wave of excitement over the device, but at &#36;3,500 USD, the price is still prohibitive. Pricing in non-U.S. countries has not yet been announced.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/vision-pro-expanded-launch-after-wwdc/">Apple to Expand Vision Pro to Additional Countries After WWDC</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-expand-vision-pro-to-additional-countries-after-wwdc.2426197/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Amazon Takes Up to &#36;49 Off Apple&#039;s Brand-New iPad Models</title>
-		<link>https://www.macrumors.com/2024/05/13/amazon-m4-ipad-pro-m2-ipad-air-discounts/</link>
-		<comments>https://forums.macrumors.com/threads/amazon-takes-up-to-49-off-apples-brand-new-ipad-models.2426190/</comments>
-		<pubDate>Mon, 13 May 2024 08:08:24 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/amazon-m4-ipad-pro-m2-ipad-air-discounts/</guid>
-		<dc:creator>Eric Slivka</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Following some <a href="https://www.macrumors.com/2024/05/08/best-buy-m4-ipad-pro-discounts/">early discounts for Best Buy members</a>, we're now seeing the first discounts on the brand-new iPad Air and iPad Pro models available to all customers thanks to Amazon. The discounts are modest at up to &#36;49 on select models, but any pre-order discounts are always welcome news.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/Apple-iPad-Air-and-iPad-Pro-11-inch-and-13-inch-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-949648" /><em><small>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fstores%2Fpage%2F45E1434A-FD58-40A7-BC14-A698CD36DF7C%2F%3Ftag%3Dmacrumors-20"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO &#36;49 OFF</div>Apple's Latest iPad Models</div></a></div><br/>
-Only select configurations and colors are seeing discounts and these may fluctuate over time, but at the moment we're seeing the following discounted prices:<br/>
-<br/>
-<h3>11-inch iPad Air</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J617D7%2F">128GB Wi-Fi for &#36;569.99</a>, down from &#36;599 in Space Gray and Purple</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6WPXK%2F">256GB Wi-Fi for &#36;669.99</a>, down from &#36;699 in Blue</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7W89Z%2F">512GB Wi-Fi for &#36;889.00</a>, down from &#36;899 in Purple</li></ul><br/>
-<br/>
-<h3>13-inch iPad Air</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J5XNCT%2F">128GB Wi-Fi for &#36;769.99</a>, down from &#36;799 in Blue and Space Gray</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6NJF5%2F">256GB Wi-Fi for &#36;869.99</a>, down from &#36;899 in Purple</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6D3Z5%2F">512GB Wi-Fi for &#36;1,069.99</a>, down from &#36;1,099 in Space Gray</li></ul><br/>
-<br/>
-<h3>11-inch iPad Pro</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%2F">256GB Wi-Fi for &#36;949.99</a>, down from &#36;999 in Silver and Space Black</li></ul><br/>
-<br/>
-With Apple <a href="https://www.macrumors.com/2024/05/07/ipad-9-discontinued-ipad-10-now-starts-at-349/">dropping the regular price</a> of the 10th-generation price by &#36;100 last week, we're also seeing some record-low prices on those models with Amazon offering even steeper discounts at an <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2F">additional &#36;15 off to bring prices down to &#36;334.00</a> for the 64GB Wi-Fi model in all colors. Cellular models are also at all-time lows <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJMCHC91%2F">starting at &#36;474.00</a>.<br/>
-<br/>
-If you're looking for more details about the M4 iPad Pro and M2 iPad Air, be sure to <a href="https://www.macrumors.com/2024/05/07/everything-announced-may-7-event/">check out our recap article</a> of last week's Apple event, and be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/amazon-m4-ipad-pro-m2-ipad-air-discounts/">Amazon Takes Up to &#36;49 Off Apple&#039;s Brand-New iPad Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-takes-up-to-49-off-apples-brand-new-ipad-models.2426190/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>AppleCare+ Extends &#36;29 Screen Repairs to New iPad Pro and iPad Air</title>
-		<link>https://www.macrumors.com/2024/05/13/applecare-ipad-cracked-screen-repair-fee/</link>
-		<comments>https://forums.macrumors.com/threads/applecare-extends-29-screen-repairs-to-new-ipad-pro-and-ipad-air.2426186/</comments>
-		<pubDate>Mon, 13 May 2024 07:39:47 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/applecare-ipad-cracked-screen-repair-fee/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPad Air</category>
-		<category>iPad Pro</category>
-		<category>AppleCare</category>
-		
-
-		<description><![CDATA[AppleCare+ has long offered iPhone screen repairs for &#36;29 in the U.S., and this option is <a href="https://support.apple.com/ipad/repair">now available for the new iPad Pro and iPad Air models</a> too.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/M4-iPad-Pro-and-Air-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950313" /><br/>
-Apple says the &#36;29 screen repair option is limited to the 11-inch and 13-inch iPad Pro models with the M4 chip, and the 11-inch and 13-inch iPad Air models with the M2 chip, and the devices must have no other damage in order to qualify.<br/>
-<br/>
-For any other damage to the new iPad Pro and iPad Air, AppleCare+ charges a &#36;99 fee. For previous-generation models, Apple charges &#36;49 for screen repairs or any other damage if the device has AppleCare+ coverage.<br/>
-<br/>
-As usual, skipping AppleCare+ could prove to be costly, with Apple charging between &#36;449 and &#36;999 for uncovered repairs of the devices.<br/>
-<br/>
-Here is how much AppleCare+ costs for the new iPads:<br/>
-<br/>
-<ul><li><strong>13-inch iPad Pro:</strong> &#36;169 or &#36;8.49 per month</li><br/>
-<li><strong>11-inch iPad Pro:</strong> &#36;149 or &#36;7.49 per month</li><br/>
-<li><strong>13-inch iPad Air:</strong> &#36;99 or &#36;4.99 per month</li><br/>
-<li><strong>11-inch iPad Air:</strong> &#36;79 or &#36;3.99 per month</li></ul><br/>
-<br/>
-The new iPad Pro and iPad Air models are available to order now and launch on May 15.<br/>
-<br/>
-<em>Thanks, <a href="https://www.dylanmcd.com/">Dylan McDonald</a>!</em><div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a>, <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#iPad-Pro">iPad Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/applecare-ipad-cracked-screen-repair-fee/">AppleCare+ Extends &#36;29 Screen Repairs to New iPad Pro and iPad Air</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/applecare-extends-29-screen-repairs-to-new-ipad-pro-and-ipad-air.2426186/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
