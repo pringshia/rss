@@ -14,12 +14,346 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 13 May 2024 13:03:00 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 13 May 2024 17:11:50 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 17.5 Features: What&#039;s New in iOS 17.5</title>
+		<link>https://www.macrumors.com/guide/ios-17-5-features/</link>
+		<comments>https://forums.macrumors.com/threads/ios-17-5-features-whats-new-in-ios-17-5.2426243/</comments>
+		<pubDate>Mon, 13 May 2024 16:44:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-17-5-features&#038;post_date=1715654640/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple recently released iOS 17.5, the newest version of iOS. It brings some major changes to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> if you're in the European Union, and some smaller updates if you're not.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/t7bpsFrsyH8" title="iOS 17.5 Out Now: Here&#39;s Everything New!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+In this article, we've rounded up everything new in iOS 17.5.<br/>
+<br/>
+<h2 id="app_downloads_from_websites_eu_only">App Downloads From Websites (EU Only)</h2><br/>
+iOS 17.5 brings support for <a href="https://www.macrumors.com/2024/04/02/ios-17-5-app-website-downloads-eu/">web-based app distribution</a> in the European Union, letting developers offer their apps for download directly on their websites. &zwnj;iPhone&zwnj; users can download iOS apps from supported websites without using the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>.<br/>
+<br/>
+As with <a href="https://www.macrumors.com/guide/ios-17-4-features/">the iOS 17.4 changes</a> that added alternative app marketplaces, this functionality is limited to the &zwnj;iPhone&zwnj; and can only be used in the EU. Developers need to be a member of the Apple Developer Program for two continuous years or more and must have more than one million first installs on iOS in the prior year to offer an app for download.<br/>
+<br/>
+All apps downloaded from websites onto iPhones must submit to Apple's notarization process, and while there is no commission to pay to Apple, Apple does charge a 0.50 euro Core Technology Fee. Though this is only available on the &zwnj;iPhone&zwnj; right now, Apple will bring the same functionality to the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> <a href="https://www.macrumors.com/2024/05/02/ipados-eu-app-changes-fall/">later this year</a>.<br/>
+<br/>
+<h2 id="apple_news+">Apple News+</h2><br/>
+<a href="https://www.macrumors.com/guide/apple-news-plus/">Apple News</a>+ now has an offline mode that provides access to the Today feed and the News+ tab even without a cellular or Wi-Fi connection.<br/>
+<br/>
+&zwnj;Apple News&zwnj;+ includes a new <a href="https://www.macrumors.com/2024/04/10/ios-17-5-apple-news-quartiles-game/">daily word game</a> called Quartiles. The game requires players to combine tiles to form words and earn points. Quartiles is limited to customers who have a paid &zwnj;Apple News&zwnj;+ subscription.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-945719" src="https://images.macrumors.com/article-new/2024/04/iOS-17.5-Quartiles-Feature.jpg" alt="" width="2500" height="1406" /><br/>
+The scoreboard feature for &zwnj;Apple News&zwnj;+ Puzzles includes new player data for Crossword, Mini Crossword, and Quartiles. Players can see their stats and streaks over time, similar to how The New York Times gaming app works.<br/>
+<br/>
+<h2 id="third-party_item_tracker_alerts">Third-Party Item Tracker Alerts</h2><br/>
+iOS 17.5 adds support for third-party item trackers, a feature that Apple has been working on since last year.<br/>
+<br/>
+Apple and Google developed a cross-platform solution for unwanted tracking alerts, and iOS 17.5 will let &zwnj;iPhone&zwnj; users know when a third-party tracker is nearby. "You can disable this item and stop it from sharing its location with the owner. To do this, follow the instructions provided on a website by the manufacturer of this item," reads code in the update.<br/>
+<br/>
+Apple's release notes say that Cross-Platform Tracking Detection has been designed to provide notifications to users if a compatible Bluetooth tracker they do not own is moving with them, regardless of what operating system the device is paired with.<br/>
+<br/>
+Google launched its <a href="https://www.macrumors.com/2024/04/08/google-android-find-my-device-network-2/">Android-based Find My Device network</a> in April, timed with the initial rollout of Cross-Platform Tracking Detection.<br/>
+<br/>
+<h2 id="repair_state">Repair State</h2><br/>
+iOS 17.5 includes <a href="https://www.macrumors.com/2024/04/30/ios-17-5-repair-state/">a repair state option</a> that lets an &zwnj;iPhone&zwnj; be sent in for service without deactivating <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a> and Activation Lock.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-948810" src="https://images.macrumors.com/article-new/2024/04/ios-17-5-repair-state.jpg" alt="" width="2000" height="1125" /><br/>
+A new "Remove This Device" option is available in &zwnj;Find My&zwnj;, and using it with an &zwnj;iPhone&zwnj; puts the device into a repair state mode. Sending a device for repair has historically required turning off &zwnj;Find My&zwnj;, which is a way for Apple to ensure that the person requesting a repair owns the &zwnj;iPhone&zwnj;.<br/>
+<br/>
+The repair state option leaves &zwnj;Find My&zwnj; turned on, and the &zwnj;iPhone&zwnj; continues to be trackable with the &zwnj;Find My&zwnj; app while it is being repaired. An &zwnj;iPhone&zwnj; put into a repair state lists that it is "Ready for Repair" in the &zwnj;Find My&zwnj; device section, and the &zwnj;iPhone&zwnj; remains functional while in the repair state.<br/>
+<br/>
+<h2 id="podcast_widget">Podcast Widget</h2><br/>
+The Podcasts widget that can be added to the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> or the Lock screen now features a background that changes depending on the art of the podcast that's being played.<br/>
+<br/>
+<h2 id="mobile_device_management">Mobile Device Management</h2><br/>
+MDM solutions are able to enforce a beta version during automated device enrollment. Automated device enrollment is designed to simplify initial device setup.<br/>
+<br/>
+<h2 id="code_changes">Code Changes</h2><br/>
+There were some code changes that we found in the iOS 17.5 beta that reference an &zwnj;iPad&zwnj; battery health feature that could possibly be available on the latest iPads. Battery health is not listed as an iPadOS 17.5 feature, so it is not clear if it is a feature that is available or something coming at a later date.<br/>
+<br/>
+An &zwnj;iPad&zwnj; Battery Health menu would likely show maximum remaining capacity and charge cycle count, similar to the Battery Health menu on &zwnj;iPhone&zwnj;.<br/>
+<br/>
+There were also references to a "Block All Participants" option for group <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls, possibly for blocking spam, but it also has not been implemented.<br/>
+<br/>
+<h2 id="more_on_ios_17">More on iOS 17</h2><br/>
+A full rundown on all of the features that are available in <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> can be <a href="https://www.macrumors.com/roundup/ios-17/">found in our iOS 17 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-17-5-features/">iOS 17.5 Features: What&#039;s New in iOS 17.5</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-5-features-whats-new-in-ios-17-5.2426243/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Setapp&#039;s EU Alternative iPhone App Marketplace Launching on May 14</title>
+		<link>https://www.macrumors.com/2024/05/13/setapp-iphone-marketplace-may-14/</link>
+		<comments>https://forums.macrumors.com/threads/setapps-eu-alternative-iphone-app-marketplace-launching-on-may-14.2426241/</comments>
+		<pubDate>Mon, 13 May 2024 16:22:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/setapp-iphone-marketplace-may-14/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Setapp</category>
+		
+
+		<description><![CDATA[MacPaw <a href="https://twitter.com/setapp/status/1790073037640941588">today said</a> that its Setapp alternative app marketplace for the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> will be launching on Tuesday, May 14 in the European Union.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-938882" src="https://images.macrumors.com/article-new/2024/02/Setapp-iOS.jpg" alt="" width="1600" height="900" /><br/>
+A Setapp marketplace has been <a href="https://www.macrumors.com/2024/02/29/setapp-alternative/">in the works</a> since February, which is when Apple first announced the <a href="https://www.macrumors.com/2024/02/19/iphone-changes-coming-to-eu-users/">alternative app downloading options</a> that would be coming in iOS 17.4.<br/>
+<br/>
+For those unfamiliar with Setapp, it is a subscription-based service that lets users access dozens of apps for &#36;9.99 per month. Popular apps like Ulysses, iStat Menus, Spark, Unite, Yoink, and more are available through the current subscription service.<br/>
+<br/>
+According to MacPaw, Setapp will provide a "carefully selected assortment of apps" across categories like productivity, design, lifestyle, utility, and more.<br/>
+<br/>
+Setapp already offers a &#36;12.49 subscription that provides access to both the iOS and Mac versions of apps, but EU users will be able to access Setapp apps without having to download them through the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. Setapp will give developers a trusted alternative to &zwnj;App Store&zwnj; distribution with none of the standard fees, though it is worth noting that all apps that exceed 1 million first installs per year must pay the 0.50 euro Core Technology Fee to Apple.<br/>
+<br/>
+Apps distributed through alternative app marketplaces are required to submit to a notarization process to ensure they are free from malware, but Apple does not have restrictions on content so apps that might not have been eligible for the &zwnj;App Store&zwnj; can be distributed through alternative means.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/setapp/">Setapp</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/setapp-iphone-marketplace-may-14/">Setapp&#039;s EU Alternative iPhone App Marketplace Launching on May 14</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/setapps-eu-alternative-iphone-app-marketplace-launching-on-may-14.2426241/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPad Marketing VP: iPad and Mac are Complementary Devices, Not Competing Devices</title>
+		<link>https://www.macrumors.com/2024/05/13/apple-vp-mac-ipad-complementary/</link>
+		<comments>https://forums.macrumors.com/threads/ipad-marketing-vp-ipad-and-mac-are-complementary-devices-not-competing-devices.2426240/</comments>
+		<pubDate>Mon, 13 May 2024 15:53:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/apple-vp-mac-ipad-complementary/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[For her review of the new M4 <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>, <em><a href="https://www.wsj.com/tech/personal-tech/ipad-pro-vs-macbook-the-great-apple-laptop-tradeoff-3304323d">The Wall Street Journal</a></em>'s Joanna Stern spoke with Tom Boger, Apple's vice president of <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> and Mac marketing. Stern focused on comparing the &zwnj;iPad Pro&zwnj; to a MacBook, and asked some targeted questions about the way Apple views the two devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/magic-keyboard-1.jpg" alt="" width="1473" height="829" class="aligncenter size-full wp-image-950180" /><br/>
+According to Boger, Apple sees the &zwnj;iPad Pro&zwnj; and Mac as devices that are meant to be used alongside one another. "We don't see them as competing devices," he said. "We see them as complementary devices." While the &zwnj;iPad&zwnj; is a "touch-first device," the Mac is designed for "indirect manipulation," with a mouse or keyboard, which is a point that Apple has reiterated several times over the years.<br/>
+<br/>
+"macOS is for a very different paradigm of computing," he went on to explain after Stern asked about the possibility of running Mac apps on the &zwnj;iPad&zwnj; or a Mac with a touch screen. Boger said that many Apple customers have both devices, and use the &zwnj;iPad&zwnj; to "extend" Mac work with Continuity.<br/>
+<br/>
+When asked if Apple would ever change its mind on a touch screen Mac, he didn't say no. "Oh, I can't say we never change our mind," he told Stern.<br/>
+<br/>
+Stern traded her MacBook for an &zwnj;iPad&zwnj; for her review, and said that the &zwnj;iPad&zwnj; was better for portability, touch, and 5G connectivity, a feature not available on the Mac. The Mac offered superior port options (it has more than one), better software and multitasking, longer battery life, and better multi-display support.<br/>
+<br/>
+Stern's full review and interview with Boger can be read over at <em><a href="https://www.wsj.com/tech/personal-tech/ipad-pro-vs-macbook-the-great-apple-laptop-tradeoff-3304323d?mod=rss_Technology">The Wall Street Journal</a></em>.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/apple-vp-mac-ipad-complementary/">iPad Marketing VP: iPad and Mac are Complementary Devices, Not Competing Devices</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipad-marketing-vp-ipad-and-mac-are-complementary-devices-not-competing-devices.2426240/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>HDR Bug Impacts OLED iPad Pro, Apple Working on Software Fix</title>
+		<link>https://www.macrumors.com/2024/05/13/oled-ipad-pro-hdr-bug/</link>
+		<comments>https://forums.macrumors.com/threads/hdr-bug-impacts-oled-ipad-pro-apple-working-on-software-fix.2426236/</comments>
+		<pubDate>Mon, 13 May 2024 15:40:35 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/oled-ipad-pro-hdr-bug/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iPad Pro</category>
+		<category>iPad Pro 11&quot;</category>
+		
+
+		<description><![CDATA[Some new <a href="https://www.macrumors.com/guide/oled-ipad-pro/">OLED iPad Pro</a> models appear to have an issue with HDR content in select shades of blue, according to a review from <em><a href="https://www.imore.com/ipad/ipad-pro/exclusive-ipad-pro-oled-display-has-a-weird-hdr-highlights-bug-apple-is-trying-to-squash">iMore</a></em>. The site found that some blue colors cause HDR highlights to blow out and appear nearly white, a defect that can be spotted in the form of compression artifacts in sample images.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/imore-ipad-pro-compression-issue.jpg" alt="" width="1500" height="844" class="aligncenter size-full wp-image-950574" /><em><div class="center-wrap">Image via <a href="https://www.imore.com/ipad/ipad-pro/exclusive-ipad-pro-oled-display-has-a-weird-hdr-highlights-bug-apple-is-trying-to-squash">iMore</a></div></em><blockquote>In a relatively specific set of circumstances, HDR highlights are blown out on certain blue shades including navy and indigo to a point that they almost appear white on screen. The best way to spot it would be to look at a character wearing a navy blue shirt -- the creases appear to shimmer, like a spider's web placed over the surface; at other times it appears like an inky blob morphing over it.</blockquote><em>iMore</em> said that the problem is visible "under very specific circumstances" and it can't be seen on other OLED devices such as the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>. It's also a bug that is hard to spot most of the time, and there's no clear reason why it's happening.<br/>
+<br/>
+Apple told <em>iMore</em> that it is aware of the issue and is working on a software update to fix it.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Pro">iPad Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/oled-ipad-pro-hdr-bug/">HDR Bug Impacts OLED iPad Pro, Apple Working on Software Fix</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/hdr-bug-impacts-oled-ipad-pro-apple-working-on-software-fix.2426236/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>M2 iPad Air Reviews: A Larger Display at a More Affordable Price</title>
+		<link>https://www.macrumors.com/review/m2-ipad-air/</link>
+		<comments>https://forums.macrumors.com/threads/m2-ipad-air-reviews-a-larger-display-at-a-more-affordable-price.2426233/</comments>
+		<pubDate>Mon, 13 May 2024 15:26:17 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/review/m2-ipad-air&#038;post_date=1715649977/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iPad Air</category>
+		
+
+		<description><![CDATA[While the <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models were the star of last week's event, Apple also introduced a refreshed version of the <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a>. The new &zwnj;iPad Air&zwnj; is set to come out on Wednesday, May 15, and prior to launch, members of the media have shared their first &zwnj;iPad Air&zwnj; impressions.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/M2-iPad-Air-Hero-Feature-Green.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-949533" /><br/>
+For the most part, the &zwnj;iPad Air&zwnj; is the same as the prior-generation model, with one major exception: the screen size. Apple now has a 10.9-inch version and a 12.9-inch version, so the &zwnj;iPad Air&zwnj; lineup is similar to the &zwnj;iPad Pro&zwnj; lineup. Both versions are equipped with an <a href="https://www.macrumors.com/guide/m2/">M2</a> chip and lack the higher-quality display of the M4 &zwnj;iPad Pro&zwnj;.<br/>
+<br/>
+<h2>Larger Size</h2><br/>
+The 13-inch &zwnj;iPad Air&zwnj; weighs less than the prior-generation 12.9-inch &zwnj;iPad Pro&zwnj; at 1.36 pounds vs 1.5 pounds, but it's not as light as the M4 &zwnj;iPad Pro&zwnj;. <em><a href="https://www.engadget.com/ipad-air-2024-review-of-course-this-is-the-ipad-to-get-210019225.html">Engadget</a></em> said that the 13-inch model offers a solid option for someone who "wants a big display" without spending &zwnj;iPad Pro&zwnj; money.<br/>
+<blockquote>That doesn't sound like a major difference, but it's been just enough for me to feel more comfortable using the Air as a tablet rather than just docked in a keyboard case. It's still a little more unwieldy than I'd like, and it's still heavier and thicker than the new 13-inch iPad Pro. But, the iPad Air is &#36;500 cheaper; at that price, I'm willing to accept a little trade-off.</blockquote><br/>
+While the 13-inch model is new, the 11-inch model is indistinguishable from the 10.9-inch model in terms of design. It is worth noting that Apple is just rounding differently for its size options, and there is no actual difference in screen size.<br/>
+<br/>
+<em><a href="https://www.cnet.com/tech/computing/ipad-air-review-in-progress-the-ipad-pro-you-should-buy/">CNET</a></em> pointed out that the "Air" name has lost its meaning because the Pro is the thinner and lighter tablet.<br/>
+<blockquote>The first Apple "Air" device, the MacBook Air, was called Air because it was super thin. Don't apply this logic to the iPad Air, because the iPad Pro is actually thinner. The iPad Air is far from chunky, though; it's the same-looking tablet as previous iPad Pro or Air models. I'm just here to say maybe I agree that the term "Air" has lost its meaning (unless we're talking about it just being lighter in features and performance). I'd suggest getting rid of the "Air" name and call it the iPad Pro, and then change the iPad Pro to the iPad Ultra.</blockquote><br/>
+<br/>
+<h2>M2 Chip</h2><br/>
+The &zwnj;M2&zwnj; chip in the &zwnj;iPad Air&zwnj; is the same chip in the prior-generation &zwnj;iPad Pro&zwnj;. <em><a href="https://www.theverge.com/24155407/apple-ipad-air-review-2024">The Verge</a></em> said it's a "fast and reliable chip" and it runs the same in the &zwnj;iPad Air&zwnj; as it did in the &zwnj;iPad Pro&zwnj;, according to benchmarking tests.<br/>
+<br/>
+<em><a href="https://arstechnica.com/gadgets/2024/05/m2-ipad-air-review-the-everything-ipad/">Ars Technica</a></em> said that the &zwnj;M2&zwnj; chip is a "solid generational jump up from the <a href="https://www.macrumors.com/guide/m1/">M1</a>," and that the &zwnj;M1&zwnj; was "already generally overkill" for most <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> apps. The &zwnj;M2&zwnj; is "unquestionably powerful enough to do everything people currently use iPads to do."<br/>
+<br/>
+<h3>Display Quality</h3><br/>
+The &zwnj;iPad Air&zwnj; has an LCD display that is not as good as the <a href="https://www.macrumors.com/guide/oled-ipad-pro/">OLED iPad Pro</a> display or the prior-generation 12.9-inch mini-LED &zwnj;iPad Pro&zwnj; display, but it's "more than bright enough for indoor use," according to <em><a href="https://www.engadget.com/ipad-air-2024-review-of-course-this-is-the-ipad-to-get-210019225.html">Engadget</a></em>. The main downside is the lack of a higher frame rate and no support for ProMotion technology.<br/>
+<br/>
+<em><a href="https://mashable.com/review/apple-ipad-air-2024">Mashable</a></em> compared the &zwnj;iPad Air&zwnj; to the &zwnj;OLED &zwnj;iPad&zwnj; Pro&zwnj; and said that it can be difficult to tell the difference in good lighting, but in "challenging lighting situations" like a brightly lit office or outdoors, the &zwnj;iPad Pro&zwnj; display is much better.<br/>
+<br/>
+<h2>Other Features</h2><br/>
+The relocated camera on the landscape edge is a solid quality of life improvement, and <em><a href="https://www.engadget.com/ipad-air-2024-review-of-course-this-is-the-ipad-to-get-210019225.html">Engadget</a></em> said that it's actually useful for video calling.<br/>
+<blockquote>That camera is basically the same as the one in the last iPad Air, but now that it's on the landscape edge it's much better for video calling when you're using it with a keyboard. I'd actually consider taking work calls with the iPad now, something that wasn't the case before.</blockquote><br/>
+<em><a href="https://www.theverge.com/24155407/apple-ipad-air-review-2024">The Verge</a></em> said that the relocated camera is about the only noticeable change to the &zwnj;iPad Air&zwnj;.<br/>
+<blockquote>Apple moved the front-facing camera to the middle of the landscape edge, which means I can use it for video calls without looking like I'm always staring up and away from the screen. This is a great change, and one Apple should have made a long time ago. If you do want to buy an Air, I'd recommend this one over the previous generation just to get the camera in the right place.</blockquote><br/>
+Another bonus is the 128GB starting storage space, up from 64GB in the prior-generation model, along with the option for 1TB of maximum storage.<br/>
+<br/>
+Battery life is listed as 10 hours, but <em><a href="https://mashable.com/review/apple-ipad-air-2024">Mashable</a></em> was able to get a full 13 hours from a single charge when watching TikTok videos.<br/>
+<br/>
+<h2>Cost</h2><br/>
+<em><a href="https://www.engadget.com/ipad-air-2024-review-of-course-this-is-the-ipad-to-get-210019225.html">Engadget</a></em> said that the &zwnj;iPad Air&zwnj; offers 80 percent of the Pro experience at a more affordable price, and <em>TechCrunch</em> said that while the &zwnj;iPad Pro&zwnj; is the best tablet if money is no concern, the &zwnj;iPad Air&zwnj; is a good option when money matters and for non-creatives. More importantly, "paying MacBook prices for an &zwnj;iPad&zwnj; is a bridge too far."<br/>
+<br/>
+<em><a href="https://www.theverge.com/24155407/apple-ipad-air-review-2024">The Verge</a></em> said that the &zwnj;iPad Air&zwnj; is a "study in tradeoffs," describing it as a "Goldilocks" &zwnj;iPad&zwnj;. The &#36;250 cheaper standard &zwnj;iPad&zwnj; is "just about as good at every common &zwnj;iPad&zwnj; activity" and a better option for casual users. Exceptions include users who want a big screen or who use the <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> often, as the &zwnj;iPad Air&zwnj; supports the new &zwnj;Apple Pencil&zwnj; Pro.<br/>
+<blockquote>If you're just looking for a way to send emails, browse the web, play games, and maybe make an iMovie or two, none of that will really change the way you use your iPad. An iPad is an iPad is an iPad, and until Apple either fixes a bunch of things or opens up the operating system -- and I wouldn't hold my breath on either one -- you just aren't going to get enough out of all that extra power to make it a must-have upgrade.</blockquote><br/>
+<h2>More Info</h2><br/>
+Pricing on the &zwnj;iPad Air&zwnj; starts at &#36;599, and it can be ordered from Apple's website.<br/>
+<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/review/m2-ipad-air/">M2 iPad Air Reviews: A Larger Display at a More Affordable Price</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m2-ipad-air-reviews-a-larger-display-at-a-more-affordable-price.2426233/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>M4 iPad Pro Reviews: Incredible Speed and Display Hampered By Software</title>
+		<link>https://www.macrumors.com/review/m4-ipad-pro/</link>
+		<comments>https://forums.macrumors.com/threads/m4-ipad-pro-reviews-incredible-speed-and-display-hampered-by-software.2426231/</comments>
+		<pubDate>Mon, 13 May 2024 14:55:13 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/review/m4-ipad-pro&#038;post_date=1715648113/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iPad Pro</category>
+		<category>iPad Pro 11&quot;</category>
+		
+
+		<description><![CDATA[The M4 <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models are set to be delivered to customers starting on Wednesday, May 15, and ahead of that date, members of the media have shared their opinions on the device in official reviews.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-950292" src="https://images.macrumors.com/article-new/2024/05/m4-ipad-pro-purple.jpg" alt="" width="2500" height="1406" /><br/>
+<br/>
+<h2>Written Reviews</h2><br/>
+With M4 chips, OLED displays, and a thin and light design, the new &zwnj;iPad Pro&zwnj; models mark a significant upgrade over the prior-generation versions.<br/>
+<br/>
+<h3>M4 Chip Performance</h3><br/>
+The &zwnj;iPad Pro&zwnj; is equipped with Apple's next-generation M4 chip, and as <em><a href="https://www.engadget.com/ipad-pro-2024-review-so-very-nice-and-so-very-expensive-210012937.html?src=rss">Engadget</a></em> points out, it offers "more power than almost anyone buying an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> will know what to do with."<br/>
+<br/>
+<em><a href="https://gizmodo.com/ipad-pro-m4-review-peformance-battery-life-1851470600">Gizmodo</a></em> said the M4 "feels more like a fork of the M3 than real new hardware." As an example, an Octane X rendering test took 1 minute and 53 seconds with the M4, and the same test on a <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> with M3 chip took 57 seconds.<br/>
+<blockquote>If I run Octane X on the latest MacBook Air 15 with the same amount of RAM as my review copy of the iPad Pro, it will run down the screw scene in about 57 seconds. There aren't many ways to compare Apples to Apples from a tablet ecosystem to a full-fledged Mac. For one, the iPad doesn't have an easy, established way of tracking framerates in games. But for the sake of argument, I loaded up Resident Evil 4 on iPad Pro 2024, iPad Pro 2022, and the M3 MacBook Air. All ran with a relatively solid performance on the default low-to-mid settings. There are no graphics options on the iPad, but the two look identical across the older and new tablets.</blockquote><br/>
+According to <em><a href="https://www.theverge.com/24155440/apple-ipad-pro-2024-review">The Verge</a></em>, the M4 &zwnj;iPad Pro&zwnj; scored 50 percent higher than the M3 version in benchmark tests, but while it feels faster, it doesn't feel 50 percent faster. There likely isn't a way to tell the difference between the 9-core and 10-core M4 &zwnj;iPad Pro&zwnj; models.<br/>
+<blockquote>Apps load and close a half-beat faster with the M4, even complex games run perfectly smooth (I still can't believe how good Call of Duty: Warzone Mobile looks on this device), and iMovie renders video noticeably more quickly than on the 11-inch M2 Pro I've been using for a couple of years. Individually, these aren't earth-shattering upgrades, but particularly if you're doing a lot of intense photo and video work or even love a long Warzone session, it's a real performance bump.</blockquote><br/>
+<h3>Software</h3><br/>
+Despite the incredible performance that the M4 chip brings, reviewers pointed out the shortcomings of iPadOS. <a href="https://sixcolors.com/post/2024/05/m4_ipad_pro_review/"><em>SixColors</em> Jason Snell</a> said that the &zwnj;iPad Pro&zwnj; is able to "handle pretty much any task it's capable of executing," but that it's "let down by iPadOS limitations."<br/>
+<br/>
+Longtime &zwnj;iPad&zwnj; user <a href="https://www.macstories.net/stories/not-an-ipad-pro-review/">Federico Viticci of <em>MacStories</em></a> didn't share a full review of the new &zwnj;iPad&zwnj;, but he penned a piece pointing out the many shortcomings of iPadOS. It's well worth a read to see what it's like using an &zwnj;iPad&zwnj; as a main machine, with highlights on the pain points of multitasking, limited apps, and more.<br/>
+<br/>
+<em><a href="https://www.wsj.com/tech/personal-tech/ipad-pro-vs-macbook-the-great-apple-laptop-tradeoff-3304323d?mod=rss_Technology">The Wall Street Journal</a></em>'s Joanna Stern said that using the &zwnj;iPad Pro&zwnj; is like "driving a Ferrari on a golf course" because the iPhone-based operating system hampers what the &zwnj;iPad&zwnj; could be capable of doing.<br/>
+<br/>
+<em><a href="https://gizmodo.com/ipad-pro-m4-review-peformance-battery-life-1851470600">Gizmodo</a></em> said that despite the creativity apps available on the &zwnj;iPad&zwnj;, it "still isn't direct competition for the versatility of a MacBook" and it's not a good platform for those who want to "multitask on multiple windows."<br/>
+<br/>
+Almost every review mentioned the shortcomings of iPadOS as the major fault with the new &zwnj;iPad Pro&zwnj; models.<br/>
+<br/>
+<h3>OLED Display</h3><br/>
+<em><a href="https://www.engadget.com/ipad-pro-2024-review-so-very-nice-and-so-very-expensive-210012937.html?src=rss">Engadget</a></em> said that the new &zwnj;iPad Pro&zwnj; is "incredibly bright, sharp, and vibrant" regardless of task. Going from an LCD to OLED is a massive upgrade, but updating from the mini-LED model won't feel quite as impressive.<br/>
+<blockquote>Everything is incredibly bright, sharp and vibrant, whether I'm browsing the web, editing photos, watching movies or playing games. I cannot stress enough how delightful this screen is -- I have a flight this week, and I can't wait to spend it watching movies. Watching a selection of scenes from Interstellar shows off the HDR capabilities as well as the contrast between the blackness of space and the brightness of surrounding stars and galaxies, while more vibrant scenes like the Shire in Fellowship of the Ring had deep and gorgeous colors without feeling overly saturated or unrealistic.</blockquote><br/>
+<em><a href="https://techcrunch.com/2024/05/13/apple-ipad-pro-m4-vs-ipad-air-m2-which-is-right-for-most/">TechCrunch</a></em> said that the optional nano-texture matte add-on brought an "extra level of tactility" and "welcome friction" to the &zwnj;iPad&zwnj;'s display when using it with an <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a>. The OLED display is noticeably brighter than the LCD display of the <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a>, but it may not be an upgrade worth &#36;500 for most users.<br/>
+<br/>
+<em><a href="https://www.theverge.com/24155440/apple-ipad-pro-2024-review">The Verge</a></em> said that the OLED display "works beautifully" and that colors can even look like they have too much HDR. It can also have more glare and reflection than expected.<br/>
+<blockquote>All of the traditional upsides of OLED are immediately apparent: since OLEDs control each pixel individually, you get much richer blacks, so the letterboxes above and below a video just disappear into the bezel, and photos look much more dynamic. Colors are incredibly vibrant -- to the point of occasionally looking too contrasty and HDR-y to my eyes. The Pro's peak brightness is significantly brighter than the new Air, too, which is tough to pull off with an OLED.</blockquote><br/>
+<br/>
+<h3>Design</h3><br/>
+Jason Snell of <em>SixColors</em> said that while the &zwnj;iPad Pro&zwnj;'s internals have been updated, it <a href="https://sixcolors.com/post/2024/05/m4_ipad_pro_review/">looks a lot like</a> a "thinner version of the 2018-era design." It's a "good design" that didn't need to be updated, but the lighter weight makes it less awkward to hold in one hand.<br/>
+<br/>
+There continues to be just one Thunderbolt 4 port that limits connecting external devices and charging at the same time without a dock.<br/>
+<br/>
+<a href="https://www.engadget.com/ipad-pro-2024-review-so-very-nice-and-so-very-expensive-210012937.html?src=rss"><em>Engadget</em></a> went further and said that the thinner design and lighter weight "radically" changes the experience of holding the 13-inch &zwnj;iPad Pro&zwnj;, and it's now comfortable to use as a hand-held tablet.<br/>
+<blockquote>But with something like an iPad, where you're meant to pick it up, hold it and touch it, shaving off a quarter of a pound and 20 percent of its thickness actually makes a huge difference in the experience of using the product. It's more comfortable and easier to use -- and, provided that there are no durability concerns here, this is a major improvement.</blockquote><br/>
+<a href="https://www.theverge.com/24155440/apple-ipad-pro-2024-review"><em>The Verge</em></a> said that the &zwnj;iPad Pro&zwnj; is the "closest thing" to the vision that a tablet should feel "like a piece of glass in your hand."<br/>
+<br/>
+<em><a href="https://www.independent.co.uk/extras/indybest/gadgets-tech/laptops-tablets/ipad-pro-m4-2024-review-b2544053.html">The Independent</a></em> said that the thin design is the most noticeable &zwnj;iPad Pro&zwnj; feature, and though it's thin, it's durable.<blockquote>The larger of the two iPad Pro models takes your breath away. At 5.1mm thick, it's not only much thinner than the last large Pro model, which was 6.4mm thick, it's actually thinner than any product Apple has made before. Let that sink in. It's thinner than the tiny iPod nano, though Apple says it's as tough and durable as before. In the hand, there's no flex or creaking even if you try to twist it.</blockquote><br/>
+<br/>
+<h3>Apple Pencil Pro and Magic Keyboard</h3><br/>
+<a href="https://sixcolors.com/post/2024/05/m4_ipad_pro_review/"><em>SixColors</em>' Jason Snell</a> said that the Magic Keyboard is an improvement over the original model thanks to the full function row, the larger trackpad, and the addition of haptic feedback. With aluminum, it feels "a bit more like one of Apple's laptops."<br/>
+<br/>
+<em><a href="https://www.engadget.com/ipad-pro-2024-review-so-very-nice-and-so-very-expensive-210012937.html?src=rss">Engadget</a></em> said that the Magic Keyboard is thinner and lighter than before, for a more compact and portable feel.<br/>
+<br/>
+According to <em><a href="https://www.imore.com/ipad/apple-pencil-pro-review">iMore</a></em>, the &zwnj;Apple Pencil&zwnj; Pro's squeeze gesture saves wasted hand movements and simplifies navigation, while the barrel roll option allows for flourishes and sweeps in supported software.<br/>
+<h3>Other Features</h3><br/>
+Apple moved the camera to the landscape edge of the &zwnj;iPad&zwnj; rather than the portrait edge, which means video calls are now in the appropriate orientation when the &zwnj;iPad&zwnj; is connected to a keyboard, and that's a feature reviewers liked. <em>CNBC</em> said the camera is "finally in the right place."<br/>
+<blockquote>The camera is finally in the right place. It's along the landscape edge of the iPad so that, when it's propped up, it's dead center for FaceTime calls. It used to be on the top of the iPad, forcing that awkward glance to the side during video calls. The quality was nice and clear during my tests and I like that the camera, using the Center Stage features, followed me as I moved around the room.</blockquote><br/>
+<em><a href="https://www.imore.com/ipad/ipad-pro-2024-review">iMore</a></em> commented on the speakers and said that they "sound pretty good" both for watching TV shows and for video calls.<br/>
+<br/>
+Multiple reviews also covered battery life, and said that the &zwnj;iPad Pro&zwnj; gets the expected 10 hours that Apple advertises.<br/>
+<h2>Videos</h2><br/>
+<br/>
+<div class="center-wrap"><iframe title="M4 iPad Pro Review: Beastly Hardware Tamed By Software" src="https://www.youtube.com/embed/r86dPwFLDqI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+<div class="center-wrap"><iframe title="M4 iPad Pro Review" src="https://www.youtube.com/embed/FWFTa4EXpyE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+<div class="center-wrap"><iframe title="2024 iPad Pro Review: My Computer" src="https://www.youtube.com/embed/k4VG-XktLBY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+<div class="center-wrap"><iframe title="My 2024 iPad Pro Review" src="https://www.youtube.com/embed/bG2N4a0ir3A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/5yK5oyoGYSE" title="New M4 iPad Pro Review with Apple Pencil Pro!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+Pricing on the M4 &zwnj;iPad Pro&zwnj; begins at &#36;999, and it can be purchased from Apple's website.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Pro">iPad Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/review/m4-ipad-pro/">M4 iPad Pro Reviews: Incredible Speed and Display Hampered By Software</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m4-ipad-pro-reviews-incredible-speed-and-display-hampered-by-software.2426231/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Logic Pro for Mac and iPad Updates With New AI Features</title>
+		<link>https://www.macrumors.com/2024/05/13/apple-releases-logic-pro-ai-update/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-logic-pro-for-mac-and-ipad-updates-with-new-ai-features.2426228/</comments>
+		<pubDate>Mon, 13 May 2024 13:46:04 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/apple-releases-logic-pro-ai-update/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Logic Pro</category>
+		
+
+		<description><![CDATA[Apple today released an updated version of Logic Pro, introducing all of the new features that were previewed last week. New versions of both Logic Pro and Final Cut Pro were announced alongside the new <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models last Tuesday, and the updates are available for Mac and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/apple-logic-pro-2.jpeg" alt="" width="1600" height="901" class="aligncenter size-full wp-image-949469" /><br/>
+Logic Pro has new AI-based studio assistant features that help artists make music, with these options joining Smart Tempo and the Pitch Correction plug-in. Session Players expand the Drummer capabilities in Logic Pro, with Apple adding a new Bass Player and Keyboard Player. Session Players are able to follow the same chord progression using Global chord track.<br/>
+<br/>
+With a new ChromaGlow feature, users can dial in the perfect tone and choose from five different saturation styles to add warmth, presence, and punch to tracks by simulating the sound of vintage analog hardware.<br/>
+<br/>
+Audio files can be separated into stems for vocals, drums, bass, and other parts using the Stem Splitter feature. Separating tracks is aimed at making it easier to apply effects, add new parts, and change the mix. There are also updates for Sound Library, Spatial Audio, and other features with Apple's full notes available below.<blockquote><strong>AI Enhanced Tools</strong><br/>
+- New AI enhanced tools join Smart Tempo and the Pitch Correction plug-in to augment your artistry<br/>
+- Bass Player and Keyboard Player join Drummer to complete a set of Session Players -- all built with AI making it easy to create performances that respond to your direction<br/>
+- Session Players can follow the same chord progression using Global chord track<br/>
+- Add warmth to any track with ChromaGlow, an advanced plug-in with five saturation models designed to simulate the sound of vintage analog hardware. Requires M1 chip or later.<br/>
+- Separate a stereo audio file into stems for vocals, drums, bass and other parts with Stem Splitter. Requires M1 chip or later.<br/>
+- Session Players, ChromaGlow, and Stem Splitter also come to Logic Pro for iPad 2 -- making it simple to move between projects created in Logic Pro for Mac<br/>
+<br/>
+<strong>Sound Library</strong><br/>
+- Play any of six deeply-sampled acoustic and electric basses with Studio Bass<br/>
+- Perform any of three meticulously-sampled pianos with Studio Piano<br/>
+- Loops that contain chord tags will automatically populate the chord track when added to a project<br/>
+- Three new Producer Packs are available: Hardwell, The Kount, and Cory Wong<br/>
+- Original multi-track project of "Swing!" by Ellie Dixon available as in-app demo song<br/>
+<br/>
+<strong>Spatial Audio</strong><br/>
+- Downmix and trim options allow custom mixing for non-Atmos channel configurations<br/>
+- Exported ADM BWF files have been expanded beyond Dolby Atmos and can contain settings for stereo and other multi-channel formats<br/>
+<br/>
+<strong>Enhancements</strong><br/>
+- Bounce in place adds automatic realtime recording for External Instrument regions or tracks that utilize external hardware using Logic's I/O plug-in<br/>
+- MIDI generated by supported software instruments and effects can be routed to the input of other tracks for creative layering during playback or recording<br/>
+- Edit more efficiently using key commands for moving, extending, or resizing marquee selections</blockquote>These features are available for Logic Pro on the Mac, with Session Players, ChromaGlow, Stem Splitter, and the new Sound Library options also available on Logic Pro 2 for the &zwnj;iPad&zwnj;.<br/>
+<br/>
+The updated version of Logic Pro is free for existing users, and &#36;200 for new users.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/logic-pro/">Logic Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/apple-releases-logic-pro-ai-update/">Apple Releases Logic Pro for Mac and iPad Updates With New AI Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-logic-pro-for-mac-and-ipad-updates-with-new-ai-features.2426228/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>When to Expect the First Macs With the M4 Chip to Launch</title>
+		<link>https://www.macrumors.com/2024/05/13/when-to-expect-the-first-m4-macs/</link>
+		<comments>https://forums.macrumors.com/threads/when-to-expect-the-first-macs-with-the-m4-chip-to-launch.2426227/</comments>
+		<pubDate>Mon, 13 May 2024 13:34:50 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/when-to-expect-the-first-m4-macs/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>M4 MacBook Pro</category>
+		
+
+		<description><![CDATA[Apple last week <a href="https://www.macrumors.com/2024/05/07/apple-announces-new-ipad-pro/">updated the iPad Pro with the M4 chip</a>, marking the first time that it introduced an M-series chip in an iPad instead of a Mac. However, the first Macs equipped with the M4 chip will allegedly be released in a matter of months.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/M4-Mac-Mini-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-946149" /><br/>
+In his latest <a href="https://www.bloomberg.com/news/newsletters/2024-05-12/who-will-run-apple-after-cook-leaves-a-look-at-company-s-succession-challenge-lw3j2t5z"><em>Power On</em> newsletter</a> on Sunday, <em>Bloomberg</em>'s Mark Gurman said the MacBook Pro and Mac mini will be updated with the M4 series of chips later this year. Specifically, he expects a 14-inch MacBook Pro with the M4 chip, 14-inch and 16-inch MacBook Pro models with M4 Pro and M4 Max chips, and Mac mini models with M4 and M4 Pro chips.<br/>
+<br/>
+He expects the MacBook Air, Mac Studio, and Mac Pro to be updated with M4-series chips throughout 2025, but he did not mention the iMac.<br/>
+<br/>
+Gurman had <a href="https://www.macrumors.com/2024/04/14/when-are-m4-macs-launching/">already shared a roadmap for M4 Macs</a>, but he was more definitive this time with his claim that the first Macs with the M4 chip will be released later this year, rather than at some point between late 2024 and early 2025. October is a common month for Apple to release new Macs, so the MacBook Pro and Mac mini could be updated in around five months from now if Gurman's timeframes prove to be accurate.<br/>
+<br/>
+Geekbench 6 results show that the M4 chip is <a href="https://www.macrumors.com/2024/05/10/m4-ipad-pro-cpu-benchmark/">up to 25% faster than the M3 chip</a> for multi-core CPU performance. Manufactured with TSMC's second-generation 3nm process, the M4 chip is also more power efficient than the M3 chip.<br/>
+<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/m4-macbook-pro/">M4 MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/when-to-expect-the-first-m4-macs/">When to Expect the First Macs With the M4 Chip to Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/when-to-expect-the-first-macs-with-the-m4-chip-to-launch.2426227/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>OpenAI Announces ChatGPT App for Mac, GPT-4 for Free, and More</title>
@@ -339,300 +673,6 @@ Writing in his latest <a href="https://www.bloomberg.com/news/newsletters/2024-0
 Gurman expects the next iPad model to feature a newer processor, but few other changes. Other sources have <a href="https://www.macrumors.com/guide/apples-2024-ipad-mini-all-the-rumors-so-far/">claimed</a> new camera upgrades could be included, as well as a potential fix for the "<a href="https://www.macrumors.com/2023/10/13/jelly-scrolling-reduced-on-ipad-mini-7/">jelly scrolling</a>" display behavior on the latest model.<br/>
 <br/>
 Gurman previously said that a new entry-level iPad model is similarly unlikely to make an appearance before late 2024 at the earliest. The current low-end iPad was last updated in October 2022.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad_Mini">iPad Mini (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/ipad-mini-7-not-expected-before-late-2024/">Next iPad Mini Still Not Expected Before Late 2024 at the Earliest</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/next-ipad-mini-still-not-expected-before-late-2024-at-the-earliest.2426177/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Gamma Emulator Brings Classic PS1 Gaming to iPhone and iPad</title>
-		<link>https://www.macrumors.com/2024/05/13/gamma-ps1-emulator-released-iphone/</link>
-		<comments>https://forums.macrumors.com/threads/gamma-emulator-brings-classic-ps1-gaming-to-iphone-and-ipad.2426173/</comments>
-		<pubDate>Mon, 13 May 2024 04:15:08 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/gamma-ps1-emulator-released-iphone/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[<a href="https://apps.apple.com/us/app/gamma-game-emulator/id6499106870?platform=iphone">Gamma</a>, a new emulator for playing classic PlayStation 1 games on iPhone and iPad, has just hit the App Store. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/gamma-emulator-ios.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-950357" /><br/>
-Developed by Benjamin Stark, aka ZodTTD, Gamma features customizable onscreen controller skins, and includes support for Bluetooth controllers as well as wired and non-wired keyboards.<br/>
-<br/>
-Similar to the fantastically popular <a href="https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/">Delta emulator</a>, the Gamma app uses third-party cloud syncing services for backing up game files and save states, and also downloads game cover artwork. <br/>
-<br/>
-Fortunately for PS1 fans, Gamma does not require BIOS files to run games, although some users have reported a few issues getting some ROMs to run smoothly, but bug fixes are likely coming soon. Stark is a veteran of the emulator field and has been making retro game emulators on mobile for over 15 years.<br/>
-<br/>
-It's worth noting that while Gamma is free to download and contains no iAPs (as per <a href="https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/">Apple's emulator rules</a>) its <a href="https://apps.apple.com/us/app/gamma-game-emulator/id6499106870?platform=iphone">App Store page</a> says that it collects identifiers that can be used to track you, and may collect location and usage data. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/gamma-ps1-emulator-released-iphone/">Gamma Emulator Brings Classic PS1 Gaming to iPhone and iPad</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/gamma-emulator-brings-classic-ps1-gaming-to-iphone-and-ipad.2426173/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Wrapping Up OpenAI Deal to Bring ChatGPT Features to iOS 18</title>
-		<link>https://www.macrumors.com/2024/05/13/apple-finalizing-deal-openai-chatgpt-ios-18/</link>
-		<comments>https://forums.macrumors.com/threads/apple-wrapping-up-openai-deal-to-bring-chatgpt-features-to-ios-18.2426171/</comments>
-		<pubDate>Mon, 13 May 2024 03:14:38 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/13/apple-finalizing-deal-openai-chatgpt-ios-18/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		<category>Bloomberg</category>
-		<category>Artificial Intelligence</category>
-		<category>ChatGPT</category>
-		<category>Apple GPT</category>
-		
-
-		<description><![CDATA[Apple has closed in on a deal with OpenAI that should see ChatGPT being used to power new features in its next iPhone operating system, according to <em>Bloomberg</em>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/iOS-18-WWDC-24-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-944197" /><br/>
-In a <a href="https://www.bloomberg.com/news/articles/2024-05-11/apple-closes-in-on-deal-with-openai-to-put-chatgpt-on-iphone">report</a> over the weekend, <em>Bloomberg</em> claimed that the two companies have been "finalizing terms for a pact to use ChatGPT features in Apple's iOS 18." How the popular chatbot would integrate with Apple's software is not yet known. <br/>
-<br/>
-The agreement would see ChatGPT become another tool in a range of AI features that Apple is expected to bring to iPhones. Apple is also said to be in <a href="https://www.macrumors.com/2024/03/18/apple-google-gemini-ios-18-iphone/">ongoing talks</a> with Google to license its Gemini chatbot, but those discussions have not reportedly led to an agreement. Apple is known to have been in talks with OpenAI since <a href="https://www.macrumors.com/2024/03/21/apple-iphone-ai-talks-google-openai-ongoing/">February</a>.<br/>
-<br/>
-Apple at its annual Worldwide Developers Conference next month is expected to announce <a href="https://www.macrumors.com/2023/11/13/apple-says-ios-18-ambitious-compelling/">several AI features</a> coming to iOS 18, which is said to be one of the biggest upgrades to the iPhone operating system in years. According to Haitong analyst Jeff Pu, Apple plans to run some of the features on data servers <a href="https://www.macrumors.com/2024/05/06/apple-building-m2-ultra-and-m4-servers/">powered by its own in-house chips</a>.<br/>
-<br/>
-Apple CEO Tim Cook confirmed in <a href="https://www.macrumors.com/2024/02/28/tim-cook-apple-generative-ai-break-new-ground/">February</a> that Apple plans to "break new ground" in AI. <em>Bloomberg</em> reporter Mark Gurman has previously <a href="https://www.macrumors.com/2023/03/15/apple-engineers-working-on-chatgpt-like-ai/">reported</a> that Apple is also working on its own chatbot tool that some engineers have dubbed "Apple GPT" to rival OpenAI's ChatGPT.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/artificial-intelligence/">Artificial Intelligence</a>, <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a>, <a href="https://www.macrumors.com/guide/apple-gpt/">Apple GPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/13/apple-finalizing-deal-openai-chatgpt-ios-18/">Apple Wrapping Up OpenAI Deal to Bring ChatGPT Features to iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-wrapping-up-openai-deal-to-bring-chatgpt-features-to-ios-18.2426171/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Apple Deals of the Week: First Discounts Hit M4 iPad Pro Alongside Sales on AirPods, MacBooks, and More</title>
-		<link>https://www.macrumors.com/2024/05/11/best-apple-deals-of-the-week-5-10-24/</link>
-		<comments>https://forums.macrumors.com/threads/best-apple-deals-of-the-week-first-discounts-hit-m4-ipad-pro-alongside-sales-on-airpods-macbooks-and-more.2426050/</comments>
-		<pubDate>Sat, 11 May 2024 09:20:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/11/best-apple-deals-of-the-week-5-10-24/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[This week's best deals included a wide variety of Apple products and related accessories, ranging from the brand new M4 iPad Pro to Samsung's ViewFinity S9 5K Display.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/06/Hero0009.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-847999" /><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2>M4 iPad Pro</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/05/m4-ipad-pro-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950292" /><br/>
-<ul><li><strong>What's the deal?</strong> Get &#36;50 off M4 iPad Pro</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://howl.me/cmc4YVRkPCI">Best Buy</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/05/08/best-buy-m4-ipad-pro-discounts/">Right here</a></li></ul><br/>
-<div class="center-wrap"><em><strong>Note: You need a My Best Buy Plus/Total membership to see these deals.</strong></em></div><br/>
-<div class="center-wrap"><a href="https://howl.me/cmc4YVRkPCI"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>M4 iPad Pro at Best Buy</div></a></div><br/>
-<br/>
-The most notable deal of the week appeared at Best Buy, which still has the new M4 iPad Pro on sale at &#36;50 off for My Best Buy Plus/Total members. These iPad Pros were just announced this week, so this is the first pre-order discount we've seen on the tablets.<br/>
-<br/>
-<h2>Adobe</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/05/adobe-creative-cloud-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950293" /><br/>
-<ul><li><strong>What's the deal?</strong> Get 40% off Adobe Creative Cloud All Apps</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://adobe.prf.hn/click/camref:1100lr4gy/destination:https%3A%2F%2Fwww.adobe.com%2Fcreativecloud%2Fplans.html%3Fpromoid%3DTBJRLL8W%26mv%3Dother">Adobe</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/05/09/adobe-40-off-creative-cloud/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://adobe.prf.hn/click/camref:1100lr4gy/destination:https%3A%2F%2Fwww.adobe.com%2Fcreativecloud%2Fplans.html%3Fpromoid%3DTBJRLL8W%26mv%3Dother"target="_blank"><div class="fancybutton"><div class="fancybadge">40% OFF</div>Adobe Creative Cloud All Apps for &#36;35.99/month</div></a></div><br/>
-<br/>
-Adobe is offering first-time subscribers of the Creative Cloud All Apps plan a 40 percent discount on the service, priced at &#36;35.99 per month. This is for your first year of the subscription plan, and it includes access to more than 20 creative apps like Photoshop and Illustrator.<br/>
-<br/>
-<h2>AirPods</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/05/airpods-3-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950294" /><br/>
-<ul><li><strong>What's the deal?</strong> Get up to &#36;49 off AirPods</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/05/06/amazons-new-sale-airpods/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>AirPods 2 for &#36;79.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BDHB9Y8H%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;29 OFF</div>AirPods 3 for &#36;139.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;69 OFF</div>AirPods Pro 2 (USB-C) for &#36;179.99</div></a></div><br/>
-<br/>
-Amazon kicked off the week with the first notable discount on the AirPods 3 since February. You can still get these earbuds for &#36;139.99 right now, down from &#36;169.00, and the AirPods 2 and AirPods Pro 2 are also on sale.<br/>
-<br/>
-<h2>M3 MacBook Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/05/m3-macbook-air-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950298" /><br/>
-<ul><li><strong>What's the deal?</strong> Get up to &#36;149 off M3 MacBook Air</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23P36M%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/05/06/amazon-149-off-m3-macbook-air/">Right here</a></li></ul><br/>
-<br/>
-<div class="center-wrap"><em><strong>Note: You won't see the deal price until checkout.</strong></em></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23P36M%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;149 OFF</div>15-Inch M3 MacBook Air (8GB RAM, 256GB) for &#36;1,149.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23P9S7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;149 OFF</div>15-Inch M3 MacBook Air (8GB RAM, 512GB) for &#36;1,349.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23YF4Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;149 OFF</div>15-Inch M3 MacBook Air (16GB RAM, 512GB) for &#36;1,549.99</div></a></div><br/>
-<br/>
-Amazon introduced &#36;149 off the M3 MacBook Air this week, starting at &#36;1,149.99 for the 256GB model, down from &#36;1,299.00. You can also get a few discounts on the 512GB models with both 8GB and 16GB RAM.<br/>
-<br/>
-<h2>Samsung</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/05/samsung-smart-monitor-m8-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950300" /><br/>
-<ul><li><strong>What's the deal?</strong> Save on Samsung's best monitors and TVs</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://howl.me/cmcXUnrrsdT">Samsung</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/05/08/samsung-discounts-on-monitors-tvs/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://howl.me/cmcXUnrrsdT"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;600 OFF</div>27-inch ViewFinity S9 5K Smart Monitor for &#36;999.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/cmcXSeRCgzw"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>27-inch Smart Monitor M8 for &#36;399.99</div></a></div><br/>
-<br/>
-Samsung marked down a collection of monitors and TVs earlier in the week, with notable deals on the popular ViewFinity S9 5K Smart Monitor (&#36;600 off) and Smart Monitor M8 (&#36;300 off).<br/>
-<br/>
-<h2>M1 iPad Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/05/m1-ipad-air-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950301" /><br/>
-<ul><li><strong>What's the deal?</strong> Get &#36;150 off M1 iPad Air</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3J32N8%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/05/10/every-model-m1-ipad-air-low-prices/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3J32N8%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>M1 iPad Air (64GB Wi-Fi) for &#36;449.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3H386P%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>M1 iPad Air (256GB Wi-Fi) for &#36;599.00</div></a></div><br/>
-<br/>
-Finally, Amazon is discounting every model of the M1 iPad Air this week. You'll find &#36;150 off these tablets, priced starting at &#36;449.00 for the 64GB Wi-Fi model.<br/>
-<br/>
-Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/11/best-apple-deals-of-the-week-5-10-24/">Best Apple Deals of the Week: First Discounts Hit M4 iPad Pro Alongside Sales on AirPods, MacBooks, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-first-discounts-hit-m4-ipad-pro-alongside-sales-on-airpods-macbooks-and-more.2426050/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Top Stories: Apple Event With New iPads, Apple Pencil Pro, and More</title>
-		<link>https://www.macrumors.com/2024/05/11/top-stories-new-ipad-pro-air/</link>
-		<comments>https://forums.macrumors.com/threads/top-stories-apple-event-with-new-ipads-apple-pencil-pro-and-more.2426037/</comments>
-		<pubDate>Sat, 11 May 2024 06:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/11/top-stories-new-ipad-pro-air/</guid>
-		<dc:creator>MacRumors Staff</dc:creator>
-		<category>Featured</category>
-		<category>Top Stories</category>
-		
-
-		<description><![CDATA[Apple's "Let Loose" event this week went off largely as expected, headlined by new iPad Pro and iPad Air models.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/top-stories-11may2024.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-950337" /><br/>
-The updated higher-end devices are complemented by some new accessories, while Apple also tidied up the lower-end of the lineup a bit, so read on below for all the details!<br/>
-<br/>
-<h2>Everything Announced at the Apple Event</h2><br/>
-Apple <a href="https://www.macrumors.com/2024/05/07/apple-event-live-blog-may-2024/">held its first event of the year this week</a> to announce several new devices and accessories, including new iPad Pro models with OLED displays and the M4 chip, new 11-inch and 13-inch iPad Air models, the Apple Pencil Pro, and a redesigned Magic Keyboard for the iPad Pro.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/Let-Loose-Everything-Announced-Thumb-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-949734" /><br/>
-The event ran for nearly 40 minutes, but we have <a href="https://www.macrumors.com/2024/05/07/everything-announced-may-7-event/">shared a video recapping the key announcements in just eight minutes</a>. Check out <a href="https://www.macrumors.com/2024/05/07/everything-announced-may-7-event/">all of our event coverage</a> to learn more about the new products.<br/>
-<br/>
-<h2>Apple Announces New iPad Pro With M4 Chip, OLED Display, and More</h2><br/>
-The <a href="https://www.macrumors.com/2024/05/07/apple-announces-new-ipad-pro/">new 11-inch and 13-inch iPad Pro models</a> feature the M4 chip, OLED displays with increased brightness, a <a href="https://www.macrumors.com/2024/05/08/ipod-nano-appears-in-new-ipad-pro-ad/">thinner design</a>, a <a href="https://www.macrumors.com/2024/05/07/hands-on-with-space-black-ipad-pro/">new Space Black finish</a>, a front camera/Face ID system moved to the landscape edge of the devices, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/iPad-Pro-M4-Silver-and-Space-Black-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-949554" /><br/>
-In the U.S., the 11-inch iPad Pro now starts at &#36;999, while the 13-inch iPad Pro starts at &#36;1,299. The devices are available to order now and launch on May 15.<br/>
-<br/>
-<h2>Apple Announces New iPad Air Models: M2 Chip, First-Ever 13-Inch Model, and More</h2><br/>
-The <a href="https://www.macrumors.com/2024/05/07/apple-announces-ipad-air-models-in-new-11-13-inch/">new 11-inch and 13-inch iPad Air models</a> feature the M2 chip, a front camera on the landscape edge of the devices, Wi-Fi 6E support, new color options, and a few other minor changes.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/M2-iPad-Air-Hero-Feature-Orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-949534" /><br/>
-This is the first time that Apple has offered the iPad Air in two display sizes. In the U.S., the 11-inch model starts at &#36;599, and the 13-inch model starts at &#36;799. The devices are available to order now and launch on May 15.<br/>
-<br/>
-<h2>Apple Pencil Pro Unveiled With New Squeeze Gesture, Haptic Feedback, Find My, and More</h2><br/>
-The rumored <a href="https://www.macrumors.com/2024/05/07/apple-pencil-pro-announced/">Apple Pencil Pro has arrived</a>, and it includes several new features for the accessory.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/Apple-Pencil-Pro-Newsroom.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-949489" /><br/>
-You can squeeze the Apple Pencil Pro to bring up a tool palette, and a built-in gyroscope allows users to roll the Apple Pencil Pro's barrel for precise control of shaped pen and brush tools. You can also track the location of the Apple Pencil Pro in the Find My app if it is misplaced, and it supports haptic feedback for certain actions.<br/>
-<br/>
-<h2>Apple Announces Redesigned Magic Keyboard for New iPad Pro Starting at &#36;299</h2><br/>
-Key new features of the <a href="https://www.macrumors.com/2024/05/07/apple-announces-magic-keyboard-ipad-pro/">redesigned Magic Keyboard for the new iPad Pro</a> include an aluminum palm rest, a larger trackpad, and a row of function keys with shortcuts for brightness, volume, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/magic-keyboard-3.jpg" alt="" width="3174" height="1785" class="aligncenter size-full wp-image-950182" /><br/>
-The new Magic Keyboard is compatible with the new iPad Pro models with the M4 chip only. It is available in black and white, with U.S. pricing set at &#36;299 for the 11-inch model and at &#36;349 for the 13-inch model.<br/>
-<br/>
-<h2>iPad 9 Discontinued, iPad 10 Now Starts at &#36;349</h2><br/>
-While only the iPad Pro and iPad Air were updated this week, Apple did make some changes to the lower end of the iPad lineup.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/10/10th-Gen-iPad-Feature-Fanned-Pink.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-869882" /><br/>
-First, Apple <a href="https://www.macrumors.com/2024/05/07/ipad-9-discontinued-ipad-10-now-starts-at-349/">discontinued the ninth-generation iPad with a Lightning port</a>. Second, Apple <a href="https://www.macrumors.com/2024/05/07/ipad-9-discontinued-ipad-10-now-starts-at-349/">lowered the starting price of the tenth-generation iPad</a> with a USB-C port to &#36;349 in the U.S., compared to &#36;449 previously.<br/>
-<br/>
-There are no changes to the iPad mini.<br/>
-<br/>
-<h3>MacRumors Newsletter</h3><br/>
-Each week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.<br/>
-<br/>
-So if you want to have <a href="https://mailchi.mp/macrumors/may-9-2024">top stories</a> like the above recap delivered to your email inbox each week, <b><a href="http://eepurl.com/OHdUX">subscribe to our newsletter</a></b>!<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/top-stories/">Top Stories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/11/top-stories-new-ipad-pro-air/">Top Stories: Apple Event With New iPads, Apple Pencil Pro, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/top-stories-apple-event-with-new-ipads-apple-pencil-pro-and-more.2426037/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Sonos Said Rolling Out Widely Criticized App Redesign Took &#039;Courage&#039;</title>
-		<link>https://www.macrumors.com/2024/05/10/sonos-said-rolling-out-widely-criticized-app-redesign-took-courage/</link>
-		<comments>https://forums.macrumors.com/threads/sonos-said-rolling-out-widely-criticized-app-redesign-took-courage.2425990/</comments>
-		<pubDate>Fri, 10 May 2024 14:54:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/10/sonos-said-rolling-out-widely-criticized-app-redesign-took-courage/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Sonos</category>
-		
-
-		<description><![CDATA[Sonos this week <a href="https://www.macrumors.com/2024/04/23/redesigned-sonos-app/">released a major redesign</a> for the Sonos app, introducing customizable home screen meant to deliver a personalized listening experience. The update was announced back in April, but just went live, and unfortunately, it removes a number of features while also introducing several bugs.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/sonos-redesigned-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-947528" /><br/>
-Multiple <a href="https://www.reddit.com/r/sonos/comments/1co6iy2/the_new_sonos_app_feedback_megathread/">complaints on social media</a> have <a href="https://en.community.sonos.com/ask-a-question-228987/how-to-rollback-to-s2-6892340">called the app</a> a "step back" with missing features like editing a song queue, managing playlists, shuffling a music library, and setting alarms and timers, along with slow performance and hard-to-access system controls. There has also been feedback from users about missing accessibility features.<br/>
-<br/>
-<em><a href="https://www.theverge.com/2024/5/9/24152675/sonos-new-app-bad-reviews-response-statement">The Verge</a></em> asked Sonos about the negative feedback, and in response, Sonos said that it's aware of the complaints, but "it takes courage" to rebuild a core product.<blockquote>Redesigning the Sonos app is an ambitious undertaking that represents just how seriously we are committed to invention and re-invention. It takes courage to rebuild a brand's core product from the ground up, and to do so knowing it may require taking a few steps back to ultimately leap into the future.<br/>
-<br/>
-The app's revitalization not only aims to address what customers have been asking us for in the short-term, but is also critical for supporting the exciting innovations to come from Sonos in the years ahead.<br/>
-<br/>
-We realize there are beloved features our listeners are eager to continue enjoying now. We are working diligently to reintroduce them in the coming months, alongside additional enhancements that will make for an even better app experience.<br/>
-<br/>
-This is just the beginning of an exciting new chapter for Sonos as we continue to expand the way listeners can access and enjoy all the content they love in a more personalized and seamless way. We have always and will continue to listen to customer feedback so we can create sound experiences that well exceed both our standards and the standards of our listeners.</blockquote>Sonos said that it is working to address the missing features "in the coming months," and the update will ultimately lead to "exciting innovations" in the years to come. There is no way for iOS customers who have already upgraded their apps to go back to the prior version, though users are calling for Sonos to roll back the update until the new app is more fully fleshed out.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/sonos/">Sonos</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/10/sonos-said-rolling-out-widely-criticized-app-redesign-took-courage/">Sonos Said Rolling Out Widely Criticized App Redesign Took &#039;Courage&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-said-rolling-out-widely-criticized-app-redesign-took-courage.2425990/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>TikTok Becomes First Social Network to Auto Label AI-Generated Content</title>
-		<link>https://www.macrumors.com/2024/05/10/tiktok-label-ai-generated-content/</link>
-		<comments>https://forums.macrumors.com/threads/tiktok-becomes-first-social-network-to-auto-label-ai-generated-content.2425982/</comments>
-		<pubDate>Fri, 10 May 2024 13:27:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/10/tiktok-label-ai-generated-content/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>TikTok</category>
-		
-
-		<description><![CDATA[TikTok <a href="https://newsroom.tiktok.com/en-us/partnering-with-our-industry-to-advance-ai-transparency-and-literacy">this week announced</a> that it has started automatically labeling AI-generated content created on third-party platforms, preventing AI images and videos from confusing and misleading viewers.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/08/tiktok-logo.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-752609" /><br/>
-Content made using TikTok's AI creation tools has included an AI label for more than a year, but going forward, TikTok will also label AI images made through other platforms. TikTok's tool will read Content Credentials, a technology from the Coalition for Content Provenance and Authenticity (C2PA). Content Credentials are designed to attach metadata to AI content, facilitating AI labeling.<br/>
-<br/>
-TikTok's AI labeling started rolling out today on images and videos, and it will soon be coming to audio-only content. Content created with AI will have a label that says "AI-generated" under an account's TikTok username.<br/>
-<br/>
-Labeling may be gradual, as content needs to have Content Credentials included for it to be identified and labeled. As other platforms adopt credentials, AI identification will increase across all social networks.<br/>
-<br/>
-In the future, TikTok will add Content Credentials to TikTok content that will remain when images and videos are downloaded, so people and other social networks can use the C2PA Verify tools to identify AI content that was made on TikTok.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/tiktok/">TikTok</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/10/tiktok-label-ai-generated-content/">TikTok Becomes First Social Network to Auto Label AI-Generated Content</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tiktok-becomes-first-social-network-to-auto-label-ai-generated-content.2425982/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Report: Revamped Siri to Be at the Core of Apple&#039;s New AI Strategy</title>
-		<link>https://www.macrumors.com/2024/05/10/revamped-siri-to-be-at-core-of-new-apple-strategy/</link>
-		<comments>https://forums.macrumors.com/threads/report-revamped-siri-to-be-at-the-core-of-apples-new-ai-strategy.2425971/</comments>
-		<pubDate>Fri, 10 May 2024 11:49:39 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/10/revamped-siri-to-be-at-core-of-new-apple-strategy/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>New York Times</category>
-		<category>Artificial Intelligence</category>
-		
-
-		<description><![CDATA[Apple's shift to develop its own AI technology to keep up with competitors was today detailed in a <a href="https://www.nytimes.com/2024/05/10/business/apple-siri-ai-chatgpt.html"><em>The New York Times</em></a> report.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/Apple-Silicon-AI-Optimized-Feature-Siri-1.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-947754" /><br/>
-Citing sources familiar with Apple's work, the report explains that the decision to revamp <a href="https://www.macrumors.com/guide/siri/">Siri</a> was taken early last year by Apple's most senior executives. Senior vice president of software engineering Craig Federighi and senior vice president of Machine Learning and AI Strategy John Giannandrea are said to have spent several weeks testing OpenAI's ChatGPT to understand the ways in which the competitor made &zwnj;Siri&zwnj; look antiquated. The &zwnj;Siri&zwnj; team purportedly failed to receive attention and resources compared to other groups inside Apple, and the company has struggled to recruit and retain leading AI researchers.<br/>
-<br/>
-Apple executives are said to be concerned that AI threatens the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>'s market share because it has the potential to become a more compelling operating system with an ecosystem of AI apps that undermine the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. Apple apparently fears the &zwnj;iPhone&zwnj; becoming a "dumb brick" compared with other technology.<br/>
-<br/>
-This conclusion triggered a significant reorganization at Apple amid determination to catch up in the race to develop AI tools. The company moved to reallocate employees and resources toward AI, and the change of strategy was a contributing factor in the decision to cancel its electric vehicle project. Apple's upcoming <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models will supposedly feature more memory to support AI features.<br/>
-<ul><li><a href="https://www.macrumors.com/2024/04/18/should-apple-kill-siri/">Should Apple Kill Siri and Start Over?</a></li></ul><br/>
-Apple is expected to reveal a series of AI tools at its WWDC keynote on June 10, including an improved version of &zwnj;Siri&zwnj; that is more conversational and capable, with the ability to "chat" rather than merely respond to individual queries. The company is working on making &zwnj;Siri&zwnj; better at handling tasks such as setting timers, creating calendar appointments, adding items to Reminders, and summarizing text. Apple plans to market the new version of &zwnj;Siri&zwnj; as a more private alternative to rival AI services because most requests will be processed on-device rather than remotely in data centres. See the full <a href="https://www.nytimes.com/2024/05/10/business/apple-siri-ai-chatgpt.html"><em>The New York Times</em></a> article for more information.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/nytimes-com/">New York Times</a>, <a href="https://www.macrumors.com/guide/artificial-intelligence/">Artificial Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/10/revamped-siri-to-be-at-core-of-new-apple-strategy/">Report: Revamped Siri to Be at the Core of Apple&#039;s New AI Strategy</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/report-revamped-siri-to-be-at-the-core-of-apples-new-ai-strategy.2425971/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Automatically Trigger iPhone Low Power Mode Earlier</title>
-		<link>https://www.macrumors.com/how-to/set-iphone-low-power-mode/</link>
-		<comments>https://forums.macrumors.com/threads/automatically-trigger-iphone-low-power-mode-earlier.2425968/</comments>
-		<pubDate>Fri, 10 May 2024 11:35:24 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/how-to/set-iphone-low-power-mode&#038;post_date=1715376924/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[If your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> regularly runs out of battery later in the day, Low Power Mode is one way to make it last longer. You can also make Low Power Mode automatically turn on when your battery reaches a certain custom level. Keep reading to learn how.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/low-power-mode.jpg" alt="low power mode" width="1920" height="1080" class="aligncenter size-full wp-image-950287" /><br/>
-Most &zwnj;iPhone&zwnj; users are familiar with the way iOS throws up a prompt to turn on Low Power Mode when the battery reaches 20%. Low Power Mode can also be turned on manually at any time by going to <strong>Settings -> Battery</strong> and toggling on the switch next to <strong>Low Power Mode</strong>.<br/>
-<br/>
-If you find yourself constantly having to turn on Low Power Mode late in the day, you can save some time by setting it up to run automatically when your battery is depleted to a specific custom level. This can be done in the Shortcuts app, as the following steps show.<br/>
-<br/>
-Bear in mind that Low Power Mode reduces your &zwnj;iPhone&zwnj;'s performance and cuts out some background activities. For example, mail must be fetched manually, background app refresh is disabled, and motion and brightness are reduced.<br/>
-<br/>
-If you're okay with those limitations, follow the steps below to automate the setting on your &zwnj;iPhone&zwnj;.<br/>
-<ol><li>Open the <strong>Shortcuts</strong> app and select the <strong>Automation</strong> tab at the bottom of the screen, then tap the <strong>+</strong> button in the top-right corner.</li><br/>
-<li>Scroll down and select <strong>Battery Level</strong> from the options.</li><br/>
-<img src="https://images.macrumors.com/article-new/2024/05/1set-low-power-mode.jpg" alt="shortcuts" width="2898" height="2796" class="aligncenter size-full wp-image-950295" /><br/>
-<li>Check <strong>Falls Below 50%</strong> and then drag the slider to adjust the percentage level for when Low Power Mode should be activated.</li><br/>
-<li><li>To ensure the automation runs in the background, toggle off the switch next to <strong>Ask Before Running</strong>, then tap <strong>Next</strong>.</li><br/>
-<li>Search for "Set Low Power Mode" and select the card from the results, then tap <strong>Next</strong>.</li><br/>
-<li>Lastly, tap <strong>Done</strong> in the top-right of the screen.</li><br/>
-<img src="https://images.macrumors.com/article-new/2024/05/2set-low-power-mode.jpg" alt="shortcuts" width="2898" height="2796" class="aligncenter size-full wp-image-950296" /></ol>Your "Set Low Power Mode" personal automation should now be listed in the automation list, and will automatically trigger whenever your &zwnj;iPhone&zwnj; reaches the threshold you selected.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/set-iphone-low-power-mode/">Automatically Trigger iPhone Low Power Mode Earlier</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/automatically-trigger-iphone-low-power-mode-earlier.2425968/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
