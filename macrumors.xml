@@ -14,12 +14,57 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 16 May 2024 13:03:17 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 16 May 2024 17:11:12 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Threads Gets Multi-Column TweetDeck-Like Web View</title>
+		<link>https://www.macrumors.com/2024/05/16/threads-tweetdeck-web-view/</link>
+		<comments>https://forums.macrumors.com/threads/threads-gets-multi-column-tweetdeck-like-web-view.2426602/</comments>
+		<pubDate>Thu, 16 May 2024 16:06:57 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/16/threads-tweetdeck-web-view/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Threads</category>
+		
+
+		<description><![CDATA[Threads is working on a new web view that features the option to pin customized columns, similar to the TweetDeck feature that used to be available on Twitter. Meta CEO Mark Zuckerberg <a href="https://www.threads.net/@zuck/post/C7CQT2rLTeN">shared an image</a> of the new web option, which he said is currently being tested.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/threads-multi-column-view-web.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-951162" /><br/>
+The screenshot shows several custom columns, including a "For you" and several topic-based columns. Favorite searches, topics/keywords, accounts, saved posts, and notifications can be pinned at the current time, and there is an auto-refresh option to keep columns up to date with the newest posts.<br/>
+<br/>
+Twitter, now renamed to X, has a similar "X Pro" feature that has the same format as the former TweetDeck option, but it requires an &#36;8/month subscription to access. The Threads version would be free, and it could replicate much of the functionality that Twitter used to offer.<br/>
+<br/>
+A column-based web view that's customizable could encourage more users to adopt Threads, and it prevents Threads users from being forced into the For you feed when opening Threads on the web. According to <em><a href="https://www.bloomberg.com/news/articles/2024-05-16/threads-meta-s-x-competitor-is-testing-its-own-version-of-tweetdeck?srnd=infotech">Bloomberg</a></em>, Threads users that have the feature can pin up to 100 feeds to their homepage.<br/>
+<br/>
+As of now, the multi-column view is being tested with a small number of users.<br/>
+<br/>
+Earlier this week, Threads also <a href="https://www.threads.net/@mosseri/post/C6_8zLPvaFA">added a new option</a> to organize searches by recency, making it easier to find timely and relevant content on the social network.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/threads/">Threads</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/16/threads-tweetdeck-web-view/">Threads Gets Multi-Column TweetDeck-Like Web View</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/threads-gets-multi-column-tweetdeck-like-web-view.2426602/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iMessage Down for Some Users</title>
+		<link>https://www.macrumors.com/2024/05/16/imessage-down-for-some/</link>
+		<comments>https://forums.macrumors.com/threads/imessage-down-for-some-users.2426596/</comments>
+		<pubDate>Thu, 16 May 2024 15:00:21 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/16/imessage-down-for-some/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[The iMessage service that Apple users to send messages to one another appears to be down for some users, and messages are failing to go out or are taking an extra long time to send.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/07/General-Apps-Messages.jpg" alt="" width="2500" height="1407" class="aligncenter size-full wp-image-808613" /><br/>
+There are numerous reports about the issue on social networks and a spike of outage reports <a href="https://downdetector.com/status/imessage/">on Down Detector</a>, but <a href="https://www.apple.com/support/systemstatus/">Apple's System Status page</a> is not yet reporting an outage.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/16/imessage-down-for-some/">iMessage Down for Some Users</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/imessage-down-for-some-users.2426596/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iPhone Emulators on the App Store: Game Boy, N64, PS1, PSP, and More</title>
@@ -578,50 +623,6 @@ If you want to use the &zwnj;iPad Pro&zwnj; for anything that involves typing, t
 For <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> users, the &zwnj;Apple Pencil&zwnj; Pro's haptic feedback is the most noticeable change. With the squeeze gesture, you can swap tools more quickly and have more feedback when creating sketches and art. Barrel roll also lets you use the &zwnj;Apple Pencil&zwnj; more like an actual writing or drawing implement. The &zwnj;Apple Pencil&zwnj; charges magnetically, and pairs automatically, like prior versions.<br/>
 <br/>
 The only real downside to the &zwnj;iPad Pro&zwnj; is the software that it's running. iPadOS is still so limited compared to macOS, especially for multitasking and app functionality. Federico Viticci's recent writeup on the iPadOS basics that Apple gets wrong is <a href="https://www.macstories.net/stories/not-an-ipad-pro-review/">well worth a read</a>. Still, there are some workflows that are adaptable to the &zwnj;iPad Pro&zwnj;, and it's a great portable machine. If you're a person who can make use of a tablet, this is the best one you can get.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Pro">iPad Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/15/m4-ipad-pro-hands-on/">Hands-On With the New M4 OLED iPad Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/hands-on-with-the-new-m4-oled-ipad-pro.2426428/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Previews iOS 18&#039;s Upgraded Magnifier App With New Reader Mode</title>
-		<link>https://www.macrumors.com/2024/05/15/apple-previews-ios-18-magnifier-app/</link>
-		<comments>https://forums.macrumors.com/threads/apple-previews-ios-18s-upgraded-magnifier-app-with-new-reader-mode.2426426/</comments>
-		<pubDate>Wed, 15 May 2024 10:04:50 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/15/apple-previews-ios-18-magnifier-app/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iOS 18</category>
-		<category>Accessibility</category>
-		
-
-		<description><![CDATA[One of the <a href="https://www.macrumors.com/2024/05/15/ios-18-accessibility-features/">new iOS 18 accessibility features</a> that Apple previewed today is a Reader Mode in the Magnifier app, which will convert words in images to uniform lines of text. Apple did not provide any specific details about the feature, but it shared a screenshot showing that users will be able to change the font and have the text read aloud.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/Magnifier-Reader-Mode-Article.jpg" alt="" width="2322" height="1306" class="aligncenter size-full wp-image-950878" /><br/>
-Apple also revealed that iOS 18 will allow iPhone users to easily launch the Magnifier app's Detection Mode with the Action button, which debuted on the iPhone 15 Pro models and is <a href="https://www.macrumors.com/2023/11/30/iphone-16-action-button-all-models/">rumored to expand to the entire iPhone 16 lineup</a> later this year. Detection Mode can identify and read aloud all text within an iPhone camera's field of view.<br/>
-<br/>
-It is already possible to set the Action button to open the Magnifier app in general, so this will be an expansion of the app's integration with the button.<br/>
-<br/>
-iOS 18 is expected to be unveiled at Apple's developers conference WWDC <a href="https://www.macrumors.com/2024/03/26/apple-announces-wwdc-2024/">on June 10</a>, and the update should be widely released in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/accessibility/">Accessibility</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/15/apple-previews-ios-18-magnifier-app/">Apple Previews iOS 18&#039;s Upgraded Magnifier App With New Reader Mode</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-previews-ios-18s-upgraded-magnifier-app-with-new-reader-mode.2426426/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Previews Three New CarPlay Features Coming With iOS 18</title>
-		<link>https://www.macrumors.com/2024/05/15/ios-18-accessibility-features-for-carplay/</link>
-		<comments>https://forums.macrumors.com/threads/apple-previews-three-new-carplay-features-coming-with-ios-18.2426420/</comments>
-		<pubDate>Wed, 15 May 2024 09:18:12 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/15/ios-18-accessibility-features-for-carplay/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>CarPlay</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple today previewed <a href="https://www.macrumors.com/2024/05/15/ios-18-accessibility-features/">new accessibility features coming with iOS 18</a> later this year, and this includes some new options for CarPlay.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/CarPlay-Sound-Recognition.jpg" alt="" width="1306" height="718" class="aligncenter size-full wp-image-950848" /><br/>
-Apple highlighted three new features coming to CarPlay:<br/>
-<br/>
-<ul><li><strong>Voice Control:</strong> This feature will allow users to navigate CarPlay and control apps with just their voice.</li><br/>
-<li><strong>Color Filters:</strong> This feature will make the CarPlay interface visually easier to use for individuals with color blindness.</li><br/>
-<li><strong>Sound Recognition:</strong> This feature will enable drivers or passengers who are deaf or hard of hearing to receive notifications on CarPlay for driving-related sounds, such as car horns and sirens.</li></ul>All three of these features are already available on the iPhone and iPad.<br/>
-<br/>
-iOS 18 is expected to be unveiled at Apple's developers conference WWDC <a href="https://www.macrumors.com/2024/03/26/apple-announces-wwdc-2024/">on June 10</a>, and the update should be widely released in September.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a>, <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/homepod-homekit-carplay-home-auto-technology.193">HomePod, HomeKit, CarPlay, Home & Auto Technology</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/15/ios-18-accessibility-features-for-carplay/">Apple Previews Three New CarPlay Features Coming With iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-previews-three-new-carplay-features-coming-with-ios-18.2426420/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
