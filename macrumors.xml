@@ -14,12 +14,60 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 20 May 2024 09:03:19 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 20 May 2024 13:03:04 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Microsoft Debuts New Copilot+ Windows PCs Designed Around AI</title>
+		<link>https://www.macrumors.com/2024/05/20/microsoft-ai-windows-pcs/</link>
+		<comments>https://forums.macrumors.com/threads/microsoft-debuts-new-copilot-windows-pcs-designed-around-ai.2426961/</comments>
+		<pubDate>Mon, 20 May 2024 12:25:21 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/20/microsoft-ai-windows-pcs/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Microsoft</category>
+		
+
+		<description><![CDATA[Microsoft <a href="https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/">today announced</a> the launch of new Windows PCs that have integrated AI hardware, called Copilot+ PCs. According to Microsoft, the Copilot+ PCs are the fastest PCs "ever built" with all-day battery life, chips capable of 40 trillion operations per second, and "access to the most advanced AI models."<br/>
+<br/>
+<div class="center-wrap"><iframe title="Introducing Copilot+ PCs" src="https://www.youtube.com/embed/5JmkWJNng2I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+The new machines are designed with "AI at the center," introducing experiences that can be run directly on device to cut down on latency and improve privacy.<br/>
+<ul><br/>
+ 	<li><strong>Recall</strong> - Recall gives the PC a "photographic memory" so users can access anything they've seen or done on their PC. Content can be located using timelines across any website, application, or document, with support for snapshots.</li><br/>
+ 	<li><strong>Cocreator</strong> - Text prompts can be used to generate new images using the neural processing units of the computer. Art can be created based on the text input, and there is a creativity slider to choose from a range between more literal to more expressive.</li><br/>
+ 	<li><strong>Restyle Image</strong> - Combines image generation and photo editing. Pre-set styles can be used to change the background, foreground, or full image.</li><br/>
+ 	<li><strong>Live Captions</strong> - Live Captions support live translations and can turn any audio that passes through the PC into a single, English-language caption experience in real time across all apps. Any live or pre-recorded audio in any app or video platform can be translated from 40 languages into English.</li><br/>
+ 	<li><strong>Quick Settings</strong> - In Windows Studio Effects, the Quick Settings option cleans up video with automatic image adjustments for videos calls to mitigate low-light or add filters.</li><br/>
+</ul><br/>
+All Copilot+ PCs include a "powerful AI agent" that can be accessed with a single tap on the Copilot key. There is an AI interface that will support the latest models such as OpenAI's GPT-4o.<br/>
+<br/>
+Microsoft claims that the Copilot+ PCs outperform the 15-inch <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> by up to 58 percent in sustained multithreaded performance, while also offering longer battery life. Microsoft says the battery is able to last for up to 15 hours of web browsing or 22 hours of local video playback, beating the &zwnj;MacBook Air&zwnj;.<br/>
+<br/>
+The new Microsoft Surface Pro and Surface Laptop are some of the first Copilot+ PCs, and ASUS, Acer, Dell, HP, Lenovo, and Samsung have also introduced Copilot+ PCs. The new PCs are available today and are priced starting at &#36;999.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/microsoft/">Microsoft</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/20/microsoft-ai-windows-pcs/">Microsoft Debuts New Copilot+ Windows PCs Designed Around AI</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/microsoft-debuts-new-copilot-windows-pcs-designed-around-ai.2426961/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases iOS 17.5.1 With Fix for Reappearing Photos Bug</title>
+		<link>https://www.macrumors.com/2024/05/20/apple-releases-ios-17-5-1-photos-bug/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-ios-17-5-1-with-fix-for-reappearing-photos-bug.2426950/</comments>
+		<pubDate>Mon, 20 May 2024 10:11:27 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/20/apple-releases-ios-17-5-1-photos-bug/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple today released iOS 17.5.1 and iPadOS 17.5.1, minor updates to the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> and <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> operating system updates that came out last September. The 17.5.1 updates come a week after the launch of <a href="https://www.macrumors.com/2024/05/13/apple-releases-ios-17-5/">iOS 17.5 and iPadOS 17.5</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/iOS-17.5.1-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-951676" /><br/>
+iOS 17.5.1 and iPadOS 17.5.1 can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update.<br/>
+<br/>
+According to Apple's release notes, the updates include a fix for an issue that could cause images to reappear in the <a href="https://www.macrumors.com/guide/photos/">Photos</a> library even after being deleted. <blockquote>This update provides important bug fixes and addresses a rare issue where photos that experienced database corruption could reappear in the Photos library even if they were deleted.</blockquote>There have been <a href="https://www.macrumors.com/2024/05/15/ios-17-5-bug-deleted-photos-reappear/">several complaints</a> from <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> users who saw their old, deleted photos resurfacing after installing the iOS 17.5 update. Images deleted as far back as 2010 were surfacing again, leading to confusion and worry over what was going on. Apple's information today indicates that it was a database corruption issue, and iOS 17.5.1 should solve the problem.<br/>
+<br/>
+<br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/20/apple-releases-ios-17-5-1-photos-bug/">Apple Releases iOS 17.5.1 With Fix for Reappearing Photos Bug</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-17-5-1-with-fix-for-reappearing-photos-bug.2426950/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Amazon Takes &#36;149 Off Every Model of Apple&#039;s 13-Inch M3 MacBook Air, Starting at &#36;949.99</title>
@@ -549,66 +597,6 @@ The latest word comes <a href="https://www.theinformation.com/articles/apple-pla
 The report said the new iPhone SE will remain a "cheaper" option in the iPhone lineup, as expected. The current iPhone SE starts at &#36;429 in the U.S. with 64GB of storage, with other key features including a 4.7-inch display, A15 Bionic chip, 5G support, a single 12-megapixel rear camera, and a Lightning port.<br/>
 <br/>
 Keep track of our <a href="https://www.macrumors.com/roundup/iphone-se/">iPhone SE roundup</a> for the latest rumors.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-se/">iPhone SE</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone_SE">iPhone SE (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/17/when-to-expect-the-next-iphone-se/">When to Expect the Next iPhone SE to Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/when-to-expect-the-next-iphone-se-to-launch.2426709/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Game Boy Emulator &#039;Delta&#039; for iPhone Updates App Icon After Adobe &#039;Threatened Legal Action&#039;</title>
-		<link>https://www.macrumors.com/2024/05/17/delta-changes-app-icon-to-avoid-adobe-legal-action/</link>
-		<comments>https://forums.macrumors.com/threads/game-boy-emulator-delta-for-iphone-updates-app-icon-after-adobe-threatened-legal-action.2426704/</comments>
-		<pubDate>Fri, 17 May 2024 13:15:48 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/17/delta-changes-app-icon-to-avoid-adobe-legal-action/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>App Store</category>
-		<category>Adobe</category>
-		<category>Emulator</category>
-		
-
-		<description><![CDATA[The developers behind the popular <a href="https://www.macrumors.com/2024/04/17/delta-emulator-hands-on/">Game Boy emulator Delta for the iPhone</a> said they updated the app's icon today to avoid potential legal action from Adobe.<br/>
-<br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/05/Delta-App-Icon-Update-Adobe-AEM-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-951476" /><em>Delta's new app icon (left) and Adobe's logo (right)</em></div><br/>
-"Adobe threatened legal action unless we changed our app icon — so we did," say the release notes for the latest version of Delta <a href="https://apps.apple.com/us/app/delta-game-emulator/id1048524688">on the App Store</a>.<br/>
-<br/>
-Delta's former icon does look like a mirrored version of Adobe's logo, which is a registered trademark in the U.S. and other countries. According to the U.S. Patent and Trademark Office, companies have an obligation to enforce their trademarks, and failure to do so could eventually result in losing rights to the trademark.<br/>
-<br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/05/Delta-Old-Icon.jpeg" alt="" width="1200" height="600" class="aligncenter size-full wp-image-951480" /><em>Delta's previous app icon</em></div><br/>
-"Without proper policing over time, the original owner of a mark could lose any trademark rights it has in the mark," the U.S. Patent and Trademark Office <a href="https://www.uspto.gov/sites/default/files/BasicFacts_1.pdf">says</a>.<br/>
-<br/>
-Apple has enforced its trademarked logo in similar ways over the years, including in 2020, when it filed a complaint against a <a href="https://www.macrumors.com/2020/08/08/legal-action-against-company-with-pear-logo/">small company with a pear logo</a>.<br/>
-<br/>
-<em>Thanks, <a href="https://x.com/ParkerOrtolani/status/1791537452043186470">Parker Ortolani</a>!</em><br/>
-<br/>
-<strong>Update:</strong> <a href="https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app"><em>The Verge</em> shared</a> some more details about the situation, and says that Delta's current logo is only a temporary solution as it designs an all-new icon.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/adobe/">Adobe</a>, <a href="https://www.macrumors.com/guide/emulator/">Emulator</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/17/delta-changes-app-icon-to-avoid-adobe-legal-action/">Game Boy Emulator &#039;Delta&#039; for iPhone Updates App Icon After Adobe &#039;Threatened Legal Action&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/game-boy-emulator-delta-for-iphone-updates-app-icon-after-adobe-threatened-legal-action.2426704/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 17.5 Bug May Also Resurface Deleted Photos on Wiped, Sold Devices [Updated]</title>
-		<link>https://www.macrumors.com/2024/05/17/ios-17-5-bug-wiped-devices-photos-resurfacing/</link>
-		<comments>https://forums.macrumors.com/threads/ios-17-5-bug-may-also-resurface-deleted-photos-on-wiped-sold-devices-updated.2426698/</comments>
-		<pubDate>Fri, 17 May 2024 12:24:03 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/17/ios-17-5-bug-wiped-devices-photos-resurfacing/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[A bug in iOS 17.5 is apparently causing photos that <a href="https://www.macrumors.com/2024/05/15/ios-17-5-bug-deleted-photos-reappear/">have been deleted to reappear</a>, and the issue seems to impact even iPhones and iPads that have been erased and sold off to other people.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/iOS-17.5-Feature-Green-and-Purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-940351" /><br/>
-A Reddit user wiped an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> following Apple's guidelines in September of 2023 before selling it off to a friend. That friend updated the &zwnj;iPad&zwnj; to iPadOS 17.5 this week, and began seeing the Reddit user's old photos reappearing in the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app. <a href="https://www.reddit.com/r/ios/comments/1cspwh2/my_old_photos_appeared_on_an_ipad_i_sold/">From Reddit</a>:<blockquote>I wiped the iPad using official Apple guides before selling. I never logged into that iPad with my Apple ID after erasing the iPad. I sold my iPad to a friend in September 2023, they called me today after updating to iPad OS 17.5 and said my old pictures appeared in their Photos app... HUGE PRIVACY VIOLATION. I see other reports of this. How many people will get other people's photos on the devices they bought from other people?</blockquote>The impacted &zwnj;iPad&zwnj; was a fourth-generation 12.9-inch <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> that had been updated to the latest operating system update, and before it was sold, it was erased <a href="https://support.apple.com/en-ca/109511">per Apple's instructions</a>. The Reddit user says they did not log back in to the &zwnj;iPad&zwnj; at any point after erasing it, so it is entirely unclear how their old photos ended up reappearing on the device.<br/>
-<br/>
-Earlier this week, we shared several other reports of users who saw <a href="https://www.macrumors.com/2024/05/15/ios-17-5-bug-deleted-photos-reappear/">deleted photos resurfacing</a> on their devices after updating, but those reports were from users who still owned their devices and were logged into their own <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Photo Libraries and Apple IDs.<br/>
-<br/>
-The latest report suggests that the erased and sold &zwnj;iPad&zwnj; is somehow restoring old photos from an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> that is no longer signed in to it. The Reddit user says the photos that are reappearing are from 2017, which is in line with similar reports. The images were initially taken on an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, and so had been synced to the &zwnj;iPad&zwnj; via <a href="https://www.macrumors.com/guide/icloud-photo-library/">iCloud Photo Library</a> before the &zwnj;iPad&zwnj; was wiped and sold.<br/>
-<br/>
-Other users have seen photos from years ago (as late as 2010) reappearing suddenly, with no explanation for why. Not all users are seeing this problem, nor does it appear to be impacting all deleted images.<br/>
-<br/>
-Apple devices are supposed to retain photos for 30 days in the Recently Deleted section of the &zwnj;Photos&zwnj; app, and images should be deleted automatically if a second delete procedure is carried out from the Recently Deleted interface. Apple has not yet provided any information on why some users may be seeing photos reappearing, and it is concerning to hear of a report of old photos showing up on a device that was wiped and sold.<br/>
-<br/>
-<b>Update May 19</b>: The Reddit user who reported the issue has deleted the original post, casting significant doubt on the veracity of the claim.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/17/ios-17-5-bug-wiped-devices-photos-resurfacing/">iOS 17.5 Bug May Also Resurface Deleted Photos on Wiped, Sold Devices [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-17-5-bug-may-also-resurface-deleted-photos-on-wiped-sold-devices-updated.2426698/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
