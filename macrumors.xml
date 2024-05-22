@@ -14,12 +14,71 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 22 May 2024 01:03:46 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 22 May 2024 05:04:16 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Little Snitch 6 Released for macOS Sonoma With DNS Encryption, Integrated Blocklists, New Traffic Chart, and More</title>
+		<link>https://www.macrumors.com/2024/05/22/little-snitch-6-released-macos-sonoma/</link>
+		<comments>https://forums.macrumors.com/threads/little-snitch-6-released-for-macos-sonoma-with-dns-encryption-integrated-blocklists-new-traffic-chart-and-more.2427091/</comments>
+		<pubDate>Wed, 22 May 2024 03:31:49 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/22/little-snitch-6-released-macos-sonoma/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Austrian developer Objective Development has announced <a href="https://www.obdev.at/products/littlesnitch/index.html">Little Snitch 6</a>, the latest evolution of its popular firewall and network monitoring utility on the Mac. Whenever an app attempts to connect to a server on the internet, Little Snitch shows a connection alert, allowing you to decide whether to allow or deny the connection.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/little-snitch-6.jpg" alt="" width="3072" height="1920" class="aligncenter size-full wp-image-951856" /><br/>
+The key new features include DNS encryption, easier access to blocklists, a redesigned interactive traffic chart, a new Control Center in the menu bar, new hierarchical grouping options in the connection list, new sound notifications, and an overhauled user interface. The full advertised features list is as follows:<blockquote><ul><br/>
+    <li>DNS Encryption: Let Little Snitch encrypt your server name queries to shield your online activities from prying eyes.</li><br/>
+    <li>Integrated Blocklists: Effortlessly select from a curated list of blocklists. Install them with a single click to add an extra layer of protection against unwanted connections.</li><br/>
+    <li>Control Center in Menu Bar: Quickly access essential network information, recent activity charts, and recently blocked connections at a glance, directly from the menu bar.</li><br/>
+    <li>Interactive Traffic Chart: Enjoy a redesigned, intuitive real-time traffic chart for a clearer visualization and analysis of network activity.</li><br/>
+    <li>Hierarchical Connection Grouping: Group connections by application, domain, server, or country to gain deeper insights into network traffic.</li><br/>
+    <li>Advanced Search and Filters: Swiftly locate specific connections or firewall rules with enhanced search capabilities.</li><br/>
+    <li>Usage Statistics: Track and optimize your firewall rules based on usage frequency.</li><br/>
+    <li>Sound Notifications: Stay informed about network activities through customizable acoustic notifications, just by listening. Make connections not only visible but also audible!</li><br/>
+    <li>Rule Groups: Organize firewall rules by topic to conveniently turn related rules on or off together.</li><br/>
+    <li>Enhanced Web Application Support: Gain better and more precise control over external connections initiated by websites.</li><br/>
+    <li>Improved Firewall Rules: Use of cryptographic code signing identifiers for better process identification, resistant to renaming or moving of apps.</li><br/>
+    <li>Simplified Setup: Automatically create rules for installed applications to streamline initial configuration.</li><br/>
+    <li>Enhanced Xcode Simulator Support: Enjoy smoother development experiences with improved handling of processes in Xcode's Simulator app.</li><br/>
+</ul></blockquote>Little Snitch 6 supports <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> and is available from the <a href="https://www.obdev.at/products/littlesnitch/index.html">Objective Development website</a> for &#36;59 per single license. Existing users can upgrade at a discounted price starting at &#36;39. <br/>
+<br/>
+Licenses that have been purchased after January 1, 2024, are already valid for Little Snitch 6 at no additional cost. A free demo mode is also included, which offers full functionality for three hours per session and can be reactivated as often as desired.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/22/little-snitch-6-released-macos-sonoma/">Little Snitch 6 Released for macOS Sonoma With DNS Encryption, Integrated Blocklists, New Traffic Chart, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/little-snitch-6-released-for-macos-sonoma-with-dns-encryption-integrated-blocklists-new-traffic-chart-and-more.2427091/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Adds Support for Live Activities to Shazam</title>
+		<link>https://www.macrumors.com/2024/05/22/shazam-adds-support-for-live-activities/</link>
+		<comments>https://forums.macrumors.com/threads/apple-adds-support-for-live-activities-to-shazam.2427090/</comments>
+		<pubDate>Wed, 22 May 2024 03:21:21 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/22/shazam-adds-support-for-live-activities/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Shazam</category>
+		
+
+		<description><![CDATA[Apple today added support for Live Activities in Shazam, its free music discovery and identification app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/08/shazam-for-mac.jpg" alt="" width="2000" height="1125" class="alignnone size-full wp-image-857861" /><br/>
+Shazam's Live Activities keep the user updated when searching for music in the background, which is particularly useful when multitasking or <a href="https://www.macrumors.com/2023/07/06/shazam-app-song-identification-apps/">identifying songs in other apps</a>. The last <a href="https://www.macrumors.com/2024/01/29/shazam-identifies-songs-other-apps-headphones/">significant update to Shazam</a> arrived in January, allowing users to identify songs from other apps while listening with headphones.  <br/>
+<br/>
+Apple <a href="https://www.macrumors.com/2018/09/24/apple-shazam-acquisition-finalized/">acquired</a> Shazam in 2018, and has been gradually bringing the app into closer alignment with ‌<a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>‌ ever since, offering trials to the streaming service through the app and the ability to sync Shazams directly to ‌&zwnj;Apple Music&zwnj;‌. <br/>
+<br/>
+Shazam can be downloaded from the <a href="https://apps.apple.com/us/app/shazam-music-discovery/id284993459">App Store for free</a>. It can be accessed through the Control Center on ‌‌<a href="https://www.macrumors.com/guide/iphone/">iPhone</a>‌‌ and ‌‌<a href="https://www.macrumors.com/roundup/ipad/">iPad</a>‌‌, through ‌<a href="https://www.macrumors.com/guide/siri/">Siri</a>‌ commands, or on the Mac, as well as via widgets. Version 17.11 of Shazam is now available.<br/>
+<br/>
+Apple opened up its Live Activities API to third-party &zwnj;iPhone&zwnj; apps with the release of iOS 16.1 in 2022, and many developers have <a href="https://www.macrumors.com/guide/live-activities/">since made good use of the feature</a>. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/shazam/">Shazam</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/22/shazam-adds-support-for-live-activities/">Apple Adds Support for Live Activities to Shazam</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-adds-support-for-live-activities-to-shazam.2427090/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Next Emoji Coming to iOS Could Include Face With Eye Bags, Shovel, Fingerprint, Splatter and More</title>
@@ -189,7 +248,7 @@ Upon the discontinuation of the ninth-generation &zwnj;iPad&zwnj;, Apple dropped
 <br/>
 The 10th-generation model completes the transformation of the &zwnj;iPad&zwnj; product lineup toward a flat look with squared-off edges, no home button, and an all-screen design with curved corners. With the exact same display size and identical features like a <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> top button, USB-C port, and 5G connectivity, many prospective customers may now be considering a purchase of the standard &zwnj;iPad&zwnj; instead of the &zwnj;iPad Air&zwnj; – but there are more differences between the devices than immediately meets the eye. <br/>
 <br/>
-The <a href="https://www.macrumors.com/guide/m2/">M2</a> chip and double the amount of memory make the &zwnj;iPad Air&zwnj; much more powerful than the 10th-generation &zwnj;iPad&zwnj;. Combined with a more advanced display in two size options, support for <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> hover and the &zwnj;Apple Pencil&zwnj; Pro, a thinner and lighter design, and even a different selection of color options, many users still have good reasons to preference the &zwnj;iPad Air&zwnj;. <br/>
+The <a href="https://www.macrumors.com/guide/m2/">M2</a> chip and double the amount of memory make the &zwnj;iPad Air&zwnj; much more powerful than the 10th-generation &zwnj;iPad&zwnj;. Combined with a more advanced display in two size options, support for <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> hover and the &zwnj;Apple Pencil&zwnj; Pro, a thinner and lighter design, and even a different selection of color options, many users still have good reasons to prefer the &zwnj;iPad Air&zwnj;. <br/>
 <br/>
 So should you consider buying the 10th-generation &zwnj;iPad&zwnj; to save money, or do you need the &zwnj;iPad Air&zwnj; instead? This breakdown serves as a clear way to see all the differences between the two devices.<br/>
 <br/>
@@ -272,6 +331,10 @@ Video encode engine</td><br/>
  <tr><br/>
  <td>Available in Silver, Pink, Blue, and Yellow</td><br/>
  <td>Available in Space Gray, Starlight, Blue, and Purple</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>64GB or 256GB storage</td><br/>
+ <td>128GB, 256GB, 512GB, or 1TB storage</td><br/>
  </tr><br/>
  <tr><br/>
  <td>Starts at &#36;349</td><br/>
@@ -600,77 +663,6 @@ You can also get both 512GB models of the 13-inch M3 MacBook Air on sale right n
 These notebooks were updated in March 2024 with the new M3 chip and no external design changes compared to the previous generation. Larger 15-inch models debuted at the same time, and right now we aren't tracking any discounts as steep as those on the 13-inch MacBook Air.<br/>
 <br/>
 Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/20/amazon-149-off-every-13-inch-m3-macbook-air/">Amazon Takes &#36;149 Off Every Model of Apple&#039;s 13-Inch M3 MacBook Air, Starting at &#36;949.99</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-takes-149-off-every-model-of-apples-13-inch-m3-macbook-air-starting-at-949-99.2426937/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple COO Jeff Williams Reportedly Visits Taiwan to Secure 2nm Chips</title>
-		<link>https://www.macrumors.com/2024/05/20/apple-coo-jeff-williams-secures-2nm-chips/</link>
-		<comments>https://forums.macrumors.com/threads/apple-coo-jeff-williams-reportedly-visits-taiwan-to-secure-2nm-chips.2426931/</comments>
-		<pubDate>Mon, 20 May 2024 07:16:01 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/20/apple-coo-jeff-williams-secures-2nm-chips/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>TSMC</category>
-		<category>Jeff Williams</category>
-		<category>Economic Daily News</category>
-		<category>Apple Silicon</category>
-		
-
-		<description><![CDATA[Apple Chief Operating Officer Jeff Williams has visited Taiwan to secure supply of TSMC's upcoming 2nm chips, <a href="https://money.udn.com/money/story/5612/7974714?from=edn_maintab_index"><em>Economic Daily News</em></a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-945652" /><br/>
-The visit apparently involved a meeting between Williams and TSMC President Wei Zhejia to discuss custom AI chips and ensure that Apple will be able to access the chipmaker's 2nm manufacturing process, which is set to begin production in 2025. <br/>
-<br/>
-The <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> is powered by the A17 Pro chip, which is manufactured with TSMC's <a href="https://www.macrumors.com/guide/3nm/">3nm</a> process. This process allows for more transistors to be packed into a smaller space, delivering improvements in performance and efficiency. Apple's M4 chip, which just debuted in the new <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>, uses an enhanced version of this &zwnj;3nm&zwnj; technology. The transition to 2nm chips should bring further improvements, with projected performance gains of 10 to 15 percent and power consumption reductions of up to 30 percent compared to the &zwnj;3nm&zwnj; process.<br/>
-<br/>
-Securing an early supply of 2nm chips is critical for Apple, as TSMC remains the only company capable of manufacturing them at the scale and quality required. This exclusivity is vital for Apple to meet the high demand for its products while limiting competitors' access to these more advanced chips. For its &zwnj;3nm&zwnj; chips, Apple booked all of TSMC's available chipmaking capacity. The company's 2nm chips could first appear in 2025's <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> 17 lineup.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tsmc/">TSMC</a>, <a href="https://www.macrumors.com/guide/jeff-williams/">Jeff Williams</a>, <a href="https://www.macrumors.com/guide/udn-com/">Economic Daily News</a>, <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/20/apple-coo-jeff-williams-secures-2nm-chips/">Apple COO Jeff Williams Reportedly Visits Taiwan to Secure 2nm Chips</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-coo-jeff-williams-reportedly-visits-taiwan-to-secure-2nm-chips.2426931/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Samsung Launches New Summer Sale With Major Savings Sitewide, Including Smart Monitor M8 for &#36;349.99</title>
-		<link>https://www.macrumors.com/2024/05/20/samsung-new-summer-sale/</link>
-		<comments>https://forums.macrumors.com/threads/samsung-launches-new-summer-sale-with-major-savings-sitewide-including-smart-monitor-m8-for-349-99.2426928/</comments>
-		<pubDate>Mon, 20 May 2024 07:00:38 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/20/samsung-new-summer-sale/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Samsung is hosting new <a href="https://howl.me/cmh331qhSPn">"Discover Samsung" sale</a> this week, which includes discounts on multiple product lines sitewide. The popular ViewFinity S9 5K Smart Monitor and Smart Monitor M8 are both discounted during this sale, but you'll also find sales on storage, audio, TVs, smartphones, and home appliances.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/samsung-viewfinity-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-939071" /><em><small>Note: MacRumors is an affiliate partner with Samsung. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-As with previous sales, the highlight of the new event is the 27-inch ViewFinity S9 5K Smart Monitor for <a href="https://howl.me/cmcXUnrrsdT"><strong>&#36;899.99</strong></a>, down from &#36;1,599.99. At &#36;700 off this is an all-time low price on the 2023 display, which has a matte display, modular 4K SlimFit camera, and support for Thunderbolt 4.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/cmcXUnrrsdT"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;700 OFF</div>27-inch ViewFinity S9 5K Smart Monitor for &#36;899.99</div></a></div><br/>
-<br/>
-Samsung's 27-inch Smart Monitor M8 is also being discounted during this sale, available for <a href="https://howl.me/cmcXSeRCgzw"><strong>&#36;349.99</strong></a> in Warm White, down from &#36;699.99. This is a 4K smart monitor with a design that looks similar to the iMac line, and this is another record low price.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/08/samsung-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-905732" /><div class="center-wrap"><a href="https://howl.me/cmcXSeRCgzw"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;350 OFF</div>27-inch Smart Monitor M8 for &#36;349.99</div></a></div><br/>
-<br/>
-The Discover Samsung Summer Sale is set to run through this Sunday, May 26, so be sure to browse all of the deals this week before anything expires. We've rounded up a few more discounts below on TVs, monitors, and Galaxy products, but remember that this sale is sitewide and you can save on many more devices, including <a href="https://howl.me/cmh4mcpiYhQ">household appliances and more</a>.<br/>
-<br/>
-<h2>Monitors</h2><br/>
-<ul><li><a href="https://howl.me/cmh4aplTxX2">34-inch Odyssey HDR Gaming Monitor</a> - &#36;369.99, down from &#36;549.99</li><br/>
-<li><a href="https://howl.me/cmcXYAoJPWk">34-inch ViewFinity HDR10 Curved Monitor</a> - &#36;549.99, down from &#36;699.99</li><br/>
-<li><a href="https://howl.me/cmcXY1mXjV0">49-inch Odyssey G9 Curved Gaming Monitor</a> - &#36;799.99, down from &#36;1,299.99</li><br/>
-<li><a href="https://howl.me/cmh387N2uIj">34-inch OLED Curved Smart Gaming Monitor</a> - &#36;799.99, down from &#36;1,199.99</li><br/>
-<li><a href="https://howl.me/cmcXZtLQWw9">49-inch Odyssey OLED G9 Curved Gaming Monitor</a> - &#36;1,199.99, down from &#36;1,799.99</li></ul><br/>
-<h2>TVs</h2><br/>
-<ul><br/>
-<li><a href="https://howl.me/cmh365mLB6T">The Frame TV</a> - Save up to &#36;1,000</li><br/>
-<li><a href="https://howl.me/cmcXZZbVCrL">70-inch QLED 4K QE1C TV</a> - &#36;879.99, down from &#36;1,799.99</li><br/>
-<li><a href="https://howl.me/cmcX0OsAHAg">55-inch Neo QLED 4K Smart TV</a> - &#36;1,099.99, down from &#36;1,499.99</li><br/>
-<li><a href="https://howl.me/cmcX1gp9dhd">55-inch Samsung Neo QLED 4K TV</a> - &#36;999.99, down from &#36;1,999.99</li><br/>
-<li><a href="https://howl.me/cmcX1NCbcAf">65-inch OLED S90C TV</a> - &#36;1,599.99, down from &#36;2,599.99</li><br/>
-<li><a href="https://howl.me/cmcX2c09le2">85-inch Samsung Neo QLED 4K Smart TV</a> - &#36;2,199.99, down from &#36;4,799.99</li></ul><br/>
-<h2>Galaxy Products</h2><br/>
-<ul><li><a href="https://howl.me/clLN3lYPzGg">Galaxy S24+</a> - Save up to &#36;750 with participating carriers</li><br/>
-<li><a href="https://howl.me/clLN39d8ucx">Galaxy S24 Ultra</a> - Save up to &#36;1,100 with participating carriers</li><br/>
-<li><a href="https://howl.me/cl1Y0enK9OW">Galaxy Z Fold5</a> - Save up to &#36;900 with participating carriers</li><br/>
-<li><a href="https://howl.me/cl1Y0wHuCr6">Galaxy Z Flip5</a> - Save up to &#36;575 with participating carriers</li><br/>
-<li><a href="https://howl.me/cl1Y0OGHMzE">Galaxy Tab S9 Ultra</a> - Get &#36;200 off</li><br/>
-<li><a href="https://howl.me/cmh4ex2zHWP">Galaxy Book4 360</a> - &#36;999.99, down from &#36;1,349.99</li></ul> Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/20/samsung-new-summer-sale/">Samsung Launches New Summer Sale With Major Savings Sitewide, Including Smart Monitor M8 for &#36;349.99</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/samsung-launches-new-summer-sale-with-major-savings-sitewide-including-smart-monitor-m8-for-349-99.2426928/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
