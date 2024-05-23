@@ -14,12 +14,58 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 23 May 2024 01:03:23 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 23 May 2024 05:04:01 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Bing, Copilot, DuckDuckGo, ChatGPT Search Down on Microsoft Outage</title>
+		<link>https://www.macrumors.com/2024/05/23/bing-copilot-duckduckgo-chatgpt-search-down/</link>
+		<comments>https://forums.macrumors.com/threads/bing-copilot-duckduckgo-chatgpt-search-down-on-microsoft-outage.2427186/</comments>
+		<pubDate>Thu, 23 May 2024 04:04:18 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/23/bing-copilot-duckduckgo-chatgpt-search-down/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Microsoft</category>
+		<category>Bing</category>
+		
+
+		<description><![CDATA[A significant Microsoft outage has affected several key services, including Bing.com, Copilot for web and mobile, Copilot in Windows, ChatGPT internet search, and DuckDuckGo. The disruption began around 3.00 a.m. Eastern Time, primarily impacting users in Asia and Europe.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/02/microsoft-bing-chatgpt.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-884498" /><br/>
+User <a href="https://x.com/netblocks/status/1793597163035115998">reports</a> and <em>MacRumors</em>' tests indicate that attempts to access Bing.com result in either a blank page or a 429 HTTP code error. Notably, the Bing search functionality remains operational if accessed directly via a <a href="https://www4.bing.com/">specific URL</a>, though the homepage remains inaccessible. <br/>
+<br/>
+For users needing to perform searches on Bing, accessing the search engine directly through the alternative URL is a workaround. However, Copilot services are entirely offline across all platforms, including the website, app, and Windows integration.<br/>
+<br/>
+As noted by <em><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/">Bleeping Computer</a></em>, ChatGPT internet search and DuckDuckGo are also experiencing disruptions due to their reliance on the Bing API. DuckDuckGo users encounter an error message stating, "There was an error displaying the search results. Please try again." Despite the widespread impact, Microsoft has not yet issued a statement, though OpenAI has acknowledged the ChatGPT internet search issues on its <a href="https://status.openai.com/">support page</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/microsoft/">Microsoft</a>, <a href="https://www.macrumors.com/guide/bing/">Bing</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/23/bing-copilot-duckduckgo-chatgpt-search-down/">Bing, Copilot, DuckDuckGo, ChatGPT Search Down on Microsoft Outage</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/bing-copilot-duckduckgo-chatgpt-search-down-on-microsoft-outage.2427186/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>X Confirms Plan to Make &#039;Likes&#039; Private, Remove Likes Tab From Profiles</title>
+		<link>https://www.macrumors.com/2024/05/23/x-twitter-to-make-likes-private/</link>
+		<comments>https://forums.macrumors.com/threads/x-confirms-plan-to-make-likes-private-remove-likes-tab-from-profiles.2427177/</comments>
+		<pubDate>Thu, 23 May 2024 02:02:13 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/23/x-twitter-to-make-likes-private/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Twitter</category>
+		
+
+		<description><![CDATA[Social media platform X (formerly Twitter) will soon stop showing public "likes" on users' profile pages, the company has said. The plan was confirmed on Wedndesday by X engineers, after <em>MacRumors</em> contributor Aaron Perris uncovered a flag in X's iOS app revealing the coming change.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/X-twitter-logo.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-904140" /><br/>
+Perris found that turning off the flag completely removes the "Likes" tab from all user profiles. His discovery was <a href="https://x.com/aaronp613/status/1793047277440815421">shared on X</a>, which was then reposted and subsequently confirmed by X engineers.<br/>
+<br/>
+"Yeah, we are making likes private," <a href="https://x.com/wanghaofei/status/1793096366132195529">responded</a> X's director of engineering Haofei Wang. "Public likes are incentivizing the wrong behavior. For example, many people feel discouraged from liking content that might be 'edgy' in fear of retaliation from trolls, or to protect their public image.<br/>
+<br/>
+"Soon you'll be able to like without worrying who might see it," Wang continued. "Also a reminder that the more posts you like, the better your For you algorithm will become," he added.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yeah, we are making likes private.<br><br>Public likes are incentivizing the wrong behavior. For example, many people feel discouraged from liking content that might be &quot;edgy&quot; in fear of retaliation from trolls, or to protect their public image.<br><br>Soon you’ll be able to like without… <a href="https://t.co/vPGllc4pB0">https://t.co/vPGllc4pB0</a></p>&mdash; Haofei (@wanghaofei) <a href="https://twitter.com/wanghaofei/status/1793096366132195529?ref_src=twsrc%5Etfw">May 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+To clear up some confusion among users, X senior software engineer Enrique Barragan also responded with a <a href="https://x.com/enriquebrgn/status/1793140173913641271">post</a>, saying that users will still be able to see who liked their posts, as well as the like count for all posts, replies, and so on. The change involves hiding which posts other people liked, which means removing the Liked tab on public profiles.<br/>
+<br/>
+X Premium subscribers have been able to optionally hide the Likes tab on their profile, but the platform is set to take it away wholesale. It's not clear when the change will be rolled out, but once it does, everyone on X, including owner Musk – who has received blowback in the past for liking controversial posts – will be able to like whatever they want without it being made public.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/twitter/">Twitter</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/23/x-twitter-to-make-likes-private/">X Confirms Plan to Make &#039;Likes&#039; Private, Remove Likes Tab From Profiles</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/x-confirms-plan-to-make-likes-private-remove-likes-tab-from-profiles.2427177/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple&#039;s 2024 M4 Mac Mini: What We Know</title>
@@ -549,160 +595,6 @@ tvOS 17.5.1 can be downloaded using the Settings app on the ‌<a href="https://
 Compared to other operating system updates, tvOS updates are often minor in scale, focusing on bug fixes and other small improvements. According to Apple's release notes, the update addresses a bug with the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app that could cause deleted images to reappear. <blockquote>This update addresses a rare issue where photos that experienced database corruption could reappear in the Photos library even if they were deleted.</blockquote>Apple fixed the same bug on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> with the <a href="https://www.macrumors.com/2024/05/20/apple-releases-ios-17-5-1-photos-bug/">iOS 17.5.1 and iPadOS 17.5.1 updates</a> that came out yesterday.<br/>
 <br/>
 We don't know what's new in the update, but it may address the same &zwnj;Photos&zwnj; bug that was <a href="https://www.macrumors.com/2024/05/20/apple-releases-ios-17-5-1-photos-bug/">fixed in iOS 17.5.1 yesterday</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/21/apple-releases-tvos-17-5-1/">Apple Releases tvOS 17.5.1 to Fix Photos Corruption Bug Causing Deleted Images to Reappear</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-tvos-17-5-1-to-fix-photos-corruption-bug-causing-deleted-images-to-reappear.2427032/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPad 10 vs. iPad Air Buyer&#039;s Guide: Is the &#36;250 Difference Worth It?</title>
-		<link>https://www.macrumors.com/guide/ipad-10-vs-ipad-air/</link>
-		<comments>https://forums.macrumors.com/threads/ipad-10-vs-ipad-air-buyers-guide-is-the-250-difference-worth-it.2366555/</comments>
-		<pubDate>Tue, 21 May 2024 09:30:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/ipad-10-vs-ipad-air&#038;post_date=1716319800/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Buyer's Guide</category>
-		<category>Featured</category>
-		<category>iPad (low cost)</category>
-		<category>iPad Air</category>
-		<category>No Top Comments</category>
-		
-
-		<description><![CDATA[With the same design, display size, camera systems, and more, the entry-level <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> is now a formidable rival to the <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> at a markedly lower &#36;349 price point. With &#36;250 between these two &zwnj;iPad&zwnj; lines, how different are they and which should you buy?<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/10/iPad-10-vs-Air-Feature.jpg" alt="" width="2000" height="1126" class="alignnone size-full wp-image-870500" /><br/>
-Upon the discontinuation of the ninth-generation &zwnj;iPad&zwnj;, Apple dropped the price of the 10th-generation &zwnj;iPad&zwnj; from &#36;449 to &#36;349. This means that the 10th-generation &zwnj;iPad&zwnj; is now &#36;250 less than the &#36;599 starting price of the &zwnj;iPad Air&zwnj; that Apple just released.<br/>
-<br/>
-The 10th-generation model completes the transformation of the &zwnj;iPad&zwnj; product lineup toward a flat look with squared-off edges, no home button, and an all-screen design with curved corners. With the exact same display size and identical features like a <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> top button, USB-C port, and 5G connectivity, many prospective customers may now be considering a purchase of the standard &zwnj;iPad&zwnj; instead of the &zwnj;iPad Air&zwnj; – but there are more differences between the devices than immediately meets the eye. <br/>
-<br/>
-The <a href="https://www.macrumors.com/guide/m2/">M2</a> chip and double the amount of memory make the &zwnj;iPad Air&zwnj; much more powerful than the 10th-generation &zwnj;iPad&zwnj;. Combined with a more advanced display in two size options, support for <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> hover and the &zwnj;Apple Pencil&zwnj; Pro, a thinner and lighter design, and even a different selection of color options, many users still have good reasons to prefer the &zwnj;iPad Air&zwnj;. <br/>
-<br/>
-So should you consider buying the 10th-generation &zwnj;iPad&zwnj; to save money, or do you need the &zwnj;iPad Air&zwnj; instead? This breakdown serves as a clear way to see all the differences between the two devices.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;iPad&zwnj; (10th Generation, 2022)</th><br/>
- <th>&zwnj;iPad Air&zwnj; (Sixth Generation, 2024)</th><br/>
- </tr><br/>
- <tr><br/>
- <td>10.9-inch display</td><br/>
- <td>11- or 13-inch display</td><br/>
- </tr><br/>
- <tr><br/>
- <td>sRGB color</td><br/>
- <td>P3 wide color</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Fully laminated display</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Anti-reflective coating</td><br/>
- </tr><br/>
- <tr><br/>
- <td>A14 Bionic chip</td><br/>
- <td>&zwnj;M2&zwnj; chip</td><br/>
- </tr><br/>
- <tr><br/>
- <td>6-core CPU</td><br/>
- <td>8-core CPU</td><br/>
- </tr><br/>
- <tr><br/>
- <td>4-core GPU</td><br/>
- <td>10-core GPU</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Media Engine<br/>
-Hardware-accelerated H.264 and HEVC<br/>
-Video decode engine<br/>
-Video encode engine</td><br/>
- </tr><br/>
- <tr><br/>
- <td>4GB memory</td><br/>
- <td>8GB memory</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Smart HDR 3 for photos</td><br/>
- <td>Smart HDR 4 for photos</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Wi‑Fi 6 connectivity</td><br/>
- <td>Wi‑Fi 6E connectivity</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>&zwnj;Apple Pencil&zwnj; hover</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Supports &zwnj;Apple Pencil&zwnj; (USB‑C) and &zwnj;Apple Pencil&zwnj; (first generation)</td><br/>
- <td>Supports &zwnj;Apple Pencil&zwnj; (USB‑C) and &zwnj;Apple Pencil&zwnj; Pro</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Supports Magic Keyboard Folio</td><br/>
- <td>Supports Magic Keyboard</td><br/>
- </tr><br/>
- <tr><br/>
- <td>7mm depth</td><br/>
- <td>6.1mm depth</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Starts at &#36;349</td><br/>
- <td>Starts at &#36;599</td><br/>
- </tr><br/>
- <tr><br/>
- <td>477 gram weight</td><br/>
- <td>462 gram or 617 gram weight</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Available in Silver, Pink, Blue, and Yellow</td><br/>
- <td>Available in Space Gray, Starlight, Blue, and Purple</td><br/>
- </tr><br/>
- <tr><br/>
- <td>64GB or 256GB storage</td><br/>
- <td>128GB, 256GB, 512GB, or 1TB storage</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Starts at &#36;349</td><br/>
- <td>Starts at &#36;599</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-A key difference between the devices is their chips and amount of memory, so if you plan on using your &zwnj;iPad&zwnj; for more demanding tasks like 3D graphic design, advanced photo editing, and gaming, the &zwnj;iPad Air&zwnj; will be the better choice by far. The &zwnj;M2&zwnj; chip's dedicated media engine is also be particularly helpful when video editing, and supports <a href="https://www.macrumors.com/guide/stage-manager/">Stage Manager</a>, Apple's multitasking system for the &zwnj;iPad&zwnj;.<br/>
-<br/>
-The 10th-generation &zwnj;iPad&zwnj;'s display lacks P3 wide color, full lamination, and an anti-reflective coating. While these aspects are unlikely to be major reasons to preference the &zwnj;iPad Air&zwnj;, they are worth bearing in mind when trying to justify the &#36;250 leap to the more expensive device. The &zwnj;iPad Air&zwnj; is also available in an all-new 13-inch size option, which is more suitable for multitasking and using the device as a laptop-replacement, but this pushes the price difference up to &#36;450 – more than the cost of the 10th-generation &zwnj;iPad&zwnj; itself. <br/>
-<br/>
-The &zwnj;iPad Air&zwnj; is marginally thinner and lighter, with differences that are so minor as to be unimportant to most customers, but the more muted tones of its color options may make it more or less appealing based on your personal preferences.<br/>
-<br/>
-&zwnj;Apple Pencil&zwnj; support is also a key consideration. While the 10th-generation &zwnj;iPad&zwnj; supports the first-generation &zwnj;Apple Pencil&zwnj;, the &zwnj;Apple Pencil&zwnj; with USB-C is a better choice due to easier charging. However, this lacks advanced features like pressure sensitivity, haptic feedback, and barrel roll that you get with the &zwnj;iPad Air&zwnj;'s &zwnj;Apple Pencil&zwnj; Pro support. People who plan to use the &zwnj;Apple Pencil&zwnj; heavily for tasks like note-taking and illustration will undoubtedly have a significantly better experience with the &zwnj;iPad Air&zwnj;, which supports both the &zwnj;Apple Pencil&zwnj; with USB-C and the &zwnj;Apple Pencil&zwnj; Pro.<br/>
-<br/>
-While both devices support external keyboards, they have different strengths. The 10th-generation &zwnj;iPad&zwnj;'s Magic Keyboard Folio will be better for table-typers, those who prefer function keys, and those who want to easily detatch the keyboard but keep the &zwnj;iPad&zwnj; propped up on a surface, while the &zwnj;iPad Air&zwnj;'s Magic Keyboard is better for lap-typers and those who want backlighting.<br/>
-<br/>
-In theory, the &zwnj;iPad Air&zwnj; is a more compelling overall package with the &zwnj;M2&zwnj; chip, 4GB of additional memory, a dedicated media engine, &zwnj;Stage Manager&zwnj; for multitasking, a better display, and a much better &zwnj;Apple Pencil&zwnj; experience, but in practice, users with basic requirements are unlikely to notice a massive amount of difference between the devices. Unless you have specific need for the &zwnj;iPad Air&zwnj;'s added features or its larger display size option, it may be worth saving the &#36;250 and buying the 10th-generation &zwnj;iPad&zwnj;.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad">iPad (Caution)</a>, <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ipad-10-vs-ipad-air/">iPad 10 vs. iPad Air Buyer&#039;s Guide: Is the &#36;250 Difference Worth It?</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipad-10-vs-ipad-air-buyers-guide-is-the-250-difference-worth-it.2366555/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Wallet App Gaining Support for Transit Cards in Paris and Toronto</title>
-		<link>https://www.macrumors.com/2024/05/21/apple-wallet-app-transit-cards-paris-toronto/</link>
-		<comments>https://forums.macrumors.com/threads/apple-wallet-app-gaining-support-for-transit-cards-in-paris-and-toronto.2427030/</comments>
-		<pubDate>Tue, 21 May 2024 09:28:23 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/21/apple-wallet-app-transit-cards-paris-toronto/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Wallet</category>
-		
-
-		<description><![CDATA[Apple has <a href="https://www.apple.com/newsroom/2024/05/apple-and-ile-de-france-mobilites-introduce-navigo-for-iphone-and-apple-watch/">announced</a> that the Navigo transit card can be added to the Wallet app starting today, allowing iPhone and Apple Watch users to simply tap their devices to pay for rides on the metro, trains, buses, and more in the Paris, France area.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/Apple-Wallet-Paris-Navigo-Transit-Card.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-951808" /><br/>
-With the Navigo card in the Wallet app, a rider no longer needs to visit a ticket vending machine, or reload the card at retailers. Instead, passes can be purchased directly in the Wallet app on the iPhone, or in the Île-de-France Mobilités app.<br/>
-<br/>
-Apple also announced that real-time transit information for the Paris area will be available in Apple Maps starting this week. This feature will allow riders to view detailed schedules, live departure and arrival times, delays, outages, and any connections required to complete a trip across multiple transit systems.<br/>
-<br/>
-In related news, it was recently <a href="https://x.com/PRESTOcard/status/1791248521334546928">announced</a> that the PRESTO transit card in the Toronto, Canada area will soon support the Wallet app too.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/Apple-Wallet-PRESTO-Transit-Card-Toronto.jpeg" alt="" width="1024" height="574" class="aligncenter size-full wp-image-951809" /><br/>
-In both cities, the transit cards will support Express Mode, meaning that riders can simply hold their iPhone or Apple Watch near a payment reader to pay for their ride, without needing to unlock or wake the device. Express Mode continues to work for up to five hours after an iPhone has run out of battery power.<br/>
-<br/>
-<em>Thanks, <a href="https://mastodon.social/@apollozhao">Apollo Zhao</a>!</em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-wallet/">Apple Wallet</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/21/apple-wallet-app-transit-cards-paris-toronto/">Apple Wallet App Gaining Support for Transit Cards in Paris and Toronto</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-wallet-app-gaining-support-for-transit-cards-in-paris-and-toronto.2427030/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
