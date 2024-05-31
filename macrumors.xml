@@ -14,12 +14,64 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 30 May 2024 13:03:05 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 30 May 2024 17:11:18 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>More Advanced AI Siri Functionality Not Coming to iOS 18 Until 2025</title>
+		<link>https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/</link>
+		<comments>https://forums.macrumors.com/threads/more-advanced-ai-siri-functionality-not-coming-to-ios-18-until-2025.2427773/</comments>
+		<pubDate>Thu, 30 May 2024 13:29:23 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		<category>Siri</category>
+		<category>Bloomberg</category>
+		<category>Mark Gurman</category>
+		
+
+		<description><![CDATA[Apple is planning a major AI overhaul for <a href="https://www.macrumors.com/guide/siri/">Siri</a> in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, and <a href="https://www.bloomberg.com/news/articles/2024-05-30/apple-ios-18-siri-ai-update-will-let-users-control-features-in-apps-with-voice"><em>Bloomberg</em>'s Mark Gurman</a> says that the update will let &zwnj;Siri&zwnj; control all individual features in apps for the first time, expanding the range of functions the personal assistant can perform.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iOS-18-Siri-Integrated-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-945741" /><br/>
+&zwnj;Siri&zwnj; will be able to do things like open specific documents, move a note from one folder to another, delete an email, summarize an article, email a web link, and open a particular news site in <a href="https://www.macrumors.com/guide/apple-news-plus/">Apple News</a>. Apple plans to use AI to analyze what people are doing on their devices, automatically enabling &zwnj;Siri&zwnj; features.<br/>
+<br/>
+To make this happen, Apple engineers had to rearchitect &zwnj;Siri&zwnj;'s underlying software with large language models or LLMs, which is also the technology that's been used for chatbots like ChatGPT. Apple has been working on a deal with OpenAI to integrate OpenAI's ChatGPT technology into &zwnj;iOS 18&zwnj;, and it is also in talks with Google about incorporating Gemini, but &zwnj;Siri&zwnj; functionality likely relies on Apple's own LLM work.<br/>
+<br/>
+At launch, the new &zwnj;Siri&zwnj; functionality will be limited to Apple apps, and &zwnj;Siri&zwnj; will only be able to respond to one command at a time. Eventually, Apple wants &zwnj;Siri&zwnj; to be able to respond to multiple commands, such as capturing a photo and then sending it to someone in a message.<br/>
+<br/>
+While the &zwnj;Siri&zwnj; features will be introduced at <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a>, Apple reportedly does not plan to launch them in September when &zwnj;iOS 18&zwnj; sees an initial release. Instead, &zwnj;Siri&zwnj; will be overhauled in a future &zwnj;iOS 18&zwnj; update that's set to be introduced in 2025.<br/>
+<br/>
+Basic AI tasks in &zwnj;iOS 18&zwnj; will be processed on device, but more advanced capabilities will rely on Apple's cloud servers. Gurman previously said that Apple would power all of the initial &zwnj;iOS 18&zwnj; features on-device without relying on cloud technology in order to preserve privacy, but rumors have shifted in recent weeks. Part of Apple's new &zwnj;Siri&zwnj; technology will include code for determining whether a request can be processed on device or requires Apple's servers. On-device &zwnj;iOS 18&zwnj; AI capabilities will largely require an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> or later to work, and an <a href="https://www.macrumors.com/guide/m1/">M1</a> or later for iPadOS 18 and <a href="https://www.macrumors.com/roundup/macos-15/">macOS 15</a>.<br/>
+<br/>
+According to <em><a href="https://www.macrumors.com/2024/05/29/ios-18-cloud-ai-features-privacy-protections/">The Information</a></em>, Apple's AI servers will be powered by <a href="https://www.macrumors.com/guide/m2/">M2</a> Ultra and M4 chips, with Apple planning to use the Secure Enclave to "to help isolate the data being processed on its servers so that it can't be seen by the wider system or Apple." Gurman says that Apple will also provide customers with an "intelligent report" that explains how information is kept safe.<br/>
+<br/>
+We'll hear all about the AI functionality coming to &zwnj;Siri&zwnj; in just over 10 days. &zwnj;WWDC 2024&zwnj; is set to begin on Monday, June 10.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/siri/">Siri</a>, <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/">More Advanced AI Siri Functionality Not Coming to iOS 18 Until 2025</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/more-advanced-ai-siri-functionality-not-coming-to-ios-18-until-2025.2427773/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Spatial Puzzle Game &#039;Where Cards Fall&#039; Now Available on Apple Vision Pro</title>
+		<link>https://www.macrumors.com/2024/05/30/where-cards-fall-vision-pro/</link>
+		<comments>https://forums.macrumors.com/threads/spatial-puzzle-game-where-cards-fall-now-available-on-apple-vision-pro.2427771/</comments>
+		<pubDate>Thu, 30 May 2024 13:09:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/05/30/where-cards-fall-vision-pro/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Arcade</category>
+		
+
+		<description><![CDATA[Apple is continuing to add to its lineup of <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a> games on the Vision Pro, today adding puzzle game <a href="https://apps.apple.com/us/app/where-cards-fall/id1466331487?platform=vision">Where Cards Fall</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/where-cards-fall-apple-arcade.jpg" alt="" width="1286" height="724" class="aligncenter size-full wp-image-952862" /><br/>
+Where Cards Fall has previously been available on <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, and Mac, and it won an Apple Design Award back in 2020. A dreamlike spatial puzzle game, Where Cards Fall is a coming-of-age story that tasks players with building houses of cards to bring memories to life.<br/>
+<br/>
+Apple says that the game features full 3D depth and immersion, and players can use tactile, accessible controls designed specifically for the Vision Pro. There are more than 50 puzzles to solve using imagination and strategic thinking.<br/>
+<br/>
+Where Cards Fall is <a href="https://www.apple.com/apple-arcade/">part of Apple Arcade</a>, which is priced at &#36;6.99 per month and is also available with the <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a> subscription bundle. For the monthly price, up to six people that are part of a family group can access games, and there are more than 200 titles available. New subscribers can get a three-month trial with the purchase of an Apple device or a one-month trial.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/30/where-cards-fall-vision-pro/">Spatial Puzzle Game &#039;Where Cards Fall&#039; Now Available on Apple Vision Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/spatial-puzzle-game-where-cards-fall-now-available-on-apple-vision-pro.2427771/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Shares New Ads Promoting Apple Card</title>
@@ -571,64 +623,6 @@ It has been nearly two years since Apple <a href="https://www.macrumors.com/2022
 At this point, it is looking like next-generation CarPlay will debut with iOS 18, but it <a href="https://www.macrumors.com/2024/01/25/ios-17-4-next-generation-carplay/">could be compatible with some iOS 17 versions</a> too.<br/>
 <br/>
 Apple said next-generation CarPlay will have deeper integration with a vehicle's instrument cluster, climate controls, FM radio, and more.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a>, <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/homepod-homekit-carplay-home-auto-technology.193">HomePod, HomeKit, CarPlay, Home & Auto Technology</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/29/what-to-expect-from-carplay-on-ios-18/">What to Expect From CarPlay on iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/what-to-expect-from-carplay-on-ios-18.2427659/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s M3 MacBook Air Gets Record Low Discounts With Up to &#36;200 Off Select Models</title>
-		<link>https://www.macrumors.com/2024/05/29/apples-m3-macbook-air-200-off/</link>
-		<comments>https://forums.macrumors.com/threads/apples-m3-macbook-air-gets-record-low-discounts-with-up-to-200-off-select-models.2427656/</comments>
-		<pubDate>Wed, 29 May 2024 07:13:36 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/29/apples-m3-macbook-air-200-off/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Amazon today has nearly every model of the 13-inch and 15-inch M3 MacBook Air on sale, starting at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;999.00</strong></a> for the 256GB 13-inch model, down from &#36;1,099.00. In the case of the 15-inch MacBook Air, we're tracking a matching sale at Best Buy.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/m3-macbook-air-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950298" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2>13-Inch M3 MacBook Air</h2><br/>
-You can also get both 512GB models of the 13-inch M3 MacBook Air on sale right now on Amazon. The 8GB RAM/512GB SSD is on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX22NCHQ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;1,199.00</strong></a> and the 16GB RAM/512GB SSD is on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX246FNZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;1,349.00</strong></a>, which are &#36;100 off and &#36;150 off respectively, with the latter deal representing a match of the all-time low price on the 16GB model.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>13-inch M3 MacBook Air (256GB) for &#36;999.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX22NCHQ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>13-inch M3 MacBook Air (8GB/512GB) for &#36;1,199.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX246FNZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>13-inch M3 MacBook Air (16GB/512GB) for &#36;1,349.00</div></a></div><br/>
-<br/>
-<h2>15-Inch M3 MacBook Air</h2><br/>
-You can find all-time low prices across the 15-inch M3 MacBook Air lineup at both Amazon and Best Buy, including up to &#36;200 off these 2024 computers. Both retailers have the 256GB and 8GB/512GB models for &#36;100 off, but you'll only find the record low &#36;200 discount on the high-end model at Amazon.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/cmlTyg65W53"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>15-inch M3 MacBook Air (256GB) for &#36;1,199.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/cmlTzoVNq4x"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>15-inch M3 MacBook Air (8GB/512GB) for &#36;1,399.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX243WQ3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>15-inch M3 MacBook Air (16GB/512GB) for &#36;1,499.00</div></a></div><br/>
-<br/>
-Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/29/apples-m3-macbook-air-200-off/">Apple&#039;s M3 MacBook Air Gets Record Low Discounts With Up to &#36;200 Off Select Models</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-m3-macbook-air-gets-record-low-discounts-with-up-to-200-off-select-models.2427656/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>CARROT Weather Gains Updated Design With Garden Layout and More</title>
-		<link>https://www.macrumors.com/2024/05/29/carrot-weather-design-update/</link>
-		<comments>https://forums.macrumors.com/threads/carrot-weather-gains-updated-design-with-garden-layout-and-more.2427655/</comments>
-		<pubDate>Wed, 29 May 2024 07:05:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/05/29/carrot-weather-design-update/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Popular weather prediction app CARROT Weather was today updated to version 6.0, introducing a refreshed design with changes to the user interface and feature set. The app now features a garden, which is the new default look of the app.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/carrot-weather.png" alt="" width="3340" height="1878" class="aligncenter size-full wp-image-952529" /><br/>
-The garden is designed to grow and change over time, with little robots pruning trees, watering plants, and delivering supplies throughout the day. The garden resets at the start of each month for a dynamic experience throughout the year. While the garden is the default design, premium users can opt to keep their current layouts.<br/>
-<br/>
-CARROT Weather includes a new Hourly Forecast with a data point picker for selecting weather data that will show up on the main screen, plus there are more than a dozen layout options available in the Settings section of the app. Premium users can choose new styles for Weather Alerts, Minutely Forecast, Hourly Forecast, and Daily Forecast.<br/>
-<br/>
-The app includes weather news that provides insight into major weather events that are happening around the globe. Articles are sourced from Accuweather and stories for the local area will appear higher up in the layout. CARROT Weather is also gaining yesterday's temperature, which is a new popup that compares the current daily temperature with yesterday's weather when the app is first opened in the morning.<br/>
-<br/>
-CARROT Weather can be downloaded from the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> for free, but unlocking additional features requires the premium version, priced starting at &#36;20/year. [<a href="https://apps.apple.com/us/app/carrot-weather-alerts-radar/id961390574">Direct Link</a>]<br/>This article, &quot;<a href="https://www.macrumors.com/2024/05/29/carrot-weather-design-update/">CARROT Weather Gains Updated Design With Garden Layout and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/carrot-weather-gains-updated-design-with-garden-layout-and-more.2427655/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
