@@ -14,12 +14,165 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 04 Jun 2024 01:03:28 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jun 2024 05:04:46 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 18: These iPhones Likely Won&#039;t Support Some AI Features</title>
+		<link>https://www.macrumors.com/2024/06/04/ios-18-these-iphones-wont-support-ai/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-these-iphones-likely-wont-support-some-ai-features.2428119/</comments>
+		<pubDate>Tue, 04 Jun 2024 05:04:27 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/ios-18-these-iphones-wont-support-ai/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[Apple is planning a major AI overhaul in iOS 18, but some new features are unlikely to work on older iPhones, even if they do appear on the new operating system's device compatibility list.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iOS-18-Siri-Integrated-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-945741" /><br/>
+Apple's initial AI roadmap for iOS 18 is said to come in two parts: Basic AI features that will be processed on-device, and more advanced capabilities that will require communication with Apple's servers.<br/>
+<br/>
+At the heart of these features is a redesigned Siri. To that end, Apple engineers have had to rearchitect ‌Siri‌'s underlying software using large language models (LLMs), the algorithm that underpins generative AI. <br/>
+<br/>
+According to <a href="https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/"><em>Bloomberg</em>'s Mark Gurman</a>, this will allow Siri to do things like open specific documents, organize notes in folders, delete an email, summarize an article, email a web link, and more. Apple reportedly plans to use AI to analyze what people are doing on their devices to automatically enable these‌ features.<br/>
+<br/>
+Apple's own LLM is expected to handle what are deemed basic AI tasks, and it will be entirely on-device. In other words, the model is powered by the iPhone's processor, rather than in the cloud. It's not clear what the criteria for a basic task will be, but the LLM is said to include code that determines if a request can be processed on device or requires Apple's servers.<br/>
+<br/>
+<a href="https://x.com/markgurman/status/1796414625053020649">According to Gurman</a>, the on-device AI capabilities will largely require an iPhone 15 Pro or later to work. Meanwhile, rumors suggest iOS 18 will be <a href="https://www.macrumors.com/2024/02/27/ios-18-compatible-iphones-rumor/">compatible with the same iPhone models as iOS 17</a>. Combining the two reports, we should therefore expect the following iPhone models to run iOS 18, but lack support for some of Apple's on-device AI features:<br/>
+<div style="float: left; width: 50%;"><br/>
+<ul><li>iPhone 15</li><br/>
+<li>iPhone 15 Plus</li><br/>
+<li>iPhone 14</li><br/>
+<li>iPhone 14 Plus</li><br/>
+<li>iPhone 14 Pro</li><br/>
+<li>iPhone 14 Pro Max</li><br/>
+<li>iPhone 13</li><br/>
+<li>iPhone 13 mini</li><br/>
+<li>iPhone 13 Pro</li><br/>
+<li>iPhone 13 Pro Max</li><br/>
+<li>iPhone 12</li></ul></div><div style="float: right; width: 50%;"><br/>
+<ul><br/>
+<li>iPhone 12 mini</li><br/>
+<li>iPhone 12 Pro</li><br/>
+<li>iPhone 12 Pro Max</li><br/>
+<li>iPhone 11</li><br/>
+<li>iPhone 11 Pro</li><br/>
+<li>iPhone 11 Pro Max</li><br/>
+<li>iPhone XS</li><br/>
+<li>iPhone XS Max</li><br/>
+<li>iPhone XR</li><br/>
+<li>iPhone SE (2nd generation)</li><br/>
+<li>iPhone SE (3rd generation)</li></ul></div><br/>
+<div style="clear:both;"></div><br/>
+Both iPadOS 18 and macOS 15 are expected to share many of the same AI features, and Gurman has said that Macs and iPads will need at least an M1 chip for the on-device AI capabilities. In other words, Apple silicon Macs are the requirement for on-device AI in macOS 15 (ruling out Intel Macs), while anything older than the fifth-generation iPad Pro will not support on-device AI features in iPadOS 18.<br/>
+<br/>
+While it's not entirely clear which hardware factor is the key requirement for Apple's on-device AI, it's worth noting that (non-supported) standard iPhone 15 models have 6GB of RAM, while the supported Pro models have 8GB of RAM. Likewise, all Apple Silicon iPads and Macs come with a minimum of 8GB. Even when scaled back for narrow use cases, LLMs require a lot of working memory due to the sheer number of parameters involved, so this could be where Apple is coming up against the hardware limitations of its own devices. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/ios-18-these-iphones-wont-support-ai/">iOS 18: These iPhones Likely Won&#039;t Support Some AI Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-these-iphones-likely-wont-support-some-ai-features.2428119/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Netflix to End Support for 2nd and 3rd Generation Apple TV</title>
+		<link>https://www.macrumors.com/2024/06/04/netflix-end-support-2nd-3rd-gen-apple-tv/</link>
+		<comments>https://forums.macrumors.com/threads/netflix-to-end-support-for-2nd-and-3rd-generation-apple-tv.2428117/</comments>
+		<pubDate>Tue, 04 Jun 2024 04:51:30 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/netflix-end-support-2nd-3rd-gen-apple-tv/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple TV</category>
+		<category>Netflix</category>
+		
+
+		<description><![CDATA[Netflix will no longer support second-generation and third-generation <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> models from July 31, 2024, the company has announced in an email to some subscribers.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/apple-tv-2nd-gen-2010.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-953356" /><br/>
+Netflix said that the decision made to "maintain the best possible Netflix experience" by focusing on devices that can support the latest features and updates. <br/>
+<br/>
+The second-generation &zwnj;Apple TV&zwnj; was the first of its kind to feature a black body and an aluminum Apple Remote, an updated look compared to the silver and white &zwnj;Apple TV&zwnj; that was originally released in 2007. The unit was powered by an A4 chip, and offered up to 720p resolution output.<br/>
+<br/>
+Apple sold the second-generation &zwnj;Apple TV&zwnj; from 2010 until 2012, which is when the company released the third-generation &zwnj;Apple TV&zwnj; with an A5 chip and support for 1080p content. <br/>
+<br/>
+Both models run on an early variant of iOS that precedes tvOS and lacks an <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. The devices are classed as obsolete by Apple and no longer receive updates.<br/>
+<br/>
+Netflix will remain available to access on the &zwnj;Apple TV&zwnj; HD (originally the fourth-generation model) and all &zwnj;Apple TV&zwnj; 4K models.<br/>
+<br/>
+After the July 31 date, Netflix recommends that to continue viewing content, affected users either upgrade to a newer &zwnj;Apple TV&zwnj; model, or use other compatible devices such as smart TVs or Roku devices.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/netflix/">Netflix</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/netflix-end-support-2nd-3rd-gen-apple-tv/">Netflix to End Support for 2nd and 3rd Generation Apple TV</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/netflix-to-end-support-for-2nd-and-3rd-generation-apple-tv.2428117/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Aptoide Launching Alternative iOS Game Marketplace in EU</title>
+		<link>https://www.macrumors.com/2024/06/04/aptoide-marketplace-games-ios/</link>
+		<comments>https://forums.macrumors.com/threads/aptoide-launching-alternative-ios-game-marketplace-in-eu.2428114/</comments>
+		<pubDate>Tue, 04 Jun 2024 03:56:52 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/aptoide-marketplace-games-ios/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>European Union</category>
+		
+
+		<description><![CDATA[<a href="https://press.ios.aptoide.com/en">Aptoide</a>, a popular Google Play alternative for Android devices, will be launching an iOS game marketplace on Thursday, June 6, in the European Union.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/aptoide.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-953350" /><br/>
+The Aptoide iOS store will launch with a limited selection of titles, but the company says that new games will arrive every day, and that 30 titles are currently being processed for inclusion. Examples of current games include Word Jungle, Condor — Leap of Faith, Solitaire, Mahjong, and Charades.<br/>
+<br/>
+Initially, access to the store will be restricted to users with invitation-only access codes, but Aptoide says it has a waiting list of 20,000 signups and plans to issue between 500 to 1,000 codes per day.<br/>
+<br/>
+As noted by <em><a href="https://www.theverge.com/2024/6/4/24171037/aptoide-ios-game-store-eu-third-party-app-dma">The Verge</a></em>, Aptoide is the first third-party iOS marketplace to launch with an Apple-approved in-app purchases (IAP) solution, which it will provide to developers via an IAP software development kit.<br/>
+<br/>
+Apple's 50 euro cents Core Technology Fee (CFT) will be covered by a fee charged to developers for in-app purchases, which means IAP-driven apps will be "preferred" in Aptoide iOS, according to the marketplace's CEO, Paulo Trezentos.<br/>
+<br/>
+Apps distributed through alternative app marketplaces are required to submit to a notarization process to ensure they are free from malware, but Apple does not have restrictions on content so apps that might not have been eligible for the ‌<a href="https://www.macrumors.com/guide/app-store/">App Store</a>‌ can be distributed through alternative means. Alternative app marketplaces are not available outside of the European Union.<br/>
+<br/>
+Aptoide has operated for an Android &zwnj;App Store&zwnj; since 2009, and last year reached nearly half a billion downloads.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/aptoide-marketplace-games-ios/">Aptoide Launching Alternative iOS Game Marketplace in EU</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/aptoide-launching-alternative-ios-game-marketplace-in-eu.2428114/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>OpenAI Says ChatGPT Suffering Major Outage</title>
+		<link>https://www.macrumors.com/2024/06/04/openai-says-chatgpt-suffering-major-outage/</link>
+		<comments>https://forums.macrumors.com/threads/openai-says-chatgpt-suffering-major-outage.2428112/</comments>
+		<pubDate>Tue, 04 Jun 2024 03:22:49 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/openai-says-chatgpt-suffering-major-outage/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>ChatGPT</category>
+		
+
+		<description><![CDATA[OpenAI's ChatGPT chatbot is currently suffering a major outage that is making the generative AI service unavailable for "some users," according to the company's <a href="https://status.openai.com">system status page</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/05/chatgpt-for-iphone-feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-896306" /><br/>
+ChatGPT has been down for several hours, with the chatbot unable to respond to queries via the web and mobile apps due to an internal server error. The company says it first started working on the issue at 12:21 a.m. Pacific Time on June 4. <br/>
+<br/>
+ChatGPT has more than 100 million weekly users, according to OpenAI. Apple has reportedly <a href="https://www.macrumors.com/2024/05/13/apple-finalizing-deal-openai-chatgpt-ios-18/">closed in on a deal</a> with OpenAI that should see ChatGPT being used to power new features in iOS 18, Apple's next major iPhone operating system update, so outages like this one could potentially affect millions more users.<br/>
+<br/>
+ChatGPT also suffered a partial outage last month when Microsoft's <a href="https://www.macrumors.com/2024/05/23/bing-copilot-duckduckgo-chatgpt-search-down/">Bing API stopped functioning</a>, leaving the chatbot and many other services unable to search the web. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/openai-says-chatgpt-suffering-major-outage/">OpenAI Says ChatGPT Suffering Major Outage</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/openai-says-chatgpt-suffering-major-outage.2428112/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple iPhone Trade-In Promotion Ends as Credit Values Lowered</title>
+		<link>https://www.macrumors.com/2024/06/04/apple-iphone-trade-in-promotion-ends/</link>
+		<comments>https://forums.macrumors.com/threads/apple-iphone-trade-in-promotion-ends-as-credit-values-lowered.2428110/</comments>
+		<pubDate>Tue, 04 Jun 2024 03:00:30 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/apple-iphone-trade-in-promotion-ends/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple Trade-In</category>
+		
+
+		<description><![CDATA[As expected, Apple has ended its <a href="https://www.macrumors.com/2024/05/20/apple-boosts-iphone-trade-in-values-promotion/">limited-time promotion</a> that increased the trade-in values for select iPhone models in the United States when customers buy a new iPhone.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-951609" /><br/>
+The two-week promotion officially came to a close on June 3, which means anyone trading in their existing iPhone 11 or newer today will get slightly less money knocked off the price of a new iPhone than they would have done the previous day. Some of the new values have been reproduced below, with the previous promotional values in brackets:<br/>
+<ul><br/>
+  <li>iPhone 14 Pro Max: Up to &#36;630 (vs. &#36;650)</li><br/>
+  <li>iPhone 14 Pro: Up to &#36;520 (vs. &#36;530)</li><br/>
+  <li>iPhone 14 Plus: Up to &#36;420 (vs. &#36;430)</li><br/>
+  <li>iPhone 14: Up to &#36;370 (vs. &#36;380)</li><br/>
+  <li>iPhone 13 Pro Max: Up to &#36;450 (vs. &#36;460)</li><br/>
+  <li>iPhone 13 Pro: Up to &#36;370 (vs. &#36;380)</li><br/>
+  <li>iPhone 13: Up to &#36;300 (vs. &#36;320)</li><br/>
+  <li>iPhone 13 mini: Up to &#36;270 (vs. &#36;300)</li><br/>
+  <li>iPhone SE (3rd generation): Up to &#36;160 (vs. &#36;170)</li><br/>
+</ul>Trade-ins can be completed on Apple's website or at an Apple Store, and the credit can be applied towards the purchase of a new Apple product, or placed on an Apple gift card for later use. Apple's <a href="https://www.apple.com/shop/trade-in">trade-in page</a> offers a complete list of values for devices.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-trade-in/">Apple Trade-In</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/apple-iphone-trade-in-promotion-ends/">Apple iPhone Trade-In Promotion Ends as Credit Values Lowered</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-iphone-trade-in-promotion-ends-as-credit-values-lowered.2428110/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Security Researcher Calls Windows 11 AI &#039;Recall&#039; Screenshotting Feature a Disaster</title>
@@ -437,146 +590,6 @@ Apple's <a href="https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesi
 Apple has not commented on the change, which, if accurate, makes the new iPad Air the first M2-based Apple device with a 9-core GPU. Since the change went live on Apple's site, the going theory is that Apple's processor yield of 10-core chips was not sufficient, so it is using a "binned" version of the 10-core chip with one of the GPU cores disabled. The practice of "binning" is sometimes used to optimize processor yields and reduce waste. <br/>
 <br/>
 In all likelihood, every M2 iPad Air model that Apple has sold includes a 9-core GPU, and Apple is simply updating its product information for accuracy. Any real-world performance difference between an M2 iPad Air with a 9-core versus a 10-core GPU would have arguably been unnoticeable to most users. Even so, some customers will probably want to know why Apple's marketing materials were mistaken.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/03/apple-says-m2-ipad-air-9-gpu-cores-not-10/">Apple Says M2 iPad Air Has 9 GPU Cores, Not 10 as Originally Stated</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-says-m2-ipad-air-has-9-gpu-cores-not-10-as-originally-stated.2428016/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Qualcomm Enlists &#039;I&#039;m a Mac&#039; Ad Star for Snapdragon PC Skit</title>
-		<link>https://www.macrumors.com/2024/06/03/im-a-mac-snapdragon-pc-skit/</link>
-		<comments>https://forums.macrumors.com/threads/qualcomm-enlists-im-a-mac-ad-star-for-snapdragon-pc-skit.2428015/</comments>
-		<pubDate>Mon, 03 Jun 2024 06:10:06 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/03/im-a-mac-snapdragon-pc-skit/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Qualcomm</category>
-		
-
-		<description><![CDATA[Justin Long, the face of Apple's iconic <a href="https://www.youtube.com/watch?v=0eEG5LVXdKo">"I'm a Mac" commercials</a>, now stars in a short Qualcomm skit promoting Snapdragon-powered PCs.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/5R3QpKMciEw?si=gr4XADXs59lte8Ku&amp;start=4626" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
-At the Computex 2024 keynote, Qualcomm unveiled the new skit featuring Long, who is well-known for his role in Apple's "Get a Mac" commercials nearly two decades ago. Long is depicted as being overwhelmed by a barrage of notifications about app compatibility, low disk space, and battery issues in macOS, prompting him to search for an alternative in the form of a Windows on ARM PC. The ad concludes with Long stating, "Things change," a sentiment echoed by Qualcomm CEO Cristiano Amon during the event's closing remarks. Qualcomm's Snapdragon X Elite chips debut in new Copilot Plus PCs on June 18.<br/>
-<br/>
-Long's participation in the skit is the latest development in a series of marketing strategies where tech companies use his association with the "I'm a Mac" persona to promote their products. The trend began in 2017 when Huawei featured Long in an <a href="https://www.macrumors.com/2017/01/31/justin-long-joins-huawei-ad-campaign/">ad for its Mate 9 smartphone</a>. In 2021, Intel also employed Long to create commercials that praised PCs and <a href="https://www.macrumors.com/2021/03/17/justin-long-get-a-mac-intel-ad-campaign/">mocked various aspects of Apple's M1 MacBooks</a>, including the Touch Bar and its limited color options.<br/>
-<br/>
-Apple launched the original "Get a Mac" ad campaign in 2006. Long played a personified Mac, characterized as easygoing and efficient, while John Hodgman portrayed a PC, depicted as conformist and prone to problems like viruses and system crashes. The ads ran for three years and consisted of 66 different commercials, although Long revealed in 2019 that approximately 300 were filmed.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/qualcomm/">Qualcomm</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/03/im-a-mac-snapdragon-pc-skit/">Qualcomm Enlists &#039;I&#039;m a Mac&#039; Ad Star for Snapdragon PC Skit</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/qualcomm-enlists-im-a-mac-ad-star-for-snapdragon-pc-skit.2428015/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Sonos Ace Headphones vs. AirPods Max</title>
-		<link>https://www.macrumors.com/2024/06/03/sonos-ace-vs-airpods-max/</link>
-		<comments>https://forums.macrumors.com/threads/sonos-ace-headphones-vs-airpods-max.2428014/</comments>
-		<pubDate>Mon, 03 Jun 2024 06:01:26 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/03/sonos-ace-vs-airpods-max/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>Sonos</category>
-		
-
-		<description><![CDATA[Sonos in May decided to get into the headphone market with the <a href="https://www.macrumors.com/2024/05/21/hands-on-sonos-ace-headphones/">launch of the Sonos Ace headphones</a>. The <a href="https://howl.me/cmn5Z7bb51W">&#36;449 Sonos Ace headphones</a> have some enticing design elements and features you won't see in Apple's headphones, so we thought we'd compare them to the &#36;549 <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a> to see which is ultimately better.<br/>
-<br/>
-<div class="center-wrap"><iframe title="13" src="https://www.youtube.com/embed/xzG_OcEjNw8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-In terms of design, both the Sonos Ace and &zwnj;AirPods Max&zwnj; are over-ear headphones that have a premium look, but the &zwnj;AirPods Max&zwnj; have a fancier feel because of the aluminum material. While Apple opted for brushed aluminum ear cups in a range of colors, Sonos went for recycled plastic in either black or white.<br/>
-<br/>
-Both have a minimal aesthetic, but the lack of aluminum makes the Sonos Ace lighter and more comfortable to wear. The &zwnj;AirPods Max&zwnj; are 13.6 ounces, and the Sonos Ace weigh 11 ounces. Two ounces might not sound like a lot, but it impacts comfort. The &zwnj;AirPods Max&zwnj; also tend to clamp tightly to the head, which the Sonos Ace don't do, so it's just easier overall to wear the Sonos Ace with the gentler fit.<br/>
-<br/>
-The ear cups on the Sonos Ace are made from memory foam covered with vegan leather, and Apple's ear cups are made from a mesh acoustic fabric that's supposed to better conduct sound than other materials. The soft Sonos Ace ear cups will probably be more comfortable for most people, but there might be less breathability just because of the nature of the fabric. Apple created a u-shaped mesh headband with telescoping arms, while the Sonos Ace uses the same vegan leather material also with telescoping arms.<br/>
-<br/>
-You can't fold the &zwnj;AirPods Max&zwnj;, and you also can't fold the Sonos Ace, but Sonos made a better case. It's slim, light, and offers full protection, unlike the unpopular case Apple offers with the &zwnj;AirPods Max&zwnj;.<br/>
-<br/>
-Sound quality is similar, but the Sonos app has an adjustable EQ for tweaking sound to your liking, which is something that can't be done on the &zwnj;AirPods Max&zwnj;. Both support spatial audio and Dolby Atmos, and Sonos' spatial audio is just as impressive as Apple's. The Active Noise Cancellation and Transparency options perform close to the same, and while Apple has the best Transparency mode, Sonos is right behind.<br/>
-<br/>
-You can pair the &zwnj;AirPods Max&zwnj; and the Sonos Ace to a TV set, but for the AirPods you'll need a &#36;129 <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, and for the Sonos Ace, you'll need the Arc Soundbar, which is &#36;719. Sonos plans to add Ace integration to its other soundbars, but none are cheap.<br/>
-<br/>
-Both pair to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and Mac with no additional hardware, but you get better connectivity with the &zwnj;AirPods Max&zwnj; thanks to fast switching and one tap pairing. It's more of a hassle to pair the Sonos Ace because it uses standard Bluetooth with no automatic pairing via <a href="https://www.macrumors.com/guide/icloud/">iCloud</a>, so when you're changing devices, you'll need to manually reconnect.<br/>
-<br/>
-Sonos' headphones are several years newer than the &zwnj;AirPods Max&zwnj; at this point, and battery technology has improved. The &zwnj;AirPods Max&zwnj; only offer 20 hours of battery life with ANC and spatial audio turned on, while the Sonos Ace offer 30 hours of battery. Apple also hasn't updated the &zwnj;AirPods Max&zwnj; with USB-C, so they're still using the Lightning port that's being phased out. Unless you want to have to use a Lightning port for several more years, it's best to go with the Ace, another set of headphones, or wait for the &zwnj;AirPods Max&zwnj; USB-C refresh that's supposed to be coming later this year.<br/>
-<br/>
-Sonos priced the Ace &#36;100 cheaper than the &zwnj;AirPods Max&zwnj;, but it's pretty easy to find the &zwnj;AirPods Max&zwnj; at a discount these days. If you can live without quick pairing, automatic switching, and the Apple aesthetic, the Sonos Ace offer the same sound quality and ANC, plus they're more comfortable.<br/>
-<br/>
-Do you prefer the &zwnj;AirPods Max&zwnj; or the Sonos Ace? Let us know in the comments below.<br/>
-<br/>
-<em><small>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/sonos/">Sonos</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/03/sonos-ace-vs-airpods-max/">Sonos Ace Headphones vs. AirPods Max</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-ace-headphones-vs-airpods-max.2428014/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16 Pro Could Break Record for Thinnest Bezels on a Smartphone</title>
-		<link>https://www.macrumors.com/2024/06/03/iphone-16-pro-thinnest-bezels-smartphone/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-pro-could-break-record-for-thinnest-bezels-on-a-smartphone.2428008/</comments>
-		<pubDate>Mon, 03 Jun 2024 02:23:23 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/03/iphone-16-pro-thinnest-bezels-smartphone/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 16 Pro</category>
-		<category>UniverseIce</category>
-		
-
-		<description><![CDATA[Apple's upcoming iPhone 16 Pro models will have the thinnest bezels of any smartphone, beating the screen border thinness of even its latest iPhone 15 Pro devices. That's according to the leaker known as "Ice Universe," who has divulged accurate information about Apple's plans in the past.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/iPhone-16-Pro-Front-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-928695" /><br/>
-According to <a href="https://www.macrumors.com/2023/05/16/iphone-16-display-sizes/">multiple sources</a>, despite minimal design changes, both iPhone 16 Pro models will increase in size this year. The iPhone 16 Pro is said to be 6.3 inches (up from 6.1), while the iPhone 16 Pro Max is expected to measure in at 6.9 inches (up from 6.7), potentially making it Apple's biggest iPhone ever. <br/>
-<br/>
-But it seems that Apple isn't just relying on larger physical dimensions to make the viewing experience more immersive. <a href="https://x.com/UniverseIce/status/1797408311513600503">According to Ice Universe</a>, this year's Pro models will also have reduced bezels that could be the thinnest yet seen on any smartphone, including those on the Samsung Galaxy S24. <br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">iPhone 16 Pro Max vs iPhone 15 Pro Max，The narrower and narrower bezel is very much to my taste.<br>But the dynamic island should be reduced. <a href="https://t.co/7EfgBSfjxg">pic.twitter.com/7EfgBSfjxg</a></p>&mdash; ICE UNIVERSE (@UniverseIce) <a href="https://twitter.com/UniverseIce/status/1797856834168193522?ref_src=twsrc%5Etfw">June 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-The breakthrough for achieving this could be Apple's rumored use of Border Reduction Structure (BRS) technology, which allows for a more compact and efficient layout of the circuitry under the display, resulting in even slimmer bezels. Ice Universe did not mention BRS, but <a href="https://www.macrumors.com/2024/04/04/iphone-16-even-thinner-bezels/">two</a> <a href="https://www.macrumors.com/2024/03/20/iphone-16-ultra-thin-bezels-rumor/">rumors</a> out of Asia have referenced the technology in relation to iPhone 16 models.<br/>
-<ul><li><a href="https://www.macrumors.com/2024/05/21/iphone-16-pro-max-biggest-rumored-features/">5 Biggest Changes Rumored for iPhone 16 Pro Max</a></li></ul><br/>
-Last year, Apple reduced the bezels on iPhone 15 Pro models using low-injection pressure over-molding, or LIPO, to shrink the display border size to 1.5 millimeters (versus around 2.2 millimeters on iPhone 14 models). Besides that, Apple has not significantly tweaked iPhone screen sizes since the introduction of the ‌‌iPhone‌‌ 12 models in 2020. But as mentioned, things are set to change with the Pro models in the 2024 iPhone 16 lineup. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/universeice/">UniverseIce</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/03/iphone-16-pro-thinnest-bezels-smartphone/">iPhone 16 Pro Could Break Record for Thinnest Bezels on a Smartphone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-pro-could-break-record-for-thinnest-bezels-on-a-smartphone.2428008/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>AirPods 3 Drop to All-Time Low Price of &#36;139.99 on Amazon, Plus More AirPods Deals</title>
-		<link>https://www.macrumors.com/2024/06/02/airpods-3-all-time-low-price/</link>
-		<comments>https://forums.macrumors.com/threads/airpods-3-drop-to-all-time-low-price-of-139-99-on-amazon-plus-more-airpods-deals.2427966/</comments>
-		<pubDate>Sun, 02 Jun 2024 09:32:19 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/02/airpods-3-all-time-low-price/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Amazon today has Apple's AirPods 2, AirPods 3 with Lightning Charging Case, and AirPods Pro 2 on sale, with up to &#36;59 in savings on these earbuds. For the AirPods 3, this is the first time we've tracked a discount on the device in about a month.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/05/Airpods-3-Discount-Feature-Orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-895373" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-The AirPods 2 are on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;89.00</strong></a>, down from &#36;129.00, and the AirPods 3 with Lightning Charging Case are on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BDHB9Y8H%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;139.99</strong></a>, down from &#36;169.00. This discount on the AirPods 2 isn't quite an all-time low price, but it's still a good deal on the headphones that's about &#36;10 higher compared to the typical record low price.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;40 OFF</div>AirPods 2 for &#36;89.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BDHB9Y8H%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;29 OFF</div>AirPods 3 for &#36;139.99</div></a></div><br/>
-<br/>
-If you're looking for a Pro model, Amazon also has the AirPods Pro 2 with USB-C on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;189.99</strong></a>, down from &#36;249.00. This is another solid second-best price on the AirPods, and similar to the other models it'll arrive between June 4 and June 8, depending on shipping speed.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;59 OFF</div>AirPods Pro 2 (USB-C) for &#36;189.99</div></a></div><br/>
-<br/>
-Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/02/airpods-3-all-time-low-price/">AirPods 3 Drop to All-Time Low Price of &#36;139.99 on Amazon, Plus More AirPods Deals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/airpods-3-drop-to-all-time-low-price-of-139-99-on-amazon-plus-more-airpods-deals.2427966/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Gurman: No Hardware at WWDC, Next Apple TV No Longer Coming Soon</title>
-		<link>https://www.macrumors.com/2024/06/02/gurman-no-new-hardware-at-wwdc-2024/</link>
-		<comments>https://forums.macrumors.com/threads/gurman-no-hardware-at-wwdc-next-apple-tv-no-longer-coming-soon.2427954/</comments>
-		<pubDate>Sun, 02 Jun 2024 06:59:27 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/02/gurman-no-new-hardware-at-wwdc-2024/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>WWDC</category>
-		<category>Mark Gurman</category>
-		
-
-		<description><![CDATA[<em>Bloomberg</em>'s Mark Gurman <a href="https://www.bloomberg.com/news/newsletters/2024-06-02/apple-ipad-pro-m4-chip-review-company-inches-closer-to-laptops-with-new-tablets-lwxjbna0">does not expect</a> Apple to announce any new hardware during its <a href="https://www.macrumors.com/2024/05/28/wwdc-2024-full-schedule/">WWDC 2024 keynote on June 10</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-870258" /><br/>
-"There's no hardware slated to be announced at WWDC, unless Apple unexpectedly previews a new device launching later (to be clear: I don't expect that)," said Gurman, in his <a href="https://www.bloomberg.com/news/newsletters/2024-06-02/apple-ipad-pro-m4-chip-review-company-inches-closer-to-laptops-with-new-tablets-lwxjbna0"><em>Power On</em> newsletter today</a>.<br/>
-<br/>
-Notably, Gurman now says a new Apple TV model "isn't imminent," despite previously reporting that Apple was aiming to release a new Apple TV <a href="https://www.macrumors.com/2023/01/18/apple-tv-faster-chip-2024-launch/">in the first half of 2024</a>. The current Apple TV was introduced in October 2022.<br/>
-<br/>
-Here is when the previous five Apple TV models were announced:<br/>
-<br/>
-<ul><li><strong>Third-generation Apple TV 4K:</strong> October 2022</li><br/>
-<li><strong>Second-generation Apple TV 4K:</strong> April 2021</li><br/>
-<li><strong>First-generation Apple TV 4K:</strong> September 2017</li><br/>
-<li><strong>Apple TV HD:</strong> September 2015</li><br/>
-<li><strong>Third-generation Apple TV:</strong> March 2012</li></ul><br/>
-<br/>
-The next Apple TV is rumored to feature a <a href="https://www.macrumors.com/2023/01/18/apple-tv-faster-chip-2024-launch/">faster processor</a> than the current A15 Bionic chip, and even lower pricing. Apple analyst Ming-Chi Kuo suggested that the next Apple TV <a href="https://www.macrumors.com/2022/10/18/kuo-even-cheaper-apple-tv/">could have a &#36;99 starting price</a> in the U.S., down from &#36;129 currently.<br/>
-<br/>
-No major design changes have been rumored for the next Apple TV specifically, but Gurman said Apple has considered <a href="https://www.macrumors.com/2024/04/07/apple-tv-with-camera-again-rumored/">adding a built-in camera</a> to a future model. tvOS 17 <a href="https://www.macrumors.com/how-to/use-iphone-facetime-camera-apple-tv/">added a FaceTime app to the Apple TV</a>, allowing for users to have video calls on the TV, but this currently requires using the rear camera on a connected iPhone or iPad.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-inc-and-tech-industry.8">Apple, Inc and Tech Industry</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/02/gurman-no-new-hardware-at-wwdc-2024/">Gurman: No Hardware at WWDC, Next Apple TV No Longer Coming Soon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/gurman-no-hardware-at-wwdc-next-apple-tv-no-longer-coming-soon.2427954/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
