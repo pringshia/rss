@@ -14,12 +14,38 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 03 Jun 2024 17:11:52 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 03 Jun 2024 21:03:26 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Security Researcher Calls Windows 11 AI &#039;Recall&#039; Screenshotting Feature a Disaster</title>
+		<link>https://www.macrumors.com/2024/06/03/windows-11-recall-feature-disaster/</link>
+		<comments>https://forums.macrumors.com/threads/security-researcher-calls-windows-11-ai-recall-screenshotting-feature-a-disaster.2428084/</comments>
+		<pubDate>Mon, 03 Jun 2024 17:58:42 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/03/windows-11-recall-feature-disaster/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Microsoft</category>
+		
+
+		<description><![CDATA[Last month, Microsoft <a href="https://www.macrumors.com/2024/05/20/microsoft-ai-windows-pcs/">announced the upcoming launch</a> of Copilot+ Windows PCs with integrated AI hardware and software. One feature that Microsoft touted was Recall, a tool that's designed to take regular snapshots of PC content to help users find anything they've seen or done on their machine.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/maC9iZMaAlM" title="Recall instantly with Recall on Copilot+ PC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+As it turns out, Recall might be a security nightmare for Windows users. Security expert Kevin Beaumont <a href="https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e">recently said</a> (via <em><a href="https://www.theverge.com/2024/6/3/24170305/microsoft-windows-recall-ai-screenshots-security-privacy-issues">The Verge</a></em>) that he was able to automate a program that provides plain text data of everything a user has viewed, despite Microsoft's claims that Recall information cannot be exfiltrated remotely.<br/>
+<br/>
+Beaumont claims that Recall is "essentially an infostealer" that's included in Windows by default, and that it will "set cybersecurity back a decade by empowering cybercriminals." With Recall, hackers are able to scrape "everything you've ever looked at within seconds," and users should prepare for "AI powered super breaches."<br/>
+<br/>
+Microsoft describes Recall as a feature that lets you "search across time to find the content you need." Powered by AI, Recall takes snapshots every five seconds when content on the screen is different from the prior snapshot and stores the snapshots in a timeline, with AI software using OCR to make the text in the snapshots searchable. Microsoft says that snapshots are locally stored and are analyzed on-device, which should make them secure, but the OCR data is stored in an SQLite database that could be accessed by hackers who infiltrate a PC using malware.<br/>
+<br/>
+According to Beaumont, infostealer trojans are able to be "easily modified to support Recall" and data from the feature can be accessed remotely. Microsoft "tried to do a bunch of things" to improve security, but ultimately, "none of it actually works properly in the real world." The database that is theoretically accessible by malicious actors contains everything a user has seen such as text messages and passwords, every user interaction, and all websites visited (with the exception of Microsoft Edge in Private Mode).<br/>
+<br/>
+Beaumont has not shared full technical details on how he automated exfiltration of the Recall database, and is holding until Recall is shipped because he wants to give Microsoft "time to do something." Beaumont recommends that Microsoft pull the feature for the time being.<br/>
+<br/>
+Copilot+ PCs with Recall are set to launch on June 18. As of now, Recall is turned on by default, though users can optionally disable it.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/microsoft/">Microsoft</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/03/windows-11-recall-feature-disaster/">Security Researcher Calls Windows 11 AI &#039;Recall&#039; Screenshotting Feature a Disaster</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/security-researcher-calls-windows-11-ai-recall-screenshotting-feature-a-disaster.2428084/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Spotify Raises Prices for Second Time in 12 Months, Now More Expensive Than Apple Music</title>
@@ -54,7 +80,7 @@ At &#36;11.99 and &#36;19.99, respectively, the Spotify Premium and Family plans
 		<category>iPad Air</category>
 		
 
-		<description><![CDATA[Though Apple <a href="https://www.macrumors.com/2024/06/03/apple-says-m2-ipad-air-9-gpu-cores-not-10/">mistakenly listed</a> the <a href="https://www.macrumors.com/guide/m2/">M2</a> chip in the <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> as having a 10-core GPU instead of a 9-core GPU, the performance claims that it shared during the <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> launch and in marketing materials are accurate.<br/>
+		<description><![CDATA[Though Apple <a href="https://www.macrumors.com/2024/06/03/apple-says-m2-ipad-air-9-gpu-cores-not-10/">mistakenly listed</a> the <a href="https://www.macrumors.com/guide/m2/">M2</a> chip in the <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> as having a 10-core GPU instead of a 9-core GPU, the performance claims that it shared during the &zwnj;iPad Air&zwnj; launch and in marketing materials are accurate.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/05/m2-iPad-Air-Horizontal-Feature-Orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950736" /><br/>
 In a statement provided to <em><a href="https://9to5mac.com/2024/06/03/apple-says-m2-ipad-air-performance-claims-are-accurate-despite-gpu-mix-up/">9to5Mac</a></em>, Apple said that the details it shared on the &zwnj;iPad Air&zwnj;'s performance were always based on a 9-core GPU.<br/>
@@ -550,42 +576,6 @@ Here is when the previous five Apple TV models were announced:<br/>
 The next Apple TV is rumored to feature a <a href="https://www.macrumors.com/2023/01/18/apple-tv-faster-chip-2024-launch/">faster processor</a> than the current A15 Bionic chip, and even lower pricing. Apple analyst Ming-Chi Kuo suggested that the next Apple TV <a href="https://www.macrumors.com/2022/10/18/kuo-even-cheaper-apple-tv/">could have a &#36;99 starting price</a> in the U.S., down from &#36;129 currently.<br/>
 <br/>
 No major design changes have been rumored for the next Apple TV specifically, but Gurman said Apple has considered <a href="https://www.macrumors.com/2024/04/07/apple-tv-with-camera-again-rumored/">adding a built-in camera</a> to a future model. tvOS 17 <a href="https://www.macrumors.com/how-to/use-iphone-facetime-camera-apple-tv/">added a FaceTime app to the Apple TV</a>, allowing for users to have video calls on the TV, but this currently requires using the rear camera on a connected iPhone or iPad.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-inc-and-tech-industry.8">Apple, Inc and Tech Industry</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/02/gurman-no-new-hardware-at-wwdc-2024/">Gurman: No Hardware at WWDC, Next Apple TV No Longer Coming Soon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/gurman-no-hardware-at-wwdc-next-apple-tv-no-longer-coming-soon.2427954/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Buy and Amazon Introduce Steep Discounts on M2 and M3 MacBook Air [Updated]</title>
-		<link>https://www.macrumors.com/2024/06/01/best-buy-weekend-macbook-air/</link>
-		<comments>https://forums.macrumors.com/threads/best-buy-and-amazon-introduce-steep-discounts-on-m2-and-m3-macbook-air-updated.2427908/</comments>
-		<pubDate>Sat, 01 Jun 2024 09:31:25 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/01/best-buy-weekend-macbook-air/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Best Buy has a huge collection of discounts on Apple's MacBook Air this weekend, including both the previous generation M2 models from 2022 and the brand new M3 computers that launched this year. In regards to the M2 models, you'll find the best deals at Amazon.<br/>
-<br/>
-<h2>M2 MacBook Air</h2><br/>
-Amazon today has every model of the 2022 13-inch MacBook Air available for &#36;170 off, representing new all-time low prices on the notebooks. These prices are available to all shoppers and do not require a coupon code.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/macbook-air-bb-blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-946063" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-The 256GB model is on sale for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;829.00</strong></a> and the 512GB model is available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3CGXWN4%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,029.00</strong></a>. These deals beat the previous prices we tracked earlier in the year by about &#36;50.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;170 OFF</div>13-inch M2 MacBook Air (256GB) for &#36;829.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3CGXWN4%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;170 OFF</div>13-inch M2 MacBook Air (512GB) for &#36;1,029.00</div></a></div><br/>
-<br/>
-You can get both models in all four colors: Starlight, Space Gray, Silver, and Midnight. Following the introduction of the M3 MacBook Air, Apple knocked the price of the 13-inch M2 MacBook Air down by &#36;100, and it's still selling them alongside the M3 model.<br/>
-<h2>M3 MacBook Air</h2><br/>
-You can find all-time low prices across the 15-inch M3 MacBook Air lineup at Best Buy, including up to &#36;100 off these 2024 computers. Prices start at <a href="https://howl.me/cmlTyg65W53"><strong>&#36;1,199.00</strong></a> for the 256GB model, and include both 512GB versions of the computer as well.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/new-macbook-air-blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-940257" /><div class="center-wrap"><a href="https://howl.me/cmlTyg65W53"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>15-inch M3 MacBook Air (256GB) for &#36;1,199.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/cmlTzoVNq4x"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>15-inch M3 MacBook Air (8GB/512GB) for &#36;1,399.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/cmndey6SDz7"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>15-inch M3 MacBook Air (16GB/512GB) for &#36;1,599.00</div></a></div><br/>
-<br/>
-Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<br/>
-<br/>
-<strong>Update:</strong> We've updated the M2 MacBook Air section with new record low prices from Amazon.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/01/best-buy-weekend-macbook-air/">Best Buy and Amazon Introduce Steep Discounts on M2 and M3 MacBook Air [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-buy-and-amazon-introduce-steep-discounts-on-m2-and-m3-macbook-air-updated.2427908/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
