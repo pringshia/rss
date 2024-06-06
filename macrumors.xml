@@ -14,12 +14,191 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 05 Jun 2024 13:02:35 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 05 Jun 2024 17:11:12 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Promises to Fix Long-Ignored Parental Control Bug After Media Spotlight</title>
+		<link>https://www.macrumors.com/2024/06/05/apple-parental-control-bug-fix/</link>
+		<comments>https://forums.macrumors.com/threads/apple-promises-to-fix-long-ignored-parental-control-bug-after-media-spotlight.2428243/</comments>
+		<pubDate>Wed, 05 Jun 2024 16:47:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/05/apple-parental-control-bug-fix/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Screen Time</category>
+		
+
+		<description><![CDATA[Apple will finally address a Safari restriction workaround that has been around for years after the bug was highlighted by <em><a href="https://www.wsj.com/tech/personal-tech/a-bug-allowed-kids-to-visit-x-rated-sites-apple-took-three-years-to-fix-it-17e5f65d">The Wall Street Journal</a></em>'s Joanna Stern. Kids who are restricted from viewing certain websites with the Screen Time feature are able to paste a string of characters in the address bar in Safari in order to get around parental controls.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/screen-time-restrictions.jpg" alt="" width="2216" height="1247" class="aligncenter size-full wp-image-953755" /><br/>
+In a report on Screen Time, Stern says that she was able to use a string of characters on her son's <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, bypassing the restrictions that prevent access to websites with pornography, violent images, and more. She was able to get around Screen Time on devices running iOS and iPadOS 15, 16, and 17, as well as <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>.<br/>
+<br/>
+In a statement to Stern, Apple said that it is aware of an "issue with an underlying web technology protocol for developers, which allows a user to bypass web content restrictions." A fix is planned for "the next software update."<br/>
+<br/>
+Security researchers that spoke to Stern said the bug was first reported to Apple in March of 2021, after it was found that inputting a string of characters would get around website restrictions implemented by parents and web blacklists on company devices. The hack worked to bypass restrictions on iPhones, iPads, and Macs.<br/>
+<br/>
+Apple told the researchers that it was not a security issue, and instead directed them to submit a report using the Feedback tool. After the report was submitted, there was no word back from Apple. Attempting to resubmit the bug to Apple was met with no response.<br/>
+<br/>
+Apple ignored the issue for three years until Stern was contacted and publicized the problem. It appears that the workaround was not well-known or widely exploited, as the two security researchers that discovered it never shared it.<br/>
+<br/>
+In addition to promising a fix, Apple said that it is committed to improving the process that's used to receive and escalate bug reports.<br/>
+<br/>
+Stern's report highlights several other bugs with Screen Time, including issues with app limits, Screen Time usage charts, notifications for more time, and Ask to Buy. Apple improved Screen Time with iOS 17.5, implementing fixes for app and device usage tracking, app limits, and time requests, but the company says there will be additional updates in upcoming software releases.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/screen-time/">Screen Time</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/apple-parental-control-bug-fix/">Apple Promises to Fix Long-Ignored Parental Control Bug After Media Spotlight</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-promises-to-fix-long-ignored-parental-control-bug-after-media-spotlight.2428243/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Safari Technology Preview 196 With Bug Fixes and Performance Improvements</title>
+		<link>https://www.macrumors.com/2024/06/05/apple-releases-safari-technology-preview-196/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-196-with-bug-fixes-and-performance-improvements.2428244/</comments>
+		<pubDate>Wed, 05 Jun 2024 16:44:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/05/apple-releases-safari-technology-preview-196/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Blurb</category>
+		<category>Safari Technology Preview</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser Apple <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed the &zwnj;Safari Technology Preview&zwnj; to test features that may be introduced into future release versions of Safari.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-785724" src="https://images.macrumors.com/article-new/2021/02/Safari-Technology-Preview-Feature.jpg" alt="" width="2368" height="1332" /><br/>
+&zwnj;Safari Technology Preview&zwnj; 196 includes fixes and updates for Canvas, CSS, JavaScript, Web API, Web Inspector, WebGL, and WebRTC. <br/>
+<br/>
+The current &zwnj;Safari Technology Preview&zwnj; release is compatible with machines running macOS Ventura and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a>, the latest version of macOS that Apple released in September 2023.<br/>
+<br/>
+The &zwnj;Safari Technology Preview&zwnj; update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has <a href="https://developer.apple.com/safari/download/">downloaded the browser</a>. Full release notes for the update are available <a href="https://developer.apple.com/safari/technology-preview/release-notes/">on the Safari Technology Preview website</a>.<br/>
+<br/>
+Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback from developers and users on its browser development process. &zwnj;Safari Technology Preview&zwnj; can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download.<br/>
+<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/apple-releases-safari-technology-preview-196/">Apple Releases Safari Technology Preview 196 With Bug Fixes and Performance Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-196-with-bug-fixes-and-performance-improvements.2428244/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Lowe&#039;s Launches In-Store Apple Vision Pro Experience</title>
+		<link>https://www.macrumors.com/2024/06/05/lowes-launches-in-store-apple-vision-pro-experience/</link>
+		<comments>https://forums.macrumors.com/threads/lowes-launches-in-store-apple-vision-pro-experience.2428241/</comments>
+		<pubDate>Wed, 05 Jun 2024 16:22:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/05/lowes-launches-in-store-apple-vision-pro-experience/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Some of Lowe's retail locations are now offering an <a href="https://corporate.lowes.com/newsroom/press-releases/lowes-pioneers-new-era-store-kitchen-design-apple-vision-pro-06-03-24">in-store Apple Vision Pro experience</a> that is designed to allow customers to personalize and visualize their dream kitchen with the help of a Lowe's associate.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/lowes-vision-pro-experience.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-953779" /><br/>
+Available in select stores in North Carolina, California, and New Jersey to begin with, the experience provides customers with an <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> to use the Lowe's Style Studio app that launched alongside the Vision Pro in February. Lowe's Style Studio offers a 3D kitchen environment that can be customized with hundreds of real-world materials, fixtures, and appliances.<br/>
+<br/>
+While Vision Pro owners are able to use the Style Studio app at home, many Lowe's customers who are planning a kitchen remodel might not have a Vision Pro available to see the different kitchen options. They can instead visit a Lowe's location to partake in an immersive kitchen visualization session.<br/>
+<br/>
+A Lowe's employee will guide customers through the kitchen creation process during a one-on-one appointment, where there are 80 billion design combinations available. Completed kitchen setups can be saved, emailed, texted, or AirDropped as a PDF, with the content in the kitchen able to be purchased through Lowe's.<br/>
+<br/>
+From June 8 to June 12, the Vision Pro demo is available at the Central Charlotte, NC Lowe's, and from June 22 through June 25, it will be available at Lowe's stores in North Bergen, New Jersey and Sunnyvale, California. Customers in these areas will be able to <a href="https://www.lowesinnovationlabs.com/projects/lss-in-store">book a session online</a>, with Lowe's also able to accommodate some walk-ins.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/lowes-launches-in-store-apple-vision-pro-experience/">Lowe&#039;s Launches In-Store Apple Vision Pro Experience</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/lowes-launches-in-store-apple-vision-pro-experience.2428241/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Vision Pro Developer App Includes Immersive Environment for WWDC Session Videos</title>
+		<link>https://www.macrumors.com/2024/06/05/apple-vision-pro-developer-app-includes-immersive-environment-for-wwdc-session-videos/</link>
+		<comments>https://forums.macrumors.com/threads/apple-vision-pro-developer-app-includes-immersive-environment-for-wwdc-session-videos.2428237/</comments>
+		<pubDate>Wed, 05 Jun 2024 15:48:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/05/apple-vision-pro-developer-app-includes-immersive-environment-for-wwdc-session-videos/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>WWDC</category>
+		
+
+		<description><![CDATA[The Vision Pro version of the Apple Developer app has a special immersive Environment included that can be used as a backdrop for watching session videos when WWDC begins next week.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/WWDC-2024-YouTube.jpeg" alt="" width="1280" height="720" class="aligncenter size-full wp-image-953264" /><br/>
+Apple's Environment for the Developer app features a black background with neon light animations in the colors of the WWDC artwork that Apple is using this year. It serves as a visually interesting background that's not too distracting for those who want to watch WWDC content with the world shut out.<br/>
+<br/>
+The Environment is similar to those that Apple has created for general use, such as Yosemite, Mount Hood, and the Moon. It can be accessed when using the Apple Developer app, and immersion can be adjusted with the Digital Crown.<br/>
+<br/>
+<div class="center-wrap"><iframe src="https://tech.lgbt/@dgriffinjones/112564136679778726/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://tech.lgbt/embed.js" async="async"></script></div><br/>
+WWDC is set to begin next Monday, with a keynote event that will take place at 10:00 a.m. Pacific Time. The keynote can be watched in the Apple Developer app, on YouTube, in the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app, or on Apple's website. WWDC sessions will be available starting on Monday, with Apple releasing new content throughout the week.<br/>
+<br/>
+The Vision Pro Developer app can be downloaded from the <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> <a href="https://www.macrumors.com/guide/app-store/">App Store</a> for free.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-inc-and-tech-industry.8">Apple, Inc and Tech Industry</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/apple-vision-pro-developer-app-includes-immersive-environment-for-wwdc-session-videos/">Apple Vision Pro Developer App Includes Immersive Environment for WWDC Session Videos</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-developer-app-includes-immersive-environment-for-wwdc-session-videos.2428237/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Throwboy Launches Pillows Modeled After Apple App Icons</title>
+		<link>https://www.macrumors.com/2024/06/05/throwboy-app-icon-pillows/</link>
+		<comments>https://forums.macrumors.com/threads/throwboy-launches-pillows-modeled-after-apple-app-icons.2428235/</comments>
+		<pubDate>Wed, 05 Jun 2024 15:17:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/05/throwboy-app-icon-pillows/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Throwboy is known for its pillows that look like classic Macs, but the company is expanding with a <a href="https://throwboy.com/collections/tech-pillows/products/the-app-pillow-collection">new range of pillows</a> that are modeled after Apple's app icons.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/throwboy-pillows.jpg" alt="" width="1155" height="650" class="aligncenter size-full wp-image-953787" /><br/>
+Designed to look like the Messages, Mail, <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, Finder, and Notes icons, the pillows are made from a soft, plush material that Throwboy says has a lush and cozy touch. Thick poly filling inside gives the pillows a "cuddly, bouncy feel" and the design on each pillow is embroidered for durability.<br/>
+<blockquote>Get your hands on the essential set containing all five app-themed pillows. Whether you're a messaging, music, notes, mail, or icons fan, this collection has got you covered. Made with careful attention to detail and plush material, each pillow captures the true essence of our digital realm in a cuddly form. Perfect for your sofa, bed, or anywhere you want to flaunt your tech-loving side. Embrace your inner geek with The App Pillow Collection - the perfect addition for any digital enthusiast!</blockquote><br/>
+Each pillow measures in at 13 by 13 inches, and there is a woven label on the back that can be used to hang them on the wall for those who don't want to use them as cushions.<br/>
+<br/>
+The set of five pillows is <a href="https://throwboy.com/collections/tech-pillows/products/the-app-pillow-collection">priced at &#36;225</a>, but each pillow is also <a href="https://throwboy.com/collections/throwboy-pillows">available individually</a> for &#36;47 for those who want to buy the pillow of their favorite app.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/throwboy-app-icon-pillows/">Throwboy Launches Pillows Modeled After Apple App Icons</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/throwboy-launches-pillows-modeled-after-apple-app-icons.2428235/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Humane Tells Customers to Stop Using AI Pin&#039;s Charge Case Due to Fire Risk</title>
+		<link>https://www.macrumors.com/2024/06/05/humane-ai-pin-charge-case-fire-risk/</link>
+		<comments>https://forums.macrumors.com/threads/humane-tells-customers-to-stop-using-ai-pins-charge-case-due-to-fire-risk.2428230/</comments>
+		<pubDate>Wed, 05 Jun 2024 14:44:40 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/05/humane-ai-pin-charge-case-fire-risk/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Customers who bought the &#36;700 AI Pin from Humane should stop using the Charge Case Accessory that came with the device, Humane said in emails that went out today. The email, which was shared by <em><a href="https://www.theverge.com/2024/6/5/24172377/humane-ai-pin-battery-case-issue-warning">The Verge</a></em>, says the charging case "may pose a fire safety risk."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/humane-ai-pin-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-922090" /><br/>
+Humane claims that it is contacting customers "out of an abundance of caution." After a report of a charging issue, Humane says that it looked into the Charge Case and found a quality issue with the battery cell. A third-party vendor supplied the cell, and Humane said that it is no longer working with that supplier.<br/>
+<br/>
+Humane is working to find a new battery vendor, and the company says the problem is limited to the Charge Case. The AI Pin, Battery Boosters, and Charge Pad are not impacted, so the device can still be charged.<br/>
+<br/>
+Customers should stop using and charging the Charge Case Accessory "immediately." Humane is not issuing a recall or refunding customers, but it will be providing customers with two months of the Humane subscription for free.<br/>
+<br/>
+The AI Pin, which launched in November, is a standalone device that was designed specifically for AI. It attaches to a clothing item using a magnetic battery system, and it responds to questions and queries. There is a "laser ink display" that is able to project information onto the user's hand, and a built-in camera.<br/>
+<br/>
+Humane's AI Pin did not fare well in reviews, and it was widely criticized for its poor performance.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/humane-ai-pin-charge-case-fire-risk/">Humane Tells Customers to Stop Using AI Pin&#039;s Charge Case Due to Fire Risk</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/humane-tells-customers-to-stop-using-ai-pins-charge-case-due-to-fire-risk.2428230/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Becomes &#36;3 Trillion Company Again, But Nvidia Steals the Moment</title>
+		<link>https://www.macrumors.com/2024/06/05/aapl-vs-nvidia-3-trillion-dollar-companies/</link>
+		<comments>https://forums.macrumors.com/threads/apple-becomes-3-trillion-company-again-but-nvidia-steals-the-moment.2428227/</comments>
+		<pubDate>Wed, 05 Jun 2024 13:29:18 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/05/aapl-vs-nvidia-3-trillion-dollar-companies/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>AAPL</category>
+		<category>Nvidia</category>
+		
+
+		<description><![CDATA[Fans of large numbers will be happy to know that Apple became a &#36;3 trillion company again today based on market cap, which is the total value of all of the company's outstanding shares. However, chipmaker Nvidia stole the moment.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Apple-vs-Nvidia.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-953774" /><br/>
+Nvidia not only crossed the &#36;3 trillion mark today for the first time ever, but it overtook Apple to become the world's second most valuable company as of market close today, trailing only Microsoft. Nvidia's stock price has more than tripled over the past year amid strong demand for its artificial intelligence (AI) server chips.<br/>
+<br/>
+Apple became the world's first &#36;3 trillion company <a href="https://www.macrumors.com/2022/01/03/apple-becomes-3-trillion-dollar-company/">in January 2022</a>, and it has recrossed that mark several times since then. However, this is the first time that Apple has dropped to be the world's third most valuable company since 2019.<br/>
+<br/>
+Apple is expected to unveil its own AI strategy during its WWDC keynote next week, with iOS 18 rumored to feature a <a href="https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/">smarter version of Siri</a> powered by a large language model (LLM) and many other new AI features. Apple has also <a href="https://www.macrumors.com/2024/06/05/ios-18-ai-features-opt-in-service/">reportedly partnered with OpenAI</a> to integrate ChatGPT on the iPhone, but the exact implementation remains to be seen.<br/>
+<br/>
+AAPL closed at &#36;195.87 today, down from a 52-week high of &#36;199.62.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/aapl/">AAPL</a>, <a href="https://www.macrumors.com/guide/nvidia/">Nvidia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/aapl-vs-nvidia-3-trillion-dollar-companies/">Apple Becomes &#36;3 Trillion Company Again, But Nvidia Steals the Moment</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-becomes-3-trillion-company-again-but-nvidia-steals-the-moment.2428227/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Weather App Experiencing Issues</title>
@@ -47,7 +226,9 @@ We'll update this post when the Weather app is functioning as normal.<br/>
 <br/>
 <b>Update 2:</b> Apple's System Status page is now reporting a Weather outage limited to next-hour precipitation in Alaska, but the Weather issue appears to be much more extensive than that. <br/>
 <br/>
-<b>Update 3:</b> Apple has updated the System Status page again to confirm an outage that started at 2:10 p.m. Eastern Time. Apple says that the Weather app may be slow or unavailable. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/weather-app-issues-june/">Apple Weather App Experiencing Issues</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-weather-app-experiencing-issues.2428219/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<b>Update 3:</b> Apple has updated the System Status page again to confirm an outage that started at 2:10 p.m. Eastern Time. Apple says that the Weather app may be slow or unavailable. <br/>
+<br/>
+<b>Update 4:</b> Apple removed Weather from the System Status page, but the Mac app continues to be down and the iOS Weather app loads slowly. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/weather-app-issues-june/">Apple Weather App Experiencing Issues</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-weather-app-experiencing-issues.2428219/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -370,7 +551,9 @@ Bartender's new owners replied to the Reddit thread and confirmed that Bartender
 Truth be told, we should have notated it on the release notes but, since we could not update them retroactively, we included this fact on our blog &amp; shared it with users as they emailed us. We've collaborated closely with Ben to understand his vision for Bartender. Our goal is to implement many of the improvements he had planned and address any reported bugs from the past few months to enhance Bartender's performance.</blockquote><br/>
 Reddit users asked Bartender's owners for more information on their identity, but there was no response. The Bartender website was updated with information about the certificate change after users began seeing popups asking for new permissions, and while the blog post calls the new certificate request "expected and valid," no background information is provided on the purchase. In the Reddit thread, the owners claim to have posted information about the sale on the website, but that has turned out to be untrue.<br/>
 <br/>
-At this point, it does not appear that Bartender's new owners plan to inform customers about the change in ownership, but users should be aware that the app has been sold and is no longer being updated by the original developer. The new owner's intentions are not clear, but as Reddit users have pointed out, the situation raises some red flags.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/">PSA: Bartender Mac App Under New Ownership, But Lack of Transparency Raises Concerns</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/psa-bartender-mac-app-under-new-ownership-but-lack-of-transparency-raises-concerns.2428159/">Discuss this article</a> in our forums<br/><br/>]]></description>
+At this point, it does not appear that Bartender's new owners plan to inform customers about the change in ownership, but users should be aware that the app has been sold and is no longer being updated by the original developer. The new owner's intentions are not clear, but as Reddit users have pointed out, the situation raises some red flags.<br/>
+<br/>
+<b>Update:</b> Ben Surtees, the original developer of Bartender, <a href="https://surteesstudios.com/a-new-chapter/">today said</a> that he sold the app to Applause three months ago. There is no other information on the company, and Applause still has not officially commented on the sale. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/">PSA: Bartender Mac App Under New Ownership, But Lack of Transparency Raises Concerns</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/psa-bartender-mac-app-under-new-ownership-but-lack-of-transparency-raises-concerns.2428159/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -444,367 +627,6 @@ According to a statement from AT&T, the outage is affecting calls between carrie
 <b>Update:</b> AT&T says that the interoperability issue has been fixed, and that it worked with other carriers to solve the problem. <br/>
 <br/>
 <b>Update 2:</b> T-Mobile has clarified that its network was not down. From a T-Mobile spokesperson: "We are not experiencing an outage. We are seeing Down Detector increases with other providers, so this likely could be challenges our customers are having connecting with users on other networks."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/t-mobile/">T-Mobile</a>, <a href="https://www.macrumors.com/guide/att/">AT&amp;T</a>, <a href="https://www.macrumors.com/guide/verizon/">Verizon</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/us-carriers-call-outage/">Some AT&amp;T, T-Mobile and Verizon Customers Report Issues With Calls [Update: Fixed]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/some-at-t-t-mobile-and-verizon-customers-report-issues-with-calls-update-fixed.2428138/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18 Beta Available Next Week With These 25 New Features Expected</title>
-		<link>https://www.macrumors.com/2024/06/04/ios-18-beta-next-week-with-these-new-features/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-beta-available-next-week-with-these-25-new-features-expected.2428134/</comments>
-		<pubDate>Tue, 04 Jun 2024 09:57:48 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/ios-18-beta-next-week-with-these-new-features/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[iOS 18 is just days away, with Apple set to unveil the software update during its <a href="https://www.macrumors.com/2024/05/28/wwdc-2024-full-schedule/">WWDC keynote on June 10</a>. Many new features and changes are expected for the iPhone, with more details outlined in our rumor recap below.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/iOS-18-WWDC-24-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-944197" /><br/>
-The first beta of iOS 18 should be made available to members of the Apple Developer Program immediately after the WWDC keynote, and a <a href="https://beta.apple.com/">public beta</a> will likely follow in July. The update should be widely released to all users in September, and it is rumored that it will be <a href="https://www.macrumors.com/2024/02/27/ios-18-compatible-iphones-rumor/">compatible with the same list of iPhone models as iOS 17</a>.<br/>
-<br/>
-Here are some of the key new features and changes rumored or previewed for iOS 18 so far:<br/>
-<br/>
-<ul><li><strong>Apple Maps:</strong> <a href="https://www.macrumors.com/2024/03/26/apple-maps-custom-routes-ios-18/">Custom routes</a> and <a href="https://www.macrumors.com/2024/03/27/ios-18-topographic-maps/">topographic maps</a>.</li><br/>
-<li><strong>Apple Music:</strong> <a href="https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/">Auto-generated playlists</a> and <a href="https://www.macrumors.com/2024/05/21/ios-18-apple-music-song-transitions/">smarter song transitions</a>.</li><br/>
-<li><strong>Apple News:</strong> <a href="https://www.macrumors.com/2024/05/26/10-ai-features-coming-in-ios-18/">AI-generated news article summaries</a>.</li><br/>
-<li><strong>Calculator:</strong> <a href="https://www.macrumors.com/2024/04/19/macos-15-revamped-calculator-app/">Several new features</a>, including a sidebar that lists recent calculations, an improved interface for converting units, <a href="https://www.macrumors.com/2024/04/17/ios-18-notes-app-voice-memos-math-rumors/">integration with the Notes app</a>, and more. The app will <a href="https://www.macrumors.com/2024/04/23/calculator-app-for-ipad-rumor/">finally be available on iPads</a>.</li><br/>
-<li><strong>Calendar:</strong> <a href="https://www.macrumors.com/2024/05/01/ios-18-calendar-reminders-integration-rumor/">Deeper integration with the Reminders app</a>.</li><br/>
-<li><strong>CarPlay:</strong> New accessibility features, including <a href="https://www.macrumors.com/2024/05/15/ios-18-accessibility-features-for-carplay/">Sound Recognition</a>.</li><br/>
-<li><strong>Control Center:</strong> <a href="https://www.macrumors.com/2024/05/31/ios-18-control-center-updates-rumor/">Updated interface</a>, including a <a href="https://www.macrumors.com/2024/06/03/ios-18-control-center-rumored-changes/">revamped music widget and improved controls for HomeKit accessories</a>.</li><br/>
-<li><strong>Fitness:</strong> The app will be <a href="https://www.macrumors.com/2024/04/28/ios-18-notes-mail-photos-fitness-rumors/">"overhauled" on iOS 18</a>.</li><br/>
-<li><strong>Freeform:</strong> <a href="https://www.macrumors.com/2024/03/11/ios-18-macos-15-freeform-app-scenes/">A new "Scenes" function</a>.</li><br/>
-<li><strong>Health:</strong> <a href="https://www.bloomberg.com/news/articles/2024-02-15/apple-s-ai-plans-github-copilot-rival-for-developers-tool-for-testing-apps">New features powered by AI</a>, but no specific details are known yet.</li><br/>
-<li><strong>Home Screen:</strong> <a href="https://www.macrumors.com/2024/03/24/ios-18-home-screen-app-icon-customization/">Place app icons anywhere on the grid</a> and <a href="https://www.macrumors.com/2024/05/26/ios-18-to-allow-users-to-recolor-app-icons/">change colors of app icons</a>.</li><br/>
-<li><strong>Keynote and Pages:</strong> AI-powered features for <a href="https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/">auto-generating slides in Keynote, writing faster in Pages, and more</a>.</li><br/>
-<li><strong>Magnifier:</strong> <a href="https://www.macrumors.com/2024/05/15/apple-previews-ios-18-magnifier-app/">A new Reader Mode</a>, and the option to easily launch Detection Mode with the Action button on newer iPhone models.</li><br/>
-<li><strong>Mail:</strong> <a href="https://www.macrumors.com/2024/05/26/10-ai-features-coming-in-ios-18/">Suggested replies to emails</a>.</li><br/>
-<li><strong>Messages:</strong> <a href="https://www.macrumors.com/2024/06/03/ios-18-rumored-features-for-messages-app/">RCS support, per-word effects, suggested replies, custom emoji, message recaps, and new Tapback icons</a>.</li><br/>
-<li><strong>Notes:</strong> A built-in <a href="https://www.macrumors.com/2024/04/17/ios-18-notes-app-voice-memos-math-rumors/">audio recording tool</a>, <a href="https://www.macrumors.com/2024/05/10/ios-18-audio-transcriptions-rumor/">audio transcriptions</a>, and the ability to <a href="https://www.macrumors.com/2024/04/17/ios-18-notes-app-voice-memos-math-rumors/">display mathematical notation</a>.<br/>
-<li><strong>Notifications:</strong> <a href="https://www.macrumors.com/2024/05/26/10-ai-features-coming-in-ios-18/">AI-generated notification summaries</a>.</li><br/>
-<li><strong>Photos:</strong> <a href="https://www.macrumors.com/2024/05/26/10-ai-features-coming-in-ios-18/">AI-powered photo retouching</a>.</li><br/>
-<li><strong>Safari:</strong> <a href="https://www.macrumors.com/2024/04/10/ios-18-safari-browsing-assistant-rumor/">Browsing assistant</a> that can <a href="https://www.macrumors.com/2024/04/30/safari-ai-features-coming-in-ios-18/">summarize web pages</a>, and a <a href="https://www.macrumors.com/2024/04/30/safari-ai-features-coming-in-ios-18/">"Web Eraser" tool</a>.</li><br/>
-<li><strong>Settings:</strong> A <a href="https://www.macrumors.com/2024/05/31/ios-18-refreshed-settings-app/">revamped interface with improved search</a>, and <a href="https://www.macrumors.com/2024/05/15/ios-18-accessibility-features/">new accessibility features</a>.</li><br/>
-<li><strong>Shortcuts:</strong> <a href="https://www.macrumors.com/2023/09/06/ios-18-siri-improvements/">Automate complex tasks more easily</a>.</li><br/>
-<li><strong>Siri:</strong> A <a href="https://www.macrumors.com/2023/09/06/ios-18-siri-improvements/">smarter ChatGPT-inspired version of Siri</a> with <a href="https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/">more per-app controls</a> (<a href="https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/">in 2025</a>).</li><br/>
-<li><strong>Spotlight:</strong> <a href="https://www.macrumors.com/2024/05/03/ios-18-ai-features-for-siri-spotlight-revealed/">More intelligent search results and improved sorting</a>.</li><br/>
-<li><strong>Voice Memos:</strong> <a href="https://www.macrumors.com/2024/05/10/ios-18-audio-transcriptions-rumor/">Audio transcriptions</a>.</li></ul><br/>
-<br/>
-For even more rumors, read our <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18 roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/ios-18-beta-next-week-with-these-new-features/">iOS 18 Beta Available Next Week With These 25 New Features Expected</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-beta-available-next-week-with-these-25-new-features-expected.2428134/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Samsung Opens Up Orders for New 2024 Monitors, Including Updated Smart Monitor M8</title>
-		<link>https://www.macrumors.com/2024/06/04/samsung-2024-monitors/</link>
-		<comments>https://forums.macrumors.com/threads/samsung-opens-up-orders-for-new-2024-monitors-including-updated-smart-monitor-m8.2428129/</comments>
-		<pubDate>Tue, 04 Jun 2024 08:54:34 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/samsung-2024-monitors/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Samsung today launched orders for its <a href="https://howl.me/cmotgisc3SN">new lineup of 2024 monitors</a>, headlined by the updated Smart Monitor M80D. When ordering select monitors, you can get up to &#36;300 in Samsung credit to use on a later purchase with the retailer.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/samsung-dog.jpg" alt="" width="961" height="500" class="aligncenter size-full wp-image-953484" /><br/>
-Most monitors ordered today will arrive around June 11 for residences in the United States, and Samsung does also offer options to pick up the monitors in local Best Buy stores. You'll find every new Samsung monitor available for order in the lists below, along with the amount of Samsung credit you'll get when you place the order.<br/>
-<br/>
-In regards to the newly updated <a href="https://howl.me/cmotb3kGPSf">Smart Monitor M80D</a>, this model includes a Multi Control feature that allows images and text to be moved between the display and a Galaxy Book, Tablet, or Phone. <br/>
-<br/>
-If you own a pair of Galaxy Buds, you can pair the earphones to the monitor for a spatial audio experience with head tracking. Additionally, Samsung added the ability to pair a Galaxy Watch to the monitor, allowing you to perform guided workouts while using the display. <br/>
-<br/>
-Other than these features, the iMac-style 4K monitor hasn't changed in the hardware department from last year's M8 model, which features 400 nits of brightness, a 60Hz refresh rate (non variable), 99% sRGB, and adaptive picture technology.<br/>
-<br/>
-The display also retains key features like USB-C charging connectivity, AirPlay 2 support, an integrated webcam, and several smart TV features that enable it to be used when not connected to a PC.<br/>
-<br/>
-<h2>Smart Monitors</h2><br/>
-<ul><li><a href="https://howl.me/cmotfdkMwYX">27-inch Smart Monitor M50D</a> - &#36;279.99 with &#36;50 Samsung credit</li><br/>
-<li><a href="https://howl.me/cmoteh0m0jW">32-inch Smart Monitor M50D</a> - &#36;299.99 with &#36;50 Samsung credit</li><br/>
-<li><a href="https://howl.me/cmotds7HhYq">32-inch Smart Monitor M70D</a> - &#36;399.99 with &#36;75 Samsung credit</li><br/>
-<li><a href="https://howl.me/cmotcNcxOkk">43-inch Smart Monitor M70D</a> - &#36;499.99 with &#36;100 Samsung credit</li><br/>
-<li><a href="https://howl.me/cmotb3kGPSf">32-inch Smart Monitor M80D</a> - &#36;699.99 with &#36;150 Samsung credit</li></ul><h2>Gaming Monitors</h2><br/>
-<ul><li><a href="https://howl.me/cmos5ynMpvs">27-inch Odyssey OLED G6</a> - &#36;899.99 with &#36;200 Samsung credit</li><br/>
-<li><a href="https://howl.me/cmos4ZWSvFD">32-inch Odyssey OLED G8</a> - &#36;1,299.99 with &#36;300 Samsung credit</li></ul><h2>High Resolution Monitors</h2><br/>
-<ul><li><a href="https://howl.me/cmotaKBh22L">27-inch ViewFinity S7</a> - &#36;349.99 with &#36;75 Samsung credit</li><br/>
-<li><a href="https://howl.me/cmos8FtYeZF">27-inch ViewFinity S8</a> - &#36;399.99 with &#36;75 Samsung credit</li><br/>
-<li><a href="https://howl.me/cmos9jrMJG3">32-inch ViewFinity S7</a> - &#36;399.99 with &#36;75 Samsung credit</li><br/>
-<li><a href="https://howl.me/cmos72vEWsF">32-inch ViewFinity S8</a> - &#36;449.99 with &#36;100 Samsung credit</li></ul> <em><small>Note: MacRumors is an affiliate partner with Samsung. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/samsung-2024-monitors/">Samsung Opens Up Orders for New 2024 Monitors, Including Updated Smart Monitor M8</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/samsung-opens-up-orders-for-new-2024-monitors-including-updated-smart-monitor-m8.2428129/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Save on Popular Accessories From Anker, Eufy, and Jackery on Amazon</title>
-		<link>https://www.macrumors.com/2024/06/04/accessories-from-anker-eufy/</link>
-		<comments>https://forums.macrumors.com/threads/save-on-popular-accessories-from-anker-eufy-and-jackery-on-amazon.2428128/</comments>
-		<pubDate>Tue, 04 Jun 2024 08:14:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/accessories-from-anker-eufy/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Amazon is back today with a large collection of discounts from <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1ONCDOQGWGFK4%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1ONCDOQGWGFK4_1717511791324">Anker</a>, <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BKJZ5BVF%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.21TJMGTITJI3Q%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.21TJMGTITJI3Q_1714659979654">Eufy</a>, and <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Jackery</a>, including a wide array of wall chargers, Bluetooth trackers, and other USB-C accessories. Some of these deals will require you to clip an on-page coupon then head to the checkout screen before you see the final sale price, and some require a Prime membership.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/anker-purple-may.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-949011" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-This week Eufy has a few discounts on its Find My-compatible SmartTrack Bluetooth tracker accessories, including the SmartTrack Card for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BKJZ5BVF%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.21TJMGTITJI3Q%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.21TJMGTITJI3Q_1714659979654"><strong>&#36;16.98</strong></a>, down from &#36;29.99. You can also get the SmartTrack Link in multiple pack options, starting at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8GDXPBL%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1714659794010"><strong>&#36;13.99</strong></a> for the 1-Pack, down from &#36;19.99. Both of these beat the deals we last saw on these trackers in early May.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BKJZ5BVF%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.21TJMGTITJI3Q%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.21TJMGTITJI3Q_1717513195769"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;13 OFF</div>Eufy SmartTrack Card for &#36;16.98</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN86R2HC%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1714660094244"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;21 OFF</div>Eufy SmartTrack Link 4-Pack for &#36;48.99</div></a></div><br/>
-<br/>
-Switching to the Anker deals, you can get the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C812422R%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3SU6JI04LB2MZ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3SU6JI04LB2MZ_1713191397056">20,000 mAh Prime Power Bank with Smart Digital Display</a> for &#36;89.98 if you're a Prime member, down from &#36;129.99. If you need a bigger battery, you can get the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1ONCDOQGWGFK4%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1ONCDOQGWGFK4_1717511791324">Portable Power Station with Smart Display + Retractable Light</a> for &#36;129.99 with an on-page coupon, down from &#36;149.99. Additionally, below you'll find more Anker accessories including speakers and USB-C products.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CFXLVY1V%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.2N2MUC6OP3WR0%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.2N2MUC6OP3WR0_1717512364497"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;30 OFF</div>MagGo 3-in-1 Wireless Charging Station for &#36;69.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1ONCDOQGWGFK4%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1ONCDOQGWGFK4_1717511791324"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;20 OFF</div>Portable Power Station with Smart Display + Retractable Light for &#36;129.99</div></a></div><br/>
-<br/>
-Highlights of Jackery's deals include the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Explorer 100 Plus Portable Power Station</a>, available for just &#36;99.99, down from &#36;149.00. This is a miniature-sized portable power station that can fit in the palm of your hand and weighs just 2.13 lbs, while featuring a 31,000 mAh capacity and 128W output.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>Jackery Explorer 100 Plus for &#36;99.99</div></a></div><h2>Eufy</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8GDXPBL%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1714659902126">SmartTrack Link 1-Pack</a> - &#36;13.99, down from &#36;19.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BNVFJMZR%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1714659917907">SmartTrack Link 2-Pack</a> - &#36;29.88, down from &#36;35.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN86R2HC%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1714659964727">SmartTrack Link 4-Pack</a> - &#36;48.99 for Prime members, down from &#36;69.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BKJZ5BVF%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.21TJMGTITJI3Q%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.21TJMGTITJI3Q_1714659979654">SmartTrack Card</a> - &#36;16.98, down from &#36;29.99</li></ul><br/>
-<h2>Anker</h2><br/>
-<h3>Audio</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CDJWTWMB%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3NUAPVI1RMDMY%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3NUAPVI1RMDMY_1710770269976">Soundcore Motion 300 Wireless Bluetooth Speaker</a> - &#36;64.99, down from &#36;79.99</li></ul><br/>
-<h3>Portable Batteries</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CFDSMNT7%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1QN268QXZWAAI%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1QN268QXZWAAI_1717512554052">MagGo Power Bank 10,000 mAh</a> - &#36;69.99 for Prime members, down from &#36;89.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CXDTNJST%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.34INF6WP7XS4L%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.34INF6WP7XS4L_1717512037932">Nano Power Bank with Built-In USB-C Cable</a> - &#36;38.24 with on-page coupon, down from &#36;49.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BYP45YVF%2Fref%3Dox_sc_act_title_1%3Fsmid%3DA294P4X9EWVXLJ%26psc%3D1">Prime Power Bank 20,000 mAh with 100W Charging Base</a> - &#36;149.99 for Prime members, down from &#36;184.99</li></ul><br/>
-<h3>Power Stations</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CFXLVY1V%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.2N2MUC6OP3WR0%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.2N2MUC6OP3WR0_1717512364497">MagGo 3-in-1 Wireless Charging Station</a> - &#36;69.99 with on-page coupon, down from &#36;99.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CF54FWFL%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.2QZK0WFI9NXZJ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.2QZK0WFI9NXZJ_1717513024737">MagGo 3-in-1 Folding Charging Station</a> - &#36;93.49 for Prime members, down from &#36;109.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1ONCDOQGWGFK4%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1ONCDOQGWGFK4_1717511791324">Portable Power Station with Smart Display + Retractable Light</a> - &#36;129.99 with on-page coupon, down from &#36;149.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09TT8GZK9%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.HZBHG58DP8H0%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.HZBHG58DP8H0_1709134987908">3-in-1 MagSafe Charging Cube</a> - &#36;112.46, down from &#36;149.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-A1780-Power-Storage%2Fdp%2FB09XM7WDZ2%3Fref_%3Dast_sto_dp%26th%3D1">SOLIX F2000 Portable Power Station</a> - &#36;1,299.00 with on-page coupon, down from &#36;1,999.00</li></ul><br/>
-<h3>Wall Chargers</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Durable-Compact-Included%2Fdp%2FB099F558S1%3Fref_%3Dast_sto_dp%26th%3D1">20W USB-C Charger</a> - &#36;13.99, down from &#36;16.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Compact-Pixelbook-ThinkPad%2Fdp%2FB09Q52CXX1%3Fref_%3Dast_sto_dp%26th%3D1">100W 3-Port USB-C Charger</a> - &#36;42.99 for Prime members, down from &#36;74.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charging-Station-Undetachable-Extension%2Fdp%2FB0C7B4W2BV%3Fref_%3Dast_sto_dp%26th%3D1">6-in-1 Nano Charging Station</a> - &#36;49.49 with on-page coupon, down from &#36;65.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Compact-MacBook-Pixelbook%2Fdp%2FB0C4YTB56H%3Fref_%3Dast_sto_dp">Prime 67W 3-Port Charger</a> - &#36;59.99, down from &#36;65.99</li></ul><br/>
-<h3>Hubs</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Transfer-Extended-Charging-Supported%2Fdp%2FB0CCDZWH5H%3Fref_%3Dast_sto_dp%26th%3D1">4-Port USB-C Hub</a> - &#36;9.99, down from &#36;19.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-MacBook-Docking-Station-Thinkpad%2Fdp%2FB0BNZ5TCG8%3Fref_%3Dast_sto_dp">10-in-1 USB-C Hub</a> - &#36;59.99, down from &#36;149.99</li></ul> <br/>
-<h2>Jackery</h2><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CNVMQNDX%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1DHAFXF4LOVCC%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1DHAFXF4LOVCC_1710769872160">Explorer 100 Plus Portable Power Station</a> - &#36;99.99 with on-page coupon, down from &#36;149.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2KZY522%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3NXT41HEMR2FG%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3NXT41HEMR2FG_1717512999884">Explorer 600 Plus Portable Power Station</a> - &#36;419.00 with on-page coupon, down from &#36;499.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CGZW67B6%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.LPIOTAJGGK4P%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.LPIOTAJGGK4P_1713373339383">Solar Generator 300 Plus Portable Power Station</a> - &#36;499.00, down from &#36;579.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CFVCRJVL%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.2HOQ15SVTKP5E%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.2HOQ15SVTKP5E_1713373175628">Expansion Battery Pack for 1000 Plus</a> - &#36;509.00 with on-page coupon, down from &#36;799.00</li> <br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB083KBKJ8Q%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1KHS8AIX808CW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1KHS8AIX808CW_1713373227768">Explorer 1000 Portable Power Station</a> - &#36;619.00, down from &#36;999.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8ZLZ53M%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.231PUR2N7PBPM%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.231PUR2N7PBPM_1713373287626">Explorer 2000 Pro Portable Power Station</a> - &#36;1,299.00 with on-page coupon, down from &#36;1,899.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6DL1VPD%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1QELY4DYBF6HU%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1QELY4DYBF6HU_1710770037246">Expansion Battery Pack for 2000 Plus</a> - &#36;1,199.00 with on-page coupon, down from &#36;1,599.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZ8DZ3HR%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.B0BZ8DZ3HR%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3M5389ELMN7TD_1713385917457%26th%3D1">Explorer 3000 Pro Portable Power Station</a> - &#36;2,149.00 with on-page coupon, down from &#36;2,799.00</li></ul><br/>
-<br/>
-If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/accessories-from-anker-eufy/">Save on Popular Accessories From Anker, Eufy, and Jackery on Amazon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/save-on-popular-accessories-from-anker-eufy-and-jackery-on-amazon.2428128/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Uber Planning to Add Mini Games to iPhone App to Play During a Ride</title>
-		<link>https://www.macrumors.com/2024/06/04/uber-planning-mini-games-in-iphone-app/</link>
-		<comments>https://forums.macrumors.com/threads/uber-planning-to-add-mini-games-to-iphone-app-to-play-during-a-ride.2428126/</comments>
-		<pubDate>Tue, 04 Jun 2024 07:58:24 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/uber-planning-mini-games-in-iphone-app/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Uber</category>
-		
-
-		<description><![CDATA[Uber appears to be planning to offer mini games that can be played within its <a href="https://apps.apple.com/us/app/uber-request-a-ride/id368677368">iPhone app</a>, according to hidden code in the app.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Uber-App-Icon-Vignette.jpg" alt="" width="1200" height="675" class="aligncenter size-full wp-image-953458" /><br/>
-<em>MacRumors</em> contributor <a href="https://www.macrumors.com/author/aaron-perris/">Aaron Perris</a> discovered several references to the ability to load games in the latest version of the Uber app, released on Monday. One line of code says that the gaming feature will require an internet connection.<br/>
-<br/>
-It is unclear when Uber plans to make the mini games available to the public, and there is no guarantee that the feature will launch. No further details are known at this time, beyond the new lines of code added to the app, so we cannot confirm if the games will be available for free or require in-app purchases.<br/>
-<br/>
-By offering games in its iPhone app, Uber would provide passengers with a convenient way to stay entertained during a ride. Uber would be <a href="https://www.macrumors.com/2024/05/28/youtube-playables/">following in the footsteps of YouTube</a>, which added some lightweight games to its iPhone app last month.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/uber/">Uber</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/uber-planning-mini-games-in-iphone-app/">Uber Planning to Add Mini Games to iPhone App to Play During a Ride</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/uber-planning-to-add-mini-games-to-iphone-app-to-play-during-a-ride.2428126/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPad Mini vs. iPad Air Buyer&#039;s Guide</title>
-		<link>https://www.macrumors.com/guide/ipad-mini-vs-ipad-air/</link>
-		<comments>https://forums.macrumors.com/threads/ipad-mini-vs-ipad-air-buyers-guide.2337402/</comments>
-		<pubDate>Tue, 04 Jun 2024 07:45:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/ipad-mini-vs-ipad-air&#038;post_date=1717523100/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Buyer's Guide</category>
-		<category>Featured</category>
-		<category>iPad Air</category>
-		<category>iPad mini</category>
-		<category>No Top Comments</category>
-		
-
-		<description><![CDATA[Apple recently introduced the sixth-generation <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a>, featuring the <a href="https://www.macrumors.com/guide/m2/">M2</a> chip, <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> Pro support, and a larger display size option. In 2021, Apple debuted the sixth-generation <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a>, offering an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> Air-style redesign with a larger display, the A15 Bionic chip, and more. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/03/ipad-mini-vs-air-early-2022.jpg" alt="" width="2498" height="1406" class="aligncenter size-full wp-image-839261" /><br/>
-The &zwnj;iPad mini&zwnj; effectively shares the design of the &zwnj;iPad Air&zwnj;, with both devices possessing many of the same features such as an all-screen design with no Home button, <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> in the top button, and stereo speakers. There are still some important differences between the devices, such as their display sizes and chips, that clearly set the devices apart.<br/>
-<br/>
-Should you buy the more expensive, larger &zwnj;iPad Air&zwnj;, or opt for the more affordable, smaller &zwnj;iPad mini&zwnj;? Our guide helps to answer the question of how to decide which of these two iPads is best for you. All of the key differences between the two devices are listed below:<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;iPad mini&zwnj;</th><br/>
- <th>&zwnj;iPad Air&zwnj;</th><br/>
- </tr><br/>
- <tr><br/>
- <td>8.3-inch display with 326 ppi</td><br/>
- <td>11-inch or 13-inch display with 264 ppi</td><br/>
- </tr><br/>
- <tr><br/>
- <td>SDR brightness: 500 nits max</td><br/>
- <td>11-inch model SDR brightness: 500 nits max<br/>
-13-inch model SDR brightness: 600 nits max</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Smaller, compact design for maximum portability</td><br/>
- <td>Larger design that is better for productivity</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Weighs 0.66 pounds (297 grams)</td><br/>
- <td>Weighs 1.02 pounds (462 grams) or 1.36 pounds (617 grams)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>A15 Bionic chip</td><br/>
- <td>&zwnj;M2&zwnj; chip</td><br/>
- </tr><br/>
- <tr><br/>
- <td>6-core CPU</td><br/>
- <td>8-core CPU</td><br/>
- </tr><br/>
- <tr><br/>
- <td>5-core GPU</td><br/>
- <td>9-core GPU</td><br/>
- </tr><br/>
- <tr><br/>
- <td>4GB of memory</td><br/>
- <td>8GB of memory</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Media Engine<br/>
-Hardware-accelerated H.264 and HEVC<br/>
-Video decode engine<br/>
-Video encode engine</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Rear Quad-LED True Tone flash</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td>Smart HDR 3</td><br/>
- <td>Smart HDR 4</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Wi-Fi 6 connectivity</td><br/>
- <td>Wi-Fi 6E connectivity</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>&zwnj;Apple Pencil&zwnj; hover</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Supports &zwnj;Apple Pencil&zwnj; with USB-C and second-generation &zwnj;Apple Pencil&zwnj;</td><br/>
- <td>Supports &zwnj;Apple Pencil&zwnj; with USB-C and &zwnj;Apple Pencil&zwnj; Pro</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Compatible with Bluetooth keyboards only</td><br/>
- <td><a href="https://www.macrumors.com/guide/smart-connector/">Smart Connector</a> to support Apple's Magic Keyboard and <a href="https://www.macrumors.com/guide/smart-keyboard/">Smart Keyboard</a> Folio</td><br/>
- </tr><br/>
- <tr><br/>
- <td>64GB or 256GB of storage</td><br/>
- <td>128GB, 256GB, 512GB, or 1TB of storage</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Available in Space Gray, Starlight, Purple, and Pink</td><br/>
- <td>Available in Space Gray, Starlight, Purple, and Blue</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Starts at &#36;499</td><br/>
- <td>Starts at &#36;599 or &#36;799</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
-<br/>
-Overall, the &zwnj;iPad Air&zwnj; is the best all-around option for the majority of users, providing a large screen for productivity and consuming entertainment in a slim, portable design. The additional &#36;100 needed to buy the &zwnj;iPad Air&zwnj; over the &zwnj;iPad mini&zwnj; is more than justified for the benefits that come with its larger display and &zwnj;M2&zwnj; chip, not least the ability to practically use it as a laptop replacement with the Magic Keyboard and <a href="https://www.macrumors.com/guide/stage-manager/">Stage Manager</a>.<br/>
-<br/>
-Yet, most customers who choose the &zwnj;iPad mini&zwnj; will do so because of its screen size rather than in spite of it. The &zwnj;iPad mini&zwnj; is ideal for comfortably reading books, playing handheld games, and easy transport and storage. Those who buy the &zwnj;iPad mini&zwnj; will likely have a specific use case in mind for how they will use the device, such as for note-taking on the go, throwing into a small bag to use on public transport, or giving it to a kid as their first tablet.<br/>
-<br/>
-If you do not see the &zwnj;iPad mini&zwnj;'s smaller display, easy one-handed grip, lightweight design, and portable form factor as an advantage for your use case and are focused on a more versatile display size, you will likely prefer the &zwnj;iPad Air&zwnj;, especially as it is now available with a 13-inch size option. The &zwnj;iPad Air&zwnj; is more of an all-around device that works as a potential laptop replacement with support for &zwnj;Stage Manager&zwnj;, with the added bonuses that come with a bigger screen for productivity and entertainment.<br/>
-<br/>
-It is also worth noting that the &zwnj;iPad mini&zwnj; is almost three years old, while the &zwnj;iPad Air&zwnj; has just been refreshed, so the latter is almost certainly a better purchase in terms of longevity. A new &zwnj;iPad mini&zwnj; model is expected to launch later this year with a faster chip, so if you have your heart set on the smallest &zwnj;iPad&zwnj; it may be worth holding off until the refreshed version comes out.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a>, <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#iPad_Mini">iPad Mini (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ipad-mini-vs-ipad-air/">iPad Mini vs. iPad Air Buyer&#039;s Guide</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipad-mini-vs-ipad-air-buyers-guide.2337402/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Nintendo 3DS Emulator for iPhone Released in App Store With Caveats</title>
-		<link>https://www.macrumors.com/2024/06/04/nintendo-3ds-emulator-for-iphone-on-app-store/</link>
-		<comments>https://forums.macrumors.com/threads/nintendo-3ds-emulator-for-iphone-released-in-app-store-with-caveats.2428124/</comments>
-		<pubDate>Tue, 04 Jun 2024 07:08:04 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/nintendo-3ds-emulator-for-iphone-on-app-store/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>App Store</category>
-		<category>Nintendo</category>
-		<category>Emulator</category>
-		
-
-		<description><![CDATA[Folium has become the first Nintendo 3DS emulator for the iPhone <a href="https://apps.apple.com/us/app/folium/id6498623389">available in the App Store</a>, although there are some caveats to be aware of.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Folium-Alpha-Sapphire-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-953425" /><br/>
-Foremost, this is the first Nintendo emulator on the App Store that costs money. Folium developer Jarrod Norwell is charging &#36;4.99 for the app, which is a bold choice given that Nintendo recently sued the developers of Yuzu, a Nintendo Switch emulator that made a profit off a subscription-based "early access" tier. Yuzu reached a <a href="https://www.theverge.com/2024/3/4/24090357/nintendo-yuzu-emulator-lawsuit-settlement">&#36;2.4 million settlement</a> with Nintendo and discontinued its emulator earlier this year. It is unclear if Nintendo will take any action against Folium, but it might risk more scrutiny as a paid app.<br/>
-<br/>
-Second, Apple does not allow emulators to use "just-in-time" (JIT) compilation. This limitation can result in Nintendo 3DS games having reduced performance, especially on older iPhone models, but your mileage may vary. We recommend reading user reviews <a href="https://www.reddit.com/r/EmulationOniOS/comments/1d7vi7j/appstore_folium_3ds_should_you_spend_5/">on Reddit</a> and <a href="https://mobilesyrup.com/2024/06/03/3ds-emulator-iphone-ios-ipad-folium/">elsewhere</a> before deciding whether to purchase Folium.<br/>
-<br/>
-Third, it is possible that another all-in-one emulator on the App Store <a href="https://www.macrumors.com/2024/05/15/retroarch-ios-emulator/">like RetroArch</a> could add Nintendo 3DS support for free in the future.<br/>
-<br/>
-With all of that in mind, Folium gives you the opportunity to relive classic Nintendo 3DS games on your iPhone right now, provided that you supply the ROMs. However, be aware that downloading copyrighted games is illegal in many countries.<br/>
-<br/>
-Folium also offers Game Boy Advance and Nintendo DS emulation, but we recommend using the free <a href="https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/">Delta app</a> for those consoles. Folium is compatible with many hardware controllers, including the Nintendo Switch Joy-Con, Nintendo Switch Pro Controller, Backbone One, and the latest PlayStation and Xbox controllers.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/nintendo/">Nintendo</a>, <a href="https://www.macrumors.com/guide/emulator/">Emulator</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/nintendo-3ds-emulator-for-iphone-on-app-store/">Nintendo 3DS Emulator for iPhone Released in App Store With Caveats</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/nintendo-3ds-emulator-for-iphone-released-in-app-store-with-caveats.2428124/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18: These iPhones Likely Won&#039;t Support Some AI Features</title>
-		<link>https://www.macrumors.com/2024/06/04/ios-18-these-iphones-wont-support-ai/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-these-iphones-likely-wont-support-some-ai-features.2428119/</comments>
-		<pubDate>Tue, 04 Jun 2024 05:04:27 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/ios-18-these-iphones-wont-support-ai/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple is planning a major AI overhaul in iOS 18, but some new features are unlikely to work on older iPhones, even if they do appear on the new operating system's device compatibility list.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/iOS-18-Siri-Integrated-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-945741" /><br/>
-Apple's initial AI roadmap for iOS 18 is said to come in two parts: Basic AI features that will be processed on-device, and more advanced capabilities that will require communication with Apple's servers.<br/>
-<br/>
-At the heart of these features is a redesigned Siri. To that end, Apple engineers have had to rearchitect ‌Siri‌'s underlying software using large language models (LLMs), the algorithm that underpins generative AI. <br/>
-<br/>
-According to <a href="https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/"><em>Bloomberg</em>'s Mark Gurman</a>, this will allow Siri to do things like open specific documents, organize notes in folders, delete an email, summarize an article, email a web link, and more. Apple reportedly plans to use AI to analyze what people are doing on their devices to automatically enable these‌ features.<br/>
-<br/>
-Apple's own LLM is expected to handle what are deemed basic AI tasks, and it will be entirely on-device. In other words, the model is powered by the iPhone's processor, rather than in the cloud. It's not clear what the criteria for a basic task will be, but the LLM is said to include code that determines if a request can be processed on device or requires Apple's servers.<br/>
-<br/>
-<a href="https://x.com/markgurman/status/1796414625053020649">According to Gurman</a>, the on-device AI capabilities will largely require an iPhone 15 Pro or later to work. Meanwhile, rumors suggest iOS 18 will be <a href="https://www.macrumors.com/2024/02/27/ios-18-compatible-iphones-rumor/">compatible with the same iPhone models as iOS 17</a>. Combining the two reports, we should therefore expect the following iPhone models to run iOS 18, but lack support for some of Apple's on-device AI features:<br/>
-<div style="float: left; width: 50%;"><br/>
-<ul><li>iPhone 15</li><br/>
-<li>iPhone 15 Plus</li><br/>
-<li>iPhone 14</li><br/>
-<li>iPhone 14 Plus</li><br/>
-<li>iPhone 14 Pro</li><br/>
-<li>iPhone 14 Pro Max</li><br/>
-<li>iPhone 13</li><br/>
-<li>iPhone 13 mini</li><br/>
-<li>iPhone 13 Pro</li><br/>
-<li>iPhone 13 Pro Max</li><br/>
-<li>iPhone 12</li></ul></div><div style="float: right; width: 50%;"><br/>
-<ul><br/>
-<li>iPhone 12 mini</li><br/>
-<li>iPhone 12 Pro</li><br/>
-<li>iPhone 12 Pro Max</li><br/>
-<li>iPhone 11</li><br/>
-<li>iPhone 11 Pro</li><br/>
-<li>iPhone 11 Pro Max</li><br/>
-<li>iPhone XS</li><br/>
-<li>iPhone XS Max</li><br/>
-<li>iPhone XR</li><br/>
-<li>iPhone SE (2nd generation)</li><br/>
-<li>iPhone SE (3rd generation)</li></ul></div><br/>
-<div style="clear:both;"></div><br/>
-Both iPadOS 18 and macOS 15 are expected to share many of the same AI features, and Gurman has said that Macs and iPads will need at least an M1 chip for the on-device AI capabilities. In other words, Apple silicon Macs are the requirement for on-device AI in macOS 15 (ruling out Intel Macs), while anything older than the fifth-generation iPad Pro will not support on-device AI features in iPadOS 18.<br/>
-<br/>
-While it's not entirely clear which hardware factor is the key requirement for Apple's on-device AI, it's worth noting that (non-supported) standard iPhone 15 models have 6GB of RAM, while the supported Pro models have 8GB of RAM. Likewise, all Apple Silicon iPads and Macs come with a minimum of 8GB. Even when scaled back for narrow use cases, LLMs require a lot of working memory due to the sheer number of parameters involved, so this could be where Apple is coming up against the hardware limitations of its own devices. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/ios-18-these-iphones-wont-support-ai/">iOS 18: These iPhones Likely Won&#039;t Support Some AI Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-these-iphones-likely-wont-support-some-ai-features.2428119/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
