@@ -14,12 +14,72 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 06 Jun 2024 01:03:24 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 06 Jun 2024 05:04:57 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Proton Pass Multi-Platform Password Manager Launches on macOS</title>
+		<link>https://www.macrumors.com/2024/06/06/proton-pass-password-manager/</link>
+		<comments>https://forums.macrumors.com/threads/proton-pass-multi-platform-password-manager-launches-on-macos.2428272/</comments>
+		<pubDate>Thu, 06 Jun 2024 03:17:38 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/06/proton-pass-password-manager/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Security</category>
+		<category>Proton</category>
+		
+
+		<description><![CDATA[Swiss-based privacy startup Proton today <a href="https://proton.me/blog/proton-pass-all-devices">announced</a> the availability of Proton Pass for Mac and Linux, bringing the encrypted password manager to every platform for the first time.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/proton-pass-mac.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-953819" /><br/>
+Proton Pass features end-to-end encryption for all stored data, and includes a built-in two-factor authentication system, passkey support, and secure password sharing, as well as a Hide-My-Email feature to protect against spam and phishing. <br/>
+<br/>
+The macOS version of Proton Pass also comes with a Safari extension, which aims to simplify password management and credential filling within Apple's browser. In addition, unlike Safari's default password manager, Proton Pass allows users to sync across multiple different browsers and devices, for simplified access across all platforms. <br/>
+<br/>
+Proton Pass uses the Argon2 hashing algorithm, which is included within its offline mode feature, and is available to customers on a paid plan. The encryption method is designed so that passwords and sensitive information remain protected against unauthorized access, even when not connected to the internet. <br/>
+<br/>
+Proton Pass also integrates Proton's recently announced Pass Monitor functionality, which provides proactive alerts for credentials exposed on the dark web, identifies weak and reused passwords, and checks for missing two-factor authentication. <br/>
+<br/>
+According to Proton, the password manager will also soon support TouchID on macOS, allowing users to unlock their accounts using their fingerprints. This feature will be provided as an automatic update in the coming weeks.<br/>
+<br/>
+Proton Pass is available for free with unlimited devices and Password Health included. For a limited time, the company is also offering users the chance to upgrade to the premium Pass Plus plan at a discounted rate of &#36;10 for the first year (usually &#36;23.88). Pass Plus includes support for passkeys, the full Pass Monitor experience with dark web monitoring and Proton Sentinel, as well as all the standard features of Proton Pass, including access to the web app. <br/>
+<br/>
+Proton Pass for macOS and Linux are available to download now from the <a href="https://proton.me/pass/download">Proton website</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/security/">Security</a>, <a href="https://www.macrumors.com/guide/proton/">Proton</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/06/proton-pass-password-manager/">Proton Pass Multi-Platform Password Manager Launches on macOS</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/proton-pass-multi-platform-password-manager-launches-on-macos.2428272/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Commits to At Least Five Years of iPhone Security Updates</title>
+		<link>https://www.macrumors.com/2024/06/06/apple-iphone-security-updates-five-year-minimum/</link>
+		<comments>https://forums.macrumors.com/threads/apple-commits-to-at-least-five-years-of-iphone-security-updates.2428265/</comments>
+		<pubDate>Thu, 06 Jun 2024 02:31:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/06/apple-iphone-security-updates-five-year-minimum/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple has revealed its commitment to a minimum of five years of iPhone security software updates from the date a device is launched, thanks to a new legal requirement in the United Kingdom (via <em><a href="https://www.androidauthority.com/iphone-software-support-commitment-3449135/">Android Authority</a></em>).<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iphone-in-a-box.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-953812" /><br/>
+Earlier this year, the U.K. established new <a href="https://www.gov.uk/government/publications/the-uk-product-security-and-telecommunications-infrastructure-product-security-regime">Product Security and Telecommunications Infrastructure (PSTI) regulations</a>, which force companies that sell internet-capable products in the country to comply with certain security requirements. <br/>
+<br/>
+One of the requirements of the PSTI is that companies define a support period, or minimum length of time, for which security updates will be provided after sale. A "security update" is defined by the regulation as a "software update that protects or enhances the security of a product, including a software update that addresses security issues which have been discovered by or reported to the manufacturer."<br/>
+<br/>
+In compliance with the regulation, Apple has submitted a <a href="https://regulatoryinfo.apple.com/cwt/api/ext/file?fileId=securityTelecommunication%2FiPhone%2015%20Pro%20Max%20%28Model%20A3106%29_V0.pdf">public regulatory filing</a> for the iPhone 15 Pro Max. The PSTI filing shows that the device's "defined support period" is a "minimum five years from the first supply date." The "first supply date" is listed as "September 22, 2023," which is when the iPhone 15 series launched.<br/>
+<br/>
+Unlike Samsung and Google, Apple is not usually explicit about its legacy software support for iPhone devices, so the five-year minimum should come as good news to Apple users holding onto older devices. However, as <em>Android Authority</em> notes, both Samsung and Google guarantee seven years of security updates as well as Android OS updates for their devices, which is two years longer than what Apple is guaranteeing here.<br/>
+<br/>
+That said, Apple typically provides older devices with the latest security updates longer than the stated five-year period. For example, just this March Apple pushed a security update to iPhone 6s models, which launched in September 2015, or nine years ago. <br/>
+<br/>
+Going back further, in November 2020, Apple released an update to patch major security issues for the ‌iPhone‌ 5S, which was released in 2013. That's seven years after the device went on sale. In other words, while the minimum-five year period is now set in stone, iPhone users can take comfort in the fact that Apple has a strong history of keeping legacy devices in the loop for several years longer. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/06/apple-iphone-security-updates-five-year-minimum/">Apple Commits to At Least Five Years of iPhone Security Updates</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-commits-to-at-least-five-years-of-iphone-security-updates.2428265/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Promises to Fix Long-Ignored Parental Control Bug After Media Spotlight</title>
@@ -397,7 +457,7 @@ Today's report also claims that Apple is looking beyond chatbots in its AI resea
 
 		<description><![CDATA[This year, Apple is set to increase the size of its premium iPhones, and it will be the first size update we've had in several years. While we've known for some time that the iPhone 16 Pro will measure in at 6.3 inches (up from 6.1) and the Pro Max will measure in at 6.9 inches (up from 6.7), we have not had a complete picture of every dimension, until now. <br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iphone-16-pro-max-ice-universe.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-953588" /><div class="center-wrap"><em>iPhone 16 Pro Max (Image credit: <a href="https://x.com/UniverseIce/status/1798245080844914918">UniverseIce</a>)</em></div><br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iPhone-16-Pro-Front-Update-Blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-953750" /><br/>
 Despite being bigger phones, one dimension in particular that is reduced on the iPhone 16 Pro models is the screen border. Chinese Weibo-based leakers <a href="https://weibo.com/5673255066/OhAmQgJx7">UniverseIce</a> and <a href="https://weibo.com/5143897135/Ohu05eHXs">Instant Digital</a> have now corroborated rumored bezel sizes for both the iPhone 16 Pro and iPhone 16 Pro Max, providing a comprehensive picture of the dimensions of Apple's next-generation devices ahead of the iPhone 16 series' launch around mid-September. Here they are compared to Apple's iPhone 15 Pro models.<br/>
 <br/>
 <h3 id="iphone_16_pro">iPhone 16 Pro</h3><br/>
@@ -575,58 +635,6 @@ On Instagram, Apple is promoting Macs to college and university students. The ad
 Clicking on the ad redirects to Apple's education website, but there is as of yet no mention of the back to school sale. Last year's back to school sale began on Tuesday, June 4, but <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> said in his latest <a href="https://www.bloomberg.com/news/newsletters/2024-06-02/apple-ipad-pro-m4-chip-review-company-inches-closer-to-laptops-with-new-tablets-lwxjbna0">Power On newsletter</a> that the 2024 sale will not begin until later in the month.<br/>
 <br/>
 Apple's back to school sales provide students with a free Apple gift card when purchasing a Mac or an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. Last year, Apple offered U.S. students <a href="https://www.macrumors.com/2023/06/06/apple-launches-2023-back-to-school-promotion/">up to &#36;150</a> when purchasing a Mac and up to &#36;100 when purchasing an &zwnj;iPad&zwnj;.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/back-to-school-promotion/">Back to School Promotion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/apple-back-to-school-2024-sale-soon/">Apple&#039;s 2024 Back to School Sale Likely Launching Soon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-2024-back-to-school-sale-likely-launching-soon.2428156/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>OpenAI Employees Warn of Advanced AI Dangers</title>
-		<link>https://www.macrumors.com/2024/06/04/openai-employee-letter/</link>
-		<comments>https://forums.macrumors.com/threads/openai-employees-warn-of-advanced-ai-dangers.2428151/</comments>
-		<pubDate>Tue, 04 Jun 2024 12:55:51 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/openai-employee-letter/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>ChatGPT</category>
-		<category>OpenAI</category>
-		
-
-		<description><![CDATA[Several current and former employees of OpenAI and Google DeepMind today <a href="https://righttowarn.ai">shared an open letter</a> warning of the dangers of advanced AI and the current lack of oversight of companies working on AI technology.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/open-ai-logo.jpg" alt="" width="1093" height="615" class="aligncenter size-full wp-image-953560" /><br/>
-The employees suggest there are a number of risks that we are facing from AI development, including further entrenchment of existing inequalities, manipulation and misinformation, and loss of control of autonomous AI systems, which the letter says could lead to human extinction.<br/>
-<br/>
-AI companies have "strong financial incentives" to forge ahead with development and to avoid sharing information about their protective measures and risk levels. "We do not think they can all be relied upon to share it voluntarily," reads the letter, which says that it is up to current and former employees to speak out.<br/>
-<blockquote>So long as there is no effective government oversight of these corporations, current and former employees are among the few people who can hold them accountable to the public. Yet broad confidentiality agreements block us from voicing our concerns, except to the very companies that may be failing to address these issues. Ordinary whistleblower protections are insufficient because they focus on illegal activity, whereas many of the risks we are concerned about are not yet regulated.</blockquote><br/>
-Employees are ultimately calling on AI companies to offer solid whistleblower protections for speaking out about the risks of AI.<br/>
-<ul><br/>
- 	<li>Avoid creating or enforcing agreements that prevent criticism for risk-related concerns.</li><br/>
- 	<li>Offer a verifiably anonymous process for employees to raise risk-related concerns to the board, regulators, and independent organizations with relevant expertise.</li><br/>
- 	<li>Support a culture of open criticism to allow employees to raise risk-related concerns about technologies to the public, the board, regulators, and more, as long as trade secrets are protected.</li><br/>
- 	<li>Avoid retaliating against employees who publicly share risk-related confidential information after other processes have failed.</li><br/>
-</ul><br/>
-A total of 13 employees signed the letter, including seven former OpenAI employees, four current OpenAI employees, one former Google DeepMind employee, and one current Google DeepMind employee. OpenAI <a href="https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release">has threatened</a> employees with loss of vested equity for speaking up, and it makes them sign draconian NDA agreements that muzzle criticism.<br/>
-<br/>
-The letter comes as Apple prepares to announce multiple AI-powered features for <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and other software updates on Monday. Apple is working on its own AI functionality that will be baked into apps across the operating system, plus it has <a href="https://www.macrumors.com/2024/05/13/apple-finalizing-deal-openai-chatgpt-ios-18/">signed a deal</a> with OpenAI to integrate ChatGPT features into &zwnj;iOS 18&zwnj;.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a>, <a href="https://www.macrumors.com/guide/openai/">OpenAI</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/openai-employee-letter/">OpenAI Employees Warn of Advanced AI Dangers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/openai-employees-warn-of-advanced-ai-dangers.2428151/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Some AT&amp;T, T-Mobile and Verizon Customers Report Issues With Calls [Update: Fixed]</title>
-		<link>https://www.macrumors.com/2024/06/04/us-carriers-call-outage/</link>
-		<comments>https://forums.macrumors.com/threads/some-at-t-t-mobile-and-verizon-customers-report-issues-with-calls-update-fixed.2428138/</comments>
-		<pubDate>Tue, 04 Jun 2024 10:51:52 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/04/us-carriers-call-outage/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>T-Mobile</category>
-		<category>AT&amp;amp;T</category>
-		<category>Verizon</category>
-		
-
-		<description><![CDATA[There appears to be an outage with at least one U.S. cellular carrier, with customers unable to place or receive calls. AT&amp;T, T-Mobile, and Verizon customers have been complaining about the issue on social networks, and there are also reports of outages on the <a href="https://downdetector.com">Down Detector website</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/ATT-Banner.jpeg" alt="" width="1200" height="630" class="aligncenter size-full wp-image-937556" /><br/>
-According to a statement from AT&T, the outage is affecting calls between carriers in the United States. All of the major carriers are working to restore service.<blockquote>There is a nationwide issue that is affecting the ability of customers to complete calls between carriers.  The carriers are working as quickly as possible to diagnose and resolve the issue.”</blockquote>Customers affected have been reporting dropped calls and an inability to hear the person they're attempting to communicate with.<br/>
-<br/>
-<b>Update:</b> AT&T says that the interoperability issue has been fixed, and that it worked with other carriers to solve the problem. <br/>
-<br/>
-<b>Update 2:</b> T-Mobile has clarified that its network was not down. From a T-Mobile spokesperson: "We are not experiencing an outage. We are seeing Down Detector increases with other providers, so this likely could be challenges our customers are having connecting with users on other networks."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/t-mobile/">T-Mobile</a>, <a href="https://www.macrumors.com/guide/att/">AT&amp;T</a>, <a href="https://www.macrumors.com/guide/verizon/">Verizon</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/04/us-carriers-call-outage/">Some AT&amp;T, T-Mobile and Verizon Customers Report Issues With Calls [Update: Fixed]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/some-at-t-t-mobile-and-verizon-customers-report-issues-with-calls-update-fixed.2428138/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
