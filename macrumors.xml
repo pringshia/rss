@@ -14,12 +14,53 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Fri, 07 Jun 2024 01:04:05 PDT</lastBuildDate>
+	<lastBuildDate>Fri, 07 Jun 2024 05:06:24 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>New: &#039;Apple Intelligence&#039; AI Service for iOS 18 Will Have These Features</title>
+		<link>https://www.macrumors.com/2024/06/07/apple-intelligence-service-wwdc/</link>
+		<comments>https://forums.macrumors.com/threads/new-apple-intelligence-ai-service-for-ios-18-will-have-these-features.2428357/</comments>
+		<pubDate>Fri, 07 Jun 2024 04:13:06 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/07/apple-intelligence-service-wwdc/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>Bloomberg</category>
+		<category>Mark Gurman</category>
+		<category>Apple GPT</category>
+		
+
+		<description><![CDATA[Apple will announce its new AI feature set for Apple devices at WWDC on June 10, and <em>Bloomberg</em>'s Mark Gurman <a href="https://www.bloomberg.com/news/articles/2024-06-07/apple-wwdc-2024-what-to-expect-ai-ipados-18-macos-15-siri-updates-more">reports</a> that it will be officially called "Apple Intelligence."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iOS-18-Siri-Integrated-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-945741" /><br/>
+The AI capabilities will be coming to iOS 18, iPadOS 18, and macOS 15. The features will be opt-in, meaning Apple won't make users adopt them if they don't want to. <br/>
+<br/>
+The processing requirements of AI will mean that users need an iPhone 15 Pro or one of the iPhone 16 models coming out this year to use it. For those using iPads or Macs, models will need an M1 chip at least. Apple's AI features will be powered by its own technology and tools from OpenAI, but there will also be a partnership with OpenAI that powers a ChatGPT-like chatbot.<br/>
+<br/>
+Apple Intelligence is expected to handle basic AI tasks, and it will work mostly on-device. In other words, the model is powered by the device's onboard processor, rather than in the cloud. It's not clear what the criteria for a basic task will be, but Apple Intelligence is said to include code that determines if a request can be processed on device or requires Apple's servers.<br/>
+<br/>
+Here are some of the key new AI-related features and changes rumored or previewed for iPhones, iPads, and Macs that we've covered so far:<br/>
+<ul><br/>
+<li><strong>Apple Music:</strong> <a href="https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/">Auto-generated playlists</a> and <a href="https://www.macrumors.com/2024/05/21/ios-18-apple-music-song-transitions/">smarter song transitions</a>.</li><br/>
+<li><strong>Apple News:</strong> <a href="https://www.macrumors.com/2024/05/26/10-ai-features-coming-in-ios-18/">AI-generated news article summaries</a>.</li><br/>
+<li><strong>Health:</strong> <a href="https://www.bloomberg.com/news/articles/2024-02-15/apple-s-ai-plans-github-copilot-rival-for-developers-tool-for-testing-apps">New features powered by AI</a>, but no specific details are known yet.</li><br/>
+<li><strong>Keynote and Pages:</strong> AI-powered features for <a href="https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/">auto-generating slides in Keynote, writing faster in Pages, and more</a>.</li><br/>
+<li><strong>Mail:</strong> <a href="https://www.macrumors.com/2024/06/06/ios-18-mail-app-ai-features-smart-reply/">Incoming email categorization, and suggested replies to emails,</a> as well as <a href="https://www.macrumors.com/2024/06/06/ios-18-mail-app-ai-features-smart-reply/">email thread summaries and text composition assistance</a>.</li><br/>
+<li><strong>Messages:</strong> <a href="https://www.macrumors.com/2024/06/03/ios-18-rumored-features-for-messages-app/">Per-word effects, suggested replies, custom emoji, message recaps</a>.</li><br/>
+<li><strong>Notes:</strong> A built-in <a href="https://www.macrumors.com/2024/04/17/ios-18-notes-app-voice-memos-math-rumors/">audio recording tool</a> and <a href="https://www.macrumors.com/2024/05/10/ios-18-audio-transcriptions-rumor/">audio transcriptions</a></li><br/>
+<li><strong>Notifications:</strong> <a href="https://www.macrumors.com/2024/05/26/10-ai-features-coming-in-ios-18/">AI-generated notification summaries</a>.</li><br/>
+<li><strong>Photos:</strong> <a href="https://www.macrumors.com/2024/05/26/10-ai-features-coming-in-ios-18/">AI-powered photo retouching</a>.</li><br/>
+<li><strong>Safari:</strong> <a href="https://www.macrumors.com/2024/04/10/ios-18-safari-browsing-assistant-rumor/">Browsing assistant</a> that can <a href="https://www.macrumors.com/2024/04/30/safari-ai-features-coming-in-ios-18/">summarize web pages</a>, and a <a href="https://www.macrumors.com/2024/04/30/safari-ai-features-coming-in-ios-18/">"Web Eraser" tool</a>.</li><br/>
+<li><strong>Siri:</strong> A <a href="https://www.macrumors.com/2023/09/06/ios-18-siri-improvements/">smarter ChatGPT-inspired version of Siri</a> with <a href="https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/">more per-app controls</a> (<a href="https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/">in 2025</a>).</li><br/>
+<li><strong>Spotlight:</strong> <a href="https://www.macrumors.com/2024/05/03/ios-18-ai-features-for-siri-spotlight-revealed/">More intelligent search results and improved sorting</a>.</li><br/>
+<li><strong>Voice Memos:</strong> <a href="https://www.macrumors.com/2024/05/10/ios-18-audio-transcriptions-rumor/">Audio transcriptions</a>.</li></ul>Gurman says that The AI features will account for about half of Apple’s WWDC keynote presentation, which starts at 10 a.m. Pacific time on June 10.<br/>
+<br/>
+For those unable to <a href="https://www.macrumors.com/how-to/watch-apple-wwdc-2024-keynote-june-10/">watch the live stream</a>, or who prefer to read a text version of the announcements, we'll have live coverage both here on MacRumors.com and through our <a href="https://twitter.com/macrumorslive?lang=en">MacRumorsLive X (Twitter) account</a>, so make sure to follow.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, <a href="https://www.macrumors.com/guide/apple-gpt/">Apple GPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/07/apple-intelligence-service-wwdc/">New: &#039;Apple Intelligence&#039; AI Service for iOS 18 Will Have These Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-apple-intelligence-ai-service-for-ios-18-will-have-these-features.2428357/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple&#039;s Push Into AI Allegedly Happened After Craig Federighi Tried Microsoft AI Coding Tool</title>
@@ -547,29 +588,6 @@ Customers should stop using and charging the Charge Case Accessory "immediately.
 The AI Pin, which launched in November, is a standalone device that was designed specifically for AI. It attaches to a clothing item using a magnetic battery system, and it responds to questions and queries. There is a "laser ink display" that is able to project information onto the user's hand, and a built-in camera.<br/>
 <br/>
 Humane's AI Pin did not fare well in reviews, and it was widely criticized for its poor performance.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/humane-ai-pin-charge-case-fire-risk/">Humane Tells Customers to Stop Using AI Pin&#039;s Charge Case Due to Fire Risk</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/humane-tells-customers-to-stop-using-ai-pins-charge-case-due-to-fire-risk.2428230/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Becomes &#36;3 Trillion Company Again, But Nvidia Steals the Moment</title>
-		<link>https://www.macrumors.com/2024/06/05/aapl-vs-nvidia-3-trillion-dollar-companies/</link>
-		<comments>https://forums.macrumors.com/threads/apple-becomes-3-trillion-company-again-but-nvidia-steals-the-moment.2428227/</comments>
-		<pubDate>Wed, 05 Jun 2024 13:29:18 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/05/aapl-vs-nvidia-3-trillion-dollar-companies/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>AAPL</category>
-		<category>Nvidia</category>
-		
-
-		<description><![CDATA[Fans of large numbers will be happy to know that Apple became a &#36;3 trillion company again today based on market cap, which is the total value of all of the company's outstanding shares. However, chipmaker Nvidia stole the moment.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-vs-Nvidia.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-953774" /><br/>
-Nvidia not only crossed the &#36;3 trillion mark today for the first time ever, but it overtook Apple to become the world's second most valuable company as of market close today, trailing only Microsoft. Nvidia's stock price has more than tripled over the past year amid strong demand for its artificial intelligence (AI) server chips.<br/>
-<br/>
-Apple became the world's first &#36;3 trillion company <a href="https://www.macrumors.com/2022/01/03/apple-becomes-3-trillion-dollar-company/">in January 2022</a>, and it has recrossed that mark several times since then. However, this is the first time that Apple has dropped to be the world's third most valuable company since 2019.<br/>
-<br/>
-Apple is expected to unveil its own AI strategy during its WWDC keynote next week, with iOS 18 rumored to feature a <a href="https://www.macrumors.com/2024/05/30/ai-siri-features-ios-18-2025/">smarter version of Siri</a> powered by a large language model (LLM) and many other new AI features. Apple has also <a href="https://www.macrumors.com/2024/06/05/ios-18-ai-features-opt-in-service/">reportedly partnered with OpenAI</a> to integrate ChatGPT on the iPhone, but the exact implementation remains to be seen.<br/>
-<br/>
-AAPL closed at &#36;195.87 today, down from a 52-week high of &#36;199.62.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/aapl/">AAPL</a>, <a href="https://www.macrumors.com/guide/nvidia/">Nvidia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/05/aapl-vs-nvidia-3-trillion-dollar-companies/">Apple Becomes &#36;3 Trillion Company Again, But Nvidia Steals the Moment</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-becomes-3-trillion-company-again-but-nvidia-steals-the-moment.2428227/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
