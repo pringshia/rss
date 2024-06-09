@@ -14,12 +14,33 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Sat, 08 Jun 2024 21:03:24 PDT</lastBuildDate>
+	<lastBuildDate>Sun, 09 Jun 2024 01:03:24 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 18 Will Extend Dark Mode to Home Screen, Sources Say</title>
+		<link>https://www.macrumors.com/2024/06/09/ios-18-home-screen-dark-mode-rumor/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-will-extend-dark-mode-to-home-screen-sources-say.2428499/</comments>
+		<pubDate>Sat, 08 Jun 2024 21:18:55 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/09/ios-18-home-screen-dark-mode-rumor/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[iOS 18 will effectively extend Dark Mode to the iPhone's Home Screen, according to multiple sources familiar with the matter.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/03/light-dark-mode.jpeg" alt="light-dark-mode" width="1170" height="622" class="aligncenter size-full wp-image-791185" /><br/>
+Introduced with iOS 13, Dark Mode gives built-in Apple apps and system elements a dark color scheme when turned on. Starting with iOS 18, app icons for Apple apps will also have a dark tint on the Home Screen when Dark Mode is on.<br/>
+<br/>
+<em>Bloomberg</em>'s Mark Gurman recently reported that iOS 18 will let users <a href="https://www.macrumors.com/2024/05/26/ios-18-to-allow-users-to-recolor-app-icons/">change the colors of app icons</a>, and this dark tint is related to that feature.<br/>
+<br/>
+Apple will unveil iOS 18 during its <a href="https://www.macrumors.com/how-to/watch-apple-wwdc-2024-keynote-june-10/">WWDC keynote on Monday</a>. The first iOS 18 beta will likely be made available to Apple Developer Program members immediately after the keynote, and the update should be widely released in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/09/ios-18-home-screen-dark-mode-rumor/">iOS 18 Will Extend Dark Mode to Home Screen, Sources Say</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-will-extend-dark-mode-to-home-screen-sources-say.2428499/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iOS 18 Will Let You Lock Apps Behind Face ID, Sources Say</title>
@@ -880,34 +901,6 @@ Hovering over a TV show or movie for an extended period of time will cause a sho
 Netflix plans to replace the left side navigation menu with a top bar menu that features search, home, shows, movies, and My Netflix, with the menu accessible by pressing the back button on the remote. The current Categories and New and Popular tabs will be removed, but New and Popular will be replaced with the My Netflix recommendations, and Categories will be available from the search tab.<br/>
 <br/>
 The new design is being tested with a small group of subscribers to begin with, but it will be expanded to additional Netflix users in the coming months if it proves to be a popular change.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/netflix/">Netflix</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/06/netflix-tv-app-redesign/">Netflix Testing Major Apple TV App Redesign</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/netflix-testing-major-apple-tv-app-redesign.2428339/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Google Adds RCS Feature for Texting 911</title>
-		<link>https://www.macrumors.com/2024/06/06/google-rcs-text-911/</link>
-		<comments>https://forums.macrumors.com/threads/google-adds-rcs-feature-for-texting-911.2428330/</comments>
-		<pubDate>Thu, 06 Jun 2024 14:43:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/06/google-rcs-text-911/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Google</category>
-		<category>RCS</category>
-		
-
-		<description><![CDATA[Google <a href="https://blog.google/products/messages/google-messages-rcs-911-emergency/">today announced</a> that it is partnering with emergency technology company RapidSOS to allow U.S. Android users to text 911 in emergencies using its Rich Communication Services (<a href="https://www.macrumors.com/guide/rcs/">RCS</a>) protocol.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/google-emergency-services-rcs.jpg" alt="" width="1599" height="899" class="aligncenter size-full wp-image-953911" /><br/>
-When it is not possible to call 911, Android users will be able to send a text instead to get emergency help. The texting feature will provide precise location information to emergency responders, and it will let users send high-resolution photos and videos.<br/>
-<br/>
-Texting 911 will be available to U.S. Android device owners who use Google Messages, but because it is a feature baked into &zwnj;RCS&zwnj;, it could also expand to other devices like the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. Later this year, Apple plans to adopt &zwnj;RCS&zwnj; to replace SMS/MMS.<br/>
-<br/>
-The option to text 911 via &zwnj;RCS&zwnj; will roll out to emergency call centers across the United States starting this winter. In some places, it is already possible to text 911 over SMS, but not all emergency call centers support the technology. Google is aiming to bring texting to all call centers, and to improve the ability to send photos and videos with &zwnj;RCS&zwnj;. Google says &zwnj;RCS&zwnj; for emergency 911 texts will bring the following benefits:<br/>
-<ul><br/>
- 	<li>Confirmation that an emergency request has been delivered and viewed.</li><br/>
- 	<li>The ability to see if an emergency responder is replying to a message.</li><br/>
- 	<li>Options for sending high-resolution photos and videos to more accurately relay what's going on in an emergency situation.</li><br/>
- 	<li>Precise location sharing, language settings, and opt-in medical information sharing.</li><br/>
-</ul><br/>
-Google says that it is working with "partners across the industry" to expand access to emergency services through &zwnj;RCS&zwnj;, and that it wants to make &zwnj;RCS&zwnj; the "standard for emergency services texting everywhere."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/google/">Google</a>, <a href="https://www.macrumors.com/guide/rcs/">RCS</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/06/google-rcs-text-911/">Google Adds RCS Feature for Texting 911</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/google-adds-rcs-feature-for-texting-911.2428330/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
