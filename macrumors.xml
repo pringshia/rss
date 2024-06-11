@@ -14,12 +14,121 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 11 Jun 2024 01:06:14 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 05:04:59 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Likely to Add Google Gemini and Other AI Models to iOS 18</title>
+		<link>https://www.macrumors.com/2024/06/11/apple-add-more-ai-models-in-future/</link>
+		<comments>https://forums.macrumors.com/threads/apple-likely-to-add-google-gemini-and-other-ai-models-to-ios-18.2428815/</comments>
+		<pubDate>Tue, 11 Jun 2024 04:24:10 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/apple-add-more-ai-models-in-future/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iOS 18</category>
+		<category>Google</category>
+		
+
+		<description><![CDATA[As part of its <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/">Apple Intelligence</a> feature set, Apple on Monday announced a partnership with OpenAI that will allow Siri to <a href="https://www.macrumors.com/2024/06/10/siri-can-access-chatgpt-with-ios-18/">access ChatGPT directly</a> in iOS 18, iPadOS 18, and macOS Sequoia to provide better responses in relevant situations. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/03/google-gemini.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-941761" /><br/>
+In conversation with reporters after the WWDC keynote, Apple's senior VP of software engineering Craig Federighi revealed that as Apple Intelligence evolves, the company eventually wants to give its users a choice between different AI models, and suggested that Google Gemini could be an option in the future. <br/>
+<br/>
+"We think ultimately people are going to have a preference for certain models they want to use, maybe one that's great for creative writing or one that they prefer for coding," said Federighi. "Maybe Google Gemini in the future. I mean, nothing to announce right now, but that's our direction."<br/>
+<br/>
+Federighi said that Apple's decision to start with ChatGPT was because the company wanted to "start with the best." ‌Siri‌ will leverage GPT-4o for free, with no need to create an account. Requests are not logged and IP addresses are obscured, while ChatGPT subscribers will also be able to access paid features within the experiences.<br/>
+<br/>
+Apple Intelligence features are not included in the first beta of iOS 18, and instead will become <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-ios-18-beta/">available for testing over the U.S. summer</a>. iOS 18 is expected to be publicly released in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/google/">Google</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/apple-add-more-ai-models-in-future/">Apple Likely to Add Google Gemini and Other AI Models to iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-likely-to-add-google-gemini-and-other-ai-models-to-ios-18.2428815/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18: Overhauled Calculator App Supports These 15 Conversions</title>
+		<link>https://www.macrumors.com/2024/06/11/ios-18-calculator-these-conversions/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-overhauled-calculator-app-supports-these-15-conversions.2428807/</comments>
+		<pubDate>Tue, 11 Jun 2024 03:27:56 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/ios-18-calculator-these-conversions/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[During its <a href="https://www.macrumors.com/2024/06/10/wwdc-2024-recap/">WWDC 2024 keynote</a> on Monday, Apple introduced a new <a href="https://www.macrumors.com/2024/06/10/apple-calculator-ipad-apple-pencil/">Calculator app for iPad</a> that includes a new Math Notes feature, and there are similar changes to be found in the Calculator app in iOS 18.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/calculator-app-ios-18.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-954866" /><br/>
+The Calculator app on iPhone now has an additional button to switch between Basic, Scientific, and Math Notes in portrait or landscape view. Meanwhile, there's a useful new History feature that helps you keep track of previous calculations. <br/>
+<br/>
+In addition, a new Convert option supports unit conversions for length, weight, currencies, and more. Here's the full conversions that are supported:<br/>
+<ul><br/>
+  <li>Angle</li><br/>
+  <li>Area</li><br/>
+  <li>Currency</li><br/>
+  <li>Data</li><br/>
+  <li>Energy</li><br/>
+  <li>Force</li><br/>
+  <li>Fuel</li><br/>
+  <li>Length</li><br/>
+  <li>Power</li><br/>
+  <li>Pressure</li><br/>
+  <li>Speed</li><br/>
+  <li>Temperature</li><br/>
+  <li>Time</li><br/>
+  <li>Volume</li><br/>
+  <li>Weight</li><br/>
+</ul>In iPadOS 18, the new Calculator app lets users type or write out mathematical expressions with an Apple Pencil and see them solved in their own handwriting. These Math Notes are automatically accessible in the Notes app in a new Math Notes folder that can be accessed on both iPhone and iPad.<br/>
+<br/>
+The first developer beta of iPadOS 18 is now available, with a public beta following in July, and official release to the public in the fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/ios-18-calculator-these-conversions/">iOS 18: Overhauled Calculator App Supports These 15 Conversions</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-overhauled-calculator-app-supports-these-15-conversions.2428807/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Tap to Cash in iOS 18 Lets You Pay by Touching iPhones</title>
+		<link>https://www.macrumors.com/2024/06/11/tap-to-cash-ios-18-pay-touch-iphones/</link>
+		<comments>https://forums.macrumors.com/threads/tap-to-cash-in-ios-18-lets-you-pay-by-touching-iphones.2428803/</comments>
+		<pubDate>Tue, 11 Jun 2024 02:47:03 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/tap-to-cash-ios-18-pay-touch-iphones/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple Pay</category>
+		<category>iOS 18</category>
+		<category>Tap to Cash</category>
+		
+
+		<description><![CDATA[Among the <a href="https://www.macrumors.com/2024/06/10/wwdc-2024-recap/">slew of iOS 18 updates announced</a> during Apple's <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a> keynote, the company revealed a new way of paying for things with Apple Cash, called Tap to Cash.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/tap-to-cash-ios-18.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-954862" /><br/>
+As the name suggests, Tap to Cash lets users pay for things simply by tapping two iPhones together. The feature is reminiscent of NameDrop, where users can exchange contacts by tapping their devices together.<br/>
+<br/>
+Tap to Cash is an extension of Apple's Tap to Pay feature, and uses the same NFC functionality. Apple says that Tap to Cash allows users to transfer money without sharing any personal information, ensuring privacy is maintained.<br/>
+<br/>
+Apple also announced a few updates coming to Apple Wallet with <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, including support for displaying information about rewards cards, such as points and redeemable gifts. Tickets for events will also gain better integration with the Wallet app, allowing users to see concert seat numbers, shortcuts for directions, and other information about events.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a>, <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/tap-to-cash/">Tap to Cash</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-music-apple-pay-card-icloud-fitness.134">Apple Music, Apple Pay/Card, iCloud, Fitness+</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/tap-to-cash-ios-18-pay-touch-iphones/">Tap to Cash in iOS 18 Lets You Pay by Touching iPhones</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tap-to-cash-in-ios-18-lets-you-pay-by-touching-iphones.2428803/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Lets You Hide App Labels on Your iPhone Home Screen</title>
+		<link>https://www.macrumors.com/2024/06/11/ios-18-hide-app-labels-home-screen/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-lets-you-hide-app-labels-on-your-iphone-home-screen.2428796/</comments>
+		<pubDate>Tue, 11 Jun 2024 02:04:37 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/ios-18-hide-app-labels-home-screen/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[As part of its Home Screen customization overhaul, iOS 18 lets iPhone users hide the labels on app icons for a cleaner look.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/hide-app-labels-ios-18.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-954851" /><br/>
+Turning off the labels causes the icons to expand and take up the space where the text usually appears underneath. Here's how it currently works in the iOS 18 Developer Beta.<br/>
+<ol><li>On the Home Screen, press and hold on an empty area.</li><br/>
+<li>Tap <strong>Edit</strong> in the top-left corner.</li><br/>
+<li>Tap <strong>Customize</strong>.</li><br/>
+<li>In the customization menu that appears, tap the <strong>Large</strong> button.</li><br/>
+<li>Tap anywhere on the Home Screen to save your preference.</li></ol><img src="https://images.macrumors.com/article-new/2024/06/hide-app-labels-home-screen-ios-18.jpg" alt="Home Screen" width="4377" height="2796" class="aligncenter size-full wp-image-954852" /><br/>
+<br/>
+As things stand, it's not possible to hide labels and keep app icons small, but this could change in succeeding beta versions.<br/>
+<br/>
+In addition to hiding app labels, other new Home Screen customization options in iOS 18 include the ability to <a href="https://www.macrumors.com/2024/06/10/ios-18-home-screen/">place app icons anywhere, and a dark tint option</a> for app icons.<br/>
+<br/>
+Read our <a href="https://www.macrumors.com/2024/06/10/apple-announces-ios-18-with-new-customization-features-and-more/">iOS 18 announcement coverage</a> for more details about the update, which is now available in beta for members of the Apple Developer Program.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/ios-18-hide-app-labels-home-screen/">iOS 18 Lets You Hide App Labels on Your iPhone Home Screen</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-lets-you-hide-app-labels-on-your-iphone-home-screen.2428796/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Everything Apple Announced at WWDC 2024 in Nine Minutes</title>
@@ -479,104 +588,6 @@ tvOS 18 compatibility list:<br/>
 tvOS 18 introduces a new InSight feature, includes updates to Enhance Dialogue and subtitles, adds new screen savers, supports 21:9 video playback for playing movies and shows on projectors, and more, as outlined in <a href="https://www.macrumors.com/2024/06/10/tvos-gaining-insight-feature/">our coverage of the update</a>.<br/>
 <br/>
 The first tvOS 18 developer beta is available for Apple Developer Program members starting today, and Apple said that a public beta will follow in July. The update should be widely released to all users with a compatible Apple TV in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/tvos-18-compatible-apple-tv-models/">tvOS 18 Compatible With Apple TV HD Released Nearly Nine Years Ago</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tvos-18-compatible-with-apple-tv-hd-released-nearly-nine-years-ago.2428705/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>You Can Send Texts via Satellite in iOS 18</title>
-		<link>https://www.macrumors.com/2024/06/10/you-can-send-texts-via-satellite-in-ios-18/</link>
-		<comments>https://forums.macrumors.com/threads/you-can-send-texts-via-satellite-in-ios-18.2428704/</comments>
-		<pubDate>Mon, 10 Jun 2024 13:08:17 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/you-can-send-texts-via-satellite-in-ios-18/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[With <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, Apple is expanding the Emergency SOS via satellite feature to introduce Messages via satellite, a feature that will let you send texts even when you don't have a Wi-Fi or cellular connection.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/messages-via-satellite.jpg" alt="" width="2226" height="1252" class="aligncenter size-full wp-image-954617" /><br/>
-Available on the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> or later, you can send and receive iMessages or SMS messages using a satellite connection. The feature works with all iMessage features such as emoji and Tapbacks, plus with iMessage, conversations are end-to-end encrypted.<br/>
-<br/>
-Messages via satellite will work on the &zwnj;iPhone 14&zwnj; and later, aka the same devices that support Emergency SOS via satellite. Apple did not specify whether there will be a cost for Messages via satellite, but Emergency SOS via satellite is still free for all &zwnj;iPhone 14&zwnj; users for a <a href="https://www.macrumors.com/2023/11/15/emergency-sos-extra-year-iphone-14/">total of three years</a>.<br/>
-<br/>
-Apple has said it eventually plans to charge for satellite services, but no pricing has been unveiled. The <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models also came with two free years of satellite access.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/you-can-send-texts-via-satellite-in-ios-18/">You Can Send Texts via Satellite in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/you-can-send-texts-via-satellite-in-ios-18.2428704/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>RCS Coming to Messages in iOS 18 for Improved Texts With Android Users</title>
-		<link>https://www.macrumors.com/2024/06/10/rcs-coming-to-messages-in-ios-18/</link>
-		<comments>https://forums.macrumors.com/threads/rcs-coming-to-messages-in-ios-18-for-improved-texts-with-android-users.2428700/</comments>
-		<pubDate>Mon, 10 Jun 2024 12:56:34 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/rcs-coming-to-messages-in-ios-18/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>RCS</category>
-		
-
-		<description><![CDATA[Apple today confirmed that it plans to implement support for Rich Communication Services, or <a href="https://www.macrumors.com/guide/rcs/">RCS</a>, in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> this fall. Apple software chief Craig Federighi confirmed &zwnj;RCS&zwnj; support when introducing new features for the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> at the WWDC keynote event.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/apple-rcs-thumb.jpg" alt="" width="2776" height="1562" class="aligncenter size-full wp-image-923042" /><br/>
-We've known about Apple's plans to adopt &zwnj;RCS&zwnj; since last November, but Apple only gave a vague "later in 2024" timeline for adoption so it was unclear exactly when the feature might roll out. &zwnj;RCS&zwnj; replaces SMS/MMS as the default communication protocol on the &zwnj;iPhone&zwnj;. <br/>
-<br/>
-&zwnj;RCS&zwnj; has already been adopted by Google, U.S. smartphone carriers, and other companies, so Apple is a little late to the party. It doesn't change much for iMessage, but it does overhaul the way iPhones interact with Android devices. &zwnj;RCS&zwnj; improves texting with Android users, adding support for features that have previously been limited to iMessage. Some of the additions: <br/>
-<br/>
-<ul><br/>
- <li>Support for higher resolution photos and videos.</li><br/>
- <li>Support for larger file sizes and file sharing.</li><br/>
- <li>Audio messages.</li><br/>
- <li>Cross-platform emoji reactions.</li><br/>
- <li>Real-time typing indicators.</li><br/>
- <li>Read receipts.</li><br/>
- <li>Ability to send messages over cellular or Wi-Fi (SMS is cellular only). There is no cost to send an &zwnj;RCS&zwnj; message over Wi-Fi.</li><br/>
- <li>Improved group chats.</li><br/>
-</ul><br/>
-<br/>
-It is not clear if Apple will introduce &zwnj;RCS&zwnj; support during the &zwnj;iOS 18&zwnj; beta testing period or hold the feature until the fall public launch of the update, but we do know that it is indeed tied to &zwnj;iOS 18&zwnj; at this point. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/rcs/">RCS</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/rcs-coming-to-messages-in-ios-18/">RCS Coming to Messages in iOS 18 for Improved Texts With Android Users</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/rcs-coming-to-messages-in-ios-18-for-improved-texts-with-android-users.2428700/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Introduces Standalone &#039;Passwords&#039; App</title>
-		<link>https://www.macrumors.com/2024/06/10/apple-introduces-standalone-passwords-app/</link>
-		<comments>https://forums.macrumors.com/threads/apple-introduces-standalone-passwords-app.2428694/</comments>
-		<pubDate>Mon, 10 Jun 2024 12:45:20 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/apple-introduces-standalone-passwords-app/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>iCloud Keychain</category>
-		
-
-		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, iPadOS 18, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> feature a new, dedicated Passwords app for faster access to important credentials.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/macOS-Sequoia-Passwords-app.jpg" alt="" width="1960" height="1102" class="alignnone size-full wp-image-954590" /><br/>
-The Passwords app replaces <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Keychain, which is currently only accessible via a menu in Settings. Now, passwords are available directly via a standalone app for markedly quicker access, bringing it more in line with rival services.<br/>
-<br/>
-The Passwords app consolidates various credentials, including passwords, passkeys, and Wi-Fi passwords, into a single, easily accessible location. Users can filter and sort their accounts based on various criteria, such as recently created accounts, credential type, or membership in shared groups. <br/>
-<br/>
-Passwords is also compatible with Windows via the &zwnj;iCloud&zwnj; for Windows app, extending its utility to users who operate across different platforms. <br/>
-<br/>
-The developer beta versions of &zwnj;iOS 18&zwnj;, iPadOS 18, and &zwnj;macOS Sequoia&zwnj; are available today with official release to the public scheduled for the fall, providing an early look at the Passwords app.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/icloud-keychain/">iCloud Keychain</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/apple-introduces-standalone-passwords-app/">Apple Introduces Standalone &#039;Passwords&#039; App</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-introduces-standalone-passwords-app.2428694/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases New AirPods Pro 2 Beta Firmware With Support for iOS 18 Features</title>
-		<link>https://www.macrumors.com/2024/06/10/apple-releases-new-airpods-pro-2-beta-firmware/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-beta-firmware-with-support-for-ios-18-features.2428693/</comments>
-		<pubDate>Mon, 10 Jun 2024 12:43:51 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/apple-releases-new-airpods-pro-2-beta-firmware/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>AirPods Pro</category>
-		
-
-		<description><![CDATA[Apple today released new beta firmware for the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2, including both the Lightning and USB-C versions. The updated firmware has a build number of 7A5220e, and it is available to developers at the current time.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware.jpg" alt="" width="1920" height="1081" class="aligncenter size-full wp-image-803705" /><br/>
-At today's keynote event, Apple introduced several new features that are coming to the &zwnj;AirPods Pro&zwnj; 2 as part of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, including head gestures, and these features may be included in the firmware update.<br/>
-<br/>
-With head gestures, users can control <a href="https://www.macrumors.com/guide/siri/">Siri</a> on the &zwnj;AirPods Pro&zwnj; with a shake or a nod of the head. If you get a phone call, for example, you can shake your head no if you don't want to answer it, or nod to accept the call. &zwnj;Siri&zwnj; interactions can be used for responding to incoming messages, calls, and notifications.<br/>
-<br/>
-Apple is adding Voice Isolation to the &zwnj;AirPods Pro&zwnj; to cut down on loud background sounds to make you easier to hear, and there is a new Personalized Spatial Audio feature specific to gaming. Game developers will be able to incorporate spatial audio into their games for a more immersive audio experience.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/apple-releases-new-airpods-pro-2-beta-firmware/">Apple Releases New AirPods Pro 2 Beta Firmware With Support for iOS 18 Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-beta-firmware-with-support-for-ios-18-features.2428693/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
