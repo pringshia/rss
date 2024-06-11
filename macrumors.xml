@@ -14,12 +14,271 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 10 Jun 2024 13:02:40 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 10 Jun 2024 17:11:51 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Elon Musk Threatens to Ban Apple Devices Over ChatGPT Integration</title>
+		<link>https://www.macrumors.com/2024/06/10/elon-musk-threatens-to-ban-apple-devices/</link>
+		<comments>https://forums.macrumors.com/threads/elon-musk-threatens-to-ban-apple-devices-over-chatgpt-integration.2428757/</comments>
+		<pubDate>Mon, 10 Jun 2024 16:29:09 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/elon-musk-threatens-to-ban-apple-devices/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>iOS 18</category>
+		<category>Elon Musk</category>
+		
+
+		<description><![CDATA[Elon Musk has threatened to ban Apple devices from his companies over Apple’s newly announced <a href="https://www.macrumors.com/2024/06/10/siri-can-access-chatgpt-with-ios-18/">ChatGPT integration</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/04/elon-musk.jpg" alt="" width="1920" height="1080" class="alignnone size-full wp-image-842835" /><br/>
+Apple Intelligence in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, iPadOS 18, and macOS Sequoia allows <a href="https://www.macrumors.com/guide/siri/">Siri</a> to utilize ChatGPT to handle complex queries, but only when explicit user permission is provided. The feature is designed to provide users with richer, more contextual responses without requiring them to open the ChatGPT app.<br/>
+<br/>
+During Apple's keynote event, Senior Vice President of Software Engineering, Craig Federighi, emphasized that users will have full control over when ChatGPT is used and that data shared with OpenAI would not be logged or stored. "You are in control over when ChatGPT is used and will be asked before any of your information is shared," Federighi said.<br/>
+<br/>
+Despite these assurances, <a href="https://x.com/elonmusk">Musk expressed</a> strong opposition to the integration on his social media platform, X (formerly Twitter). Musk said, "If Apple integrates OpenAI at the OS level, then Apple devices will be banned at my companies. That is an unacceptable security violation." He continued, "Visitors will have to check their Apple devices at the door, where they will be stored in a Faraday cage." He also repeatedly questioned Apple's ability to ensure data security, stating, "Apple has no clue what's actually going on once they hand your data over to OpenAI. They're selling you down the river."<br/>
+<br/>
+Apple and OpenAI have both emphasized that user data will only be shared with explicit consent and that these interactions are designed to be secure. OpenAI noted in a new <a href="https://openai.com/index/openai-and-apple-announce-partnership/">blog post</a> that "requests are not stored by OpenAI, and users' IP addresses are obscured." Users can also choose to connect their ChatGPT accounts to access paid features, but this is an opt-in feature.<br/>
+<br/>
+Apple has been clear in its messaging that the new AI capabilities are designed with user privacy at the core. Apple's approach leverages a combination of on-device processing and cloud computing, ensuring that data is not stored in the cloud. Apple's integration of ChatGPT into its operating systems is part of a broader strategy to enhance the AI capabilities of iOS, iPadOS, and macOS. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/elon-musk/">Elon Musk</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/elon-musk-threatens-to-ban-apple-devices/">Elon Musk Threatens to Ban Apple Devices Over ChatGPT Integration</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/elon-musk-threatens-to-ban-apple-devices-over-chatgpt-integration.2428757/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 and macOS Sequoia Add &#039;Rotate Wi-Fi Address&#039; Option to Cut Down on Tracking</title>
+		<link>https://www.macrumors.com/2024/06/10/ios-18-rotate-wifi-address/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-and-macos-sequoia-add-rotate-wi-fi-address-option-to-cut-down-on-tracking.2428755/</comments>
+		<pubDate>Mon, 10 Jun 2024 16:21:35 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/ios-18-rotate-wifi-address/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 18</category>
+		<category>macOS Sequoia</category>
+		
+
+		<description><![CDATA[With <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, iPadOS 18, and macOS Sequoia, Apple has replaced the Private Wi-Fi Address option for Wi-Fi networks with a new Rotate Wi-Fi Address option that's aimed at better minimizing tracking.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/rotate-wifi-address-ios-18.jpg" alt="" width="2553" height="1436" class="aligncenter size-full wp-image-954724" /><br/>
+Available when accessing the settings of any Wi-Fi network, Apple says the opt-in Rotate Wi-Fi Address feature changes your Wi-Fi address at random times.<br/>
+<blockquote>A rotating Wi-Fi address helps reduce tracking by changing your Wi-Fi address at various times. Tracking can happen when your address always appears the same to other devices and people using the same network as you.</blockquote><br/>
+The prior Private Wi-Fi Address setting assigned a different MAC address to a device for each Wi-Fi network it connected to.<br/>
+<br/>
+Rotate Wi-Fi Address, like Private Wi-Fi Address, is separate from the additional Limit IP Address Tracking option that can be turned on for Mail and Safari.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-15/">macOS 15</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/ios-18-rotate-wifi-address/">iOS 18 and macOS Sequoia Add &#039;Rotate Wi-Fi Address&#039; Option to Cut Down on Tracking</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-and-macos-sequoia-add-rotate-wi-fi-address-option-to-cut-down-on-tracking.2428755/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>macOS Sequoia and iPadOS 18 Drop Support for These Macs and iPads</title>
+		<link>https://www.macrumors.com/2024/06/10/macos-sequoia-and-ipados-18-compatibility/</link>
+		<comments>https://forums.macrumors.com/threads/macos-sequoia-and-ipados-18-drop-support-for-these-macs-and-ipads.2428754/</comments>
+		<pubDate>Mon, 10 Jun 2024 16:13:18 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/macos-sequoia-and-ipados-18-compatibility/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 18</category>
+		<category>macOS Sequoia</category>
+		
+
+		<description><![CDATA[macOS Sequoia is still compatible with several Intel-based Macs, but it does drop support for 2018 and 2019 models of the MacBook Air.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/sequoia.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954485" /><br/>
+macOS Sequoia is compatible with the following Macs, according to Apple:<br/>
+<br/>
+<ul><li><strong>MacBook Pro:</strong> 2018 and later</li><br/>
+<li><strong>MacBook Air:</strong> 2020 and later</li><br/>
+<li><strong>Mac mini:</strong> 2018 and later</li><br/>
+<li><strong>iMac:</strong> 2019 and later</li><br/>
+<li><strong>iMac Pro:</strong> 2017</li><br/>
+<li><strong>Mac Studio:</strong> 2022 and later</li><br/>
+<li><strong>Mac Pro:</strong> 2019 and later</li></ul><br/>
+<br/>
+The upcoming <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/">"Apple Intelligence" suite of AI features</a> will require an Apple silicon Mac with an M1 chip or newer. The new AI features can help you write faster, categorize mail, prioritize notifications, and more. A smarter version of Siri powered by Apple Intelligence will also be limited to Macs with an M1 chip or newer.<br/>
+<br/>
+<a href="https://www.macrumors.com/2024/06/10/apple-announces-macos-sequoia/">iPhone Mirroring</a> will be available on both Apple silicon Macs and Intel-based Macs with the T2 security chip, letting you control your iPhone from your Mac's screen:<blockquote>A user's custom wallpaper and icons appear just like on their iPhone, and they can swipe between pages on their Home Screen, or launch and browse any of their favorite apps. The keyboard, trackpad, and mouse on Mac also let a user interact with their iPhone, and audio even comes through. Users can seamlessly drag and drop between iPhone and Mac, and a user's iPhone remains locked, so nobody else can access or see what the user is doing. It also works great with StandBy, which stays visible, so users can get information at a glance. Additionally, users can review and respond to iPhone notifications directly from their Mac.</blockquote>As for iPadOS 18, the update drops support for the first-generation 10.5-inch iPad Pro, second-generation 12.9-inch iPad Pro, and the sixth-generation low-end iPad.<br/>
+<br/>
+iPadOS 18 is compatible with the following iPads, according to Apple:<br/>
+<br/>
+<ul><li>iPad Pro: 2018 and later</li><br/>
+<li>iPad Air: 2019 and later</li><br/>
+<li>iPad mini: 2019 and later</li><br/>
+<li>iPad: 2019 and later</li></ul><br/>
+<br/>
+macOS Sequoia and iPadOS 18 are now available in beta for Apple Developer Program members, and the updates should be released in September.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-15/">macOS 15</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/macos-sequoia-and-ipados-18-compatibility/">macOS Sequoia and iPadOS 18 Drop Support for These Macs and iPads</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macos-sequoia-and-ipados-18-drop-support-for-these-macs-and-ipads.2428754/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Lets You Lock and Hide Your Apps for Added Privacy</title>
+		<link>https://www.macrumors.com/2024/06/10/ios-18-hide-lock-apps/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-lets-you-lock-and-hide-your-apps-for-added-privacy.2428745/</comments>
+		<pubDate>Mon, 10 Jun 2024 15:11:52 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/ios-18-hide-lock-apps/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[Apple is improving privacy in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, introducing a feature that allows apps to be locked or hidden, which makes them inaccessible without a <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> scan.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/ios-18-lock-apps.jpg" alt="" width="5560" height="3128" class="aligncenter size-full wp-image-954703" /><br/>
+If someone is using your phone and you've locked an app, when they try to open that app, they'll see a popup that says it can't be accessed without secondary authentication. Locking an app can be done by long pressing on it and selecting the Require &zwnj;Face ID&zwnj; option (or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> on the <a href="https://www.macrumors.com/roundup/iphone-se/">iPhone SE</a>).<br/>
+<br/>
+Not all apps can be locked, with Apple not providing an option for innocuous apps like Maps, Clock, Calculator, and Stocks, but almost every other app can be locked, including third-party apps. When you lock an app, you have the option to hide it as well, which moves it into a locked, hidden apps folder that requires authentication to open.<br/>
+<br/>
+Locked or hidden apps are not only unable to be opened, but also hidden from search, notifications, and other places across the operating system. Enabling a lock on an app also shows the apps that have access to it, such as apps that are able to write images to the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app. Hiding an app means that you will not receive incoming notifications or calls from it, and it will only be available from a "Hidden" folder in the App Library.<br/>
+<br/>
+If you want to turn off the locking feature, you can long press on an app icon and choose the "Don't Require &zwnj;Face ID&zwnj;" option. Turning the lock on and off requires a &zwnj;Face ID&zwnj; scan, so it can't be turned off without your knowledge. Locking and hiding apps is also a feature that works on the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/ios-18-hide-lock-apps/">iOS 18 Lets You Lock and Hide Your Apps for Added Privacy</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-lets-you-lock-and-hide-your-apps-for-added-privacy.2428745/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Can Record and Transcribe Your Phone Calls</title>
+		<link>https://www.macrumors.com/2024/06/10/ios-18-record-phone-calls/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-can-record-and-transcribe-your-phone-calls.2428741/</comments>
+		<pubDate>Mon, 10 Jun 2024 14:54:34 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/ios-18-record-phone-calls/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[One of the interesting new features coming in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> will let you automatically record and transcribe your live phone calls through the Phone app. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Generic-iOS-18-Phone-App-Icon-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-954687" /><br/>
+After answering a call or placing a call, you can enable recording. All call participants are notified that the call is being recorded, so there are no surprises and everyone is aware of the recording from the start. As the call is recorded, the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> is also able to provide a transcript. <br/>
+<br/>
+The upcoming Apple Intelligence features can generate a summary of key points that were included in the call, so you can look back at what was important at a glance. <br/>
+<br/>
+Phone call transcription will be available in English (U.S., UK, Australia, Canada, India, Ireland, New Zealand, Singapore), Spanish (U.S., Mexico, Spain), French (France), German (Germany), Japanese (Japan), Mandarin Chinese (China mainland, Taiwan), Cantonese (China mainland, Hong Kong), and Portuguese (Brazil).<br/>
+<br/>
+Other new features for the Phone app include a search interface for call history, autofill for a number when you start typing in digits, and the option to seamlessly switch SIM cards. <br/>
+<br/>
+Apple also plans to bring the same audio and transcription features to the Notes app, so you can record audio and get a live transcript on the &zwnj;iPhone&zwnj; 12 and later. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/ios-18-record-phone-calls/">iOS 18 Can Record and Transcribe Your Phone Calls</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-can-record-and-transcribe-your-phone-calls.2428741/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Brings New Insights, Widgets, and Health Integration to Apple&#039;s Journal App</title>
+		<link>https://www.macrumors.com/2024/06/10/ios-18-brings-new-insights-to-journal-app/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-brings-new-insights-widgets-and-health-integration-to-apples-journal-app.2428736/</comments>
+		<pubDate>Mon, 10 Jun 2024 14:46:44 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/ios-18-brings-new-insights-to-journal-app/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> introduces a host of new features for the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>’s Journal app, including an all-new insights view, advanced search and sort functionalities, and integration with the Health app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/ios-18-journal-app.jpg" alt="" width="4800" height="2700" class="alignnone size-full wp-image-954669" /><br/>
+The all-new insights view offers a comprehensive overview of journaling activities. This includes tracking writing streaks, displaying a calendar with existing entries, and providing fun statistics that encourage users to write more frequently. <br/>
+<br/>
+The updated Journal app now includes advanced search and sort functionalities. Users can easily locate specific entries and organize their journal for easier accessibility. <br/>
+<br/>
+Time spent journaling can now be recorded as mindful minutes and users can log their state of mind directly within the Journal app.<br/>
+<br/>
+Apple has introduced new widgets for the Journal app, available on both the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> and Lock Screen. These widgets allow users to quickly start a new entry, view their current streaks, and receive writing prompts throughout the day. <br/>
+<br/>
+The Journal app also gains automatic transcription for audio recordings, allowing users to capture their thoughts and ideas verbally, with the app converting spoken words into text entries. <br/>
+<br/>
+The app now supports exporting of journal entries, allowing users to save entries offline or share them in printed form.<br/>
+<br/>
+The Journal app made its debut on the &zwnj;iPhone&zwnj; in December 2023, but it remains unavailable in iPadOS 18 and macOS Sequoia.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/ios-18-brings-new-insights-to-journal-app/">iOS 18 Brings New Insights, Widgets, and Health Integration to Apple&#039;s Journal App</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-brings-new-insights-widgets-and-health-integration-to-apples-journal-app.2428736/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Introduces More Charging Limit Options on iPhone 15 Models: 85%, 90%, and 95%</title>
+		<link>https://www.macrumors.com/2024/06/10/ios-18-introduces-more-charging-limits/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-introduces-more-charging-limit-options-on-iphone-15-models-85-90-and-95.2428718/</comments>
+		<pubDate>Mon, 10 Jun 2024 13:45:42 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/ios-18-introduces-more-charging-limits/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[All four iPhone 15 models feature a setting that <a href="https://www.macrumors.com/2023/09/19/iphone-15-80-percent-battery-limit-option/">prevents the devices from charging beyond 80%</a> while toggled on, which can potentially improve an iPhone battery's lifespan by reducing the time that the battery is fully charged. And with iOS 18, Apple has taken this feature a step further by adding new 85%, 90%, and 95% charging limit options.<br/>
+<br/>
+<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Custom-Emoji-Tapback-Feature-2-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-954637" /><em>Screenshot: <a href="https://www.macrumors.com/author/aaron-perris/">Aaron Perris</a></em></div><br/>
+The feature can be found in the Settings app under Battery → Charging.<br/>
+<br/>
+The charging limit feature remains exclusive to the iPhone 15 lineup on the first iOS 18 beta, with the option not found on the iPhone 14 Pro or older.<br/>
+<br/>
+The <a href="https://www.macrumors.com/2024/06/10/apple-first-developer-betas-new-software/">first iOS 18 beta</a> is now available for Apple Developer Program members, and a public beta will follow in July. Following beta testing, the update should be widely released to all users with an iPhone XS or newer in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/ios-18-introduces-more-charging-limits/">iOS 18 Introduces More Charging Limit Options on iPhone 15 Models: 85%, 90%, and 95%</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-introduces-more-charging-limit-options-on-iphone-15-models-85-90-and-95.2428718/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Lets You Swap Out Lock Screen Camera and Flashlight Buttons</title>
+		<link>https://www.macrumors.com/2024/06/10/ios-18-swap-out-lock-screen-buttons/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-lets-you-swap-out-lock-screen-camera-and-flashlight-buttons.2428710/</comments>
+		<pubDate>Mon, 10 Jun 2024 13:22:25 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/ios-18-swap-out-lock-screen-buttons/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> allows users to change the two shortcut buttons on the Lock Screen to an action of their choice for the first time.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/ios-18-lock-screen-buttons.jpg" alt="" width="1600" height="900" class="alignnone size-full wp-image-954622" /><br/>
+Users can now swap out the two controls at the bottom of the Lock Screen for a different action of their choosing. Shortcuts to functions like Translate, Notes, and music recognition in Shazam, and more are available. The full list of actions is as follows:<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here are all the options to replace the camera and flashlight buttons on the Lock Screen on iOS 18 <a href="https://t.co/ZS6j5xWQzF">pic.twitter.com/ZS6j5xWQzF</a></p>&mdash; Aaron (@aaronp613) <a href="https://twitter.com/aaronp613/status/1800257722673181161?ref_src=twsrc%5Etfw">June 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+<br/>
+These new controls can also be accessed via the Action Button on the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and &zwnj;iPhone 15 Pro&zwnj; Max.<br/>
+<br/>
+The ability to change these Lock Screen controls is part of a wave of new customization features in &zwnj;iOS 18&zwnj;, which includes app icon color-changing capabilities and more. The first developer beta of &zwnj;iOS 18&zwnj; is now available, with the public beta set to follow in July and the official release scheduled for the fall. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/ios-18-swap-out-lock-screen-buttons/">iOS 18 Lets You Swap Out Lock Screen Camera and Flashlight Buttons</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-lets-you-swap-out-lock-screen-camera-and-flashlight-buttons.2428710/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>tvOS 18 Compatible With Apple TV HD Released Nearly Nine Years Ago</title>
+		<link>https://www.macrumors.com/2024/06/10/tvos-18-compatible-apple-tv-models/</link>
+		<comments>https://forums.macrumors.com/threads/tvos-18-compatible-with-apple-tv-hd-released-nearly-nine-years-ago.2428705/</comments>
+		<pubDate>Mon, 10 Jun 2024 13:08:39 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/tvos-18-compatible-apple-tv-models/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple TV</category>
+		
+
+		<description><![CDATA[Here is something that Apple TV HD owners probably didn't expect when they purchased the device all the way back in 2015: it continues to receive software updates.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-870258" /><br/>
+Apple's developer website confirms that the tvOS 18 update unveiled today is compatible with all Apple TV HD and Apple TV 4K models.<br/>
+<br/>
+tvOS 18 compatibility list:<br/>
+<br/>
+<ul><li>Apple TV HD (2015)</li><br/>
+<li>Apple TV 4K (2017)</li><br/>
+<li>Apple TV 4K (2nd Generation) (2021)</li><br/>
+<li>Apple TV 4K (3rd Generation) (2022)</li></ul><br/>
+<br/>
+tvOS 18 introduces a new InSight feature, includes updates to Enhance Dialogue and subtitles, adds new screen savers, supports 21:9 video playback for playing movies and shows on projectors, and more, as outlined in <a href="https://www.macrumors.com/2024/06/10/tvos-gaining-insight-feature/">our coverage of the update</a>.<br/>
+<br/>
+The first tvOS 18 developer beta is available for Apple Developer Program members starting today, and Apple said that a public beta will follow in July. The update should be widely released to all users with a compatible Apple TV in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/tvos-18-compatible-apple-tv-models/">tvOS 18 Compatible With Apple TV HD Released Nearly Nine Years Ago</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tvos-18-compatible-with-apple-tv-hd-released-nearly-nine-years-ago.2428705/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>You Can Send Texts via Satellite in iOS 18</title>
+		<link>https://www.macrumors.com/2024/06/10/you-can-send-texts-via-satellite-in-ios-18/</link>
+		<comments>https://forums.macrumors.com/threads/you-can-send-texts-via-satellite-in-ios-18.2428704/</comments>
+		<pubDate>Mon, 10 Jun 2024 13:08:17 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/you-can-send-texts-via-satellite-in-ios-18/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[With <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, Apple is expanding the Emergency SOS via satellite feature to introduce Messages via satellite, a feature that will let you send texts even when you don't have a Wi-Fi or cellular connection.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/messages-via-satellite.jpg" alt="" width="2226" height="1252" class="aligncenter size-full wp-image-954617" /><br/>
+Available on the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> or later, you can send and receive iMessages or SMS messages using a satellite connection. The feature works with all iMessage features such as emoji and Tapbacks, plus with iMessage, conversations are end-to-end encrypted.<br/>
+<br/>
+Messages via satellite will work on the &zwnj;iPhone 14&zwnj; and later, aka the same devices that support Emergency SOS via satellite. Apple did not specify whether there will be a cost for Messages via satellite, but Emergency SOS via satellite is still free for all &zwnj;iPhone 14&zwnj; users for a <a href="https://www.macrumors.com/2023/11/15/emergency-sos-extra-year-iphone-14/">total of three years</a>.<br/>
+<br/>
+Apple has said it eventually plans to charge for satellite services, but no pricing has been unveiled. The <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models also came with two free years of satellite access.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/you-can-send-texts-via-satellite-in-ios-18/">You Can Send Texts via Satellite in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/you-can-send-texts-via-satellite-in-ios-18.2428704/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>RCS Coming to Messages in iOS 18 for Improved Texts With Android Users</title>
@@ -104,7 +363,6 @@ Apple is adding Voice Isolation to the &zwnj;AirPods Pro&zwnj; to cut down on lo
 		<category>Apple Watch</category>
 		<category>Apple Watch SE</category>
 		<category>Apple Watch Ultra</category>
-		<category>Featured</category>
 		
 
 		<description><![CDATA[As was <a href="https://www.macrumors.com/2024/06/10/watchos-11-compatibility-rumor/">rumored</a>, watchOS 11 drops support for the Apple Watch Series 4, Apple Watch Series 5, and first-generation Apple Watch SE, according to <a href="https://www.apple.com/watchos/watchos-preview/">Apple's website</a>.<br/>
@@ -135,7 +393,7 @@ The general public can expect watchOS 11 to be released in September.<div class=
 		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/apple-intelligence-ios-18-beta/</guid>
 		<dc:creator>Juli Clover</dc:creator>
 		<category>iOS 18</category>
-		<category>macOS 15</category>
+		<category>macOS Sequoia</category>
 		
 
 		<description><![CDATA[At <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a>, Apple introduced an onslaught of <a href="https://www.apple.com/apple-intelligence/">Apple Intelligence features</a> that integrate AI into everything from <a href="https://www.macrumors.com/guide/siri/">Siri</a> to built-in apps like Mail, Messages, and <a href="https://www.macrumors.com/guide/photos/">Photos</a>. Apple Intelligence is still under development, and it won't immediately be available to developers.<br/>
@@ -160,7 +418,7 @@ On the Mac side, you need a Mac with an <a href="https://www.macrumors.com/guide
 		<category>Apple TV</category>
 		<category>Featured</category>
 		<category>iOS 18</category>
-		<category>macOS 15</category>
+		<category>macOS Sequoia</category>
 		<category>visionOS</category>
 		<category>watchOS</category>
 		
@@ -289,280 +547,6 @@ Apple Developer Program members can test all of the new updates starting today, 
 ChatGPT will also be available in Apple's new systemwide Writing Tools to help users generate content for anything they're writing about. With Compose, users can similarly access ChatGPT image tools to generate images in a range of styles to compliment their writing.<br/>
 <br/>
 &zwnj;Siri&zwnj; will leverage GPT-4o for free, with no need to create an account. Requests are not logged and IP addresses are obscured. ChatGPT subscribers will also be able to access paid features within the experiences.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/siri/">Siri</a>, <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/siri-can-access-chatgpt-with-ios-18/">Siri Can Access ChatGPT Directly With iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/siri-can-access-chatgpt-directly-with-ios-18.2428665/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Unveils &#039;Image Playground&#039; On-Device AI Image Generator</title>
-		<link>https://www.macrumors.com/2024/06/10/apple-unveils-image-playground-ai/</link>
-		<comments>https://forums.macrumors.com/threads/apple-unveils-image-playground-on-device-ai-image-generator.2428662/</comments>
-		<pubDate>Mon, 10 Jun 2024 11:38:38 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/apple-unveils-image-playground-ai/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>WWDC 2024</category>
-		
-
-		<description><![CDATA[As part of Apple Intelligence, Apple has unveiled a new Image Playground feature that allows you to create generative images on the fly using a range of concepts like themes, costumes, accessories, places, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-WWDC24-Apple-Intelligence-Image-Playground-240610.jpg" alt="" width="1960" height="1400" class="aligncenter size-full wp-image-954533" /><br/>
-You can type a description, and choose from Animation, Illustration, or Sketch, and Image Playground will create the image tailored to your preferences. Previews are created on-device, and your generative images are accessible in Messages, Pages, Freeform, and even a dedicated Image Playground app.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/wwdc-2024/">WWDC 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/apple-unveils-image-playground-ai/">Apple Unveils &#039;Image Playground&#039; On-Device AI Image Generator</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-unveils-image-playground-on-device-ai-image-generator.2428662/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18&#039;s New &#039;Genmoji&#039; Feature Lets You Create Your Own Emoji</title>
-		<link>https://www.macrumors.com/2024/06/10/ios-18-genmoji/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18s-new-genmoji-feature-lets-you-create-your-own-emoji.2428660/</comments>
-		<pubDate>Mon, 10 Jun 2024 11:36:07 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/ios-18-genmoji/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		<category>WWDC</category>
-		<category>Messages</category>
-		<category>Genmoji</category>
-		
-
-		<description><![CDATA[One of the new Apple Intelligence features coming to the iPhone with iOS 18 is Genmoji, which allows you to instantly create your own custom emoji.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Genmoji-iOS-18.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954516" /><br/>
-The emoji can be created with text prompts like "t-rex wearing a tutu on a surfboard."<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Genmoji-iOS-18-Two.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954517" /><br/>
-Read our <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/">full coverage of Apple Intelligence</a> to learn more.<br/>
-<br/>
-Genmoji will be able to be used in the Messages app.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/messages/">Messages</a>, <a href="https://www.macrumors.com/guide/genmoji/">Genmoji</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-inc-and-tech-industry.8">Apple, Inc and Tech Industry</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/ios-18-genmoji/">iOS 18&#039;s New &#039;Genmoji&#039; Feature Lets You Create Your Own Emoji</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18s-new-genmoji-feature-lets-you-create-your-own-emoji.2428660/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iMessage on iOS 18: Bold, Underline, Italics, Emoji Tapbacks, and More</title>
-		<link>https://www.macrumors.com/2024/06/10/ios-18-imessage-features/</link>
-		<comments>https://forums.macrumors.com/threads/imessage-on-ios-18-bold-underline-italics-emoji-tapbacks-and-more.2428656/</comments>
-		<pubDate>Mon, 10 Jun 2024 11:17:25 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/ios-18-imessage-features/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		<category>WWDC</category>
-		<category>Messages</category>
-		
-
-		<description><![CDATA[Apple today previewed iOS 18 with several new features for the Messages app, including text effects, emoji tapbacks, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iMessage-iOS-18-1.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954499" /><br/>
-iMessage is finally getting bold, italics, underline, and strikeout options, along with all-new text effects that allow you to animate individual words in a message.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iMessage-iOS-18-2.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954501" /><br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iMessage-iOS-18-3.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954500" /><br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iMessage-iOS-18-4.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954505" /><br/>
-Apple has redesigned the Tapback icons like the heart, thumbs up, thumbs down, and exclamation marks to be more colorful on iOS 18, and the Tapback system now works with any emoji too.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/messages/">Messages</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-inc-and-tech-industry.8">Apple, Inc and Tech Industry</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/ios-18-imessage-features/">iMessage on iOS 18: Bold, Underline, Italics, Emoji Tapbacks, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/imessage-on-ios-18-bold-underline-italics-emoji-tapbacks-and-more.2428656/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>&#039;Apple Intelligence&#039; Personal AI Unveiled for iPhone, iPad, and Mac</title>
-		<link>https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/</link>
-		<comments>https://forums.macrumors.com/threads/apple-intelligence-personal-ai-unveiled-for-iphone-ipad-and-mac.2428655/</comments>
-		<pubDate>Mon, 10 Jun 2024 11:13:06 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		<category>New Banner (Featured)</category>
-		<category>WWDC 2024</category>
-		<category>Apple Intelligence</category>
-		
-
-		<description><![CDATA[Apple at WWDC today announced Apple Intelligence, a deeply integrated, personalized AI experience for Apple devices that uses cutting-edge generative artificial intelligence to enhance user experiences across <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and Mac.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-WWDC24-Apple-Intelligence-hero-240610.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-954530" /><br/>
-Apple says that Apple Intelligence "combines the power of generative models with personal context to deliver intelligence that's incredibly useful and relevant." Baked into <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, iPadOS 18, and macOS Sequoia, it can create language and images, take action across apps, and draw from personal context to simplify and accelerate everyday tasks. And with Private Cloud Compute, Apple is focused on delivering AI based on privacy, with the ability to flex and scale computational capacity between on-device processing and larger, server-based models that run on dedicated Apple silicon servers.<br/>
-<blockquote>"We're thrilled to introduce a new chapter in Apple innovation. Apple Intelligence will transform what users can do with our products — and what our products can do for our users," said Tim Cook, Apple’s CEO. "Our unique approach combines generative AI with a user's personal context to deliver truly helpful intelligence. And it can access that information in a completely private and secure way to help users do the things that matter most to them. This is AI as only Apple can deliver it, and we can't wait for users to experience what it can do."</blockquote>Top of the features list are new ways for users to enhance their writing and communicate more effectively. Apple says that with brand-new systemwide Writing Tools built into &zwnj;iOS 18&zwnj;, iPadOS 18, and macOS Sequoia, users can rewrite, proofread, and summarize text nearly everywhere they write, including Mail, Notes, Pages, and third-party apps.<br/>
-<br/>
-For example, with Rewrite, Apple Intelligence allows users to choose from different versions of what they have written, and then adjust the tone "to suit the audience and task at hand." According to Apple, the Rewrite feature helps users deliver the right words to meet the occasion, whether that's finessing a cover letter, or adding humor and creativity to a party invitation. A new Proofread option checks grammar, word choice, and sentence structure while also suggesting edits — along with explanations of the edits — that users can review or quickly accept. And with Summarize, users can select text and have it recapped in the form of a digestible paragraph, bulleted key points, a table, or a list.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-WWDC24-Apple-Intelligence-Writing-Tools-240610.jpg" alt="" width="1960" height="1400" class="aligncenter size-full wp-image-954542" /><br/>
-In Mail, a new section at the top of the inbox called Priority Messages shows your most urgent emails, like a same-day dinner invitation or boarding pass. But instead of previewing the first few lines of each email, you can see summaries without needing to open a message. Meanwhile, for long threads, you can view pertinent details with a tap. There's also a Smart Reply feature that offers suggestions for a quick response. The feature also identifiwa questions in an email to ensure everything is answered, according to Apple. <br/>
-<br/>
-Elsewhere, a new Priority Notifications feature surfaces alerts at the top of the stack to show what's most important to you, and summaries help you scan long or stacked notifications to show key details right on the Lock Screen, such as when a group chat is particularly active. To help users stay present in what they are doing, there's also a new Focus called Reduce Interruptions that surfaces only the notifications that might need immediate attention, like a text about an early pickup from daycare.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/notification-summaries.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-954554" /><br/>
-In the Notes and Phone apps, Apple Intelligence allows users to record, transcribe, and summarize audio. When a recording is initiated while on a call, participants are automatically notified, and once the call ends, Apple Intelligence generates a summary to help recall key points. A new Image Playground feature also allows users to choose from a range of concepts from categories like themes, costumes, accessories, and places to create their own images for sharing in Messages, Notes, Keynote, Freeform, and Pages, and third-party apps that support the new Image Playground API.<br/>
-<br/>
-Taking emoji to new places, users can also create an original Genmoji to express themselves. By simply typing a description, their Genmoji appears, along with additional options. Users can also create Genmoji of friends and family based on their photos. Just like emoji, Genmoji can be added inline to messages, or shared as a sticker or reaction in a Tapback.<br/>
-<br/>
-Switching to the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app, natural language can be used to search for specific photos, such as "Maya skateboarding in a tie-dye shirt," or "Katie with stickers on her face." Search in videos also becomes more powerful with the ability to find specific moments in clips so users can go right to the relevant segment. Additionally, the new Clean Up tool can identify and remove distracting objects in the background of a photo, without accidentally altering the subject, according to Apple.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-WWDC24-Apple-Intelligence-Memory-movie-240610.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-954563" /><blockquote>With Memories, users can create the story they want to see by simply typing a description. Using language and image understanding, Apple Intelligence will pick out the best photos and videos based on the description, craft a storyline with chapters based on themes identified from the photos, and arrange them into a movie with its own narrative arc. Users will even get song suggestions to match their memory from Apple Music. As with all Apple Intelligence features, user photos and videos are kept private on device and are not shared with Apple or anyone else.</blockquote>Apple is also emphasizing cross-platform enhancements to <a href="https://www.macrumors.com/guide/siri/">Siri</a>, which is said to be "more natural, more contextually relevant, and more personal, with the ability to simplify and accelerate everyday tasks." For example, it can follow along if users stumble over words and maintain context from one request to the next. Additionally, users can type to &zwnj;Siri&zwnj;, and switch between text and voice to communicate with &zwnj;Siri&zwnj; however they like. &zwnj;Siri&zwnj; also has a brand-new design, suggestive of its new capabilities, with a glowing light that wraps around the edge of the screen when &zwnj;Siri&zwnj; is active.<br/>
-<br/>
-&zwnj;Siri&zwnj; can answer queries about how to do something on &zwnj;iPhone&zwnj;, &zwnj;iPad&zwnj;, and Mac, and with onscreen awareness, &zwnj;Siri&zwnj; will be able to understand and take action with users' content in more apps over time, according to Apple. For example, if a friend texts a user their new address in Messages, the receiver can say, "Add this address to his contact card," and &zwnj;Siri&zwnj; will do just that. Similar actions will extend across Apple and third-party apps.<br/>
-<blockquote>Siri will be able to deliver intelligence that’s tailored to the user and their on-device information. For example, a user can say, “Play that podcast that Jamie recommended,” and Siri will locate and play the episode, without the user having to remember whether it was mentioned in a text or an email. Or they could ask, “When is Mom’s flight landing?” and Siri will find the flight details and cross-reference them with real-time flight tracking to give an arrival time.</blockquote>Thanks to on-device processing, Apple says its AI features are aware of your personal data without collecting your data. And when it needs more compute capacity, it sends only the data needed to fulfill the request to Apple's Private Cloud Compute servers, which share the same privacy and security capabilities of your &zwnj;iPhone&zwnj;, according to Apple. <br/>
-<br/>
-To verify privacy, Apple says that independent experts can inspect the code that runs on Apple silicon servers, and Private Cloud Compute cryptographically ensures that &zwnj;iPhone&zwnj;, &zwnj;iPad&zwnj;, and Mac do not talk to a server unless its software has been publicly logged for inspection. "Apple Intelligence with Private Cloud Compute sets a new standard for privacy in AI, unlocking intelligence users can trust," says Apple. <br/>
-<br/>
-Apple is integrating ChatGPT access into experiences within &zwnj;iOS 18&zwnj;, iPadOS 18, and macOS Sequoia, allowing users to access its expertise — as well as its image- and document-understanding capabilities — without needing to jump between tools. Apple says users are asked before any questions are sent to ChatGPT, along with any documents or photos, and &zwnj;Siri&zwnj; then presents the answer directly.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-WWDC24-Apple-Intelligence-ChatGPT-Writing-Tools-Compose-prompt-240610.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-954569" /><br/>
-Additionally, ChatGPT will be available in Apple's systemwide Writing Tools to help users generate content for anything they are writing about. For example, with Compose, users will also be able to access ChatGPT image tools to generate images in a variety of styles to complement what they are writing.<br/>
-<br/>
-Apple says that ChatGPT will come to &zwnj;iOS 18&zwnj;, iPadOS 18, and macOS Sequoia later this year, powered by GPT-4o. Users can access it for free without creating an account, and ChatGPT subscribers can connect their accounts and access paid features right from these experiences.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/wwdc-2024/">WWDC 2024</a>, <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/">&#039;Apple Intelligence&#039; Personal AI Unveiled for iPhone, iPad, and Mac</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-intelligence-personal-ai-unveiled-for-iphone-ipad-and-mac.2428655/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>tvOS 18 Adds &#039;InSight&#039; to Identify Actors and Songs in Apple TV+ Shows, Plus &#039;Enhanced Dialogue&#039; Feature and More</title>
-		<link>https://www.macrumors.com/2024/06/10/tvos-gaining-insight-feature/</link>
-		<comments>https://forums.macrumors.com/threads/tvos-18-adds-insight-to-identify-actors-and-songs-in-apple-tv-shows-plus-enhanced-dialogue-feature-and-more.2428652/</comments>
-		<pubDate>Mon, 10 Jun 2024 10:56:29 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/tvos-gaining-insight-feature/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>WWDC 2024</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2024/06/updates-to-the-home-experience-elevate-entertainment-and-bring-more-convenience/">announced</a> that tvOS 18 is gaining a feature called "InSight," which helps you find more information about all of the actors and songs in the current <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a> show or movie you're watching. InSight will only be available on &zwnj;Apple TV+&zwnj; content.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/f-c0756092e0ae6fd8d8add09562de18179d8bd899.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954478" /><br/>
-Apple said that InSight is connected to your <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> account. This way, if you hear a song you like in an &zwnj;Apple TV+&zwnj; show, you can use InSight to find out what it is, and immediately add it to your &zwnj;Apple Music&zwnj; library.<br/>
-<br/>
-Additionally, tvOS 18 is getting a smarter "Enhance Dialogue" feature for TV speakers and receivers, AirPods, and other Bluetooth devices. This feature uses machine learning to give greater vocal clarity to voices in shows and movies.<br/>
-<br/>
-A few other new tvOS additions include:<br/>
-<br/>
-<ul><li>Subtitles will automatically appear if you mute the volume or go back a few seconds</li><br/>
-<li>Adding support for the 21:9 format for projectors on <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></li><br/>
-<li>Redesigned Apple Fitness+ experience</li><br/>
-<li>New Portraits category for screen savers</li><br/>
-<li>New TV+ shows and movies category for screen savers</li><br/>
-<li>New Snoopy screen saver</li></ul><br/>
-<br/>
-These new features will be coming to tvOS 18 later in 2024.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/wwdc-2024/">WWDC 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/tvos-gaining-insight-feature/">tvOS 18 Adds &#039;InSight&#039; to Identify Actors and Songs in Apple TV+ Shows, Plus &#039;Enhanced Dialogue&#039; Feature and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tvos-18-adds-insight-to-identify-actors-and-songs-in-apple-tv-shows-plus-enhanced-dialogue-feature-and-more.2428652/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Unveils macOS 15 Sequoia With iPhone Mirroring, Passwords App, More</title>
-		<link>https://www.macrumors.com/2024/06/10/apple-announces-macos-sequoia/</link>
-		<comments>https://forums.macrumors.com/threads/apple-unveils-macos-15-sequoia-with-iphone-mirroring-passwords-app-more.2428651/</comments>
-		<pubDate>Mon, 10 Jun 2024 10:56:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/apple-announces-macos-sequoia/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>macOS 15</category>
-		<category>WWDC 2024</category>
-		
-
-		<description><![CDATA[Apple at WWDC today announced <a href="https://www.macrumors.com/roundup/macos-15/">macOS 15</a> Sequoia, featuring several of the new capabilities introduced in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> in addition to a new Continuity feature called <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Mirroring. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/sequoia.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954485" /><br/>
-&zwnj;iPhone&zwnj; Mirroring allows you to view and control your &zwnj;iPhone&zwnj; from your Mac. Your &zwnj;iPhone&zwnj; can be mirrored to your Mac, showing everything, including icons, the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a>, apps, and more. Any app can be opened direct from the Mac, and your &zwnj;iPhone&zwnj;'s audio even comes through to Mac. All the while, your &zwnj;iPhone&zwnj; can stay locked, so nobody else can access it. You can even drag and drop items and files from your Mac to your &zwnj;iPhone&zwnj; seamlessly.<br/>
-<br/>
-&zwnj;macOS 15&zwnj; also brings &zwnj;iPhone&zwnj; notifications to Mac, where they appear alongside Mac notifications. In addition, macOS now automatically sizes windows to tile them and fill up the screen, utilizing maximum screen real estate. <br/>
-<br/>
-&zwnj;macOS 15&zwnj; also includes a new dedicated Passwords app, allowing you to manage Wi-Fi passwords, app and website passwords, verification codes, and more. Passwords sync across devices, and macOS uses autofill to populate passwords in the Passwords app. The Passwords app is also available on Windows, thanks to the <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> for Windows app. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-15/">macOS 15</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/wwdc-2024/">WWDC 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/apple-announces-macos-sequoia/">Apple Unveils macOS 15 Sequoia With iPhone Mirroring, Passwords App, More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-unveils-macos-15-sequoia-with-iphone-mirroring-passwords-app-more.2428651/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Unveils Calculator App for iPad With Math Notes, Apple Pencil Support</title>
-		<link>https://www.macrumors.com/2024/06/10/apple-calculator-ipad-apple-pencil/</link>
-		<comments>https://forums.macrumors.com/threads/apple-unveils-calculator-app-for-ipad-with-math-notes-apple-pencil-support.2428646/</comments>
-		<pubDate>Mon, 10 Jun 2024 10:52:12 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/apple-calculator-ipad-apple-pencil/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iOS 18</category>
-		<category>WWDC 2024</category>
-		
-
-		<description><![CDATA[Apple at WWDC today announced a new Calculator app as part of iPadOS 18 that features special <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> support and a new Math Notes feature.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/calculator-app-ipad.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954479" /><br/>
-Apple says the Math Notes calculator allows users to type or write out mathematical expressions and see them instantly solved in their own handwriting. It's also possible to assign values to variables when learning new concepts in class, calculating a budget, and more. <br/>
-<br/>
-With a new graphing feature, users can write or type an equation and insert a graph with just one tap, and can even add multiple equations on the same graph to see how they relate, according to Apple. Math Notes are also automatically accessible in the Notes app in a new Math Notes folder.<br/>
-<br/>
-Basic and scientific calculators are included in the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> app that are designed to make it easy to view complete expressions before completing them. Meanwhile, a History feature helps users keep track of previous calculations, and unit conversions let users quickly convert length, weight, currencies, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/ipados-18-math-notes.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954476" /><br/>
-The first developer beta of iPadOS 18 is available starting today, with a public beta following in July, and official release to the public in the fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/wwdc-2024/">WWDC 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/apple-calculator-ipad-apple-pencil/">Apple Unveils Calculator App for iPad With Math Notes, Apple Pencil Support</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-unveils-calculator-app-for-ipad-with-math-notes-apple-pencil-support.2428646/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Unveils iPadOS 18 With New Calculator App, Tab Bar, and More</title>
-		<link>https://www.macrumors.com/2024/06/10/apple-unveils-ipados-18-with-new-calculator-app-and-more/</link>
-		<comments>https://forums.macrumors.com/threads/apple-unveils-ipados-18-with-new-calculator-app-tab-bar-and-more.2428645/</comments>
-		<pubDate>Mon, 10 Jun 2024 10:50:21 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/apple-unveils-ipados-18-with-new-calculator-app-and-more/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		<category>New Banner (Featured)</category>
-		
-
-		<description><![CDATA[Apple <a href="https://www.apple.com/newsroom/2024/06/ipados-18-introduces-powerful-intelligence-features-and-apps-for-apple-pencil/">today previewed</a> iPadOS 18, a major update to the operating system for the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> that introduces a new Calendar app, a redesigned systemwide tab bar, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/ipados-18-math-notes.jpg" alt="" width="1600" height="900" class="alignnone size-full wp-image-954476" /><br/>
-iPadOS 18 brings over many of the new features and improvements introduced in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> to the &zwnj;iPad&zwnj; such as the redesigned <a href="https://www.macrumors.com/guide/photos/">Photos</a> app and new <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> customization tools.<br/>
-<br/>
-In iPadOS 18, a new floating tab bar morphs into the navigation sidebar. The tab bar is also customizable to keep favourites within easy reach. It is available across the system. There is also a new document browser in Pages, Numbers, and Keynote.<br/>
-<br/>
-iPadOS 18 also brings the Calculator app to the &zwnj;iPad&zwnj; for the first time, with new features like history and unit conversions. Math notes allows users to solve expressions when writing with the <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a>.<br/>
-<br/>
-Math notes enable users to hand-write expressions and automatically calculate the answer, displaying it in handwriting that's like their own. Users can use basic or scientific math, and notes can be saved for later. Variables are supported, allowing you to solve algebraic equations. They can be edited to see results change in real time, and even generate a graph.<br/>
-<br/>
-Notes has the same math capabilities from Calculator. Notes also gains new Smart Script capabilities that automatically improve your handwriting as you write.<br/>
-<br/>
-SharePlay now allows users to tap and draw on the screen when sharing, and you can remotely control someone else's &zwnj;iPad&zwnj; or <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>.<br/>
-<br/>
-iPadOS 18 also includes refined animations across the UI, making them feel even more responsive. There are new APIs for developers to integrate these animations.<br/>
-<br/>
-The first developer beta of iPadOS 18 is available starting today, with a public beta following in July, and official release to the public in the fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/apple-unveils-ipados-18-with-new-calculator-app-and-more/">Apple Unveils iPadOS 18 With New Calculator App, Tab Bar, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-unveils-ipados-18-with-new-calculator-app-tab-bar-and-more.2428645/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Previews watchOS 11 With New Health and Workout Features</title>
-		<link>https://www.macrumors.com/2024/06/10/apple-previews-watchos-11-with-new-health-and-workout-features/</link>
-		<comments>https://forums.macrumors.com/threads/apple-previews-watchos-11-with-new-health-and-workout-features.2428643/</comments>
-		<pubDate>Mon, 10 Jun 2024 10:43:59 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/apple-previews-watchos-11-with-new-health-and-workout-features/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>New Banner (Featured)</category>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[Apple <a href="https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/">today previewed</a> watchOS 11, the next major software update for the Apple Watch that introduces several new health and workout features.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/watchos-11-training-load.jpg" alt="" width="1600" height="900" class="alignnone size-full wp-image-954466" /><br/>
-Activity Rings can now be adjusted by day of the week and paused for a rest day, allowing users to keep their award streak going. Users can set workouts to alert a friend that they have been safely completed, such as a late-night run.<br/>
-<br/>
-watchOS 11 includes a new "training load" feature, helping users to track intensity over time. A new algorithm uses heart rate, altitude, workout duration, and age and weight data to give a calculation of your estimated effort rating and training load.<br/>
-<br/>
-A new Vitals app provides an overview of daily health, comparing daily health statistics to historical data and highlighting when health data is outside your typical range. If multiple metrics are out of range, you will receive a tailored message to see how they could be affecting you.<br/>
-<br/>
-Cycle tracking now shows estimates of gestational age, showing pregnancy across charts to review metrics like high heart rate notification thresholds.<br/>
-<br/>
-<a href="https://www.macrumors.com/guide/home-screen/">Widgets</a> will be automatically added to the Smart Stack. For example, the Translate app will show automatically when you go to a different country and the Weather app will show up when rain is imminent. watchOS 11 also brings Live Activities to the Apple Watch for the first time.<br/>
-<br/>
-An improved <a href="https://www.macrumors.com/guide/photos/">Photos</a> watch face gives users more control and uses machine learning to automatically crop photos. The update also brings the Translate app to the Apple Watch.<br/>
-<br/>
-The first developer beta of watchOS 11 is available starting today, with a public beta following in July, and official release to the public in the fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/apple-previews-watchos-11-with-new-health-and-workout-features/">Apple Previews watchOS 11 With New Health and Workout Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-previews-watchos-11-with-new-health-and-workout-features.2428643/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18: New Control Center Features Multiple Customizable Screens</title>
-		<link>https://www.macrumors.com/2024/06/10/apple-ios-18-control-center-multiple-screens/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-new-control-center-features-multiple-customizable-screens.2428642/</comments>
-		<pubDate>Mon, 10 Jun 2024 10:42:31 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/10/apple-ios-18-control-center-multiple-screens/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iOS 18</category>
-		<category>WWDC 2024</category>
-		
-
-		<description><![CDATA[Apple at WWDC has announced <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, which includes an overhauled Control Center interface with new customization features and the ability to add multiple control screens.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/ios-18-control-center.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-954582" /><br/>
-In &zwnj;iOS 18&zwnj;, Control Center has been redesigned to provide easier access to many of the things users do every day, and it gets new levels of customization and flexibility. <br/>
-<br/>
-The redesign delivers quick access to new groups of a user's most-utilized controls, such as media playback, Home controls, and connectivity, as well as the ability to easily swipe between each.<br/>
-<br/>
-In &zwnj;iOS 18&zwnj;, when you invoke Control Center with a swipe down from the top-right of your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>'s screen, you can continuously swipe to get to more control center screens. There's a new controls gallery that lets you customize the controls you see, and you can change the size of buttons to emphasize priority. Additionally, developers can include controls from their own apps, enabling quick access to controls like remotely starting a car, for example.<br/>
-<br/>
-The new Controls API from Apple also allows you to switch up the controls on your &zwnj;iPhone&zwnj;'s lock screen, so you can replace the traditional flashlight and camera buttons with something more convenient to you. And if you have an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, you can also assign Control Center buttons to the physical Action button.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/wwdc-2024/">WWDC 2024</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/10/apple-ios-18-control-center-multiple-screens/">iOS 18: New Control Center Features Multiple Customizable Screens</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-new-control-center-features-multiple-customizable-screens.2428642/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
