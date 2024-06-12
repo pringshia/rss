@@ -14,12 +14,91 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 12 Jun 2024 09:02:32 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 12 Jun 2024 13:03:17 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 18 Will Let You Activate Third-Party Camera From iPhone&#039;s Lock Screen or Action Button</title>
+		<link>https://www.macrumors.com/2024/06/12/ios-18-activate-camera-app-lock-screen/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-will-let-you-activate-third-party-camera-from-iphones-lock-screen-or-action-button.2429039/</comments>
+		<pubDate>Wed, 12 Jun 2024 12:04:33 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/12/ios-18-activate-camera-app-lock-screen/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 18</category>
+		<category>Apple Developer Program</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> includes a new <a href="https://developer.apple.com/documentation/lockedcameracapture">LockedCameraCapture framework</a> for developers, which will bring some useful new functionality to third-party apps with camera features. The update will let a third-party camera app be opened directly from the Lock Screen.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iphone-locked-camera-capture.jpg" alt="" width="852" height="480" class="aligncenter size-full wp-image-955234" /><br/>
+The expansion of Control Center in &zwnj;iOS 18&zwnj; allows for third-party apps to be added to Control Center for quick access, and Control Center integrates with both the Lock Screen and the Action button. With this integration, third-party camera apps such as Halide will be able to create a Control Center camera button, which can then be added to the Control Center and stored in the new Control Center gallery.<br/>
+<br/>
+The Lock Screen's standard Camera and Flashlight quick access buttons can be replaced with other Control Center integrations, including third-party ones, plus the Action button can be set to a Control Center control. So the ultimate result of all of this interconnection is the option to have a quick access camera button for a third-party camera app on the Lock Screen, rather than being limited to Apple's built-in Camera.<br/>
+<br/>
+Further, with the specific LockedCameraCapture framework, the third-party camera app will be able to be opened into camera mode while an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> is locked, mimicking the functionality that's available with the standard Camera app.<br/>
+<blockquote>Use the LockedCameraCapture framework to create an extension that allows people to launch your app's camera experience and capture content quickly when the device is locked. This extension makes your camera experience accessible to people from Control Center, the Lock Screen, or the Action button.</blockquote><br/>
+The framework allows for a button that opens directly into the camera of an app, even if the camera is not the app's only feature. Instagram, Snapchat, TikTok, and similar social networks could use this option to create a Control Center camera button able to be added to the Lock Screen that will allow for the quick capturing of photos and videos that could then be uploaded after unlocking a device.<br/>
+<br/>
+Note that this would not upload content directly, as there is wording in the framework that requires the &zwnj;iPhone&zwnj; to be unlocked to view or complete a task with the video or photo captured from a locked &zwnj;iPhone&zwnj;.<br/>
+<br/>
+This option will also be useful for &zwnj;iPhone&zwnj; users who prefer to capture images with a third-party camera app like Halide, as it will make the Halide camera feel much more like a default camera app able to be opened up by means other than activating it from the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a>.<br/>
+<br/>
+Developers will need to add this framework to their apps, so it is a capability that we'll start seeing in action following the public launch of &zwnj;iOS 18&zwnj; this fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-developer-program/">Apple Developer Program</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/ios-18-activate-camera-app-lock-screen/">iOS 18 Will Let You Activate Third-Party Camera From iPhone&#039;s Lock Screen or Action Button</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-will-let-you-activate-third-party-camera-from-iphones-lock-screen-or-action-button.2429039/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Adds Control Center Options to Action Button on iPhone 15 Pro</title>
+		<link>https://www.macrumors.com/2024/06/12/ios-18-control-center-options-action-button/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-adds-control-center-options-to-action-button-on-iphone-15-pro.2429032/</comments>
+		<pubDate>Wed, 12 Jun 2024 11:17:56 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/12/ios-18-control-center-options-action-button/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		<category>Action Button</category>
+		
+
+		<description><![CDATA[iPhone 15 Pro and iPhone 15 Pro Max models have an Action button in place of the Ring/Silent switch on older iPhones, and iOS 18 makes it even more useful.<br/>
+<br/>
+<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Control-Center-Toggles-for-Action-Button-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955224" /><em>Screenshot Credit: <a href="https://www.macrumors.com/author/aaron-perris/">Aaron Perris</a></em></div><br/>
+iOS 18 allows the Action button to be assigned to one of the dozens of controls available in the new Control Center gallery, allowing the Action button to invoke Dark Mode, Airplane Mode, Personal Hotspot, and more. Options like Low Power Mode and Orientation Lock do not appear to be available as of iOS 18 beta 1, but the Shortcut action already allows the Action button to be assigned to those options if desired.<br/>
+<br/>
+These new options are in addition to the actions that were already available for the Action button on iOS 17, including Ring/Silent, Do Not Disturb, Camera, Flashlight, Voice Memo, Magnifier, Translate, Shortcut, and Accessibility. Some of the new Control Center options were already possible with the Shortcut or Accessibility options.<br/>
+<br/>
+It has been rumored that the Action button will be <a href="https://www.macrumors.com/2023/11/30/iphone-16-action-button-all-models/">expanded to all four iPhone 16 models</a> later this year, so these new controls will come to even more devices.<br/>
+<br/>
+iOS 18 is currently in beta and should be released in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/action-button/">Action Button</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/ios-18-control-center-options-action-button/">iOS 18 Adds Control Center Options to Action Button on iPhone 15 Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-adds-control-center-options-to-action-button-on-iphone-15-pro.2429032/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Tim Cook Discusses Apple Intelligence and More in Videos With iJustine, MKBHD, and Others</title>
+		<link>https://www.macrumors.com/2024/06/12/tim-cook-apple-intelligence-interviews/</link>
+		<comments>https://forums.macrumors.com/threads/tim-cook-discusses-apple-intelligence-and-more-in-videos-with-ijustine-mkbhd-and-others.2429017/</comments>
+		<pubDate>Wed, 12 Jun 2024 09:23:28 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/12/tim-cook-apple-intelligence-interviews/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Tim Cook</category>
+		<category>Apple Intelligence</category>
+		
+
+		<description><![CDATA[Following the WWDC keynote on Monday, Apple CEO Tim Cook discussed <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/">Apple Intelligence</a> and more with popular tech content creators Justine Ezarik (iJustine), Marques Brownlee (MKBHD), and Safwan AhmedMia (SuperSaf). The videos are now on YouTube.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Tim-Cook-WWDC-2024.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-955202" /><br/>
+Cook touched on how Apple Intelligence features are designed to improve the lives of customers, with strong privacy safeguards in place.<br/>
+<br/>
+Apple Intelligence will allow users to summarize text and notifications, create custom emoji and images, and more. Siri is also getting smarter with Apple Intelligence, with richer language understanding and more per-app controls. These features will require an iPhone 15 Pro or newer, or a Mac or iPad with an M1 chip or newer.<br/>
+<br/>
+Apple Intelligence will be available when iOS 18, iPadOS 18, and macOS Sequoia are released later this year, but the features will have a beta label at launch. Developers will be able to start testing the features on the iOS 18 beta <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-ios-18-beta/">later this summer</a>.<br/>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5X0x9zq5U0?si=u4o_yM6k9BDsStaK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/pMX2cQdPubk?si=nH-CoPn0rODFQCgK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/rx6O-3XUTQU?si=VIRaCbA1_GYCrL-_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+Cook also discussed Apple Intelligence <a href="https://www.washingtonpost.com/opinions/2024/06/11/tim-cook-apple-interview/">with <em>The Washington Post</em>'s Josh Tyrangiel</a>, with that interview shared in written form.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a>, <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/tim-cook-apple-intelligence-interviews/">Tim Cook Discusses Apple Intelligence and More in Videos With iJustine, MKBHD, and Others</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tim-cook-discusses-apple-intelligence-and-more-in-videos-with-ijustine-mkbhd-and-others.2429017/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iOS 18 Actively Recommends Charging Limit Based on iPhone 15 Usage</title>
@@ -38,6 +117,7 @@ All four iPhone 15 models feature a setting that <a href="https://www.macrumors.
 <br/>
 The recommendation also appears in the Settings app under Battery → Charging. The charging limit feature remains exclusive to the iPhone 15 lineup on the first iOS 18 beta, with the option not found on the iPhone 14 Pro or older.<br/>
 <br/>
+<img src="https://images.macrumors.com/article-new/2024/06/ios-18-recommended-charge-limit.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-955190" /><br/>
 In a related change, anecdotal reports suggest that iOS 18 could be recalibrating some devices' maximum battery capacity percentage. In Settings ➝ Battery ➝ Battery Health, "Maximum Capacity" is a measure of battery capacity relative to when the device was new. Lower capacity can result in fewer hours of usage between charges.<br/>
 <ul><li><a href="https://www.macrumors.com/how-to/get-ios-18-developer-beta-iphone/">How to Get the iOS 18 Developer Beta on Your iPhone</a></li></ul><br/>
 The first iOS 18 beta is available for Apple Developer Program members, and a public beta will follow in July. After beta testing is complete, the update should be widely released to all users with an iPhone XS or newer in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/ios-18-charging-limit-recommendations/">iOS 18 Actively Recommends Charging Limit Based on iPhone 15 Usage</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-actively-recommends-charging-limit-based-on-iphone-15-usage.2429011/">Discuss this article</a> in our forums<br/><br/>]]></description>
@@ -551,72 +631,6 @@ Notable changes include a new "Add Songs to Queue" button at the bottom of the q
 These changes bring Apple Music's queuing system on iPhone more in line with Spotify, and the Android version of the Apple Music app. It also brings Apple Music's queuing system more in line with how it worked back on iOS 9.<br/>
 <br/>
 iOS 18 is currently available in beta for members of the Apple Developer Program, with a public beta to follow in July. The update should be widely released in September, allowing everyone to try out the new queuing system.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/apple-music-new-queue-system-ios-18/">Apple Music Features Improved Spotify-Like Queue System on iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-music-features-improved-spotify-like-queue-system-on-ios-18.2428883/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18 Adds Pop-Out Bezel Animation When Pressing iPhone Buttons</title>
-		<link>https://www.macrumors.com/2024/06/11/ios-18-pop-out-button-animation/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-adds-pop-out-bezel-animation-when-pressing-iphone-buttons.2428874/</comments>
-		<pubDate>Tue, 11 Jun 2024 10:40:12 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/ios-18-pop-out-button-animation/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> includes a small but interesting change for the buttons on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, adding more of a visual element when changing volume, activating the Action button, or locking the screen. When you press an &zwnj;iPhone&zwnj; button in &zwnj;iOS 18&zwnj;, the display bezel bulges outward slightly.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/ios-18-button-bulge.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-954996" /><br/>
-This feature is available for the volume buttons, Action button and the power button, and it will also likely be used for the Capture button that's rumored for the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models. With the &zwnj;iPhone 16&zwnj;, Apple is adding a dedicated button to make it easier to film and take photos in landscape orientation. <br/>
-<br/>
-The button will be on the bottom right side of the &zwnj;iPhone&zwnj;, a good distance below the power button. Rumors suggest that the Capture button could be capacitive and flush with the side of the &zwnj;iPhone 16&zwnj;, so having the display pop out a bit when it's used would provide a useful visual indicator. <br/>
-<br/>
-<div class="center-wrap"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/C8FWVltu96Y/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/C8FWVltu96Y/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/C8FWVltu96Y/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by MacRumors (@macrumors)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script></div><br/>
-This small feature can be seen on iPhones running &zwnj;iOS 18&zwnj;, but Apple did not include it on the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. As of right now, &zwnj;iOS 18&zwnj; is available for registered developers, but Apple plans to release a public beta in July. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/ios-18-pop-out-button-animation/">iOS 18 Adds Pop-Out Bezel Animation When Pressing iPhone Buttons</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-adds-pop-out-bezel-animation-when-pressing-iphone-buttons.2428874/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>&#039;Apple ID&#039; Renamed to &#039;Apple Account&#039; Across iOS 18 and Other Updates</title>
-		<link>https://www.macrumors.com/2024/06/11/apple-id-renamed-to-apple-account/</link>
-		<comments>https://forums.macrumors.com/threads/apple-id-renamed-to-apple-account-across-ios-18-and-other-updates.2428857/</comments>
-		<pubDate>Tue, 11 Jun 2024 09:00:07 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/apple-id-renamed-to-apple-account/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iOS 18</category>
-		<category>Apple ID</category>
-		<category>Apple Account</category>
-		
-
-		<description><![CDATA[Earlier this year, we <a href="https://www.macrumors.com/2024/02/28/apple-id-to-apple-account-rebrand/">reported</a> that "Apple ID" would be renamed to "Apple Account," and this change has now been officially announced.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Apple-Account-Name-Feature-2.5.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-954989" /><br/>
-Apple confirmed the change in a <a href="https://www.apple.com/newsroom/2024/06/new-features-come-to-apple-services-this-fall/">press release</a> today, with "Apple Account" branding now used across iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11:<blockquote>With the releases of iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11, Apple ID is renamed to Apple Account for a consistent sign-in experience across Apple services and devices, and relies on a user's existing credentials.</blockquote>There are still some places where Apple ID branding remains for now, such as the <a href="https://appleid.apple.com/">Apple ID sign-in page</a> on the web. The transition to "Apple Account" will likely be completed by time iOS 18 and the other software updates are publicly released later this year.<br/>
-<br/>
-"Apple Account" is certainly a more straightforward name, but "Apple ID" had been used for over two decades and had a lot of sentimental value.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a>, <a href="https://www.macrumors.com/guide/apple-account/">Apple Account</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/apple-id-renamed-to-apple-account/">&#039;Apple ID&#039; Renamed to &#039;Apple Account&#039; Across iOS 18 and Other Updates</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-id-renamed-to-apple-account-across-ios-18-and-other-updates.2428857/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s Stock Price Reaches All-Time High After WWDC Announcements</title>
-		<link>https://www.macrumors.com/2024/06/11/aapl-all-time-high-wwdc-2024/</link>
-		<comments>https://forums.macrumors.com/threads/apples-stock-price-reaches-all-time-high-after-wwdc-announcements.2428851/</comments>
-		<pubDate>Tue, 11 Jun 2024 08:06:19 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/aapl-all-time-high-wwdc-2024/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>AAPL</category>
-		
-
-		<description><![CDATA[Apple's stock price has crossed the &#36;200 mark and reached a new all-time high in intraday trading, one day after the company unveiled its <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/">Apple Intelligence suite of AI features</a> coming with iOS 18, iPadOS 18, and macOS Sequoia.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-WWDC24-Apple-Intelligence-hero-240610.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-954530" /><br/>
-Apple's stock price has split five times since the company went public, including on a 4-for-1 basis in 2020 most recently. This means that Apple's stock price would be over &#36;45,000 today if it had never been split, and all other things being equal.<br/>
-<br/>
-Generative AI has been a hot topic ever since ChatGPT debuted in 2022, and investors had been waiting for Apple to unveil its own plans for the technology.<br/>
-<br/>
-<a href="https://www.macrumors.com/2024/06/05/aapl-vs-nvidia-3-trillion-dollar-companies/">Nvidia briefly surpassed Apple</a> to become the world's second most valuable company last week, amid strong demand for its AI server chips, but Apple has now regained second place with a &#36;3.1 trillion market cap as of writing. Apple now trails only Microsoft, which has a nearly &#36;3.2 trillion market cap as of writing.<br/>
-<br/>
-Apple Intelligence features are not included in the first developer betas of iOS 18, iPadOS 18, and macOS Sequoia, but they will be <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-ios-18-beta/">available this summer</a>. Even when the features launch to the public later this year, they will still have a beta label. Read our <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/">coverage of the Apple Intelligence announcement</a> to learn more about the new capabilities.<br/>
-<br/>
-<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/aapl/">AAPL</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/aapl-all-time-high-wwdc-2024/">Apple&#039;s Stock Price Reaches All-Time High After WWDC Announcements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-stock-price-reaches-all-time-high-after-wwdc-announcements.2428851/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
