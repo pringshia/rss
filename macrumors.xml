@@ -14,12 +14,65 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 13 Jun 2024 09:03:26 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 13 Jun 2024 13:02:42 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>First Look at Messages via Satellite in iOS 18</title>
+		<link>https://www.macrumors.com/2024/06/13/ios-18-messages-via-satellite-first-look/</link>
+		<comments>https://forums.macrumors.com/threads/first-look-at-messages-via-satellite-in-ios-18.2429147/</comments>
+		<pubDate>Thu, 13 Jun 2024 11:29:45 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/13/ios-18-messages-via-satellite-first-look/</guid>
+		<dc:creator>Eric Slivka</dc:creator>
+		<category>iOS 18</category>
+		<category>Satellite</category>
+		<category>Messages</category>
+		
+
+		<description><![CDATA[Apple has been gradually expanding its suite of satellite connectivity features for <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, and <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> brings a significant new one in the form of <a href="https://www.macrumors.com/2024/06/10/you-can-send-texts-via-satellite-in-ios-18/">Messages via satellite</a>. The feature allows users to send and receive iMessages and SMS texts, including emoji and Tapbacks, while out of range of cellular and Wi-Fi networks.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/v30z-0bGbHQ?si=aezmpIgfkSqxhKAL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+<em>CNET</em> met up with Apple's senior director of platform product marketing, Kurt Knight, this week for an <a href="https://www.youtube.com/watch?v=v30z-0bGbHQ">early first look at how the feature works</a>, while iJustine <a href="https://www.youtube.com/watch?v=7BZMqOATNXE">offered a similar walkthrough</a> of it.<br/>
+<br/>
+When your phone detects it's out of range of terrestrial networks, you'll get a pop-up alert that offers quick access to all of the available satellite-enabled services including Emergency SOS, Roadside Assistance, <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a>, and now Messages.<br/>
+<br/>
+Messages via satellite can also be accessed directly from the Messages app when off the terrestrial grid, with iOS popping up a card to help you point your &zwnj;iPhone&zwnj; toward an available satellite. From there, it works just as a normal Messages conversation does, and you're able to send and receive messages, emoji, and Tapbacks. Conversation messages sent via iMessage are also end-to-end encrypted when sent via satellite.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/7BZMqOATNXE?si=ja5yD4WiskPg-Vgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+iMessages can be sent freely back and forth via satellite, but there are limitations on SMS due to the volume of promotional and automated messages that come through that protocol. Your emergency contacts and specified family members will be able to contact you via SMS at any time, but for all other contacts, you will need to send the first SMS message via satellite, which will then allow them to respond for a period of time.<br/>
+<br/>
+Notably, despite Rich Communication Services (<a href="https://www.macrumors.com/guide/rcs/">RCS</a>) support coming in &zwnj;iOS 18&zwnj; later this year, Messages via satellite will not initially work with &zwnj;RCS&zwnj;. Knight says the &zwnj;RCS&zwnj; protocol has not yet been optimized to a small enough size to work over a satellite connection, at least as far as Apple is concerned. <br/>
+<br/>
+As with Apple's other satellite services, Messages via satellite will launch initially only in the United States with &zwnj;iOS 18&zwnj; before later expanding to other countries. Apple's satellite services work on <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> and later, and while Apple has indicated it will eventually charge for satellite services, it continues to offer them without charge for the time being.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/satellite/">Satellite</a>, <a href="https://www.macrumors.com/guide/messages/">Messages</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/13/ios-18-messages-via-satellite-first-look/">First Look at Messages via Satellite in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/first-look-at-messages-via-satellite-in-ios-18.2429147/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Enables You to Use Apple Pay With Chrome and More on Desktop</title>
+		<link>https://www.macrumors.com/2024/06/13/ios-18-apple-pay-in-any-desktop-browser/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-enables-you-to-use-apple-pay-with-chrome-and-more-on-desktop.2429140/</comments>
+		<pubDate>Thu, 13 Jun 2024 10:06:35 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/13/ios-18-apple-pay-in-any-desktop-browser/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple Pay</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple this week previewed a new system that will allow iPhone users who update to iOS 18 to use Apple Pay in any desktop web browser, such as Chrome, Edge, Firefox, and others. The computer running the browser can even be a Windows PC.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Apple-Pay-Code-Scan-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955376" /><br/>
+Any website that implements the latest version of Apple Pay will support this new system. When a customer checks out with Apple Pay in a desktop browser other than Safari, a code will appear on the screen that can be scanned in the Camera app on an iPhone running iOS 18 or later, allowing them to complete the purchase on the iPhone.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Apple-Pay-Code-Scan-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955377" /><br/>
+Apple provided more details about this system in a <a href="https://developer.apple.com/videos/play/wwdc2024/10108/">WWDC 2024 coding session</a> released today. It will take time for website developers to adopt the latest Apple Pay SDK, so this feature will not be widely available on the web right away.<br/>
+<br/>
+Apple Pay on the desktop web was previously limited to Safari on a Mac, so this is a much-awaited expansion of the feature to more browsers and devices.<br/>
+<br/>
+iOS 18 is currently in beta, and it should be widely released in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-music-apple-pay-card-icloud-fitness.134">Apple Music, Apple Pay/Card, iCloud, Fitness+</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/13/ios-18-apple-pay-in-any-desktop-browser/">iOS 18 Enables You to Use Apple Pay With Chrome and More on Desktop</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-enables-you-to-use-apple-pay-with-chrome-and-more-on-desktop.2429140/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Low Prices Hit Apple&#039;s AirTag and Anker&#039;s Bluetooth Trackers, Alongside Apple Pencil Deals</title>
@@ -183,6 +236,7 @@ Apple also released <a href="https://www.macrumors.com/2024/06/10/apple-releases
 		<pubDate>Thu, 13 Jun 2024 03:45:37 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/06/13/watchos-11-live-activities-suggested-widgets/</guid>
 		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
 		<category>watchOS</category>
 		
 
@@ -220,12 +274,12 @@ watchOS 11 is currently available to developers for testing purposes, with Apple
 		<category>iOS 18</category>
 		
 
-		<description><![CDATA[In iPadOS 18, Apple has redesigned the tab bar experience in apps like Clock, <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, and <a href="https://www.macrumors.com/guide/apple-news-plus/">Apple News</a>. Previously, tabs sat at the bottom of the standard app interface. When in portrait orientation, tab bars now sit at the top of the app interface to be closer to other navigation controls.<br/>
+		<description><![CDATA[In iPadOS 18, Apple has redesigned the tab bar experience for many apps like Podcasts, <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, and <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>. Previously in these apps, tabs sat at the bottom of the interface. When in portrait orientation however, tab bars now sit at the top of these apps to be closer to other navigation controls, while a customizable sidebar appears in landscape mode.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/06/tab-bar-ipados-18.jpg" alt="" width="2821" height="1408" class="aligncenter size-full wp-image-955290" /><br/>
-Apple says having the tab bar at the top of the app and between other navigational controls reduces the amount of horizontal and vertical space used up by the interface, and allows users to focus more on the content. <br/>
+In Apple apps other than the above, the tab bar appears in both portrait and landscape. Apple says having the tab bar at the top of the app and between other navigational controls reduces the amount of horizontal and vertical space used up by the interface, and allows users to focus more on the content. <br/>
 <br/>
-To accompany the new tab bars, sidebars in apps have also been updated to help users navigate apps and provide quick access to top-level destinations. <br/>
+To accompany the new tab bars, sidebars in apps have been updated to help users navigate apps and provide quick access to top-level destinations. <br/>
 <br/>
 Together, side bars and tab bars support user customization, so it's now possible to drag and drop items from the sidebar into a pinned section on the tab bar for even quicker access to favorite content.<br/>
 <br/>
@@ -268,6 +322,7 @@ The feature is designed for AAA titles like <em>Assassin's Creed Mirage</em> and
 		<pubDate>Thu, 13 Jun 2024 00:55:41 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/06/13/apple-not-paying-openai-chatgpt-ios-18/</guid>
 		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
 		<category>Bloomberg</category>
 		<category>ChatGPT</category>
 		<category>OpenAI</category>
@@ -533,78 +588,6 @@ Vision Pro will be available to pre-order in Australia, Canada, France, Germany,
 visionOS 1.2 adds support for languages in these additional countries and regions, and <a href="https://www.macrumors.com/2024/06/10/apple-announces-visionos-2/">visionOS 2 with a range of new features</a> will be available later this year.<br/>
 <br/>
 Vision Pro first launched in the U.S. in early February.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/vision-pro-demos-internationally/">Vision Pro Demos at Apple Stores in UK, Canada, and More Begin July 12</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/vision-pro-demos-at-apple-stores-in-uk-canada-and-more-begin-july-12.2429010/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Amazon&#039;s New Sale Has Big Savings on AirPods and Beats Headphones</title>
-		<link>https://www.macrumors.com/2024/06/12/amazons-savings-airpods-beats/</link>
-		<comments>https://forums.macrumors.com/threads/amazons-new-sale-has-big-savings-on-airpods-and-beats-headphones.2429007/</comments>
-		<pubDate>Wed, 12 Jun 2024 08:15:39 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/12/amazons-savings-airpods-beats/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Amazon has nearly every AirPods model on sale this week, with two versions hitting their all-time low price. Additionally, we're tracking solid deals on a few Beats headphones, including &#36;70 off the new Beats Solo 4 and &#36;170 off the Beats Studio Pro.<br/>
-<br/>
-<h2>AirPods</h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/10/airpods-purple-prime-day.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-916647" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Prices start at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;79.99</strong></a> for the AirPods 2, down from &#36;129.00 and about &#36;10 cheaper than the last time we tracked this deal.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>AirPods 2 for &#36;79.99</div></a></div><br/>
-<br/>
-Amazon also has the higher-end AirPods on sale, including the AirPods Pro 2 with USB-C for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;189.99</strong></a>, down from &#36;249.00, and the AirPods Max for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08PZDSP2Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;449.00</strong></a>, down from &#36;549.00. The latter model is available at this price in all five colors: Space Gray, Silver, Sky Blue, Pink, and Green.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;59 OFF</div>AirPods Pro 2 (USB-C) for &#36;189.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08PZDSP2Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>AirPods Max for &#36;449.00</div></a></div><h2>Beats</h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/10/beats-studio-pro-purple.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-916586" /><br/>
-Amazon has a few notable discounts on Beats headphones this week, headlined by a new record low price on the Beats Solo 4 at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CZPHPJLN%2Fref%3Dfs_a_bt2_us0"><strong>&#36;129.95</strong></a>, down from &#36;199.99. These headphones launched at the end of April and feature upgraded performance and fit, longer battery life, USB-C, 50 hours of playback, and more.<br/>
-<br/>
-Another big discount is on the Beats Studio Pro, which are matching their Black Friday 2023 price at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FBeats-Studio-Pro-Personalized-Compatibility%2Fdp%2FB0C8PT7DF5%2Fref%3Dsr_1_1_sspa"><strong>&#36;179.95</strong></a>, down from &#36;349.99. Amazon has this big discount available in all four colors of the headphones, with delivery available as soon as this Friday, June 14 for Prime members.<br/>
-<br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09WPMT8TG%2Fref%3Dfs_a_bt2_us4">Beats Studio Buds</a> - &#36;79.99, down from &#36;149.95</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CZPHPJLN%2Fref%3Dfs_a_bt2_us0">Beats Solo 4</a> - &#36;129.95, down from &#36;199.95</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09JL5CY5Z%2Fref%3Dfs_a_bt2_us3">Beats Fit Pro</a> - &#36;159.95, down from &#36;199.95</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07R5QD598%2Fref%3Dfs_a_bt2_u5">Powerbeats Pro</a> - &#36;159.95, down from &#36;249.95</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FBeats-Studio-Pro-Personalized-Compatibility%2Fdp%2FB0C8PT7DF5%2Fref%3Dsr_1_1_sspa">Beats Studio Pro</a> - &#36;179.95, down from &#36;349.99</li></ul> If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/amazons-savings-airpods-beats/">Amazon&#039;s New Sale Has Big Savings on AirPods and Beats Headphones</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazons-new-sale-has-big-savings-on-airpods-and-beats-headphones.2429007/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Safari 18 Features: Highlights, New Reader Mode, and Video Viewer</title>
-		<link>https://www.macrumors.com/2024/06/12/safari-18-highlights-new-reader-mode-video-viewer/</link>
-		<comments>https://forums.macrumors.com/threads/safari-18-features-highlights-new-reader-mode-and-video-viewer.2428998/</comments>
-		<pubDate>Wed, 12 Jun 2024 07:19:47 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/12/safari-18-highlights-new-reader-mode-video-viewer/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>macOS Sequoia</category>
-		<category>Safari</category>
-		
-
-		<description><![CDATA[In <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>, Apple has some additional features in Safari 18 that are likely to be welcomed by Mac users. Here's a quick rundown of what's new.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/safari-highlights.jpg" alt="" width="2752" height="1850" class="aligncenter size-full wp-image-955139" /><br/>
-Safari's headline feature in macOS 15 is something called Highlights, which aims to make it easier to discover information on the web. <br/>
-<br/>
-Highlights can be accessed via a new site menu icon that appears in the address bar, from which you can quickly pull up relevant information about a site, such as directions, summaries, or quick links to learn more about people, music, movies, and TV shows. <br/>
-<br/>
-As of writing this, Highlights does not appear to work outside of the United States, so it is likely to be region-specific at this early state. However, there are other changes to Safari that are live wherever you are located.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/safari-18-reader.jpg" alt="" width="2940" height="1912" class="aligncenter size-full wp-image-955125" /><br/>
-The Reader mode in Safari has received an overhaul, and now offers more customization options once you have enabled it on a site using the Reader button in the address bar.<br/>
-<br/>
-If you click the button again, a dropdown menu lets you change the theme (white, off-white, gray, black) and choose your preferred font (Athelas, Charter, Georgia, Iowan, New York, Palatino, San Fransisco, Seravek, and Times New Roman). <br/>
-<br/>
-In this menu, you can also find text size options by percentage (from 50% to 300%), as well as a "Find..." option to find a word or phrase on a page, and a button to Hide Reader mode.<br/>
-<br/>
-Apple says that Reader can also provide a summary of an article, along with a table of contents in a sidebar, but we could not get this to work, likely because it is an aspect of <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/">Apple Intelligence</a>, which will not be introduced until later in the year.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/safari-video-viewer.jpg" alt="" width="2940" height="1912" class="aligncenter size-full wp-image-955129" /><br/>
-Meanwhile, when Safari detects a video on the page, a new Video Viewer mode puts the media front and center, which allows you to adjust the window without obscuring the video. It also helpfully presents system playback controls within an overlay, including Picture in Picture. <br/>
-<br/>
-In other Safari-related changes, &zwnj;macOS Sequoia&zwnj; beta adds support for opening links directly in web apps. Now, when you click a link, that link should open in the web app instead of your default web browser. You can also now personalize web apps on Mac with Safari Web Extensions and Content Blockers. <br/>
-<br/>
-Lastly, Safari 18 beta for iOS, iPadOS, <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a>, &zwnj;macOS Sequoia&zwnj; and <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> brings inline predictive text to the web, and you can now set which Safari profile should be used to open particular websites.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari/">Safari</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/safari-18-highlights-new-reader-mode-video-viewer/">Safari 18 Features: Highlights, New Reader Mode, and Video Viewer</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/safari-18-features-highlights-new-reader-mode-and-video-viewer.2428998/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
