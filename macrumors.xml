@@ -14,12 +14,133 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 12 Jun 2024 13:03:17 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 12 Jun 2024 17:11:34 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Hackers Access Tile&#039;s Internal Tracking Tools, Customer Data</title>
+		<link>https://www.macrumors.com/2024/06/12/tile-hacked-customer-data-obtained/</link>
+		<comments>https://forums.macrumors.com/threads/hackers-access-tiles-internal-tracking-tools-customer-data.2429059/</comments>
+		<pubDate>Wed, 12 Jun 2024 16:43:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/12/tile-hacked-customer-data-obtained/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Tile, known for its Bluetooth tracking devices, was recently hacked, according to a <a href="https://www.404media.co/hacker-accesses-internal-tile-tool-that-provides-location-data-to-cops/">report from <em>404 Media</em></a>. A hacker was able to gain access to Tile's internal tools that are used for processing location data requests for law enforcement officers, and that gave the hacker customer names, addresses, email addresses, and phone numbers.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/05/tile-sticker-feature.jpg" alt="" width="1000" height="517" class="aligncenter size-full wp-image-797864" /><br/>
+Data breaches are not uncommon these days, but Tile was not forthcoming about the attack and did not mention it until being contacted by <em>404 Media</em>. The site learned about the breach from the hacker. Tile parent company Life360 published a statement about the attack on its website after being prompted to do so by <em>404 Media</em>.<br/>
+<blockquote>Similar to many other companies, Life360 recently became the victim of a criminal extortion attempt. We received emails from an unknown actor claiming to possess Tile customer information. We promptly initiated an investigation into the potential incident and detected unauthorized access to a Tile customer support platform (but not our Tile service platform). The potentially impacted data consists of information such as names, addresses, email addresses, phone numbers, and Tile device identification numbers. It does not include more sensitive information, such as credit card numbers, passwords or log-in credentials, location data, or government-issued identification numbers, because the Tile customer support platform did not contain these information types.<br/>
+<br/>
+We believe this incident was limited to the specific Tile customer support data described above and is not more widespread. We take this event and the security of customer information seriously. We have taken and will continue to take steps designed to further protect our systems from bad actors, and we have reported this event and the extortion attempt to law enforcement. We remain committed to keeping families safe online and in the real world.</blockquote><br/>
+While no location information was obtained, the incident is alarming because of the nature of the tool that the hacker was able to access. The hacker was able to get into Tile's system using credentials from a former Tile employee, and was able to get into a tool that could be used to look up Tile customers by phone number. Part of that tool allowed for searching location history.<br/>
+<br/>
+Tile told <em>404 Media</em> that the hacker would not have been able to access location data from the platform that was attacked, but did not confirm whether the hacker had the appropriate authentication to perform a location request once the internal tool was accessed.<br/>
+<br/>
+Tile is one of Apple's main competitors in the item tracking space, with Tile's trackers available as an alternative to Apple's AirTags.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/tile-hacked-customer-data-obtained/">Hackers Access Tile&#039;s Internal Tracking Tools, Customer Data</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/hackers-access-tiles-internal-tracking-tools-customer-data.2429059/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>watchOS 11 Gains Integrated Shazam Widget for Identifying Songs</title>
+		<link>https://www.macrumors.com/2024/06/12/watchos-11-shazam-widget/</link>
+		<comments>https://forums.macrumors.com/threads/watchos-11-gains-integrated-shazam-widget-for-identifying-songs.2429057/</comments>
+		<pubDate>Wed, 12 Jun 2024 16:04:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/12/watchos-11-shazam-widget/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		<category>Shazam</category>
+		
+
+		<description><![CDATA[The watchOS 11 update that Apple plans to release this fall offers several new widgets, including a built-in Shazam widget. Shazam has been able to be downloaded on the Apple Watch from the Apple Watch <a href="https://www.macrumors.com/guide/app-store/">App Store</a> or accessed via <a href="https://www.macrumors.com/guide/siri/">Siri</a>, but it hasn't been available through the Smart Stack feature.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/08/shazam-for-mac.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-857861" /><br/>
+Apple plans to add a Shazam widget to Smart Stack with the watchOS 11 update, making it quicker to get to without &zwnj;Siri&zwnj; or downloading an app. You can access the Apple Watch Smart Stack by turning the Digital Crown.<br/>
+<br/>
+The Smart Stack is improving with the update, and widgets will be displayed based on time, location, and other factors, plus Live Activities are supported for keeping up with sports games or an approaching ride right from the wrist.<br/>
+<br/>
+Along with Shazam, other new Smart Stack widget additions include severe weather alerts, Translate, Training Load (a new watchOS 11 Workout feature), <a href="https://www.macrumors.com/guide/photos/">Photos</a>, and Distance. watchOS 11 is currently available to developers for testing purposes, with Apple planning to release the software to the public this fall. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/shazam/">Shazam</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/watchos-11-shazam-widget/">watchOS 11 Gains Integrated Shazam Widget for Identifying Songs</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/watchos-11-gains-integrated-shazam-widget-for-identifying-songs.2429057/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Adds More Control Over Adaptive Audio on AirPods Pro 2</title>
+		<link>https://www.macrumors.com/2024/06/12/ios-18-adaptive-audio-options/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-adds-more-control-over-adaptive-audio-on-airpods-pro-2.2429056/</comments>
+		<pubDate>Wed, 12 Jun 2024 15:32:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/12/ios-18-adaptive-audio-options/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>AirPods Pro</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[Apple's second-generation <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> have an Adaptive Audio feature that includes Adaptive Noise Control, Personalized Volume, and Conversation Awareness, which are all features that adjust sound and Active Noise Cancellation in response to the environment around you.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/airpods-adaptive-audio.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-955239" /><br/>
+Right now, Adaptive Audio is an all or nothing setting, but that's set to change in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>. Apple added a "Customize Adaptive Audio" menu that lets you adjust the setting to allow for more or less noise.<br/>
+<br/>
+When the &zwnj;AirPods Pro&zwnj; 2 with the <a href="https://www.macrumors.com/2024/06/10/apple-releases-new-airpods-pro-2-beta-firmware/">latest beta firmware</a> are connected to an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> running &zwnj;iOS 18&zwnj;, you can open up the AirPods section of the Settings app to see a new Adaptive Audio section.<br/>
+<br/>
+Tapping into it presents a slider bar where you can adjust Adaptive Audio for Less Noise or More Noise, impacting the Adaptive Audio settings. The feature will mostly apply to Adaptive Noise Control, a feature that blends Transparency and Active Noise Cancellation. It is designed to tweak the level of noise control based on changing conditions in the environment, so being able to set it to allow for more noise or less noise will come in handy.<br/>
+<br/>
+The setting will also impact Personalized Volume, an option that adjusts the volume of the &zwnj;AirPods Pro&zwnj; 2 based on your personal volume preferences and environmental conditions.<br/>
+<br/>
+These settings will be widely available to &zwnj;AirPods Pro&zwnj; 2 owners when &zwnj;iOS 18&zwnj; launches in the fall. The earbuds will also be able to be adjusted using iPadOS 18 and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a>, <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Neutral)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a>, <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/ios-18-adaptive-audio-options/">iOS 18 Adds More Control Over Adaptive Audio on AirPods Pro 2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-adds-more-control-over-adaptive-audio-on-airpods-pro-2.2429056/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Your iPhone 15 Can Show the Time When It&#039;s Out of Battery in iOS 18</title>
+		<link>https://www.macrumors.com/2024/06/12/ios-18-time-no-battery-life/</link>
+		<comments>https://forums.macrumors.com/threads/your-iphone-15-can-show-the-time-when-its-out-of-battery-in-ios-18.2429053/</comments>
+		<pubDate>Wed, 12 Jun 2024 14:57:33 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/12/ios-18-time-no-battery-life/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[The <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> has had a Power Reserve function that holds back a small amount of battery life to allow features like <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a> and NFC unlocking to work even when your device has died, and in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, Apple seems to be improving the feature further for the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Generic-iOS-18-Feature-Real-Mock.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-954594" /><br/>
+As demonstrated on Reddit, when the battery on an &zwnj;iPhone&zwnj; running &zwnj;iOS 18&zwnj; is exhausted, the phone can <a href="https://www.reddit.com/r/iOSBeta/comments/1ddpgb4/ios_18_db1_you_can_now_see_the_time_even_after/">continue to show the time</a> in the upper left corner of the device, which is a small but useful upgrade. The battery icon still shows up, and you'll see "&zwnj;iPhone&zwnj; is Findable" while reserve battery is left. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/ios-18-iphone-time-off.jpg" alt="" width="2000" height="1640" class="aligncenter size-full wp-image-955275" /><br/>
+It appears that this feature is limited to the &zwnj;iPhone 15&zwnj; models. We tested on an <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> Pro Max and were not ale to get the time to show up, but it did work as expected with an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max. <br/>
+<br/>
+Power Reserve has been a feature on iPhones dating back to the &zwnj;iPhone&zwnj; XR and &zwnj;iPhone&zwnj; XS, so it's not clear what the limiting factor is in terms of showing the time on display when the battery has drained on older devices. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/ios-18-time-no-battery-life/">Your iPhone 15 Can Show the Time When It&#039;s Out of Battery in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/your-iphone-15-can-show-the-time-when-its-out-of-battery-in-ios-18.2429053/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Maps Rivals AllTrails on iOS 18 With New Hiking Features in U.S.</title>
+		<link>https://www.macrumors.com/2024/06/12/apple-maps-hiking-features-on-ios-18/</link>
+		<comments>https://forums.macrumors.com/threads/apple-maps-rivals-alltrails-on-ios-18-with-new-hiking-features-in-u-s.2429049/</comments>
+		<pubDate>Wed, 12 Jun 2024 14:08:38 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/12/apple-maps-hiking-features-on-ios-18/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 18</category>
+		<category>Apple Maps</category>
+		
+
+		<description><![CDATA[Just months after naming AllTrails the <a href="https://www.apple.com/newsroom/2023/11/apple-unveils-app-store-award-winners-the-best-apps-and-games-of-2023/">iPhone App of the Year in 2023</a>, Apple has added new hiking features of its own to the Maps app on iOS 18.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Hiking-Trails-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955271" /><br/>
+Apple Maps users in the U.S. can browse thousands of hikes across all 63 national parks in the country, filtered by length, elevation, and route type. Users can also create and save their own custom walking and hiking routes, with one-way, out-and-back, and loop routing options to choose from where available. <br/>
+<br/>
+Apple Maps added topographic maps on the Apple Watch with watchOS 10 last year, and these maps are now available on the iPhone too with iOS 18. Topographic maps and hikes can be saved for offline access with turn-by-turn voice guidance.<br/>
+<br/>
+These features are mostly limited to the U.S., but topographic maps are also available in Japan, according to fine print <a href="https://www.apple.com/ios/ios-18-preview/">on Apple's website</a>.<br/>
+<br/>
+Here is how Apple describes all of the features:<blockquote>Apple Maps introduces even more ways to explore the world, including hikes and custom walking routes. Users can browse thousands of hikes across national parks in the United States — filtered by length, elevation, and route type — and save them to use while offline. Users can also create their own custom walking routes with just a few taps to plan everything from a local exercise route to a full-day walking tour in a new city. Additionally, they can save their favorite national park hikes, custom walking routes, and places to an all-new Places Library, and add personal notes about them.</blockquote><em>MacRumors</em> contributor <a href="https://www.macrumors.com/author/aaron-perris/">Aaron Perris</a> exclusively revealed that these features were <a href="https://www.macrumors.com/2024/03/27/ios-18-topographic-maps/">coming to Apple Maps on the iPhone</a> earlier this year.<br/>
+<br/>
+iOS 18 is currently in beta and should be released in September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/12/apple-maps-hiking-features-on-ios-18/">Apple Maps Rivals AllTrails on iOS 18 With New Hiking Features in U.S.</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-maps-rivals-alltrails-on-ios-18-with-new-hiking-features-in-u-s.2429049/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iOS 18 Will Let You Activate Third-Party Camera From iPhone&#039;s Lock Screen or Action Button</title>
@@ -422,215 +543,6 @@ There's also a more prominent "Recommended For You" suggestions interface that r
 Note that we've left out Apple Intelligence, which is what Apple is calling the AI features that it plans to add. Apple Intelligence will be limited to Apple's newest iPhones, but the features we've listed will be available on older iPhones, too.<br/>
 <br/>
 Check out our video and let us know what your favorite iOs 18 feature is in the comments below. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/ios-18-best-features/">Video: iOS 18&#039;s Best Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/video-ios-18s-best-features.2428925/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>macOS Sequoia Includes Wallpaper With Classic Mac Graphics</title>
-		<link>https://www.macrumors.com/2024/06/11/macos-sequoia-wallpaper/</link>
-		<comments>https://forums.macrumors.com/threads/macos-sequoia-includes-wallpaper-with-classic-mac-graphics.2428921/</comments>
-		<pubDate>Tue, 11 Jun 2024 15:13:41 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/macos-sequoia-wallpaper/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>macOS Sequoia</category>
-		
-
-		<description><![CDATA[<a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> has a fun new Macintosh dynamic wallpaper and screensaver combination that highlights classic Mac icons. Basic Apple Guy shared some <a href="https://basicappleguy.com/haberdashery/macintoshwallpapers">high resolution screenshots</a> of the new wallpaper, which can be used on other Apple devices.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/macos-sequoia-wallpaper.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-955061" /><br/>
-On device, the Macintosh wallpaper animates and shifts through different retro graphics, with color options that include Spectrum, Accent, Blue, Red, Purple, Yellow, Dark Gray, Gray, Green, Orange, and Random.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/macintosh-wallpaper-macos-sequoia.jpg" alt="" width="1427" height="926" class="aligncenter size-full wp-image-955062" /><br/>
-Macintosh isn't the only new &zwnj;macOS Sequoia&zwnj; wallpaper, with Apple <a href="https://basicappleguy.com/haberdashery/sequoiawallpaper">also adding</a> "Helios," which is featured in &zwnj;macOS Sequoia&zwnj; marketing materials and Apple images. Helios animates with a gradient design.<br/>
-<br/>
-To see the wallpapers in their full glory, &zwnj;macOS Sequoia&zwnj; is required. The operating system update is available to developers right now, with a public release scheduled for the fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/macos-sequoia-wallpaper/">macOS Sequoia Includes Wallpaper With Classic Mac Graphics</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macos-sequoia-includes-wallpaper-with-classic-mac-graphics.2428921/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Here Are the Suggestions You&#039;ll See for Generating AI Images in iOS 18</title>
-		<link>https://www.macrumors.com/2024/06/11/apple-image-playground-suggestions/</link>
-		<comments>https://forums.macrumors.com/threads/here-are-the-suggestions-youll-see-for-generating-ai-images-in-ios-18.2428898/</comments>
-		<pubDate>Tue, 11 Jun 2024 12:45:35 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/apple-image-playground-suggestions/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iOS 18</category>
-		<category>macOS Sequoia</category>
-		
-
-		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, iPadOS 18, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> will all have built-in "Apple Intelligence," and one of the new AI features includes an Image Playground. With Image Playground, you can generate an image from a prompt, similar to what you can do with OpenAI's ChatGPT. While you can come up with anything, Apple will provide a selection of suggested concepts in categories like themes, costumes, and places.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Image-Playground-Preset-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955046" /><br/>
-Apple Intelligence isn't out yet, but &zwnj;iOS 18&zwnj; does provide some insight into the concepts that Apple will suggest to users, as <em>MacRumors</em> contributor <a href="https://x.com/SteveMoser">Steve Moser</a> discovered. Apple's suggestions will be personalized, so if you're chatting with friends about going on a hike, you might see it pop up options like mountains and hiker. Note that this list is not exhaustive because it is missing some examples that are in Apple's marketing materials, but these are the options in the beta right now. Apple will also likely add new suggestions on an ongoing basis. <br/>
-<br/>
-<h3>Nature and Environments</h3><br/>
-<ul><br/>
- 	<li>Mountains</li><br/>
- 	<li>Desert</li><br/>
- 	<li>Forest</li><br/>
- 	<li>Garden</li><br/>
- 	<li>Prairie</li><br/>
- 	<li>Rainforest</li><br/>
- 	<li>Waterfall</li><br/>
- 	<li>Volcano</li><br/>
- 	<li>Space</li><br/>
- 	<li>Starry Night</li><br/>
-</ul><br/>
-<h3>Seasons</h3><br/>
-<ul><br/>
- 	<li>Autumn</li><br/>
- 	<li>Spring</li><br/>
- 	<li>Summer</li><br/>
- 	<li>Winter</li><br/>
-</ul><br/>
-<h3>Costumes and Characters</h3><br/>
-<ul><br/>
- 	<li>Alien</li><br/>
- 	<li>Artist</li><br/>
- 	<li>Astronaut</li><br/>
- 	<li>Chef</li><br/>
- 	<li>Farmer</li><br/>
- 	<li>Hiker</li><br/>
- 	<li>Healthcare Worker</li><br/>
- 	<li>Mechanic</li><br/>
- 	<li>Pilot</li><br/>
- 	<li>Rancher</li><br/>
- 	<li>Racecar Driver</li><br/>
- 	<li>Robot</li><br/>
- 	<li>Royalty</li><br/>
- 	<li>Scientist</li><br/>
- 	<li>Superhero</li><br/>
- 	<li>Vampire</li><br/>
-</ul><br/>
-<h3>Themes</h3><br/>
-<ul><br/>
- 	<li>Adventure</li><br/>
- 	<li>Birthday</li><br/>
- 	<li>Graduation</li><br/>
- 	<li>Halloween</li><br/>
- 	<li>Masquerade</li><br/>
- 	<li>Party</li><br/>
- 	<li>Disco</li><br/>
- 	<li>Fantasy</li><br/>
- 	<li>Fireworks</li><br/>
- 	<li>Love</li><br/>
-</ul><br/>
-<h3>Places</h3><br/>
-<ul><br/>
- 	<li>Art Studio</li><br/>
- 	<li>City</li><br/>
- 	<li>Couch</li><br/>
- 	<li>Library</li><br/>
- 	<li>Lighthouse</li><br/>
- 	<li>Museum</li><br/>
- 	<li>Stadium</li><br/>
- 	<li>Stage</li><br/>
-</ul><br/>
-<h3>Items and Accessories</h3><br/>
-<ul><br/>
- 	<li>Baseball Cap</li><br/>
- 	<li>Beanie</li><br/>
- 	<li>Beret</li><br/>
- 	<li>Bike Helmet</li><br/>
- 	<li>Book</li><br/>
- 	<li>Bowtie</li><br/>
- 	<li>Crown</li><br/>
- 	<li>Flower Crown</li><br/>
- 	<li>Guitar</li><br/>
- 	<li>Hard Hat</li><br/>
- 	<li>Magic Wand</li><br/>
- 	<li>Microphone</li><br/>
- 	<li>Party Hat</li><br/>
- 	<li>Rubber duck</li><br/>
- 	<li>Scarf</li><br/>
- 	<li>Sunglasses</li><br/>
- 	<li>Surfboard</li><br/>
- 	<li>Sweatband</li><br/>
- 	<li>Top Hat</li><br/>
-</ul><br/>
-<h3>Beverages and Foods</h3><br/>
-<ul><br/>
- 	<li>Champagne Glass</li><br/>
- 	<li>Coffee</li><br/>
- 	<li>Tea</li><br/>
-</ul><br/>
-Image Playground is available as a standalone app, but it's also baked into apps like Notes and Messages. Images that are generated can include your contacts, and many of Apple's suggestions are tailored to that idea. Your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> can take a photo of a contact that's on your device and use it to generate a fun cartoon-like image that you can share with them.<br/>
-<br/>
-Apple adds a style to each image, and there's no option to generate something that looks real. There are three styles to choose from, including Animation, Illustration, and Sketch. Image generation is done on-device, so there's no limit on experimentation.<br/>
-<br/>
-In the Notes app, Image Playground has a neat added feature that allows it to take a quick sketch you've made and turn it in to something more detailed, plus it can add images based on the context provided in your notes.<br/>
-<br/>
-Image Playground and other Apple Intelligence features require an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> with A17 Pro chip, or an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> or Mac with an <a href="https://www.macrumors.com/guide/m1/">M1</a> or better chip. Apple plans to start testing Artificial Intelligence in the &zwnj;iOS 18&zwnj;, iPadOS 18, and &zwnj;macOS Sequoia&zwnj; betas this summer.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a>, <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/apple-image-playground-suggestions/">Here Are the Suggestions You&#039;ll See for Generating AI Images in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/here-are-the-suggestions-youll-see-for-generating-ai-images-in-ios-18.2428898/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Blackmagic Design Unveils Spatial Video Camera for Shooting Apple Vision Pro Content</title>
-		<link>https://www.macrumors.com/2024/06/11/blackmagic-design-unveils-spatial-video-camera/</link>
-		<comments>https://forums.macrumors.com/threads/blackmagic-design-unveils-spatial-video-camera-for-shooting-apple-vision-pro-content.2428893/</comments>
-		<pubDate>Tue, 11 Jun 2024 12:13:18 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/blackmagic-design-unveils-spatial-video-camera/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Vision Pro</category>
-		<category>Blackmagic</category>
-		
-
-		<description><![CDATA[Blackmagic Design has <a href="https://x.com/Blackmagic_News/status/1800273164867658228">announced</a> the Blackmagic URSA Cine Immersive camera designed for shooting spatial video content for Apple's Vision Pro headset.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/blackmagic-vision-pro.jpg" alt="" width="4800" height="2700" class="alignnone size-full wp-image-955036" /><br/>
-The URSA Cine Immersive camera features a custom stereoscopic 3D lens system with dual 8K sensors, capable of capturing a 180-degree field of view with spatial audio support. It is designed to capture content with a resolution of 8,160 x 7,200 per eye and offers 16 stops of dynamic range to ensure detail and color accuracy in every frame, with the ability to shoot stereoscopic 3D immersive cinema content at 90 frames per second.<br/>
-<br/>
-The URSA Cine Immersive is constructed with a magnesium alloy chassis and a carbon fiber polycarbonate composite skin. It includes dual 5-inch HDR touchscreens and an external color status LCD screen. Connectivity options are extensive, including 12G-SDI out, 10G Ethernet, USB-C, and XLR audio ports, along with an 8-pin Lemo connector for power.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Introducing Blackmagic URSA Cine Immersive! New camera in development, designed to capture content for Apple Vision Pro with 8160 x 7200 resolution per eye, 16 stops of dynamic range for 90fps stereoscopic 3D immersive cinema content and more! Available later in 2024. Learn more! <a href="https://t.co/5pbSDnJYuI">pic.twitter.com/5pbSDnJYuI</a></p>&mdash; Blackmagic Design (@Blackmagic_News) <a href="https://twitter.com/Blackmagic_News/status/1800273164867658228?ref_src=twsrc%5Etfw">June 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-<br/>
-An 8TB Blackmagic Media Module comes built-in, which can store around two hours of 8K stereoscopic video recorded in Blackmagic RAW. The camera also supports Cloud Store, allowing for fast media upload and synchronization via the 10G Ethernet connection. <br/>
-<br/>
-Simultaneously, Blackmagic Design is updating DaVinci Resolve to better support the creation of Vision Pro content. The updated editing software will feature a new immersive video viewer, allowing editors to pan, tilt, and roll clips for viewing on 2D monitors or directly on the <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> headset. <br/>
-<br/>
-Blackmagic has not yet announced the price of the URSA Cine Immersive camera. For reference, the Blackmagic URSA Cine 12K is priced at &#36;14,995 without a lens, suggesting that the new immersive camera could be similarly priced plus the cost of the twin lens system.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/blackmagic/">Blackmagic</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/blackmagic-design-unveils-spatial-video-camera/">Blackmagic Design Unveils Spatial Video Camera for Shooting Apple Vision Pro Content</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/blackmagic-design-unveils-spatial-video-camera-for-shooting-apple-vision-pro-content.2428893/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18 Notes App Supports Colors for Highlighting Typed Text</title>
-		<link>https://www.macrumors.com/2024/06/11/ios-18-notes-app-colors/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-notes-app-supports-colors-for-highlighting-typed-text.2428890/</comments>
-		<pubDate>Tue, 11 Jun 2024 11:52:03 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/ios-18-notes-app-colors/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[The Notes app in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and iPadOS 18 supports colors for typed text for the first time, providing an option to add new hues to text.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Notes-Highlight-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955030" /><br/>
-Apple offers five colors, including purple, pink, orange, mint, and blue, and there is no option for custom colors. Colors can be added to text through the formatting interface that can be accessed by tapping on the Aa button, with the shade applied to any text that is selected. Both the text and the background turn the selected color when the feature is used.<br/>
-<br/>
-The five color options are useful for highlighting select words and passages in text. Multiple colors can be used in the same sentence, but it is worth noting that there does not seem to be an option for colored text without the shaded background, or black text with a colored background.<br/>
-<br/>
-Written text added to Notes on the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> has supported multiple color options, but Apple has not made that a feature for typed text prior to now.<br/>
-<br/>
-Other features in the &zwnj;iOS 18&zwnj; Notes app include live audio transcription and summarization, collapsible section headers, and the option to have Notes solve typed math problems (or written on the &zwnj;iPad&zwnj;).<br/>
-<br/>
-The &zwnj;iOS 18&zwnj; beta is available to developers at the current time, with Apple planning to introduce a public beta in July.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/ios-18-notes-app-colors/">iOS 18 Notes App Supports Colors for Highlighting Typed Text</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-notes-app-supports-colors-for-highlighting-typed-text.2428890/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Music Features Improved Spotify-Like Queue System on iOS 18</title>
-		<link>https://www.macrumors.com/2024/06/11/apple-music-new-queue-system-ios-18/</link>
-		<comments>https://forums.macrumors.com/threads/apple-music-features-improved-spotify-like-queue-system-on-ios-18.2428883/</comments>
-		<pubDate>Tue, 11 Jun 2024 11:30:44 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/11/apple-music-new-queue-system-ios-18/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iOS 18</category>
-		<category>Apple Music</category>
-		
-
-		<description><![CDATA[Apple has revamped the song queuing system in the Music app on iOS 18, and <a href="https://www.reddit.com/r/iOSBeta/comments/1dcx4o0/ios_18_db1_new_queue_system/">early reaction</a> to the changes has been overwhelmingly positive.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Music-Queue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955027" /><br/>
-Notable changes include a new "Add Songs to Queue" button at the bottom of the queue, an option to clear the entire queue all at once, and the ability to change the currently playing song without having the queue disappear. In addition, the former "Play Last" menu option has been replaced with "Add to Queue." While listening to a playlist, it is now possible to add a song to the queue for immediate playback after the current song, whereas the song would previously get added to the end of the playlist.<br/>
-<br/>
-These changes bring Apple Music's queuing system on iPhone more in line with Spotify, and the Android version of the Apple Music app. It also brings Apple Music's queuing system more in line with how it worked back on iOS 9.<br/>
-<br/>
-iOS 18 is currently available in beta for members of the Apple Developer Program, with a public beta to follow in July. The update should be widely released in September, allowing everyone to try out the new queuing system.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/11/apple-music-new-queue-system-ios-18/">Apple Music Features Improved Spotify-Like Queue System on iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-music-features-improved-spotify-like-queue-system-on-ios-18.2428883/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
