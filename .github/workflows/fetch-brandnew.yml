@@ -1,0 +1,34 @@
+name: Brand New Feed
+
+on:
+  schedule:
+    - cron: '0 0 * * 1,4' # Runs every Mon+Thu
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch RSS Feed
+        run: |
+          wget -O brandnew.xml https://ucllc.memberfulcontent.com/rss/7348?auth=qiDfzunxf8PPBuKdUo96efLj
+        # Replace 'https://example.com/rss-feed-url' with the actual RSS feed URL
+
+      - name: Commit Changes
+        run: |
+          git config user.name 'GitHub Actions'
+          git config user.email 'actions@github.com'
+          git add brandnew.xml
+          git commit -m 'Update Brand New feed'
+          git push
+
+      - name: Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+
