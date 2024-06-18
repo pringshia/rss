@@ -14,12 +14,37 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 18 Jun 2024 01:03:16 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 18 Jun 2024 05:04:01 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple&#039;s Phone App Finally Supports T9 Dialing in iOS 18</title>
+		<link>https://www.macrumors.com/2024/06/18/ios-18-phone-app-keypad-t9-dialing/</link>
+		<comments>https://forums.macrumors.com/threads/apples-phone-app-finally-supports-t9-dialing-in-ios-18.2429503/</comments>
+		<pubDate>Tue, 18 Jun 2024 04:11:25 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/18/ios-18-phone-app-keypad-t9-dialing/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[T9 dialing, or Text on 9 keys, is a predictive text technology that emerged in the late 90s to make it easier to type text messages on devices with limited input options, such as traditional mobile phones with numeric keypads. Each number key (2-9) on a T9 keypad is mapped to a set of letters. For example, the key "2" corresponds to "ABC," "3" to "DEF," and so on.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/t9-dialing-phone-keypad-ios-18.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-955980" /><br/>
+Android phones have had the feature for years, and in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> beta, Apple has finally added T9 dialing support to the Phone App. So now you can type a contact's name using the number pad, and matching contacts will appear above the keypad.<br/>
+<br/>
+When you press a key, T9 doesn't just consider the individual letters that the key represents but predicts the most likely word you are trying to type. In the same way, &zwnj;iOS 18&zwnj; combines all possible letter combinations to filter results from your contacts. To bring up your Dad's number, for example, you would tap 3-2-3 (D-A-D). Or if you have someone called Ben in your contacts, tapping 2-3-6 (B-E-N) should bring up their number.<br/>
+<br/>
+The best match appears first above the keypad, and tapping the person's name will call them. If there are several possible matches in your contacts, they can be revealed as a list by tapping "X more..." below the first match. Taken together, the new options should enable faster calling.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/t9-phone-dialing-ios-18-keypad.jpg" alt="" width="4377" height="2796" class="aligncenter size-full wp-image-955984" /><br/>
+In addition, when you type in a new number into the keypad in &zwnj;iOS 18&zwnj;, it now gives you two options to add it to your contacts. In <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, a single "Add number" option appears above the keypad, whereas in &zwnj;iOS 18&zwnj; there is a new button in the top-left corner that reveals "Create New Contact" and "Add to Existing Contact."<br/>
+<br/>
+&zwnj;iOS 18&zwnj; is currently in beta for Apple Developer Program members, with a public beta to follow in July. The update should be widely released in September.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/18/ios-18-phone-app-keypad-t9-dialing/">Apple&#039;s Phone App Finally Supports T9 Dialing in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-phone-app-finally-supports-t9-dialing-in-ios-18.2429503/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>U.S. Government Sues Adobe for Hidden Termination Fees When Canceling Subscription</title>
@@ -602,35 +627,6 @@ visionOS 2 can turn existing 2D photos into spatial photos with machine learning
 Each week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.<br/>
 <br/>
 So if you want to have <a href="https://mailchi.mp/macrumors/jun-13-2024">top stories</a> like the above recap delivered to your email inbox each week, <b><a href="http://eepurl.com/OHdUX">subscribe to our newsletter</a></b>!<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/top-stories/">Top Stories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/15/top-stories-wwdc-2024-recap/">Top Stories: WWDC Recap With iOS 18, Apple Intelligence, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/top-stories-wwdc-recap-with-ios-18-apple-intelligence-and-more.2429272/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>You Can Give Siri a New Name With iOS 18&#039;s Vocal Shortcuts</title>
-		<link>https://www.macrumors.com/2024/06/14/ios-18-rename-siri/</link>
-		<comments>https://forums.macrumors.com/threads/you-can-give-siri-a-new-name-with-ios-18s-vocal-shortcuts.2429243/</comments>
-		<pubDate>Fri, 14 Jun 2024 16:33:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/14/ios-18-rename-siri/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> added a <a href="https://www.macrumors.com/2024/05/15/ios-18-accessibility-features/">Vocal Shortcuts accessibility feature</a>, and now that &zwnj;iOS 18&zwnj; is available in a beta capacity, users have figured out that this option can be used to give <a href="https://www.macrumors.com/guide/siri/">Siri</a> a new wake word.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/iOS-18-Siri-Integrated-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-945741" /><br/>
-With Vocal Shortcuts, you can assign a custom phrase that &zwnj;Siri&zwnj; can understand to launch shortcuts and complete "complex tasks," and one of the shortcuts you can set up is an alternative for "Hey &zwnj;Siri&zwnj;."<br/>
-<br/>
-To set up a Vocal Shortcut for &zwnj;Siri&zwnj;, open up the Settings app, go to Accessibility, and scroll down to Vocal Shortcuts. From there, choose "Set Up Vocal Shortcuts," and select "&zwnj;Siri&zwnj;" (not &zwnj;Siri&zwnj; Request). Type in the new name that you want to use to activate &zwnj;Siri&zwnj;, such as "Computer."<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/siri-vocal-shortcut-setup.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-955565" /><br/>
-Once your new name is set, you can say that name to activate &zwnj;Siri&zwnj; on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. Note that this is limited to the &zwnj;iPhone&zwnj;, and it does not sync to other devices like <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> so you'll still need to use "&zwnj;Siri&zwnj;" for those devices.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/siri-vocal-shortcut-setup-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-955566" /><br/>
-<a href="https://www.reddit.com/r/iOSBeta/comments/1dfeobg/ios_18_db1_vocal_shortcuts_can_be_used_to_trigger/">As noted on Reddit</a>, if you set this up, you need to pause to wait for it to activate before you give a command. With &zwnj;Siri&zwnj;, you can say an entire phrase, like "Hey &zwnj;Siri&zwnj; what time is it?" without stopping. That does not work with the Vocal Shortcut setup. You need to state the wake word, pause, and then give the command once the wake word has activated &zwnj;Siri&zwnj;.<br/>
-<br/>
-Because of the delay, this isn't likely an option that most people are going to want to use permanently, though &zwnj;Siri&zwnj; will still activate with "Hey &zwnj;Siri&zwnj;" as well as the shortcut.<br/>
-<br/>
-Vocal Shortcuts can be used to set a voice command to run any shortcut, plus you can set up triggers for apps, system features like taking a screenshot, changing volume, scrolling, activating Control Center, and more. Vocal Shortcuts can be paired with a custom sound instead of speech, and it is a useful accessibility option aimed at those who need alternative ways to activate system features.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/14/ios-18-rename-siri/">You Can Give Siri a New Name With iOS 18&#039;s Vocal Shortcuts</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/you-can-give-siri-a-new-name-with-ios-18s-vocal-shortcuts.2429243/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
