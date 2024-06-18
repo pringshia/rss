@@ -14,12 +14,116 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 17 Jun 2024 13:02:26 PDT</lastBuildDate>
+	<lastBuildDate>Mon, 17 Jun 2024 17:12:26 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>U.S. Government Sues Adobe for Hidden Termination Fees When Canceling Subscription</title>
+		<link>https://www.macrumors.com/2024/06/17/us-government-sues-adobe-hidden-fees/</link>
+		<comments>https://forums.macrumors.com/threads/u-s-government-sues-adobe-for-hidden-termination-fees-when-canceling-subscription.2429478/</comments>
+		<pubDate>Mon, 17 Jun 2024 16:48:36 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/17/us-government-sues-adobe-hidden-fees/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>FTC</category>
+		<category>Adobe</category>
+		<category>DOJ</category>
+		
+
+		<description><![CDATA[The United States Department of Justice and the Federal Trade Commission today <a href="https://www.justice.gov/opa/pr/united-states-files-complaint-against-adobe-and-two-adobe-executives-alleged-violations">levied a lawsuit against Adobe</a> [<a href="https://www.justice.gov/opa/media/1356176/dl?inline">PDF</a>] for imposing a hidden termination fee on subscribers who want to cancel their Adobe plans. Adobe is accused of forcing subscribers to "navigate a complex and challenging cancellation process designed to deter them from cancelling subscriptions they no longer wanted."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/adobe-creative-cloud-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950293" /><br/>
+Adobe offers its Creative Cloud products on a subscription basis, with fees that are paid monthly. A monthly payment suggests that it's possible to cancel anytime, but that's not how Adobe works because most customers are actually locked into a hidden annual agreement.<br/>
+<br/>
+Customers who sign up for a free trial and are then charged and signed up to the default Creative Cloud plan, which is actually an annual contract. Canceling the annual contract requires customers to pay a lump sum of 50 percent of the "remaining contractual obligation" to cancel, despite the fact that service ends that month.<br/>
+<br/>
+Adobe <em>does</em> let customers sign up for a month-to-month subscription plan, but at a higher cost than the annual contract that's paid monthly, and the difference is not always clear to new or existing customers. Adobe even has <a href="https://helpx.adobe.com/manage-account/using/creative-cloud-subscription-terms.html">a whole help page</a> because of the confusing nature of its subscription. If you look at the Adobe website, for example, Adobe lists a &#36;60/month fee for accessing its full suite of apps, but that's only if you agree to the annual contract. A true month-to-month plan that you can cancel anytime is &#36;90/month, and if you pay for a year upfront, you get no money back when you cancel after a 14-day period.<br/>
+<br/>
+According to the DoJ, Adobe's setup violates the Restore Online Shoppers' Confidence Act (ROSCA) through the use of fine print and inconspicuous hyperlinks to hide information about the Early Termination Fee.<br/>
+<blockquote>The complaint alleges that for years, Adobe has profited from this hidden fee, misleading consumers about the true costs of a subscription and ambushing them with the fee when they try to cancel, wielding the fee as a powerful retention tool.<br/>
+<br/>
+The complaint alleges that Adobe has further violated ROSCA by failing to provide consumers with a simple mechanism to cancel their recurring, online subscriptions. Instead, Adobe allegedly protects its subscription revenues by thwarting subscribers' attempts to cancel, subjecting them to a convoluted and inefficient cancellation process filled with unnecessary steps, delays, unsolicited offers and warnings.</blockquote><br/>
+The lawsuit asks for "unspecified amounts of consumer redress" along with monetary civil penalties and a permanent injunction that would prevent Adobe from continuing to use hidden fees to thwart customer cancelations.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ftc/">FTC</a>, <a href="https://www.macrumors.com/guide/adobe/">Adobe</a>, <a href="https://www.macrumors.com/guide/doj/">DOJ</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/17/us-government-sues-adobe-hidden-fees/">U.S. Government Sues Adobe for Hidden Termination Fees When Canceling Subscription</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/u-s-government-sues-adobe-for-hidden-termination-fees-when-canceling-subscription.2429478/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>watchOS 11 Supports Automatic Nap Detection</title>
+		<link>https://www.macrumors.com/2024/06/17/watchos-11-supports-automatic-nap-detection/</link>
+		<comments>https://forums.macrumors.com/threads/watchos-11-supports-automatic-nap-detection.2429472/</comments>
+		<pubDate>Mon, 17 Jun 2024 16:05:37 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/17/watchos-11-supports-automatic-nap-detection/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a> appears to include a new feature that allows an Apple Watch to automatically detect and record when you're taking a nap. As <a href="https://www.reddit.com/r/iOSBeta/comments/1dh5hzm/ios_18_db_1_nap_detection/">shared on Reddit</a>, an Apple Watch owner took a nap and was able to see the sleep data recorded in the Health app, despite not putting the device in Sleep Mode.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/watchOS-11-Thumb-2-1.jpg" alt="" width="2560" height="1440" class="aligncenter size-full wp-image-955941" /><br/>
+Right now, the Apple Watch only tracks and records sleep when it is in Sleep Mode, and there is no support for tracking naps.<br/>
+<br/>
+The change should allow an Apple Watch running &zwnj;watchOS 11&zwnj; to record and include a nap in the Sleep section of the Health app, and it may also support automatic sleep tracking even when Sleep Mode isn't activated. Nap tracking has long felt like a missing feature from the Apple Watch, and this will be a welcome feature for those who supplement sleep with naps.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/apple-watch-nap-tracking-watchos-11.jpg" alt="" width="1290" height="1503" class="aligncenter size-full wp-image-955910" /><em><div class="center-wrap">Image via Reddit</div></em><br/>
+Apple did not mention a change to the Sleep app in its preview information for &zwnj;watchOS 11&zwnj;, and the only mention of sleep is related to the new Vitals app, which collects data for your health metrics during sleep in order to populate a typical range feature.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>, <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/17/watchos-11-supports-automatic-nap-detection/">watchOS 11 Supports Automatic Nap Detection</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/watchos-11-supports-automatic-nap-detection.2429472/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Teases June 25 Beats Pill Unveiling</title>
+		<link>https://www.macrumors.com/2024/06/17/apple-teases-june-25-beats-pill-unveiling/</link>
+		<comments>https://forums.macrumors.com/threads/apple-teases-june-25-beats-pill-unveiling.2429465/</comments>
+		<pubDate>Mon, 17 Jun 2024 15:27:45 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/17/apple-teases-june-25-beats-pill-unveiling/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Beats</category>
+		
+
+		<description><![CDATA[Apple appears to be planning to unveil its new Beats Pill speaker on Tuesday, June 25, according to a teaser shared on social media site X (formerly Twitter) today.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-949655" src="https://images.macrumors.com/article-new/2024/05/New-Beats-Pill-iOS-17.5-Feature.jpg" alt="" width="2500" height="1406" /><br/>
+The Beats by Dre account posted a short video starring LeBron James and featuring the Beats Pill speaker, with the text "6/25," which seemingly hints at the debut date of the device.<br/>
+<br/>
+Signs of a new Beats Pill speaker first surfaced in April when NBA superstar LeBron James was spotted <a href="https://www.macrumors.com/2024/04/20/lebron-james-unreleased-beats-pill/">carrying it in a photo</a>. It was later spotted with F1 driver <a href="https://www.macrumors.com/2024/05/02/unreleased-beats-pill-daniel-ricciardo/">Daniel Ricciardo</a>, soccer star Lionel Messi, and Kim Kardashian.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="und" dir="ltr">6/25. <a href="https://twitter.com/KingJames?ref_src=twsrc%5Etfw">@KingJames</a> <a href="https://twitter.com/LilTunechi?ref_src=twsrc%5Etfw">@LilTunechi</a> <a href="https://t.co/NkpLlTeVhJ">pic.twitter.com/NkpLlTeVhJ</a></p>&mdash; Beats by Dre (@beatsbydre) <a href="https://twitter.com/beatsbydre/status/1802824048474562753?ref_src=twsrc%5Etfw">June 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Our first real look at the speaker came in May with images <a href="https://www.macrumors.com/2024/05/07/apple-beats-pill-ios-17-5/">hidden in the iOS 17.5 beta</a>, and since then, it has been spotted in multiple <a href="https://www.macrumors.com/2024/05/28/new-beats-pill-speaker-on-apple-regulatory-website/">regulatory databases</a>.<br/>
+<br/>
+While no official details have surfaced on the Beats Pill feature set, it has a pill-shaped design that's similar to the Beats Pill speaker that was <a href="https://www.macrumors.com/2022/01/10/beats-pill-discontinued/">discontinued in 2022</a>. The new model includes a lanyard that was not provided with prior speakers, and based on the iOS 17.5 leak, we know it will come in gold, red, and black. Other likely features include upgraded Bluetooth 5.3, <a href="https://www.macrumors.com/guide/find-my-network-accessory-program/">Find My</a> integration, and USB-C charging, all of which are upgrades Apple has been adding across its product lineup.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/beats/">Beats</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/17/apple-teases-june-25-beats-pill-unveiling/">Apple Teases June 25 Beats Pill Unveiling</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-teases-june-25-beats-pill-unveiling.2429465/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Beta Notes Reveal More Changes for FaceTime, Siri, and Wallet</title>
+		<link>https://www.macrumors.com/2024/06/17/ios-18-facetime-siri-wallet-changes/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-beta-notes-reveal-more-changes-for-facetime-siri-and-wallet.2429456/</comments>
+		<pubDate>Mon, 17 Jun 2024 14:01:01 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/17/ios-18-facetime-siri-wallet-changes/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 18</category>
+		<category>Siri</category>
+		<category>FaceTime</category>
+		<category>Apple Wallet</category>
+		
+
+		<description><![CDATA[Apple shared <a href="https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18-release-notes">iOS 18 beta release notes</a> on its developer website last week, and they reveal some smaller changes related to FaceTime, Siri, and the Wallet app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Generic-iOS-18-Feature-Real-Mock.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-954594" /><br/>
+iOS 18 is currently in beta for Apple Developer Program members, with a <a href="https://beta.apple.com/">public beta</a> to follow in July. The update should be widely released in September.<br/>
+<br/>
+<h2>FaceTime</h2><br/>
+Apple says FaceTime will use more data in Low Power Mode on iOS 18 when network conditions are good, for improved video call quality.<br/>
+<br/>
+<h2>Siri</h2><br/>
+iOS 18 includes a new setting that can "significantly" improve Siri's audio quality in Bluetooth-enabled vehicles that lack CarPlay, according to Apple.<br/>
+<br/>
+The new option can be found in the Settings app under Siri → Siri Responses → "Respond over Media Source." The description for this setting says that "Siri will respond over A2DP car stereos, which is ideal while listening to media from your phone."<br/>
+<br/>
+<h2>Wallet</h2><br/>
+As noted <a href="https://x.com/nicolas09F9/status/1802785545195798549">by Nicolás Álvarez</a>, the notes indicate that users adding an ID to the Wallet app on the iPhone may now be asked to take a Live Photo instead of, or in addition to, conducting a series of head and facial movements. Apple says the Live Photo will be evaluated by the device to ensure that the real and rightful person is adding the ID.<br/>
+<br/>
+Apple first announced the ability to add a driver's license or ID to the Wallet app in 2021, but <a href="https://www.macrumors.com/2024/03/14/apple-wallet-app-ids-slow-adoption/">only four U.S. states have rolled out the feature</a> so far, including Arizona, Maryland, Colorado, and Georgia. The feature provides a convenient and contactless way to display proof of identity or age at select airports, businesses, and venues.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/siri/">Siri</a>, <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a>, <a href="https://www.macrumors.com/guide/apple-wallet/">Apple Wallet</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/17/ios-18-facetime-siri-wallet-changes/">iOS 18 Beta Notes Reveal More Changes for FaceTime, Siri, and Wallet</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-beta-notes-reveal-more-changes-for-facetime-siri-and-wallet.2429456/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple&#039;s 2024 Back to School Sale Launching This Week</title>
@@ -527,97 +631,6 @@ Once your new name is set, you can say that name to activate &zwnj;Siri&zwnj; on
 Because of the delay, this isn't likely an option that most people are going to want to use permanently, though &zwnj;Siri&zwnj; will still activate with "Hey &zwnj;Siri&zwnj;" as well as the shortcut.<br/>
 <br/>
 Vocal Shortcuts can be used to set a voice command to run any shortcut, plus you can set up triggers for apps, system features like taking a screenshot, changing volume, scrolling, activating Control Center, and more. Vocal Shortcuts can be paired with a custom sound instead of speech, and it is a useful accessibility option aimed at those who need alternative ways to activate system features.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/14/ios-18-rename-siri/">You Can Give Siri a New Name With iOS 18&#039;s Vocal Shortcuts</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/you-can-give-siri-a-new-name-with-ios-18s-vocal-shortcuts.2429243/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Sonos&#039; Privacy Policy Change Suggests It Might Sell Your Data</title>
-		<link>https://www.macrumors.com/2024/06/14/sonos-privacy-policy-change-suggests-it-might-sell-your-data/</link>
-		<comments>https://forums.macrumors.com/threads/sonos-privacy-policy-change-suggests-it-might-sell-your-data.2429242/</comments>
-		<pubDate>Fri, 14 Jun 2024 16:04:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/14/sonos-privacy-policy-change-suggests-it-might-sell-your-data/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Sonos</category>
-		
-
-		<description><![CDATA[Popular audio company Sonos recently updated its U.S. privacy policy to make a small but notable change that seemingly puts customer data at risk. As noted by Louis Rossmann (via <em><a href="https://www.theverge.com/2024/6/14/24178433/sonos-privacy-policy-customer-data-controversy">The Verge</a></em>), the new Sonos privacy policy removes a line about not selling customer data.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/04/sonos-roam-feature.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-792626" /><br/>
-In the 2023 version of its privacy policy, Sonos had this sentence: "We do not and will not sell your personal data to third parties." The statement has been removed from the 2024 version of the privacy policy in the United States, though it is still present in privacy policies in other countries.<br/>
-<br/>
-The change to the privacy policy has <a href="https://www.reddit.com/r/sonos/comments/1desj5c/sonos_updates_tos_and_removes_clause_explicitly/">sparked commentary on Reddit</a> from Sonos customers who have become increasingly unhappy with the company in recent months. Back in May, Sonos rolled out a new app design that has <a href="https://www.macrumors.com/2024/05/10/sonos-said-rolling-out-widely-criticized-app-redesign-took-courage/">been widely criticized</a> for missing a long list of features like editing a song queue, managing playlists, shuffling a music library, and more.<br/>
-<br/>
-Sonos users already unhappy with the app changes feel that the privacy policy update is another nail in the coffin for Sonos. From Reddit user <a href="https://www.reddit.com/r/sonos/comments/1desj5c/sonos_updates_tos_and_removes_clause_explicitly/">RemarkableAgent1350</a>:<br/>
-<blockquote>What is happening at Sonos? This hurts to read, especially after all the app drama - and from a company that I loved. This just might be the straw that broke the camel's back, so to speak. I think I'm done with Sonos.</blockquote><br/>
-The removal of that line from the privacy policy doesn't mean Sonos is definitely selling customer data, and the company has not responded queries about what the change means as of yet.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/sonos/">Sonos</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/14/sonos-privacy-policy-change-suggests-it-might-sell-your-data/">Sonos&#039; Privacy Policy Change Suggests It Might Sell Your Data</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-privacy-policy-change-suggests-it-might-sell-your-data.2429242/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18 Gains Emergency SOS Live Video Support</title>
-		<link>https://www.macrumors.com/2024/06/14/ios-18-gains-emergency-sos-live-video-support/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-gains-emergency-sos-live-video-support.2429240/</comments>
-		<pubDate>Fri, 14 Jun 2024 15:29:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/14/ios-18-gains-emergency-sos-live-video-support/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> is giving <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users who find themselves in an emergency situation a way to provide more information and context to emergency responders with an update to Emergency SOS.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/emergency-sos.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-955647" /><br/>
-Emergency SOS now supports live video, which means once the SOS feature is activated, streaming video and recorded media can be sent to emergency personnel. Emergency dispatchers can send a request for a user to share either live video or a video from the camera roll, which Apple says should make it easier and faster to get help.<br/>
-<br/>
-Video is sent over a secure connection to the emergency dispatcher. The option could allow those in emergency situations to send key information for location purposes, to assess injury or risk, or to be used as evidence at a later date.<br/>
-<br/>
-Emergency SOS is a feature on the &zwnj;iPhone&zwnj; and Apple Watch that automatically calls the local emergency number and shares location information with emergency services. It is the backbone of the Crash Detection, Fall Detection, and Emergency SOS via satellite features.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/14/ios-18-gains-emergency-sos-live-video-support/">iOS 18 Gains Emergency SOS Live Video Support</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-gains-emergency-sos-live-video-support.2429240/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Explains How iOS 18 Genmoji Work</title>
-		<link>https://www.macrumors.com/2024/06/14/apple-explains-ios-18-genmoji/</link>
-		<comments>https://forums.macrumors.com/threads/apple-explains-how-ios-18-genmoji-work.2429239/</comments>
-		<pubDate>Fri, 14 Jun 2024 14:55:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/14/apple-explains-ios-18-genmoji/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[One of the Apple Intelligence features coming in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> is Genmoji, which will allow <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users to use AI to generate all-new emoji characters based on text input. The Genmoji will look similar to emoji, but are custom created, according to an <a href="https://developer.apple.com/videos/play/wwdc2024/10220/">iOS 18 WWDC session focused on Genmoji</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Genmoji-iOS-18.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954516" /><br/>
-Emoji are not images, but are instead pictographs that are encoded in the Unicode Standard and rendered by each platform. Emoji are added by the Unicode Consortium, which raised some questions about how Apple's Genmoji solution will work.<br/>
-<br/>
-As it turns out, Apple has designed an NSAdaptiveImageGlyph API for Genmoji and also other images like stickers and Memoji, and this API makes them behave like emoji. It is powered by a standard image format in a square aspect ratio with support for multiple resolutions, and it is augmented with metadata. This setup means that Genmoji and other content using NSAdaptiveImageGlyph can be used with and formatted alongside regular text, similar to emoji.<br/>
-<br/>
-Genmoji can be used alone, copied, pasted, and sent as stickers. They can be used inline with text, and they respect line height and text formatting. Anywhere that can support rich text can support Genmoji, according to Apple. <br/>
-<br/>
-Genmoji are not Unicode and may not be appropriate for some data such as identifiers, phone numbers, email addresses, and will not be supported as widely as emoji. Prior versions of iOS, iPadOS, and macOS, as well as apps that do not support rich text will denote Genmoji with a text description.<br/>
-<br/>
-Apple Intelligence features like Genmoji are not yet in the &zwnj;iOS 18&zwnj; developer beta, but Apple plans to let developers begin testing Apple Intelligence sometime this summer. Genmoji and Apple Intelligence will be available to the public this fall, but they will be limited to <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models and iPads and Macs with M-series chips.<br/>
-<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/14/apple-explains-ios-18-genmoji/">Apple Explains How iOS 18 Genmoji Work</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-explains-how-ios-18-genmoji-work.2429239/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>You Can Select a Preferred Home Hub in iOS 18</title>
-		<link>https://www.macrumors.com/2024/06/14/ios-18-preferred-home-hub/</link>
-		<comments>https://forums.macrumors.com/threads/you-can-select-a-preferred-home-hub-in-ios-18.2429237/</comments>
-		<pubDate>Fri, 14 Jun 2024 14:22:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/14/ios-18-preferred-home-hub/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iOS 18</category>
-		<category>HomeKit</category>
-		
-
-		<description><![CDATA[The Home app in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> allows <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> users who have more than one device that serves as a home hub to select which one should be used as the preferred hub. It is a small but useful change because it prevents &zwnj;HomeKit&zwnj; from choosing a hub that is further away from most &zwnj;HomeKit&zwnj; products or that has a weaker connection. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/11/homekit-showdown-2-thumb.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-826321" /><br/>
-In <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> and earlier, there has been no way to select a home hub, and &zwnj;HomeKit&zwnj; has picked randomly. That can lead to connectivity issues in some situations. For those who do not care about which home hub &zwnj;HomeKit&zwnj; selects, Automatic Selection remains an option.<br/>
-<br/>
-The <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> and the <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> are able to serve as home hubs, but the option to set a preferred hub seems to be limited to the &zwnj;Apple TV&zwnj; as of right now, because Apple has not yet provided a &zwnj;HomePod&zwnj; beta to developers. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/preferred-home-hub-ios-18.jpg" alt="" width="672" height="767" class="aligncenter size-full wp-image-955650" /><em><div class="center-wrap"><a href="https://www.reddit.com/r/HomeKit/comments/1df0nkg/new_preferred_home_hub_in_ios18/">Image from Reddit</a></em></div><br/>
-Other features coming in &zwnj;HomeKit&zwnj; include Customize Access for managing how and when people access devices like alarm systems, door locks, and garage door openers, with support for guest schedules. There's also a new Express Mode for unlocking door locks automatically as you approach, and support for robot vacuum cleaners is set to come later this year.<br/>
-<br/>
-<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/14/ios-18-preferred-home-hub/">You Can Select a Preferred Home Hub in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/you-can-select-a-preferred-home-hub-in-ios-18.2429237/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
