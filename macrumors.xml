@@ -14,12 +14,76 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 19 Jun 2024 01:03:01 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jun 2024 05:04:46 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Explains iPhone 15 Pro Requirement for Apple Intelligence</title>
+		<link>https://www.macrumors.com/2024/06/19/apple-iphone-15-pro-requirement-apple-intelligence/</link>
+		<comments>https://forums.macrumors.com/threads/apple-explains-iphone-15-pro-requirement-for-apple-intelligence.2429589/</comments>
+		<pubDate>Wed, 19 Jun 2024 04:48:58 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/19/apple-iphone-15-pro-requirement-apple-intelligence/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iPhone 15 Pro</category>
+		<category>Daring Fireball</category>
+		<category>Apple Intelligence</category>
+		
+
+		<description><![CDATA[With iOS 18, iPadOS 18, and macOS Sequoia, Apple is introducing a new personalized AI experience called <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/">Apple Intelligence</a> that uses on-device, generative large-language models to enhance the user experience across iPhone, iPad, and Mac.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Apple-WWDC24-Apple-Intelligence-hero-240610.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-954530" /><br/>
+These new AI features require Apple's latest iPhone 15 Pro and iPhone 15 Pro Max models to work, while only Macs and iPads with M1 or later chips will support Apple Intelligence. Since the news came to light, many users have been asking what the reason is for the cut-off.<br/>
+<br/>
+In The <a href="https://www.macrumors.com/2024/06/14/the-talk-show-live-from-wwdc-2024/">Talk Show Live From WWDC 2024</a>, Daring Fireball's John Gruber put the question to Apple's AI/machine learning head John Giannandrea, marketing chief Greg Joswiak, and software engineering chief Craig Federighi, and this was the response.<br/>
+<blockquote>Giannandrea: "So these models, when you run them at run times, it's called inference, and the inference of large language models is incredibly computationally expensive. And so it's a combination of bandwidth in the device, it's the size of the Apple Neural Engine, it's the oomph in the device to actually do these models fast enough to be useful. You could, in theory, run these models on a very old device, but it would be so slow that it would not be useful.<br/>
+<br/>
+Gruber: "So it's not a scheme to sell new iPhones?"<br/>
+<br/>
+Joswiak: "No, not at all. Otherwise, we would have been smart enough just to do our most recent iPads and Macs, too, wouldn't we?"</blockquote>Apple's software engineering chief Craig Federighi said that the company's first move with any new feature is to work out how to bring it back to older devices as far as possible. But when it comes to Apple Intelligence, "This is the hardware that it takes... It's a pretty extraordinary thing to run models of this power on an iPhone," he added.<br/>
+<br/>
+The iPhone 15 Pro models use the A17 Pro chip, which has a 16-core Neural Engine that's up to 2x faster than the A16 chip found in the iPhone 15 and iPhone 15 Plus, performing nearly 35 trillion operations per second. Federighi hinted that RAM is also another aspect of the system that the new AI features require, so it is perhaps no coincidence that all the devices compatible with Apple Intelligence have at least 8GB of RAM.<br/>
+<br/>
+Despite the cutoff, owners of older iPhones still have plenty to look forward to in Apple's upcoming software update: iOS 18 boasts several new features besides Apple Intelligence, and every iPhone that can run iOS 17 is compatible iOS 18. That includes the iPhone XR from 2018.<br/>
+<br/>
+If you still want Apple Intelligence in your pocket but don't have an iPhone 15 or iPhone 15 Pro, you may want to hold out for the iPhone 16 series, which is expected to launch when iOS 18 is released in the fall. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/daringfireball-net/">Daring Fireball</a>, <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Caution)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/19/apple-iphone-15-pro-requirement-apple-intelligence/">Apple Explains iPhone 15 Pro Requirement for Apple Intelligence</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-explains-iphone-15-pro-requirement-for-apple-intelligence.2429589/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Select Multiple Items Faster With This Simple iPhone Gesture</title>
+		<link>https://www.macrumors.com/how-to/select-multiple-items-faster-simple-iphone-gesture/</link>
+		<comments>https://forums.macrumors.com/threads/select-multiple-items-faster-with-this-simple-iphone-gesture.2429584/</comments>
+		<pubDate>Wed, 19 Jun 2024 03:40:49 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/select-multiple-items-faster-simple-iphone-gesture&#038;post_date=1718804449/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> has multiple touch and gesture capabilities that can enhance how you interact with apps. Some, like pinch and zoom, are well known enough to be considered second nature, but others are less obvious, like the one we're about to explain.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/multiple-select-gesture.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-956201" /><br/>
+<br/>
+<h2>Two-Finger Drag to Select Items</h2><br/>
+If have apps where you habitually tap on each individual item in a list to select them – emails in your Mail inbox, for example – it's time to dial in some efficiency and embrace this faster method.<br/>
+<br/>
+This gestural feature allows you to easily select (or deselect) multiple items in apps like Contacts, Mail, Messages, Voice Memos, Notes, and indeed any Apple app that lists multiple items. Here's how it works. <br/>
+<ol><br/>
+  <li>Open an app where multiple item selection is supported.</li><br/>
+  <li>Touch and hold the screen with two fingers at the same time.</li><br/>
+  <li>While keeping both fingers on the screen, drag them down (or up) to select multiple items. As you drag, items will be highlighted to indicate they are selected.</li><br/>
+  <li>Once the desired items are selected, you can perform actions such as moving, deleting, or organizing them.</li><br/>
+</ol><img src="https://images.macrumors.com/article-new/2024/06/two-finger-select-gesture.jpg" alt="" width="4377" height="2796" class="aligncenter size-full wp-image-956202" /><br/>
+<br/>
+That's all there is to it. This simple yet powerful feature streamlines your workflow, saving you time and effort when handling multiple items. Looking to speed up your &zwnj;iPhone&zwnj; text editing skills? Check out our <a href="https://www.macrumors.com/how-to/speed-up-text-navigation-iphone-hidden-trackpad/">favorite hidden trick</a> by following the link.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/select-multiple-items-faster-simple-iphone-gesture/">Select Multiple Items Faster With This Simple iPhone Gesture</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/select-multiple-items-faster-with-this-simple-iphone-gesture.2429584/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Has &#039;Very Serious&#039; DMA Issues, EU to Enforce Rules &#039;Soon&#039;</title>
@@ -506,54 +570,6 @@ The new option can be found in the Settings app under Siri → Siri Responses �
 As noted <a href="https://x.com/nicolas09F9/status/1802785545195798549">by Nicolás Álvarez</a>, the notes indicate that users adding an ID to the Wallet app on the iPhone may now be asked to take a Live Photo instead of, or in addition to, conducting a series of head and facial movements. Apple says the Live Photo will be evaluated by the device to ensure that the real and rightful person is adding the ID.<br/>
 <br/>
 Apple first announced the ability to add a driver's license or ID to the Wallet app in 2021, but <a href="https://www.macrumors.com/2024/03/14/apple-wallet-app-ids-slow-adoption/">only four U.S. states have rolled out the feature</a> so far, including Arizona, Maryland, Colorado, and Georgia. The feature provides a convenient and contactless way to display proof of identity or age at select airports, businesses, and venues.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/siri/">Siri</a>, <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a>, <a href="https://www.macrumors.com/guide/apple-wallet/">Apple Wallet</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/17/ios-18-facetime-siri-wallet-changes/">iOS 18 Beta Notes Reveal More Changes for FaceTime, Siri, and Wallet</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-beta-notes-reveal-more-changes-for-facetime-siri-and-wallet.2429456/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s 2024 Back to School Sale Launching This Week</title>
-		<link>https://www.macrumors.com/2024/06/17/back-to-school-2024-launching-this-week/</link>
-		<comments>https://forums.macrumors.com/threads/apples-2024-back-to-school-sale-launching-this-week.2429448/</comments>
-		<pubDate>Mon, 17 Jun 2024 12:27:22 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/17/back-to-school-2024-launching-this-week/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Apple will launch its annual Back to School promotion for university students in the United States and Canada this week, according to <a href="https://pro.twitter.com/i/decks/1572255292661895168"><em>Bloomberg</em>'s Mark Gurman</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-851334" src="https://images.macrumors.com/article-new/2022/06/2022-back-to-school-apple-feature.jpg" alt="" width="2178" height="1224" /><br/>
-Apple's back to school sales provide students with a free Apple gift card when purchasing a Mac or an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and this year's promotion could help Apple push the new <a href="https://www.macrumors.com/guide/m2/">M2</a> <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a> and M4 <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models. Last year, Apple offered U.S. students <a href="https://www.macrumors.com/2023/06/06/apple-launches-2023-back-to-school-promotion/">up to &#36;150</a> when purchasing a Mac and up to &#36;100 when purchasing an &zwnj;iPad&zwnj;.<br/>
-<br/>
-Apple actually began advertising its Back to School sale on social networks <a href="https://www.macrumors.com/2024/06/04/apple-back-to-school-2024-sale-soon/">in early June</a>, with some Instagram users seeing an ad promoting Macs with discounts to college and university students.<br/>
-<br/>
-The ad depicted a Back to School image with the following text: "Buy Mac for university or college with education savings. Plus get a gift card for up to &#36;200." The screenshot of the ad was from a Canadian user, and that price point suggests we will see the same &#36;150 discount in the United States that Apple <a href="https://www.macrumors.com/2023/06/06/apple-launches-2023-back-to-school-promotion/">provided last year</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-953574" src="https://images.macrumors.com/article-new/2024/06/apple-ad-back-to-school.jpg" alt="" width="700" height="1104" /><br/>
-Clicking on the ad redirected to Apple's education website, but the ad seems to have gone up early as there has been no sign of a Back to School promotion as of yet. Last year's back to school sale began on Monday, June 5. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/17/back-to-school-2024-launching-this-week/">Apple&#039;s 2024 Back to School Sale Launching This Week</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-2024-back-to-school-sale-launching-this-week.2429448/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Discontinuing Apple Pay Later</title>
-		<link>https://www.macrumors.com/2024/06/17/apple-discontinuing-apple-pay-later/</link>
-		<comments>https://forums.macrumors.com/threads/apple-discontinuing-apple-pay-later.2429447/</comments>
-		<pubDate>Mon, 17 Jun 2024 11:44:23 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/17/apple-discontinuing-apple-pay-later/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Pay Later</category>
-		
-
-		<description><![CDATA[Apple is discontinuing <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a> Later, the buy now, pay later feature that it <a href="https://www.macrumors.com/2023/10/24/apple-pay-later-launches/">just launched last October</a>. &zwnj;Apple Pay&zwnj; Later is being discontinued as of today, but people who have existing &zwnj;Apple Pay&zwnj; Later loans will be able to continue to pay them off and manage them through the Wallet app.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/Apple-Pay-Later-feature-1.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-918417" /><br/>
-Apple announced plans to end the feature in a statement provided to <em><a href="https://9to5mac.com/2024/06/17/apple-pay-later-united-states-ending/">9to5Mac</a></em>, which also notes that customers will be able to access installment loans through their credit and debit cards with changes coming to &zwnj;Apple Pay&zwnj; this fall.<blockquote>Starting later this year, users across the globe will be able to access installment loans offered through credit and debit cards, as well as lenders, when checking out with Apple Pay. With the introduction of this new global installment loan offering, we will no longer offer Apple Pay Later in the U.S. Our focus continues to be on providing our users with access to easy, secure and private payment options with Apple Pay, and this solution will enable us to bring flexible payments to more users, in more places across the globe, in collaboration with Apple Pay enabled banks and lenders.</blockquote>Apple Pay Later officially launched in October and only in the United States, but it had been available in a testing capacity since March 2023. Available in the Wallet app, &zwnj;Apple Pay&zwnj; later allowed customers to split a purchase made with &zwnj;Apple Pay&zwnj; into four equal payments over a six week period, with no interest or fees. &zwnj;Apple Pay&zwnj; Later was available on purchases made on an iOS device using &zwnj;Apple Pay&zwnj;, and was limited to merchandise priced between &#36;75 and &#36;1,000. Each purchase required a separate loan application and approval.<br/>
-<br/>
-Apple did not provide insight into why it is discontinuing &zwnj;Apple Pay&zwnj; Later, but it is working to unravel its partnership with Goldman Sachs, the company that handles the <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a>, the Apple Savings account, and &zwnj;Apple Pay&zwnj; Later. Nixing &zwnj;Apple Pay&zwnj; Later means that Apple does not need to worry about replacing that functionality with a future partner.<br/>
-<br/>
-In <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, Apple will let users access installment financing options from their bank when using &zwnj;Apple Pay&zwnj;, which will replace the &zwnj;Apple Pay&zwnj; Later feature that Apple is eliminating. &zwnj;Apple Pay&zwnj; will also gain support for viewing rewards or points balances in Wallet and redeeming them with purchases.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-pay-later/">Apple Pay Later</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/17/apple-discontinuing-apple-pay-later/">Apple Discontinuing Apple Pay Later</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-discontinuing-apple-pay-later.2429447/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
