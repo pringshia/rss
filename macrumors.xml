@@ -14,12 +14,113 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 20 Jun 2024 09:03:46 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 20 Jun 2024 13:03:29 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iPhone Apps Can Integrate With Translate App on iOS 17.4 and Later</title>
+		<link>https://www.macrumors.com/2024/06/20/apple-translation-framework/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-apps-can-integrate-with-translate-app-on-ios-17-4-and-later.2429688/</comments>
+		<pubDate>Thu, 20 Jun 2024 11:15:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/20/apple-translation-framework/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 17</category>
+		<category>iOS 18</category>
+		<category>Apple Translate</category>
+		
+
+		<description><![CDATA[In a <a href="https://developer.apple.com/videos/play/wwdc2024/10117/">WWDC 2024 coding video</a> last week, Apple highlighted a <a href="https://developer.apple.com/documentation/Translation">recently-introduced API</a> that allows developers to offer built-in Translate app capabilities in their own apps on iOS 17.4, iPadOS 17.4, macOS Sonoma, and later.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iOS-17-4-Translate-App-API.jpeg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-956475" /><br/>
+While the iPhone, iPad, and Mac already offer a system-level translation function for highlighted text, websites viewed in Safari, and more, the API provides a convenient solution for user-generated content like reviews. For example, if a user writes a review in Japanese, the text can be quickly translated to other languages.<br/>
+<br/>
+iOS 18, iPadOS 18, and macOS Sequoia enhance the API by allowing translated text to appear in-line within an app, instead of in an overlaid Translate sheet.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Translate-App-API.jpeg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-956474" /><br/>
+Another language-related change on iOS 18 is <a href="https://developer.apple.com/videos/play/wwdc2024/10185/">bilingual keyboard support</a>. For example, you can type in English and Korean on the same keyboard without having to manually switch languages, complete with word suggestions in each language.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Multilingual-Keyboard.jpeg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-956476" /><br/>
+iOS 18, iPadOS 18, and macOS Sequoia are currently in beta for developers. The software updates will be released later this year.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a>, <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-translate/">Apple Translate</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a>, <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/20/apple-translation-framework/">iPhone Apps Can Integrate With Translate App on iOS 17.4 and Later</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-apps-can-integrate-with-translate-app-on-ios-17-4-and-later.2429688/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases First macOS Sonoma 14.6 Public Beta</title>
+		<link>https://www.macrumors.com/2024/06/20/apple-releases-first-macos-sonoma-14-6-public-beta/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-first-macos-sonoma-14-6-public-beta.2429685/</comments>
+		<pubDate>Thu, 20 Jun 2024 10:35:56 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/20/apple-releases-first-macos-sonoma-14-6-public-beta/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today seeded the first beta of an upcoming macOS 14.6 update to public beta testers, allowing non-developers to test the software ahead of its launch. Today's public beta comes a few days after Apple released the initial developer beta. <br/>
+<br/>
+<img class="aligncenter size-full wp-image-900182" src="https://images.macrumors.com/article-new/2023/06/macos-sonoma-4.jpg" alt="" width="2336" height="1314" /><br/>
+Apple today seeded the third beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.5 update to public beta testers, allowing non-developers to test the software ahead of its launch. The public beta comes a week after Apple <a href="https://www.macrumors.com/2024/04/17/apple-releases-second-public-beta-of-ios-17-5/">released the second public beta</a> and a day after Apple seeded the beta to developers. <br/>
+<br/>
+Beta testers can opt-in through the Software Update section of the System Settings app. Under Beta updates, simply toggle on the Sonoma Public Beta. Note that you must sign up to participate on Apple's <a href="https://beta.apple.com">beta testing website</a>.<br/>
+<br/>
+No new Mac features were found in the &zwnj;macOS Sonoma&zwnj; 14.6 developer beta, so it is not clear what might be included. With Apple now working on <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>, development on &zwnj;macOS Sonoma&zwnj; is beginning to wrap up.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/20/apple-releases-first-macos-sonoma-14-6-public-beta/">Apple Releases First macOS Sonoma 14.6 Public Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-first-macos-sonoma-14-6-public-beta.2429685/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases First Public Beta of iOS 17.6</title>
+		<link>https://www.macrumors.com/2024/06/20/apple-releases-first-public-beta-of-ios-17-6/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-first-public-beta-of-ios-17-6.2429684/</comments>
+		<pubDate>Thu, 20 Jun 2024 10:18:58 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/20/apple-releases-first-public-beta-of-ios-17-6/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today seeded the first betas of upcoming iOS 17.6 and iPadOS 17.6 updates to public beta testers, with the betas coming a few days after the <a href="https://www.macrumors.com/2024/06/17/apple-seeds-ios-17-6-beta-1-to-developers/">initial iOS and iPadOS 17.6 developer betas</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/iOS-17.6-Feature-Redux.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950716" /><br/>
+Public beta testers can get the beta by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Public Beta. Signing up on Apple's beta testing website is required.<br/>
+<br/>
+The new additions Apple promised for &zwnj;iOS 17&zwnj; have all been implemented at this point, so it is not clear what will be included in iOS 17.6, and no features were discovered in the developer beta.<br/>
+<br/>
+With Apple now shifting its focus to <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, it is likely that iOS 17.6 will include bug fixes and other under-the-hood improvements.<br/>
+<br/>
+Apple has also seeded the first public betas of upcoming watchOS 10.6 and tvOS 17.6 updates. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/20/apple-releases-first-public-beta-of-ios-17-6/">Apple Releases First Public Beta of iOS 17.6</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-first-public-beta-of-ios-17-6.2429684/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Final Cut Pro Gets Major Update With New Camera App</title>
+		<link>https://www.macrumors.com/2024/06/20/final-cut-pro-major-update/</link>
+		<comments>https://forums.macrumors.com/threads/final-cut-pro-gets-major-update-with-new-camera-app.2429683/</comments>
+		<pubDate>Thu, 20 Jun 2024 10:16:06 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/20/final-cut-pro-major-update/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Final Cut Pro</category>
+		
+
+		<description><![CDATA[Apple <a href="https://www.apple.com/newsroom/2024/06/new-versions-of-final-cut-pro-for-ipad-and-mac-available-today/">today released</a> Final Cut Pro 2 for the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> and Final Cut Pro 10.8 for the Mac, two Final Cut Pro updates that it <a href="https://www.macrumors.com/2024/05/07/final-cut-pro-ipad-2/">first announced back in May</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-949711" src="https://images.macrumors.com/article-new/2024/05/final-cut-pro-ipad.jpg" alt="" width="1960" height="1102" /><br/>
+Final Cut Pro for &zwnj;iPad&zwnj; has been updated with new capabilities that are designed for the M4 <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models that came out earlier this year.<br/>
+<br/>
+Live Multicam lets users capture up to four different angles of a single scene using connected iPhones and iPads. To make this feature work, Apple has created a Final Cut Camera app that captures video from each of the devices and feeds it into Final Cut Pro.<br/>
+<br/>
+Users can get a director's view of each connected camera in real time, and the settings can be adjusted from the Final Cut Pro app. There are options for tweaking exposure, focus, white balance, ISO, shutter speed, and zoom to get the perfect shots. Preview clips are passed through to Final Cut Pro and then replaced with full-resolution files so users can quickly move from production to editing.<br/>
+<br/>
+Final Cut Camera is available as a standalone app as of today and in addition to feeding footage to Final Cut Pro, it can be used as a video capture app for recording video with precise manual controls.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-949712" src="https://images.macrumors.com/article-new/2024/05/final-cut-camera.jpg" alt="" width="1960" height="1102" /><br/>
+The updated Final Cut Pro for &zwnj;iPad&zwnj; app supports external projects, so users can create or open projects on an external device and import media without taking up &zwnj;iPad&zwnj; storage space. Apple added additional customization options to Final Cut Pro, including 12 color-grading presets, eight basic text titles, 20 soundtracks, and new dynamic backgrounds.<br/>
+<br/>
+With the M4 chip, final rendering with Final Cut Pro is up to 2x faster, and it supports up to 4x more streams of ProRes RAW than the <a href="https://www.macrumors.com/guide/m1/">M1</a> chip. Final Cut for &zwnj;iPad&zwnj; works with the <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> Pro, adding support for barrel roll and squeeze, improving access to and control over tools.<br/>
+<br/>
+As for Final Cut Pro for the Mac, it includes Enhance Light and Color, an AI feature that improves color, color balance, contrast, and brightness in one step. Smooth Slo-Mo, another new feature, blends frames of video intelligently to provide higher-quality movement.<br/>
+<br/>
+Final Cut Pro for &zwnj;iPad&zwnj; 2 is available as a free update for existing users, with new users able to purchase it for &#36;4.99 per month or &#36;49 per year. Final Cut Pro for Mac 10.8 is also available as a free update for existing users, with new users able to purchase the software for &#36;299.99. Apple has also released new versions of Compressor and Motion.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/final-cut-pro/">Final Cut Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/20/final-cut-pro-major-update/">Final Cut Pro Gets Major Update With New Camera App</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/final-cut-pro-gets-major-update-with-new-camera-app.2429683/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Amazon Introduces Low Prices on AirTag, Eufy SmartTrack Card, and Anker Accessories</title>
@@ -458,118 +559,6 @@ Questions include what the Mac will be used for, necessary day-to-day essentials
 Apple's algorithm for suggesting a Mac takes all of these factors into account, and it doesn't just present buyers with base configurations. It suggests upgrades to memory and storage that would be useful, and it will also present options if your selected budget is a little flexible.<br/>
 <br/>
 The <a href="https://www.apple.com/mac/best-mac/">Help Me Choose website</a> can be found under the Mac section of Apple's website when selecting the "Compare" option or the "Shop Mac" and then "Shopping Guides" option.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/18/apple-help-me-choose-mac-website/">Apple Launches &#039;Help Me Choose&#039; Website for Finding the Right Mac</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-launches-help-me-choose-website-for-finding-the-right-mac.2429549/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Habbo Launches Classic Version of Game on Mac in Throwback to 2005</title>
-		<link>https://www.macrumors.com/2024/06/18/habbo-hotel-origins/</link>
-		<comments>https://forums.macrumors.com/threads/habbo-launches-classic-version-of-game-on-mac-in-throwback-to-2005.2429541/</comments>
-		<pubDate>Tue, 18 Jun 2024 11:23:43 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/18/habbo-hotel-origins/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[If you were a kid who grew up using the internet in the early 2000s, there is a good chance that you heard of Habbo Hotel. Once a massively popular virtual world with millions of players, the game slowly died out over the years as the young teenagers who played it eventually became adults and moved on with life.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Habbo-Hotel-Origins.png" alt="" width="1600" height="1199" class="aligncenter size-full wp-image-956125" /><br/>
-With the modern version of Habbo no longer offering the experience that older players remember, a classic version of the game has long been requested. And today, that wish finally became reality with the launch of <a href="https://origins.habbo.com/">Habbo Hotel Origins</a>.<br/>
-<br/>
-Habbo Hotel Origins is nearly a carbon copy of the game as it existed in 2005, complete with nostalgic features like the console for messaging friends, a purse for in-game credits, and a virtual hand that holds your in-game items (aka furni).<br/>
-<br/>
-"After discovering an old decrepit server with some long-lost files at the beginning of this year, over the past six months or so long-time Habbo developer and player Macklebee has lovingly restored an old version of Habbo Hotel first released in 2005," said Habbo, in a <a href="https://www.habbo.com/community/article/34151/launching-tomorrow-habbo-hotel-origins">blog post</a> announcing the launch of the game.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Habbo-Hotel-Origins-Welcome-Lounge.jpg" alt="" width="1600" height="1200" class="aligncenter size-full wp-image-956129" /><br/>
-You'll need a new account to play Habbo Hotel Origins. To sign up, go to the <a href="https://origins.habbo.com/">origins.habbo.com</a> website, click on the "check-in" link on the left side of the page, download the Habbo client for macOS or Windows, and create an account within the game. Yes, that means you have another chance to secure a rare username that you missed out on as a kid. I snagged the username iPod, so feel free to send me a friend request!<br/>
-<br/>
-Once you have created an account, you can relive classic public rooms like the Welcome Lounge, Habbo Lido, and the Hallway. Many guest rooms have already popped up too, with players discussing their memories on the game.<br/>
-<br/>
-Just like in the good old days, Habbo Hotel Origins is available on desktop computers only. You must be 18+ to sign up for this version of the game, rather than 13 on regular Habbo, or even 11 in the earliest days. With many players woefully admitting they are in their 30s now, I suspect that isn't much of an issue. It's a fresh start for everyone, with blank rooms just asking to be decorated with Plasto chairs and Yukka plants.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/18/habbo-hotel-origins/">Habbo Launches Classic Version of Game on Mac in Throwback to 2005</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/habbo-launches-classic-version-of-game-on-mac-in-throwback-to-2005.2429541/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>M4 MacBook Pro Models Expected to Launch in Late 2024</title>
-		<link>https://www.macrumors.com/2024/06/18/m4-macbook-pro-late-2024/</link>
-		<comments>https://forums.macrumors.com/threads/m4-macbook-pro-models-expected-to-launch-in-late-2024.2429538/</comments>
-		<pubDate>Tue, 18 Jun 2024 10:50:03 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/18/m4-macbook-pro-late-2024/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
-		
-
-		<description><![CDATA[MacBook Pro models with an M4 chip are expected to launch in the fourth quarter of 2024, according to display analyst Ross Young. In a <a href="https://x.com/DSCCRoss/status/1803118985153802370">tweet for subscribers</a>, Young said that panel shipments for new 14-inch and 16-inch MacBook Pro models are set to begin in the third quarter of 2024, which suggests a launch toward the end of the year.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/05/M4-Real-Feature-Red.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950311" /><br/>
-Apple started its M4 chip refresh in May with the launch of the M4 <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>, but the first Macs with M4 chips are also slated for a 2024 launch. According to <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, Apple will refresh both the MacBook Pro and <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> lineups this year.<br/>
-<br/>
-The entry-level 14-inch MacBook Pro is expected to get an M4 chip, while the 14-inch and 16-inch MacBook Pro models will be updated with M4 Pro and M4 Max chips. The &zwnj;Mac mini&zwnj; will get M4 and M4 Pro chips. The <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a>, and <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a> models won't be updated with M4 chips until 2025, and it is not yet clear when the <a href="https://www.macrumors.com/roundup/imac/">iMac</a> might see an update with the refreshed chip technology.<br/>
-<br/>
-Apple's M4 chip is built on an upgraded 3-nanometer node, with Apple first introducing 3-nanometer technology with the M3 line. In Geekbench 6 benchmarks, the M4 chip is up to 25 percent faster than the M3 chip when it comes to multi-core performance, so we could see similar gains for the M4 Pro and M4 Max chips.<br/>
-<br/>
-Aside from M4 chips, the upcoming MacBook Pro models are not expected to have significant feature updates. Apple is working on OLED display technology, but an OLED MacBook Pro is not expected until 2026 at the earliest.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/18/m4-macbook-pro-late-2024/">M4 MacBook Pro Models Expected to Launch in Late 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m4-macbook-pro-models-expected-to-launch-in-late-2024.2429538/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Expands Vision Pro App Store to New Countries Ahead of Upcoming Launch</title>
-		<link>https://www.macrumors.com/2024/06/18/apple-expands-vision-pro-app-store/</link>
-		<comments>https://forums.macrumors.com/threads/apple-expands-vision-pro-app-store-to-new-countries-ahead-of-upcoming-launch.2429535/</comments>
-		<pubDate>Tue, 18 Jun 2024 10:29:51 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/18/apple-expands-vision-pro-app-store/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Apple <a href="https://developer.apple.com/news/?id=is9ltg6s">today told developers</a> that it is expanding the Vision Pro <a href="https://www.macrumors.com/guide/app-store/">App Store</a> to new markets ahead of when the device is set to launch in additional countries. Since its February launch, the Vision Pro has been limited to buyers in the United States, but at WWDC, Apple <a href="https://www.macrumors.com/2024/06/10/vision-pro-launching-in-more-countries/">announced plans</a> to bring it to eight new markets.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-954449" src="https://images.macrumors.com/article-new/2024/06/Vision-Pro-International.jpeg" alt="" width="1600" height="900" /><br/>
-The <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> will launch in China, Hong Kong, Japan, and Singapore on Friday, June 28, and it will expand to Australia, Canada, France, Germany, and the United Kingdom on July 12. Pre-orders for the Vision Pro for the first wave launch countries started on June 13, while pre-orders for the second wave launch countries will begin on June 28.<br/>
-<br/>
-Apple says that developers can expect their apps and games to be automatically available on the &zwnj;App Store&zwnj; in regions selected through &zwnj;App Store&zwnj; Connect. <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> app availability and the availability of <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> and <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> apps on the headset can be managed through the &zwnj;App Store&zwnj; Connect interface.<br/>
-<br/>
-The Vision Pro is priced at &#36;3,499 in the United States, and has similar pricing in local currency in the countries where it is set to launch.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/18/apple-expands-vision-pro-app-store/">Apple Expands Vision Pro App Store to New Countries Ahead of Upcoming Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-expands-vision-pro-app-store-to-new-countries-ahead-of-upcoming-launch.2429535/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Amazon Takes Up to &#36;350 Off M3 MacBook Pros, Starting at &#36;1,399</title>
-		<link>https://www.macrumors.com/2024/06/18/amazon-macbook-pro-m3/</link>
-		<comments>https://forums.macrumors.com/threads/amazon-takes-up-to-350-off-m3-macbook-pros-starting-at-1-399.2429530/</comments>
-		<pubDate>Tue, 18 Jun 2024 09:11:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/18/amazon-macbook-pro-m3/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Amazon today has a <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JV268%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">selection of M3 MacBook Pro models</a> on sale at steep discounts, including both 14-inch and 16-inch devices. Most of these computers are in stock and ready to be delivered as soon as the end of this week, and none of the deals below require a coupon code in order to see the discounted price.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/03/m3-macbook-pro-new-blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-940256" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2>14-Inch MacBook Pro</h2><br/>
-Starting with the smaller display, Amazon has a pair of all-time low prices on the 14-inch MacBook Pro, starting at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JV268%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,399.00</strong></a> for the M3 512GB model, down from &#36;1,599.00. You can also get the M3 Pro 512GB model for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JV26D%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,699.00</strong></a>, down from &#36;1,999.00. Other than these two record low prices, you can find even more 14-inch MacBook Pro discounts on Amazon in the list below, including the M3 Max model.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JV268%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>14-inch MacBook Pro (M3 512GB) for &#36;1,399.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JV26D%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>14-inch MacBook Pro (M3 Pro 512GB) for &#36;1,699.00</div></a></div><ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5KC8X7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 8GB RAM/1TB</a> - &#36;1,649.00, down from &#36;1,799.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX1NXX6Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 16GB RAM/1TB</a> - &#36;1,849.00, down from &#36;1,999.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5KB9M3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Pro 1TB</a> - &#36;2,199.00, down from &#36;2,399.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5GX9MF%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Max 1TB</a> - &#36;2,949.00, down from &#36;3,199.00</li></ul><br/>
-<br/>
-<h2>16-Inch MacBook Pro</h2><br/>
-For the bigger display, Amazon has another set of all-time low prices, starting at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5KXTND%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;2,199.00</strong></a> for the M3 Pro 18GB RAM/512GB model, down from &#36;2,499.00. Amazon also has the M3 Pro 36GB RAM/512GB model for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5L3PPZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;2,549.00</strong></a>, down from &#36;2,899.00. These are the biggest discounts currently available on 16-inch MacBook Pro models on Amazon right now, but we've also listed a few M3 Max models below.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5KXTND%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>16-inch MacBook Pro (M3 Pro 18GB/512GB) for &#36;2,199.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5L3PPZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;350 OFF</div>16-inch MacBook Pro (M3 Pro 36GB/512GB) for &#36;2,549.00</div></a></div><ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5KXB2B%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Pro 36GB RAM/512GB</a> - &#36;2,699.00, down from &#36;2,899.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5MKMD4%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Max 36GB RAM/1TB</a> - &#36;3,249.00, down from &#36;3,499.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5J4X7W%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Max 48GB RAM/1TB</a> - &#36;3,699.00, down from &#36;3,999.00</li></ul> Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/18/amazon-macbook-pro-m3/">Amazon Takes Up to &#36;350 Off M3 MacBook Pros, Starting at &#36;1,399</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-takes-up-to-350-off-m3-macbook-pros-starting-at-1-399.2429530/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
