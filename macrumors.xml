@@ -14,12 +14,100 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 20 Jun 2024 01:03:29 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 20 Jun 2024 05:04:24 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple&#039;s 2024 Back to School Sale Launches, Up to &#36;150 Gift Card With Mac or iPad</title>
+		<link>https://www.macrumors.com/2024/06/20/apple-back-to-schoo-promotion-launches/</link>
+		<comments>https://forums.macrumors.com/threads/apples-2024-back-to-school-sale-launches-up-to-150-gift-card-with-mac-or-ipad.2429667/</comments>
+		<pubDate>Thu, 20 Jun 2024 04:29:21 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/20/apple-back-to-schoo-promotion-launches/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Education</category>
+		<category>Back to School Promotion</category>
+		
+
+		<description><![CDATA[Apple has launched its <a href="https://www.apple.com/us-edu/store">annual Back to School promotion</a> for college students in the United States. This year's promotion offers a free Apple gift card with the purchase of an eligible Mac or iPad. Apple is also offering students 20% off AppleCare+ plans.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/06/2022-back-to-school-apple-feature.jpg" alt="" width="2178" height="1224" class="aligncenter size-full wp-image-851334" /><br/>
+Apple is offering a &#36;150 gift card with any new MacBook Air, MacBook Pro, or iMac, and a &#36;100 gift card with the purchase of any new M4 iPad Pro, M2 iPad Air, or Mac mini. The gift card can be used towards purchases of Apple products and accessories, App Store apps, subscriptions to services like Apple Music, iCloud+ storage, and more.<br/>
+<br/>
+The offer is available through Apple's online education store and at Apple Store locations for students attending or accepted to a higher-education institution, faculty and staff of higher-education institutions, parents purchasing on behalf of an eligible student, employees of a K-12 institution, and select others.<br/>
+<br/>
+Here are the promotions:<ul><br/>
+  <li>iMac (&#36;150 gift card)</li><br/>
+  <li>MacBook Air (&#36;150 gift card)</li><br/>
+  <li>MacBook Pro (&#36;150 gift card)</li><br/>
+  <li>Mac mini (&#36;100 gift card)</li><br/>
+  <li>iPad Pro 11-inch / 13-inch, M4 chip (&#36;100 gift card)</li><br/>
+  <li>iPad Air 11-inch / 13-inch, M2 chip (&#36;100 gift card)</li><br/>
+</ul>The promotion runs through September 30 in the U.S., according to <a href="https://www.apple.com/shop/back-to-school/terms-conditions">Apple's terms and conditions</a>. The free gift card is in addition to Apple's standard educational discounts of around 5% to 10% off most Macs and iPads. The promotion has also gone live in Canada, India, and possibly other countries, and will likely come to Europe and other regions in the coming weeks.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/education/">Education</a>, <a href="https://www.macrumors.com/guide/back-to-school-promotion/">Back to School Promotion</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/20/apple-back-to-schoo-promotion-launches/">Apple&#039;s 2024 Back to School Sale Launches, Up to &#36;150 Gift Card With Mac or iPad</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-2024-back-to-school-sale-launches-up-to-150-gift-card-with-mac-or-ipad.2429667/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>macOS Sequoia Adds iCloud Support for macOS 15 Virtual Machines</title>
+		<link>https://www.macrumors.com/2024/06/20/macos-sequoia-adds-icloud-support-vms/</link>
+		<comments>https://forums.macrumors.com/threads/macos-sequoia-adds-icloud-support-for-macos-15-virtual-machines.2429664/</comments>
+		<pubDate>Thu, 20 Jun 2024 03:39:11 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/20/macos-sequoia-adds-icloud-support-vms/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>macOS Sequoia</category>
+		
+
+		<description><![CDATA[Apple is introducing a notable enhancement to its virtualization framework in macOS Sequoia by enabling Mac users to sign into iCloud within macOS virtual machines (VMs).  <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Apple-WWDC24-macOS-Sequoia-hero-240610.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-954631" /><br/>
+Previously, users could not sign into iCloud on macOS VMs, which limited the framework's utility for developers needing to test iCloud features and for users looking to sync their apps with iCloud. As spotted by <em><a href="https://arstechnica.com/gadgets/2024/06/apple-quietly-improves-mac-virtualization-in-macos-15-sequoia/">ArsTechnica</a></em>, macOS Sequoia removes that barrier, provided that both the host and guest operating systems are macOS 15 or newer.<br/>
+<br/>
+The feature will be available on Apple silicon Macs, but it has some limitations. Developers aiming to run older macOS versions alongside macOS 15 in a VM or those who upgrade VMs from older macOS versions will not be able to sign into iCloud on the VM. Only brand-new VMs created from a macOS 15 install image (an .ipsw file) can utilize iCloud and services related to <a href="https://www.macrumors.com/2024/06/11/apple-id-renamed-to-apple-account/">Apple Account</a> (formerly Apple ID).<br/>
+<br/>
+Apple's <a href="https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines">virtualization framework documentation explains</a>: <br/>
+<blockquote>"When you create a VM in macOS 15 from a macOS 15 software image… Virtualization configures an identity for the VM that it derives from security information in the host's Secure Enclave. Just as individual physical devices have distinct identities based on their Secure Enclaves, this identity is distinct from other VMs."</blockquote>Apple says that if someone moves a VM to a different Mac host and restarts it, the Virtualization framework automatically creates a new identity for the VM using the information from the Secure Enclave of the new Mac host. This identity change requires the person using the VM to re-authenticate to allow iCloud to restart syncing data to the VM.<br/>
+<br/>
+Both Parallels and VMware offer virtualization software, and Broadcom recently made VMware Fusion <a href="https://www.macrumors.com/2024/05/15/vmware-fusion-pro-13-free-personal-use/">free for personal use</a>. macOS Sequoia is currently in developer beta, with a public beta set to arrive in July, followed by a general release in the fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/20/macos-sequoia-adds-icloud-support-vms/">macOS Sequoia Adds iCloud Support for macOS 15 Virtual Machines</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macos-sequoia-adds-icloud-support-for-macos-15-virtual-machines.2429664/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18: How to Lock and Hide iPhone Apps</title>
+		<link>https://www.macrumors.com/how-to/ios-18-how-to-lock-and-hide-iphone-apps/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-how-to-lock-and-hide-iphone-apps.2429659/</comments>
+		<pubDate>Thu, 20 Jun 2024 01:41:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/ios-18-how-to-lock-and-hide-iphone-apps&#038;post_date=1718883660/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[In iOS 17, Apple doesn't offer a system-level method for individually locking sensitive apps like Photos behind Face ID. There is a <a href="https://www.macrumors.com/how-to/automatically-lock-iphone-app-opened/">Shortcut action</a> that provides rudimentary protection, but it's not infallible. Thankfully, iOS 18 includes a dedicated option to lock and even hide individual apps even when the iPhone itself is already unlocked.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-on-iPhone-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955605" /><br/>
+This is useful because it means you can unlock your iPhone and hand it to someone for them to look at something, knowing they won't be able to open the apps you have locked. If someone using your iPhone tries to open an app that you have manually locked using the method described below, they will see a popup informing them that it can't be accessed without secondary authentication via Face ID (or Touch ID on the iPhone SE). <br/>
+<br/>
+Notably, if <a href="https://www.macrumors.com/how-to/enable-stolen-device-protection/">Stolen Device Protection</a> is active, entering a passcode to unlock an app is not an option, so even if your iPhone is stolen and the thief knows your passcode, they still won't be able to open the app. However, if Stolen Device Protection is not enabled, a passcode prompt appears that can be used to unlock the app after three failed Face ID attempts.<br/>
+<br/>
+It's worth noting that not all apps can be locked. As things stand in the first iOS 18 and iPadOS 18 betas, Apple does not provide the lock option for non-sensitive apps like Maps, Clock, Calculator, and Stocks. Otherwise, almost every other app can be locked, including third-party apps. Here's how it's done.<br/>
+<ol><li>On your Home Screen, press and hold on the icon for the app that you want to lock.</li><br/>
+<li>Tap <strong>Require Face ID</strong> (or Touch ID).</li><br/>
+<li>Tap <strong>Require Face ID</strong> (or Touch ID) to confirm.</li></ol><img src="https://images.macrumors.com/article-new/2024/06/lock-app-ios-18.jpg" alt="safari" width="4377" height="2796" class="aligncenter size-full wp-image-956294" /><br/>
+<br/>
+Note that you can't use Siri with a locked app, and Spotlight search and any notification previews will not show content from the app.<br/>
+<br/>
+<h2>How to Lock and Hide Apps</h2><br/>
+When you lock a third-party app using the above method, you have the option to hide it as well – but at present you cannot hide system apps like Safari or Photos. When enabled, the app icon and name is removed from the Home Screen, and it will not show up in searches, although it may still appear in the Settings app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/hide-app-ios-18.jpg" alt="" width="2898" height="2796" class="aligncenter size-full wp-image-956295" /><br/>
+An obscured folder for hidden apps is also created in your App Library, which is accessed by swiping left to the end of your Home Screen pages. However, you will not get app notifications or incoming calls from a hidden third-party app.<br/>
+<br/>
+<h2>How to Unlock and Unhide Apps</h2><br/>
+To unlock an app that you previously locked, simply long press on the app's icon and choose the "Don't Require Face ID" option. As long as you have Stolen Device Protection enabled, turning the lock on and off requires a ‌Face ID‌ scan, so it can't be turned off without your knowledge. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/hidden-folder-app-library.jpg" alt="App Library" width="1920" height="1080" class="aligncenter size-full wp-image-956326" /><br/>
+To unhide a locked third-party app, swipe through to the App Library and tap the obscured Hidden folder at the bottom. You will be required to perform a Face ID scan to reveal its contents. After that, you can access any hidden apps contained within it. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/ios-18-how-to-lock-and-hide-iphone-apps/">iOS 18: How to Lock and Hide iPhone Apps</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-how-to-lock-and-hide-iphone-apps.2429659/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Education Store Down in US and Canada, Back to School Offer Expected Soon</title>
@@ -493,84 +581,6 @@ The European Commission charged Apple in 2022 with violating competition law, co
 Citing sources familiar with the matter, the <em>Financial Times</em> claims that Apple agreed to provide third-party developers with open access to the &zwnj;iPhone&zwnj;'s NFC. This access is said to not require the use of &zwnj;Apple Pay&zwnj; or Apple Wallet, effectively allowing competitors to create their own contactless payment solutions. London-based payment app Curve has already expressed interest in implementing its own NFC system on the &zwnj;iPhone&zwnj; once the agreement is official. Apple reportedly pledged to maintain this openness for a decade.<br/>
 <br/>
 The settlement, which is expected to be finalized over the next few weeks, should help Apple avoid a potential fine by the EU that could have been as high as 10% of the company's global annual revenue. Given Apple's reported revenue of &#36;383 billion in 2023, the fine could have amounted to approximately &#36;40 billion. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ft-com/">Financial Times</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/nfc/">NFC</a>, <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/18/eu-satisfied-with-plans-to-open-iphones-nfc-chip/">EU Reportedly Satisfied With Apple&#039;s Plans to Open iPhone&#039;s NFC Chip to Rivals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/eu-reportedly-satisfied-with-apples-plans-to-open-iphones-nfc-chip-to-rivals.2429512/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18: Calendar App Design Changes and Reminders Integration</title>
-		<link>https://www.macrumors.com/2024/06/18/ios-18-whats-new-in-the-calendar-app/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-calendar-app-design-changes-and-reminders-integration.2429510/</comments>
-		<pubDate>Tue, 18 Jun 2024 06:16:05 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/18/ios-18-whats-new-in-the-calendar-app/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		<category>Calendar</category>
-		
-
-		<description><![CDATA[Apple in iOS 18 has given the Calendar app a major update, adding some welcome interface design changes, not to mention long-awaited integration with Reminders.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Calendar-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955995" /><br/>
-In the month-by-month calendar view, the month now appears in large bold font in the top left, while the Events list toggle has been replaced by a new button that lets you choose between Compact, Stacked, Details, and List views. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/ios-18-calendar-views.jpg" alt="" width="4377" height="2796" class="aligncenter size-full wp-image-956001" /><br/>
-The Compact view looks similar to the standard view in iOS 17, with events indicated by dots (but now colored to indicate which calendar they belong to), while the Stacked view displays each day's events as long thin pills on top of each other. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/details-calendar-view.jpg" alt="" width="4377" height="2796" class="aligncenter size-full wp-image-956002" /><br/>
-The new Details view shows the title of every event across the month. One neat additional touch here is that you can use a pinch to zoom gesture to expand or reduce the calendar and create more or less space between the days to view more items. This action also gradually switches between the Compact, Stacked, and Details views. Elsewhere, the List view should be familiar, and shows the month with the selected day's events listed below.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/multi-day-calendar-view.jpg" alt="" width="4377" height="2796" class="aligncenter size-full wp-image-956003" /><br/>
-In the Today view, you can now switch between a Single Day or Multi Day view, with the latter providing details of all the day's events alongside any upcoming events for the following day.<br/>
-<br/>
-When you tap the + icon in the top-right corner, a "New" card appears where you can switch between "Event" and "Reminder" tabs at the top. Reminders now appear in your calendar views, where you can mark them as completed.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/reminders-in-calendar.jpg" alt="" width="4377" height="2796" class="aligncenter size-full wp-image-956004" /><br/>
-You can also tap a reminder to get a Reminder Details screen, which includes the associated reminder list, plus a link to view that item within the Reminders app. There's also an Edit button in the top-right of the Reminder Details screen, which lets you change everything about the reminder that you can in Reminders, except without you having to leave the Calendar app.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/reminder-details-calendar-app.jpg" alt="" width="2898" height="2796" class="aligncenter size-full wp-image-956010" /><br/>
-iOS 18 is currently in beta for Apple Developer Program members, with a public beta to follow in July. The update should be widely released in September, but bear in mind that Apple could always make Calendar app changes based on feedback before then.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/calendar/">Calendar</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/18/ios-18-whats-new-in-the-calendar-app/">iOS 18: Calendar App Design Changes and Reminders Integration</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-calendar-app-design-changes-and-reminders-integration.2429510/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Offers Students AI Training at Developer Academies</title>
-		<link>https://www.macrumors.com/2024/06/18/apple-developer-academy-ai-training/</link>
-		<comments>https://forums.macrumors.com/threads/apple-offers-students-ai-training-at-developer-academies.2429508/</comments>
-		<pubDate>Tue, 18 Jun 2024 06:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/18/apple-developer-academy-ai-training/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Developer Academy</category>
-		
-
-		<description><![CDATA[Apple today announced plans to introduce new AI curriculum at its Apple Developer Academy locations in Brazil, Indonesia, Italy, Saudi Arabia, South Korea, and the United States. Apple Developer Academy students and mentors will learn about tools and technologies that take advantage of artificial intelligence.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/apple-developer-academy.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-955950" /><br/>
-The AI curriculum is being added to the program as a foundational skill, and students will learn how to build, train, and deploy machine learning models on Apple devices. Some of the available courses include the fundamentals of AI technologies, Core ML, and training AI models from the ground up.<br/>
-<blockquote>"At Apple, we see coding as a universal language and believe in empowering developers, creators, and entrepreneurs across the world with tools and technologies that will allow them to create phenomenal experiences," said Susan Prescott, Apple's vice president of Worldwide Developer Relations. "With the introduction of curriculum dedicated to AI and other new technologies, we're excited to see what students will build to share with their communities and the world."</blockquote><br/>
-Apple Developer Academy students, mentors, and alumni will have access to the curriculum starting this fall.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-developer-academy/">Apple Developer Academy</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/18/apple-developer-academy-ai-training/">Apple Offers Students AI Training at Developer Academies</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-offers-students-ai-training-at-developer-academies.2429508/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s Phone App Finally Supports T9 Dialing in iOS 18</title>
-		<link>https://www.macrumors.com/2024/06/18/ios-18-phone-app-keypad-t9-dialing/</link>
-		<comments>https://forums.macrumors.com/threads/apples-phone-app-finally-supports-t9-dialing-in-ios-18.2429503/</comments>
-		<pubDate>Tue, 18 Jun 2024 04:11:25 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/18/ios-18-phone-app-keypad-t9-dialing/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[T9 dialing, or Text on 9 keys, is a predictive text technology that emerged in the late 90s to make it easier to type text messages on devices with limited input options, such as traditional mobile phones with numeric keypads. Each number key (2-9) on a T9 keypad is mapped to a set of letters. For example, the key "2" corresponds to "ABC," "3" to "DEF," and so on.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/t9-dialing-phone-keypad-ios-18.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-955980" /><br/>
-Android phones have had the feature for years, and in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> beta, Apple has finally added T9 dialing support to the Phone App. So now you can type a contact's name using the number pad, and matching contacts will appear above the keypad.<br/>
-<br/>
-When you press a key, T9 doesn't just consider the individual letters that the key represents but predicts the most likely word you are trying to type. In the same way, &zwnj;iOS 18&zwnj; combines all possible letter combinations to filter results from your contacts. To bring up your Dad's number, for example, you would tap 3-2-3 (D-A-D). Or if you have someone called Ben in your contacts, tapping 2-3-6 (B-E-N) should bring up their number.<br/>
-<br/>
-The best match appears first above the keypad, and tapping the person's name will call them. If there are several possible matches in your contacts, they can be revealed as a list by tapping "X more..." below the first match. Taken together, the new options should enable faster calling.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/t9-phone-dialing-ios-18-keypad.jpg" alt="" width="4377" height="2796" class="aligncenter size-full wp-image-955984" /><br/>
-In addition, when you type in a new number into the keypad in &zwnj;iOS 18&zwnj;, it now gives you two options to add it to your contacts. In <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, a single "Add number" option appears above the keypad, whereas in &zwnj;iOS 18&zwnj; there is a new button in the top-left corner that reveals "Create New Contact" and "Add to Existing Contact."<br/>
-<br/>
-&zwnj;iOS 18&zwnj; is currently in beta for Apple Developer Program members, with a public beta to follow in July. The update should be widely released in September.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/18/ios-18-phone-app-keypad-t9-dialing/">Apple&#039;s Phone App Finally Supports T9 Dialing in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-phone-app-finally-supports-t9-dialing-in-ios-18.2429503/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
