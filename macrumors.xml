@@ -14,12 +14,52 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Fri, 21 Jun 2024 05:04:03 PDT</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jun 2024 09:02:58 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>&#039;Antstream Arcade&#039; App With Over 1,300 Retro Games Launching on iPhone and iPad Next Week</title>
+		<link>https://www.macrumors.com/2024/06/21/antstream-arcade-launching-on-iphone-and-ipad/</link>
+		<comments>https://forums.macrumors.com/threads/antstream-arcade-app-with-over-1-300-retro-games-launching-on-iphone-and-ipad-next-week.2429753/</comments>
+		<pubDate>Fri, 21 Jun 2024 08:50:33 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/21/antstream-arcade-launching-on-iphone-and-ipad/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>App Store</category>
+		
+
+		<description><![CDATA[Antstream Arcade has <a href="https://www.antstream.com/apple">announced</a> that its cloud-based game streaming service will be available on the iPhone and iPad starting Thursday, June 27. The app will provide subscribers with access to <a href="https://www.antstream.com/games">over 1,300 licensed games</a> from a variety of retro consoles, including the Commodore 64, Amiga, Atari 2600, Atari 7800, SEGA Genesis, and more.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Antstream-Arcade-iPhone-and-Controller-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-956600" /><br/>
+Earlier this year, Apple updated its guidelines to <a href="https://www.macrumors.com/2024/01/25/apple-allows-game-streaming-apps-on-app-store/">permit game streaming apps in the App Store</a> worldwide, allowing for a selection of games to be offered within a single app. These services, such as Xbox Cloud Gaming and Nvidia GeForce NOW, were previously only accessible via the web on the iPhone and iPad. Antstream Arcade is set to <a href="https://www.theverge.com/2024/6/21/24183027/antstream-emulator-apple-iphone-retro-games-ipad-streaming">become the first</a> popular service of its kind to take advantage of the rule change.<br/>
+<br/>
+The primary benefit of Antstream Arcade <a href="https://www.macrumors.com/2024/05/16/iphone-app-store-emulators-list/">compared to emulators</a> is that you do not need to provide your own games downloaded from the internet, but this will come at a cost. According <a href="https://www.macstories.net/news/retro-videogame-streaming-service-antstream-to-launch-on-the-app-store-next-week/">to <em>MacStories</em></a>, the service will cost &#36;4.99 per month or &#36;39.99 per year, following limited-time &#36;3.99 per month or &#36;29.99 per year pricing at launch. In addition, Antstream Arcade requires a Wi-Fi or cellular connection to stream games, and the service offers only a handful of games for consoles like the NES, SNES, Game Boy, and PS1.<br/>
+<br/>
+Antstream Arcade is already available on platforms such as Android, Windows, and Xbox.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/app-store/">App Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/21/antstream-arcade-launching-on-iphone-and-ipad/">&#039;Antstream Arcade&#039; App With Over 1,300 Retro Games Launching on iPhone and iPad Next Week</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/antstream-arcade-app-with-over-1-300-retro-games-launching-on-iphone-and-ipad-next-week.2429753/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Expands Convenient AirPods-Like Pairing to More Bluetooth and Wi-Fi Accessories</title>
+		<link>https://www.macrumors.com/2024/06/21/ios-18-airpods-like-pairing-for-more-accessories/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-expands-convenient-airpods-like-pairing-to-more-bluetooth-and-wi-fi-accessories.2429744/</comments>
+		<pubDate>Fri, 21 Jun 2024 07:24:12 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/21/ios-18-airpods-like-pairing-for-more-accessories/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[During its <a href="https://www.macrumors.com/2024/06/10/wwdc-2024-live-coverage/">WWDC 2024 keynote</a> last week, Apple announced that iOS 18 and iPadOS 18 will let apps offer AirPods-like pairing for more Bluetooth or Wi-Fi accessories.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-AirPods-Like-Accessory-Pairing.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-956529" /><br/>
+In apps that implement this new pairing process, users would be able to connect accessories to their devices directly in the app, without having to open the Settings app. In addition, Apple said this pairing process increases privacy by preventing accessory makers from gaining visibility into other devices on the user's local network.<br/>
+<br/>
+Developers can add the AirPods-like pairing process to their apps with the new <a href="https://developer.apple.com/documentation/accessorysetupkit">AccessorySetupKit</a> framework, with more details available in <a href="https://developer.apple.com/videos/play/wwdc2024/10203/">this WWDC 2024 coding video</a>.<br/>
+<br/>
+iOS 18 is currently in beta for developers, and a public beta will be released in July. The update should be widely released in September, but it will take time for accessory makers to add support for this pairing process to their apps.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/21/ios-18-airpods-like-pairing-for-more-accessories/">iOS 18 Expands Convenient AirPods-Like Pairing to More Bluetooth and Wi-Fi Accessories</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-expands-convenient-airpods-like-pairing-to-more-bluetooth-and-wi-fi-accessories.2429744/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Launches Sale on Mac App Store Games</title>
@@ -346,7 +386,7 @@ Apple The Exchange TRX opens on Saturday, June 22, at 10 a.m. MYT.<div class="li
 
 		<description><![CDATA[Apple has launched its <a href="https://www.apple.com/us-edu/store">annual Back to School promotion</a> for college students in the United States. This year's promotion offers a free Apple gift card with the purchase of an eligible Mac or iPad. Apple is also offering students 20% off AppleCare+ plans.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2022/06/2022-back-to-school-apple-feature.jpg" alt="" width="2178" height="1224" class="aligncenter size-full wp-image-851334" /><br/>
+<img src="https://images.macrumors.com/article-new/2024/06/back-to-school-2024.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-956521" /><br/>
 Apple is offering a &#36;150 gift card with any new MacBook Air, MacBook Pro, or iMac, and a &#36;100 gift card with the purchase of any new M4 iPad Pro, M2 iPad Air, or Mac mini. The gift card can be used towards purchases of Apple products and accessories, App Store apps, subscriptions to services like Apple Music, iCloud+ storage, and more.<br/>
 <br/>
 The offer is available through Apple's online education store and at Apple Store locations for students attending or accepted to a higher-education institution, faculty and staff of higher-education institutions, parents purchasing on behalf of an eligible student, employees of a K-12 institution, and select others.<br/>
@@ -500,61 +540,6 @@ If something unexpected happens and you get delayed, Check In will automatically
 There's also a new option in Settings ➝ Workout that lets you turn on Check In Reminders, so Apple Watch can remind you to send a Workout Check In whenever you start an outdoor workout.<br/>
 <br/>
 Note that watchOS 11 is in developer beta, and some features could always change or be removed before Apple releases the new Apple Watch software to the public in the fall.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>, <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/19/watchos-11-supports-workout-check-in/">watchOS 11 Gets &#039;Check In&#039; Feature That Supports Outdoor Workouts</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/watchos-11-gets-check-in-feature-that-supports-outdoor-workouts.2429597/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18 Allows Third-Party Apps to Offer Spatial Video Recording on iPhone 15 Pro</title>
-		<link>https://www.macrumors.com/2024/06/19/ios-18-spatial-video-recording-third-party-apps/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-allows-third-party-apps-to-offer-spatial-video-recording-on-iphone-15-pro.2429596/</comments>
-		<pubDate>Wed, 19 Jun 2024 06:40:55 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/19/ios-18-spatial-video-recording-third-party-apps/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Vision Pro</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[iPhone 15 Pro and iPhone 15 Pro Max models running iOS 17.2 or later <a href="https://www.macrumors.com/how-to/record-spatial-video-iphone/">can record spatial video</a> with 3D depth for playback on Apple's Vision Pro headset. While spatial video recording has been limited to Apple's built-in Camera app until this point, third-party camera apps on the App Store can also offer this functionality starting on iOS 18.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/spatial-video-iphone-15-pro.jpg" alt="" width="1600" height="898" class="aligncenter size-full wp-image-911686" /><br/>
-In a <a href="https://developer.apple.com/videos/play/wwdc2024/10166/">WWDC 2024 coding session</a> last week, Apple revealed that it has released an API that allows developers to offer spatial video recording in any app. Apple said the API is built into existing camera-related frameworks, making it easy to implement.<br/>
-<br/>
-When held in landscape orientation, the iPhone 15 Pro's main and ultra wide cameras combine to record spatial video. In addition to the iPhone 16 Pro models, it is likely that spatial video recording will be expanded to the regular iPhone 16 and iPhone 16 Plus, as the rear cameras on those devices are <a href="https://www.macrumors.com/2024/02/06/apple-iphone-16-slim-camera-bump/">rumored to be vertically aligned</a>.<br/>
-<br/>
-You will need a Vision Pro to see the added depth in spatial videos, as they appear in a normal 2D format when played on an iPhone.<br/>
-<br/>
-iOS 18 is currently in beta, and it should be released in September.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a>, <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/19/ios-18-spatial-video-recording-third-party-apps/">iOS 18 Allows Third-Party Apps to Offer Spatial Video Recording on iPhone 15 Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-allows-third-party-apps-to-offer-spatial-video-recording-on-iphone-15-pro.2429596/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Explains iPhone 15 Pro Requirement for Apple Intelligence</title>
-		<link>https://www.macrumors.com/2024/06/19/apple-iphone-15-pro-requirement-apple-intelligence/</link>
-		<comments>https://forums.macrumors.com/threads/apple-explains-iphone-15-pro-requirement-for-apple-intelligence.2429589/</comments>
-		<pubDate>Wed, 19 Jun 2024 04:48:58 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/19/apple-iphone-15-pro-requirement-apple-intelligence/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 15 Pro</category>
-		<category>Daring Fireball</category>
-		<category>Apple Intelligence</category>
-		
-
-		<description><![CDATA[With iOS 18, iPadOS 18, and macOS Sequoia, Apple is introducing a new personalized AI experience called <a href="https://www.macrumors.com/2024/06/10/apple-intelligence-generative-personal-ai-unveiled-for-iphone-ipad-and-mac/">Apple Intelligence</a> that uses on-device, generative large-language models to enhance the user experience across iPhone, iPad, and Mac.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-WWDC24-Apple-Intelligence-hero-240610.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-954530" /><br/>
-These new AI features require Apple's latest iPhone 15 Pro and iPhone 15 Pro Max models to work, while only Macs and iPads with M1 or later chips will support Apple Intelligence. Since the news came to light, many users have been asking what the reason is for the cut-off.<br/>
-<br/>
-In <a href="https://www.macrumors.com/2024/06/14/the-talk-show-live-from-wwdc-2024/">The Talk Show Live From WWDC 2024</a>, <em>Daring Fireball</em>'s John Gruber put the question to Apple's AI/machine learning head John Giannandrea, marketing chief Greg Joswiak, and software engineering chief Craig Federighi, and this was the response.<br/>
-<blockquote>Giannandrea: "So these models, when you run them at run times, it's called inference, and the inference of large language models is incredibly computationally expensive. And so it's a combination of bandwidth in the device, it's the size of the Apple Neural Engine, it's the oomph in the device to actually do these models fast enough to be useful. You could, in theory, run these models on a very old device, but it would be so slow that it would not be useful.<br/>
-<br/>
-Gruber: "So it's not a scheme to sell new iPhones?"<br/>
-<br/>
-Joswiak: "No, not at all. Otherwise, we would have been smart enough just to do our most recent iPads and Macs, too, wouldn't we?"</blockquote>Apple's software engineering chief Craig Federighi said that the company's first move with any new feature is to work out how to bring it back to older devices as far as possible. But when it comes to Apple Intelligence, "This is the hardware that it takes... It's a pretty extraordinary thing to run models of this power on an iPhone," he added.<br/>
-<br/>
-The iPhone 15 Pro models use the A17 Pro chip, which has a 16-core Neural Engine that's up to 2x faster than the A16 chip found in the iPhone 15 and iPhone 15 Plus, performing nearly 35 trillion operations per second. Federighi hinted that RAM is also another aspect of the system that the new AI features require, so it is perhaps no coincidence that all the devices compatible with Apple Intelligence have at least 8GB of RAM.<br/>
-<br/>
-Despite the cutoff, owners of older iPhones still have plenty to look forward to in Apple's upcoming software update: iOS 18 boasts several new features besides Apple Intelligence, and every iPhone that can run iOS 17 is compatible iOS 18. That includes the iPhone XR from 2018.<br/>
-<br/>
-If you still want Apple Intelligence in your pocket but don't have an iPhone 15 Pro or iPhone 15 Pro Max, you may want to hold out for the iPhone 16 series, which is expected to launch when iOS 18 is released in the fall. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/daringfireball-net/">Daring Fireball</a>, <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-15-Pro">iPhone 15 Pro (Caution)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/19/apple-iphone-15-pro-requirement-apple-intelligence/">Apple Explains iPhone 15 Pro Requirement for Apple Intelligence</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-explains-iphone-15-pro-requirement-for-apple-intelligence.2429589/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
