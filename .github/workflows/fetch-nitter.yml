@@ -17,6 +17,11 @@ jobs:
         run: |
           wget -U "Mozilla/5.0" -O nitter-mappletons.xml https://nitter.privacydev.net/Mappletons/rss
 
+      - name: Replace URLs (optional)
+        run: |
+          sed -i 's~https://nitter.privacydev.net/~https://nitter.poast.org/~g' nitter-*.xml
+ 
+
       - name: Commit Changes
         run: |
           git config user.name 'GitHub Actions'
