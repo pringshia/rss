@@ -15,7 +15,7 @@ jobs:
 
       - name: Fetch RSS Feed
         run: |
-          wget -u "Mozilla/5.0" -O nitter-mappletons.xml https://nitter.poast.org/Mappletons/rss
+          wget -U "Mozilla/5.0" -O nitter-mappletons.xml https://nitter.poast.org/Mappletons/rss
 
       - name: Commit Changes
         run: |
