@@ -27,8 +27,13 @@ jobs:
           git config user.name 'GitHub Actions'
           git config user.email 'actions@github.com'
           git add *.xml
-          git commit -m 'Update Nitter feeds'
-          git push
+          CHANGES=$(git status --porcelain | wc -l)
+          if [[ "${CHANGES}" -gt 0 ]]; then
+            git commit -m 'Update Nitter feeds'
+            git push
+          else
+            echo "Nothing to commit"
+          fi
 
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
