@@ -14,12 +14,69 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 25 Jun 2024 13:03:19 PDT</lastBuildDate>
+	<lastBuildDate>Tue, 25 Jun 2024 17:11:33 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 18 RCS Support Rolling Out to Beta Users</title>
+		<link>https://www.macrumors.com/2024/06/25/ios-18-rcs-support/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-rcs-support-rolling-out-to-beta-users.2430112/</comments>
+		<pubDate>Tue, 25 Jun 2024 14:59:10 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/25/ios-18-rcs-support/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[With the second beta of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> that came out yesterday, Apple <a href="https://www.macrumors.com/2024/06/24/everything-new-in-ios-18-beta-2/">added an RCS toggle</a>, but <a href="https://www.macrumors.com/guide/rcs/">RCS</a> messaging was not working at that time. &zwnj;RCS&zwnj; support appears to now be rolling out, based on reports from &zwnj;iOS 18&zwnj; users.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/ios-18-beta-2-rcs-toggle.jpg" alt="" width="2174" height="1223" class="aligncenter size-full wp-image-956804" /><br/>
+Some testers who have &zwnj;iOS 18&zwnj; installed have confirmed that they are able to send &zwnj;RCS&zwnj; messages to Android users, with &zwnj;RCS&zwnj; features available. Texts that are RCS-based instead of SMS/MMS-based are denoted with an &zwnj;RCS&zwnj; label.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Y'all...! <a href="https://t.co/6NDjmH3WdH">pic.twitter.com/6NDjmH3WdH</a></p>— Snazzy Labs (@SnazzyLabs) <a href="https://twitter.com/SnazzyLabs/status/1805711143484506438?ref_src=twsrc%5Etfw">June 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+&zwnj;RCS&zwnj;, or Rich Communication Services, allows <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and Android users to exchange higher quality photos and videos, audio messages, and larger file sizes. Features like read receipts and real-time typing indicators are supported too, with a full list of what's new available below.<br/>
+<ul><br/>
+ 	<li>Support for higher resolution photos and videos.</li><br/>
+ 	<li>Support for larger file sizes and file sharing.</li><br/>
+ 	<li>Audio messages.</li><br/>
+ 	<li>Cross-platform emoji reactions.</li><br/>
+ 	<li>Real-time typing indicators.</li><br/>
+ 	<li>Read receipts.</li><br/>
+ 	<li>Ability to send messages over cellular or Wi-Fi (SMS is cellular only). There is no cost to send an &zwnj;RCS&zwnj; message over Wi-Fi.</li><br/>
+ 	<li>Improved group chats.</li><br/>
+</ul><br/>
+&zwnj;RCS&zwnj; messages can be enabled in the Messages section of the Settings app, and are toggled on by default. At the current time, &zwnj;RCS&zwnj; messaging is only available to those in the United States who have a carrier that supports &zwnj;RCS&zwnj;. T-Mobile, AT&T, and Verizon users running &zwnj;iOS 18&zwnj; should have the &zwnj;RCS&zwnj; toggle available, but those with MVNOs and smaller carriers will not be able to use the feature yet.<br/>
+<br/>
+Not all &zwnj;iOS 18&zwnj; users with T-Mobile, AT&T, and Verizon are seeing &zwnj;RCS&zwnj; enabled, so it appears that support is still rolling out.<br/>
+<br/>
+&zwnj;iOS 18&zwnj; is available in a beta capacity right now, and it is limited to developers. &zwnj;RCS&zwnj; will be available to all &zwnj;iOS 18&zwnj; users when the software launches to the public this fall.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/25/ios-18-rcs-support/">iOS 18 RCS Support Rolling Out to Beta Users</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-rcs-support-rolling-out-to-beta-users.2430112/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>OpenAI&#039;s ChatGPT App for Mac Now Available to All Users</title>
+		<link>https://www.macrumors.com/2024/06/25/chatgpt-mac-all-users/</link>
+		<comments>https://forums.macrumors.com/threads/openais-chatgpt-app-for-mac-now-available-to-all-users.2430106/</comments>
+		<pubDate>Tue, 25 Jun 2024 13:15:38 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/06/25/chatgpt-mac-all-users/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>ChatGPT</category>
+		<category>OpenAI</category>
+		
+
+		<description><![CDATA[The ChatGPT app for Mac is now available to all users, OpenAI <a href="https://x.com/OpenAI/status/1805679342439284831">announced today</a>. The app first came out in mid-May, but it saw a slow rollout that was limited to ChatGPT Plus subscribers until now.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/2chatgpt-mac-app.jpg" alt="" width="2940" height="1912" class="aligncenter size-full wp-image-951953" /><br/>
+OpenAI says that the ChatGPT Mac app is meant to make it easier for users to access ChatGPT and to ask questions about email, screenshots, websites, and content on the Mac. With the ChatGPT app installed, you can press Option + Space on the keyboard to bring up a chat interface for asking ChatGPT a question.<br/>
+<br/>
+There's a built-in Voice Mode for having voice conversations with ChatGPT, a search feature for looking through past conversations, and more. With the wider rollout, no subscription plan is necessary for using ChatGPT on the Mac. OpenAI has made the latest version of ChatGPT, GPT-4o, available for free, but for a limited number of requests.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The ChatGPT desktop app for macOS is now available for all users.<br><br>Get faster access to ChatGPT to chat about email, screenshots, and anything on your screen with the Option + Space shortcut: <a href="https://t.co/2rEx3PmMqg">https://t.co/2rEx3PmMqg</a> <a href="https://t.co/x9sT8AnjDm">pic.twitter.com/x9sT8AnjDm</a></p>&mdash; OpenAI (@OpenAI) <a href="https://twitter.com/OpenAI/status/1805679342439284831?ref_src=twsrc%5Etfw">June 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Apple has established a partnership with OpenAI that will see ChatGPT integrated into <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>. With user permission, Apple's built-in <a href="https://www.macrumors.com/guide/siri/">Siri</a> personal assistant can hand complicated requests over to ChatGPT, relaying the information to the user.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a>, <a href="https://www.macrumors.com/guide/openai/">OpenAI</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/25/chatgpt-mac-all-users/">OpenAI&#039;s ChatGPT App for Mac Now Available to All Users</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/openais-chatgpt-app-for-mac-now-available-to-all-users.2430106/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Releases New Firmware for AirPods, AirPods Pro, AirPods Max and More</title>
@@ -888,54 +945,6 @@ All of the Apple Intelligence features coming to <a href="https://www.macrumors.
 Custom emoji or "Genmoji" can be created for any situation and used just like emoji, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> is getting much smarter. &zwnj;Siri&zwnj; will be able to do more in apps and will better understand requests, especially those made in regard to on-screen content.<br/>
 <br/>
 &zwnj;macOS Sequoia&zwnj; is available to developers right now, but Apple will release a public beta in July.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/24/apple-seeds-macos-sequoia-beta-2/">Apple Seeds Second Beta of macOS Sequoia to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-beta-of-macos-sequoia-to-developers.2429965/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Second visionOS 2 Beta to Developers</title>
-		<link>https://www.macrumors.com/2024/06/24/apple-seeds-visionos-2-beta-2-to-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-second-visionos-2-beta-to-developers.2429973/</comments>
-		<pubDate>Mon, 24 Jun 2024 10:10:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/24/apple-seeds-visionos-2-beta-2-to-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[Apple today released the second beta of an upcoming <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a> update to developers, with the second beta coming two weeks <a href="https://www.macrumors.com/2024/06/10/apple-first-developer-betas-new-software/">after the first beta</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/visionOS-2-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955607" /><br/>
-Registered developers are able to opt into the betas by opening up the Settings app on their device, going to the Software Update Section, tapping on the "Beta Updates" option, and toggling on the Developer Beta. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
-<br/>
-&zwnj;visionOS 2&zwnj; is able to take the depth information from 2D photos and turn them into 3D photos using advanced machine learning. Apple says that the feature is meant to add depth to photos to make memories more immersive.<br/>
-<br/>
-There are new hand gestures for activating the Home View and Control Center, and the Home View is also now customizable with apps able to be rearranged. Travel Mode now includes support for trains, and Guest User profiles are now saved for 30 days so guests don't have to do the setup process every time they try out the headset.<br/>
-<br/>
-Later in the year, Mac Virtual Display will support higher resolution and larger sized virtual displays, which Apple says will be equivalent to two 4K monitors side by side. With an <a href="https://www.macrumors.com/guide/airplay/">AirPlay</a> update, the Vision Pro can serve as an &zwnj;AirPlay&zwnj; receiver, so content from the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, or Mac can be shared to the headset.<br/>
-<br/>
-The Mindfulness app can track and respond to breathing patterns using the camera for an improved meditation experience, and the Vision Pro supports Bluetooth mice with &zwnj;visionOS 2&zwnj;.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a>, <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/24/apple-seeds-visionos-2-beta-2-to-developers/">Apple Seeds Second visionOS 2 Beta to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-visionos-2-beta-to-developers.2429973/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Second Beta of watchOS 11 to Developers</title>
-		<link>https://www.macrumors.com/2024/06/24/apple-seeds-watchos-11-beta-2-to-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-second-beta-of-watchos-11-to-developers.2429971/</comments>
-		<pubDate>Mon, 24 Jun 2024 10:07:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/24/apple-seeds-watchos-11-beta-2-to-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[Apple today seeded the second beta of an upcoming <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a> update to developers for testing purposes, with the beta coming two weeks after <a href="https://www.macrumors.com/2024/06/10/apple-first-developer-betas-new-software/">the first beta</a> was released following the <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2024</a> keynote.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/watchOS-11-Thumb-2-1.jpg" alt="" width="2560" height="1440" class="aligncenter size-full wp-image-955941" /><br/>
-To install the ‌&zwnj;watchOS 11&zwnj; update, developers need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the &zwnj;watchOS 11&zwnj; Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
-<br/>
-Once beta updates have been activated, &zwnj;watchOS 11&zwnj; can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
-<br/>
-&zwnj;watchOS 11&zwnj; introduces a new Vitals app that aggregates health metrics collected during sleep like heart rate and respiratory rate, providing day-to-day health insights to track whether something has changed. There's also a Training Load feature for monitoring the intensity of workouts and how that impacts the body over time.<br/>
-<br/>
-The Smart Stack has been updated with new widgets and support for Live Activities and Translate, plus it is better able to suggest widgets based on time and daily routine. The <a href="https://www.macrumors.com/guide/photos/">Photos</a> watch face includes suggestions for the best images to use, and the Check In safety feature now works with Workouts.<br/>
-<br/>
-Activity Rings can be customized to change the goals for each day, and there is an option to pause for rest days or when ill without losing an activity streak. Double Tap now works for navigating through apps with one hand, and <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> lets users create their own walking and hiking routes.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>, <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/24/apple-seeds-watchos-11-beta-2-to-developers/">Apple Seeds Second Beta of watchOS 11 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-beta-of-watchos-11-to-developers.2429971/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
