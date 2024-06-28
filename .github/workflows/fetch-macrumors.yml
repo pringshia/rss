@@ -2,7 +2,7 @@ name: Macrumors Feed
 
 on:
   schedule:
-    - cron: '0 */4 * * *' # Runs every 4hrs
+    - cron: '0 10,16 * * *'
   workflow_dispatch:
 
 jobs:
