@@ -14,12 +14,335 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 02 Jul 2024 09:01:24 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 03 Jul 2024 03:00:51 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 18: 10 New Home Screen and Lock Screen Features</title>
+		<link>https://www.macrumors.com/guide/ios-18-home-screen/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-10-new-home-screen-and-lock-screen-features.2430567/</comments>
+		<pubDate>Tue, 02 Jul 2024 15:45:35 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-18-home-screen&#038;post_date=1719971135/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[With <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, Apple overhauled the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a>, introducing design changes that allow for more customization and personalization. You can put icons where you want, change their size, and give them new colors, plus you can hide apps and swap out your Lock Screen buttons.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iOS-18-Home-Screen-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-957461" /><br/>
+This guide highlights everything new coming to the &zwnj;iOS 18&zwnj; &zwnj;Home Screen&zwnj; and Lock Screen.<br/>
+<br/>
+<h2 id="rearranging_icons">Rearranging Icons</h2><br/>
+With &zwnj;iOS 18&zwnj;, you can rearrange app icons and widgets on your &zwnj;Home Screen&zwnj; and app pages with space between them, providing a wealth of new layout options.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-home-screen-icons.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957464" /><br/>
+Apple stuck with a grid system so you can only move app icons within the grid locations, but an icon can be placed anywhere in the grid with empty space around it. That sounds complicated, but with <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, if you added a new app to your &zwnj;Home Screen&zwnj;, it would automatically go to the next open spot.<br/>
+<br/>
+In &zwnj;iOS 18&zwnj;, you can choose where to put it. You can have app icon-sized spaces between apps, full empty rows, and full empty columns. You can't put icons and widgets in places with uneven spacing because of the invisible grid limitation, so keep that in mind.<br/>
+<br/>
+You can put a single app in the middle of a page, have a row of apps at the top and a row of apps at the bottom, create a column of apps, and more. Apple created this design to allow you to place apps and widgets around wallpapers and arrange them into more useful layouts.<br/>
+<br/>
+Here's how to move your icons:<br/>
+<ol><br/>
+ <li>Long press on the &zwnj;Home Screen&zwnj; or on an app page to initiate wiggle mode.</li><br/>
+ <li>Move apps into the desired positions.</li><br/>
+ <li>Tap on done.</li><br/>
+</ol><br/>
+<h2 id="increase_icon_size">Increase Icon Size</h2><br/>
+You can make your app icons bigger in &zwnj;iOS 18&zwnj; by removing the app names. With app names in place, Apple needs space to display them, but removing them opens up a lot of area for a larger icon and folder size. Changing the app size does not change the number of apps that are visible, it simply removes text and uses up that empty space.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/hide-app-labels-home-screen-ios-18.jpg" alt="Home Screen" width="4377" height="2796" class="aligncenter size-full wp-image-954852" /><br/>
+With larger icons, you still get a maximum of six icon rows with four icons each, the same that you're limited to when icon names are turned on. To change icon size, follow these steps:<br/>
+<ol><br/>
+ <li>Long press on the &zwnj;Home Screen&zwnj; or an app page.</li><br/>
+ <li>Tap on "Edit."</li><br/>
+ <li>Tap on "Customize."</li><br/>
+ <li>Choose Small to turn on app names, or Large to turn them off.</li><br/>
+</ol><br/>
+Note that this setting is universal, so you cannot have small icons on one app page and large icons on a different app page.<br/>
+<br/>
+<h2 id="change_widget_size">Change Widget Size</h2><br/>
+You can change the size of widgets directly from the &zwnj;Home Screen&zwnj; without having to go into the customization options. <a href="https://www.macrumors.com/guide/home-screen/">Widgets</a> now have a white rounded bar in the corner, which you can drag to make them larger or smaller.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-resize-widgets.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957465" /><br/>
+<ol><br/>
+ <li>Long press on the &zwnj;Home Screen&zwnj; or an app page to get into wiggle mode.</li><br/>
+ <li>Use a finger to resize the widget to be smaller or larger.</li><br/>
+</ol><br/>
+You are limited to the minimum and maximum size available with any given widget. For example, the Battery widget can be the size of four app icons, six horizontal app icons in two rows, or a square shape that's four icons wide by four icons tall. When you resize the Battery widget, you are limited to those size options, but you don't need to go into the full widget settings to change the size.<br/>
+<br/>
+&zwnj;Widgets&zwnj; are still added to your &zwnj;Home Screen&zwnj; and app pages in the same way, though some of the labeling has shifted. Long press and tap on "Edit," then choose the "Add Widget" option. It's one more tap than it was before due to the new customization options.<br/>
+<br/>
+If an app has a widget, you can also long press on its icon to see widget options right there, turning the app's icon into a widget instead.<br/>
+<br/>
+<h2 id="new_widgets">New Widgets</h2><br/>
+Apple added a new Health widget in &zwnj;iOS 18&zwnj; that shows information from the new Vitals feature that's both in the Health app and on Apple Watch. It provides an overview of daily vitals or weekly vitals, plus there's also a new widget for cycle tracking.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-new-widgets.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957466" /><br/>
+Vitals aggregates information from the Apple Watch to provide a daily readout of how your heart rate, sleep patterns, respiration, and blood oxygen change from day to day and week to week.<br/>
+<br/>
+There is a new Journal widget as well, with options that provide a writing prompt that you can tap on to open up the app to answer. You can also select a Streaks widget that keeps track of how many days in a row you've used the Journal app.<br/>
+<br/>
+For the new Training Load feature on Apple Watch, Apple has added a corresponding widget in the Fitness widget section.<br/>
+<br/>
+In the Home widget section, there are new widgets for electricity usage and electricity rates (a feature coming to select users in &zwnj;iOS 18&zwnj; later this year).<br/>
+<br/>
+<h2 id="dark_mode_icons">Dark Mode Icons</h2><br/>
+Apple's built-in apps have both Light and Dark color options in &zwnj;iOS 18&zwnj;, which allows you to change the color of your icons when you have <a href="https://www.macrumors.com/guide/ios-dark-mode/">Dark Mode</a> turned on. The Dark icons are all redesigned with a black background rather than a white or colored background, which makes them blend in better with the &zwnj;Dark Mode&zwnj; setting.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/ios-18-dark-mode-icons.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-956931" /><br/>
+You can turn on Dark icons independently of having &zwnj;Dark Mode&zwnj; enabled, so you can leave Light mode on while using the Dark icon option. You can also set icons to an automatic mode, which means they'll change color depending on whether &zwnj;Dark Mode&zwnj; or Light Mode is active.<br/>
+<br/>
+Right now, it's only Apple's apps that have a Dark option, but third-party developers will presumably also be able to include two color options for their icons when &zwnj;iOS 18&zwnj; launches.<br/>
+<br/>
+To go along with the &zwnj;Dark Mode&zwnj; icons, Apple also introduced a toggle that makes your wallpaper darker. Here's how to change your icon and wallpaper color:<br/>
+<ol><br/>
+ <li>Long press on the &zwnj;Home Screen&zwnj; or an app page.</li><br/>
+ <li>Tap on "Edit."</li><br/>
+ <li>Tap on "Customize."</li><br/>
+ <li>Select Automatic, Dark, Light, or Tinted, an option described below. This is also the interface used to change app icon size, and darken your wallpaper (the sun icon).</li><br/>
+</ol><br/>
+The wallpaper option makes your chosen wallpaper a bit darker in color, dimming bright shades when enabled. Tapping toggles Light and Dark modes, with Light being your standard wallpaper color.<br/>
+<br/>
+<h2 id="icon_tints">Icon Tints</h2><br/>
+In addition to choosing a &zwnj;Dark Mode&zwnj; for your app icons, you can opt to put a tint over all of them, which is an aesthetic that's useful if you want to match a wallpaper.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iOS-18-Home-Screen-Feature-1.5.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-957459" /><br/>
+You cannot change icon colors individually, and the tint changes the shade of <em>all</em> of the icons en masse. You can use an eyedropper to choose a color from your wallpaper, or you can use the two bars to tweak both hue and saturation. Tinting works with all icons because it desaturates and then places a color over the desaturated icon, so you do lose individual colors in app icons and widgets. It's a very monochromatic look.<br/>
+<br/>
+As with icon size, this is a universal setting so you cannot have different tints for different app pages. Tinting affects not only your app pages and &zwnj;Home Screen&zwnj;, but also the App Library. To change an icon tint:<br/>
+<ol><br/>
+ <li>Long press on the &zwnj;Home Screen&zwnj; or an app page.</li><br/>
+ <li>Tap on "Edit."</li><br/>
+ <li>Tap on "Customize."</li><br/>
+ <li>Select Tinted and use the sliders to adjust the tint to your ideal color.</li><br/>
+</ol><br/>
+To turn off a tint, follow these same steps and then choose "Light" or "Dark" to get back to the standard app icon colors.<br/>
+<br/>
+<h2 id="hiding_and_locking_apps">Hiding and Locking Apps</h2><br/>
+&zwnj;iOS 18&zwnj; includes a security feature for locking apps or even hiding them entirely from your &zwnj;Home Screen&zwnj; and app pages. A locked app requires a <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> scan to open, so if someone is using your unlocked <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, they still won't be able to open apps you've disabled.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/ios-18-lock-apps.jpg" alt="" width="5560" height="3128" class="aligncenter size-full wp-image-954703" /><br/>
+Hiding an app does the same thing as locking it, but goes a step further and removes it from view entirely. You'll only see it in a Hidden folder in the App Library, which also requires authentication to access. Locked and Hidden apps do not show up in searches on the &zwnj;iPhone&zwnj;, they're not accessible by <a href="https://www.macrumors.com/guide/siri/">Siri</a> without authentication, and notifications and alerts like calls from the app are disabled, so they're entirely private without authentication.<br/>
+<br/>
+The option to lock and hide apps is useful for when you need to hand your phone over to someone for viewing photos, playing games, or similar situations.<br/>
+<br/>
+For a locked app, there is no sign that it's locked until someone attempts to open it, at which point there's a &zwnj;Face ID&zwnj; or &zwnj;Touch ID&zwnj; authentication prompt. For hidden apps, they simply don't show up anywhere except the App Library.<br/>
+<br/>
+Apps <em>do</em> show up in your <a href="https://www.macrumors.com/guide/app-store/">App Store</a> purchase/download list, but they don't show up in the Settings app. Settings for hidden apps can be accessed in a separate "Hidden Apps" folder that does require authentication to open up. How to lock or hide an app:<br/>
+<ol><br/>
+ <li>Long press on the icon of the app that you want to lock or hide.</li><br/>
+ <li>Tap on "Require &zwnj;Face ID&zwnj;."</li><br/>
+ <li>If you want to simply lock an app, tap on "Require &zwnj;Face ID&zwnj;" again. If you want to hide it, choose "Hide and Require &zwnj;Face ID&zwnj;."</li><br/>
+ <li>Authenticate with a &zwnj;Face ID&zwnj; or &zwnj;Touch ID&zwnj; scan.</li><br/>
+ <li>For a locked app, that's it. For a hidden app, you'll see a screen letting you know that you won't get notifications or calls from the app.</li><br/>
+ <li>Tap "Hide App."</li><br/>
+</ol><br/>
+To remove the lock on an app, long press again on the icon on the &zwnj;Home Screen&zwnj; or app page and choose "Don't Require &zwnj;Face ID&zwnj;." You will need to authenticate to turn it off.<br/>
+<br/>
+To unhide an app, go to the App Library, select the Hidden section, authenticate with &zwnj;Face ID&zwnj; or &zwnj;Touch ID&zwnj;, long press on the app icon, and choose "Don't Require &zwnj;Face ID&zwnj; or "Unhide App." The first option turns off the lock and keeps the app off of the &zwnj;Home Screen&zwnj;, while the second both turns off the authentication requirement and adds it back to the first available opening on an app page.<br/>
+<br/>
+If you turn off the lock and do not add it back to the &zwnj;Home Screen&zwnj;, you'll need to find it in the App Library to put it back on the &zwnj;Home Screen&zwnj; later.<br/>
+<br/>
+<h2 id="lock_screen_updates">Lock Screen Updates</h2><br/>
+Apple didn't make major changes to the Lock Screen because it was just overhauled with &zwnj;iOS 17&zwnj;, but there are a few updates worth noting.<br/>
+<br/>
+<h3 id="rainbow_time_and_other_new_lock_screen_widget_options">Rainbow Time and Other New Lock Screen Widget Options</h3><br/>
+With &zwnj;iOS 17&zwnj;, Apple added an option to customize the font and the color of the time on the Lock Screen, and in &zwnj;iOS 18&zwnj;, there's a new rainbow color option that adds a variegated rainbow shade for the time. There are no other changes to font or color options.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-rainbow-lock-screen-time.jpg" alt="" width="2320" height="1305" class="aligncenter size-full wp-image-957467" /><br/>
+Above the time, you can add a new Journal widget that presents a journaling prompt and opens the app when you tap it.<br/>
+<br/>
+For widget options, there are new Health app Vitals widgets, and new entries for electricity usage and rates. These match the new &zwnj;Home Screen&zwnj; widgets.<br/>
+<br/>
+<h3 id="quick_buttons">Quick Buttons</h3><br/>
+For the first time, you can change the Flashlight and Camera icons on the Lock Screen, picking something more useful or turning them off entirely.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/ios-18-lock-screen-buttons.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954622" /><br/>
+You can choose any Control Center option for the Lock Screen buttons, including Shortcuts, &zwnj;Dark Mode&zwnj;, Airplane Mode, Remote, Alarm Calculator, Translate, and more. This change ties into a redesign of the Control Center, and it gives you a lot more possibilities for what you can launch from the Lock Screen.<br/>
+<br/>
+Apple is allowing third-party apps to add Control Center icons, so you can also choose from those. Depending on what you pick, you may need to use &zwnj;Face ID&zwnj; or &zwnj;Touch ID&zwnj; to authenticate before being able to access an app from the Lock Screen in order to preserve user privacy and keep sensitive data from being easily accessible.<br/>
+<br/>
+To change your Lock Screen buttons, follow these steps:<br/>
+<ol><br/>
+ <li>Long press on the Lock Screen after authenticating.</li><br/>
+ <li>Tap on Customize.</li><br/>
+ <li>Tap on Lock Screen.</li><br/>
+ <li>From this interface, tap on the "-" icon to remove any apps that are already assigned to those buttons. If you're doing this for the first time, you'll have the Flashlight and Camera apps set to the default, which need to be removed.</li><br/>
+ <li>From there, tap on the "+" button and choose a new control to add.</li><br/>
+ <li>Tap on Done in the upper right corner.</li><br/>
+</ol><br/>
+<br/>
+<h3 id="ios_18_wallpaper">iOS 18 Wallpaper</h3><br/>
+There are four new &zwnj;iOS 18&zwnj; wallpaper options in pink, yellow, azure, and purple with a matching darker colored swoop. These all have a Light Mode and a &zwnj;Dark Mode&zwnj; shade customized by Apple, with the &zwnj;Dark Mode&zwnj; featuring a background glow for the darker part of the design.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-wallpaper.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957469" /><br/>
+You can find the new wallpapers by long pressing on the Lock Screen, and choosing Customize to modify an existing wallpaper or "+" to add a new one entirely.<br/>
+<br/>
+<h2 id="read_more">Read More</h2><br/>
+More on all of the new features that were added in &zwnj;iOS 18&zwnj; <a href="https://www.macrumors.com/roundup/ios-18/">can be found in our iOS 18 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-18-home-screen/">iOS 18: 10 New Home Screen and Lock Screen Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-10-new-home-screen-and-lock-screen-features.2430567/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple&#039;s Phil Schiller to Serve as OpenAI Board Observer as Part of iOS 18 AI Agreement</title>
+		<link>https://www.macrumors.com/2024/07/02/apple-schiller-openai-board-observer/</link>
+		<comments>https://forums.macrumors.com/threads/apples-phil-schiller-to-serve-as-openai-board-observer-as-part-of-ios-18-ai-agreement.2430565/</comments>
+		<pubDate>Tue, 02 Jul 2024 14:14:05 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/02/apple-schiller-openai-board-observer/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>ChatGPT</category>
+		<category>OpenAI</category>
+		
+
+		<description><![CDATA[Apple Fellow and <a href="https://www.macrumors.com/guide/app-store/">App Store</a> chief <a href="https://www.macrumors.com/guide/phil-schiller/">Phil Schiller</a> will take on a board observer position at OpenAI, reports <em><a href="https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement">Bloomberg</a></em>. Apple has been granted an observer role as part of its agreement with OpenAI, which will see ChatGPT integrated into <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>, and Schiller has been selected for the role.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-953560" src="https://images.macrumors.com/article-new/2024/06/open-ai-logo.jpg" alt="" width="1093" height="615" /><br/>
+A board observer is an informal board position where the participant is able to attend and contribute to board meetings, but is not allowed to vote and has no control. OpenAI has also given a board observer role to Microsoft, so Apple and Microsoft will be on even footing with Schiller's new position.<br/>
+<br/>
+Given Microsoft's relationship with OpenAI, future board meetings could cover new arrangements between OpenAI and Microsoft, which <em>Bloomberg</em> suggests could cause tension if Schiller is present. Microsoft can request that Schiller be excluded from these meetings, however.<br/>
+<br/>
+Schiller has not yet attended any OpenAI board meetings and is not set to do so until later in the year.<br/>
+<br/>
+Apple and OpenAI's deal will see <a href="https://www.macrumors.com/guide/siri/">Siri</a> able to hand complicated user requests over to ChatGPT with explicit user permission. OpenAI is not paying Apple to integrate ChatGPT in its operating systems, nor is Apple paying OpenAI. No money is being exchanged under the terms of the arrangement at the current time.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a>, <a href="https://www.macrumors.com/guide/openai/">OpenAI</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/02/apple-schiller-openai-board-observer/">Apple&#039;s Phil Schiller to Serve as OpenAI Board Observer as Part of iOS 18 AI Agreement</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-phil-schiller-to-serve-as-openai-board-observer-as-part-of-ios-18-ai-agreement.2430565/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Former Apple Lawyer Fined &#36;1.15 Million After Insider Trading Conviction</title>
+		<link>https://www.macrumors.com/2024/07/02/former-apple-lawyer-sec-fine/</link>
+		<comments>https://forums.macrumors.com/threads/former-apple-lawyer-fined-1-15-million-after-insider-trading-conviction.2430564/</comments>
+		<pubDate>Tue, 02 Jul 2024 13:47:51 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/02/former-apple-lawyer-sec-fine/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>SEC</category>
+		
+
+		<description><![CDATA[Former Apple director of corporate law Gene Levoff has been ordered to pay the U.S. Securities and Exchange Commission &#36;1.15 million for insider trading, reports <em><a href="https://www.reuters.com/legal/apple-ex-lawyer-ordered-pay-115-million-sec-fine-insider-trading-2024-07-02/">Reuters</a></em>. Late last year, Levoff was sentenced to four years of probation and a fine, <a href="https://www.macrumors.com/2023/12/07/former-apple-lawyer-insider-trading-no-prison/">avoiding a possible two-year jail sentence</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-767473" src="https://images.macrumors.com/article-new/2020/10/apple-logo-cash-feature.jpg" alt="" width="1430" height="805" /><br/>
+At the time, the fine had not been determined, but the judge presiding over the case handed down a ruling on Tuesday. The judge said that Levoff's violations were "especially egregious" even though he had not been "living excessively."<br/>
+<br/>
+At Apple, Levoff's role included making sure Apple employees were compliant with the company's insider trading policies, which is why the judge decided that his violation was of particular concern.<br/>
+<br/>
+Because Levoff was meant to prevent insider trading at Apple, he had access to Apple's earnings results before they were made available to the public. He used the information that he learned to buy Apple shares ahead of better-than-expected results, and to sell shares when there were weaker-than-expected earnings. Levoff's shady stock dealings earned him approximately &#36;277,000, while helping him avoid losses of around &#36;377,000.<br/>
+<br/>
+In July 2015, for example, Levoff knew Apple would not meet analysts' third quarter estimates for <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> sales, so he sold &#36;10 million in Apple stock between July 17 and July 21, which is when Apple's earnings information went live. After the announcement, Apple stock dropped more than four precent.<br/>
+<br/>
+Levoff worked at Apple from 2011 to 2018, but he abused his insider information between 2011 and 2016. Apple fired him in September 2018 after the authorities contacted the company about Levoff's dealings. In June 2022, Levoff <a href="https://www.macrumors.com/2022/07/01/former-apple-lawyer-pleads-guilty-insider-trading/">pleaded guilty</a> to six counts of securities fraud for insider trading. Federal prosecutors pushed for jail time to deter other corporate executives from insider trading, but the judge did not feel that it was necessary because Levoff was fired and is no longer be able to practice law.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/sec/">SEC</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/02/former-apple-lawyer-sec-fine/">Former Apple Lawyer Fined &#36;1.15 Million After Insider Trading Conviction</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/former-apple-lawyer-fined-1-15-million-after-insider-trading-conviction.2430564/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Second macOS Sonoma 14.6 Public Beta</title>
+		<link>https://www.macrumors.com/2024/07/02/apple-releases-macos-sonoma-14-6-public-beta-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-second-macos-sonoma-14-6-public-beta.2430550/</comments>
+		<pubDate>Tue, 02 Jul 2024 10:13:10 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/02/apple-releases-macos-sonoma-14-6-public-beta-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today seeded the second beta of an upcoming macOS 14.6 update to public beta testers, allowing non-developers to test the software ahead of its launch. Today's public beta comes two weeks after Apple <a href="https://www.macrumors.com/2024/06/20/apple-releases-first-macos-sonoma-14-6-public-beta/">released the first public beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-900182" src="https://images.macrumors.com/article-new/2023/06/macos-sonoma-4.jpg" alt="" width="2336" height="1314" /><br/>
+Beta testers can opt-in through the Software Update section of the System Settings app. Under Beta updates, simply toggle on the Sonoma Public Beta. Note that you must sign up to participate on Apple's <a href="https://beta.apple.com">beta testing website</a>.<br/>
+<br/>
+No new Mac features were found in the <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.6 developer betas, so it is not clear what might be included. With Apple now working on <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>, development on &zwnj;macOS Sonoma&zwnj; is beginning to wrap up so it's likely a bug fix update.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/02/apple-releases-macos-sonoma-14-6-public-beta-2/">Apple Releases Second macOS Sonoma 14.6 Public Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-second-macos-sonoma-14-6-public-beta.2430550/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Second Public Beta of iOS 17.6</title>
+		<link>https://www.macrumors.com/2024/07/02/apple-releases-ios-17-6-public-beta-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-second-public-beta-of-ios-17-6.2430549/</comments>
+		<pubDate>Tue, 02 Jul 2024 10:12:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/02/apple-releases-ios-17-6-public-beta-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iPhone 17</category>
+		
+
+		<description><![CDATA[Apple today seeded the second betas of upcoming iOS 17.6 and iPadOS 17.6 updates to public beta testers, with the betas coming two weeks after the <a href="https://www.macrumors.com/2024/06/20/apple-releases-first-public-beta-of-ios-17-6/">initial iOS and iPadOS 17.6 developer betas</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/iOS-17.6-Feature-Redux.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950716" /><br/>
+Public beta testers can get the beta by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Public Beta. Signing up on Apple's beta testing website is required.<br/>
+<br/>
+The new additions Apple promised for &zwnj;iOS 17&zwnj; have all been implemented at this point, so it is not clear what will be included in iOS 17.6, and no features were discovered in the developer betas.<br/>
+<br/>
+With Apple now shifting its focus to <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, it is likely that iOS 17.6 will include bug fixes and other under-the-hood improvements.<br/>
+<br/>
+Apple has also seeded the second public betas of upcoming watchOS 10.6 and tvOS 17.6 updates. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-17/">iPhone 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/02/apple-releases-ios-17-6-public-beta-2/">Apple Releases Second Public Beta of iOS 17.6</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-second-public-beta-of-ios-17-6.2430549/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Leak Confirms Four iPhone 16 Models With Same A18 Chip</title>
+		<link>https://www.macrumors.com/2024/07/02/iphone-16-models-a18-chip/</link>
+		<comments>https://forums.macrumors.com/threads/apple-leak-confirms-four-iphone-16-models-with-same-a18-chip.2430548/</comments>
+		<pubDate>Tue, 02 Jul 2024 09:48:06 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/02/iphone-16-models-a18-chip/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iPhone 16</category>
+		<category>iPhone 16 Pro</category>
+		
+
+		<description><![CDATA[Code discovered in Apple's backend by <a href="https://x.com/nicolas09F9">Nicolás Alvarez</a> and shared with <em>MacRumors</em> confirms Apple's plans to release four <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models this year, and it indicates that the devices will all have the same A-series chip. There are mentions of new model numbers that are not associated with existing iPhones, and that have the numbering scheme Apple uses for its flagship devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/iPhone-16-Camera-Lozenge-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-935160" /><br/>
+The code includes the following <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> identifiers:<br/>
+<ul><br/>
+ 	<li>iPhone17,1</li><br/>
+ 	<li>iPhone17,2</li><br/>
+ 	<li>iPhone17,3</li><br/>
+ 	<li>iPhone17,4</li><br/>
+ 	<li>iPhone17,5</li><br/>
+</ul><br/>
+All five start with the same number, which suggests that Apple plans to use the same chip for them. With the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models, which have different chips, the internal identifiers have separate numbers.<br/>
+<ul><br/>
+ 	<li>&zwnj;iPhone 15&zwnj; - &zwnj;iPhone 15&zwnj;,4</li><br/>
+ 	<li>&zwnj;iPhone 15&zwnj; Plus - &zwnj;iPhone 15&zwnj;,5</li><br/>
+ 	<li><a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> - &zwnj;iPhone 16&zwnj;,1</li><br/>
+ 	<li>&zwnj;iPhone 15 Pro&zwnj; Max - &zwnj;iPhone 16&zwnj;,2</li><br/>
+</ul><br/>
+The &zwnj;iPhone 15&zwnj; models have the A16 Bionic chip that was first used in the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> Pro models, which had corresponding model numbers of &zwnj;iPhone 15&zwnj;,2 for the &zwnj;iPhone 14&zwnj; Pro and &zwnj;iPhone 15&zwnj;,3 for the &zwnj;iPhone 15 Pro&zwnj; Max. The &zwnj;iPhone 15 Pro&zwnj; and Pro Max have the A17 Pro chip, hence the 16,x identifier.<br/>
+<br/>
+Apple's iPhones typically tie identifier to chip. Everything with the A16 chip has an identifier that starts with 15, and prior devices that had an A15 chip all had an identifier starting with 14. The same goes for the 13,x identifier (A14), and the 12,x identifier (A13).<br/>
+<br/>
+So if Apple sticks with the identifier numbering scheme it has used for years, all four &zwnj;iPhone 16&zwnj; models will have the same chip, and that's <a href="https://www.macrumors.com/2023/09/27/iphone-16-lineup-a18-a18-pro-chips-analyst-says/">in line with rumors</a> and prior leaks. We've heard several rumors that the devices will share a chip, and an <a href="https://www.macrumors.com/2024/03/01/chip-details-of-16-upcoming-apple-devices-revealed/">earlier code leak in March</a> also confirmed the shared identifiers.<br/>
+<br/>
+Note that there are five model numbers listed, and only four are likely to be associated with the upcoming &zwnj;iPhone 16&zwnj; lineup. The fifth could potentially be a future <a href="https://www.macrumors.com/roundup/iphone-se/">iPhone SE</a>, but there's no way to determine what that device is at this time.<br/>
+<br/>
+While we do expect all four &zwnj;iPhone 16&zwnj; models to use a new A18 chip, Apple could still differentiate between the standard models and the Pro models, even giving the chips separate A18 and A18 Pro names. Apple could use A18 chips with a smaller number of GPU cores (either binned or disabled) for the &zwnj;iPhone 16&zwnj; models, while saving chips with a better GPU for the <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a> lineup.<br/>
+<br/>
+It would make sense for all four &zwnj;iPhone 16&zwnj; models and a future &zwnj;iPhone SE&zwnj; to all have the same A18 chip because of the Apple Intelligence features set to debut in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>. Apple Intelligence requires a high-powered chip for the AI features to run on-device. At this time, only the &zwnj;iPhone 15 Pro&zwnj; and Pro Max are able to use Apple Intelligence, and Apple likely wants to make sure all future devices have the power required for machine learning and artificial intelligence tasks.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/02/iphone-16-models-a18-chip/">Apple Leak Confirms Four iPhone 16 Models With Same A18 Chip</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-leak-confirms-four-iphone-16-models-with-same-a18-chip.2430548/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Resident Evil 7 Debuts on iPhone 15 Pro, iPad, and Mac</title>
+		<link>https://www.macrumors.com/2024/07/02/resident-evil-7-iphone-15-pro-ipad-mac/</link>
+		<comments>https://forums.macrumors.com/threads/resident-evil-7-debuts-on-iphone-15-pro-ipad-and-mac.2430545/</comments>
+		<pubDate>Tue, 02 Jul 2024 09:14:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/02/resident-evil-7-iphone-15-pro-ipad-mac/</guid>
+		<dc:creator>Eric Slivka</dc:creator>
+		<category>Capcom</category>
+		
+
+		<description><![CDATA[As part of its effort to embrace Apple's latest chips, <a href="https://www.capcom-games.com/apple/en-us/">Capcom</a> today released <em>Resident Evil 7 biohazard</em> for <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, &zwnj;iPhone 15 Pro&zwnj; Max, and all iPads and Macs with M-series Apple silicon chips. [<a href="https://apps.apple.com/us/app/resident-evil-7-biohazard/id1640629241">App Store</a>]<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/dxfivQCE42o?si=cRywGOpQzC2L-78J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+The game runs natively on Apple silicon with support for cross-progression and universal purchase, letting Apple users play the game across <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and Mac with a single purchase and transfer their saved games between devices.<br/>
+<br/>
+Capcom notes that the &zwnj;iPhone&zwnj; and &zwnj;iPad&zwnj; version of <em>Resident Evil 7 biohazard</em> includes enhanced controls with a new Auto Fire option to assist with touchscreen usability. Hardware controller support is also included for those who want a more console-like experience.<br/>
+<br/>
+In addition to the main <em>Resident Evil 7 biohazard</em> game, the download also includes the <em>Not A Hero</em> DLC add-on, and a Gold Edition upgrade is available with additional DLC content.<br/>
+<br/>
+The game is a free download that allows for a portion of the game to be played free of charge, with the full main unlock priced at &#36;19.99. The Gold Edition DLC upgrade costs an additional &#36;20.00.<br/>
+<br/>
+<em>Resident Evil 7 biohazard</em> joins <em>Resident Evil 4</em> and <em>Resident Evil Village</em> as titles from the series available on &zwnj;iPhone 15 Pro&zwnj;, &zwnj;iPad&zwnj;, and Mac, with <em>Resident Evil 2</em> also in development.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/capcom/">Capcom</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/02/resident-evil-7-iphone-15-pro-ipad-mac/">Resident Evil 7 Debuts on iPhone 15 Pro, iPad, and Mac</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/resident-evil-7-debuts-on-iphone-15-pro-ipad-and-mac.2430545/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iPhone 16 Could Feature Advanced Camera Sensor From Samsung</title>
@@ -365,173 +688,6 @@ Fortnite has been banned from the iOS App Store for the last several years due t
 Apple is charging a 0.50 euro Core Technology Fee per year for apps installed outside of the ‌App Store‌ (and in the ‌App Store‌ for developers who opt in to the new terms and also still choose to use Apple's system), but there are no ‌App Store‌ commissions or in-app fees. While Apple is waiving fees for the first one million installs, the 0.50 per user fee will cost app developers like ‌Epic Games‌ a notable amount of money, especially given that Epic will often be charged twice – once for its app marketplace and once again for every Fortnite install. <br/>
 <br/>
 Epic CEO Tim Sweeney has been critical of Apple's App Store changes to bring its policies in line with the Digital Markets Act (DMA). Sweeney has <a href="https://x.com/TimSweeneyEpic/status/1750589570880516402">described</a> the changes as a "devious new instance of malicious compliance," and called Apple's charges "junk fees." The European Commission last week formally announced its preliminary view that <a href="https://www.macrumors.com/2024/06/24/eu-accuses-apple-violating-dma-rules/">Apple's App Store policies are in breach of the DMA</a>. The Commission also said it would open a new non-compliance procedure against Apple over concerns that its contractual requirements for third-party app developers and app marketplaces, including its Core Technology Fee, "fall short of ensuring effective compliance with Apple's obligations under the DMA."<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a>, <a href="https://www.macrumors.com/guide/epic-games-vs-apple/">Epic Games vs. Apple</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/01/fortnite-epic-game-store-submitted-apple/">Fortnite and Epic Games Store Submitted to Apple for iOS Launch in EU</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/fortnite-and-epic-games-store-submitted-to-apple-for-ios-launch-in-eu.2430446/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Google to Unveil Pixel 9 Phones Next Month Ahead of iPhone 16 Launch</title>
-		<link>https://www.macrumors.com/2024/07/01/google-to-unveil-pixel-9-phones-august/</link>
-		<comments>https://forums.macrumors.com/threads/google-to-unveil-pixel-9-phones-next-month-ahead-of-iphone-16-launch.2430443/</comments>
-		<pubDate>Mon, 01 Jul 2024 04:41:55 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/01/google-to-unveil-pixel-9-phones-august/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Google</category>
-		
-
-		<description><![CDATA[Google will refresh its product lineup this year in the middle of August rather than its usual October timing, which means its latest flagship Pixel smartphones will debut ahead of Apple's annual iPhone upgrade cycle for the first time.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/10/google-pixel-announcements.jpg" alt="" width="2060" height="1159" class="aligncenter size-full wp-image-915310" /><div class="center-wrap"><em>Google Pixel 8 series</em></div><br/>
-Google last week began sending out media invitations to an August 13 hardware event that will "showcase the base of Google AI, Android software and the Pixel portfolio of devices." Google typically holds its annual Made by Google event in early October to unveil its latest Pixel phones, smartwatches, and Nest-branded devices. <br/>
-<br/>
-Rumors indicate Google will launch three devices in its forthcoming Pixel 9 lineup, with a new larger 6.2-inch Pixel 9 Pro XL device joining the regular Pixel 9 and Pixel 9 Pro. Leaks suggest the Pixel 9 Pro will have a triple rear camera setup. Google is also expected to launch Android 15 touting Gemini AI enhancements and other services. <br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Get ready for magic at <a href="https://twitter.com/hashtag/MadeByGoogle?src=hash&amp;ref_src=twsrc%5Etfw">#MadeByGoogle</a> <br><br>Learn more and sign up for updates: <a href="https://t.co/ZnBcg6S6vK">https://t.co/ZnBcg6S6vK</a> <a href="https://t.co/C6Of1L9g4a">pic.twitter.com/C6Of1L9g4a</a></p>&mdash; Made by Google (@madebygoogle) <a href="https://twitter.com/madebygoogle/status/1805713788416434332?ref_src=twsrc%5Etfw">June 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-Alongside new phones, Google is expected to release a Pixel Fold 2 tablet, a Pixel Watch 3 series, and new Pixel earbuds, all of which will compete with Apple devices. The decision to bring forward the hardware upgrades was likely made with one eye on Apple's hardware launches in September, when the iPhone 16 and Apple Watch Series 9 are expected to be revealed alongside iOS 18 with Apple Intelligence.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/google/">Google</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/01/google-to-unveil-pixel-9-phones-august/">Google to Unveil Pixel 9 Phones Next Month Ahead of iPhone 16 Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/google-to-unveil-pixel-9-phones-next-month-ahead-of-iphone-16-launch.2430443/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Some Apple Intelligence Features Likely to Require Paid Subscription</title>
-		<link>https://www.macrumors.com/2024/07/01/apple-intelligence-features-likely-paid-sub/</link>
-		<comments>https://forums.macrumors.com/threads/some-apple-intelligence-features-likely-to-require-paid-subscription.2430439/</comments>
-		<pubDate>Mon, 01 Jul 2024 03:51:36 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/01/apple-intelligence-features-likely-paid-sub/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Bloomberg</category>
-		<category>Mark Gurman</category>
-		<category>Apple Intelligence</category>
-		
-
-		<description><![CDATA[Apple eventually plans to turn some of its artificial intelligence features into paid services, similar to iCloud+ subscriptions, according to <em>Bloomberg</em> reporter Mark Gurman.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-Intelligence-General-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-956491" /><br/>
-Writing in his latest <a href="https://www.bloomberg.com/news/newsletters/2024-06-30/apple-s-longer-lasting-devices-ios-19-and-apple-intelligence-on-the-vision-pro-ly1jnrw4">Power On newsletter</a>, Gurman said that while Apple Intelligence will be free to start, Apple's long-term plan is to launch something like "Apple Intelligence+," with extra features that users pay monthly fees to access.<br/>
-<br/>
-Making its own AI features another services revenue stream should allow Apple to compensate for the slowing pace of hardware upgrades and make the company less reliant on hardware tweaks to drive its business, argues Gurman. <br/>
-<br/>
-Apple is also expected to receive a cut of revenue whenever a user signs up to features offered by its AI partners, such as ChatGPT provided by OpenAI. Gurman says he expects Apple to agree a deal with Google and Anthropic to offer their AI services through its devices, with the former expected to be announced when Apple Intelligence launches in the fall as part of iOS 18, iPadOS 18, and macOS Sequoia.<br/>
-<br/>
-<em>Bloomberg</em> previously reported that Apple has <a href="https://www.macrumors.com/2024/06/24/apple-meta-ai-privacy-concerns/">turned down</a> an AI partnership with Facebook parent company Meta due to privacy concerns. Meanwhile, Apple is said to be <a href="https://www.macrumors.com/2024/06/21/apple-ai-partner-china/">seeking partnerships for the Chinese market</a>, where ChatGPT and other similar AI services are not available. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/01/apple-intelligence-features-likely-paid-sub/">Some Apple Intelligence Features Likely to Require Paid Subscription</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/some-apple-intelligence-features-likely-to-require-paid-subscription.2430439/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16 Pro Models to Adopt &#039;M14&#039; Advanced Samsung OLED Panels for Improved Brightness and Lifespan</title>
-		<link>https://www.macrumors.com/2024/07/01/iphone-16-pro-max-advanced-oled-display/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-pro-models-to-adopt-m14-advanced-samsung-oled-panels-for-improved-brightness-and-lifespan.2430434/</comments>
-		<pubDate>Mon, 01 Jul 2024 02:52:52 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/01/iphone-16-pro-max-advanced-oled-display/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPhone 16 Pro</category>
-		<category>ETNews</category>
-		
-
-		<description><![CDATA[The upcoming iPhone 16 Pro and iPhone 16 Pro Max will be the first Apple smartphones to adopt Samsung's high performance "M14" OLED display panel, claims a new report coming out of South Korea.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iPhone-16-Pro-Front-Update-Blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-953750" /><br/>
-According to <em><a href="https://www.etnews.com/20240628000294">ETNews</a></em>, Samsung's "M" series of OLED panels are made for flagship smartphones, while "14" refers to the number of high-performance materials used to produce them. "M14" is the first series of its kind, and the panel is said to have been developed to deliver superior brightness and longevity.<br/>
-<br/>
-Samsung has reportedly placed orders for the M14 materials and is preparing to mass produce the displays in the second half of the year for Apple's iPhone 16 Pro models. Google's Pixel 9 smartphone is the only other device that is expected to adopt the high-performance displays in 2024.<br/>
-<br/>
-A previous report out of China <a href="https://www.macrumors.com/2024/05/10/iphone-16-pro-brighter-display/">claimed</a> that this year's ‌iPhone 16 Pro‌ models will feature up to 1,200 nits of typical SDR brightness – a 20% increase over the current models – so Samsung's new panel could be the reason for the expected improvement. That said, peak HDR brightness is expected to remain at 1,600 nits, the same as the current iPhone 15 Pro Display.<br/>
-<br/>
-Another rumor last year suggested that all iPhone 16 models will adopt new <a href="https://www.macrumors.com/2023/09/01/iphone-16-oled-displays-micro-lens-efficiency/">micro-lens OLED display technology</a> for improved brightness and reduced power consumption, although it's not clear if this is related to M14 panels specifically.<br/>
-<br/>
-The iPhone 16 Pro and iPhone 16 Pro Max will have <a href="https://www.macrumors.com/2023/09/29/iphone-16-preliminary-weights-dimensions/">larger display sizes</a> than the iPhone 15 Pro models, <a href="https://www.macrumors.com/2023/05/16/iphone-16-display-sizes/">according to multiple sources</a>. The iPhone 16 Pro will have a display that's 6.27 inches in size (rounded to 6.3), while the iPhone 16 Pro Max is expected to have a display that's 6.85 inches in size (rounded to 6.9). <br/>
-<ul><li><a href="https://www.macrumors.com/2024/06/19/iphone-16-pro-max-biggest-rumored-features/">5 Biggest Changes Rumored for iPhone 16 Pro Max</a></li></ul><br/>
-Apple is expected to launch the iPhone 16 series in the fall, or around mid-September going on previous years.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/etnews-com/">ETNews</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/01/iphone-16-pro-max-advanced-oled-display/">iPhone 16 Pro Models to Adopt &#039;M14&#039; Advanced Samsung OLED Panels for Improved Brightness and Lifespan</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-pro-models-to-adopt-m14-advanced-samsung-oled-panels-for-improved-brightness-and-lifespan.2430434/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Likely Planning to Use Bigger, Lower Resolution Displays for Cheaper Vision Headset</title>
-		<link>https://www.macrumors.com/2024/06/30/lower-resolution-displays-for-cheaper-headset/</link>
-		<comments>https://forums.macrumors.com/threads/apple-likely-planning-to-use-bigger-lower-resolution-displays-for-cheaper-vision-headset.2430415/</comments>
-		<pubDate>Sun, 30 Jun 2024 12:41:14 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/30/lower-resolution-displays-for-cheaper-headset/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Vision Pro</category>
-		<category>Featured</category>
-		<category>OLED</category>
-		<category>The Elec</category>
-		
-
-		<description><![CDATA[Apple is exploring new suppliers for OLED-on-Silicon panels, likely signaling the development of a more affordable headset destined to sit alongside the Vision Pro, <a href="http://www.thelec.kr/news/articleView.html?idxno=28806"><em>The Elec</em></a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/apple-vision-pro-lenses.jpg" alt="" width="2000" height="1125" class="alignnone size-full wp-image-898584" /><br/>
-The Korean website has apparently detected a shift in Apple's supply chain management for OLED-on-Silicon (OLEDoS) panels, a key component in the Vision Pro headset. Currently, Sony provides these high-resolution microdisplays, but its limited production capacity of up to 900,000 panels per year and lack of expansion plans have prompted Apple to seek alternatives for the future. Apple has apparently issued a request for information (RFI) to Samsung Display and LG Display to evaluate their capabilities in producing larger OLEDoS panels, ranging from 2.0 to 2.1 inches in size with a display density of around 1,700 pixels per inch (PPI).<br/>
-<br/>
-These displays would be larger than those currently used in the Vision Pro and feature a lower resolution. The Vision Pro uses Sony's OLEDoS panels featuring a 1.42-inch screen with a pixel density of nearly 3,400 PPI, employing a white OLED display with color filter (wOLED+CF) technology. This sophisticated display technology is one of the main reasons for the headset's high price point.<br/>
-<br/>
-At Displayweek 2024, both Samsung and LG showcased advancements in OLED microdisplay technology that could appeal to Apple. Samsung presented a 1.03-inch RGB (direct-emission) OLED microdisplay, developed in collaboration with eMagin, which promises higher brightness levels compared to the wOLED+CF method. Meanwhile, LG revealed a 10,000 nits 1.3-inch 4K OLED microdisplay, utilizing a micro lens array (MLA) to boost brightness by around 40 percent.<br/>
-<br/>
-Apple's interest in larger OLEDoS panels with lower resolution than those used in the Vision Pro suggests these could be intended for a new, lower-cost mixed reality headset. Apple has been rumored to be working on such a device for over a year, and the latest indications suggest that it may be <a href="https://www.macrumors.com/2024/06/24/cheaper-apple-vision-pro-tethered-iphone-mac/">designed to tether to an iPhone or Mac</a> to eliminate the need for a costly processor. The lower-cost Apple Vision headset could launch as soon as the end of next year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/oled/">OLED</a>, <a href="https://www.macrumors.com/guide/the-elec/">The Elec</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/30/lower-resolution-displays-for-cheaper-headset/">Apple Likely Planning to Use Bigger, Lower Resolution Displays for Cheaper Vision Headset</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-likely-planning-to-use-bigger-lower-resolution-displays-for-cheaper-vision-headset.2430415/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Reportedly Starts Work on iOS 19, macOS 16, watchOS 12, and visionOS 3</title>
-		<link>https://www.macrumors.com/2024/06/30/apple-starts-work-on-ios-19-and-macos-16/</link>
-		<comments>https://forums.macrumors.com/threads/apple-reportedly-starts-work-on-ios-19-macos-16-watchos-12-and-visionos-3.2430409/</comments>
-		<pubDate>Sun, 30 Jun 2024 12:01:40 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/30/apple-starts-work-on-ios-19-and-macos-16/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>iOS 18</category>
-		<category>macOS Sequoia</category>
-		<category>visionOS</category>
-		<category>watchOS</category>
-		<category>Bloomberg</category>
-		<category>Mark Gurman</category>
-		
-
-		<description><![CDATA[Apple has already begun work on the iOS 19, macOS 16, watchOS 12, and <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 3 software updates for next year, according to <a href="https://www.bloomberg.com/news/newsletters/2024-06-30/apple-s-longer-lasting-devices-ios-19-and-apple-intelligence-on-the-vision-pro-ly1jnrw4?srnd=undefined"><em>Bloomberg</em></a>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/12/aapl-logo-banner.jpg" alt="" width="1600" height="890" class="alignnone size-full wp-image-776656" /><br/>
-Writing in his <a href="https://www.bloomberg.com/news/newsletters/2024-06-30/apple-s-longer-lasting-devices-ios-19-and-apple-intelligence-on-the-vision-pro-ly1jnrw4?srnd=undefined">most recent</a> "Power On" newsletter, Gurman said that Apple has formally begun development of its major operating systems for 2025 with the codenames "Luck" for iOS 19, "Cheer" for macOS 16, "Nepali" for watchOS 12, and "Discovery" for &zwnj;visionOS&zwnj; 3.<br/>
-<br/>
-While <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, macOS 15 Sequoia, <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a>, and <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a> have not yet been released to the public, the initiation of work on the next major software updates for Apple's major devices is in line with its normal schedule. This is partly due to the fact that hardware products destined for launch next year require software for testing purposes, but it is currently too early to know what sort of features the new operating systems will offer.<br/>
-<br/>
-Gurman also said that the <a href="https://www.macrumors.com/2024/06/30/gurman-apple-intelligence-coming-to-vision-pro/">Vision Pro headset should gain Apple Intelligence</a> as soon as next year, so this could make sense for &zwnj;visionOS&zwnj; 3. Meanwhile, the public beta versions of &zwnj;iOS 18&zwnj;, macOS 15 Sequoia, &zwnj;watchOS 11&zwnj;, and &zwnj;visionOS 2&zwnj; should arrive next month ahead of official release in the fall.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>, <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a>, <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a>, <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>, <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a>, <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a>, <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a>, <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/30/apple-starts-work-on-ios-19-and-macos-16/">Apple Reportedly Starts Work on iOS 19, macOS 16, watchOS 12, and visionOS 3</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-reportedly-starts-work-on-ios-19-macos-16-watchos-12-and-visionos-3.2430409/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>New iPhone Battery Should Be Up to 10% Denser for Longer Life</title>
-		<link>https://www.macrumors.com/2024/06/30/new-iphone-battery-denser-for-longer-life/</link>
-		<comments>https://forums.macrumors.com/threads/new-iphone-battery-should-be-up-to-10-denser-for-longer-life.2430407/</comments>
-		<pubDate>Sun, 30 Jun 2024 11:48:58 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/30/new-iphone-battery-denser-for-longer-life/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>iPhone 16 Pro</category>
-		<category>Ming-Chi Kuo</category>
-		
-
-		<description><![CDATA[A new <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> battery with a metal casing should allow for higher energy density to deliver longer battery life, Apple analyst <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a> claims. <br/>
-<br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2023/11/iphone-16-pro-battery-kosutami.jpg" alt="" width="2048" height="1333" class="alignnone size-full wp-image-923492" /><a href="https://www.macrumors.com/2023/11/20/iphone-16-pro-leak-reveals-redesigned-battery/"><em>Alleged iPhone 16 Pro battery</a> with new metal casing.</em></div><br/>
-In a <a href="https://x.com/mingchikuo/status/1807432542934732953">post on X</a> (formerly Twitter), Kuo said that Apple's adoption of a stainless steel casing for the &zwnj;iPhone&zwnj;'s battery will allow for five to 10 percent higher cell density while remaining within safety limits, as well as meeting the requirements of new EU regulations. Alleged images of an <a href="https://www.macrumors.com/2023/11/20/iphone-16-pro-leak-reveals-redesigned-battery/">iPhone 16 Pro battery with a metal casing</a> leaked in late 2023 and <a href="https://www.macrumors.com/2024/06/28/new-battery-replacement-method-with-iphone-16/"><em>The Information</em></a> has since detailed Apple's work to simplify &zwnj;iPhone&zwnj; battery replacement starting with the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>.<br/>
-<br/>
-New EU law requires smartphone manufacturers to ensure batteries can be replaced by owners using easily accessible tools by 2025. Apple plans to achieve this with the use of electrically induced adhesive debonding technology, allowing users to apply a low voltage of electricity to quickly dislodge the battery instead of finicky adhesive strips. This new battery replacement method is anticipated to debut in at least one &zwnj;iPhone 16&zwnj; model later this year and could extend to all versions of the <a href="https://www.macrumors.com/roundup/iphone-17/">iPhone 17</a> next year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/30/new-iphone-battery-denser-for-longer-life/">New iPhone Battery Should Be Up to 10% Denser for Longer Life</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-iphone-battery-should-be-up-to-10-denser-for-longer-life.2430407/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Gurman: Apple Intelligence Coming to Vision Pro, but Not HomePod</title>
-		<link>https://www.macrumors.com/2024/06/30/gurman-apple-intelligence-coming-to-vision-pro/</link>
-		<comments>https://forums.macrumors.com/threads/gurman-apple-intelligence-coming-to-vision-pro-but-not-homepod.2430404/</comments>
-		<pubDate>Sun, 30 Jun 2024 11:17:48 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/06/30/gurman-apple-intelligence-coming-to-vision-pro/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Vision Pro</category>
-		<category>Featured</category>
-		<category>HomePod</category>
-		<category>HomePod mini</category>
-		<category>Bloomberg</category>
-		<category>Mark Gurman</category>
-		<category>Apple Intelligence</category>
-		
-
-		<description><![CDATA[Apple has no plans to bring Apple Intelligence to the <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a>, but it should arrive on the Vision Pro headset in the future, <a href="https://www.bloomberg.com/news/newsletters/2024-06-30/apple-s-longer-lasting-devices-ios-19-and-apple-intelligence-on-the-vision-pro-ly1jnrw4?srnd=undefined"><em>Bloomberg</em></a>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-Intelligence-General-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-956491" /><br/>
-In the <a href="https://www.bloomberg.com/news/newsletters/2024-06-30/apple-s-longer-lasting-devices-ios-19-and-apple-intelligence-on-the-vision-pro-ly1jnrw4?srnd=undefined">latest edition</a> of his "Power On" newsletter, Gurman said that Apple is preparing to bring Apple Intelligence to its Vision Pro headset, but not this year. The device has sufficient memory to run on-device Apple Intelligence features such as notification summaries, writing tools, and an updated version of <a href="https://www.macrumors.com/guide/siri/">Siri</a>. Apple's user interface design team apparently needs to ensure that Apple Intelligence looks appropriate in a mixed-reality environment. The company also needs to guarantee that it has sufficient cloud-computing capacity to support more devices.<br/>
-<br/>
-Gurman does not expect the &zwnj;HomePod&zwnj; to offer Apple Intelligence, instead focusing on "an entirely new robotic device with a display that includes Apple Intelligence at its core." Apple Intelligence requires a minimum of eight gigabytes of memory, but the &zwnj;HomePod&zwnj; and <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a> only feature a single gigabyte of memory. The current &zwnj;HomePod&zwnj; is said to be "too low-volume a product to waste the engineering time" bringing Apple Intelligence to the device.<br/>
-<br/>
-Going forward, Gurman believes that Apple Intelligence will become increasingly critical to Apple devices and form a pillar of its business. Apple Intelligence should get updated more frequently than services like <a href="https://www.macrumors.com/guide/icloud/">iCloud</a>, at least as often as the company's hardware and software offerings. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a>, <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#HomePod">HomePod (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#Homepod-Mini">HomePod Mini (Neutral)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a>, <a href="https://forums.macrumors.com/forums/homepod-homekit-carplay-home-auto-technology.193">HomePod, HomeKit, CarPlay, Home & Auto Technology</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/06/30/gurman-apple-intelligence-coming-to-vision-pro/">Gurman: Apple Intelligence Coming to Vision Pro, but Not HomePod</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/gurman-apple-intelligence-coming-to-vision-pro-but-not-homepod.2430404/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
