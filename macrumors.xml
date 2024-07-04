@@ -14,12 +14,63 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 04 Jul 2024 03:01:05 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 04 Jul 2024 09:01:02 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>ChatGPT Mac App Stored User Chats in Plain Text Prior to Latest Update</title>
+		<link>https://www.macrumors.com/2024/07/04/chatgpt-mac-app-stored-chats-plain-text/</link>
+		<comments>https://forums.macrumors.com/threads/chatgpt-mac-app-stored-user-chats-in-plain-text-prior-to-latest-update.2430674/</comments>
+		<pubDate>Thu, 04 Jul 2024 05:07:49 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/04/chatgpt-mac-app-stored-chats-plain-text/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>ChatGPT</category>
+		
+
+		<description><![CDATA[OpenAI has issued an update to its <a href="https://openai.com/chatgpt/mac/">ChatGPT app for Mac</a>, after a developer discovered the app was locally storing users' conversations with the chatbot in plain text.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/2chatgpt-mac-app.jpg" alt="" width="2940" height="1912" class="aligncenter size-full wp-image-951953" /><br/>
+Pedro José Pereira Vieito told <em><a href="https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text">The Verge</a></em>'s Jay Peters: "I was curious about why OpenAI opted out of using the app sandbox protections and ended up checking where they stored the app data." <br/>
+<br/>
+That led Pereira Vieito to develop "ChatGPTStealer," a simple app to <a href="https://www.threads.net/@pvieito/post/C85NVV6hvF6?xmt=AQGz0o3JtBOwk1nfUgk8lvxQoIV8E92xz1vK1IP8VC6zhA">demonstrate</a> how easy it is to load the chats in a text window outside of the ChatGPT app. After successfully trying out the app for himself, Peters said he was also able to see the text of conversations on his computer just by changing the file name, indicating the extent of the privacy risk.<br/>
+<br/>
+The ChatGPT Mac app is available solely through OpenAI's website, which is why it has not been obligated to follow Apple's sandboxing requirements that apply to software distributed via the Mac App Store. The oversight basically meant any other running app or process could potentially access the ChatGPT conversations without prompting the user for permission.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="text-post-media" data-text-post-permalink="https://www.threads.net/@pvieito/post/C85NVV6hvF6" data-text-post-version="0" id="ig-tp-C85NVV6hvF6" style=" background:#FFF; border-width: 1px; border-style: solid; border-color: #00000026; border-radius: 16px; max-width:540px; margin: 1px; min-width:270px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"> <a href="https://www.threads.net/@pvieito/post/C85NVV6hvF6" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%; font-family: -apple-system, BlinkMacSystemFont, sans-serif;" target="_blank"> <div style=" padding: 40px; display: flex; flex-direction: column; align-items: center;"><div style=" display:block; height:32px; width:32px; padding-bottom:20px;"> <svg aria-label="Threads" height="32px" role="img" viewBox="0 0 192 192" width="32px" xmlns="http://www.w3.org/2000/svg"> <path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z" /></svg></div> <div style=" font-size: 15px; line-height: 21px; color: #999999; font-weight: 400; padding-bottom: 4px; "> Post by @pvieito</div> <div style=" font-size: 15px; line-height: 21px; color: #000000; font-weight: 600; "> View on Threads</div></div></a></blockquote><br/>
+<script async src="https://www.threads.net/embed.js"></script></div><br/>
+After <em>The Verge</em> contacted OpenAI about the issue, the company released an update that it says encrypts the chats. "We are aware of this issue and have shipped a new version of the application which encrypts these conversations," OpenAI spokesperson Taya Christianson told the website. "We're committed to providing a helpful user experience while maintaining our high security standards as our technology evolves."<br/>
+<br/>
+After downloading the update (v1.2024.171), Pereira Vieito's app no longer works, and Peters said he was no longer able to see his conversations with the chatbot in plain text.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/04/chatgpt-mac-app-stored-chats-plain-text/">ChatGPT Mac App Stored User Chats in Plain Text Prior to Latest Update</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/chatgpt-mac-app-stored-user-chats-in-plain-text-prior-to-latest-update.2430674/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple M5 Chip&#039;s Dual-Use Design Will Power Future Macs and AI Servers</title>
+		<link>https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/</link>
+		<comments>https://forums.macrumors.com/threads/apple-m5-chips-dual-use-design-will-power-future-macs-and-ai-servers.2430670/</comments>
+		<pubDate>Thu, 04 Jul 2024 04:00:40 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>TSMC</category>
+		<category>M5</category>
+		
+
+		<description><![CDATA[Apple will reportedly use a more advanced SoIC packaging technology for its M5 chips, as part of a two-pronged strategy to meet its growing need for silicon that can power consumer Macs and enhance the performance of its data centers and future AI tools that rely on the cloud.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/08/tsmc_semiconductor_chip_inspection_678x452.jpg" alt="" width="678" height="449" class="aligncenter size-full wp-image-756102" /><br/>
+Developed by TSMC and unveiled in 2018, SoIC (System on Integrated Chip) technology allows for the stacking of chips in a three-dimensional structure, providing better electrical performance and thermal management compared to traditional two-dimensional chip designs. <br/>
+<br/>
+According to the <em>Economic Daily</em>, Apple has expanded its cooperation with TSMC on a next-generation hybrid SoIC package that additionally combines thermoplastic carbon fiber composite molding technology. The package is said to be in a small trial production phase, with the intention of mass producing the chips in 2025 and 2026 for new Macs and AI cloud servers.<br/>
+<br/>
+References to what are believed to be Apple's M5 chip have already been <a href="https://www.macrumors.com/2023/08/21/a19-and-m5-chips-discovered/">discovered</a> in official Apple code. Apple has been working on processors for its own AI servers made with TSMC's 3nm process, targeting <a href="https://www.macrumors.com/2024/04/23/apple-developing-its-own-ai-server-processor/">mass production by the second half of 2025</a>. However, according to <a href="https://www.macrumors.com/2024/05/06/apple-building-m2-ultra-and-m4-servers/">Haitong analyst Jeff Pu</a>, Apple's plans in late 2025 are to assemble AI servers powered by its M4 chip.<br/>
+<br/>
+Currently, Apple's AI cloud servers are believed to be running on multiple connected M2 Ultra chips, which were originally designed solely for desktop Macs. Whenever the M5 is adopted, its advanced dual-use design is believed to be a sign of Apple future-proofing its plan to vertically integrate its supply chain for AI functionality across computers, cloud servers, and software.<br/>
+<br/>
+<em>(Via <a href="https://www.digitimes.com/news/a20240703PD213/apple-cloud-ai-chips-cloud-computing-market.html">DigiTimes.com</a>.)</em><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tsmc/">TSMC</a>, <a href="https://www.macrumors.com/guide/m5/">M5</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/">Apple M5 Chip&#039;s Dual-Use Design Will Power Future Macs and AI Servers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-m5-chips-dual-use-design-will-power-future-macs-and-ai-servers.2430670/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple&#039;s M4 iPad Pro vs. Samsung&#039;s Galaxy Tab S9 Ultra</title>
@@ -537,36 +588,6 @@ The game is a free download that allows for a portion of the game to be played f
 		</item>
 		
 		<item>
-		<title>iPhone 16 Could Feature Advanced Camera Sensor From Samsung</title>
-		<link>https://www.macrumors.com/2024/07/02/iphone-16-could-feature-samsung-advanced-sensor/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-could-feature-advanced-camera-sensor-from-samsung.2430541/</comments>
-		<pubDate>Tue, 02 Jul 2024 08:35:35 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/02/iphone-16-could-feature-samsung-advanced-sensor/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 16</category>
-		<category>iPhone 16 Pro</category>
-		<category>Samsung</category>
-		<category>The Elec</category>
-		
-
-		<description><![CDATA[Apple is testing advanced CMOS image sensors (CIS) from Samsung that could debut in the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> later this year, <a href="https://www.thelec.net/news/articleView.html?idxno=4899"><em>The Elec</em></a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/10/iphone_12_pro_sensor_shift.jpg" alt="" width="2000" height="1118" class="alignnone size-full wp-image-764639" /><br/>
-Apple is currently conducting a final quality assessment on CMOS image sensors provided by Samsung System LSI, the logic business unit of Samsung, according to the report. These sensors are slated for use in the main camera of the upcoming &zwnj;iPhone 16&zwnj;. Historically, Apple has exclusively sourced CIS for its iPhones from Sony, but recent developments are said to indicate a strategic pivot away from the Japanese supplier due to concerns about reliability and the need to incorporate new technologies into its camera system.<br/>
-<br/>
-The decision to engage Samsung is said to stem from issues Apple faced with Sony last year. Apple requested that Samsung begin the development of new image sensors in 2023 after Sony failed to deliver them in a sufficiently timely manner, which contributed to difficulties in setting a launch date for the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a>. If Samsung passes the ongoing quality tests, it will be the first time the company supplies an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> CIS. <br/>
-<br/>
-The new image sensor developed by Samsung features a more advanced three-wafer stack design. These three wafers each house distinct elements: the photodiode, transistors, and analog digital converter logics. In contrast, current and previous &zwnj;iPhone&zwnj; image sensors have a two-stack design that combines the photodiode and transistors on a single wafer.<br/>
-<br/>
-In a CIS, the photodiode converts light into electrical signals, while four transistors are responsible for transferring, amplifying, reading, and erasing these signals. The separation of these components into three wafers allows for higher pixel density, reduced noise, and smaller pixel sizes.<br/>
-<br/>
-The new technology employs wafer-to-wafer hybrid bonding, which attaches these wafers directly through a copper pad, eliminating the need for signal-transferring bumps. This enables the CIS to be smaller and increases data transfer speeds. <br/>
-<br/>
-The &zwnj;iPhone 16&zwnj; lineup is widely expected to be announced in the fall with new camera features such as a dedicated "Capture" button, a 48-megapixel Ultra Wide camera, and more.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/samsung/">Samsung</a>, <a href="https://www.macrumors.com/guide/the-elec/">The Elec</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/02/iphone-16-could-feature-samsung-advanced-sensor/">iPhone 16 Could Feature Advanced Camera Sensor From Samsung</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-could-feature-advanced-camera-sensor-from-samsung.2430541/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
 		<title>Apple Watch Ultra 3: Everything We Know So Far</title>
 		<link>https://www.macrumors.com/guide/apple-watch-ultra-3-everything-we-know/</link>
 		<comments>https://forums.macrumors.com/threads/apple-watch-ultra-3-everything-we-know-so-far.2430530/</comments>
@@ -707,25 +728,6 @@ Apple used butterfly keyboards in Macs between 2015 and 2019, and while the desi
 Apple launched <a href="https://www.macrumors.com/2018/06/22/apple-macbook-pro-keyboard-repair-program/">a repair program</a> in June 2018 covering the MacBook, <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, and MacBook Pro models manufactured from 2015 on, but it only covered machines for four years after purchase and because butterfly keyboards were replaced with another butterfly keyboard, no permanent fix was available.<br/>
 <br/>
 Due to the major failure of the butterfly keyboard, Apple swapped back to a scissor switch mechanism. Macs manufactured since late 2019 have had the much more reliable scissor switch keyboard that is able to stand up to wear and tear.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/butterfly-keyboard-issues/">Butterfly Keyboard Issues</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/01/macbook-pro-butterfly-keyboard-payout/">MacBook Owners With Faulty Butterfly Keyboards to Get Payouts Soon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macbook-owners-with-faulty-butterfly-keyboards-to-get-payouts-soon.2430485/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Second Beta of macOS Sonoma 14.6 to Developers</title>
-		<link>https://www.macrumors.com/2024/07/01/apple-seeds-macos-sonoma-14-6-beta-2/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-second-beta-of-macos-sonoma-14-6-to-developers.2430470/</comments>
-		<pubDate>Mon, 01 Jul 2024 10:13:44 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/01/apple-seeds-macos-sonoma-14-6-beta-2/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sonoma</category>
-		
-
-		<description><![CDATA[Apple today seeded the second beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.6 update to developers, with the second software coming two weeks after Apple <a href="https://www.macrumors.com/2024/06/17/apple-seeds-macos-sonoma-14-6-beta-1/">released the first beta</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/macOS-Sonoma-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-957372" /><br/>
-Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
-<br/>
-We don't yet know what might be included in &zwnj;macOS Sonoma&zwnj; 14.6, and no new features were discovered in the first beta.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/01/apple-seeds-macos-sonoma-14-6-beta-2/">Apple Seeds Second Beta of macOS Sonoma 14.6 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-beta-of-macos-sonoma-14-6-to-developers.2430470/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
