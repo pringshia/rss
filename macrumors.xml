@@ -14,12 +14,61 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 04 Jul 2024 09:01:02 PDT</lastBuildDate>
+	<lastBuildDate>Fri, 05 Jul 2024 03:00:43 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Authy Users Urged to Stay Alert After Hack Exposes 33 Million Phone Numbers</title>
+		<link>https://www.macrumors.com/2024/07/05/authy-app-hack-exposes-phone-numbers/</link>
+		<comments>https://forums.macrumors.com/threads/authy-users-urged-to-stay-alert-after-hack-exposes-33-million-phone-numbers.2430721/</comments>
+		<pubDate>Fri, 05 Jul 2024 02:43:08 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/05/authy-app-hack-exposes-phone-numbers/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Two-Factor Authentication</category>
+		
+
+		<description><![CDATA[Twilio has updated its Authy two-factor authentication (2FA) service after a hacker claimed to have retrieved 33 million phone numbers from its user database.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/authy.jpg" alt="" width="1280" height="720" class="aligncenter size-full wp-image-957591" /><br/>
+<em><a href="https://techcrunch.com/2024/07/03/twilio-says-hackers-identified-cell-phone-numbers-of-two-factor-app-authy-users/">TechCrunch</a></em> reports that the hacker(s) known as ShinyHunters took to a well-known hacking forum to boast about the theft of 33 million cell phone numbers, achieved by what Twilio described as the use of an "authenticated endpoint." <br/>
+<br/>
+The U.S. messaging giant confirmed this week that "threat actors" gained access to its servers, resulting in the theft of users' phone numbers, but it did not specify how many were accessed. The company said it had taken action to secure the exploit and prevent similar future unauthenticated requests.<br/>
+<blockquote>"We have seen no evidence that the threat actors obtained access to Twilio's systems or other sensitive data," said the company in a <a href="https://www.twilio.com/en-us/changelog/Security_Alert_Authy_App_Android_iOS">blog post</a>. "While Authy accounts are not compromised, threat actors may try to use the phone number associated with Authy accounts for phishing and smishing attacks; we encourage all Authy users to stay diligent and have heightened awareness around the texts they are receiving."</blockquote>As Twilio notes, obtaining a list of phone numbers may not appear in itself to pose a severe security threat. However, attackers could conceivably contact users and claim to be Authy or Twilio representatives in order to get them to reveal personal information as part of a phishing campaign. <br/>
+<br/>
+Users should update to the latest version of the iOS app, available on the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. Twilio also advises users who cannot access their Authy account to contact its support team immediately.<br/>
+<ul><li><a href="https://www.macrumors.com/how-to/use-safari-2fa-code-generator/">How to Use Safari's Built-in 2FA Code Generator</a></li></ul><br/>
+At the beginning of the year, Authy announced that it was <a href="https://www.macrumors.com/2024/02/15/authy-desktop-apps-end-of-life-march-2024/">shutting down</a> its Mac and Linux desktop apps in August 2024, but ended up bringing the date forward. The apps were subsequently killed off in March.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/two-factor-authentication/">Two-Factor Authentication</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/05/authy-app-hack-exposes-phone-numbers/">Authy Users Urged to Stay Alert After Hack Exposes 33 Million Phone Numbers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/authy-users-urged-to-stay-alert-after-hack-exposes-33-million-phone-numbers.2430721/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Leak Confirms Apple&#039;s Work On &#039;Home Accessory&#039;</title>
+		<link>https://www.macrumors.com/2024/07/04/leak-confirms-apples-work-on-home-accessory/</link>
+		<comments>https://forums.macrumors.com/threads/leak-confirms-apples-work-on-home-accessory.2430688/</comments>
+		<pubDate>Thu, 04 Jul 2024 09:15:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/04/leak-confirms-apples-work-on-home-accessory/</guid>
+		<dc:creator>Aaron Perris</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Code discovered on Apple's backend by <em>MacRumors</em> confirms Apple is indeed working on a <a href="https://www.macrumors.com/2024/01/27/touchscreen-homepod-everything-we-know/">long-rumored</a> home accessory in addition to the <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a> and <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/04/HomePod-G4-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-793597" /><br/>
+The code references a device with the identifier "HomeAccessory17,1," which is a new identifier category. The name is similar to the &zwnj;HomePod&zwnj;'s "AudioAccessory" identifier.<br/>
+<br/>
+Interestingly, the 17,1 in the identifier name suggests that this device may receive Apple's upcoming A18 chip, which will be used in <a href="https://www.macrumors.com/2024/07/02/iphone-16-models-a18-chip/">all four iPhone 16 models</a> later this year. With the A18 chip, the HomeAccessory device would have the power for Apple Intelligence. <br/>
+<br/>
+The code also indicates that this "home accessory" will be running a software variant of tvOS, much like the &zwnj;HomePod&zwnj;. Earlier this year, <em>MacRumors</em> <a href="https://www.macrumors.com/2024/01/29/tvos-17-4-homeos-mention/">found evidence</a> of Apple's work on homeOS, which could be the firmware running on this device.<br/>
+<br/>
+On a similar note, the code also references two unreleased &zwnj;Apple TV&zwnj; models with the identifiers AppleTV14,4 and AppleTV14,5. Rumors suggest</a> that an updated &zwnj;Apple TV&zwnj; could launch in 2024.<br/>
+<br/>
+Apple is expected to announce new iPhones, iPads, and potentially other products in September.<br/>
+<br/>
+<em>(Thanks <a href="https://x.com/nicolas09F9">Nicolás Alvarez</a>!)</em><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/04/leak-confirms-apples-work-on-home-accessory/">Leak Confirms Apple&#039;s Work On &#039;Home Accessory&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/leak-confirms-apples-work-on-home-accessory.2430688/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>ChatGPT Mac App Stored User Chats in Plain Text Prior to Latest Update</title>
@@ -673,61 +722,6 @@ On that note, let's review which Mac models that macOS Sequoia supports. As ment
     <li>Mac Studio (2022 and later)</li><br/>
 </ul><br/>
 You can check your Mac's model by clicking the Apple in the menu bar and choosing About This Mac. macOS Sequoia is currently in developer beta, with a public beta expected later this month, before Apple's latest Mac software gets a general release in the fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/02/macos-sequoia-features-intel-macs-wont-support/">Here Are the macOS Sequoia Features Intel Macs Won&#039;t Support</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/here-are-the-macos-sequoia-features-intel-macs-wont-support.2430519/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Boosts A18 Chip Orders in Anticipation of High iPhone 16 Demand</title>
-		<link>https://www.macrumors.com/2024/07/02/apple-increases-a18-chip-orders-iphone-16/</link>
-		<comments>https://forums.macrumors.com/threads/apple-boosts-a18-chip-orders-in-anticipation-of-high-iphone-16-demand.2430516/</comments>
-		<pubDate>Tue, 02 Jul 2024 03:03:52 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/02/apple-increases-a18-chip-orders-iphone-16/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPhone 16</category>
-		<category>iPhone 16 Pro</category>
-		<category>TSMC</category>
-		
-
-		<description><![CDATA[Apple is said to have upped its order of next-generation chips from TSMC to between 90 million and 100 million units, following heightened demand expectations for its iPhone 16 series. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iPhone-16-Pro-Front-Update-Blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-953750" /><br/>
-Last year's initial chip order volume for the iPhone 15 series launch is believed to have been in the region of 80-90 million units, suggesting Apple is anticipating higher demand for its 2024 devices in the region of 10 million units, according to Taiwanese outlet <em><a href="https://www.ctee.com.tw/news/20240701700050-430501">CTEE</a></em>. <br/>
-<br/>
-The arrival of Apple Intelligence in iOS 18 is expected to boost initial sales of the devices. One of the reasons is that Apple Intelligence requires at least an iPhone 15 Pro to run, which means owners of last year's iPhone 15 and iPhone 15 Plus will miss out on Apple's new AI features unless they upgrade to an iPhone 15 Pro or plump for one of the iPhone 16 models.<br/>
-<br/>
-Last year, the iPhone 15 and iPhone 15 Plus were equipped with the A16 Bionic chip – the same chip that was in the iPhone 14 Pro models – whereas the iPhone 15 Pro and iPhone 15 Pro Max featured an A17 Pro chip manufactured using TSMC's second-generation 3nm process, also known as "N3E." N3E is less expensive and has improved yield compared to the previous-generation N3B, according to TSMC.<br/>
-<br/>
-This year, all four models in the iPhone 16 lineup are <a href="https://www.macrumors.com/2023/10/19/iphone-16-jump-from-a16-to-a18-chip-rumor/">expected to use A18-branded chips</a> manufactured using the N3E process. Despite switching to N3E, the A18 chip in the iPhone 16 and iPhone 16 Plus is likely to adopt the A17 Pro design that was used in the iPhone 15 Pro models. Meanwhile, the iPhone 16 Pro and ‌iPhone 16 Pro‌ Max will likely use a chip branded as an "A18 Pro," which could feature an upgraded Neural Engine with more cores enabling improved AI/machine learning performance. <br/>
-<br/>
-The standard iPhone 16 models could also be upgraded with 8GB of RAM, up from 6GB in the iPhone 15 models. That would see all four iPhone 16 models offering 8GB of RAM, which Apple has suggested is a minimum requirement for running large-language models (the algorithms that power AI) locally on device, rather than in the cloud.<br/>
-<br/>
-Based on previous years, Apple is expected to release the iPhone 16 series in the fall, around mid-September. For more information, be sure to check our dedicated <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> and <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a> roundups.<br/>
-<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/tsmc/">TSMC</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/02/apple-increases-a18-chip-orders-iphone-16/">Apple Boosts A18 Chip Orders in Anticipation of High iPhone 16 Demand</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-boosts-a18-chip-orders-in-anticipation-of-high-iphone-16-demand.2430516/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>MacBook Owners With Faulty Butterfly Keyboards to Get Payouts Soon</title>
-		<link>https://www.macrumors.com/2024/07/01/macbook-pro-butterfly-keyboard-payout/</link>
-		<comments>https://forums.macrumors.com/threads/macbook-owners-with-faulty-butterfly-keyboards-to-get-payouts-soon.2430485/</comments>
-		<pubDate>Mon, 01 Jul 2024 13:09:52 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/01/macbook-pro-butterfly-keyboard-payout/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Butterfly Keyboard Issues</category>
-		
-
-		<description><![CDATA[Two years after Apple <a href="https://www.macrumors.com/2022/07/19/apple-butterfly-keyboard-lawsuit-settlement/">paid &#36;50 million to settle a class-action lawsuit</a> over faulty MacBook butterfly keyboards, funds from the settlement will be going out to affected customers.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-790219" src="https://images.macrumors.com/article-new/2021/03/macbook-pro-butterfly-keyboard.jpg" alt="" width="1955" height="1100" /><br/>
-An update on the <a href="https://www.keyboardsettlement.com">MacBook Keyboard Litigation Settlement website</a> says that the court issued a payment order on June 27, 2024, with payments set to be issued for approved claims by August 2024.<br/>
-<br/>
-Emails about the lawsuit were sent out in December 2022 to MacBook owners eligible for a payment. MacBook owners who had at least two topcase replacements from Apple within four years of purchase are set to receive a maximum of &#36;395, while customers who had one topcase repair will receive up to &#36;125. Those who had keycap replacements are eligible for up to &#36;50.<br/>
-<br/>
-Claims were accepted through March 6, 2023, and the settlement was ultimately approved on May 25, 2023. There is no word on why there has been more than a year's delay getting payments sent out to customers.<br/>
-<br/>
-Apple used butterfly keyboards in Macs between 2015 and 2019, and while the design was updated several times during that four-year period, the butterfly mechanism was prone to failure. Thousands of customers had issues with repeating keys, sticking keys, and keyboard failures due to crumbs, dust, and other issues.<br/>
-<br/>
-Apple launched <a href="https://www.macrumors.com/2018/06/22/apple-macbook-pro-keyboard-repair-program/">a repair program</a> in June 2018 covering the MacBook, <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, and MacBook Pro models manufactured from 2015 on, but it only covered machines for four years after purchase and because butterfly keyboards were replaced with another butterfly keyboard, no permanent fix was available.<br/>
-<br/>
-Due to the major failure of the butterfly keyboard, Apple swapped back to a scissor switch mechanism. Macs manufactured since late 2019 have had the much more reliable scissor switch keyboard that is able to stand up to wear and tear.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/butterfly-keyboard-issues/">Butterfly Keyboard Issues</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/01/macbook-pro-butterfly-keyboard-payout/">MacBook Owners With Faulty Butterfly Keyboards to Get Payouts Soon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macbook-owners-with-faulty-butterfly-keyboards-to-get-payouts-soon.2430485/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
