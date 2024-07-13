@@ -16,6 +16,7 @@ jobs:
       - name: Fetch RSS Feed
         run: |
           wget -U "Mozilla/5.0" -O nitter-mappletons.xml https://nitter.privacydev.net/Mappletons/rss
+          wget -U "Mozilla/5.0" -O nitter-geoffreylitt.xml https://nitter.privacydev.net/geoffreylitt/rss
 
       - name: Replace URLs (optional)
         run: |
