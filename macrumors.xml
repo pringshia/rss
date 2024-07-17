@@ -14,12 +14,473 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Tue, 16 Jul 2024 09:00:20 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 17 Jul 2024 03:01:18 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>M5 MacBook Models to Use New Compact Camera Module in 2025</title>
+		<link>https://www.macrumors.com/2024/07/17/apple-camera-module-supplier-macbook-models-2025/</link>
+		<comments>https://forums.macrumors.com/threads/m5-macbook-models-to-use-new-compact-camera-module-in-2025.2431570/</comments>
+		<pubDate>Wed, 17 Jul 2024 02:58:53 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/17/apple-camera-module-supplier-macbook-models-2025/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		<category>Ming-Chi Kuo</category>
+		
+
+		<description><![CDATA[Apple in 2025 will take on a new compact camera module (CCM) supplier for future MacBook models powered by its next-generation M5 chip, according to Apple analyst Ming-Chi Kuo.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/New-MacBook-Pros-Launching-Tomorrow-With-These-4-New-Features-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-921192" /><br/>
+Writing in his latest investor note on <a href="https://medium.com/@mingchikuo/舜宇光學2025年營運動能可望顯著受益於成為apple新相機模組供應商與iphone訂單回流-sunny-opticals-2025-business-momentum-to-benefit-509819818c2a">Medium</a>, Kuo said Apple will turn to Sunny Optical for the CCM in its M5 MacBooks. The Chinese optical lens company will mass produce the CCMs in Vietnam, and provide a complete imaging system integrated into a compact form factor for the new laptops. <br/>
+<br/>
+The primary suppliers of camera modules for MacBooks are currently LG InnoTek and Sharp. In Apple's optical component supply chain, only Sunny Optical can simultaneously supply CCM and lenses in a single package, which gives the company the advantage of vertical integration. If shipments for the MacBooks go smoothly, Kuo predicts that Sunny Optical could also become the new CCM supplier for future iPhone and iPad models. <br/>
+<br/>
+Apple plans to update the 14-inch MacBook Pro with an M4 chip as soon as late 2024, and we could perhaps see a refresh before the end of the year. The high-end 14-inch and 16-inch MacBook Pro models are also expected to see a late 2024 refresh with M4 Pro and M4 Max chips.<br/>
+<br/>
+Apple is working on a <a href="https://www.macrumors.com/2024/06/17/apple-plans-thinner-iphone-slimmer-macbook/">thinner version of the MacBook Pro</a>, according to <em>Bloomberg</em>'s Mark Gurman. The ultrathin 2024 iPad Pro serves as a model for Apple's upcoming design philosophy, with the company planning to offer "the thinnest and lightest products" in each category across the tech industry. <br/>
+<br/>
+It's not clear when a thinner MacBook Pro might come out, since no design changes are rumored for the 2024 refresh, but it's possible that 2025 could be the year that Apple debuts redesigned laptops based on its M5 chip. Apple is also <a href="https://www.macrumors.com/2021/07/25/face-id-for-mac-couple-of-years/">rumored</a> to be working on Face ID for the Mac, and it's likely that the MacBook Pro will be one of the first Macs to get Face ID, but there are no concrete details about when that might happen.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro 14 & 16" </a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/17/apple-camera-module-supplier-macbook-models-2025/">M5 MacBook Models to Use New Compact Camera Module in 2025</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m5-macbook-models-to-use-new-compact-camera-module-in-2025.2431570/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>How to Install the macOS Sequoia Public Beta</title>
+		<link>https://www.macrumors.com/how-to/install-macos-sequoia-public-beta/</link>
+		<comments>https://forums.macrumors.com/threads/how-to-install-the-macos-sequoia-public-beta.2431566/</comments>
+		<pubDate>Wed, 17 Jul 2024 01:16:35 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/install-macos-sequoia-public-beta&#038;post_date=1721214995/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>macOS Sequoia</category>
+		
+
+		<description><![CDATA[Apple has made a macOS 15 Sequoia beta available for its public beta testing group, letting public beta testers try out the software before it launches this fall. Keep reading to learn whether you should install it on your Mac, and if so, how to go about it.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Apple-WWDC24-macOS-Sequoia-hero-240610.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-954631" /><br/>
+Signing up to get the macOS Sequoia beta is simple, and can be done by enrolling a Mac in Apple's free Apple Beta Software Program. The steps you need to complete to install the software on your device are provided towards the end of this article, but before you jump ahead, here are a few things worth considering.<br/>
+<br/>
+<h2>Should I Install macOS Sequoia Public Beta?</h2><br/>
+Before downloading the update, it's worth noting that Apple does not recommend installing the macOS Sequoia Beta on your main Mac, so if you have a secondary Mac that has no important data on it, use that. This is beta software, which means there are often bugs and issues that pop up that can prevent software from working properly or cause other problems. <br/>
+<br/>
+With that caveat in mind, the steps in the remainder of this article show you how to get the macOS 15 beta on your Mac. First though, check that you have a compatible Mac.<br/>
+<br/>
+<h2>Will macOS Sequoia run on My Mac?</h2><br/>
+macOS 15 Sequoia works with the same Macs as macOS 14 Sonoma other than the 2018 and 2019 MacBook Air. They include:<br/>
+<ul><br/>
+    <li>MacBook Air (2020 and later)</li><br/>
+    <li>MacBook Pro (2018 and later)</li><br/>
+    <li>iMac (2019 and later)</li><br/>
+    <li>Mac Mini (2018 and later)</li><br/>
+    <li>iMac Pro (2017 and later)</li><br/>
+    <li>Mac Pro (2019 and later)</li><br/>
+    <li>Mac Studio (2022 and later)</li><br/>
+</ul><br/>
+You can check your Mac's model by clicking the Apple in the menu bar and choosing About This Mac. <br/>
+<br/>
+<h2>Don't Forget to Back Up Your Mac</h2><br/>
+Be sure to back up your Mac using Time Machine before installing the software using the method, otherwise you won't be able to revert back to the previous version of macOS if things go wrong.<br/>
+<br/>
+<h2>How to Download macOS Sequoia Public Beta</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/apple-beta-software-program.jpg" alt="" width="2774" height="1494" class="aligncenter size-full wp-image-958873" /><ol><br/>
+ 	<li>On your Mac, open up Safari and navigate to the <a href="https://beta.apple.com/sp/betaprogram/">Apple Beta Software Program website</a>.</li><br/>
+ 	<li>Tap the <strong>Sign up</strong> button and enter your Apple ID credentials, or sign in with your Apple ID if you've signed up to beta test a previous update.</li><br/>
+ 	<li>Agree to the Apple Beta Software Program terms and conditions if required.</li><br/>
+ 	<li>After signing in, you'll see a main screen that's a Guide for Public Betas. Click on <strong>macOS</strong>.</li><br/>
+ 	<li>Read through Apple's instructions carefully, and then using the link in the "Get Started" section, select <strong>enroll your iOS device</strong>.</li><br/>
+ 	<li>Make sure to make an backup of your current version of macOS using Time Machine by following Apple's instructions. This will allow you to downgrade back to your earlier version of macOS if necessary and is crucial if you don't enjoy the macOS Sequoia testing experience.</li><br/>
+<li>If your Mac is running macOS Ventura 13.4 or later, go to <strong>System Settings -> General -> Software Update</strong> and click the <strong>Info</strong> button next to "Beta updates." Then choose the macOS beta you'd like to install. If your Mac is running macOS Ventura 13.3 or earlier, download Apple's <a href="https://beta.apple.com/download/1016471">macOS Beta Access Utility</a> and run the installer. Then follow the onscreen instructions to complete installation. Note that your Mac must be signed in with the same Apple ID you used to enroll in the Apple Beta Software Program.</li></ol>Installation of the macOS beta is manually chosen in <strong>System Settings -> General -> Software Update</strong>. If a newly released beta is not available when you check, you will receive a notification when it is available to download.<br/>
+<br/>
+<h2>macOS Sequoia Features</h2><br/>
+macOS Sequoia's standout feature is iPhone Mirroring, enabling you to control your iPhone from your Mac using your keyboard and mouse. This includes viewing notifications and using iPhone apps even when the device is tucked away and locked. Later this year, you'll also be able to drag and drop apps between your Mac and iPhone.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/macos-sequoia-iphone-mirroring.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-956750" /><br/>
+Window tiling has been enhanced for easier management of multiple windows. Safari now offers webpage summaries and highlights, while the Messages app supports message scheduling and Tapback reactions with any emoji. A new Passwords app simplifies managing passwords, logins, and passkeys. The Photos app has a redesigned interface, and the Notes app now includes audio transcription and summarization, along with automatic equation solving.<br/>
+<br/>
+macOS Sequoia incorporates all new Apple Intelligence features coming to iOS 18, providing various quality of life improvements. These include writing tools for proofreading and polishing your text across apps, the Image Playground for creating unique images, and Genmoji for designing custom emojis. The Photos app features a Clean Up tool for removing unwanted images, and Siri has improved AI for better language understanding and contextual relevance, even consulting ChatGPT for complex queries.<br/>
+<br/>
+Additional features are also coming to macOS Sequoia. More details are available in our <a href="https://www.macrumors.com/roundup/macos-sequoia/">dedicated roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/install-macos-sequoia-public-beta/">How to Install the macOS Sequoia Public Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/how-to-install-the-macos-sequoia-public-beta.2431566/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18 Passwords App: All the Features</title>
+		<link>https://www.macrumors.com/guide/ios-18-passwords/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-passwords-app-all-the-features.2431538/</comments>
+		<pubDate>Tue, 16 Jul 2024 16:23:20 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-18-passwords&#038;post_date=1721183000/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[With <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, Apple created a standalone Passwords app that streamlines login and password management. You've been able to store password information on your Apple devices through <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Keychain for years, but accessing passwords was a little difficult because the data was tucked away in the Settings app. That's no longer the case, and in &zwnj;iOS 18&zwnj;, it's much simpler to create and manage passwords for websites and more.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/Generic-iOS-18-Passwords-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959050" /><br/>
+This guide goes over everything you need to know about the &zwnj;iOS 18&zwnj; Passwords app.<br/>
+<br/>
+<h2 id="layout">Layout</h2><br/>
+The Passwords app is installed automatically when upgrading to &zwnj;iOS 18&zwnj;, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, or <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>. The app has a simple layout with a search bar right at the top, so you can look up the information that you're looking for.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-passwords-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-959069" /><br/>
+If you've already used the &zwnj;iCloud&zwnj; Keychain feature, all of your saved logins and passwords will be ready to go as soon as you authenticate with <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>. There are separate sections for passwords and logins (under All), Passkeys, two-factor authentication codes, Wi-Fi passwords, security warnings, and logins that have been deleted.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/ios-18-passwords-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957056" /><br/>
+You can tap in to any of the sections to see what's listed there, and tapping on an individual entry shows the login and password. Each entry has fields for site or app name, username, login, verification code, websites where the login is used, and notes. There's also a one-tap option for changing your password for any given entry.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-passwords-app-wifi.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-959075" /><br/>
+The layout of the Passwords app is similar to what you see in the Passwords section of the Settings app in &zwnj;iOS 18&zwnj;.<br/>
+<br/>
+<h2 id="adding_logins_and_passwords">Adding Logins and Passwords</h2><br/>
+To add a login or password to the Passwords app, it's as simple as tapping on the "+" button at the bottom of the main interface.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-add-password.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-959071" /><br/>
+The Passwords app populates a new entry with a password automatically, and you just need to add the website name and username, then copy the password and put it in the app, website, or service you're signing up for. Tapping on Save will save the information.<br/>
+<br/>
+If you want to add information to an existing entry, you can tap into the relevant section, such as All, search for the login you want to update, tap it, and then select the "Edit" option to get to the editing interface for adding notes, changing a password, or adding a verification code.<br/>
+<br/>
+Passwords and logins are added automatically to the Passwords app when you have &zwnj;iCloud&zwnj; Keychain enabled and you create a new login in Safari or in an app.<br/>
+<br/>
+<h2 id="changing_passwords">Changing Passwords</h2><br/>
+To change a Password, you just need to open up the Passwords app, search for the login you want to update, tap on Edit, and then tap on the "Change Password..." option. You can also browse through Passwords using the "All" section.<br/>
+<br/>
+Tapping on Change Password opens up the website associated with the login and password, but you will need to initiate the password change process on the site by logging into your account and finding the appropriate option for updating a password.<br/>
+<br/>
+<h2 id="deleting_passwords">Deleting Passwords</h2><br/>
+To delete a password, go to the "All" section and browse until you find it, or search for a specific login. From the "All" overview, you can swipe from right to left to bring up a delete option. Just tap on delete to remove the password.<br/>
+<br/>
+You can also tap into any of your logins, choose Edit, and select Delete Password from there. To delete multiple logins, tap on the Select tool at the top right of the display (it looks like a list with a checkmark) and then tap any of the logins you want to delete. When you're done, tap on Delete again to delete them all.<br/>
+<br/>
+Passwords that you have deleted are stored in a Deleted folder in the Passwords app for 30 days before they're permanently deleted. You can tap into that folder and swipe to delete logins and passwords right away. Alternatively, you can use the select button at the top to delete multiple logins at one time.<br/>
+<br/>
+<h2 id="authentication_codes">Authentication Codes</h2><br/>
+The Passwords app can provide two-factor authentication codes for sites that make additional security options available. To add a two-factor authentication code, tap on the "Codes" section of the main Passwords interface.<br/>
+<br/>
+From there, tap on the "+" button. You can either scan a QR code with a camera, which is a common way two-factor authentication apps work, or enter a setup key. Once the code is stored in the Passwords app, you can open up the Codes section at any time to get a temporary code to log in to a site or app.<br/>
+<br/>
+Two-factor authentication codes also show up when you search for a password and login or browse through logins in the "All" section.<br/>
+<br/>
+<h2 id="passkeys">Passkeys</h2><br/>
+Websites have started transitioning from passwords to passkeys, and the Passwords app stores your passkeys as well as your logins and passwords.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-passwords-passkey.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-959070" /><br/>
+Passkeys are more secure than passwords, and they let you log into your accounts using &zwnj;Face ID&zwnj; or &zwnj;Touch ID&zwnj; authentication on an Apple device. Passkeys basically use a cryptographic key pair, with one public key stored on a server and a private key stored on your device.<br/>
+<br/>
+Private keys are not shared, they remain on-device only, and can't be sent to other people, protecting your accounts from phishing attempts.<br/>
+<br/>
+You can see your stored passkeys in the Passkeys section of the Passwords app.<br/>
+<br/>
+<h2 id="password_sharing">Password Sharing</h2><br/>
+The Passwords app lets you set up and share select passwords with trusted contacts. You can create one or more groups of people that include family and friends, providing them with access to shared logins and passwords.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-passwords-shared-groups.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-959072" /><br/>
+Creating a group can be done by tapping on the folder on the left hand side of the main Passwords interface. Type in a name, and then select people to add. Note that anyone you add needs to be in your contacts list.<br/>
+<br/>
+From there, you can select logins and passwords that you want to share. Logins and passwords can be removed at any time, and all members of a group can contribute logins. The group creator can remove people from the group at any time.<br/>
+<br/>
+To share a password with someone in person, you can search for the login that you want to share and then use the Share Sheet to open up an AirDrop interface that will let you AirDrop the login and password information. The Share Sheet is only designed for this kind of in-person sharing.<br/>
+<br/>
+<h2 id="autofill">AutoFill</h2><br/>
+If you have AutoFill enabled on your devices, your logins and passwords will be entered automatically when you visit a website in Safari that you have stored login information for. AutoFill will pop up an option for the appropriate login and password on any account login field in Safari or in an app.<br/>
+<br/>
+AutoFill works the same as it did when passwords were limited to the Settings app.<br/>
+<br/>
+<h2 id="sorting">Sorting</h2><br/>
+In the "All" section of the Passwords app, you can tap on the icon that features two arrows to get to sorting options.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-password-app-sorting.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-959073" /><br/>
+Sorting options include Date Edited, Date Created, Website, or Title, and each of these can be displayed in a Descending or Ascending list by tapping on the desired option.<br/>
+<br/>
+<h2 id="syncing">Syncing</h2><br/>
+Passwords are synced automatically between all of your Apple devices using &zwnj;iCloud&zwnj; Keychain. You just need to have the option turned on and you need to be logged in to your <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> on any device where you want to access your passwords.<br/>
+<br/>
+You can even get to your logins and passwords on a Windows PC because Apple is adding the Passwords app to iTunes for Windows.<br/>
+<br/>
+<h2 id="security">Security</h2><br/>
+There is a dedicated Security section in the Passwords app, and it lets you know if you have a password that is reused, too weak, or has been compromised in a data leak.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-passwords-app-security.jpg" alt="" width="2000" height="1289" class="aligncenter size-full wp-image-959074" /><br/>
+Warnings are accompanied by information letting you know that a password change is in order, and you can tap on the Change Password option to go to the website where you need to update your information.<br/>
+<br/>
+For any individual login, you'll also see information letting you know if your password is weak or strong.<br/>
+<br/>
+<h2 id="importing_passwords">Importing Passwords</h2><br/>
+Apple plans to provide a tool for importing passwords from other services like 1Password and LastPass, but as of now, this functionality has not yet been implemented.<br/>
+<br/>
+<h2 id="read_more">Read More</h2><br/>
+For more on the new features that Apple is adding in &zwnj;iOS 18&zwnj;, <a href="https://www.macrumors.com/roundup/ios-18/">we have a dedicated iOS 18 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-18-passwords/">iOS 18 Passwords App: All the Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-passwords-app-all-the-features.2431538/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Store App Gets Overhaul With Revamped For You Section</title>
+		<link>https://www.macrumors.com/2024/07/16/apple-store-app-overhaul/</link>
+		<comments>https://forums.macrumors.com/threads/apple-store-app-gets-overhaul-with-revamped-for-you-section.2431529/</comments>
+		<pubDate>Tue, 16 Jul 2024 13:57:28 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/apple-store-app-overhaul/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Store</category>
+		
+
+		<description><![CDATA[Apple today updated the <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a> app to introduce a more personalized For You experience, which offers up more relevant product and service suggestions along with more information on what you can do with your existing devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/02/Apple-Store-App-Feature-Blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-886114" /><br/>
+The entire navigation bar has been refreshed, replacing Shop with Products and Sessions with Go Further. The For You tab provides relevant offers and suggestions such as free <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> and <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a> trials, while the Products tab lets you see new products and also shop for accessories for your devices.<br/>
+<br/>
+The "Go Further" tab shows nearby Today at Apple sessions, provides help with device setup, and offers support for your devices. For these new changes, Apple has a new opt-in data collection feature. Apple says that it collects data about your shopping activity, subscriptions, and more to make suggestions, but there is an option to not provide this information to Apple.<blockquote>To create a personalised shopping experience, we'll collect and use data about your device, Apple account, Apple Store shopping activity and Apple subscriptions.<br/>
+<br/>
+Privacy is important, and we want to be clear about what we're collecting and how we will use it. You can modify these at any time in Account Settings.</blockquote><br/>
+The updated version of the &zwnj;Apple Store&zwnj; app also includes a new Today at Apple video series with short videos that you can watch to get tips on device features.<br/>
+<br/>
+Apple's full release notes for the refreshed &zwnj;Apple Store&zwnj; app are below.<br/>
+<blockquote><br/>
+<ul><br/>
+ 	<li>A fresh, more curated experience that makes it easier to quickly find the most relevant content on the For You tab, shop the latest on the Products tab, and make the most of the devices you already own on the Go Further tab.</li><br/>
+ 	<li>Check out the new video series from Today at Apple with featured guests that will inspire you to do more with your devices.</li><br/>
+ 	<li>New options to customize your privacy settings and preferences give you enhanced control over how Apple will use the data you share with us.</li><br/>
+</ul><br/>
+</blockquote>The &zwnj;Apple Store&zwnj; app can be downloaded for free from the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. [<a href="https://apps.apple.com/us/app/apple-store/id375380948">Direct Link</a>]<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/apple-store-app-overhaul/">Apple Store App Gets Overhaul With Revamped For You Section</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-store-app-gets-overhaul-with-revamped-for-you-section.2431529/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Amazon Prime Day: Massive Discounts Arrive for M3 MacBook Air, Starting at Just &#36;849</title>
+		<link>https://www.macrumors.com/2024/07/16/prime-day-m3-macbook-air-2/</link>
+		<comments>https://forums.macrumors.com/threads/amazon-prime-day-massive-discounts-arrive-for-m3-macbook-air-starting-at-just-849.2431526/</comments>
+		<pubDate>Tue, 16 Jul 2024 13:39:09 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/prime-day-m3-macbook-air-2/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		
+
+		<description><![CDATA[Amazon today has &#36;250 off every model of <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Apple's 2024 M3 MacBook Air</a> for Prime Day, including both the 13-inch and 15-inch models. All of these discounts require you to clip an on-page coupon in order to see the final deal price, and it's worth mentioning that Best Buy is matching these prices for My Best Buy Plus/Total members.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/m3-macbook-air-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958729" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+Prices start at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;849.00</strong></a> for the 8GB RAM/256GB SSD 13-inch MacBook Air, which is down from &#36;1,099.00. For the bigger model, prices start at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23GFMJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,049.00</strong></a> for the 8GB RAM/256GB SSD 15-inch MacBook Air, down from &#36;1,299.00.<br/>
+<br/>
+<div class="center-wrap"><em><strong>Note: You won't see the deal price until checkout.</strong></em></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>13-inch MacBook Air (256GB) for &#36;849.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23GFMJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-inch MacBook Air (256GB) for &#36;1,049.00</div></a></div><br/>
+<br/>
+With the addition of the &#36;50 on-page coupon, these are now the lowest price we've ever seen on the brand new M3 MacBook Air, and they're among the overall best Apple-related deals you can find during Prime Day.<br/>
+<br/>
+<h3>13-inch M3 MacBook Air</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">8GB RAM 256GB SSD</a> - &#36;849.00, down from &#36;1,099.00 (<a href="https://howl.me/cmGoTmtUwzS">matched at Best Buy</a>)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX22NCHQ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">8GB RAM 512GB SSD</a> - &#36;1,049.00, down from &#36;1,299.00 (<a href="https://howl.me/cmFQBNsFbNk">matched at Best Buy</a>)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX246FNZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">16GB RAM 512GB SSD</a> - &#36;1,249.00, down from &#36;1,499.00 (<a href="https://howl.me/cmFQCCPC5E3">matched at Best Buy</a>)</li></ul><br/>
+<h3>15-inch M3 MacBook Air</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23GFMJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">8GB RAM 256GB SSD</a> - &#36;1,049.00, down from &#36;1,299.00 (<a href="https://howl.me/cmFQDrLzdh5">matched at Best Buy</a>)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23P9S7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">8GB RAM 512GB SSD</a> - &#36;1,249.00, down from &#36;1,499.00 (<a href="https://howl.me/cmFQDI1Z9Ul">matched at Best Buy</a>)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24BN3L%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">16GB RAM 512GB SSD</a> - &#36;1,449.00, down from &#36;1,699.00 (<a href="https://howl.me/cmFQD4AX4A0">matched at Best Buy</a>)</li></ul><br/>
+<br/>
+If you're looking to spend a little less, and are fine with investing in a previous generation model, Amazon also has great deals on the 2022 13-inch M2 MacBook Air. You can get the 256GB model for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;799.00</strong></a> (<a href="https://howl.me/cmFQA1aRSRo">matched at Best Buy</a>) and the 512GB model for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3C5H787%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;999.00</strong></a> (<a href="https://howl.me/cmFQBiXyWV2">also matched at Best Buy</a>), and they're both &#36;200 off and all-time low prices.<br/>
+<br/>
+If you're on the hunt for more Prime Day discounts, be sure to visit our <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">big Prime Day post</a> where we recap the best Apple-related bargains of the event. Remember that you'll need an Amazon Prime membership to get Prime Day deals. <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime">You can sign up for Prime</a> on Amazon if you don't have the service yet.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/prime-day-m3-macbook-air-2/">Amazon Prime Day: Massive Discounts Arrive for M3 MacBook Air, Starting at Just &#36;849</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-prime-day-massive-discounts-arrive-for-m3-macbook-air-starting-at-just-849.2431526/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Sonos Takes Up to 20% Off Select Audio Products in Prime Day-Like Sale</title>
+		<link>https://www.macrumors.com/2024/07/16/sonos-prime-day-like-sale/</link>
+		<comments>https://forums.macrumors.com/threads/sonos-takes-up-to-20-off-select-audio-products-in-prime-day-like-sale.2431515/</comments>
+		<pubDate>Tue, 16 Jul 2024 11:02:34 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/sonos-prime-day-like-sale/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		
+
+		<description><![CDATA[Sonos today has opened up its own <a href="https://www.sonos.com/en-us/shop/promotional-offers">Prime Day inspired sale</a>, offering steep discounts on select home theater audio equipment. This includes low prices on the Sonos Roam 2 portable speaker, as well as various discounted bundles, all of which are rare deals we haven't tracked since earlier in the summer.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/sonos-prime-day.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959042" /><em><small>Note: MacRumors is an affiliate partner with Sonos. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+This sale has a good balance between individual Sonos products and bundles that should help elevate your home theater setup with various soundbars, subwoofers, and speakers. Highlights of the event include the <a href="https://www.sonos.com/en-us/shop/roam-2">Sonos Roam 2 for &#36;143</a> and <a href="https://www.sonos.com/en-us/shop/era-100">Sonos Era 100 Smart Speaker for &#36;199</a>, both of which are all-time low prices.<br/>
+<br/>
+<div class="center-wrap"><a href="https://www.sonos.com/en-us/shop/promotional-offers"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 20% OFF</div>Sonos Home Theater Sale</div></a></div><br/>
+<br/>
+We've accumulated a few of the devices in the sale below, but be sure to <a href="https://www.sonos.com/en-us/shop/promotional-offers">browse this landing page</a> on the Sonos website for everything being discounted.<br/>
+<br/>
+<h2>Speakers</h2><br/>
+<ul><li><a href="https://www.sonos.com/en-us/shop/roam-2">Roam 2 Portable Speaker</a> - &#36;143, down from &#36;199</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/roam-2-charging-set">Roam 2 Charging Set</a> - &#36;192, down from &#36;228</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/era-100">Era 100 Smart Speaker</a> - &#36;199, down from &#36;249</li></ul><br/>
+<h2>Bundles</h2><br/>
+<ul><li><a href="https://www.sonos.com/en-us/shop/two-room-set-era-100">2 Room Set with Era 100</a> - &#36;398, down from &#36;498</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/multiroom-entertainment-set-arc-and-move-2">Arc + Move 2 Speaker Bundle</a> - &#36;1,208, down from &#36;1,348</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/personal-entertainment-set-sonos-ace-arc">Arc + Sonos Ace Headphones Bundle</a> - &#36;1,280, down from &#36;1,348</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/3-1-entertainment-set-beam-sub">Beam + Sub Bundle</a> - &#36;1,168, down from &#36;1,298</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/surround-set-arc-era-100-pair">Arc + 2x Era 100 Speakers Bundle</a> - &#36;1,257, down from &#36;1,397</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/entertainment-set-arc-sub">Arc + Sub Bundle</a> - &#36;1,528, down from &#36;1,698</li><br/>
+<li><a href="https://www.sonos.com/en-us/shop/premium-immersive-set-beam-sub-era-100-pair">Beam + Sub + 2x Era 100 Speakers Bundle</a> - &#36;1,566, down from &#36;1,796</li></ul> Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/sonos-prime-day-like-sale/">Sonos Takes Up to 20% Off Select Audio Products in Prime Day-Like Sale</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-takes-up-to-20-off-select-audio-products-in-prime-day-like-sale.2431515/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>The 9 Best Apple Deals Under &#36;100 for Prime Day</title>
+		<link>https://www.macrumors.com/2024/07/16/9-best-apple-deals-under-100/</link>
+		<comments>https://forums.macrumors.com/threads/the-9-best-apple-deals-under-100-for-prime-day.2431503/</comments>
+		<pubDate>Tue, 16 Jul 2024 10:31:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/9-best-apple-deals-under-100/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		<category>Prime Day</category>
+		
+
+		<description><![CDATA[As Prime Day continues today, we're highlighting all of the best Apple deals you can get for under &#36;100 on Amazon. This includes AirPods, Apple Pencil 2, AirTags, iPhone cases, USB-C chargers, and more.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/07/primeday2022.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-853875" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+You can find <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/"><strong>every Apple deal available during Prime Day</strong></a> in our dedicated post. Remember that you'll need an <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3Ftag%3Dmacrumors-20%26geniuslink%3Dtrue">Amazon Prime membership</a> to get Prime Day deals, and you can sign up for Prime on Amazon if you don't have the service yet.<br/>
+<br/>
+<h2>&#36;30 Or Under</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/usb-c-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-959021" /><br/>
+<br/>
+In the cheapest category, you can get Apple's 20W USB-C Power Adapter for &#36;14.99, down from &#36;19.00 and the AirTag 1 Pack for &#36;23.99, down from &#36;29.00<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-20W-USB-C-Power-Adapter%2Fdp%2FB08L5M9BTJ%3Ftag%3Dmacrumors-20%26ref_%3Dast_sto_dp%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;4 OFF</div>20W USB-C Power Adapter for &#36;14.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-USB-C-Woven-Charge-Cable%2Fdp%2FB0BJMDHRPS%3Fref_%3Dast_sto_dp%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;4 OFF</div>60W USB-C Woven Cable (1m) for &#36;15.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CWXNS552%3Fref%3Dods_ucc_kindle_B0CWXNS552_rc_nd_ucc"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;5 OFF</div>AirTag 1 Pack for &#36;23.99</div></a></div><h2>&#36;50 Or Under</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/finewoven-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-959020" /><br/>
+<br/>
+For accessories priced between &#36;30 and &#36;50, there are a few sales on Amazon for Prime Day. You can get the 35W Dual USB-C Port Power Adapter for &#36;44.99, down from &#36;59.00, as well as discounts on iPhone 15 cases.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-USB-C-Compact-Power-Adapter%2Fdp%2FB0D1XRRQZJ%3Fref_%3Dast_sto_dp%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;14 OFF</div>35W Dual USB-C Power Adapter for &#36;44.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-FineWoven-Case-MagSafe%2Fdp%2FB0CHWS35B9%3Fref_%3Dast_sto_dp%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;24 OFF</div>iPhone 15 Pro FineWoven Case for &#36;34.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-FineWoven-Case-MagSafe%2Fdp%2FB0CHX7V9X5%3Fref_%3Dast_sto_dp%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;24 OFF</div>iPhone 15 Pro Max FineWoven Case for &#36;34.99</div></a></div><h2>&#36;100 Or Under</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/airtag-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958606" /><br/>
+<br/>
+Lastly, we're tracking a few deals on Apple products that are just under &#36;100 for Prime Day. You can get an AirTag 4-Pack for &#36;74.98 (&#36;24 off), an Apple Pencil 2 for &#36;79.00 (&#36;50 off), and AirPods 2 for &#36;69.00 (&#36;60 off).<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>AirPods 2 for &#36;69.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-MX542LL-A-AirTag-pack%2Fdp%2FB0D54JZTHY%3Fref_%3Dast_sto_dp%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;24 OFF</div>AirTag 4 Pack for &#36;74.98</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K1WWBJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>Apple Pencil 2 for &#36;79.00</div></a></div><br/>
+<br/>
+<br/>
+If you're on the hunt for more Prime Day discounts, be sure to visit our <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">big Prime Day post</a> where we recap the best Apple-related bargains of the event. Remember that you'll need an Amazon Prime membership to get Prime Day deals. <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime">You can sign up for Prime</a> on Amazon if you don't have the service yet.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/prime-day/">Prime Day</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/9-best-apple-deals-under-100/">The 9 Best Apple Deals Under &#36;100 for Prime Day</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-9-best-apple-deals-under-100-for-prime-day.2431503/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Lists Products Eligible for Sales Tax-Free Holidays in 8 U.S. States</title>
+		<link>https://www.macrumors.com/2024/07/16/apple-2024-sales-tax-free-holidays/</link>
+		<comments>https://forums.macrumors.com/threads/apple-lists-products-eligible-for-sales-tax-free-holidays-in-8-u-s-states.2431511/</comments>
+		<pubDate>Tue, 16 Jul 2024 10:30:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/apple-2024-sales-tax-free-holidays/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple recently updated its website with a list of products <a href="https://www.apple.com/shop/campaigns/tax-holiday">eligible for upcoming 2024 sales tax holidays</a> in select U.S. states, including Alabama, Arkansas, Florida, Massachusetts, Missouri, Ohio, Tennessee, and West Virginia.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/Apple-Sales-Tax-Free-Holidays.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-959038" /><br/>
+Sales tax holidays provide a limited-time opportunity to purchase select Apple products online or in stores without paying sales tax. Eligible products and price limits vary from state to state, with complete details <a href="https://www.apple.com/shop/campaigns/tax-holiday">outlined on Apple's website</a>. Apple says tax savings may not appear during checkout, but will be reflected on the final receipt.<br/>
+<br/>
+The tax-free holidays run from July 19 through August 11, with the exact dates varying by state. Some other U.S states are offering tax-free holidays this summer, but they are not listed on Apple's website at this time.<br/>
+<br/>
+Sales tax holidays are especially beneficial to students, as the tax savings can be combined with Apple's ongoing <a href="https://www.macrumors.com/2024/06/20/apple-back-to-schoo-promotion-launches/">Back to School promotion</a>, which offers students up to a &#36;150 Apple gift card with the purchase of an eligible Mac or iPad, as well as 20% off AppleCare+ plans. This is in addition to Apple's standard educational discounts on select products.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/apple-2024-sales-tax-free-holidays/">Apple Lists Products Eligible for Sales Tax-Free Holidays in 8 U.S. States</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-lists-products-eligible-for-sales-tax-free-holidays-in-8-u-s-states.2431511/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Fourth Beta of macOS Sonoma 14.6 to Developers [Update: Public Beta Available]</title>
+		<link>https://www.macrumors.com/2024/07/16/apple-seeds-macos-sonoma-14-6-beta-4/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-macos-sonoma-14-6-to-developers-update-public-beta-available.2431507/</comments>
+		<pubDate>Tue, 16 Jul 2024 10:11:59 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/apple-seeds-macos-sonoma-14-6-beta-4/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sonoma</category>
+		
+
+		<description><![CDATA[Apple today seeded the fourth beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.6 update to developers, with the software coming a week after Apple <a href="https://www.macrumors.com/2024/07/09/apple-seeds-macos-sonoma-14-6-beta-3/">released the third beta</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/macOS-Sonoma-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-957372" /><br/>
+Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
+<br/>
+We don't yet know what might be included in &zwnj;macOS Sonoma&zwnj; 14.6, and no new features have been discovered in the betas so far.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/apple-seeds-macos-sonoma-14-6-beta-4/">Apple Seeds Fourth Beta of macOS Sonoma 14.6 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-macos-sonoma-14-6-to-developers-update-public-beta-available.2431507/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Fourth Betas of iOS 17.6 and iPadOS 17.6 to Developers [Update: Public Beta Available]</title>
+		<link>https://www.macrumors.com/2024/07/16/apple-seeds-ios-17-6-beta-4-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-betas-of-ios-17-6-and-ipados-17-6-to-developers-update-public-beta-available.2431505/</comments>
+		<pubDate>Tue, 16 Jul 2024 10:10:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/apple-seeds-ios-17-6-beta-4-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 17</category>
+		
+
+		<description><![CDATA[Apple today seeded the fourth betas of upcoming iOS 17.6 and iPadOS 17.6 updates to developers for testing purposes, with software coming a week after the <a href="https://www.macrumors.com/2024/07/09/apple-seeds-ios-17-6-beta-3-to-developers/">third iOS and iPadOS 17.6 betas</a> were released.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-950716" src="https://images.macrumors.com/article-new/2024/05/iOS-17.6-Feature-Redux.jpg" alt="" width="2500" height="1406" /><br/>
+Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
+<br/>
+The features Apple promised for &zwnj;iOS 17&zwnj; have all been implemented, so it is not clear what will be included in iOS 17.6, and no major new additions have been discovered in the betas so far.<br/>
+<br/>
+With Apple focusing on <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, it is likely that iOS 17.6 will include bug fixes and other under-the-hood improvements.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/apple-seeds-ios-17-6-beta-4-to-developers/">Apple Seeds Fourth Betas of iOS 17.6 and iPadOS 17.6 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-betas-of-ios-17-6-and-ipados-17-6-to-developers-update-public-beta-available.2431505/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Fourth Beta of visionOS 1.3 to Developers</title>
+		<link>https://www.macrumors.com/2024/07/16/apple-seeds-visionos-1-3-beta-4/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-fourth-beta-of-visionos-1-3-to-developers.2431508/</comments>
+		<pubDate>Tue, 16 Jul 2024 10:09:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/apple-seeds-visionos-1-3-beta-4/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>visionOS</category>
+		
+
+		<description><![CDATA[Apple today released the fourth beta of an upcoming <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1.3 update to developers, allowing them to test new features ahead of the software seeing a public launch. The fourth &zwnj;visionOS&zwnj; 1.3 beta comes a week after the <a href="https://www.macrumors.com/2024/07/09/apple-releases-visionos-1-3-beta-3-to-developers/">release of the third beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-934088" src="https://images.macrumors.com/article-new/2024/02/visionOS-Home-Screen.jpg" alt="" width="1920" height="1080" /><br/>
+The &zwnj;visionOS&zwnj; beta can be downloaded by going to the Settings app on the device and toggling on developer betas. A registered developer account is required, and Apple recommends making a backup before installing new software.<br/>
+<br/>
+Apple may make further improvements to Personas, EyeSight, and other features with &zwnj;visionOS&zwnj; 1.3, as well as implement additional bug fixes. No new features were found in the first three &zwnj;visionOS&zwnj; 1.3 betas.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a>, <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/apple-seeds-visionos-1-3-beta-4/">Apple Releases Fourth Beta of visionOS 1.3 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-fourth-beta-of-visionos-1-3-to-developers.2431508/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Fourth Beta of watchOS 10.6 to Developers</title>
+		<link>https://www.macrumors.com/2024/07/16/apple-seeds-watchos-10-6-beta-4/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-watchos-10-6-to-developers.2431509/</comments>
+		<pubDate>Tue, 16 Jul 2024 10:08:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/apple-seeds-watchos-10-6-beta-4/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today seeded the fourth beta of an upcoming watchOS 10.6 update to developers for testing purposes, with the fourth beta coming a week after the <a href="https://www.macrumors.com/2024/07/09/apple-seeds-watchos-10-6-beta-3-to-developers/">release of the third beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
+To install the ‌watchOS 10.6 update, developers need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
+<br/>
+Once beta updates have been activated, watchOS 10.6 can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
+<br/>
+We don't yet know what's included in watchOS 10.6, and with Apple's focus shifting to <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a>, it likely features bug fixes and other minor improvements. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>, <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/apple-seeds-watchos-10-6-beta-4/">Apple Seeds Fourth Beta of watchOS 10.6 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-watchos-10-6-to-developers.2431509/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Fourth Beta of tvOS 17.6 to Developers [Update: Public Beta Available]</title>
+		<link>https://www.macrumors.com/2024/07/16/apple-seeds-tvos-17-6-beta-4-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-tvos-17-6-to-developers-update-public-beta-available.2431506/</comments>
+		<pubDate>Tue, 16 Jul 2024 10:06:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/apple-seeds-tvos-17-6-beta-4-to-developers/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple TV</category>
+		<category>Blurb</category>
+		
+
+		<description><![CDATA[Apple today seeded the fourth beta of an upcoming tvOS 17.6 to developers for testing purposes, with the update coming a week after the <a href="https://www.macrumors.com/2024/07/09/apple-seeds-tvos-17-6-beta-3-to-developers/">release of the third beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-856182" src="https://images.macrumors.com/article-new/2022/07/apple-tv-4k-green.jpg" alt="" width="2500" height="1406" /><br/>
+Registered developers are able to download the tvOS 17.6 update by opting in to the beta through the Settings app on the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>. A registered developer account is required.<br/>
+<br/>
+tvOS software releases are usually minor in scale compared to other operating system updates, focusing primarily on smaller improvements rather than outward-facing changes. We don't yet know what's included in tvOS 17.6.<br/>
+<br/>
+Apple shares some information on tvOS releases in its <a href="https://support.apple.com/en-us/HT207936">tvOS support document</a>, which is updated after each tvOS launch, but Apple does not provide notes during beta testing.<br/>
+<br/>
+Though we don't always know what's new in tvOS betas, we let <em>MacRumors</em> readers know when new updates are available so those who are developers can download new software upon release.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/apple-seeds-tvos-17-6-beta-4-to-developers/">Apple Seeds Fourth Beta of tvOS 17.6 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-tvos-17-6-to-developers-update-public-beta-available.2431506/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Launches New Safari Ad Campaign: &#039;A Browser That&#039;s Actually Private&#039;</title>
@@ -65,7 +526,7 @@ More information on Safari's privacy protections can be found on <a href="https:
 		<category>Apple Wallet</category>
 		
 
-		<description><![CDATA[<a href="https://www.apple.com/ca/newsroom/2024/07/apple-and-metrolinx-introduce-presto-card-for-iphone-and-apple-watch/">Apple</a> and <a href="https://www.prestocard.ca/en/about/presto-in-mobile-wallet/apple">Metrolinx</a> today announced that the PRESTO card can now be added to the Wallet app, allowing commuters in Toronto, Canada and the surrounding area to tap an iPhone or Apple Watch to pay for a fare on buses, streetcars, trains, and the subway. Funds can be loaded onto the card directly in the Wallet app for added convenience.<br/>
+		<description><![CDATA[<a href="https://www.apple.com/ca/newsroom/2024/07/apple-and-metrolinx-introduce-presto-card-for-iphone-and-apple-watch/">Apple</a> and <a href="https://www.prestocard.ca/en/about/presto-in-mobile-wallet/apple">Metrolinx</a> today announced that the PRESTO card can <a href="https://www.apple.com/ca/apple-pay/transit/toronto/">now be added to the Wallet app</a>, allowing commuters in Toronto, Canada and the surrounding area to tap an iPhone or Apple Watch to pay for a fare on buses, streetcars, trains, and the subway. Funds can be loaded onto the card directly in the Wallet app for added convenience.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/07/Apple-Wallet-PRESTO.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-958998" /><br/>
 Express Mode allows commuters to simply hold their iPhone or Apple Watch near a payment reader to pay for their ride, without needing to unlock or wake the device. This mode even works for up to five hours after your iPhone runs out of battery power.<br/>
@@ -234,6 +695,7 @@ The Beats x Minecraft Special Edition Solo 4 headphones are priced at &#36;199.9
 		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/amazon-prime-day-apple-watch-2/</guid>
 		<dc:creator>Mitchel Broussard</dc:creator>
 		<category>Deals</category>
+		<category>Prime Day</category>
 		
 
 		<description><![CDATA[We're tracking deals on Apple products as Prime Day continues, and right now you can get record low discounts on the Apple Watch Series 9 and Apple Watch SE. Across the line, all of the deals shared below are new all-time low prices on each model, and only Amazon has the sales.<br/>
@@ -259,17 +721,18 @@ Apple's 40mm GPS Apple Watch SE is available for <a href="https://buy.geni.us/Pr
 <br/>
 You can also get the 44mm GPS Apple Watch SE on sale right now, available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYCT6C%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;199.99</strong></a> on Amazon, down from &#36;279.00. This is another new record low price on the Apple Watch SE for Prime Day.<br/>
 <br/>
-If you're on the hunt for more Prime Day discounts, be sure to visit our <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">big Prime Day post</a> where we recap the best Apple-related bargains of the event. Remember that you'll need an Amazon Prime membership to get Prime Day deals. <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime">You can sign up for Prime</a> on Amazon if you don't have the service yet.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/amazon-prime-day-apple-watch-2/">Amazon Prime Day: Apple Watch SE (&#36;169.99), Series 9 (&#36;279.99), and Ultra 2 (&#36;699.99) Hit New Best-Ever Prices</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-prime-day-apple-watch-se-169-99-series-9-279-99-and-ultra-2-699-99-hit-new-best-ever-prices.2431486/">Discuss this article</a> in our forums<br/><br/>]]></description>
+If you're on the hunt for more Prime Day discounts, be sure to visit our <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">big Prime Day post</a> where we recap the best Apple-related bargains of the event. Remember that you'll need an Amazon Prime membership to get Prime Day deals. <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime">You can sign up for Prime</a> on Amazon if you don't have the service yet.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/prime-day/">Prime Day</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/amazon-prime-day-apple-watch-2/">Amazon Prime Day: Apple Watch SE (&#36;169.99), Series 9 (&#36;279.99), and Ultra 2 (&#36;699.99) Hit New Best-Ever Prices</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-prime-day-apple-watch-se-169-99-series-9-279-99-and-ultra-2-699-99-hit-new-best-ever-prices.2431486/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Amazon Prime Day: 10th Gen iPad Drops to Record Low &#36;274.99 Price</title>
+		<title>Amazon Prime Day: 10th Gen iPad Drops to Record Low &#36;274.99 Price [Updated]</title>
 		<link>https://www.macrumors.com/2024/07/16/amazon-prime-day-10th-ipad/</link>
-		<comments>https://forums.macrumors.com/threads/amazon-prime-day-10th-gen-ipad-drops-to-record-low-274-99-price.2431483/</comments>
+		<comments>https://forums.macrumors.com/threads/amazon-prime-day-10th-gen-ipad-drops-to-record-low-274-99-price-updated.2431483/</comments>
 		<pubDate>Tue, 16 Jul 2024 06:17:32 PDT</pubDate>
 		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/amazon-prime-day-10th-ipad/</guid>
 		<dc:creator>Mitchel Broussard</dc:creator>
 		<category>Deals</category>
+		<category>Prime Day</category>
 		
 
 		<description><![CDATA[Amazon has introduced a new record low price on the 10th generation iPad for Prime Day. You can get the 64GB Wi-Fi iPad for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLCL22Y%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;274.99</strong></a> when you clip an on-page coupon, down from &#36;349.00.<br/>
@@ -282,615 +745,9 @@ The iPad is available in two colors at this new all-time low price, and about &#
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLCL22Y%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;74 OFF</div>iPad (64GB Wi-Fi) for &#36;274.99</div></a></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBNNRT%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>iPad (256GB Wi-Fi) for &#36;449.00</div></a></div><br/>
 <br/>
-If you're on the hunt for more Prime Day discounts, be sure to visit our <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">big Prime Day post</a> where we recap the best Apple-related bargains of the event. Remember that you'll need an Amazon Prime membership to get Prime Day deals. <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime">You can sign up for Prime</a> on Amazon if you don't have the service yet.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/amazon-prime-day-10th-ipad/">Amazon Prime Day: 10th Gen iPad Drops to Record Low &#36;274.99 Price</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-prime-day-10th-gen-ipad-drops-to-record-low-274-99-price.2431483/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Amazon Prime Day: Every AirPods Model Gets New Record Low Price</title>
-		<link>https://www.macrumors.com/2024/07/16/amazon-prime-day-airpods-3/</link>
-		<comments>https://forums.macrumors.com/threads/amazon-prime-day-every-airpods-model-gets-new-record-low-price.2431482/</comments>
-		<pubDate>Tue, 16 Jul 2024 05:23:26 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/amazon-prime-day-airpods-3/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		<category>Prime Day</category>
-		
-
-		<description><![CDATA[<a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fprimeday">Amazon Prime Day</a> is in full swing, and it includes all-time low prices across Apple's entire AirPods lineup. This includes savings on the AirPods 2, AirPods 3, AirPods Pro 2, and AirPods Max.<br/>
+If you're on the hunt for more Prime Day discounts, be sure to visit our <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">big Prime Day post</a> where we recap the best Apple-related bargains of the event. Remember that you'll need an Amazon Prime membership to get Prime Day deals. <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime">You can sign up for Prime</a> on Amazon if you don't have the service yet.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/07/airpods-prime-day-24.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958559" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-If you want to take advantage of all Prime Day has to offer, remember that only Amazon Prime members will be able to gain access to the majority of deals during the event. If you aren't a member, <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3Ftag%3Dmacrumors-20%26geniuslink%3Dtrue"><strong>you can join Prime</strong></a> via a free 30-day trial to participate in this year's Prime Day. Once your trial is over, Prime membership will run for &#36;14.99/month or &#36;139/year. For students, that's &#36;7.49/month or &#36;69/year.<br/>
-<br/>
-This year, AirPods deals are in abundance for Prime Day. The cheapest model is still the AirPods 2 at its best-ever price of <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;69.00</strong></a> (&#36;60 off), but there's also a steep discount on the AirPods 3 at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1WXVQTN%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;119.99</strong></a> (&#36;49 off).<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>AirPods 2 for &#36;69.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1WXVQTN%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>AirPods 3 for &#36;119.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;80 OFF</div>AirPods Pro 2 (USB-C) for &#36;168.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08PZHYWJS%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;155 OFF</div>AirPods Max for &#36;394.99</div></a></div><br/>
-<br/>
-For the higher-end models, Amazon has the AirPods Pro 2 with USB-C for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;168.99</strong></a> (&#36;80 off) and the AirPods Max for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08PZHYWJS%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;394.99</strong></a> (&#36;155 off). Both of these deals are new record low prices on each model and just appeared for Prime Day 2024.<br/>
-<br/>
-If you're on the hunt for more Prime Day discounts, be sure to visit our <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">big Prime Day post</a> where we recap the best Apple-related bargains of the event.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/prime-day/">Prime Day</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/amazon-prime-day-airpods-3/">Amazon Prime Day: Every AirPods Model Gets New Record Low Price</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-prime-day-every-airpods-model-gets-new-record-low-price.2431482/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The Best Prime Day Deals on AirPods, iPads, MacBooks, and More</title>
-		<link>https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/</link>
-		<comments>https://forums.macrumors.com/threads/the-best-prime-day-deals-on-airpods-ipads-macbooks-and-more.2431481/</comments>
-		<pubDate>Tue, 16 Jul 2024 04:59:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Amazon is back with its annual <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime">summertime Prime Day event</a>, lasting for just two days from July 16-17. As it does every year, Prime Day offers shoppers a huge selection of deals across Amazon's storefront, including savings on tech, clothing, video games, groceries, and much, much more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/10/primeday2020_feature3.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-763521" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-For our coverage, we're focusing entirely on discounts for Apple and Apple-related products that can be purchased right now on Amazon. As of today, this includes deals on AirPods, Apple Watch, iPad, MacBook Air, and more. We're also sharing deals being matched at retailers like Best Buy in some cases.<br/>
-<br/>
-As is typical for Prime Day deals, these markdowns are very time sensitive, so sales listed below may disappear fast, and new ones may appear even faster. With this in mind, we'll keep this article updated over the next few days, and keep an eye on the MacRumors front page as we'll be posting particularly great deals in separate articles next week.<br/>
-<br/>
-Lastly, and perhaps most importantly, Amazon Prime Day requires you to have an <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Famazonprime"><strong>Amazon Prime membership</strong></a> to take advantage of the discounts. Amazon Prime costs &#36;14.99 per month or &#36;139.00 per year, and it comes with a 30-day free trial for new subscribers.<br/>
-<br/>
-<h2>AirPods</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/airpods-prime-day-24.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958559" /><br/>
-<br/>
-Starting with AirPods, you'll find a wide selection of solid deals across the AirPods lineup on Amazon during Prime Day. Prices start at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;69.00</strong></a> for the AirPods 2 (&#36;60 off), then increase to <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;168.99</strong></a> for the AirPods Pro 2 (&#36;80 off).<br/>
-<br/>
-Both of these are great lowest-ever discounts on each model of the AirPods, beating previous record lows by up to &#36;20. We're also tracking the AirPods Max at a discount during Prime Day, available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08PZDSP2Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;394.99</strong></a>, down from &#36;549.00, another all-time low price.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>AirPods 2 for &#36;69.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1WXVQTN%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>AirPods 3 for &#36;119.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;80 OFF</div>AirPods Pro 2 for &#36;168.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08PZJN7BD%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;155 OFF</div>AirPods Max for &#36;394.99</div></a></div><h2>Apple Watch</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/prime-day-series-9.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958519" /><br/>
-<br/>
-<h3>Series 9</h3><br/>
-You can get up to &#36;120 off most Apple Watch Series 9 models right now on Amazon, starting at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FApple-Smartwatch-Aluminum-Fitness-Resistant%2Fdp%2FB0CSVB8BP1%3Fref_%3Dast_sto_dp%26th%3D1"><strong>&#36;279.00</strong></a> for the 41mm GPS watches. We've rounded up all of the deals below, focusing on the aluminum devices, but you can also find &#36;100 discounts on a few stainless steel models as well.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSTJ2Y5F%2Fref%3Dfs_a_wt2_us1%3Fth%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;120 OFF</div>Apple Watch Series 9 (41mm GPS) for &#36;279.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSTFHP3W%2Fref%3Dfs_a_wt2_us1%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;120 OFF</div>Apple Watch Series 9 (45mm GPS) for &#36;309.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSVMMDKQ%2Fref%3Dfs_a_wt2_us2%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;120 OFF</div>Apple Watch Series 9 (41mm Cellular) for &#36;379.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSTJ2Y5N%2Fref%3Dfs_a_wt2_us2%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;120 OFF</div>Apple Watch Series 9 (45mm Cellular) for &#36;409.99</div></a></div><br/>
-<br/>
-<h3>SE</h3><br/>
-Apple's 40mm GPS Apple Watch SE is available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX8RVB8%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;169.99</strong></a> today on Amazon, down from &#36;249.00. This is a new all-time low price on the wearable. This deal is available in all three aluminum color options, and only Amazon has the discount.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX8RVB8%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;80 OFF</div>Apple Watch SE (40mm GPS) for &#36;169.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYCT6C%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;80 OFF</div>Apple Watch SE (44mm GPS) for &#36;199.99</div></a></div><br/>
-<br/>
-You can also get the 44mm GPS Apple Watch SE on sale right now, available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWYCT6C%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;199.99</strong></a> on Amazon, down from &#36;279.00. This is another new record low price on the Apple Watch SE for Prime Day.<br/>
-<br/>
-<h2>M2 iPad Pro</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/m2-ipad-pro-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958610" /><br/>
-<br/>
-Over at Best Buy, today you can find some of the biggest discounts on the M2 11-inch and 12.9-inch iPad Pro that we've seen in months, including both Wi-Fi and cellular tablets. A My Best Buy Plus/Total membership is not required to see these discounts.<br/>
-<br/>
-With such steep savings, these previous generation iPad Pros are worth looking into purchasing for anyone who wants to prioritize saving money over owning the newest M4 iPad Pro. There are some major differences between the two generations, like the M4's support for Apple Pencil Pro and a new nano-texture display option, so be sure to <a href="https://www.macrumors.com/guide/ipad-pro-2022-vs-2024/">read about which one works best for you</a> in our Buyer's Guide.<br/>
-<br/>
-<h3>11-Inch</h3><br/>
-<strong>Wi-Fi</strong><br/>
-<ul><li><a href="https://howl.me/clM5Y6X7yBI">512GB Wi-Fi</a> for &#36;799.00 (&#36;300 off)</li><br/>
-<li><a href="https://howl.me/clM5ZY2SiSP">1TB Wi-Fi</a> for &#36;1,099.00 (&#36;400 off)</li><br/>
-<li><a href="https://howl.me/clM50J6paxv">2TB Wi-Fi</a> for &#36;1,499.00 (&#36;400 off)</li></ul><br/>
-<strong>Cellular</strong><br/>
-<ul><li><a href="https://howl.me/cmCSae5mICO">128GB Cellular</a> for &#36;699.00 (&#36;300 off)</li><br/>
-<li><a href="https://howl.me/cmCSaLdSe0X">256GB Cellular</a> for &#36;799.00 (&#36;300 off)</li><br/>
-<li><a href="https://howl.me/cmCScfQIIAB">512GB Cellular</a> for &#36;899.00 (&#36;400 off)</li><br/>
-<li><a href="https://howl.me/cmCSc22N2b9">1TB Cellular</a> for &#36;1,199.00 (&#36;500 off)</li><br/>
-<li><a href="https://howl.me/cmCSdKc6izG">2TB Cellular</a> for &#36;1,599.00 (&#36;500 off)</li></ul><br/>
-<h3>12.9-Inch</h3><br/>
-<strong>Wi-Fi</strong><br/>
-<ul><br/>
-<li><a href="https://howl.me/cmEAPmsBXFB">128GB Wi-Fi</a> for &#36;799.00 (&#36;300 off)</li><br/>
-<li><a href="https://howl.me/clM54mrLxFi">256GB Wi-Fi</a> for &#36;899.00 (&#36;300 off)</li><br/>
-<li><a href="https://howl.me/clM547Ht1nE">512GB Wi-Fi</a> for &#36;999.00 (&#36;400 off)</li><br/>
-<li><a href="https://howl.me/clM55UKUlgu">1TB Wi-Fi</a> for &#36;1,299.00 (&#36;500 off)</li><br/>
-<li><a href="https://howl.me/clM56AO1pl6">2TB Wi-Fi</a> for &#36;1,699.00 (&#36;500 off)</li></ul><br/>
-<strong>Cellular</strong><br/>
-<ul><li><a href="https://howl.me/cmCSfouMhNS">128GB Cellular</a> for &#36;899.00 (&#36;400 off)</li><br/>
-<li><a href="https://howl.me/cmCSf0DN24w">256GB Cellular</a> for &#36;999.00 (&#36;400 off)</li><br/>
-<li><a href="https://howl.me/cmCSgI7LBgp">512GB Cellular</a> for &#36;1,099.00 (&#36;500 off)</li><br/>
-<li><a href="https://howl.me/cmCShFBt2of">1TB Cellular</a> for &#36;1,399.00 (&#36;600 off)</li><br/>
-<li><a href="https://howl.me/cmCSiepS0Mp">2TB Cellular</a> for &#36;1,799.00 (&#36;600 off)</li></ul> <br/>
-<br/>
-<h2>M4 iPad Pro</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/m4-ipad-pro-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958609" /><br/>
-<br/>
-For the newest M4 iPad Pros, Amazon is offering up to &#36;200 off select models of both the 11-inch and 13-inch iPad Pro. Deals are primarily focused on Wi-Fi models, but you can find a few cellular tablets on sale at this time as well.<br/>
-<br/>
-<h3>11-Inch</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">256GB Wi-Fi</a> for &#36;899.00 (&#36;100 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J9G6SP%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">512GB Wi-Fi</a> for &#36;999.00 (&#36;100 off)</li></ul><br/>
-<h3>13-Inch</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J9SMLK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">256GB Wi-Fi</a> for &#36;1,199.00 (&#36;100 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3JB95VD%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">512GB Wi-Fi</a> for &#36;1,389.00 (&#36;110 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J82K45%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">1TB Wi-Fi</a> for &#36;1,749.00 (&#36;150 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7T414%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">1TB Wi-Fi (Nano-Texture Glass)</a> for &#36;1,844.00 (&#36;155 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J8S6S5%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">2TB Wi-Fi</a> for &#36;2,149.00 (&#36;150 off)</li></ul><br/>
-<br/>
-<h2>M2 iPad Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/ipad-air-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958546" /><br/>
-<br/>
-<h3>11-Inch</h3><br/>
-The cheapest model is the 128GB Wi-Fi 11-inch iPad Air for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J5WGD6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;559.00</strong></a>, down from &#36;599.00. You'll also find deals on the 256GB, 512GB, and 1TB models below, all of which are in stock on Amazon with delivery dates as soon as the middle of next week for Prime members.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J5WGD6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;40 OFF</div>M2 11-inch iPad Air (128GB Wi-Fi) for &#36;559.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6FSV3%2Fref%3Dtwister_B0D3KGR4NB%3Ftag%3Dmacrumors-20%26_encoding%3DUTF8%26geniuslink%3Dtrue%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>M2 11-inch iPad Air (256GB Wi-Fi) for &#36;649.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J53DNX%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;55 OFF</div>M2 11-inch iPad Air (512GB Wi-Fi) for &#36;844.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6VB4J%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;75 OFF</div>M2 11-inch iPad Air (1TB Wi-Fi) for &#36;1,024.00</div></a></div><br/>
-<br/>
-<h3>13-Inch</h3><br/>
-The 13-inch M2 iPad Air models start at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J59856%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;729.00</strong></a> for the 128GB Wi-Fi tablet, down from &#36;799.00. Similar to the 11-inch devices, all Wi-Fi models are on sale this week, and for the larger display iPad Airs these discounts reach up to &#36;90 off original prices.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J59856%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>M2 13-inch iPad Air (128GB Wi-Fi) for &#36;729.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J8W54H%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;60 OFF</div>M2 13-inch iPad Air (256GB Wi-Fi) for &#36;839.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J8BD6L%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;75 OFF</div>M2 13-inch iPad Air (512GB Wi-Fi) for &#36;1,024.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J75PYR%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;90 OFF</div>M2 13-inch iPad Air (1TB Wi-Fi) for &#36;1,209.00</div></a></div><br/>
-<br/>
-The iPad Air is Apple's middle-tier iPad model, equipped with an LCD Liquid Retina display, True Tone support, four unique color options, Touch ID, relocated front-facing camera, and two new size options with the 11-inch and 13-inch sizes.<br/>
-<br/>
-<h2>10th Gen iPad</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/2022-ipad-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958608" /><br/>
-<br/>
-Amazon is taking &#36;75 off the Wi-Fi models of the 2022 iPad, starting at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;274.99</strong></a> for 64GB Wi-Fi. You'll also find both cellular devices on sale this weekend.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;74 OFF</div>iPad (64GB Wi-Fi) for &#36;274.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBNNRT%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>iPad (256GB Wi-Fi) for &#36;449.00</div></a></div><br/>
-<h2>M3 MacBook Pro</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/m3-macbook-pro-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958607" /><br/>
-<br/>
-The cheapest M3 MacBook Pro model you'll find right now is on the 14-inch M3 Pro 512GB model, priced at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JV268%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,399.00</strong></a>. That's a &#36;200 discount and the best price we've ever tracked, but you can also find a few other solid markdowns on more 14-inch MacBook Pros and 16-inch MacBook Pros at Amazon and Best Buy.<br/>
-<br/>
-Note that if you have a My Best Buy Plus or Total subscription, you'll definitely want to prioritize Best Buy over Amazon for MacBook Pro deals. In many cases, Best Buy is offering as much as &#36;200 off for members on top of the already steep discounts you'll find below.<br/>
-<br/>
-<h3>14-inch</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JV268%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 512GB</a> - &#36;1,399.00 (&#36;200 off)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5LN355%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Pro 512GB</a> - &#36;1,699.00 (&#36;300 off) [<a href="https://howl.me/cmFS5KrLaL8">matched at Best Buy</a>]</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5KB9M3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Pro 1TB</a> - &#36;2,099.00 (&#36;300 off) [<a href="https://howl.me/cmFS546rWne">matched at Best Buy</a>]</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JCMQ5%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Max 1TB</a> - &#36;2,899.00 (&#36;300 off) [<a href="https://howl.me/cmFS6pLDH28">matched at Best Buy</a>]</li></ul><br/>
-<h3>16-inch</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5KXTND%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Pro, 18GB RAM, 512GB</a> - &#36;1,999.00 (&#36;500 off) [<a href="https://howl.me/cmFTdxwhum3">matched at Best Buy</a>]</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5L3PPZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Pro, 36GB RAM, 512GB</a> - &#36;2,299.00 (&#36;600 off) [<a href="https://howl.me/cmFTdxwhum3">matched at Best Buy</a>]</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5MKMD4%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Max, 36GB RAM, 1TB</a> - &#36;2,799.00 (&#36;700 off) [<a href="https://howl.me/cmFTef4hr6X">matched at Best Buy</a>]</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5K7BCR%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Max, 48GB RAM, 1TB</a> - &#36;3,299.00 (&#36;700 off) [<a href="https://howl.me/cmFTeyXwYzw">matched at Best Buy</a>]</li></ul><br/>
-<h2>M3 MacBook Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/m3-macbook-air-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958729" /><br/>
-<br/>
-Prices on the M3 MacBook Air start at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;898.99</strong></a> for the 8GB RAM/256GB SSD 13-inch MacBook Air, which is down from &#36;1,099.00. For the bigger model, prices start at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23GFMJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;1,099.00</strong></a> for the 8GB RAM/256GB SSD 15-inch MacBook Air, down from &#36;1,299.00.<br/>
-<br/>
-Shoppers should note that Best Buy is offering an extra &#36;50 in savings on these computers, but you'll need to have a My Best Buy Plus or Total membership in order to see the discounts. Otherwise, if you don't have a membership, you can find matching prices on every M3 MacBook Air at Best Buy.<br/>
-<br/>
-<h3>13-inch M3 MacBook Air</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">8GB RAM 256GB SSD</a> - &#36;849.00, down from &#36;1,099.00</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX22NCHQ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">8GB RAM 512GB SSD</a> - &#36;1,049.00, down from &#36;1,299.00 (<a href="https://howl.me/cmFQBNsFbNk">matched at Best Buy</a>)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX246FNZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">16GB RAM 512GB SSD</a> - &#36;1,249.00, down from &#36;1,499.00 (<a href="https://howl.me/cmFQCCPC5E3">matched at Best Buy</a>)</li></ul><br/>
-<h3>15-inch M3 MacBook Air</h3><br/>
-<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23GFMJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">8GB RAM 256GB SSD</a> - &#36;1,049.00, down from &#36;1,299.00 (<a href="https://howl.me/cmFQDrLzdh5">matched at Best Buy</a>)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23P9S7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">8GB RAM 512GB SSD</a> - &#36;1,249.00, down from &#36;1,499.00 (<a href="https://howl.me/cmFQDI1Z9Ul">matched at Best Buy</a>)</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24BN3L%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">16GB RAM 512GB SSD</a> - &#36;1,449.00, down from &#36;1,699.00 (<a href="https://howl.me/cmFQD4AX4A0">matched at Best Buy</a>)</li></ul><br/>
-<h2>M2 MacBook Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/m2-macbook-air-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958554" /><br/>
-<br/>
-<a href="https://howl.me/cmDI58LD6XX">Best Buy</a> and <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a> today have Apple's 256GB 13-inch M2 MacBook Air for <a href="https://howl.me/cmDI58LD6XX"><strong>&#36;799.00</strong></a>, down from &#36;999.00. You'll find all four colors on sale at this price, including Midnight, Silver, Space Gray, and Starlight.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/cmDI58LD6XX"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>13-inch M2 MacBook Air (256GB) for &#36;799.00</div></a></div><br/>
-<br/>
-Compared to previous sales, this is a match of the all-time low price on the 13-inch M2 MacBook Air. Right now, both Best Buy and Amazon have this steep discount, and we aren't tracking any notable deals on the 512GB model.<br/>
-<br/>
-<h2>Apple Pencil</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/pencil-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958605" /><br/>
-<br/>
-Apple Pencil deals include all-time low prices on the Apple Pencil 2 at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K1WWBJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;79.00</strong></a> and Apple Pencil Pro at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J71RM7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;119.00</strong></a>.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CL7J12YK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;10 OFF</div>Apple Pencil USB-C for &#36;69.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K1WWBJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>Apple Pencil 2 for &#36;79.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J71RM7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;10 OFF</div>Apple Pencil Pro for &#36;119.00</div></a></div><br/>
-<br/>
-<h2>Apple Studio Display</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/studio-display-prime-day.jpg" alt="" width="2002" height="1126" class="aligncenter size-full wp-image-958912" /><br/>
-<br/>
-Amazon has &#36;299 off the Apple Studio Display for Prime Day, starting at &#36;1,299.99 for the standard glass option. For this model, this is a match of the all-time low price.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3GZD32%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;299 OFF</div>Apple Studio Display (standard glass) for &#36;1,299.99</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3HP4KL%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;299 OFF</div>Apple Studio Display (nano-texture glass) for &#36;1,599.99</div></a></div><br/>
-<br/>
-Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">The Best Prime Day Deals on AirPods, iPads, MacBooks, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-best-prime-day-deals-on-airpods-ipads-macbooks-and-more.2431481/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>How to Install the iOS 18 Public Beta</title>
-		<link>https://www.macrumors.com/how-to/install-the-ios-18-public-beta/</link>
-		<comments>https://forums.macrumors.com/threads/how-to-install-the-ios-18-public-beta.2431480/</comments>
-		<pubDate>Tue, 16 Jul 2024 04:40:34 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/how-to/install-the-ios-18-public-beta&#038;post_date=1721140834/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple has made available the first betas of iOS 18 and iPadOS 18 to public beta testers, opening up the new software to the general public for the first time since the Worldwide Developers Conference in June. Keep reading to learn how to prepare your device for the beta software and install it.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/iOS-18-Public-Beta-Thumb-1.5.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-958424" /><br/>
-Signing up to get the ‌iOS 18‌ or ‌iPadOS 18 beta is simple, and can be done by enrolling an iPhone or iPad in Apple's free Apple Beta Software Program. The steps you need to complete to install the software on your device are provided towards the end of this article, but before you jump ahead, here are a few things worth considering.<br/>
-<br/>
-<h2>Is My iPhone Compatible With iOS 18?</h2><br/>
-iOS 18 is compatible with the same iPhone models as iOS 17, so that includes the following devices:<br/>
-<div style="float: left; width: 50%;"><br/>
-<ul><li>iPhone 15</li><br/>
-<li>iPhone 15 Plus</li><br/>
-<li>iPhone 15 Pro</li><br/>
-<li>iPhone 15 Pro Max</li><br/>
-<li>iPhone 14</li><br/>
-<li>iPhone 14 Plus</li><br/>
-<li>iPhone 14 Pro</li><br/>
-<li>iPhone 14 Pro Max</li><br/>
-<li>iPhone 13</li><br/>
-<li>iPhone 13 mini</li><br/>
-<li>iPhone 13 Pro</li><br/>
-<li>iPhone 13 Pro Max</li></ul></div><div style="float: right; width: 50%;"><br/>
-<ul><br/>
-<li>iPhone 12</li><br/>
-<li>iPhone 12 mini</li><br/>
-<li>iPhone 12 Pro</li><br/>
-<li>iPhone 12 Pro Max</li><br/>
-<li>iPhone 11</li><br/>
-<li>iPhone 11 Pro</li><br/>
-<li>iPhone 11 Pro Max</li><br/>
-<li>iPhone XS</li><br/>
-<li>iPhone XS Max</li><br/>
-<li>iPhone XR</li><br/>
-<li>iPhone SE (2nd generation)</li><br/>
-<li>iPhone SE (3rd generation)</li></ul></div><br/>
-<div style="clear:both;"></div>iPadOS 18 drops support for iPad models with the A10X Fusion chip</a>, used in the 10.5-inch iPad Pro and second-generation 12.9-inch iPad Pro. The sixth-generation iPad is also being dropped from the compatibility list, but the seventh-generation iPad is still supported. That means iPadOS 18 is compatible with the following iPad models:<br/>
-<div style="float: left; width: 50%;"><ul><li>iPad Pro: 2018 and later</li><br/>
-<li>iPad Air: 2019 and later</li></ul></div><div style="float: right; width: 50%;"><br/>
-<ul><br/>
-<li>iPad mini: 2019 and later</li><br/>
-<li>iPad: 2020 and later</li></ul></div><br/>
-<div style="clear:both;"></div>If you're unsure which ‌iPad‌ model you have, go to <strong>Settings -> General -> About</strong>, and you'll find the Model Name listed there.<br/>
-<br/>
-<h2>Should I Install iOS 18 Public Beta?</h2><br/>
-Before downloading the update, it's worth noting that Apple does not recommend installing the iOS 18 Beta on your main iPhone, so if you have a secondary device, use that. This is beta software, which means there are often bugs and issues that pop up that can prevent software from working properly or cause other problems. If you're concerned about potential issues, hold off on installing and wait for Apple to launch its final stable release later this year.<br/>
-<br/>
-<div id="backup"></div><h2>Make an Archived Backup of Your Device First</h2><br/>
-Before installing the beta, make sure to <strong>back up your iOS device</strong> before installing the software using the following method, otherwise you won't be able to revert back to iOS 17 if things go wrong.<br/>
-<ol><br/>
- 	<li>Plug your iPhone into your Mac using the supplied cable.</li><br/>
-<li>Allow the accessory to connect by clicking <strong>Allow</strong> in the dialog prompt.</li><br/>
- 	<li>Open a <strong>Finder</strong> window by clicking the Finder icon in the Dock.</li><br/>
- 	<li>Click your iOS device's name in the sidebar.<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/archived-backup2.jpg" alt="finder" width="2264" height="1592" class="aligncenter size-full wp-image-901467" /><br/>
- 	<li>If this is the first time connecting your device to your Mac, click <strong>Trust</strong> in the Finder window.<br/>
-<img src="https://images.macrumors.com/article-new/2023/06/archived-backup1.jpg" alt="finder" width="2030" height="1408" class="aligncenter size-full wp-image-901468" /><br/>
- 	<li>Tap <strong>Trust</strong> on your device when prompted, then enter your passcode to confirm.</li><br/>
- 	<li>In the General tab, click the circle next to where it says <strong>Back up all of the data on your iPad to this Mac</strong>.</li><br/>
-<li>If you want to encrypt the backup, check the box next to <strong>Encrypt local backup</strong>, then enter a password to protect your data.</li><br/>
- 	<li>If you don't want to create an encrypted backup, or you've already set up encrypted backups, click <strong>Back Up Now</strong>. When the backup is finished, you can find the date and time of the last backup in the <strong>General</strong> tab, just above the Manage Backups button. <br/>
-<img src="https://images.macrumors.com/article-new/2023/06/archived-backup3.jpg" alt="finder" width="1990" height="1364" class="aligncenter size-full wp-image-901469" /><br/>
-<li>Lastly, archive the backup: Select <strong>Manage Backups ➝ Select Backup</strong>, then right-click the backup and choose <strong>Archive</strong>.</li><br/>
-</ol><br/>
-Remember that this backup will not be overwritten when you manually or automatically back up your iPhone in the future, so you can restore it at any time by using the <strong>Restore Backup...</strong> option in the same Finder screen.<br/>
-<br/>
-<h2>How to Download iOS 18 Public Beta</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/apple-beta-software-program.jpg" alt="" width="2774" height="1494" class="aligncenter size-full wp-image-958873" /><ol><br/>
- 	<li>On your iOS device, open up Safari and navigate to the <a href="https://beta.apple.com/sp/betaprogram/">Apple Beta Software Program website</a>.</li><br/>
- 	<li>Tap the <strong>Sign up</strong> button and enter your Apple ID credentials, or sign in with your Apple ID if you've signed up to beta test a previous update.</li><br/>
- 	<li>Agree to the Apple Beta Software Program terms and conditions if required.</li><br/>
- 	<li>After signing in, you'll see a main screen that's a Guide for Public Betas. Click on <strong>iOS</strong> (or <strong>iPadOS</strong> if you're installing on an iPad).</li><br/>
- 	<li>Read through Apple's instructions carefully, and then using the link in the "Get Started" section, select <strong>enroll your iOS device</strong>.</li><br/>
- 	<li>Make sure to make an archived backup of your current version of iOS using Finder by following Apple's instructions or using our tutorial above. This will allow you to downgrade back to iOS 17 if necessary and is crucial if you don't enjoy the iOS 18 testing experience.</li><br/>
- 	<li>Now on your iOS or iPadOS device, go to <strong>Settings -> General -> Software Update -> Beta Update</strong>, then choose the iOS 18 public beta you'd like to install.</li><br/>
-<li>Once the beta update has been downloaded you can tap <strong>Install Now</strong> to get it set up, and from there, the iPhone will install the software, restart, and you'll be up and running with the iOS 18 software.</li></ol>Note that if your device is running iOS 16.3 or earlier, you'll need to download the iOS 18 configuration profile after enrolling. On your iPhone, go to <a href="http://beta.apple.com/profile">beta.apple.com/profile</a> to download the configuration profile. Your iPhone will notify you when the profile has been downloaded. Open <strong>Settings</strong>, tap the profile and follow the onscreen instructions to allow installation.<br/>
-<br/>
-<h2>iOS 18 Features</h2><br/>
-‌iOS 18 introduces Apple Intelligence, a suite of AI features deeply integrated into the operating system. While not all functionalities are available yet, it includes Writing Tools for rewriting, polishing, proofreading, and summarizing text across apps. You can also generate custom images with Image Playground and create custom emojis through the Genmoji feature. Additionally, Siri is undergoing a complete overhaul. However, note that Apple Intelligence is not yet active in the beta versions.<br/>
-<br/>
-In addition to the AI features (which will be exclusive to the iPhone 15 Pro models and M-series iPads), ‌iOS 18‌ introduces a redesigned Home Screen that allows for rearranging app icons and widgets with open spaces. It also includes a tint option and new darker colors for Dark Mode.<br/>
-<ul><li><a href="https://www.macrumors.com/how-to/downgrade-from-ios-17-to-ios-17/"><a href="https://www.macrumors.com/how-to/downgrade-from-ios-18-beta-to-ios-17/">How to Downgrade From the iOS 18 Beta to iOS 17</a></a></li></ul><br/>
-Control Center has been revamped, allowing you to pick and choose what you want to feature from the new Controls Gallery. With multiple pages available, you can group related controls and customize their sizes. Additionally, the Flashlight and Camera icons on the Lock Screen can be swapped out, and you can select Control Center options for the ‌iPhone 15 Pro‌ Action Button.<br/>
-<br/>
-Safari now features a summary view of webpages, allowing you to see key information at a glance. The Photos app has been revamped to highlight your best images more effectively. A new Passwords app streamlines access to your saved passwords and logins, and you can now secure any app using Face ID or Touch ID.<br/>
-<br/>
-There are many more new features in ‌iOS 18‌ and ‌iPadOS 18‌ that aren't mentioned here, so for a more in-depth look make sure to check out our <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18 roundup</a> and our <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18 roundup</a>. iOS 18 is expected to get its official public release in the fall.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/install-the-ios-18-public-beta/">How to Install the iOS 18 Public Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/how-to-install-the-ios-18-public-beta.2431480/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16 Pro Again Rumored to Come in New &#039;Rose&#039; Color</title>
-		<link>https://www.macrumors.com/2024/07/16/iphone-16-pro-rose-color-coming/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-pro-again-rumored-to-come-in-new-rose-color.2431477/</comments>
-		<pubDate>Tue, 16 Jul 2024 03:53:07 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/iphone-16-pro-rose-color-coming/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPhone 16 Pro</category>
-		
-
-		<description><![CDATA[Apple's upcoming iPhone 16 Pro and iPhone 16 Pro Max will be available in a new "Rose" color, claims a rumor out of China, corroborating previous claims.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/iPhone-16-Pro-Left-Side-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-928696" /><br/>
-Chinese Weibo-based leaker <a href="https://weibo.com/6315816381/OnJaKmDOi">OvO Baby Sauce OvO</a>, a relatively new source of supply chain leaks, said on Tuesday that the new color code for the iPhone 16 Pro models is simply "Rose," not the previous "Rose Gold" color that Apple first offered back in 2015 for the iPhone 6S. <br/>
-<br/>
-According to <a href="https://www.macrumors.com/2024/05/19/iphone-16-lineup-to-come-in-these-two-new-colors/">Apple analyst Ming-Chi Kuo</a>, the iPhone 16 Pro and ‌iPhone 16 Pro‌ Max are expected to be available in black, white or silver, gray or "Natural Titanium," and rose. Kuo's prediction mirrored an <a href="https://x.com/VNchocoTaco/status/1772522408144191732?s=20">earlier rumor</a> from the same Weibo source, claiming that the existing Blue Titanium color will be dropped from the ‌‌iPhone 16 Pro‌‌ lineup in favor of a new "rose" titanium color.<br/>
-<br/>
-Meanwhile, Kuo believes the ‌iPhone 16‌ and ‌iPhone 16‌ Plus will apparently be offered in black, green, pink, blue, and white. The iPhone 15 and ‌iPhone 15‌ Plus are available in black, green, pink, blue, and yellow. This means that white will replace yellow, with the colors remaining the same.<br/>
-<ul><li><a href="https://www.macrumors.com/2024/07/15/iphone-16-series-all-the-latest-rumors/">iPhone 16 Series Is Just Two Months Away: Everything We Know</a></li></ul><br/>
-Kuo mentioned that Apple might rename some of the existing colors, similar to how "White" on the iPhone 12 was changed to "Starlight" on the iPhone 13. Even if the color names remain the same, the actual tone and appearance might still differ. The ‌iPhone 16‌ lineup is anticipated to be announced in the fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/iphone-16-pro-rose-color-coming/">iPhone 16 Pro Again Rumored to Come in New &#039;Rose&#039; Color</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-pro-again-rumored-to-come-in-new-rose-color.2431477/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Next Year&#039;s iPhone 17 Unlikely to Feature TSMC&#039;s First 2nm Chip</title>
-		<link>https://www.macrumors.com/2024/07/16/iphone-17-unlikely-to-get-2nm-chip/</link>
-		<comments>https://forums.macrumors.com/threads/next-years-iphone-17-unlikely-to-feature-tsmcs-first-2nm-chip.2431471/</comments>
-		<pubDate>Tue, 16 Jul 2024 02:13:35 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/16/iphone-17-unlikely-to-get-2nm-chip/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPhone 17</category>
-		<category>Phone Chip Expert</category>
-		<category>2nm</category>
-		
-
-		<description><![CDATA[Reports that next year's iPhone 17 will adopt TSMC's next-generation 2nm process are "fake news," a reputable source of accurate predictions about Apple's plans claimed on Monday.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-945652" /><br/>
-According to a post by Weibo user "Phone Chip Expert," the 2nm process won't go into mass production until the end of 2025. The account holder, who claims to have 25 years of experience in the integrated circuit industry, including work on Intel's Pentium processors, suggests the iPhone 17 will therefore still use TSMC's 3nm process. <br/>
-<br/>
-"The 2nm process won't be mass-produced until the end of 2025, so the iPhone 17 definitely can't catch up," read a machine translation of Phone Chip Expert's <a href="https://weibo.com/1833340431/OnJ3ojmDk">post</a>. "It won't be until the iPhone 18 that a 2nm processor will be used." <br/>
-<br/>
-"Anyone who has seen the capacity planning chart will know that this is yet another report from an unscrupulous media outlet," added the user, commenting on an article by <em><a href="https://new.qq.com/rain/a/20240715A05A7900">Zhitong Finance</a></em> that repeated claims recently made by Taiwanese newspapers based on "industry sources." <br/>
-<br/>
-TSMC plans to begin volume production of 2nm chips next year, but multiple reports out of Taiwan suggested that the company had been accelerating the process ahead of schedule to secure a stable yield for mass production. Apple is TSMC's main client, and it is typically the first to get TSMC's new chips. Apple acquired all of TSMC's 3nm chips in 2023 for iPhones, iPads, and Macs, for example.<br/>
-<br/>
-The 2nm fabrication process, also known simply as "N2," is expected to offer a 10 to 15 percent speed improvement at the same power or a 25 to 30 percent power reduction at the same speed compared to chips made with the supplier's ‌3nm‌ technology. The A17 Pro chip in Apple's iPhone 15 Pro models is manufactured with TSMC's first-generation 3nm process, known as N3B. Apple's M4 chip, which recently debuted in the new iPad Pro, uses an enhanced version of this ‌3nm‌ technology.<br/>
-<br/>
-Code in iOS 18 has <a href="https://www.macrumors.com/2024/07/02/iphone-16-models-a18-chip/">confirmed</a> that all four iPhone 16 models are set to use Apple's next-generation A18 chip, based on TSMC's N3E process. N3E is TSMC's second-generation 3nm chip fabrication process, which is less expensive and has improved yield compared to TSMC's first-generation 3nm process. <br/>
-<br/>
-The Weibo user contesting claims that 2nm will be ready for the iPhone 17 has a track record of accurate predictions. Phone Chip Expert was the first to reveal that the <a href="https://www.macrumors.com/2015/09/28/iphone-7-already-rumored-to-be-waterproof/">iPhone 7 would be water-resistant</a> and that the standard iPhone 14 models would continue to use the A15 Bionic chip, while the more advanced A16 chip would be exclusive to the ‌iPhone 14‌ Pro models. These forecasts were later confirmed by multiple credible sources and were proven correct when the products were released.<br/>
-<ul><li><a href="https://www.macrumors.com/2024/07/08/10-reasons-to-wait-iphone-17/">10 Reasons to Wait for Next Year's iPhone 17</a></li></ul><br/>
-More recently, Phone Chip Expert was the first source of information about Apple <a href="https://www.macrumors.com/2024/04/23/apple-developing-its-own-ai-server-processor/">developing its own AI server processor using TSMC's 3nm process</a>, targeting mass production by the second half of 2025.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-17/">iPhone 17</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/phone-chip-expert/">Phone Chip Expert</a>, <a href="https://www.macrumors.com/guide/2nm/">2nm</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/iphone-17-unlikely-to-get-2nm-chip/">Next Year&#039;s iPhone 17 Unlikely to Feature TSMC&#039;s First 2nm Chip</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/next-years-iphone-17-unlikely-to-feature-tsmcs-first-2nm-chip.2431471/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18 Adds &#039;Recovered&#039; Album in Photos to Restore Lost or Damaged Photos and Videos</title>
-		<link>https://www.macrumors.com/2024/07/15/ios-18-recovered-album-photos/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-adds-recovered-album-in-photos-to-restore-lost-or-damaged-photos-and-videos.2431439/</comments>
-		<pubDate>Mon, 15 Jul 2024 15:26:42 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/15/ios-18-recovered-album-photos/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> include a new <a href="https://www.macrumors.com/guide/photos/">Photos</a> app feature designed to help users recover images and videos that are lost or damaged, providing a way to get missing content back.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/05/icloud-photos.jpg" alt="" width="836" height="470" class="aligncenter size-full wp-image-897381" /><br/>
-There is a "Recovered" album in the Utilities section of &zwnj;Photos&zwnj;, and it shows up if there are pictures or videos on a user's device that are not part of their &zwnj;Photos&zwnj; Library. If you see the Recovered album in your &zwnj;Photos&zwnj; app, tapping into it will provide an option to permanently delete or restore any pictures or video stored in the album.<br/>
-<br/>
-&zwnj;Photos&zwnj; and videos can be lost due to database corruption issues, images taken with a camera app that did not properly get saved to the &zwnj;Photos&zwnj; library, or third-party apps that are provided with access to manage a Photo Library. Here's how to recover a lost image or video:<br/>
-<ol><br/>
- 	<li>Open the &zwnj;Photos&zwnj; app and tap into Albums.</li><br/>
- 	<li>Scroll down to Utilities, and choose the Recovered album.</li><br/>
- 	<li>Tap on a photo or video in the album, or use Select to select multiple items.</li><br/>
- 	<li>Tap on Permanently Delete or Restore to Library.</li><br/>
-</ol><br/>
-When upgrading to &zwnj;iOS 18&zwnj;, &zwnj;iPadOS 18&zwnj;, or &zwnj;macOS Sequoia&zwnj;, an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, or Mac will automatically scan for photos and videos that are able to be recovered, providing immediate access to any missing content.<br/>
-<br/>
-Note that the Recovered album only shows up in the Utilities section of the &zwnj;Photos&zwnj; app if lost photos or videos are located on a device. If there are none, you will not see the album.<br/>
-<br/>
-With iOS 17.5.1 and iPadOS 17.5.1, there was a fix for an unusual bug related to a database corruption issue. After installing iOS 17.5 and iPadOS 17.5, some users saw long-deleted images reappearing in their Photo Library. Apple later said this was due to a database corruption issue that had caused the photos to reappear even after being deleted.<br/>
-<br/>
-The Recovered album feature in the latest software updates should prevent something like this from happening again, while also giving users access to photos and videos that are in limbo.<br/>
-<br/>
-&zwnj;iOS 18&zwnj;, &zwnj;iPadOS 18&zwnj;, and &zwnj;macOS Sequoia&zwnj; betas are available to developers and public beta testers at this time. The software updates will see a public launch this fall.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/15/ios-18-recovered-album-photos/">iOS 18 Adds &#039;Recovered&#039; Album in Photos to Restore Lost or Damaged Photos and Videos</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-adds-recovered-album-in-photos-to-restore-lost-or-damaged-photos-and-videos.2431439/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases First iOS 18 and iPadOS 18 Public Betas</title>
-		<link>https://www.macrumors.com/2024/07/15/apple-releases-ios-18-public-beta-1/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-first-ios-18-and-ipados-18-public-betas.2431427/</comments>
-		<pubDate>Mon, 15 Jul 2024 13:16:10 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/15/apple-releases-ios-18-public-beta-1/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple today provided the first betas of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a> to public beta testers, bringing the new software to the general public for the first time since the Worldwide Developers Conference in June. Apple has seeded three developer betas so far, and the first public beta includes the same content that's in the third developer beta.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/PixQ3st8R7I" title="iOS 18 Public Beta Out Now! (So Many NEW Features)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-Public beta testers who have <a href="https://beta.apple.com/sp/betaprogram/">signed up for Apple's beta testing program</a> can download the &zwnj;iOS 18&zwnj; and &zwnj;iPadOS 18&zwnj; updates by opening up the Settings app, going to General, tapping into the Software Update section and selecting the &zwnj;iOS 18&zwnj; Public Beta option.<br/>
-<br/>
-Note that betas can have bugs, battery issues, and other complications, so it is wise to install the software on a secondary device or make a backup in case you need to downgrade back to <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>.<br/>
-<br/>
-&zwnj;iOS 18&zwnj; introduces Apple Intelligence, which are AI features deeply integrated into the operating system. Not all functionality is available at this time, but it brings Writing Tools for rewriting, polishing, proofreading, and summarizing text across apps, and you can generate custom images with Image Playground. There are custom emoji available through the Genmoji feature, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> is getting entirely overhauled. Note that Apple Intelligence isn't yet live in the betas. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/ipaos-18-image-playground.jpg" alt="" width="2150" height="1210" class="aligncenter size-full wp-image-957173" /><br/>
-Along with the AI features (which will be limited to the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models and M-series iPads), &zwnj;iOS 18&zwnj; brings a redesigned <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> with the option to rearrange app icons and widgets with open spaces, plus there's a tint option and new darker colors for <a href="https://www.macrumors.com/guide/ios-dark-mode/">Dark Mode</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/iOS-18-Home-Screen-Feature-1.5.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-957459" /><br/>
-Control Center has been revamped and you can pick and choose what you want to have front and center from the new Controls Gallery. There are multiple pages so you can group related controls, and you can customize sizes. As part of this update, the Flashlight and Camera icons on the Lock Screen can be swapped out, and you can also choose Control Center options for the &zwnj;iPhone 15 Pro&zwnj; Action Button.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/control-center-ios-18.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954460" /><br/>
-The Messages app supports scheduling texts, you can use any emoji for the Tapback feature, and you can send messages via satellite. There are text effects you can use for any word, phrase, or emoji, plus formatting like bold and italic is an option. For texts with Android users, Apple now supports <a href="https://www.macrumors.com/guide/rcs/">RCS</a>, which basically means you won't run into issues with sending images and files, plus you can see typing indicators and read receipts and send texts over Wi-Fi.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iMessage-Send-Later-iOS-18.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-955789" /><br/>
-Safari is able to summarize webpages and show you important info at a glance, the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app has been overhauled to focus more on surfacing your best photos. A dedicated Passwords app makes it easier to get to your saved passwords and logins, and you can now lock any app with <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/ios-18-safari-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957055" /><br/>
-There are a ton of new features in &zwnj;iOS 18&zwnj; and &zwnj;iPadOS 18&zwnj; that aren't mentioned here, so for a more in-depth look make sure to check out our <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18 roundup</a> and our <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/15/apple-releases-ios-18-public-beta-1/">Apple Releases First iOS 18 and iPadOS 18 Public Betas</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-first-ios-18-and-ipados-18-public-betas.2431427/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases First macOS Sequoia Public Beta With iPhone Mirroring and More</title>
-		<link>https://www.macrumors.com/2024/07/15/apple-releases-macos-sequoia-public-beta/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-first-macos-sequoia-public-beta-with-iphone-mirroring-and-more.2431426/</comments>
-		<pubDate>Mon, 15 Jul 2024 13:15:49 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/15/apple-releases-macos-sequoia-public-beta/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sequoia</category>
-		
-
-		<description><![CDATA[Apple today released the first beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> update to its public beta testing group, giving the general public a chance to try out the new operating system's features ahead of its fall launch. The first public beta includes the same content as the third developer beta.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/macos-sequoia-iphone-mirroring.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-956750" /><br/>
-Public beta testers can download &zwnj;macOS Sequoia&zwnj; from the Software Update section of the System Settings app after <a href="https://beta.apple.com/sp/betaprogram/">signing up on Apple's beta testing website</a> and opting into the public beta under the Beta Updates section.<br/>
-<br/>
-&zwnj;macOS Sequoia&zwnj;'s biggest feature is <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Mirroring, which is designed to let you control your &zwnj;iPhone&zwnj; from your Mac using your keyboard and mouse. You can see notifications and use your &zwnj;iPhone&zwnj; apps even when your &zwnj;iPhone&zwnj; is tucked away and locked, and later this year, you'll be able to use the feature to drag and drop apps from your Mac to your &zwnj;iPhone&zwnj; and vice versa.<br/>
-<br/>
-Window tiling has been improved to make it easier to get multiple windows on your Mac in a way that works for you, Safari can summarize websites and show you highlights, and the Messages app supports scheduling messages and using the Tapback feature with any emoji.<br/>
-<br/>
-There's a new Passwords app for managing your passwords, logins, and passkeys, the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app has a new design, the Notes app supports audio transcription and summarization, and you can also type in any equation and get it solved automatically.<br/>
-<br/>
-&zwnj;macOS Sequoia&zwnj; supports all of the new Apple Intelligence features that are also coming to <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, offering all kinds of quality of life improvements. Writing tools help you proofread and polish your writing across apps, you can create unique images with Image Playground, and make up your own emoji with Genmoji. &zwnj;Photos&zwnj; includes a Clean Up tool for removing unwanted images, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> will use AI for better language understanding and contextual relevance. &zwnj;Siri&zwnj; will even be able to consult ChatGPT for complicated queries.<br/>
-<br/>
-There are a long list of additional features coming to &zwnj;macOS Sequoia&zwnj;, with <a href="https://www.macrumors.com/roundup/macos-sequoia/">more information available in our dedicated roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/15/apple-releases-macos-sequoia-public-beta/">Apple Releases First macOS Sequoia Public Beta With iPhone Mirroring and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-first-macos-sequoia-public-beta-with-iphone-mirroring-and-more.2431426/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases First watchOS 11 Public Beta With Vitals App and More</title>
-		<link>https://www.macrumors.com/2024/07/15/watchos-11-public-beta/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-first-watchos-11-public-beta-with-vitals-app-and-more.2431428/</comments>
-		<pubDate>Mon, 15 Jul 2024 13:14:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/15/watchos-11-public-beta/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[Apple today released the first beta of <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a> to public beta testers, allowing non-developers to give the new features a try ahead of when the software launches this fall.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/watchos-11-vitals.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957264" /><br/>
-&zwnj;watchOS 11&zwnj; can be downloaded after signing up on <a href="https://beta.apple.com/sp/betaprogram/">Apple's beta software website</a> and upgrading your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> to the public beta version of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>. You'll need to open up the Watch app on &zwnj;iPhone&zwnj;, go to General, select Software Update, and choose the &zwnj;watchOS 11&zwnj; Public Beta option under Beta Updates.<br/>
-<br/>
-With &zwnj;watchOS 11&zwnj;, Apple added a new Vitals app that can be used to give you a daily overview of your health metrics, letting you know if anything is out of the ordinary. It compares information collected at night like heart rate, sleep, respiratory rate, and oxygen level to your levels over the previous weeks.<br/>
-<br/>
-Smart Stack has new widgets like Translate and Shazam, plus it's smarter because it is able to suggest widgets based on time, date, location, and daily routine. Interactive widgets let you access app features from the Smart Stack, and it also supports Live Activities.<br/>
-<br/>
-Training Load is a new way of measuring how the intensity and duration of workouts impact the body over time, with Apple providing an effort level for cardio-based workouts to help you know when to rest and when to push harder.<br/>
-<br/>
-You can now customize your Activity Ring requirements for different days of the week, and Apple added support for rest days. Taking a break from activity will no longer ruin a streak because you can pause for a day, a week, a month, or more.<br/>
-<br/>
-Other new features include more workout types, Check In for Messages, a revamped <a href="https://www.macrumors.com/guide/photos/">Photos</a> watch face, improvements to Double Tap, and more, with additional information <a href="https://www.macrumors.com/roundup/watchos-11/">available in our watchOS 11 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>, <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/15/watchos-11-public-beta/">Apple Releases First watchOS 11 Public Beta With Vitals App and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-first-watchos-11-public-beta-with-vitals-app-and-more.2431428/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds First tvOS 18 Public Beta</title>
-		<link>https://www.macrumors.com/2024/07/15/apple-seeds-first-tvos-18-public-beta/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-first-tvos-18-public-beta.2431430/</comments>
-		<pubDate>Mon, 15 Jul 2024 13:13:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/15/apple-seeds-first-tvos-18-public-beta/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV</category>
-		
-
-		<description><![CDATA[Apple today released the first public beta of tvOS 18, giving the general public a chance to try out the new features ahead of the software's fall launch.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-796083" src="https://images.macrumors.com/article-new/2021/04/apple-tv-4k-design-triad.jpg" alt="" width="2500" height="1406" /><br/>
-Public beta testers can download the tvOS 18 beta by opening up the Settings app on <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, choosing the Software Updates section under System, and then toggling on the Get Public Beta Updates option. Signing up on <a href="https://beta.apple.com/sp/betaprogram/">Apple's public beta website</a> is required to get the option to show up.<br/>
-<br/>
-tvOS 18 isn't as feature rich as some of Apple's other updates, but it brings a new InSight feature to the &zwnj;Apple TV&zwnj; app. InSight is similar to Amazon X-Ray, providing real-time information about actors, music, and more in <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a> shows and movies.<br/>
-<br/>
-The Enhanced Dialogue feature uses computational audio and machine learning to better boost vocal clarity over background noise and music, plus it works with built-in TV speakers, AirPods, and other Bluetooth devices. Subtitles have been tweaked to show up automatically when relevant, such as when the TV is muted.<br/>
-<br/>
-Apple added new screen savers and made it easier to swap between them, plus there's 21:9 aspect ratio support for projectors and an option for Live Captions during <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls.<br/>
-<br/>
-tvOS 18 is limited to public beta testers and developers right now, but it will see a public launch this fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/15/apple-seeds-first-tvos-18-public-beta/">Apple Seeds First tvOS 18 Public Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-tvos-18-public-beta.2431430/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Revised iOS 18 Beta 3 Reverts Emoji Changes</title>
-		<link>https://www.macrumors.com/2024/07/15/ios-18-beta-3-emoji-changes-reverted/</link>
-		<comments>https://forums.macrumors.com/threads/revised-ios-18-beta-3-reverts-emoji-changes.2431423/</comments>
-		<pubDate>Mon, 15 Jul 2024 12:33:57 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/15/ios-18-beta-3-emoji-changes-reverted/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[The revised third beta of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> that Apple released today eliminates the emoji and sticker changes that Apple introduced with the initial third beta release.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/ios-18-emoji-stickers-memoji.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957882" /><br/>
-In the prior beta, stickers behaved like emoji and could be added right inline with your messages, rather than only being available as large, stand alone message additions or drag and drop add-ons to texts. You could type a message and add a little sticker or Memoji to the end of it rather than an emoji, but Apple has pulled back this change, along with the interface changes that were introduced.<br/>
-<br/>
-Emoji, Memoji, and stickers were all combined, and could be navigated using small icons at the bottom of the emoji picker, plus emoji were displayed larger than before, with fewer on a single screen. Apple added dedicated sections for stickers and Memoji rather than showing stickers only in the Recents section, and both stickers and Memoji could be created from the emoji window. It was a design that made both Memoji and stickers quicker to access and use.<br/>
-<br/>
-With the revised version of beta 3, the emoji picker has been reverted to the beta 2 design. It's not clear why Apple made the change, but it's likely temporary. Sometimes Apple adds features in the beta and then pulls them to implement further refinements before reintroducing them at a later time, so we could see the emoji picker changes re-added in a later beta.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/15/ios-18-beta-3-emoji-changes-reverted/">Revised iOS 18 Beta 3 Reverts Emoji Changes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/revised-ios-18-beta-3-reverts-emoji-changes.2431423/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Buy&#039;s Black Friday in July Sale Takes Up to &#36;700 Off M3 MacBook Pro for Members</title>
-		<link>https://www.macrumors.com/2024/07/15/best-buys-m3-macbook-pro-discounts/</link>
-		<comments>https://forums.macrumors.com/threads/best-buys-black-friday-in-july-sale-takes-up-to-700-off-m3-macbook-pro-for-members.2431410/</comments>
-		<pubDate>Mon, 15 Jul 2024 11:05:45 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/15/best-buys-m3-macbook-pro-discounts/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Best Buy's "<a href="https://howl.me/cmFVZNJq4IC">Black Friday in July</a>" sale is in full swing today, and in addition to a few <a href="https://www.macrumors.com/2024/07/15/best-buy-low-prices-m1-ipad-air/">iPad Air discounts</a> we shared earlier, there are also some steep markdowns on the M3 MacBook Pro. You will need a <a href="https://howl.me/cmFVLw9QMH4">My Best Buy Plus or Total membership</a> in order to get some of these deals.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/01/macbook-pro-january.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-931746" /><em><small>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Best Buy's deals include all-time low prices on the 14-inch and 16-inch models, and the best discounts will be found on the larger screen computers. The 16-inch M3 MacBook Pro is currently discounted by &#36;500 for all customers on Best Buy, but if you have a My Best Buy Plus/Total membership, you can <a href="https://howl.me/cmFVSBa773D">add up to an extra &#36;200 off select models</a>.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.me/cmFVQGyVHqc"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO &#36;700 OFF</div>M3 MacBook Pro at Best Buy</div></a></div><br/>
-<br/>
-You can also find &#36;300 off 14-inch models on Best Buy this week, and these deals do not require a My Best Buy Plus or Total membership. We've collected all of the M3 MacBook Pro discounts in the list below, and remember that the Black Friday in July sale ends Wednesday, so be sure to place any orders before that day.<br/>
-<br/>
-<h2>14-inch MacBook Pro</h2><br/>
-<ul><li><a href="https://howl.me/cmFS5KrLaL8">M3 Pro 512GB</a> - &#36;1,699.00 (&#36;300 off)</li><br/>
-<li><a href="https://howl.me/cmFS546rWne">M3 Pro 1TB</a> - &#36;2,099.00 (&#36;300 off)</li><br/>
-<li><a href="https://howl.me/cmFS6pLDH28">M3 Max 1TB</a> - &#36;2,899.00 (&#36;300 off)</li></ul><br/>
-<h2>16-inch MacBook Pro</h2><br/>
-<ul><li><a href="https://howl.me/cmFVRzZBpRY">M3 Pro, 18GB RAM, 512GB</a> - &#36;1,899.00 for members (&#36;600 off)</li><br/>
-<li><a href="https://howl.me/cmFVR8jvMLx">M3 Pro, 36GB RAM, 512GB</a> - &#36;2,299.00 for members (&#36;600 off)</li><br/>
-<li><a href="https://howl.me/cmFVSBa773D">M3 Max, 36GB RAM, 1TB</a> - &#36;2,799.00 for members (&#36;700 off)</li><br/>
-<li><a href="https://howl.me/cmFVTandF8t">M3 Max, 48GB RAM, 1TB</a> - &#36;3,299.00 for members (&#36;700 off)</li></ul> Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/15/best-buys-m3-macbook-pro-discounts/">Best Buy&#039;s Black Friday in July Sale Takes Up to &#36;700 Off M3 MacBook Pro for Members</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-buys-black-friday-in-july-sale-takes-up-to-700-off-m3-macbook-pro-for-members.2431410/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>OWC&#039;s 14-Port Thunderbolt Dock for Mac Hits Record Low &#36;99.99 Price (&#36;180 Off)</title>
-		<link>https://www.macrumors.com/2024/07/15/owcs-14-port-thunderbolt-dock/</link>
-		<comments>https://forums.macrumors.com/threads/owcs-14-port-thunderbolt-dock-for-mac-hits-record-low-99-99-price-180-off.2431403/</comments>
-		<pubDate>Mon, 15 Jul 2024 10:31:15 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/15/owcs-14-port-thunderbolt-dock/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[OWC this week has knocked the price of the popular <a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3DK14PSG%2F">14-Port Thunderbolt 3 Dock</a> down to &#36;99.99, from its original price of &#36;279.99. This is a match of the all-time low price on the accessory, which we last tracked way back in April. You'll see this price once you add the accessory to your cart and head to the checkout screen, where an automatic coupon will be applied.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/owc-docks-white-logo.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-944277" /><em><small>Note: MacRumors is an affiliate partner with OWC. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Besides this dock, you'll find a <a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2F">large collection of accessories on sale</a> at this time on OWC, including USB-C hubs, external drives and enclosures, and internal memory upgrade kits for Mac.<br/>
-<br/>
-<div class="center-wrap"><em><strong>Note: You won't see the deal price until checkout.</strong></em></div><br/>
-<div class="center-wrap"><a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3DK14PSG%2F"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;180 OFF</div>OWC 14-Port Thunderbolt 3 Dock for &#36;99.99</div></a></div><br/>
-<br/>
-In regards to the 14-Port Thunderbolt 3 Dock, this accessory features two Thunderbolt 3 ports, five USB Type-A ports, one USB Type-C port, one Mini DisplayPort port, one gigabit Ethernet port, one S/PDIF digital audio output port, and one 3.5mm stereo audio input/output port. There are also two memory card slots for microSD and SD cards.<br/>
-<br/>
-All of the devices listed below are in new condition at OWC, although the retailer does provide various item condition options for anyone who might want to save money by purchasing open box items. Be sure to visit <a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2F">OWC's sale landing page</a> to browse the full sale, which also features deals on cables, Mac accessories, keyboards, and headphones.<br/>
-<br/>
-<h2>Docks and Hubs</h2><br/>
-<ul><li><a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTCDSDRDR%2F">Atlas Dual SD Card Reader</a> - &#36;79.99, down from &#36;89.99</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3MDK5P%2F">Thunderbolt Mini Dock</a> - &#36;109.99, down from &#36;129.99</li><br/>
-<li><a href="https://www.tkqlhce.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB4HUB5P%2F">Thunderbolt Hub</a> - &#36;139.99, down from &#36;149.99</li><br/>
-<li><a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3DK14PSG%2F">14-Port Thunderbolt Dock</a> - &#36;99.99, down from &#36;279.99</li><br/>
-<li><a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB4DKG11P%2F">Thunderbolt Go Dock</a> - &#36;299.99, down from &#36;349.99</li></ul><br/>
-<h2>External Drives and Enclosures</h2><br/>
-<ul><li><a href="https://www.tkqlhce.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FME3NH7T04C%2F">4TB Mercury Elite Pro External Storage</a> - &#36;124.99, down from &#36;199.99</li><br/>
-<li><a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FMED3ER7T08C%2F">8TB Mercury Elite Pro RAID External Storage</a> - &#36;217.76, down from &#36;394.99</li></ul><br/>
-<h2>Memory</h2><br/>
-<ul><li><a href="https://www.anrdoezrs.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2F2666DDR4S32P%2F">32GB Memory Upgrade Kit</a> - &#36;74.74, down from &#36;89.98</li><br/>
-<li><a href="https://www.dpbolvw.net/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2F2666DDR4S64S%2F">64GB Memory Upgrade Kit</a> - &#36;147.74, down from &#36;179.96</li></ul> <br/>
-<h2>Miscellaneous</h2><br/>
-<ul><li><a href="https://www.jdoqocy.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FCBLUSCC2M1%2F">2M USB-C to USB-C Charging Cable</a> - &#36;2.99, down from &#36;14.99</li><br/>
-<li><a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FMatias%2FFK416BT%2F">Matias Wireless Multi-Pairing Keyboard</a> - &#36;49.99, down from &#36;69.00</li></ul> Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/15/owcs-14-port-thunderbolt-dock/">OWC&#039;s 14-Port Thunderbolt Dock for Mac Hits Record Low &#36;99.99 Price (&#36;180 Off)</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/owcs-14-port-thunderbolt-dock-for-mac-hits-record-low-99-99-price-180-off.2431403/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<strong>Update:</strong> This price has expired and the 64GB Wi-Fi iPad is now available for &#36;299.00, a solid second-best price.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/prime-day/">Prime Day</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/16/amazon-prime-day-10th-ipad/">Amazon Prime Day: 10th Gen iPad Drops to Record Low &#36;274.99 Price [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-prime-day-10th-gen-ipad-drops-to-record-low-274-99-price-updated.2431483/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
