@@ -14,12 +14,296 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Fri, 19 Jul 2024 09:01:08 PDT</lastBuildDate>
+	<lastBuildDate>Sat, 20 Jul 2024 03:01:04 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iPhone Mirroring in macOS Sequoia and iOS 18: Everything You Need to Know</title>
+		<link>https://www.macrumors.com/guide/iphone-mirroring/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-mirroring-in-macos-sequoia-and-ios-18-everything-you-need-to-know.2431770/</comments>
+		<pubDate>Fri, 19 Jul 2024 11:27:39 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/iphone-mirroring&#038;post_date=1721424459/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		<category>macOS Sequoia</category>
+		
+
+		<description><![CDATA[Apple is expanding how its cross-platform Continuity features work in 2024, introducing an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Mirroring option in <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> and <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>. As the name suggests, &zwnj;iPhone&zwnj; Mirroring lets you control your &zwnj;iPhone&zwnj; with your Mac by mirroring your &zwnj;iPhone&zwnj;'s display to your Mac's display. You can manage your &zwnj;iPhone&zwnj; from your Mac with &zwnj;iPhone&zwnj; Mirroring, using your mouse, keyboard, and trackpad with &zwnj;iPhone&zwnj; apps, notifications, and more. <br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/fBxHMuDhvd4" title="This is Apple&#39;s BEST New Feature &#x1f92f;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+This guide walks through all of the &zwnj;iPhone&zwnj; Mirroring features and explains how it works.<br/>
+<br/>
+<h2 id="iphone_mirroring_basics">iPhone Mirroring Basics</h2><br/>
+After upgrading to &zwnj;iOS 18&zwnj; and &zwnj;macOS Sequoia&zwnj;, there's a new &zwnj;iPhone&zwnj; Mirroring app in the Dock, and that's how you start an &zwnj;iPhone&zwnj; Mirroring session.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iphone-mirroring-interface.jpg" alt="" width="2000" height="1250" class="aligncenter size-full wp-image-959426" /><br/>
+<ol><br/>
+ <li>From your Mac's Dock, click on the &zwnj;iPhone&zwnj; Mirroring app.</li><br/>
+ <li>Click on Continue at the pop-up informational screen.</li><br/>
+ <li>Select the &zwnj;iPhone&zwnj; that you want to use if you have more than one &zwnj;iPhone&zwnj;.</li><br/>
+ <li>Unlock your &zwnj;iPhone&zwnj; with a passcode to allow the connection.</li><br/>
+ <li>Click on Get Started.</li><br/>
+ <li>Use <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> on the Mac to authenticate (alternatively, enter your password).</li><br/>
+</ol><br/>
+When you start up &zwnj;iPhone&zwnj; Mirroring for the first time, you can opt to have it require authentication with every connection or to allow a connection automatically. If you choose automatic authentication, you will not need to authenticate with &zwnj;Touch ID&zwnj; or a password to use &zwnj;iPhone&zwnj; Mirroring when your Mac is unlocked.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iphone-mirroring-settings.jpg" alt="" width="1221" height="555" class="aligncenter size-full wp-image-959433" /><br/>
+Otherwise, you will need to authenticate on your Mac each time you want to use &zwnj;iPhone&zwnj; Mirroring. Note that an &zwnj;iPhone&zwnj; needs to be locked while an &zwnj;iPhone&zwnj; Mirroring session is in progress, so you can't use your &zwnj;iPhone&zwnj; while it's being mirrored to your Mac.<br/>
+<br/>
+If your &zwnj;iPhone&zwnj; is not locked and you attempt to initiate &zwnj;iPhone&zwnj; Mirroring from your Mac, you will get a warning that the &zwnj;iPhone&zwnj; is in use.<br/>
+<br/>
+There is no option for launching an &zwnj;iPhone&zwnj; Mirroring session from an &zwnj;iPhone&zwnj; -- it needs to be done from a Mac. While the &zwnj;iPhone&zwnj; Mirroring app icon should be in the Dock, if it's not there, you can get to it from the Launchpad or the Applications folder, because it is treated as a standard app.<br/>
+<br/>
+<h2 id="iphone_mirroring_interface">iPhone Mirroring Interface</h2><br/>
+Your full &zwnj;iPhone&zwnj; interface is shown as a dedicated app on the Mac, with your wallpaper and app icons all visible and accessible. You can click in to any of your apps and use it on the Mac just like you would on the &zwnj;iPhone&zwnj;.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iphone-mirroring-mac-2.jpg" alt="" width="2000" height="1250" class="aligncenter size-full wp-image-959427" /><br/>
+You can get to your <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> by clicking on the bottom bar, and swap between pages with the trackpad or with a click and drag gesture using a mouse. There are menu options for getting to the &zwnj;Home Screen&zwnj; and for bringing up the app switching interface, but most control is done within the &zwnj;iPhone&zwnj; Mirroring window.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iphone-mirroring-menu-options.jpg" alt="" width="1440" height="638" class="aligncenter size-full wp-image-959432" /><br/>
+<h2 id="iphone_mirroring_requirements">iPhone Mirroring Requirements</h2><br/>
+To use &zwnj;iPhone&zwnj; Mirroring, you need a Mac that runs &zwnj;macOS Sequoia&zwnj; and that has an Apple silicon chip (<a href="https://www.macrumors.com/guide/m1/">M1</a> or later) or a T2 security chip. Macs with T2 security chips are Intel-based and include the following machines:<br/>
+<ul><br/>
+ <li>2018 and later MacBook Pro</li><br/>
+ <li>2018 and later <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a></li><br/>
+ <li>2020 <a href="https://www.macrumors.com/roundup/imac/">iMac</a></li><br/>
+ <li>&zwnj;iMac&zwnj; Pro</li><br/>
+ <li>2018 <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></li><br/>
+ <li>2019 <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a></li><br/>
+</ul><br/>
+These Macs have Apple silicon chips:<br/>
+<ul><br/>
+ <li>2020 and later &zwnj;Mac mini&zwnj;</li><br/>
+ <li>2020 and later &zwnj;MacBook Air&zwnj;</li><br/>
+ <li>2021 and later &zwnj;iMac&zwnj;</li><br/>
+ <li>2021 and later MacBook Pro (14 and 16 inch)</li><br/>
+ <li>2020 13-inch MacBook Pro</li><br/>
+ <li>2022 and later <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a></li><br/>
+ <li>2023 &zwnj;Mac Pro&zwnj;</li><br/>
+</ul><br/>
+Any &zwnj;iPhone&zwnj; that runs &zwnj;iOS 18&zwnj; works with &zwnj;iPhone&zwnj; Mirroring.<br/>
+<ul><br/>
+ <li>All <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models</li><br/>
+ <li>All <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> models</li><br/>
+ <li>All <a href="https://www.macrumors.com/roundup/iphone-13/">iPhone 13</a> models</li><br/>
+ <li>All &zwnj;iPhone&zwnj; 12 models</li><br/>
+ <li>All &zwnj;iPhone&zwnj; 11 models</li><br/>
+ <li>&zwnj;iPhone&zwnj; XS and XS Max</li><br/>
+ <li>&zwnj;iPhone&zwnj; XR</li><br/>
+ <li><a href="https://www.macrumors.com/roundup/iphone-se/">iPhone SE</a> (2nd and 3rd gen)</li><br/>
+</ul><br/>
+Your &zwnj;iPhone&zwnj; and Mac need to be signed into the same <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a>, and two-factor authentication must be enabled for the &zwnj;iPhone&zwnj; Mirroring feature to work. You will also need to turn on Bluetooth and Wi-Fi, and the two devices will need to be near each other.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iphone-mirroring-app-switcher.jpg" alt="" width="2000" height="1352" class="aligncenter size-full wp-image-959434" /><br/>
+During an &zwnj;iPhone&zwnj; Mirroring session, your Mac and your &zwnj;iPhone&zwnj; need to be close to one another, essentially in the same room.<br/>
+<br/>
+<h2 id="privacy_and_security">Privacy and Security</h2><br/>
+You need to be signed into the same &zwnj;Apple ID&zwnj; on your &zwnj;iPhone&zwnj; and your Mac for &zwnj;iPhone&zwnj; Mirroring to work. While &zwnj;iPhone&zwnj; Mirroring is active, your &zwnj;iPhone&zwnj; does not need to be unlocked. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iphone-in-use-notification.jpg" alt="" width="1000" height="1323" class="aligncenter size-full wp-image-959428" /><br/>
+Your &zwnj;iPhone&zwnj; can remain tucked away in a pocket or a bag while you control it from your Mac, so no one can access it or see what you're doing with it. You do need to have your &zwnj;iPhone&zwnj; close enough to your Mac for there to be a Bluetooth connection, likely for security purposes. <br/>
+<br/>
+<h2 id="using_a_mouse_and_keyboard_with_iphone">Using a Mouse and Keyboard with iPhone</h2><br/>
+Your Mac's keyboard, trackpad, and mouse can be used with your &zwnj;iPhone&zwnj;, which is useful if you need to type something lengthy in an &zwnj;iPhone&zwnj; app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iphone-mirroring-ring-app.jpg" alt="" width="2415" height="1454" class="aligncenter size-full wp-image-959429" /><br/>
+<h2 id="audio_camera_and_microphone">Audio, Camera, and Microphone</h2><br/>
+If you play a video on your &zwnj;iPhone&zwnj; while &zwnj;iPhone&zwnj; Mirroring is enabled, the audio comes through your Mac. You can't turn on the Camera app or use the microphone, though.<br/>
+<br/>
+<h2 id="iphone_notifications_on_mac">iPhone Notifications on Mac</h2><br/>
+With &zwnj;iPhone&zwnj; Mirroring turned on, incoming &zwnj;iPhone&zwnj; notifications show up right alongside your Mac notifications in the Notification Center at the upper right hand corner of the Mac's display.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iphone-mirroring-notifications.jpg" alt="" width="759" height="871" class="aligncenter size-full wp-image-959431" /><br/>
+&zwnj;iPhone&zwnj; notifications are denoted with a small &zwnj;iPhone&zwnj; icon, but they otherwise look like native Mac notifications.<br/>
+<br/>
+You can click on a notification and open up the app on your &zwnj;iPhone&zwnj;, interacting with it directly from the Mac.<br/>
+<br/>
+<h2 id="standby">StandBy</h2><br/>
+While your &zwnj;iPhone&zwnj; is being mirrored to your Mac, it can be on a charger and in StandBy mode, displaying the time and other information.<br/>
+<br/>
+<h2 id="drag_and_drop">Drag and Drop</h2><br/>
+Later this year, Apple plans to add &zwnj;iPhone&zwnj; Mirroring's best feature, file transfers. You will be able to transfer files, photos, and videos from your Mac to your &zwnj;iPhone&zwnj; and vice versa using drag and drop gestures.<br/>
+<br/>
+Apple says that it will work just like dragging files from one Mac app to another.<br/>
+<br/>
+While drag and drop has yet to be implemented, you can sort of work around this by using AirDrop to move photos and files from your &zwnj;iPhone&zwnj; to your Mac, initiating AirDrop from the &zwnj;iPhone&zwnj; without having to unlock it.<br/>
+<br/>
+<h2 id="iphone_mirroring_limitations">iPhone Mirroring Limitations</h2><br/>
+&zwnj;iPhone&zwnj; Mirroring will not work if the Mac is using <a href="https://www.macrumors.com/guide/airplay/">AirPlay</a> to stream music or video content to another device, or if <a href="https://www.macrumors.com/guide/sidecar/">Sidecar</a> is enabled with an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. Continuity Camera cannot be enabled either, so if you're using your &zwnj;iPhone&zwnj; as a webcam for your Mac, you can't use &zwnj;iPhone&zwnj; Mirroring at the same time.<br/>
+<br/>
+Attempting to watch movies and TV shows from some apps like Hulu and Netflix does not work, with the &zwnj;iPhone&zwnj; Mirroring app showing just a blank black screen, likely due to DRM restrictions.<br/>
+<br/>
+There is no option to resize the &zwnj;iPhone&zwnj; Mirroring window, and you can't manually move it into landscape orientation. If an app or a game is displayed in landscape orientation, the window will shift into landscape.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iphone-mirroring-landscape-mode.jpg" alt="" width="1926" height="1083" class="aligncenter size-full wp-image-959435" /><br/>
+You can delete apps when using &zwnj;iPhone&zwnj; Mirroring by going to the Settings app, but apps cannot be deleted from the &zwnj;Home Screen&zwnj;. You also can't rearrange apps because there's no option to get into the &zwnj;Home Screen&zwnj; (or Lock Screen) editing interface.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iphone-mirroring-safari.jpg" alt="" width="2000" height="1250" class="aligncenter size-full wp-image-959436" /><br/>
+Control Center and Notification Center are also inaccessible.<br/>
+<br/>
+<h2 id="read_more">Read More</h2><br/>
+For more on the new features that Apple is adding in &zwnj;iOS 18&zwnj;, <a href="https://www.macrumors.com/roundup/ios-18/">we have a dedicated iOS 18 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a>, <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/iphone-mirroring/">iPhone Mirroring in macOS Sequoia and iOS 18: Everything You Need to Know</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-mirroring-in-macos-sequoia-and-ios-18-everything-you-need-to-know.2431770/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Prepares for 2024 Summer Olympics With Updates to Maps, TV Coverage, Featured Apps and More</title>
+		<link>https://www.macrumors.com/2024/07/19/summer-olympics-apple-maps-update/</link>
+		<comments>https://forums.macrumors.com/threads/apple-prepares-for-2024-summer-olympics-with-updates-to-maps-tv-coverage-featured-apps-and-more.2431769/</comments>
+		<pubDate>Fri, 19 Jul 2024 10:56:49 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/19/summer-olympics-apple-maps-update/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple this week updated the <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> app in Paris in preparation for the 2024 Summer Olympics, which are set to begin on Friday, July 26. All permanent venues, such as the Parc de Princes and Centre Aquatique Olympique, are displayed as custom, hand-built 3D landmarks.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/2024-summer-olympics-maps-update.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-959419" /><br/>
+Iconic sites like Gare de l'Est, Pont d'Iéna, and Place de la Madeleine are also rendered with more detail, and for the first time, the Maps app is displaying pop up locations that include temporary venues, souvenir shops, and public gathering sites. support for pop up locations will help attendees find important places for the summer games.<br/>
+<br/>
+All game locations and ceremony sites have special icons to help visitors find where they need to be, and Apple says that Maps displays all of the latest updates on road closures and advisories due to the games to help users navigate the city. There are curated Maps Guides for restaurants, hotels, and shopping, with dozens of new Guides from Le Bonbon, Le Fooding, Radio France, Madame Figaro, and My Little Paris.<br/>
+<br/>
+Along with the Maps updates, Apple plans to feature stories spotlighting popular events like gymnastics and swimming in the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, and it recommends that people download the <a href="https://apps.apple.com/us/app/paris-2024-olympics/id808794344">official Paris 2024 Olympics app</a> to follow along. Sports-themed mobile games and health and fitness apps will be highlighted as well.<br/>
+<br/>
+Full coverage of Olympic events will be available through the <a href="https://apps.apple.com/us/app/peacock-tv-stream-tv-movies/id1508186374">Peacock</a> and <a href="https://apps.apple.com/us/app/nbc-sports/id542511686">NBC Sports apps</a>, which can be downloaded from the &zwnj;App Store&zwnj;. A daily Olympic recap will be available on Peacock for fans in the U.S., offering customized playlists of highlights from relevant events from the prior day.<br/>
+<br/>
+There is a dedicated NBC Olympics Hub in the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app for quick access to NBC coverage.<br/>
+<br/>
+<a href="https://www.macrumors.com/guide/apple-podcasts/">Apple Podcasts</a> will feature shows and episodes celebrating sports and the power of gathering together in Paris, while <a href="https://www.macrumors.com/guide/apple-news-plus/">Apple News</a> <a href="https://apple.news/TKLrmq8dkSgOQOchItCi2FA">will have curated coverage</a> of the events and the stars of the games along with a <a href="https://apple.news/2024_olympics_event_schedule">schedule of events</a>. <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> also plans to publish a Guide to French Music, which is an in-depth editorial feature of all the musical genres in France. It will go live later this week.<br/>
+<br/>
+The Summer Olympics will begin next Friday with an Opening Ceremony that begins at 1:30 p.m. Eastern Time or 7:30 p.m. Paris time. Soccer games will begin on July 24, with badminton, handball, rowing, volleyball, fencing, field hockey, shooting, diving, and gymnastics set to begin on July 27. Events will continue until August 11.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/19/summer-olympics-apple-maps-update/">Apple Prepares for 2024 Summer Olympics With Updates to Maps, TV Coverage, Featured Apps and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-prepares-for-2024-summer-olympics-with-updates-to-maps-tv-coverage-featured-apps-and-more.2431769/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>The MacRumors Show: Talking Vision Pro and iOS 18 Beta</title>
+		<link>https://www.macrumors.com/2024/07/19/the-macrumors-show-talking-vision-pro/</link>
+		<comments>https://forums.macrumors.com/threads/the-macrumors-show-talking-vision-pro-and-ios-18-beta.2431763/</comments>
+		<pubDate>Fri, 19 Jul 2024 09:59:34 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/19/the-macrumors-show-talking-vision-pro/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Featured</category>
+		<category>Featured (sticky)</category>
+		<category>The MacRumors Show</category>
+		
+
+		<description><![CDATA[On this week's episode of <a href="https://podcasts.apple.com/podcast/revisiting-apple-vision-pro-ios-18-public-beta-impressions/id1602394741?i=1000662756752">The MacRumors Show</a>, we revisit the experience of using <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> and talk through our first impressions of the <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> public beta. <br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/fMftJc2guqw?si=hdalsHnMQdTxrKZe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1">Subscribe to The MacRumors Show YouTube channel</a> for more videos</em></div><br/>
+Apple's Vision Pro headset is <a href="https://www.macrumors.com/2024/07/12/apple-vision-pro-launched-uk-canada-france-germany/">now available</a> in the UK, Canada, France, Germany, Australia, China, Hong Kong, Japan, and Singapore, prompting renewed interest in the spatial computing device. We discuss our thoughts on the best aspects of the Vision Pro, such as immersive video, spatial photos and video, gestures, and UI design, as well as its shortcomings, such as weight and comfort, video passthrough in dark environments, limited content, and general usefulness.<br/>
+<br/>
+Earlier this week, Apple released the <a href="https://www.macrumors.com/2024/07/15/apple-releases-ios-18-public-beta-1/">first public beta of iOS 18</a>, bringing the new software to the general public for the first time since the Worldwide Developers Conference in June. Apple has seeded three developer betas so far, and the first public beta includes the same content that's in the third developer beta. We talk over our thoughts on &zwnj;iOS 18&zwnj;'s new <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> and Control Center customization features, the redesigned <a href="https://www.macrumors.com/guide/photos/">Photos</a> app, and more.<br/>
+<br/>
+Let us know what you think about the experience of using the Vision Pro headset and the &zwnj;iOS 18&zwnj; beta in the comments. <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a> has <a href="https://www.youtube.com/@themacrumorsshow">its own YouTube channel</a>, so make sure you're subscribed to keep up with new episodes and clips:<br/>
+<br/>
+<div class="center-wrap"><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1"><div class="fancybutton">Subscribe to <em>The MacRumors Show</em> YouTube channel!</div></a></div><br/>
+<br/>
+You can also listen to &zwnj;The MacRumors Show&zwnj; on <a href="https://podcasts.apple.com/podcast/id1602394741">Apple Podcasts</a>, <a href="https://open.spotify.com/show/41XOHIA6w8IxAKJZvrnx90">Spotify</a>, <a href="https://overcast.fm/itunes1602394741">Overcast</a>, or your preferred podcasts app. You can also <a href="https://audioboom.com/channels/5096144.rss">copy our RSS feed</a> directly into your podcast player.<br/>
+<br/>
+<div class="center-wrap"><iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/the-macrumors-show/id1602394741?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe></div><br/>
+If you haven't already listened to the <a href="https://www.macrumors.com/2024/07/12/the-macrumors-show-samsung-challenge-to-apple/">previous episode of The MacRumors Show</a>, catch up for our discussion about all of the major new device announcements from <a href="https://www.macrumors.com/2024/07/10/samsung-galaxy-z-fold6-flip6/">Samsung's 2024 Galaxy Unpacked event</a> and how they compare to Apple's offerings.<br/>
+<br/>
+Subscribe to &zwnj;The MacRumors Show&zwnj; for new episodes every week, where we discuss some of the topical news breaking here on <em>MacRumors</em>, often joined by interesting guests such as <a href="https://www.macrumors.com/2024/07/05/the-macrumors-show-luke-miani-talks-apple-watch-x/">Luke Miani</a>, <a href="https://www.macrumors.com/2024/04/12/the-macrumors-show-matthew-cassinelli/">Matthew Cassinelli</a>, <a href="https://www.macrumors.com/2024/02/23/the-macrumors-show-brian-tong-vision-pro/">Brian Tong</a>, <a href="https://www.macrumors.com/2024/02/09/the-macrumors-show-one-week-with-vision-pro/">Quinn Nelson</a>, <a href="https://www.macrumors.com/2023/11/24/the-macrumors-show-kevin-nether-talks-iphone-16/">Kevin Nether</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Jared Nelson</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Eli Hodapp</a>, <a href="https://www.macrumors.com/2023/10/13/the-macrumors-show-former-apple-executive-mike-bell/">Mike Bell</a>, <a href="https://www.macrumors.com/2023/10/06/the-macrumors-show-sara-dietschy-apple-accessories/">Sara Dietschy</a>, <a href="https://www.macrumors.com/2023/09/15/the-macrumors-show-ijustine-talks-iphone-15/">iJustine</a>, <a href="https://www.macrumors.com/2023/08/25/the-macrumors-show-iphone-15-jon-rettinger/">Jon Rettinger</a>, <a href="https://www.macrumors.com/2023/02/10/the-macrumors-show-andru-edwards-iphone-ultra/">Andru Edwards</a>, <a href="https://www.macrumors.com/2023/05/26/the-macrumors-show-arnold-kim/">Arnold Kim</a>, <a href="https://www.macrumors.com/2023/05/19/the-macrumors-show-ben-sullins-apple-car/">Ben Sullins</a>, <a href="https://www.macrumors.com/2023/04/07/the-macrumors-show-marcus-kane-headset-design/">Marcus Kane</a>, <a href="https://www.macrumors.com/2023/03/24/the-macrumors-show-christopher-lawley-talks-ipados/">Christopher Lawley</a>, <a href="https://www.macrumors.com/2023/03/10/the-macrumors-show-frank-mcshan-yellow-iphone-14/">Frank McShan</a>, <a href="https://www.macrumors.com/2023/02/24/the-macrumors-show-david-lewis-talks-apple-audio/">David Lewis</a>, <a href="https://www.macrumors.com/2023/01/27/the-macrumors-show-tyler-stalman-new-macs/">Tyler Stalman</a>, <a href="https://www.macrumors.com/2022/12/23/the-macrumors-show-apple-2022-jon-prosser-sam-kohl/">Jon Prosser</a>, <a href="https://www.macrumors.com/2022/09/02/the-macrumors-show-apple-event-expectations/">Sam Kohl</a>, <a href="https://www.macrumors.com/2022/11/09/the-macrumors-show-john-gruber-talks-macos-ventura/">John Gruber</a>, <a href="https://www.macrumors.com/2022/10/28/the-macrumors-show-ipados-16-ft-federico-viticci/">Federico Viticci</a>, <a href="https://www.macrumors.com/2022/08/26/the-macrumors-show-thomas-frank-talks-productivity/">Thomas Frank</a>, <a href="https://www.macrumors.com/2022/07/21/the-macrumors-show-jonathan-morrison/">Jonathan Morrison</a>, <a href="https://www.macrumors.com/2022/07/12/the-macrumors-show-ross-young/">Ross Young</a>, <a href="https://www.macrumors.com/2022/06/21/the-macrumors-show-ian-zelbo/">Ian Zelbo</a>, and <a href="https://www.macrumors.com/2022/03/25/the-macrumors-show-rene-ritchie-talks-mac-studio/">Rene Ritchie</a>.<br/>
+<br/>
+&zwnj;The MacRumors Show&zwnj; is on X <a href="https://twitter.com/macrumorsshow">@MacRumorsShow</a><a href="https://twitter.com/macrumorsshow"></a>, so be sure to give us a follow to keep up with the podcast. You can also head over to <a href="https://forums.macrumors.com/threads/the-macrumors-show-discussion-thread.2383023/">The MacRumors Show</a> forum thread to engage with us directly. Remember to rate and review the podcast, and let us know what subjects and guests you would like to see in the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/19/the-macrumors-show-talking-vision-pro/">The MacRumors Show: Talking Vision Pro and iOS 18 Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-macrumors-show-talking-vision-pro-and-ios-18-beta.2431763/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Best Apple Deals of the Week: AirPods Pro and Max Get New Low Prices, Plus Big Discounts on iPads and MacBooks</title>
+		<link>https://www.macrumors.com/2024/07/19/best-apple-deals-of-the-week-7-19-24/</link>
+		<comments>https://forums.macrumors.com/threads/best-apple-deals-of-the-week-airpods-pro-and-max-get-new-low-prices-plus-big-discounts-on-ipads-and-macbooks.2431760/</comments>
+		<pubDate>Fri, 19 Jul 2024 09:37:45 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/19/best-apple-deals-of-the-week-7-19-24/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Amazon Prime Day took place earlier this week, and it introduced huge discounts on a wide variety of Apple products, including AirPods Max, MacBook Pro, and iPad Pro. Even though Prime Day has ended, we're still tracking quite a few of these record low prices as we head into the weekend, so if you missed out be sure to check out the deals below before they're gone for good.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/best-apple-deals-hero-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959384" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+<h2>AirPods</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/airpods-max-pro-2-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959389" /><br/>
+<ul><li><strong>What's the deal?</strong> Take up to &#36;154 off AirPods</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1WXVQTN%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/07/18/airpods-still-on-sale/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1WXVQTN%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>AirPods 3 for &#36;119.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;80 OFF</div>AirPods Pro 2 (USB-C) for &#36;168.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08PZHYWJS%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;154 OFF</div>AirPods Max for &#36;394.99</div></a></div><br/>
+<br/>
+As is usual during big discount events, some of the best deals this week could be found on Apple's AirPods, and most of them are still available right now on Amazon. You'll find the AirPods 3, AirPods Pro 2, and AirPods Max all at all-time low prices today on Amazon, and the AirPods 2 at a solid second-best price.<br/>
+<br/>
+<h2>Apple Pencil Pro</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/pencil-pro-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959387" /><br/>
+<ul><li><strong>What's the deal?</strong> Take &#36;19 off Apple Pencil Pro</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J71RM7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/07/18/apple-pencil-pro-to-109/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J71RM7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;19 OFF</div>Apple Pencil Pro for &#36;109.99</div></a></div><br/>
+<br/>
+Amazon has the Apple Pencil Pro for &#36;109.99, down from the regular price of &#36;129.00. This is a new record low price for the accessory, beating the previous sale price by &#36;10. The Apple Pencil 2 is also at an all-time low price of <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K1WWBJK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;79.00</strong></a> right now on Amazon.<br/>
+<br/>
+<h2>M3 MacBook Pro</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/macbook-pro-m3-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959391" /><br/>
+<ul><li><strong>What's the deal?</strong> Take up to &#36;700 off MacBook Pro</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5LN355%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a> and <a href="https://howl.me/cmFS5KrLaL8">Best Buy</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://howl.me/cmFS5KrLaL8"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;300 OFF</div>14-inch M3 Pro MacBook Pro (512GB) for &#36;1,699.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://howl.me/cmFTef4hr6X"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;700 OFF</div>16-inch M3 Max MacBook Pro (1TB) for &#36;2,799.00</div></a></div><br/>
+<br/>
+Best Buy's and Amazon's deals include all-time low prices on the 14-inch and 16-inch M3 MacBook Pro, and the best discounts will be found on the larger screen computers. The 16-inch M3 MacBook Pro is currently discounted by &#36;500 for all customers on Best Buy, but if you have a My Best Buy Plus/Total membership, you can add up to an extra &#36;200 off select models.<br/>
+<br/>
+<h3>14-inch MacBook Pro</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JV268%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 512GB</a> - &#36;1,399.00 (&#36;200 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5LN355%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Pro 512GB</a> - &#36;1,699.00 (&#36;300 off) [<a href="https://howl.me/cmFS5KrLaL8">matched at Best Buy</a>]</li><br/>
+<li><a href="https://howl.me/cmFS546rWne">M3 Pro 1TB</a> - &#36;2,099.00 (&#36;300 off) [<a href="https://howl.me/cmFS546rWne">only at Best Buy</a>]</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JCMQ5%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">M3 Max 1TB</a> - &#36;2,899.00 (&#36;300 off) [<a href="https://howl.me/cmFS6pLDH28">matched at Best Buy</a>]</li></ul><br/>
+<h3>16-inch MacBook Pro</h3><br/>
+<ul><li><a href="https://howl.me/cmFTdxwhum3">M3 Pro, 18GB RAM, 512GB</a> - &#36;1,899.00 (&#36;600 off) [<a href="https://howl.me/cmFTdxwhum3">only at Best Buy for members</a>]</li><br/>
+<li><a href="https://howl.me/cmGLHQWPmNW">M3 Pro, 36GB RAM, 512GB</a> - &#36;2,299.00 (&#36;600 off) [<a href="https://howl.me/cmGLHQWPmNW">only at Best Buy for members</a>]</li><br/>
+<li><a href="https://howl.me/cmFTef4hr6X">M3 Max, 36GB RAM, 1TB</a> - &#36;2,799.00 (&#36;700 off) [<a href="https://howl.me/cmFTef4hr6X">only at Best Buy for members</a>]</li><br/>
+<li><a href="https://howl.me/cmFTeyXwYzw">M3 Max, 48GB RAM, 1TB</a> - &#36;3,299.00 (&#36;700 off) [<a href="https://howl.me/cmFTeyXwYzw">only at Best Buy for members</a>]</li></ul><br/>
+<br/>
+<h2>M2 MacBook Air</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/m2-macbook-air-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959392" /><br/>
+<ul><li><strong>What's the deal?</strong> Take &#36;200 off MacBook Air</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a> and <a href="https://howl.me/cmHz6LU8QC4">Best Buy</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://howl.me/cmHz6LU8QC4"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>13-inch M2 MacBook Air (256GB) for &#36;799.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://howl.me/cmHz8wfGa0G"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>13-inch M2 MacBook Air (512GB) for &#36;999.00</div></a></div><br/>
+<br/>
+Amazon and Best Buy are taking &#36;200 off the previous generation M2 MacBook Air this week, starting at &#36;799.00 for 256GB and rising to &#36;999.00 for 512GB. Both of these are all-time low prices for the 13-inch M2 MacBook Air.<br/>
+<br/>
+<h2>M4 iPad Pro</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ipad-pro-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959393" /><br/>
+<ul><li><strong>What's the deal?</strong> Take up to &#36;385 off the new M4 iPad Pro</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/07/18/apple-pencil-pro-to-109/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;80 OFF</div>11-inch iPad Pro (256GB Wi-Fi) for &#36;919.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J9SMLK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>13-inch iPad Pro (256GB Wi-Fi) for &#36;1,199.00</div></a></div><br/>
+<br/>
+Amazon this week had all-time low prices on a few models of the 11-inch and 13-inch M4 iPad Pro, and most are still available. Prices start at &#36;919.00 for the 256GB Wi-Fi model, and also include multiple cellular tablets. Our original post has the <a href="https://www.macrumors.com/2024/07/18/apple-pencil-pro-to-109/">full list of tablets on sale</a>.<br/>
+<br/>
+<h2>10th Gen iPad</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ipad-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959394" /><br/>
+<ul><li><strong>What's the deal?</strong> Take &#36;50 off iPad</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/07/16/best-prime-day-apple-products/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>iPad (64GB Wi-Fi) for &#36;299.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBNNRT%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>iPad (256GB Wi-Fi) for &#36;449.00</div></a></div><br/>
+<br/>
+Amazon is taking &#36;50 off the Wi-Fi models of the 2022 iPad, starting at &#36;299.00 for 64GB Wi-Fi. You'll also find both cellular devices on sale this weekend.<br/>
+<br/>
+Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/19/best-apple-deals-of-the-week-7-19-24/">Best Apple Deals of the Week: AirPods Pro and Max Get New Low Prices, Plus Big Discounts on iPads and MacBooks</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-airpods-pro-and-max-get-new-low-prices-plus-big-discounts-on-ipads-and-macbooks.2431760/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iPhone SE 4 Rumored to Use Same Rear Chassis as iPhone 16</title>
@@ -150,6 +434,7 @@ Made from a sturdy plastic material, the Bird Buddy comes in either blue or yell
 <img src="https://images.macrumors.com/article-new/2024/07/bird-buddy-components.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-959301" /><br/>
 There are two versions of the Bird Buddy, one with a solar roof for charging the camera and one with a standard plastic roof. If you have a semi-sunny spot for the Bird Buddy, I recommend the solar roof. I have my feeder in a spot that gets several hours of sun per day, and I've never had to take the camera out to charge it. A family member also has the solar model (that I gifted), and it is in a much shadier spot. With the shade cover, the Bird Buddy needs to be charged every month to every other month.<br/>
 <br/>
+<img src="https://images.macrumors.com/article-new/2024/07/bird-buddy-image-examples.jpg" alt="" width="2000" height="880" class="aligncenter size-full wp-image-959442" /><br/>
 Both of these feeders see multiple visits per day, though the one located in the shade that needs charging more often has an almost constant stream of bird visitors. Without a solar roof, Bird Buddy says that the battery lasts for 5 to 15 days, so the solar roof does eliminate the hassle of frequent charging.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/07/bird-buddy-camera.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-959302" /><br/>
@@ -207,7 +492,7 @@ I get between two and four notifications a day, usually a couple visit notificat
 <br/>
 There are separate battery preserving options that change how many postcards you get, so at max, you'll see more recordings. You can also ignore mystery visitors (where a bird can't be identified), or ignore a certain type of bird if you see the same thing over and over again. Notifications can also be paused for a set period of time, so there's a lot of control over what the app is sending.<br/>
 <br/>
-In addition to viewing your own Bird Buddy, you can be invited to receive postcards from other Bird Buddy owners, and you can invite people to see yours. You can invite three people to view your Bird Buddy feed, but with a Pro subscription, you can add 10 additional viewers. You can also choose to join popular bird feeders for a 72-hour period, where you receive postcards from that feeder. Pictures that you get from the Bird Buddy app can be saved to your smartphone, shared with other people, and shared on social media.<br/>
+In addition to viewing your own Bird Buddy, you can be invited to receive postcards from other Bird Buddy owners, and you can invite people to see yours. You can invite three people to view your Bird Buddy feed in total. You can also choose to join popular bird feeders for a 72-hour period, where you receive postcards from that feeder. Pictures that you get from the Bird Buddy app can be saved to your smartphone, shared with other people, and shared on social media.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/07/bird-buddy-snapshots.jpg" alt="" width="2000" height="1317" class="aligncenter size-full wp-image-959311" /><br/>
 Bird Buddy has a "BB TV" feed where you can see videos from all around the world, swiping through them to swap to a new video, sort of like birdie TikTok. It's a fun way to see different birds, and to get a look at what kinds of birds might be in your own area that you can attract. You can save postcards, and tap into the Collection section of the app to see your images.<br/>
@@ -215,7 +500,7 @@ Bird Buddy has a "BB TV" feed where you can see videos from all around the world
 Viewing an image in the Collection provides information on that bird species, such as their favorite foods, where they're found, fun facts, personality traits, and lifespan. There are even recordings of their songs and calls.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/07/bird-buddy-collection.jpg" alt="" width="2000" height="1434" class="aligncenter size-full wp-image-959315" /><br/>
-You don't need a subscription to use the Bird Buddy app, but there are some "Pro" features. I bought a Pro subscription, but I'm not sure if it's something that I'll keep using.<br/>
+You do not need a subscription to use the Bird Buddy app, and viewing pictures of your own visits and birds from around the world is entirely free. There are, however, some "Pro" app features that are available as an upgrade. I bought a Pro subscription, but I'm not sure if it's something that I'll keep using.<br/>
 <br/>
 Pro lets you invite more people to your own feeder, view more remote feeders, ignore select bird species (possibly one of the most useful options), see higher-resolution video recordings, and get more postcards with frenzy mode. There are also new AI options that are still in the early stages of development. Bird Buddy can alert you to sick birds and hide their images, but since turning it on, it's been telling me every bird with a messy food beak is ill, which is inaccurate. I ultimately had to turn it off.<br/>
 <br/>
@@ -302,7 +587,6 @@ So far, Apple has not established an AI deal for Chinese consumers, and Apple In
 		<guid isPermaLink="false">https://www.macrumors.com/2024/07/18/missed-amazon-prime-day-2/</guid>
 		<dc:creator>Mitchel Broussard</dc:creator>
 		<category>Deals</category>
-		<category>Featured</category>
 		
 
 		<description><![CDATA[Now that Amazon Prime Day has ended, many of the week's best deals have expired. However, today we are still tracking a few Apple products that remain at their best-ever prices even after the end of Prime Day, including iPads, MacBooks, AirTags, and a few Jackery accessories.<br/>
@@ -732,113 +1016,6 @@ The FBI <a href="https://www.macrumors.com/2016/04/12/iphone-5c-flaw-fbi-profess
 Apple continually introduces improvements to the security of its operating systems in order to keep ahead of companies like Cellebrite that are always searching for flaws and vulnerabilities to exploit in order to access the data on locked iOS devices.<br/>
 <br/>
 For example, in October 2018 Apple <a href="https://www.macrumors.com/2018/10/24/graykey-iphone-unlocking-box-disabled-by-ios-12/">successfully thwarted</a> the "GrayKey" ‌iPhone‌ passcode hack, sold by Atlanta-based company Grayshift, which had also been in use by U.S. law enforcement.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/security/">Security</a>, <a href="https://www.macrumors.com/guide/cellebrite/">Cellebrite</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/18/cellebrite-unable-to-unlock-iphones-on-ios-17-4/">Cellebrite Unable to Unlock iPhones on iOS 17.4 or Later, Leak Reveals</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/cellebrite-unable-to-unlock-iphones-on-ios-17-4-or-later-leak-reveals.2431651/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Intelligence Not Trained on YouTube Content, Says Apple</title>
-		<link>https://www.macrumors.com/2024/07/18/apple-intelligence-not-trained-on-youtube/</link>
-		<comments>https://forums.macrumors.com/threads/apple-intelligence-not-trained-on-youtube-content-says-apple.2431646/</comments>
-		<pubDate>Thu, 18 Jul 2024 03:00:21 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/18/apple-intelligence-not-trained-on-youtube/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple Intelligence</category>
-		
-
-		<description><![CDATA[Apple on Thursday addressed concerns about its use of AI training data, following an investigation that revealed Apple, along with other major tech companies, had used YouTube subtitles to train their artificial intelligence models.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Apple-Intelligence-General-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-956491" /><br/>
-The investigation by <em><a href="https://www.wired.com/story/youtube-training-data-apple-nvidia-anthropic/">Wired</a></em> earlier this week reported that over 170,000 videos from popular content creators were part of a dataset used to train AI models. Apple specifically used this dataset in the development of its open-source OpenELM models, which were <a href="https://www.macrumors.com/2024/04/24/apple-ai-open-source-models/">made public in April</a>.<br/>
-<br/>
-However, Apple has now confirmed to <em><a href="https://9to5mac.com/2024/07/17/apple-intelligence-openelm-training-youtube/">9to5Mac</a></em> that OpenELM does not power any of its AI or machine learning features, including the company's Apple Intelligence system. Apple clarified that OpenELM was created solely for research purposes, with the aim of advancing open-source large language model development.<br/>
-<br/>
-On releasing OpenELM on the <a href="https://huggingface.co/apple/OpenELM">Hugging Face Hub</a>, a community for sharing AI code, Apple researchers described it as a "state-of-the-art open language model" that had been designed to "empower and enrich the open research community." The model is also available through Apple's <a href="https://machinelearning.apple.com">Machine Learning Research website</a>. Apple has stated that it has no plans to develop new versions of the OpenELM model.<br/>
-<br/>
-The company emphasized that since OpenELM is not integrated into Apple Intelligence, the "YouTube Subtitles" dataset is not being used to power any of its commercial AI features. Apple reiterated its previous statement that Apple Intelligence models are trained on "licensed data, including data selected to enhance specific features, as well as publicly available data collected by our web-crawler."<br/>
-<br/>
-The <em>Wired</em> report detailed how companies including Apple, Anthropic, and NVIDIA had used the "YouTube Subtitles" dataset for AI model training. This dataset is part of a larger collection known as "The Pile," which is compiled by the non-profit organization EleutherAI.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/18/apple-intelligence-not-trained-on-youtube/">Apple Intelligence Not Trained on YouTube Content, Says Apple</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-intelligence-not-trained-on-youtube-content-says-apple.2431646/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases Safari Technology Preview 199 With Bug Fixes and Performance Improvements</title>
-		<link>https://www.macrumors.com/2024/07/17/apple-releases-safari-technology-preview-199/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-199-with-bug-fixes-and-performance-improvements.2431630/</comments>
-		<pubDate>Wed, 17 Jul 2024 16:40:22 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/17/apple-releases-safari-technology-preview-199/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Blurb</category>
-		<category>Safari Technology Preview</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser Apple <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed the &zwnj;Safari Technology Preview&zwnj; to test features that may be introduced into future release versions of Safari.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-785724" src="https://images.macrumors.com/article-new/2021/02/Safari-Technology-Preview-Feature.jpg" alt="" width="2368" height="1332" /><br/>
-&zwnj;Safari Technology Preview&zwnj; 199 includes fixes and updates for <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a>, CSS, Editing, JavaScript, Media, Rendering, and WebRTC.<br/>
-<br/>
-The current &zwnj;Safari Technology Preview&zwnj; release is compatible with machines <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> and the <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> beta, the newest version of macOS that Apple is beta testing.<br/>
-<br/>
-The &zwnj;Safari Technology Preview&zwnj; update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has <a href="https://developer.apple.com/safari/download/">downloaded the browser</a>. Full release notes for the update are available <a href="https://developer.apple.com/safari/technology-preview/release-notes/">on the Safari Technology Preview website</a>.<br/>
-<br/>
-Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback from developers and users on its browser development process. &zwnj;Safari Technology Preview&zwnj; can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/17/apple-releases-safari-technology-preview-199/">Apple Releases Safari Technology Preview 199 With Bug Fixes and Performance Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-199-with-bug-fixes-and-performance-improvements.2431630/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>TinyPod Turns Your Apple Watch Into an iPod</title>
-		<link>https://www.macrumors.com/2024/07/17/tinypod-apple-watch/</link>
-		<comments>https://forums.macrumors.com/threads/tinypod-turns-your-apple-watch-into-an-ipod.2431625/</comments>
-		<pubDate>Wed, 17 Jul 2024 15:18:32 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/17/tinypod-apple-watch/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[If you have an old Apple Watch and you're not sure what to do with it, a new product called <a href="https://thetinypod.com">TinyPod</a> might be the answer. Priced at &#36;79, the TinyPod is a silicone case with a built-in scroll wheel that houses the Apple Watch chassis.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/tinypod-apple-watch.jpg" alt="" width="2048" height="1151" class="aligncenter size-full wp-image-959183" /><br/>
-When an Apple Watch is placed inside the TinyPod, the click wheel on the case is able to be used to scroll through the Apple Watch interface. The feature works through "carefully mechanized components" that make direct contact with the Digital Crown on Apple Watch.<br/>
-<br/>
-The TinyPod website suggests that a cellular version of the Apple Watch could be placed inside the TinyPod and used as a miniature phone, without the need to carry an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. The case leaves the back of the Apple Watch exposed, but it is worth noting that actually using an Apple Watch this way would be frustrating because it uses skin contact for authentication.<br/>
-<br/>
-If the TinyPod were tucked away in a pocket, the Apple Watch would need to be unlocked with a passcode every time it was used, since there is no <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or Touch Id. The alternative would be leaving the watch unlocked without a passcode, but that's not particularly secure.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Say hello to tinyPod! Available now at <a href="https://t.co/v0B49YxW5g">https://t.co/v0B49YxW5g</a> <a href="https://t.co/6LpGytwoQ1">pic.twitter.com/6LpGytwoQ1</a></p>&mdash;  (@thetinypod) <a href="https://twitter.com/thetinypod/status/1813589903722311784?ref_src=twsrc%5Etfw">July 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-Using TinyPod requires turning off wrist detection, which is the feature that keeps the Apple Watch unlocked with skin contact. TinyPod positions this as a bonus that allows for longer multi-day battery life, but at the same time highlights <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a> and Name Drop, features that would require authentication via passcode. With the back of the Apple Watch exposed, charging can be done with a standard Apple Watch charging puck.<br/>
-<br/>
-TinyPod is available in 40/41mm, 44/45mm, and 49mm sizes to fit all Apple Watch models. It is compatible with the Series 4 and later, as well as the <a href="https://www.macrumors.com/roundup/apple-watch-se/">Apple Watch SE</a> and Apple Watch Ultra.<br/>
-<br/>
-TinyPod's creators introduced it earlier this year, but the device is now available for purchase. It can be <a href="https://thetinypod.com/#buy">ordered from the TinyPod website</a> for &#36;80, with a lite model that does not feature a click wheel available for &#36;30.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/17/tinypod-apple-watch/">TinyPod Turns Your Apple Watch Into an iPod</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tinypod-turns-your-apple-watch-into-an-ipod.2431625/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Product Managers Discuss Cool New iPadOS 18 Features</title>
-		<link>https://www.macrumors.com/2024/07/17/apple-product-managers-discuss-ipados-18/</link>
-		<comments>https://forums.macrumors.com/threads/apple-product-managers-discuss-cool-new-ipados-18-features.2431616/</comments>
-		<pubDate>Wed, 17 Jul 2024 13:20:28 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/17/apple-product-managers-discuss-ipados-18/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[With <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, Apple added some useful iPad-specific features in the Notes app, including Smart Script and Math Notes. Both of these additions are designed to work with the <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a>, and they're some of the neater new features on Apple's tablets. Apple product manager Ty Jordan and engineering manager Jenny Chen recently did an interview with Chris Lawley to discuss the work that went into the &zwnj;iPadOS 18&zwnj; updates.<br/>
-<br/>
-<div class="center-wrap"><iframe title="Talking to Apple about Smart Script and Math Notes" src="https://www.youtube.com/embed/LiAvrlKoEjk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-Smart Script is one of the ways that Apple is using machine learning in &zwnj;iPadOS 18&zwnj;. It refines handwritten text, making your handwriting look neater without losing the personal flare that makes it <em>your</em> handwriting rather than generic writing. Smart Script learns your handwriting style, which Jordan said makes it as useful as typed text.<br/>
-<blockquote>You'll notice that as soon as you start writing words, it refines your handwriting. You'll notice that it spell checks, so if you make a spelling mistake, it'll be underlined. It can also do some really cool things with reflowing your text, so if you tap and hold your Pencil, you can move words around, and you'll see that it reflows in your paragraph so you can get some more space.<br/>
-<br/>
-You can even paste typed text as your own handwritten text right in the middle of a paragraph, so a lot of things that we take for granted with typed text, you can now do with handwritten text.</blockquote>Smart Script learns continually and while it is designed to work quickly, it will get better over time as you write more, especially for features such as paste as handwriting. Recognition does not persist from note to note, however. Apple wanted the feature to feel personal and not like a font, which is why it refines dynamically with each note. <blockquote>It's very contextual. So, for example, if you were to go to a previous paragraph where you had some band handwriting, we're going to match the handwriting that was refined there and not sort of try to replicate what you've had in other notes.</blockquote><br/>
-As for Math Notes, Jordan said that Apple took the time to "really reimagine" the calculator feature could be designed for the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>'s interface. If you're unfamiliar with the feature, Math Notes on &zwnj;iPad&zwnj; lets you write out equations with the &zwnj;Apple Pencil&zwnj;, with the Notes app solving the equation automatically when an equals sign is added.<br/>
-<blockquote>It sort of works like magic. It combines the natural input of a pencil with the amazing on-device machine learning models that Jenny and her teams work on. You just write math like on a piece of paper and like magic, it just gives you the answer. It's so simple and intuitive.</blockquote><br/>
-Math Notes is able to recognize variables and the numbers associated with them. So if you define variables like price and area in one part of the note, and then write "price x area," Math Notes is able to provide an answer using the numbers specified earlier. Jordan explains:<br/>
-<blockquote>I'll do my best shot and go back to high school. So a variable is just a named value, right? So you probably know a lot of them from school, like X and Y, and you could declare a variable with that [...] but you can do this with any word that you want.<br/>
-<br/>
-I've personally loved using it for natural experiences, where I might declare like drinks equal something and food equals something else, and then I can just say that plus that and divided by the number of people, and I get an answer. So it just creates this very natural way to work with your math.</blockquote><br/>
-Math Notes is intelligent enough to understand the difference between separate variables in a note, so if you have multiple math problems with the same variable like X, it won't get confused. You can have graphs added automatically in Math Notes if an equation can be grafted, which Chen says uses the work that Apple has previously done for the Swift Charts API.<br/>
-<br/>
-If you're interested in more context on the new Notes features in &zwnj;iPadOS 18&zwnj;, the full video is well worth watching. Both Math Notes and Smart Script are available in the &zwnj;iPadOS 18&zwnj; beta, which developers and public beta testers can download. The new features will launch in the fall.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/17/apple-product-managers-discuss-ipados-18/">Apple Product Managers Discuss Cool New iPadOS 18 Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-product-managers-discuss-cool-new-ipados-18-features.2431616/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
