@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 24 Jul 2024 09:01:06 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 25 Jul 2024 03:01:01 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,11 +22,270 @@
 	<generator>https://www.macrumors.com</generator>
 		
 		<item>
+		<title>Auto-Populate iPhone Home Screen With Your Most Used Apps</title>
+		<link>https://www.macrumors.com/how-to/siri-suggested-apps-widget-home-screen/</link>
+		<comments>https://forums.macrumors.com/threads/auto-populate-iphone-home-screen-with-your-most-used-apps.2432201/</comments>
+		<pubDate>Thu, 25 Jul 2024 02:51:30 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/siri-suggested-apps-widget-home-screen&#038;post_date=1721911890/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Do you find yourself frequently scrolling through multiple Home Screen pages on your iPhone to get to the apps you access most often? If so, chances are you've already filled up the first page with some of your favorite apps. But what if you could automatically make all of your most-used apps appear on page one? With the Siri Suggestions widget, you can.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/siri-suggested-apps-iphone-home-screen.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-959800" /><br/>
+The Siri Suggestions widget intelligently recommends apps based on your usage patterns. By populating your Home Screen with multiple instances of this widget, you can ensure that the apps you need most are always just a tap away. Read on to learn how it's done.<br/>
+<ol><br/>
+    <li>With your iPhone unlocked, swipe to a Home Screen page with at least two free rows available.</li><br/>
+    <li>Press and hold the empty space on the Home Screen until the apps start to jiggle.</li><br/>
+    <li>Tap the "<strong>+</strong>" button in the top-left corner of the screen to access the widget gallery.</li><br/>
+    <li>Search for "Siri Suggestions" in the widget gallery or scroll through the list to find it.</li><br/>
+    <li>Tap the Siri Suggestions widget option, then choose the first option showing two rows of apps by tapping <strong>Add Widget</strong>.<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/1siri-suggested-apps-home-screen.jpg" alt="siri suggestions" width="4377" height="2796" class="aligncenter size-full wp-image-959818" /><br/>
+    <li>Drag the widget to a fresh new page containing no other apps.</li><br/>
+    <li>Add another instance of the Siri Suggestions widget by tapping the "+" button in the top-left corner of the screen again, then selecting it in the widget gallery, just like you did for the first one.</li><br/>
+   <li>Add a third Siri Suggestions widget in the same way.<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/siri-suggestions-home-screen-apps.jpg" alt="siri suggestions" width="2898" height="2796" class="aligncenter size-full wp-image-959829" /><br/>
+    <li>Next, tap the row of dots representing your ‌Home Screen‌ pages.</li><br/>
+    <li>In the ‌Home Screen‌ grid that appears, touch and drag the page of widgets you just made and move it so that it's the first Home Screen page (the one you see when you unlock your iPhone). The others will move to make way in response to your drag action.</li><br/>
+<li>Tap <strong>Done</strong> in the top-right corner of the screen when you're happy with the new arrangement, then tap <strong>Done</strong> again to exit jiggle mode.<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/move-home-screen-pages.jpg" alt="Home Screen pages" width="2898" height="2796" class="aligncenter size-full wp-image-959822" /></ol>Don't worry if the widgets first show the same suggested apps as each other – this will correct itself when you swipe away from the page and return to it. That's all there is to it. By following the above steps, you will have quick access to your most-used apps, even if your habits change, ensuring your Home Screen is both dynamic and tailored to your needs.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/siri-suggested-apps-widget-home-screen/">Auto-Populate iPhone Home Screen With Your Most Used Apps</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/auto-populate-iphone-home-screen-with-your-most-used-apps.2432201/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple&#039;s Privacy Team Does Deep Dive Into iOS 18 Privacy Features</title>
+		<link>https://www.macrumors.com/2024/07/24/apple-privacy-team-interview-ios-18/</link>
+		<comments>https://forums.macrumors.com/threads/apples-privacy-team-does-deep-dive-into-ios-18-privacy-features.2432174/</comments>
+		<pubDate>Wed, 24 Jul 2024 16:02:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/apple-privacy-team-interview-ios-18/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple's User Privacy Engineering Manager Katie Skinner and Privacy Product Marketing Lead Sandy Parakilas recently sat down with YouTuber Andru Edwards for a wide-ranging discussion on Apple's privacy policies.<br/>
+<br/>
+<div class="center-wrap"><iframe title="Talking Privacy with Apple - Are Your Secrets Safe?" src="https://www.youtube.com/embed/1YOi0r3vptQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+Topics covered include Apple's approach to privacy, the ways Apple contends with privacy laws in different countries, and how Apple deals with government requests, plus there's a good deal of information on the new features in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>.<br/>
+<br/>
+Some of what's discussed covers privacy information that Apple has reiterated over and over again, but there are some interesting tidbits on Apple's adoption of ChatGPT, Maps privacy, the Passwords app, and accessory pairing in &zwnj;iOS 18&zwnj;.<br/>
+<br/>
+It's a long discussion at almost 45 minutes, but worth it for those who want a bit more insight into Apple's philosophy on privacy.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-privacy-team-interview-ios-18/">Apple&#039;s Privacy Team Does Deep Dive Into iOS 18 Privacy Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-privacy-team-does-deep-dive-into-ios-18-privacy-features.2432174/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>NCAA College Football Teams to Start Using iPads for Video Replay</title>
+		<link>https://www.macrumors.com/2024/07/24/ncaa-college-football-ipads-on-sidelines/</link>
+		<comments>https://forums.macrumors.com/threads/ncaa-college-football-teams-to-start-using-ipads-for-video-replay.2432168/</comments>
+		<pubDate>Wed, 24 Jul 2024 15:00:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/ncaa-college-football-ipads-on-sidelines/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[A trio of NCAA college football conferences, including the <a href="https://espnpressroom.com/us/press-releases/2024/07/the-southeastern-conference-will-bring-ipad-technology-to-sec-football-sidelines-in-2024/">SEC</a>, <a href="https://theacc.com/news/2024/7/15/general-the-atlantic-coast-conference-will-bring-ipad-technology-to-acc-football-sidelines-and-coaches-booths-in-2024.aspx">ACC</a>, and <a href="https://x.com/bigten/status/1815776492523065572">Big Ten</a>, recently announced that coaches and players will use iPads on the sidelines of games for video replay purposes starting in the upcoming 2024 season.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iPad-College-Football.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-959975" /><br/>
+"We're thrilled the SEC, ACC, and Big Ten are utilizing iPad, as its unique capabilities and versatility make it the ideal solution to support coaches and student-athletes," said Scott Brodrick, an iPad product marketing employee at Apple. "With an unrivaled combination of advanced displays, powerful performance, portability, fast connectivity, all-day battery life and versatile accessories, iPad will let coaches and players make in-game adjustments and empower athletes to compete at the highest level."<br/>
+<br/>
+The introduction of iPads is a result of upcoming NCAA rule changes that allow for video replay technology to be used on the sidelines of college football games, for the first time. The 2024 season begins on Saturday, August 24.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/ncaa-college-football-ipads-on-sidelines/">NCAA College Football Teams to Start Using iPads for Video Replay</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ncaa-college-football-teams-to-start-using-ipads-for-video-replay.2432168/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Kuo: iPhone SE 4 and Ultra-Thin iPhone 17 to Use Apple&#039;s Own 5G Chip</title>
+		<link>https://www.macrumors.com/2024/07/24/kuo-iphone-se-4-thin-iphone-17-apple-5g-chip/</link>
+		<comments>https://forums.macrumors.com/threads/kuo-iphone-se-4-and-ultra-thin-iphone-17-to-use-apples-own-5g-chip.2432157/</comments>
+		<pubDate>Wed, 24 Jul 2024 13:19:29 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/kuo-iphone-se-4-thin-iphone-17-apple-5g-chip/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iPhone 17</category>
+		<category>iPhone SE</category>
+		<category>Ming-Chi Kuo</category>
+		<category>Apple 5G Modem</category>
+		
+
+		<description><![CDATA[Apple is rumored to have been working on its own 5G modem for iPhones since 2018, but the project has reportedly faced numerous <a href="https://www.macrumors.com/2022/06/28/apple-5g-modem-failed-qualcomm-remains-supplier/">challenges and delays</a>. At last, however, the project may be finally getting closer to completion.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/02/5G-Modem-Feature-Blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-886940" /><br/>
+In a <a href="https://x.com/mingchikuo/status/1816132182039232624">short article</a> posted on social media platform X today, well-known Apple supply chain analyst Ming-Chi Kuo said two iPhone models with an Apple-designed 5G modem will be released in 2025, including a fourth-generation iPhone SE in the first quarter of the year and an all-new, <a href="https://www.macrumors.com/2024/07/24/kuo-ultra-thin-iphone-17-specs/">ultra-thin iPhone 17 model</a> in the third quarter.<br/>
+<br/>
+All existing iPhones that are currently sold by Apple are equipped with Qualcomm modems for cellular connectivity. Earlier this year, Apple <a href="https://www.macrumors.com/2024/01/31/apple-extends-qualcomm-modem-licensing-deal/">extended its 5G modem supply agreement with Qualcomm</a> for iPhone launches through 2026, so Apple's transition to its own in-house 5G chips will likely be gradual over multiple years.<br/>
+<br/>
+Apple <a href="https://www.macrumors.com/2019/07/25/apple-intel-acquisition/">acquired the majority of Intel's smartphone modem business</a> in 2019, as part of its efforts to design its own 5G chip. It is unclear if Apple's chip would have any consumer benefits over Qualcomm's modems, but it would reduce Apple's reliance on Qualcomm. In 2017, <a href="https://www.macrumors.com/2017/01/20/apple-qualcomm-1-billion-lawsuit/">Apple sued Qualcomm</a> over alleged anticompetitive practices and &#36;1 billion in unpaid royalty rebates. The two companies <a href="https://www.macrumors.com/2019/04/16/apple-qualcomm-settlement/">settled the lawsuit</a> in 2019.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-17/">iPhone 17</a>, <a href="https://www.macrumors.com/roundup/iphone-se/">iPhone SE</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a>, <a href="https://www.macrumors.com/guide/apple-5g-modem/">Apple 5G Modem</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone_SE">iPhone SE (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/iphone.99">iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/kuo-iphone-se-4-thin-iphone-17-apple-5g-chip/">Kuo: iPhone SE 4 and Ultra-Thin iPhone 17 to Use Apple&#039;s Own 5G Chip</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-iphone-se-4-and-ultra-thin-iphone-17-to-use-apples-own-5g-chip.2432157/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Maps Now Available on the Web</title>
+		<link>https://www.macrumors.com/2024/07/24/apple-maps-now-available-on-the-web/</link>
+		<comments>https://forums.macrumors.com/threads/apple-maps-now-available-on-the-web.2432149/</comments>
+		<pubDate>Wed, 24 Jul 2024 12:08:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/apple-maps-now-available-on-the-web/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple <a href="https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/">today announced</a> that it has launched <a href="http://beta.maps.apple.com/">an Apple Maps on the web feature</a>, which is available in a public beta capacity. <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> for the web works in Safari and other web browsers, allowing users to get directions without having to open up the Maps app. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/apple-maps-on-web.jpg" alt="" width="2496" height="1404" class="aligncenter size-full wp-image-959915" /><br/>
+&zwnj;Apple Maps&zwnj; on the web works like the &zwnj;Apple Maps&zwnj; app, so users can get driving and walking directions, find places to visit, view ratings and hours, and browse curated Guides. There are also features for ordering food directly from the Maps place card and discovering places to eat, shop, and explore in cities around the world. Apple says that additional options like Look Around will be introduced in the coming months. <br/>
+<br/>
+&zwnj;Apple Maps&zwnj; on the web will serve as an alternative to Google Maps, which has long been the most popular web-based mapping option. You can check out &zwnj;Apple Maps&zwnj; on the web <a href="http://beta.maps.apple.com/">on Apple's Maps.Apple.com website</a>. Developers are able to link out to Maps on the web in their apps, so users can get driving directions and see location information.<br/>
+<br/>
+Maps on the web is available in English at the current time, and <a href="https://support.apple.com/en-us/120585">it works with</a> Safari and Chrome on Mac and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and Chrome and Edge on Windows PCs. Apple plans to add support for additional languages, browsers, and platforms over time. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-maps-now-available-on-the-web/">Apple Maps Now Available on the Web</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-maps-now-available-on-the-web.2432149/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Intelligence Features Still Coming in Later iOS 18 Developer Beta</title>
+		<link>https://www.macrumors.com/2024/07/24/apple-intelligence-coming-in-later-ios-18-dev-beta/</link>
+		<comments>https://forums.macrumors.com/threads/apple-intelligence-features-still-coming-in-later-ios-18-developer-beta.2432148/</comments>
+		<pubDate>Wed, 24 Jul 2024 12:02:31 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/apple-intelligence-coming-in-later-ios-18-dev-beta/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		<category>Apple Intelligence</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/#apple_intelligence">Apple Intelligence</a> is still not available as of the <a href="https://www.macrumors.com/2024/07/23/apple-seeds-ios-18-beta-4/">fourth developer beta of iOS 18</a> this week, leading some to wonder if the features have been delayed. However, we have confirmed that Apple still plans to add some of the new Apple Intelligence features to an upcoming beta this summer. In other words, developers will be able to test the first Apple Intelligence features at some point before iOS 18 is widely released to the public.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Apple-Intelligence-General-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-956491" /><br/>
+Given that public betas of iOS are based on developer betas, Apple Intelligence will likely be added in an upcoming iOS 18 public beta version as well.<br/>
+<br/>
+Apple in mid-June removed the "this summer" timeframe that initially appeared at the bottom of its <a href="https://developer.apple.com/apple-intelligence/">Apple Intelligence page for developers</a>, but as we stated above, there is no change in plans from what Apple announced at WWDC. The features will likely be added before the end of August, ahead of iOS 18 being widely released in September.<br/>
+<br/>
+Apple Intelligence features will be available in U.S. English only at launch, and they will require an iPhone 15 Pro or iPhone 15 Pro Max. The features will also be available on Mac and iPad models equipped with an M1 chip or newer.<br/>
+<br/>
+Apple Intelligence will be able to summarize text, prioritize notifications and emails, and generate custom emoji and images, while the technology will also power a smarter version of Siri with richer language understanding, deeper per-app controls, on-screen awareness, and more. Apple said some of the features, along with support for additional languages and software platforms, will be added "over the course of the next year."<br/>
+<br/>
+Even when iOS 18 is widely released in September, Apple said some of the Apple Intelligence features will still be considered a "preview" for all users. The full rollout of Apple Intelligence on the iPhone is <a href="https://www.macrumors.com/2024/07/09/ios-18-4-apple-intelligence-powered-siri/">expected to be completed in 2025</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-intelligence-coming-in-later-ios-18-dev-beta/">Apple Intelligence Features Still Coming in Later iOS 18 Developer Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-intelligence-features-still-coming-in-later-ios-18-developer-beta.2432148/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Second macOS Sequoia Public Beta With iPhone Mirroring and More</title>
+		<link>https://www.macrumors.com/2024/07/24/apple-releases-macos-sequoia-public-beta-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-second-macos-sequoia-public-beta-with-iphone-mirroring-and-more.2432139/</comments>
+		<pubDate>Wed, 24 Jul 2024 10:06:59 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/apple-releases-macos-sequoia-public-beta-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sequoia</category>
+		
+
+		<description><![CDATA[Apple today released the second beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> update to its public beta testing group, giving the general public a chance to try out the new operating system's features ahead of its fall launch. The second public beta comes a bit over a week after the <a href="https://www.macrumors.com/2024/07/15/apple-releases-macos-sequoia-public-beta/">release of the first beta</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/macos-sequoia-iphone-mirroring.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-956750" /><br/>
+Public beta testers can download &zwnj;macOS Sequoia&zwnj; from the Software Update section of the System Settings app after <a href="https://beta.apple.com/sp/betaprogram/">signing up on Apple's beta testing website</a> and opting into the public beta under the Beta Updates section.<br/>
+<br/>
+&zwnj;macOS Sequoia&zwnj;'s biggest feature is <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Mirroring, which is designed to let you control your &zwnj;iPhone&zwnj; from your Mac using your keyboard and mouse. You can see notifications and use your &zwnj;iPhone&zwnj; apps even when your &zwnj;iPhone&zwnj; is tucked away and locked, and later this year, you'll be able to use the feature to drag and drop apps from your Mac to your &zwnj;iPhone&zwnj; and vice versa.<br/>
+<br/>
+Window tiling has been improved to make it easier to get multiple windows on your Mac in a way that works for you, Safari can summarize websites and show you highlights, and the Messages app supports scheduling messages and using the Tapback feature with any emoji.<br/>
+<br/>
+There's a new Passwords app for managing your passwords, logins, and passkeys, the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app has a new design, the Notes app supports audio transcription and summarization, and you can also type in any equation and get it solved automatically.<br/>
+<br/>
+&zwnj;macOS Sequoia&zwnj; supports all of the new Apple Intelligence features that are also coming to <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, offering all kinds of quality of life improvements. Writing tools help you proofread and polish your writing across apps, you can create unique images with Image Playground, and make up your own emoji with Genmoji. &zwnj;Photos&zwnj; includes a Clean Up tool for removing unwanted images, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> will use AI for better language understanding and contextual relevance. &zwnj;Siri&zwnj; will even be able to consult ChatGPT for complicated queries.<br/>
+<br/>
+There are a long list of additional features coming to &zwnj;macOS Sequoia&zwnj;, with <a href="https://www.macrumors.com/roundup/macos-sequoia/">more information available in our dedicated roundup</a>.<br/>
+<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-releases-macos-sequoia-public-beta-2/">Apple Releases Second macOS Sequoia Public Beta With iPhone Mirroring and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-second-macos-sequoia-public-beta-with-iphone-mirroring-and-more.2432139/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases Second watchOS 11 Public Beta With Vitals App and More</title>
+		<link>https://www.macrumors.com/2024/07/24/apple-releases-watchos-11-public-beta-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-second-watchos-11-public-beta-with-vitals-app-and-more.2432141/</comments>
+		<pubDate>Wed, 24 Jul 2024 10:02:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/apple-releases-watchos-11-public-beta-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>watchOS</category>
+		
+
+		<description><![CDATA[Apple today released the second beta of <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a> to public beta testers, allowing non-developers to give the new features a try ahead of when the software launches this fall. The second beta comes a week <a href="https://www.macrumors.com/2024/07/15/watchos-11-public-beta/">after the first beta</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-957264" src="https://images.macrumors.com/article-new/2024/06/watchos-11-vitals.jpg" alt="" width="2000" height="1125" /><br/>
+&zwnj;watchOS 11&zwnj; can be downloaded after signing up on <a href="https://beta.apple.com/sp/betaprogram/">Apple's beta software website</a> and upgrading your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> to the public beta version of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>. You'll need to open up the Watch app on &zwnj;iPhone&zwnj;, go to General, select Software Update, and choose the &zwnj;watchOS 11&zwnj; Public Beta option under Beta Updates.<br/>
+<br/>
+With &zwnj;watchOS 11&zwnj;, Apple added a new Vitals app that can be used to give you a daily overview of your health metrics, letting you know if anything is out of the ordinary. It compares information collected at night like heart rate, sleep, respiratory rate, and oxygen level to your levels over the previous weeks.<br/>
+<br/>
+Smart Stack has new widgets like Translate and Shazam, plus it's smarter because it is able to suggest widgets based on time, date, location, and daily routine. Interactive widgets let you access app features from the Smart Stack, and it also supports Live Activities.<br/>
+<br/>
+Training Load is a new way of measuring how the intensity and duration of workouts impact the body over time, with Apple providing an effort level for cardio-based workouts to help you know when to rest and when to push harder.<br/>
+<br/>
+You can now customize your Activity Ring requirements for different days of the week, and Apple added support for rest days. Taking a break from activity will no longer ruin a streak because you can pause for a day, a week, a month, or more.<br/>
+<br/>
+Other new features include more workout types, Check In for Messages, a revamped <a href="https://www.macrumors.com/guide/photos/">Photos</a> watch face, improvements to Double Tap, and more, with additional information <a href="https://www.macrumors.com/roundup/watchos-11/">available in our watchOS 11 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>, <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-releases-watchos-11-public-beta-2/">Apple Releases Second watchOS 11 Public Beta With Vitals App and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-second-watchos-11-public-beta-with-vitals-app-and-more.2432141/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Second tvOS 18 Public Beta</title>
+		<link>https://www.macrumors.com/2024/07/24/apple-seeds-second-tvos-18-public-beta/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-second-tvos-18-public-beta.2432140/</comments>
+		<pubDate>Wed, 24 Jul 2024 10:01:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/apple-seeds-second-tvos-18-public-beta/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple TV</category>
+		
+
+		<description><![CDATA[Apple today released the second public beta of tvOS 18, giving the general public a chance to try out the new features ahead of the software's fall launch. The second beta comes <a href="https://www.macrumors.com/2024/07/15/apple-seeds-first-tvos-18-public-beta/">a week after the first</a>. <br/>
+<br/>
+<img class="aligncenter size-full wp-image-796083" src="https://images.macrumors.com/article-new/2021/04/apple-tv-4k-design-triad.jpg" alt="" width="2500" height="1406" /><br/>
+Public beta testers can download the tvOS 18 beta by opening up the Settings app on <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, choosing the Software Updates section under System, and then toggling on the Get Public Beta Updates option. Signing up on <a href="https://beta.apple.com/sp/betaprogram/">Apple's public beta website</a> is required to get the option to show up.<br/>
+<br/>
+tvOS 18 isn't as feature rich as some of Apple's other updates, but it brings a new InSight feature to the &zwnj;Apple TV&zwnj; app. InSight is similar to Amazon X-Ray, providing real-time information about actors, music, and more in <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a> shows and movies.<br/>
+<br/>
+The Enhanced Dialogue feature uses computational audio and machine learning to better boost vocal clarity over background noise and music, plus it works with built-in TV speakers, AirPods, and other Bluetooth devices. Subtitles have been tweaked to show up automatically when relevant, such as when the TV is muted.<br/>
+<br/>
+Apple added new screen savers and made it easier to swap between them, plus there's 21:9 aspect ratio support for projectors and an option for Live Captions during <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls.<br/>
+<br/>
+tvOS 18 is limited to public beta testers and developers right now, but it will see a public launch this fall.<br/>
+<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-seeds-second-tvos-18-public-beta/">Apple Seeds Second tvOS 18 Public Beta</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-tvos-18-public-beta.2432140/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Kuo: Ultra-Thin iPhone 17 to Feature A19 Chip, Single Rear Camera, Semi-Titanium Frame, and More</title>
+		<link>https://www.macrumors.com/2024/07/24/kuo-ultra-thin-iphone-17-specs/</link>
+		<comments>https://forums.macrumors.com/threads/kuo-ultra-thin-iphone-17-to-feature-a19-chip-single-rear-camera-semi-titanium-frame-and-more.2432134/</comments>
+		<pubDate>Wed, 24 Jul 2024 09:06:24 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/kuo-ultra-thin-iphone-17-specs/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iPhone 17</category>
+		<category>Ming-Chi Kuo</category>
+		
+
+		<description><![CDATA[Apple supply chain analyst Ming-Chi Kuo today <a href="https://medium.com/@mingchikuo/%E9%97%9C%E6%96%BC2h25%E6%96%B0%E6%AC%BEiphone-17%E7%94%A2%E5%93%81%E7%B5%84%E5%90%88%E8%88%87%E8%B6%85%E8%96%84iphone-17%E7%9A%84%E9%A0%90%E6%B8%AC%E8%88%87%E5%88%86%E6%9E%90-predictions-and-analysis-of-the-2h25-new-iphone-17-1528d0772610">shared alleged specifications</a> for a new ultra-thin iPhone 17 model rumored to launch next year.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/Generic-iPhone-17-Feature-With-Full-Width-Dynamic-Island.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959827" /><br/>
+Kuo expects the device to be equipped with a 6.6-inch display with a current-size Dynamic Island, a standard A19 chip rather than an A19 Pro chip, a single rear camera, and an Apple-designed 5G chip. He also expects the device to have a titanium-aluminum frame, but with a lower percentage of titanium than used for iPhone 15 Pro models.<br/>
+<br/>
+The analyst added that while there will not be an iPhone 17 Plus, the new ultra-thin model will not be a replacement for it. Instead, he said the device will be an all-new model, with its main selling point to be its "new design" rather than specs.<br/>
+<br/>
+With no A19 Pro chip, a single camera, a slightly smaller display than the iPhone 15 Pro Max, and a focus on design over specifications, it sounds like the ultra-thin model will not be the so-called highest-end "iPhone 17 Ultra" after all. It is now unclear exactly where the device will be positioned in the iPhone 17 lineup, but that will likely become clearer as it gets closer to launching. Apple is expected to announce the iPhone 17 series in September 2025, so there is still a lot of runway for more rumors.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-17/">iPhone 17</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/kuo-ultra-thin-iphone-17-specs/">Kuo: Ultra-Thin iPhone 17 to Feature A19 Chip, Single Rear Camera, Semi-Titanium Frame, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-ultra-thin-iphone-17-to-feature-a19-chip-single-rear-camera-semi-titanium-frame-and-more.2432134/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
 		<title>Apple Expected to Adopt Technology That May Pave Way for 2TB iPhones</title>
-		<link>https://www.macrumors.com/2024/07/24/iphone-qlc-stroage-rumor/</link>
+		<link>https://www.macrumors.com/2024/07/24/iphone-qlc-storage-rumor/</link>
 		<comments>https://forums.macrumors.com/threads/apple-expected-to-adopt-technology-that-may-pave-way-for-2tb-iphones.2432132/</comments>
 		<pubDate>Wed, 24 Jul 2024 08:44:18 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/iphone-qlc-stroage-rumor/</guid>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/iphone-qlc-storage-rumor/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
 		<category>TrendForce</category>
 		
@@ -38,7 +297,7 @@ QLC is a denser storage technology compared to the triple-level cell (TLC) techn
 <br/>
 The density and cost advantages of QLC could pave the way for Apple to release a 2TB storage capacity for future iPhones. TrendForce's estimate that Apple will adopt the technology by 2026 means that it could be incorporated into iPhones starting with iPhone 16 models, iPhone 17 models, or iPhone 18 models, so there is still no exact timeframe for this change. A report from supply chain publication <em>DigiTimes</em> earlier this year claimed that Apple was <a href="https://www.macrumors.com/2024/01/17/1tb-iphone-16-pro-could-face-performance-setback/">evaluating QLC for 1TB models</a> of the iPhone 16 Pro and iPhone 16 Pro Max, so the technology could end up being used for both 1TB and 2TB storage capacities.<br/>
 <br/>
-Apple is expected to announce the iPhone 16 series in September, so we are only a few months away from finding out whether a 2TB storage capacity and QLC storage technology are introduced this year or further into the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/trendforce/">TrendForce</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/iphone-qlc-stroage-rumor/">Apple Expected to Adopt Technology That May Pave Way for 2TB iPhones</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-expected-to-adopt-technology-that-may-pave-way-for-2tb-iphones.2432132/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Apple is expected to announce the iPhone 16 series in September, so we are only a few months away from finding out whether a 2TB storage capacity and QLC storage technology are introduced this year or further into the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/trendforce/">TrendForce</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/iphone-qlc-storage-rumor/">Apple Expected to Adopt Technology That May Pave Way for 2TB iPhones</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-expected-to-adopt-technology-that-may-pave-way-for-2tb-iphones.2432132/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -117,7 +376,7 @@ Apple is seemingly preparing to introduce a new feature in &zwnj;iOS 18&zwnj; th
 <br/>
 At the core of this new functionality is a new "Create Image" button, which users will see while editing their playlists. Once tapped, this button will invoke Image Playground, a tool showcased at WWDC earlier this year. Image Playground enables users to generate new images by inputting written commands. These AI-generated images can vary in appearance, offering animation, illustration, and sketch styles, though it does not support the creation of photorealistic images. Users can specify their preferences for the artwork, and &zwnj;Apple Music&zwnj; will produce several options that match the playlist's theme or content.<br/>
 <br/>
-Like other Apple Intelligence features, it is currently unavailable in the beta versions of &zwnj;iOS 18&zwnj;. Originally, some Apple Intelligence features were expected to be included in the summer beta releases. However, these references were subsequently removed from Apple's website. According to a recent <a href="https://www.macrumors.com/2024/07/07/new-siri-experience-to-debut-spring-2025/">report from <em>Bloomberg</em></a>, some of these AI features might launch until 2025. Given that Apple Intelligence has not appeared in beta 4, it seems likely that the full rollout may be postponed until iOS 18.1 or later. &zwnj;iOS 18&zwnj; is slated for release in the fall, with a beta preview already accessible to developers and public beta users.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/9to5mac-com/">9to5Mac</a>, <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-intelligence-to-generate-playlist-artwork/">Apple Intelligence to Generate Playlist Artwork in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-intelligence-to-generate-playlist-artwork-in-ios-18.2432123/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Like other Apple Intelligence features, it is currently unavailable in the beta versions of &zwnj;iOS 18&zwnj;. Some Apple Intelligence features have been expected to be included in the summer beta releases, although these references were subsequently removed from Apple's website. According to a recent <a href="https://www.macrumors.com/2024/07/07/new-siri-experience-to-debut-spring-2025/">report from <em>Bloomberg</em></a>, some of these AI features might not launch until 2025. Given that Apple Intelligence has not appeared as of the fourth developer beta, it is unclear how many of its features will make it into the iOS 18.0 release. &zwnj;iOS 18&zwnj; is slated for release in the fall, with a beta preview already accessible to developers and public beta users.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/9to5mac-com/">9to5Mac</a>, <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-intelligence-to-generate-playlist-artwork/">Apple Intelligence to Generate Playlist Artwork in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-intelligence-to-generate-playlist-artwork-in-ios-18.2432123/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -300,234 +559,6 @@ There are additional references to Apple Intelligence features, which suggests A
 <br/>
 <h2>More New Changes</h2><br/>
 Know of a new feature in &zwnj;iOS 18&zwnj; beta 4 that we left out? Let us know in the comments below.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/ios-18-beta-4-features/">Everything New in iOS 18 Beta 4</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-new-in-ios-18-beta-4.2432071/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>You Can Change iPhone Mirroring Window Size in macOS Sequoia Beta 4</title>
-		<link>https://www.macrumors.com/2024/07/23/iphone-mirroring-change-window-size/</link>
-		<comments>https://forums.macrumors.com/threads/you-can-change-iphone-mirroring-window-size-in-macos-sequoia-beta-4.2432067/</comments>
-		<pubDate>Tue, 23 Jul 2024 12:26:05 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/iphone-mirroring-change-window-size/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sequoia</category>
-		
-
-		<description><![CDATA[With the <a href="https://www.macrumors.com/2024/07/23/apple-seeds-macos-sequoia-beta-4/">fourth beta of macOS Sequoia</a> that came out today, Apple added a useful new feature to <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Mirroring.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/iphone-mirroring-larger-smaller.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-959721" /><br/>
-When you connect your &zwnj;iPhone&zwnj; to your Mac, you can now make some changes to the window size, something that wasn't an option before. You can make the window bigger or smaller, changing the amount of screen space that it takes up on the Mac desktop.<br/>
-<br/>
-There are only three total sizes, including actual size, which is the size of your &zwnj;iPhone&zwnj;'s display, smaller, and larger.<br/>
-<br/>
-The size options can be accessed by launching the &zwnj;iPhone&zwnj; Mirroring app, connecting to an &zwnj;iPhone&zwnj;, and then choosing your size from the View menu. There is no option to drag the window to resize, and you have to use the View options.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/fBxHMuDhvd4" title="This is Apple&#39;s BEST New Feature &#x1f92f;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-<a href="https://www.macrumors.com/guide/iphone-mirroring/">iPhone Mirroring is a feature</a> that is designed to allow you to control your &zwnj;iPhone&zwnj; from your Mac, interacting with apps and receiving notifications while your &zwnj;iPhone&zwnj; remains locked and tucked away.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/iphone-mirroring-change-window-size/">You Can Change iPhone Mirroring Window Size in macOS Sequoia Beta 4</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/you-can-change-iphone-mirroring-window-size-in-macos-sequoia-beta-4.2432067/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Fourth Beta of macOS Sequoia to Developers</title>
-		<link>https://www.macrumors.com/2024/07/23/apple-seeds-macos-sequoia-beta-4/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-macos-sequoia-to-developers.2432051/</comments>
-		<pubDate>Tue, 23 Jul 2024 10:12:49 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/apple-seeds-macos-sequoia-beta-4/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sequoia</category>
-		
-
-		<description><![CDATA[Apple today seeded the fourth beta of upcoming an upcoming macOS 15 Sequoia update to developers for testing purposes, with the software coming a week after the <a href="https://www.macrumors.com/2024/07/10/apple-seeds-macos-sequoia-beta-3/">release of the third beta</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/macOS-Sequoia-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955370" /><br/>
-Registered developers can opt-in to the <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> beta through the Software Update section of the System Settings app. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
-<br/>
-&zwnj;macOS Sequoia&zwnj; includes <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Mirroring, which allows you to control your locked &zwnj;iPhone&zwnj; from your Mac. You can open and use &zwnj;iPhone&zwnj; apps, interact with notifications, and drag and drop files between your &zwnj;iPhone&zwnj; and Mac and vice versa.<br/>
-<br/>
-There are new options for window tiling, and dragging a window to the edge of the display will suggest a tiled location to make it easier to use multiple apps at once. Apple is adding a Passwords app for managing passwords, Safari can summarize websites and surface key information, and Notes has support for live audio transcription and math equations.<br/>
-<br/>
-All of the Apple Intelligence features coming to <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> will also be available in &zwnj;macOS Sequoia&zwnj;, but Apple does not plan to add these until later in the beta testing process. Apple Intelligence includes Writing Tools for editing, proofreading, and summarizing text in apps, and an Image Playground allows for AI images to be created from prompts.<br/>
-<br/>
-Custom emoji or "Genmoji" can be created for any situation and used just like emoji, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> is getting much smarter. &zwnj;Siri&zwnj; will be able to do more in apps and will better understand requests, especially those made in regard to on-screen content.<br/>
-<br/>
-&zwnj;macOS Sequoia&zwnj; is available to developers right now, but Apple will release a public beta later this month.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/apple-seeds-macos-sequoia-beta-4/">Apple Seeds Fourth Beta of macOS Sequoia to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-macos-sequoia-to-developers.2432051/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Fourth Betas of iOS 18 and iPadOS 18 to Developers</title>
-		<link>https://www.macrumors.com/2024/07/23/apple-seeds-ios-18-beta-4/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-betas-of-ios-18-and-ipados-18-to-developers.2432048/</comments>
-		<pubDate>Tue, 23 Jul 2024 10:11:15 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/apple-seeds-ios-18-beta-4/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple today seeded the fourth betas of upcoming <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a> updates to developers for testing purposes, with the software coming a week after the <a href="https://www.macrumors.com/2024/07/08/apple-seeds-ios-18-beta-3/">release of the third betas</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Generic-iOS-18-Feature-Real-Mock.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-954594" /><br/>
-Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the ‌&zwnj;iOS 18&zwnj;/&zwnj;iPadOS 18&zwnj;‌ Developer Beta setting. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
-<br/>
-&zwnj;iOS 18&zwnj; introduces Apple Intelligence, a set of AI features that are built deeply into the operating system. Apple Intelligence won't be coming until later in the beta testing process, but it includes features for refining and editing writing, generating images and emoji, and most notably, improving <a href="https://www.macrumors.com/guide/siri/">Siri</a> and search. &zwnj;Siri&zwnj; is gaining a better understanding of natural language, improved contextual awareness, and the personal assistant will integrate with ChatGPT to answer more complex queries.<br/>
-<br/>
-Apple Intelligence features are limited to the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models and iPads with an M-series chip, but there are a number of other features that are coming. Apple is allowing users to rearrange Home screen apps to have open spaces, plus there's a dark mode for app icons and tinting options.<br/>
-<br/>
-The Control Center is customizable and third-party developers can add controls for their apps, with the Lock Screen Flashlight and Camera icons able to be replaced or removed. Messages is gaining Rich Communication Services support to improve conversations with Android users, the option to schedule texts to be sent later, new text effects, messages over satellite when there's no cellular, and the option to use any emoji for Tapback responses.<br/>
-<br/>
-There's a dedicated Passwords app for logins, passkeys, Wi-Fi passwords, and verification codes, and there's now an option to lock and hide apps, which means they can't be opened without secondary <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> authentication even when your phone is unlocked.<br/>
-<br/>
-Safari has a highlights feature that summarizes articles and surfaces key information on websites, the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app interface has been overhauled, and there's a new Tap to Cash feature for privately and securely transferring money using Apple Cash. Other features include equation solving and voice memo transcription in Notes, a game mode for improving game performance, and an option to respond to &zwnj;Siri&zwnj; on AirPods with head gestures.<br/>
-<br/>
-&zwnj;iOS 18&zwnj; is only available to registered developers at the current time, but Apple plans to make a public beta later this month. &zwnj;iOS 18&zwnj; and &zwnj;iPadOS 18&zwnj; will see a public launch this fall.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/apple-seeds-ios-18-beta-4/">Apple Seeds Fourth Betas of iOS 18 and iPadOS 18 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-betas-of-ios-18-and-ipados-18-to-developers.2432048/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds macOS Sonoma 14.6 Release Candidate to Developers</title>
-		<link>https://www.macrumors.com/2024/07/23/apple-seeds-macos-sonoma-14-6-rc/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-macos-sonoma-14-6-release-candidate-to-developers.2432047/</comments>
-		<pubDate>Tue, 23 Jul 2024 10:10:18 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/apple-seeds-macos-sonoma-14-6-rc/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sonoma</category>
-		
-
-		<description><![CDATA[Apple today seeded the release candidate version of an upcoming <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> 14.6 update to developers, with the software coming a week after Apple <a href="https://www.macrumors.com/2024/07/16/apple-seeds-macos-sonoma-14-6-beta-4/">released the fourth beta</a>. The RC represents the final version of macOS 14.6 that will see a public launch provided there are no bugs discovered.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-900001" src="https://images.macrumors.com/article-new/2023/06/sonoma-desktop-wwdc.jpg" alt="" width="1600" height="900" /><br/>
-Registered developers can opt-in to the beta through the Software Update section of the System Settings app. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
-<br/>
-We don't yet know what might be included in &zwnj;macOS Sonoma&zwnj; 14.6, and no new features have been discovered in the betas so far. &zwnj;macOS Sonoma&zwnj; 14.6 is likely to see a release next week. <br/>
-<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/apple-seeds-macos-sonoma-14-6-rc/">Apple Seeds macOS Sonoma 14.6 Release Candidate to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-macos-sonoma-14-6-release-candidate-to-developers.2432047/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Fourth visionOS 2 Beta to Developers</title>
-		<link>https://www.macrumors.com/2024/07/23/apple-seeds-visionos-2-beta-4/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-visionos-2-beta-to-developers.2432058/</comments>
-		<pubDate>Tue, 23 Jul 2024 10:06:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/apple-seeds-visionos-2-beta-4/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[Apple today released the fourth beta of an upcoming <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a> update to developers, with the fourth beta coming two weeks <a href="https://www.macrumors.com/2024/07/08/apple-seeds-visionos-2-beta-3-to-developers/">after the third beta</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/visionOS-2-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955607" /><br/>
-Registered developers are able to opt into the betas by opening up the Settings app on their device, going to the Software Update Section, tapping on the "Beta Updates" option, and toggling on the Developer Beta. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
-<br/>
-&zwnj;visionOS 2&zwnj; is able to take the depth information from 2D photos and turn them into 3D photos using advanced machine learning. Apple says that the feature is meant to add depth to photos to make memories more immersive.<br/>
-<br/>
-There are new hand gestures for activating the Home View and Control Center, and the Home View is also now customizable with apps able to be rearranged. Travel Mode now includes support for trains, and Guest User profiles are now saved for 30 days so guests don't have to do the setup process every time they try out the headset.<br/>
-<br/>
-Later in the year, Mac Virtual Display will support higher resolution and larger sized virtual displays, which Apple says will be equivalent to two 4K monitors side by side. With an <a href="https://www.macrumors.com/guide/airplay/">AirPlay</a> update, the Vision Pro can serve as an &zwnj;AirPlay&zwnj; receiver, so content from the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, or Mac can be shared to the headset.<br/>
-<br/>
-The Mindfulness app can track and respond to breathing patterns using the camera for an improved meditation experience, and the Vision Pro supports Bluetooth mice with &zwnj;visionOS 2&zwnj;.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a>, <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/apple-seeds-visionos-2-beta-4/">Apple Seeds Fourth visionOS 2 Beta to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-visionos-2-beta-to-developers.2432058/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Fourth Beta of watchOS 11 to Developers</title>
-		<link>https://www.macrumors.com/2024/07/23/apple-seeds-watchos-11-beta-4/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-watchos-11-to-developers.2432056/</comments>
-		<pubDate>Tue, 23 Jul 2024 10:05:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/apple-seeds-watchos-11-beta-4/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[Apple today seeded the fourth beta of an upcoming <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a> update to developers for testing purposes, with the beta coming a week after <a href="https://www.macrumors.com/2024/07/08/apple-seeds-watchos-11-beta-3-to-developers/">the third beta</a> was released. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/watchOS-11-Thumb-2-1.jpg" alt="" width="2560" height="1440" class="aligncenter size-full wp-image-955941" /><br/>
-To install the ‌&zwnj;watchOS 11&zwnj; update, developers need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the &zwnj;watchOS 11&zwnj; Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
-<br/>
-Once beta updates have been activated, &zwnj;watchOS 11&zwnj; can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
-<br/>
-&zwnj;watchOS 11&zwnj; introduces a new Vitals app that aggregates health metrics collected during sleep like heart rate and respiratory rate, providing day-to-day health insights to track whether something has changed. There's also a Training Load feature for monitoring the intensity of workouts and how that impacts the body over time.<br/>
-<br/>
-The Smart Stack has been updated with new widgets and support for Live Activities and Translate, plus it is better able to suggest widgets based on time and daily routine. The <a href="https://www.macrumors.com/guide/photos/">Photos</a> watch face includes suggestions for the best images to use, and the Check In safety feature now works with Workouts.<br/>
-<br/>
-Activity Rings can be customized to change the goals for each day, and there is an option to pause for rest days or when ill without losing an activity streak. Double Tap now works for navigating through apps with one hand, and <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> lets users create their own walking and hiking routes.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a>, <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/apple-seeds-watchos-11-beta-4/">Apple Seeds Fourth Beta of watchOS 11 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-watchos-11-to-developers.2432056/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds iOS 17.6 and iPadOS 17.6 Release Candidates to Developers</title>
-		<link>https://www.macrumors.com/2024/07/23/apple-releases-ios-17-6-rc/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-ios-17-6-and-ipados-17-6-release-candidates-to-developers.2432044/</comments>
-		<pubDate>Tue, 23 Jul 2024 10:04:08 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/apple-releases-ios-17-6-rc/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple today seeded iOS 17.6 and iPadOS 17.6 release candidates to developers for testing purposes, with software coming a week after the <a href="https://www.macrumors.com/2024/07/16/apple-seeds-ios-17-6-beta-4-to-developers/">fourth iOS and iPadOS 17.6 betas</a> were released. The RC versions are the final versions of iOS 17.6 and iPadOS 17.6 that will see a public launch in the near future. <br/>
-<br/>
-<img class="aligncenter size-full wp-image-950716" src="https://images.macrumors.com/article-new/2024/05/iOS-17.6-Feature-Redux.jpg" alt="" width="2500" height="1406" /><br/>
-Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> or <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta.<br/>
-<br/>
-The features Apple promised for &zwnj;iOS 17&zwnj; have all been implemented, so it is not clear what will be included in iOS 17.6, and no major new additions were discovered in the betas. Apple's release notes suggest that the update provides unspecified bug fixes and security updates.<blockquote>This update provides important bug fixes and security updates and is recommended for all users.</blockquote>iOS 17.6 will likely see a launch next week. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/apple-releases-ios-17-6-rc/">Apple Seeds iOS 17.6 and iPadOS 17.6 Release Candidates to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-ios-17-6-and-ipados-17-6-release-candidates-to-developers.2432044/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Fourth Beta of tvOS 18 to Developers</title>
-		<link>https://www.macrumors.com/2024/07/23/apple-seeds-tvos-18-beta-4/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-tvos-18-to-developers.2432052/</comments>
-		<pubDate>Tue, 23 Jul 2024 10:03:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/apple-seeds-tvos-18-beta-4/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV</category>
-		
-
-		<description><![CDATA[Apple today seeded the fourth beta of the upcoming tvOS 18 refresh to developers for testing purposes, with the beta coming two weeks after <a href="https://www.macrumors.com/2024/07/08/apple-seeds-tvos-18-beta-3-to-developers/">the third beta came out</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/apple-tv-4k-new-orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-953895" /><br/>
-Registered developers are able to download the tvOS 18 update by opting in to the beta through the Settings app on the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>. A registered developer account is required.<br/>
-<br/>
-tvOS 18 adds an InSight feature to the TV app, and it is able to provide real-time information about actors, music, and more in <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a> shows and music. Enhanced Dialogue has been refined with machine learning and computational audio so it is better able to boost vocal clarity over background noise and music, plus it is now available on built-in TV speakers, AirPods, and other Bluetooth devices.<br/>
-<br/>
-Subtitles will now show up automatically when relevant, such as when the TV's volume is muted, a show or movie is rewound, or when the language of a show doesn't match the device language.<br/>
-<br/>
-Other new features include 21:9 aspect ratio support for projectors, new screen savers and improved controls for swapping screen savers, and support for Live Captions during <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls through an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> or <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>.<br/>
-<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_TV">Apple TV (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-tv-and-home-theater.100">Apple TV and Home Theater</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/apple-seeds-tvos-18-beta-4/">Apple Seeds Fourth Beta of tvOS 18 to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-tvos-18-to-developers.2432052/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds watchOS 10.6 Release Candidate to Developers</title>
-		<link>https://www.macrumors.com/2024/07/23/apple-seeds-watchos-10-6-rc/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-watchos-10-6-release-candidate-to-developers.2432055/</comments>
-		<pubDate>Tue, 23 Jul 2024 10:01:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/apple-seeds-watchos-10-6-rc/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple today seeded the release candidate version of an upcoming watchOS 10.6 update to developers for testing purposes, with the new beta coming a week after the <a href="https://www.macrumors.com/2024/07/16/apple-seeds-watchos-10-6-beta-4/">release of the fourth beta</a>. The RC represents the final version of watchOS 10.6 that will be released to the public if no additional bugs are found.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-901009" src="https://images.macrumors.com/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg" alt="" width="1920" height="1080" /><br/>
-To install the ‌watchOS 10.6 update, developers need to open the Apple Watch app, go to the Software Update section under "General" in Settings, and toggle on the <a href="https://www.macrumors.com/roundup/watchos-10/">watchOS 10</a> Developer Beta. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> linked to a developer account is required.<br/>
-<br/>
-Once beta updates have been activated, watchOS 10.6 can be downloaded under the same Software Update section. To install software, an Apple Watch needs to have 50 percent battery life and it must be placed on an Apple Watch charger.<br/>
-<br/>
-We don't yet know what's included in watchOS 10.6, and with Apple's focus shifting to <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a>, it likely features bug fixes and other minor improvements. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/apple-seeds-watchos-10-6-rc/">Apple Seeds watchOS 10.6 Release Candidate to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-watchos-10-6-release-candidate-to-developers.2432055/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases visionOS 1.3 Release Candidate to Developers</title>
-		<link>https://www.macrumors.com/2024/07/23/apple-seeds-visionos-1-3-rc/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-visionos-1-3-release-candidate-to-developers.2432057/</comments>
-		<pubDate>Tue, 23 Jul 2024 10:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/apple-seeds-visionos-1-3-rc/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[Apple today released the release candidate version of an upcoming <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1.3 update to developers, allowing them to test new features ahead of the software seeing a public launch. The &zwnj;visionOS&zwnj; 1.3 RC comes a week after the <a href="https://www.macrumors.com/2024/07/16/apple-seeds-visionos-1-3-beta-4/">release of the fourth beta</a>, and it is the final version of &zwnj;visionOS&zwnj; that Apple will release to the public.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-934088" src="https://images.macrumors.com/article-new/2024/02/visionOS-Home-Screen.jpg" alt="" width="1920" height="1080" /><br/>
-The &zwnj;visionOS&zwnj; beta can be downloaded by going to the Settings app on the device and toggling on developer betas. A registered developer account is required, and Apple recommends making a backup before installing new software.<br/>
-<br/>
-Apple may make further improvements to Personas, EyeSight, and other features with &zwnj;visionOS&zwnj; 1.3, as well as implement additional bug fixes. No new features have been found in the &zwnj;visionOS&zwnj; 1.3 beta so far. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a>, <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/apple-seeds-visionos-1-3-rc/">Apple Releases visionOS 1.3 Release Candidate to Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-visionos-1-3-release-candidate-to-developers.2432057/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
