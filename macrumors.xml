@@ -14,12 +14,247 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 25 Jul 2024 09:01:14 PDT</lastBuildDate>
+	<lastBuildDate>Fri, 26 Jul 2024 03:00:42 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 18: What&#039;s New With the Calculator App</title>
+		<link>https://www.macrumors.com/guide/ios-18-calculator-app/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-whats-new-with-the-calculator-app.2432238/</comments>
+		<pubDate>Thu, 25 Jul 2024 16:22:17 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-18-calculator-app&#038;post_date=1721960537/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple doesn't typically focus much on the Calculator app, but with <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, it's getting a notable overhaul and some surprising integration with the Notes app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/iOS-18-Calculator-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-960038" /><br/>
+This guide walks through everything that's new with the Calculator in &zwnj;iOS 18&zwnj; (and <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>).<br/>
+<br/>
+<h2 id="math_notes">Math Notes</h2><br/>
+The biggest change to the Calculator app is the addition of Math Notes, a feature that's basically an integration between the Calculator and the Notes app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-math-notes.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960057" /><br/>
+Math Notes lets you type equations in the Notes app and have them solved automatically when you put in an equals sign. So you can do things like calculate how much everyone owes for a group trip, or split up a dinner bill.<br/>
+<br/>
+You can do more complex equations too, defining variables and then using those definitions for your calculations. If you write dinner = &#36;57 and movies = &#36;24 in a note, for example, you can then type in "dinner + movies" and add an equals sign and get the total, with the Math Notes feature understanding what you're referencing.<br/>
+<br/>
+In Math Notes, your equations are solved automatically wherever you put in an equals sign, as that signals to Apple that you want to solve what you've typed.<br/>
+<br/>
+Math Notes is technically a Notes app feature, but you can in fact start a Math Note in the Calculator app, and use it right there without having to swap over to Notes.<br/>
+<ol><br/>
+ <li>Open up the Calculator app.</li><br/>
+ <li>Tap on the calculator symbol at the bottom left of the app.</li><br/>
+ <li>Select Math Notes.</li><br/>
+ <li>Tap on the new note symbol at the bottom right of the display.</li><br/>
+ <li>Start your calculations.</li><br/>
+</ol><br/>
+You can do this same thing directly in the Notes app with any existing or new note. It's all the same feature, just accessed from different places.<br/>
+<br/>
+If you're in a Math Note in the Calculator app and you want to get back to the standard calculator interface, just tap again on the calculator icon and choose the Basic or Scientific option.<br/>
+<br/>
+Apple says that Math Notes is available for math written using Western Arabic numerals and common mathematical symbols, or typed using Arabic (Eastern &amp; Western) and Devanagari numerals and common mathematical symbols.<br/>
+<br/>
+<h2 id="math_notes_on_ipad">Math Notes on iPad</h2><br/>
+With &zwnj;iPadOS 18&zwnj;, Math Notes works in the same way, but there is an added bonus - you can use the <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a>. Once you start a Math Note from the Calculator app or the Notes app, you can write your equations by hand and have them solved in the exact same way.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/ipados-18-math-notes.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954476" /><br/>
+<h2 id="math_notes_everywhere">Math Notes Everywhere</h2><br/>
+You can in fact get Math Notes results almost anywhere in the operating system. If you type an equation into search, for example, you'll get a result, and the same goes for apps like Messages.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-math-notes-anywhere.jpg" alt="" width="2526" height="1421" class="aligncenter size-full wp-image-960058" /><br/>
+<h2 id="unit_conversion">Unit Conversion</h2><br/>
+When using Math Notes, you can do unit conversions. Just type in what you want to convert, and you'll get the result automatically. For example, if you type in 10 kilograms to pounds in the Math Notes interface in the Calculator app, the result is automatically generated.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-conversions.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960059" /><br/>
+Unit conversions work in search, Messages, Notes, the Calculator app, and more.<br/>
+<br/>
+<h2 id="calculation_history">Calculation History</h2><br/>
+If you open up the Calculator app and tap on the three lines at the upper left of the interface, you can see a history of all of the calculations you have entered into the app. Apple only saves calculations done with the Basic or Scientific calculators here, and Math Notes are saved in the Notes app.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-history.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960060" /><br/>
+You can long press on any of the calculations to copy either the expression or the result, and if you swipe, you can delete them from the list. You can also tap on the Edit button to select several expressions to delete, or use the Delete All option from this menu to clear out the app.<br/>
+<br/>
+<h2 id="portrait_orientation">Portrait Orientation</h2><br/>
+There is now an option to use the scientific calculator in portrait orientation, so you don't need to turn your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> to landscape orientation to get to it anymore.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-scientific-calculator.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960061" /><br/>
+<h2 id="read_more">Read More</h2><br/>
+Additional information on new features that Apple has added in &zwnj;iOS 18&zwnj; <a href="https://www.macrumors.com/roundup/ios-18/">can be found in our iOS 18 roundup</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-18-calculator-app/">iOS 18: What&#039;s New With the Calculator App</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-whats-new-with-the-calculator-app.2432238/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Fortnite Coming to AltStore on iOS in European Union</title>
+		<link>https://www.macrumors.com/2024/07/25/fortnite-altstore-eu/</link>
+		<comments>https://forums.macrumors.com/threads/fortnite-coming-to-altstore-on-ios-in-european-union.2432235/</comments>
+		<pubDate>Thu, 25 Jul 2024 15:26:03 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/25/fortnite-altstore-eu/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>European Union</category>
+		<category>Epic Games</category>
+		<category>Fortnite</category>
+		
+
+		<description><![CDATA[Apple rival <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a> <a href="https://www.epicgames.com/site/en-US/news/epic-s-new-game-strategy-for-mobile-stores">today announced plans</a> to bring Fortnite to alternative app store AltStore in the European Union, which will mean the popular game will soon be available to download on iPhones and iPads.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/08/fortnite_apple_featured.jpg" alt="" width="2140" height="1204" class="aligncenter size-full wp-image-754674" /><br/>
+Created by developer Riley Testut, AltStore PAL was one of the first alternative app stores on iOS when it <a href="https://www.macrumors.com/2024/04/17/altstore-eu-alternative-app-marketplace/">launched back in April</a>. AltStore PAL is available in the European Union, where Apple supports sideloading to comply with Digital Markets Act.<br/>
+<br/>
+AltStore is an open-source app that distributes Testut's popular Delta game emulator as well as apps from other independent developers. Distributing apps through AltStore is free of charge, so &zwnj;Epic Games&zwnj; will not need to pay a fee to Testut, but Apple will collect an 0.50 euro Core Technology Fee (CTF) from &zwnj;Epic Games&zwnj; after Fortnite receives more than one million annual first installs.<br/>
+<br/>
+Customers who install AltStore must also pay 1.50 euros per year, a fee that is required because of Apple's CTF. Apple charges Testut 0.50 euros each time AltStore is installed.<br/>
+<br/>
+Along with bringing Fortnite to AltStore, &zwnj;Epic Games&zwnj; said that it will bring Fortnite to other mobile stores that "give all developers a great deal," while also "ending distribution partnerships with mobile stores that serve as rent collectors." &zwnj;Epic Games&zwnj; said that it will be removing Fortnite and other Epic titles from the Samsung Galaxy Store to protest Samsung's "anticompetitive decision to block side-loading by default" on Samsung devices.<br/>
+<br/>
+&zwnj;Epic Games&zwnj; also reiterated plans to bring its &zwnj;Epic Games&zwnj; Store to iOS in the European Union. Epic will charge a store fee of 12 percent for payments that it processes, and 0 percent on third-party payments.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a>, <a href="https://www.macrumors.com/guide/fortnite/">Fortnite</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/25/fortnite-altstore-eu/">Fortnite Coming to AltStore on iOS in European Union</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/fortnite-coming-to-altstore-on-ios-in-european-union.2432235/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iCloud Private Relay Experiencing Outage</title>
+		<link>https://www.macrumors.com/2024/07/25/icloud-private-relay-experiencing-outage/</link>
+		<comments>https://forums.macrumors.com/threads/icloud-private-relay-experiencing-outage.2432234/</comments>
+		<pubDate>Thu, 25 Jul 2024 15:18:26 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/25/icloud-private-relay-experiencing-outage/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple’s <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> Private Relay service is down for some users, according to <a href="https://www.apple.com/support/systemstatus/">Apple’s System Status page</a>. Apple says that the &zwnj;iCloud&zwnj; Private Relay service may be slow or unavailable.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/icloud-private-relay-outage.jpg" alt="" width="1339" height="753" class="aligncenter size-full wp-image-960053" /><br/>
+The outage started at 2:34 p.m. Eastern Time, but it does not appear to be affecting all &zwnj;iCloud&zwnj; users. Some impacted users are unable to browse the web without turning &zwnj;iCloud&zwnj; Private Relay off, while others are seeing slow loading times. <br/>
+<br/>
+We'll update this article when the outage has been resolved. <br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/25/icloud-private-relay-experiencing-outage/">iCloud Private Relay Experiencing Outage</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/icloud-private-relay-experiencing-outage.2432234/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>OpenAI Debuts SearchGPT AI Search Engine</title>
+		<link>https://www.macrumors.com/2024/07/25/openai-debuts-searchgpt-ai-search-engine/</link>
+		<comments>https://forums.macrumors.com/threads/openai-debuts-searchgpt-ai-search-engine.2432230/</comments>
+		<pubDate>Thu, 25 Jul 2024 12:25:46 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/25/openai-debuts-searchgpt-ai-search-engine/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>OpenAI</category>
+		
+
+		<description><![CDATA[OpenAI <a href="https://openai.com/index/searchgpt-prototype/">today introduced SearchGPT</a>, a prototype of AI search features that are designed to provide "fast and timely answers" combined with "clear and relevant sources."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/open-ai-logo.jpg" alt="" width="1093" height="615" class="aligncenter size-full wp-image-953560" /><br/>
+<a href="https://chatgpt.com/search">SearchGPT</a> is available to a small group of users and publishers at the current time, with OpenAI seeking feedback on the product. The prototype is temporary at the current time, but "best" of the features will be integrated into ChatGPT in the future.<br/>
+<br/>
+OpenAI designed SearchGPT to pair conversational capabilities with real-time information with the web, which the company says can make it faster and easier to find what you're looking for. SearchGPT is able to respond to questions with up-to-date information from the web. SearchGPT is able to answer follow-up questions in a conversational manner, with shared context included with each additional query.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re testing SearchGPT, a temporary prototype of new AI search features that give you fast and timely answers with clear and relevant sources. <br><br>We’re launching with a small group of users for feedback and plan to integrate the experience into ChatGPT. <a href="https://t.co/dRRnxXVlGh">https://t.co/dRRnxXVlGh</a> <a href="https://t.co/iQpADXmllH">pic.twitter.com/iQpADXmllH</a></p>&mdash; OpenAI (@OpenAI) <a href="https://twitter.com/OpenAI/status/1816536290822881780?ref_src=twsrc%5Etfw">July 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+OpenAI says that it is committed to a "thriving ecosystem of publishers and creators" and that it wants to help users discover publisher sites. Responses that SearchGPT provides have in-line, named attribution and links so users are aware where information is coming from, plus there's a sidebar with additional source links.<br/>
+<br/>
+Publishers are able to manage how they appear in SearchGPT, but OpenAI says that SearchGPT is "about search" and separate from training generative AI models. Sites can be surfaced in search results even if they've opted out of generative AI training.<br/>
+<br/>
+Those interested in testing out SearchGPT can <a href="http://chatgpt.com/search">join OpenAI's waitlist</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/openai/">OpenAI</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/25/openai-debuts-searchgpt-ai-search-engine/">OpenAI Debuts SearchGPT AI Search Engine</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/openai-debuts-searchgpt-ai-search-engine.2432230/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Sonos Apologizes for Widely Criticized App Redesign, Provides Progress Update</title>
+		<link>https://www.macrumors.com/2024/07/25/sonos-app-update-apology/</link>
+		<comments>https://forums.macrumors.com/threads/sonos-apologizes-for-widely-criticized-app-redesign-provides-progress-update.2432227/</comments>
+		<pubDate>Thu, 25 Jul 2024 10:42:36 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/25/sonos-app-update-apology/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Sonos</category>
+		
+
+		<description><![CDATA[Sonos CEO Patrick Spence <a href="https://www.sonos.com/en-us/blog/update-on-the-sonos-app">today penned a blog post</a> on the Sonos website apologizing for the controversial Sonos app redesign and promising ongoing updates throughout the year.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/sonos-redesigned-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-947528" /><br/>
+Spence said that improving the app for customers is the company's number one priority, and he explained that addressing bugs that came up in the new app delayed the introduction of additional features.<blockquote>We know that too many of you have experienced significant problems with our new app which rolled out on May 7, and I want to begin by personally apologizing for disappointing you. There isn't an employee at Sonos who isn't pained by having let you down, and I assure you that fixing the app for all of our customers and partners has been and continues to be our number one priority.</blockquote>Spence shared an outline of future feature plans, with Sonos planning to push updates on a bi-weekly basis. Alarms are set to be addressed in September, with edit mode for playlists and the queue coming in September or October.<br/>
+<br/>
+<strong>July and August:</strong><br/>
+<ul><br/>
+ 	<li>Improving the stability when adding new products</li><br/>
+ 	<li>Implementing Music Library configuration, browse, search, and play</li><br/>
+</ul><br/>
+<strong>August and September:</strong><br/>
+<ul><br/>
+ 	<li>Improving Volume responsiveness</li><br/>
+ 	<li>User interface improvements based on customer feedback</li><br/>
+ 	<li>Improving overall system stability and error handling</li><br/>
+</ul><br/>
+<strong>September:</strong><br/>
+<ul><br/>
+ 	<li>Improving Alarm consistency and reliability</li><br/>
+</ul><br/>
+<strong>September and October:</strong><br/>
+<ul><br/>
+ 	<li>Restoring edit mode for Playlists and the Queue</li><br/>
+ 	<li>Improving functionality in settings</li><br/>
+</ul><br/>
+Spence says that Sonos is working hard to earn back customer trust through the continual app improvements.<br/>
+<br/>
+Sonos in May <a href="https://www.macrumors.com/2024/04/23/redesigned-sonos-app/">released its redesigned app</a> with customizable home screen and a more personalized listening service. Sonos customers quickly found that the <a href="https://www.macrumors.com/2024/05/10/sonos-said-rolling-out-widely-criticized-app-redesign-took-courage/">app lacked several key features</a>, and suffered from multiple bugs. Complaints across social media called the app a "step back" for removing playlist management, alarms, and other features.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/sonos/">Sonos</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/25/sonos-app-update-apology/">Sonos Apologizes for Widely Criticized App Redesign, Provides Progress Update</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-apologizes-for-widely-criticized-app-redesign-provides-progress-update.2432227/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Amazon Introduces Big Savings on Popular Accessories From Anker, Eufy, and Jackery</title>
+		<link>https://www.macrumors.com/2024/07/25/amazon-savings-anker-eufy-jackery/</link>
+		<comments>https://forums.macrumors.com/threads/amazon-introduces-big-savings-on-popular-accessories-from-anker-eufy-and-jackery.2432226/</comments>
+		<pubDate>Thu, 25 Jul 2024 10:32:03 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/07/25/amazon-savings-anker-eufy-jackery/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Amazon today has a large collection of discounts from <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1ONCDOQGWGFK4%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1ONCDOQGWGFK4_1717511791324">Anker</a>, <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN86R2HC%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1721927168527">Eufy</a>, and <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1CBVLK7%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.36ACZNP9NFZXM%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.36ACZNP9NFZXM_1721927194783">Jackery</a>, including a wide array of wall chargers, Bluetooth trackers, and other USB-C accessories. Some of these deals will require you to clip an on-page coupon then head to the checkout screen before you see the final sale price, and some require a Prime membership.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/new-anker-jackery-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-946517" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+Eufy's main discount is on the SmartTrack Link 4 Pack for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN86R2HC%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1721927231278"><strong>&#36;48.99</strong></a> with a Prime membership, down from &#36;69.99. This tracking accessory is compatible with Apple's Find My app, so you can get left behind notifications and many other Find My features when you add it to the app.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN86R2HC%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1721927231278"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;21 OFF</div>Eufy SmartTrack Link 4 Pack for &#36;48.99</div></a></div><br/>
+<br/>
+Switching to the Anker deals, you can get the 24,000 mAh Prime Power Bank with Smart Digital Display for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09VPHVT2Z%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3Y9TDY9TTSHK%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3Y9TDY9TTSHK_1719241374306"><strong>&#36;109.99</strong></a>, down from &#36;129.99. If you need a bigger battery, you can get the Portable Power Station with Smart Display + Retractable Light for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1ONCDOQGWGFK4%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1ONCDOQGWGFK4_1717511791324"><strong>&#36;104.99</strong></a> with a Prime membership, down from &#36;149.99. <br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1ONCDOQGWGFK4%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1ONCDOQGWGFK4_1717511791324"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;45 OFF</div>Portable Power Station with Smart Display + Retractable Light for &#36;104.99</div></a></div><br/>
+<br/>
+Finally, for the Jackery deals you'll find an array of portable power stations on sale this week, including the Explorer 100 Plus with Solar Panel for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1CBVLK7%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.36ACZNP9NFZXM%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.36ACZNP9NFZXM_1721927194783"><strong>&#36;199.99</strong></a> with an on-page coupon, down from &#36;229.99. This is a miniature-sized portable power station that can fit in the palm of your hand and weighs just 2.13 lbs, while featuring a 31,000 mAh capacity and 128W output.<br/>
+<br/>
+<h2>Eufy</h2><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BNVFJMZR%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1721927434960">SmartTrack Link 2 Pack</a> - &#36;29.88, down from &#36;35.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN86R2HC%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1721927483999">SmartTrack Link 4 Pack</a> - &#36;48.99 for Prime members, down from &#36;69.99</li></ul><br/>
+<h2>Jackery</h2><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1CBVLK7%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.36ACZNP9NFZXM%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.36ACZNP9NFZXM_1720797135027">Explorer 100 Plus with Solar Panel</a> - &#36;199.99 with on-page coupon, down from &#36;229.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CYL81MS3%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.RBRZCEOCA88O%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.RBRZCEOCA88O_1720797474320">Solar Generator 240 with Mini Solar Panel</a> - &#36;249.00, down from &#36;349.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB083KBKJ8Q%3Fref%3Dt_ac_view_request_product_title">Explorer 1000 Power Station</a> - &#36;549.00 with on-page coupon, down from &#36;999.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D7PPG25F%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3N2AT8FS2RCU5%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3N2AT8FS2RCU5_1720797246445">Explorer 1000 Power Station V2</a> - &#36;599.00, down from &#36;799.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8ZLZ53M%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.3NIEM436WQUAO%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.3NIEM436WQUAO_1720797439732">Explorer 2000 PRO Power Station</a> - &#36;999.00 with on-page coupon, down from &#36;1,899.00</li></ul><br/>
+<h2>Anker</h2><br/>
+<h3>Portable Batteries</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CXDTNJST%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.34INF6WP7XS4L%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.34INF6WP7XS4L_1717512037932">Nano Power Bank with Built-In USB-C Cable</a> - &#36;35.99, down from &#36;49.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BYP45YVF%2Fref%3Dox_sc_act_title_1%3Fsmid%3DA294P4X9EWVXLJ%26psc%3D1">Prime Power Bank 20,000 mAh with 100W Charging Base</a> - &#36;149.99 for Prime members, down from &#36;184.99</li></ul><br/>
+<h3>Power Stations</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CFXLVY1V%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.2N2MUC6OP3WR0%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.2N2MUC6OP3WR0_1717512364497">MagGo 3-in-1 Wireless Charging Station</a> - &#36;79.99 with on-page coupon, down from &#36;99.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CF54FWFL%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.2QZK0WFI9NXZJ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.2QZK0WFI9NXZJ_1717513024737">MagGo 3-in-1 Folding Charging Station</a> - &#36;87.99 for Prime members, down from &#36;109.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV23LTXZ%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.1ONCDOQGWGFK4%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.1ONCDOQGWGFK4_1717511791324">Portable Power Station with Smart Display + Retractable Light</a> - &#36;104.99 for Prime members, down from &#36;149.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09TT8GZK9%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.HZBHG58DP8H0%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.HZBHG58DP8H0_1709134987908">3-in-1 MagSafe Charging Cube</a> - &#36;129.99, down from &#36;149.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-A1780-Power-Storage%2Fdp%2FB09XM7WDZ2%3Fref_%3Dast_sto_dp%26th%3D1">SOLIX F2000 Portable Power Station</a> - &#36;1,299.00 for Prime members, down from &#36;1,999.00</li></ul><br/>
+<h3>Wall Chargers</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Durable-Compact-Included%2Fdp%2FB099F558S1%3Fref_%3Dast_sto_dp%26th%3D1">20W USB-C Charger</a> - &#36;13.99, down from &#36;16.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Compact-Pixelbook-ThinkPad%2Fdp%2FB09Q52CXX1%3Fref_%3Dast_sto_dp%26th%3D1">100W 3-Port USB-C Charger</a> - &#36;49.99, down from &#36;74.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charging-Station-Undetachable-Extension%2Fdp%2FB0C7B4W2BV%3Fref_%3Dast_sto_dp%26th%3D1">6-in-1 Nano Charging Station</a> - &#36;49.49 with on-page coupon, down from &#36;65.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Charger-Compact-MacBook-Pixelbook%2Fdp%2FB0C4YTB56H%3Fref_%3Dast_sto_dp">Prime 67W 3-Port Charger</a> - &#36;59.99, down from &#36;65.99</li></ul><br/>
+<h3>Hubs</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-Transfer-Extended-Charging-Supported%2Fdp%2FB0CCDZWH5H%3Fref_%3Dast_sto_dp%26th%3D1">4-Port USB-C Hub</a> - &#36;15.99, down from &#36;19.99</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-MacBook-Docking-Station-Thinkpad%2Fdp%2FB0BNZ5TCG8%3Fref_%3Dast_sto_dp">10-in-1 USB-C Hub</a> - &#36;45.99 for Prime members, down from &#36;149.99</li></ul> If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/25/amazon-savings-anker-eufy-jackery/">Amazon Introduces Big Savings on Popular Accessories From Anker, Eufy, and Jackery</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-introduces-big-savings-on-popular-accessories-from-anker-eufy-and-jackery.2432226/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>New Apple Lab in China to Test Products Under Extreme Conditions</title>
@@ -373,160 +608,6 @@ India has announced a 5% cut in import duties on mobile phones, printed circuit 
 The reduction in import duties is part of India's broader strategy to enhance its role in the global supply chain, particularly in the electronics sector. Apple continues to import a significant number of its premium models, such as the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and &zwnj;iPhone 15 Pro&zwnj; Max, into India. The reduced import duties will make these high-end models more affordable for Indian consumers. <br/>
 <br/>
 The country's official economic survey for 2024 also highlights the positive impact of initiatives such as the Production Linked Incentive (PLI) scheme and the Districts as Export Hubs (DEH) program. These programs have attracted substantial foreign investment, leading to increased local manufacturing capabilities.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/foxconn/">Foxconn</a>, <a href="https://www.macrumors.com/guide/india/">India</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-expansion-in-india-to-accelerate/">Apple&#039;s Expansion in India Set to Accelerate Thanks to Duty Reductions</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-expansion-in-india-set-to-accelerate-thanks-to-duty-reductions.2432130/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>M3 MacBook Air Gets Big &#36;250 Discounts at Best Buy for Members, Plus Last Chance for OWC&#039;s Thunderbolt 3 Dock at &#36;99.99</title>
-		<link>https://www.macrumors.com/2024/07/24/m3-macbook-air-owc-thunderbolt-dock/</link>
-		<comments>https://forums.macrumors.com/threads/m3-macbook-air-gets-big-250-discounts-at-best-buy-for-members-plus-last-chance-for-owcs-thunderbolt-3-dock-at-99-99.2432126/</comments>
-		<pubDate>Wed, 24 Jul 2024 07:30:25 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/m3-macbook-air-owc-thunderbolt-dock/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Best Buy today has every model of <a href="https://howl.me/cmJGUyxasoz">Apple's 15-inch M3 MacBook Air</a> on sale for new all-time low prices. These deals are only available to My Best Buy Plus and Total members, and reach &#36;250 off each of these computers. We're also still tracking a massive &#36;180 discount on <a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3DK14PSG%2F">OWC's 14-Port Thunderbolt 3 Dock today</a>.<br/>
-<br/>
-<h2>15-Inch M3 MacBook Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/05/m3-macbook-air-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950298" /><em><small>Note: MacRumors is an affiliate partner with these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Starting with the 8GB RAM/256GB SSD 15-inch M3 MacBook Air, you can get this model for <a href="https://howl.me/cmJGUyxasoz"><strong>&#36;1,049.00</strong></a> if you're a My Best Buy Plus/Total member, down from &#36;1,299.00. The 8GB RAM/512GB SSD model is available for <a href="https://howl.me/cmJGV1d2vuA"><strong>&#36;1,249.00</strong></a> for members, down from &#36;1,499.00, while the 16GB RAM/512GB model is on sale for <a href="https://howl.me/cmJGW0QIpnc"><strong>&#36;1,449.00</strong></a>, down from &#36;1,699.00.<br/>
-<br/>
-<div class="center-wrap"><em><strong>Note: My Best Buy Plus/Total membership required to see deals.</strong></em></div><br/>
-<div class="center-wrap"><a href="https://howl.me/cmJGUyxasoz"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-inch M3 MacBook Air (8GB/256GB) for &#36;1,049.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/cmJGV1d2vuA"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-inch M3 MacBook Air (8GB/512GB) for &#36;1,249.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/cmJGW0QIpnc"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-inch M3 MacBook Air (16GB/512GB) for &#36;1,449.00</div></a></div><br/>
-<br/>
-It's worth noting that even if you have to pay the &#36;49.99/year starting fee to join Best Buy's membership, today's MacBook Air deals are so steep you'll still come out paying around &#36;1,099.99 for the entry-level model, which is a match for the typical best price on the computer. The same goes for the other two models as well.<br/>
-<br/>
-<h2>OWC Thunderbolt 3 Dock</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/07/owc-dock-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959786" /><br/>
-<br/>
-If you're looking to expand the port options on your new MacBook Air, or any other recent Mac model, OWC this week has its popular <a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3DK14PSG%2F">14-Port Thunderbolt 3 Dock</a> available for just &#36;99.99, down from its original price of &#36;279.99. This sale will end later tonight, and we're not sure when it will return, so it's worth checking out today before it expires.<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.kqzyfj.com/click-462641-11911660?url=https%3A%2F%2Feshop.macsales.com%2Fitem%2FOWC%2FTB3DK14PSG%2F"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;180 OFF</div>OWC 14-Port Thunderbolt 3 Dock for &#36;99.99</div></a></div><br/>
-<br/>
-This accessory features two Thunderbolt 3 ports, five USB Type-A ports, one USB Type-C port, one Mini DisplayPort port, one gigabit Ethernet port, one S/PDIF digital audio output port, and one 3.5mm stereo audio input/output port. There are also two memory card slots for microSD and SD cards.<br/>
-<br/>
-You can also find even more docks, hubs, external drives, and memory on sale <a href="https://www.macrumors.com/2024/07/20/owcs-14-port-mac-thunderbolt-dock/">in our main post on OWC's sale</a>. Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/m3-macbook-air-owc-thunderbolt-dock/">M3 MacBook Air Gets Big &#36;250 Discounts at Best Buy for Members, Plus Last Chance for OWC&#039;s Thunderbolt 3 Dock at &#36;99.99</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m3-macbook-air-gets-big-250-discounts-at-best-buy-for-members-plus-last-chance-for-owcs-thunderbolt-3-dock-at-99-99.2432126/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Intelligence to Generate Playlist Artwork in iOS 18</title>
-		<link>https://www.macrumors.com/2024/07/24/apple-intelligence-to-generate-playlist-artwork/</link>
-		<comments>https://forums.macrumors.com/threads/apple-intelligence-to-generate-playlist-artwork-in-ios-18.2432123/</comments>
-		<pubDate>Wed, 24 Jul 2024 06:18:43 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/apple-intelligence-to-generate-playlist-artwork/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>9to5Mac</category>
-		<category>Apple Music</category>
-		
-
-		<description><![CDATA[<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> will feature the ability to create playlist artwork in <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> using generative AI, beta code suggests.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Generic-iOS-18-Feature-Real-Mock.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-954594" /><br/>
-Apple is seemingly preparing to introduce a new feature in &zwnj;iOS 18&zwnj; that allows users to create customized playlist artwork in &zwnj;Apple Music&zwnj; using Apple Intelligence. The feature, uncovered in the <a href="https://www.macrumors.com/2024/07/23/apple-seeds-ios-18-beta-4/">iOS 18 beta 4</a> code by <a href="https://9to5mac.com/2024/07/23/apple-music-playlist-artwork-apple-intelligence/"><em>9to5Mac</em></a>, will enable users to generate unique images tailored to their playlists using Image Playground.<br/>
-<br/>
-At the core of this new functionality is a new "Create Image" button, which users will see while editing their playlists. Once tapped, this button will invoke Image Playground, a tool showcased at WWDC earlier this year. Image Playground enables users to generate new images by inputting written commands. These AI-generated images can vary in appearance, offering animation, illustration, and sketch styles, though it does not support the creation of photorealistic images. Users can specify their preferences for the artwork, and &zwnj;Apple Music&zwnj; will produce several options that match the playlist's theme or content.<br/>
-<br/>
-Like other Apple Intelligence features, it is currently unavailable in the beta versions of &zwnj;iOS 18&zwnj;. Some Apple Intelligence features have been expected to be included in the summer beta releases, although these references were subsequently removed from Apple's website. According to a recent <a href="https://www.macrumors.com/2024/07/07/new-siri-experience-to-debut-spring-2025/">report from <em>Bloomberg</em></a>, some of these AI features might not launch until 2025. Given that Apple Intelligence has not appeared as of the fourth developer beta, it is unclear how many of its features will make it into the iOS 18.0 release. &zwnj;iOS 18&zwnj; is slated for release in the fall, with a beta preview already accessible to developers and public beta users.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/9to5mac-com/">9to5Mac</a>, <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-intelligence-to-generate-playlist-artwork/">Apple Intelligence to Generate Playlist Artwork in iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-intelligence-to-generate-playlist-artwork-in-ios-18.2432123/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Vision Pro Gains New Lake Vrangla Environment</title>
-		<link>https://www.macrumors.com/2024/07/24/apple-vision-pro-lake-vrangla-environment/</link>
-		<comments>https://forums.macrumors.com/threads/apple-vision-pro-gains-new-lake-vrangla-environment.2432114/</comments>
-		<pubDate>Wed, 24 Jul 2024 04:35:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/apple-vision-pro-lake-vrangla-environment/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Vision Pro</category>
-		
-
-		<description><![CDATA[Apple has released a new Environment for <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, called Lake Vrangla, which is close to Oslo in Norway.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/lake-vrangla-environment-vision-pro-1.jpg" alt="" width="1770" height="994" class="aligncenter size-full wp-image-959756" /><br/>
-&zwnj;Apple Vision Pro&zwnj;'s passthrough cameras are designed to show the wearer their physical surroundings, allowing them to place apps and other digital objects within the room. However, using the Digital Crown, users can switch to full virtual reality and block out the real world using a selection of Environments.<br/>
-<br/>
-The new Lake Vrangla Environment is available to all users as a simple download, which can be initiated from the Environments tab of the Home View, regardless of whether users are running <a href="https://www.macrumors.com/roundup/visionos/">visionOS</a> 1 or the <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a> beta.<br/>
-<br/>
-Like Mount Hood, the foggy new environment has a night version that offers a calming sunset scene, and any video viewed over the lake will reflect in the water.<br/>
-<br/>
-This release follows Apple's announcement that the Bora Bora Environment will be included in &zwnj;visionOS 2&zwnj; later this year. Its arrival will complete the current Environments menu, making all 13 listed options fulfilled and usable.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/apple-vision-pro-lake-vrangla-environment/">Apple Vision Pro Gains New Lake Vrangla Environment</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-pro-gains-new-lake-vrangla-environment.2432114/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Kuo: 2026 iPhone to Use New Advanced Camera Sensor From Samsung</title>
-		<link>https://www.macrumors.com/2024/07/24/2026-iphone-48mp-camera-sensor-samsung/</link>
-		<comments>https://forums.macrumors.com/threads/kuo-2026-iphone-to-use-new-advanced-camera-sensor-from-samsung.2432111/</comments>
-		<pubDate>Wed, 24 Jul 2024 04:06:13 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/24/2026-iphone-48mp-camera-sensor-samsung/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Samsung</category>
-		<category>Ming-Chi Kuo</category>
-		
-
-		<description><![CDATA[Apple's iPhone will adopt a new 1/2.6-inch 48MP Ultra Wide CMOS image sensor (CIS) made by Samsung as early as 2026, breaking Sony's years-long monopoly as Apple's CIS supplier, according to Apple analyst Ming-Chi Kuo.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/10/iphone_12_pro_sensor_shift.jpg" alt="" width="2000" height="1118" class="aligncenter size-full wp-image-764639" /><br/>
-Writing in a brief report <a href="https://x.com/mingchikuo/status/1816057976358330824">published on X</a> (formerly Twitter), Kuo said Samsung has already established a dedicated team within its ranks to work on the camera components with a view to specifically supplying Apple. <br/>
-<br/>
-For years now, Apple has exclusively sourced CIS for its iPhones from Sony. However, recent developments suggest a strategic shift away from the Japanese supplier due to concerns about reliability and Apple's need to integrate new technologies into its camera system.<br/>
-<br/>
-If the 2026 production roadmap goes to plan, Apple could be using Samsung-made image sensors in the camera system that features on its iPhone 18 series.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/samsung/">Samsung</a>, <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/24/2026-iphone-48mp-camera-sensor-samsung/">Kuo: 2026 iPhone to Use New Advanced Camera Sensor From Samsung</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-2026-iphone-to-use-new-advanced-camera-sensor-from-samsung.2432111/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Adobe Adds New AI Tools to Photoshop and Illustrator</title>
-		<link>https://www.macrumors.com/2024/07/23/photoshop-illustrator-new-ai-tools/</link>
-		<comments>https://forums.macrumors.com/threads/adobe-adds-new-ai-tools-to-photoshop-and-illustrator.2432087/</comments>
-		<pubDate>Tue, 23 Jul 2024 16:00:59 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/photoshop-illustrator-new-ai-tools/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Adobe</category>
-		
-
-		<description><![CDATA[Adobe today updated its Illustrator and Photoshop Creative Cloud apps, introducing a range of new features that streamline productivity. Many of the additions take advantage of generative AI and machine learning to save creators time.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/adobe-photoshop-selection-brush-tool.jpg" alt="" width="1170" height="876" class="aligncenter size-full wp-image-959738" /><br/>
-Photoshop has a <a href="https://blog.adobe.com/en/publish/2024/07/23/supercharge-core-creative-workflows-adobe-photoshops-latest-update">new Selection Brush Tool</a> for selecting areas by brushing over them without having to use the Quick Mask mode. The tool has opacity and hardness settings for feathered edges, allowing for more seamless selections.<br/>
-<br/>
-The Adjustment Brush Tool, which has been in beta, is also available. It allows for painting on adjustments to brightness, saturation, and more, with options for fine tuning selections. Photoshop's Generate Image text to image feature is also out of beta, and it can be used to generate dozens of ideas in minutes using a text prompt and/or reference images.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/photoshop-generate-image.jpg" alt="" width="1170" height="876" class="aligncenter size-full wp-image-959739" /><br/>
-Other new Photoshop features include an improved Contextual Task Bar, support for bulleted and numbered lists, and an Enhance Detail option for Generative Fill.<br/>
-<br/>
-Adobe Illustrator has a Generative Shape Fill feature for filling shapes with detail and color. Adobe says that users can match the style and color of their own artwork to create multiple editable and scalable vector graphic options.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/adobe-illustrator-generative-shape-fill.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-959737" /><br/>
-Text prompts are used to fill vector graphics for Generative Shape Fill, and there are options to add styles like 3D, geometric, or pixel art.<br/>
-<br/>
-<div class="center-wrap"><iframe title="Breaking down new Generative Shape Fill (beta) in Illustrator w/ Paul Trani Adobe Creative Cloud" src="https://www.youtube.com/embed/jwoKOvONq38" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-Adobe improved the Text to Pattern feature in Illustrator, making it simpler to create, edit, and scale seamless vector patterns. Vector graphics that are generated using the feature are crisper, plus there are new UI controls and better editing options.<br/>
-<br/>
-With Mockup, designers can see their creations on objects like product packaging and apparel, with the tool automatically adjusting art to fit the edges of the object. Other new features in Illustrator include the Dimension tool for precise sizing, enhanced selection capabilities, and faster pan and zoom speeds.<br/>
-<br/>
-These new features are available in the latest versions of Illustrator and Photoshop on the desktop. More information can be <a href="https://www.adobe.com">found on Adobe's website</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/adobe/">Adobe</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/photoshop-illustrator-new-ai-tools/">Adobe Adds New AI Tools to Photoshop and Illustrator</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/adobe-adds-new-ai-tools-to-photoshop-and-illustrator.2432087/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Internal Change to iPhone 16 Models Expected to Reduce Overheating</title>
-		<link>https://www.macrumors.com/2024/07/23/internal-change-to-iphone-16-models-expected-to-reduce-overheating/</link>
-		<comments>https://forums.macrumors.com/threads/internal-change-to-iphone-16-models-expected-to-reduce-overheating.2432085/</comments>
-		<pubDate>Tue, 23 Jul 2024 15:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/23/internal-change-to-iphone-16-models-expected-to-reduce-overheating/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPhone 16</category>
-		<category>iPhone 16 Pro</category>
-		<category>The Information</category>
-		
-
-		<description><![CDATA[Shortly after the iPhone 15 Pro and iPhone 15 Pro Max were released last September, some customers began to <a href="https://www.macrumors.com/2023/09/28/iphone-15-pro-overheating-reports/">experience an issue with the devices overheating</a>. Apple eventually mitigated the problem <a href="https://www.macrumors.com/2023/10/04/apple-releases-ios-17-0-3/">with an iOS 17 update</a>, but it might go a step further with the iPhone 16 models that are set to be released later this year.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Lineup-Feature-White.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-911430" /><br/>
-<a href="https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone"><em>The Information</em> today</a> cited a source who said that iPhone 16 models will be equipped with a "larger graphite sheet" inside the chassis of the devices, to address potential overheating. This corroborates a rumor from last November that claimed iPhone 16 models would feature an <a href="https://www.macrumors.com/2023/11/16/iphone-16-new-thermal-design/">improved thermal management system</a>.<br/>
-<br/>
-Apple is expected to release the iPhone 16 series in September, so the devices should be just a few months away from launching. With this rumored change, the post-launch overheating issue should be a thing of the past.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/theinformation-com/">The Information</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/23/internal-change-to-iphone-16-models-expected-to-reduce-overheating/">Internal Change to iPhone 16 Models Expected to Reduce Overheating</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/internal-change-to-iphone-16-models-expected-to-reduce-overheating.2432085/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
