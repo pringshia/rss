@@ -14,12 +14,362 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Fri, 02 Aug 2024 09:01:23 PDT</lastBuildDate>
+	<lastBuildDate>Sat, 03 Aug 2024 03:01:06 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>15+ New Features Coming to the iOS 18 Messages App</title>
+		<link>https://www.macrumors.com/guide/ios-18-messages/</link>
+		<comments>https://forums.macrumors.com/threads/15-new-features-coming-to-the-ios-18-messages-app.2432803/</comments>
+		<pubDate>Fri, 02 Aug 2024 15:17:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-18-messages&#038;post_date=1722647827/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[Major changes are coming to the Messages app with <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, with Apple adding several fun Apple Intelligence features, new formatting, updated effects, satellite support, better texting with green bubble people, and tons more.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Messages-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955693" /><br/>
+This guide highlights everything that's new in the &zwnj;iOS 18&zwnj; Messages app.<br/>
+<br/>
+<h2 id="send_later">Send Later</h2><br/>
+&zwnj;iOS 18&zwnj; adds the option to schedule an iMessage to be sent to someone at a later time or date. If you know someone's birthday is coming up, for example, you can schedule a happy birthday text to them ahead of the date so it's ready to go.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-messages-send-later.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960705" /><br/>
+Scheduling a message can be only be done in conversations with other iMessage users, and it is not an option when texting with an Android user. It works in both individual and group chats, as long as all participants have an Apple device and access to iMessage.<br/>
+<br/>
+To schedule a message, follow these steps:<br/>
+<ol><br/>
+ <li>Open up a conversation in the Messages app.</li><br/>
+ <li>Tap on the "+" button on the left side of the text box.</li><br/>
+ <li>Tap on More.</li><br/>
+ <li>Choose Send Later.</li><br/>
+ <li>Type in your Message.</li><br/>
+ <li>To change the send time, tap on the blue bubble that defaults to Tomorrow 9:00 am. From there, you will have a slider that lets you input a date and a time.</li><br/>
+ <li>With your time selected and your message typed in, tap on the blue arrow to schedule it.</li><br/>
+</ol><br/>
+Messages can be scheduled up to 14 days in advance, so if it's August 1, for example, you can schedule up to August 15. Messages are sent even if your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> is offline without a Wi-Fi or cellular connection.<br/>
+<br/>
+Scheduled messages are displayed at the bottom of a conversation. If you want to change the time of a message or cancel it, tap on the "Edit" button. You will have options to edit the time, delete the message, or send it immediately.<br/>
+<br/>
+<h2 id="tapback_reactions">Tapback Reactions</h2><br/>
+Tapbacks are those little characters you can use to respond to a message by long pressing on it, so you don't need to type out a whole response to something that can be answered with a thumbs up or a heart. &zwnj;iOS 18&zwnj; has two key updates for Tapbacks.<br/>
+<br/>
+<h3 id="updated_design">Updated Design</h3><br/>
+The six standard Tapback icons now feature color and more detail. You can see the new look when long pressing on a text to respond, and in the Tapbacks that you receive.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-messages-tapback-colors.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960707" /><br/>
+When you tap on a Tapback you've received on a message, you can now see who sent what, which is useful if you are in a group chat and get multiple Tapback responses.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-messages-tapback-info.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960708" /><br/>
+<h3 id="emoji_support">Emoji Support</h3><br/>
+Along with the six classic Tapback responses, you can now choose any emoji character when using Tapback. After long pressing to respond to a message, swipe to the left to see common emoji responses or tap on the generic emoji icon thought bubble to bring up the emoji picker.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-messages-tapback-emoji.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960706" /><br/>
+You can choose any emoji, but you can also select from your stickers or your Memoji. Tap on the Memoji icon at the bottom left to get to Memoji, or the sticker icon to see your sticker selections. To add one as a Tapback, just tap on your selection.<br/>
+<br/>
+Stickers can be hard to see at the small size of a Tapback, but most emoji characters and Memoji work well.<br/>
+<br/>
+<h2 id="rcs">RCS</h2><br/>
+<a href="https://www.macrumors.com/guide/rcs/">RCS</a>, or Rich Communication Services, is a new text message protocol replacing SMS and MMS. You'll see it when texting people who don't have iMessage, such as Android users. &zwnj;RCS&zwnj; has nothing to do with iMessage conversations, aka the conversations you have with other Apple device owners (blue bubbles), but it does improve texts with green bubble Android users.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/apple-rcs-thumb.jpg" alt="" width="2776" height="1562" class="aligncenter size-full wp-image-923042" /><br/>
+&zwnj;RCS&zwnj; is a more modern technology than SMS, and it allows for more feature parity in &zwnj;iPhone&zwnj; to Android text message conversations. Many of the frustrations you might have encountered when texting someone with an Android device are resolved with &zwnj;RCS&zwnj;, such as errors sending photos and videos.<br/>
+<br/>
+Here's what you'll get with &zwnj;RCS&zwnj;:<br/>
+<ul><br/>
+ <li>Support for higher resolution photos and videos.</li><br/>
+ <li>Support for larger file sizes and file sharing.</li><br/>
+ <li>Audio messages.</li><br/>
+ <li>Cross-platform emoji reactions.</li><br/>
+ <li>Real-time typing indicators.</li><br/>
+ <li>Read receipts.</li><br/>
+ <li>Ability to send messages over cellular or Wi-Fi (SMS is cellular only). There is no cost to send an &zwnj;RCS&zwnj; message over Wi-Fi.</li><br/>
+ <li>Improved group chats.</li><br/>
+</ul><br/>
+Again, &zwnj;RCS&zwnj; only comes into play when you're texting someone who has an Android device. iMessage is still the default for conversations between Apple device owners, and blue bubbles and green bubbles are not changing.<br/>
+<br/>
+We <a href="https://www.macrumors.com/guide/rcs/">have a full guide on RCS</a> if you want to know more about what to expect.<br/>
+<br/>
+<h2 id="messages_via_satellite">Messages via Satellite</h2><br/>
+Messages via satellite is a new feature that lets you send texts even when you don't have a Wi-Fi or cellular connection, leveraging the satellites that Apple uses for the Emergency SOS via satellite feature.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-messages-via-satellite.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960711" /><br/>
+Messages via satellite is available on the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> or later, and you can send and receive both iMessage and SMS messages, so you're not limited to texting with just &zwnj;iPhone&zwnj; users.<br/>
+<br/>
+Right now, Messages via satellite is free, just like Emergency SOS via satellite. Apple offers two free years of satellite access with an &zwnj;iPhone 14&zwnj; or later, but the company has expanded free access for the &zwnj;iPhone 14&zwnj; until November 2025. Apple has not provided any insight into how much it will eventually charge for satellite access.<br/>
+<br/>
+<h2 id="smart_replies_apple_intelligence">Smart Replies (Apple Intelligence)</h2><br/>
+Using Apple Intelligence, your &zwnj;iPhone&zwnj; can analyze the content in a message that you've received, suggesting Smart Reply options that you can tap for a quick response.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-1-messages-smart-reply.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960223" /><br/>
+If someone asks a question like "Do you want to go to the movies?" Messages will suggest responses like "Sure!" or "Sorry, busy tomorrow." Smart Replies aren't an option for every message that you receive, but Apple often has a suggestion.<br/>
+<br/>
+Smart Replies show up at the top of the keyboard, where suggestions have been in prior versions of iOS. Smart Replies are similar to suggestions, but are more intelligent and are often complete phrases and responses rather than word suggestions that pop up as you type.<br/>
+<br/>
+To use a Smart Reply, just tap it and it'll populate the text box so you can send it. If you don't care for the suggestion, just ignore it, and type in your own response. You'll still see suggestions once you disregard a Smart Reply.<br/>
+<br/>
+<h2 id="writing_tools_apple_intelligence">Writing Tools (Apple Intelligence)</h2><br/>
+Writing Tools aren't specific to the Messages app, but are a systemwide option anywhere you can input text. In Messages, you can write out a text and then select it with a tap and drag gesture to bring up the Writing Tools interface.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-messages-writing-tools.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960712" /><br/>
+Here's what Writing Tools can do for a text message:<br/>
+<ul><br/>
+ <li>Proofread what you've written for spelling and grammar errors, including word choice and sentence structure.</li><br/>
+ <li>Rewrite with a different tone, with options that include Friendly, Professional, and Concise.</li><br/>
+ <li>Summarize what you've written. You can get a quick summary, pull out key points, create a list of topics, or make a table.</li><br/>
+</ul><br/>
+You can tap on the various options to use the Writing Tools, and you can preview changes and decide not to use them or swap them in for what you've written.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-messages-writing-tools-rewrite.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960713" /><br/>
+<h2 id="notification_summaries_apple_intelligence">Notification Summaries (Apple Intelligence)</h2><br/>
+If you have multiple notifications from the Messages app, Apple Intelligence will summarize them for you so you can catch up at a glance and see what's most important without having to read through everything.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-messages-summary.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960714" /><br/>
+This works for both individual conversations and group conversations, and you can see the summaries on the Lock Screen.<br/>
+<br/>
+<h2 id="emoji_design_updates">Emoji Design Updates</h2><br/>
+When you send a single emoji to someone in &zwnj;iOS 18&zwnj;, the emoji now appears much larger than before so the detail is easier to see. Emojis in other quantities are still displayed at the same size.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Messages-Emoji.jpg" alt="" width="1179" height="921" class="aligncenter size-full wp-image-955798" /><br/>
+Apple has also updated the emoji picker. Emoji are displayed larger and with more space between them, plus the Sticker and Memoji interfaces have been integrated into the emoji window.<br/>
+<br/>
+Tapping on the two icons on the bottom left of the emoji picker will take you to Memoji and Stickers, respectively. You can create Memoji and make new stickers directly from the two sections that are in the emoji picker. For stickers, select the sticker section and tap on the blank sticker icon. For Memoji, tap into the Memoji section, tap the three dots, and then choose New, Edit, or Duplicate.<br/>
+<br/>
+<h2 id="stickers_and_memoji_as_emoji">Stickers and Memoji as Emoji</h2><br/>
+Stickers and Memoji have new dedicated sections in the emoji picker because you can now use a sticker or a Memoji just like an emoji. If you add a sticker when typing a text, for example, it is added to the end of your text rather than sent as a separate image.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-emoji-stickers-memoji.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957882" /><br/>
+You can still send a full-size sticker as long as you send it separate from text.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-sticker-emoji.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960709" /><br/>
+Stickers and Memoji sent as emoji only display as emoji on devices running &zwnj;iOS 18&zwnj;, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>, <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a>, and <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a>. On earlier versions of iOS, stickers are sent as separate images as before.<br/>
+<br/>
+<h2 id="text_formatting">Text Formatting</h2><br/>
+You can enhance your text messages with new formatting options. After typing something, tap on the "A" icon above the keyboard. What you've typed is selected, and you can add bold, italic, underline, or strikethrough formatting.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-messages-formatting.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960715" /><br/>
+To add formatting to just one word, double tap on the word to select it and then tap on the "A" icon. You can also use the Text Effects option from the popup menu. Formatting can be used with emoji, but the bold and italic options don't do anything.<br/>
+<br/>
+<h2 id="text_effects">Text Effects</h2><br/>
+Along with the bold, italic, underline, and strikethrough formatting, there are new animated text effects that can be applied to your entire message, a single word, a phrase, or even an emoji or sticker.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-text-effects-messages.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960710" /><br/>
+Just select the text that you want to add an effect to with a double tap and then tap on the "A" icon to get to the text effects interface.<br/>
+<br/>
+Options include Big, Small, Shake, Nod, Explode, Ripple, Bloom, and Jitter.<br/>
+<br/>
+In a conversation with someone running &zwnj;iOS 18&zwnj; or one of its sister updates, the text or emoji that has an effect applied to it will continually animate when viewed. These effects do not work on earlier versions of Apple's operating systems and simply don't show up.<br/>
+<br/>
+<h2 id="math_notes">Math Notes</h2><br/>
+The systemwide Math Notes feature that lets your &zwnj;iPhone&zwnj; solve equations for you works in Messages. To see it in action, type in an equation and you'll get an immediate answer when you add in an equals sign.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-messages-math-notes.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960716" /><br/>
+Math Notes also works for conversions in the Messages app, including currency conversions, temperature conversions, measurement conversions, and more. You can use it by typing in your conversion, such as "20 euros to dollars" and then adding in an equals sign to get the result.<br/>
+<br/>
+<h2 id="link_card_update">Link Card Update</h2><br/>
+Apple tweaked the design of link cards in the Messages app, and the cards now have colorful backgrounds that match the color of the main image in the link, if available.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/iMessage-iOS-18-Link-Cards.jpg" alt="" width="2358" height="1323" class="aligncenter size-full wp-image-955800" /><br/>
+You can see link card previews before a link is sent, and if you long press, you can get customization options. Link cards can be converted to a simpler card style or transformed into a text link that only shows the hyperlink with no preview at all.<br/>
+<br/>
+<h2 id="image_playground_coming_later_this_year">Image Playground (Coming Later This Year)</h2><br/>
+Image Playground is an upcoming Apple Intelligence feature that is designed to let you create images using text-based prompts, much like you can do with other AI image generation platforms.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-image-playground.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960704" /><br/>
+Apple is integrating Image Playground into the Messages app, so you can create and send images without having to swap over to another app. Apple Intelligence can glean the gist of your conversation from the Messages app and come up with suggestions for images that you might want to send.<br/>
+<br/>
+Image Playground can even incorporate images of your friends and family, so if you're chatting with a friend, you can create a silly image that uses the friend's contact photo. Apple adds a style to each image, so there is no option to generate something that could be mistaken for a real photo.<br/>
+<br/>
+You can choose from Animation, Illustration, and Sketch styles, and all image generation is done on-device.<br/>
+<br/>
+<h2 id="genmoji_coming_later_this_year">Genmoji (Coming Later This Year)</h2><br/>
+Based on Image Playground, Genmoji lets you create custom emoji with a text prompt. Have you always wanted an emoji of a mint chocolate chip ice cream cone? It can be made with Genmoji.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-genmoji.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960703" /><br/>
+Need a cat made from pizza, or a flower that's not a rose or a sunflower? Genmoji will make it possible. With the Genmoji interface, you can describe a Genmoji and Apple Intelligence will generate several options for you to choose from.<br/>
+<br/>
+You can even create an emoji based on the contact image of a friend or family member, similar to Image Playground.<br/>
+<br/>
+Genmoji behave just like emoji and can be used in place of emoji.<br/>
+<br/>
+<h2 id="read_more">Read More</h2><br/>
+Additional information on new features that Apple has added in &zwnj;iOS 18&zwnj; <a href="https://www.macrumors.com/roundup/ios-18/">can be found in our iOS 18 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-18-messages/">15+ New Features Coming to the iOS 18 Messages App</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/15-new-features-coming-to-the-ios-18-messages-app.2432803/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>TikTok Sued by United States Justice Department for Violating Child Privacy Laws</title>
+		<link>https://www.macrumors.com/2024/08/02/tiktok-sued-us-justice-department/</link>
+		<comments>https://forums.macrumors.com/threads/tiktok-sued-by-united-states-justice-department-for-violating-child-privacy-laws.2432795/</comments>
+		<pubDate>Fri, 02 Aug 2024 12:35:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/02/tiktok-sued-us-justice-department/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>TikTok</category>
+		
+
+		<description><![CDATA[The United States Department of Justice <a href="https://www.justice.gov/opa/pr/justice-department-sues-tiktok-and-parent-company-bytedance-widespread-violations-childrens">today sued TikTok</a> and its parent company ByteDance for violating the Children's Online Privacy Protection Act (COPPA). COPPA makes it illegal for websites to collect, use, and disclose data from children under the age of 13 without parental consent.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-752609" src="https://images.macrumors.com/article-new/2020/08/tiktok-logo.jpg" alt="" width="1600" height="900" /><br/>
+The lawsuit [<a href="https://www.justice.gov/opa/media/1362606/dl?inline">PDF</a>] alleges that from 2019 on, TikTok has knowingly allowed children to create TikTok accounts and to create, view, and share videos and messages with adults and others on the TikTok platform. TikTok is accused of collecting and retaining personal information from children without consent from their parents. Data was collected even from accounts created in Kids Mode.<br/>
+<br/>
+Millions of children under 13 have used the regular TikTok app, which the DoJ says has subjected them to "extensive data collection" and allowed them to "interact with adult users and access adult content." TikTok is also accused of making it difficult for parents to get their child's account and data deleted.<br/>
+<br/>
+The Department of Justice is seeking civil penalties for every COPPA violation and injunctive relief that would prevent TikTok from continuing to collect data from children.<br/>
+<br/>
+TikTok is already <a href="https://www.macrumors.com/2024/05/08/tiktok-sues-us-government/">embroiled in a lawsuit</a> with the U.S. government over a bill that requires the social network to be sold off to a non-Chinese company or face a ban in the United States. TikTok parent company ByteDance has until January 19, 2025 to find a buyer for TikTok, but a sale is unlikely because the Chinese government would need to approve the divestiture, and it has said that it would "firmly oppose" any effort to sell TikTok.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/tiktok/">TikTok</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/02/tiktok-sued-us-justice-department/">TikTok Sued by United States Justice Department for Violating Child Privacy Laws</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tiktok-sued-by-united-states-justice-department-for-violating-child-privacy-laws.2432795/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Hands-On With Dyson&#039;s OnTrac Headphones</title>
+		<link>https://www.macrumors.com/2024/08/02/hands-on-dyson-headphones/</link>
+		<comments>https://forums.macrumors.com/threads/hands-on-with-dysons-ontrac-headphones.2432790/</comments>
+		<pubDate>Fri, 02 Aug 2024 11:47:51 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/02/hands-on-dyson-headphones/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>Dyson</category>
+		
+
+		<description><![CDATA[Dyson recently announced <a href="https://www.dyson.com/headphones/ontrac">new OnTrac over-ear headphones</a> with ANC, and at &#36;500, OnTrac is a direct competitor for Apple's <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a>. Dyson smartly did away with the unpopular air purifying mask design that it used for its prior-generation headphones, and the new model boasts a more traditional look with exceptional battery life.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/-W6AnA1fdt0" title="Dyson Made Headphones Again...but these are GOOD!? | Dyson OnTrac Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+Dyson's OnTrac headphones come in four metallic colorways, including CNC Aluminium, Copper, Ceramic Cinnabar (with a ceramic-feel painted finish), and Black Nickel, plus there are interchangeable ear caps and cushions in a range of colors for customization.<br/>
+<br/>
+The headphones have "high-grade foam cushions" covered in microsuede, and multi-pivot gimbal arms that are meant to relieve ear pressure. There's also a headband with a battery inside, which Dyson says evenly distributes weight. With the metal build and the multiple batteries that Dyson has included, the headphones weigh 451 grams, making them heavier than the &zwnj;AirPods Max&zwnj; (385 grams).<br/>
+<br/>
+The &zwnj;AirPods Max&zwnj; are too heavy for some users, and weight has been a complaint. With the OnTrac, weight is indeed well distributed and not all in the ear cups like the &zwnj;AirPods Max&zwnj;, but we found that they still get uncomfortable over time, so for many people, they likely won't be ideal for all-day use. For comparison, Sonos recently came out with the Ace headphones that weigh 312 grams, and they're more comfortable than both the &zwnj;AirPods Max&zwnj; and the OnTrac.<br/>
+<br/>
+In terms of design, these are not subtle headphones, and you're going to stand out when wearing them. The OnTrac headphones are huge, but well-built and sturdy. The left ear cup has a power button and USB-C charging port, while the right ear cup has a joystick for music playback and <a href="https://www.macrumors.com/guide/siri/">Siri</a> activation when used with an Apple device.<br/>
+<br/>
+Dyson focused on battery life with the OnTrac. With Active Noise Cancellation turned on, the headphones last for up to 55 hours, more than double the battery life of the &zwnj;AirPods Max&zwnj; (20 hours with ANC). Dyson could have cut some weight with less battery capacity, but if you're off grid and need headphones that are going to last for a good three days with heavy listening, the OnTrac has you covered.<br/>
+<br/>
+Dyson says the headphones have 40mm, 16-ohm neodymium speaker drivers and advanced audio signal processing with sub-bass you can feel. While the sound quality was good, the OnTrac is not notably better than the &zwnj;AirPods Max&zwnj; or the Sonos Ace. Active Noise Cancellation and transparency are both solid, and the OnTrac does a good job cutting out ambient noise. Dyson says they can reduce noise by up to 40 decibels.<br/>
+<br/>
+You can adjust the ANC and sound through the app, so there is some customizability, but you are limited to three EQ levels, enhanced, bass boost, and neutral. On-ear detection is available for pausing music when removing the OnTrac, but these are Bluetooth headphones and don't work as seamlessly as the &zwnj;AirPods Max&zwnj; with Apple devices.<br/>
+<br/>
+Dyson plans to start selling the OnTrac headphones on August 12, and they will be <a href="https://www.dyson.com/headphones/ontrac">available from the Dyson website</a>.<br/>
+<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/dyson/">Dyson</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/02/hands-on-dyson-headphones/">Hands-On With Dyson&#039;s OnTrac Headphones</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/hands-on-with-dysons-ontrac-headphones.2432790/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Pulls Latest Ad After Criticism Over Depiction of Thailand</title>
+		<link>https://www.macrumors.com/2024/08/02/apple-pulls-latest-underdogs-ad/</link>
+		<comments>https://forums.macrumors.com/threads/apple-pulls-latest-ad-after-criticism-over-depiction-of-thailand.2432788/</comments>
+		<pubDate>Fri, 02 Aug 2024 11:15:40 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/02/apple-pulls-latest-underdogs-ad/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Ads</category>
+		<category>Thailand</category>
+		
+
+		<description><![CDATA[Apple today issued an apology to Thailand for the way the country was portrayed in a July "The Underdogs" short film, and the video has also been removed from Apple's YouTube channel. In the ad that was <a href="https://www.macrumors.com/2024/07/18/apple-shares-underdogs-video-vision-pro/">released on July 18</a>, the underdogs design team traveled to Bangkok and Rayong, Thailand for a project and were depicted traveling in a tuk-tuk and staying in a rundown hotel.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/underdogs-video.jpg" alt="" width="1280" height="720" class="aligncenter size-full wp-image-959216" /><br/>
+Thai residents found the depiction of Thailand offensive, and took to social media to criticize Apple for portraying the country with outdated stereotypes. The video made Thailand look "low-tech and underdeveloped" due to the faded, sepia tone and focus on dilapidated architecture, according to the Bangkok Post.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Apple’s latest short film commercial &#39;The Underdogs: OOO (Out Of Office)&#39; that aims to represent its gadgets filmed in Thailand has sparked criticism among Thai people as the commercial portrays Thailand in a low-tech and underdeveloped mood and tone, using a warm colour in… <a href="https://t.co/yYgAXCDFUd">pic.twitter.com/yYgAXCDFUd</a></p>&mdash; Bangkok Post (@BangkokPostNews) <a href="https://twitter.com/BangkokPostNews/status/1816768894218260808?ref_src=twsrc%5Etfw">July 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Thai House of Representatives Committee on Tourism spokesperson Sattra Sripan called for a boycott on Apple over the video. "Thai people are deeply unhappy with the advertisement," he said. "I encourage Thai people to stop using Apple products and change to other brands." He said that the tourism committee planned to invite Apple representatives and state agencies to discuss the ad.<br/>
+<br/>
+Apple in a statement to <em><a href="https://www.bangkokpost.com/life/tech/2840337/apple-apologises-and-removes-controversial-ad">Bangkok Post</a></em> this morning said that it was sorry that Thailand was inaccurately portrayed, and confirmed that the ad had been taken down.<br/>
+<blockquote>Our intent was to celebrate the country's optimism and culture, and we apologize for not fully capturing the vibrancy of Thailand today.</blockquote><br/>
+Apple worked with Thailand-based film production studio Indochina Productions on the video, and it was shot entirely in Thailand. Since 2019, Apple has released several videos that star the underdogs as part of an "Apple at Work" ad campaign.<br/>
+<br/>
+This is the second ad that Apple has pulled this year. When the M4 <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> models came out in May, Apple <a href="https://www.macrumors.com/2024/05/10/apple-crush-ad-apology/">showed a video</a> of a hydraulic press crushing an array of creative tools, which was not well received by creatives. Apple pulled the video, apologized, and said that it had "missed the mark" with the ad.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-ads/">Apple Ads</a>, <a href="https://www.macrumors.com/guide/thailand/">Thailand</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/02/apple-pulls-latest-underdogs-ad/">Apple Pulls Latest Ad After Criticism Over Depiction of Thailand</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-pulls-latest-ad-after-criticism-over-depiction-of-thailand.2432788/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Best Apple Deals of the Week: Record Low Prices Hit Nearly Every MacBook Air and MacBook Pro, Plus AirPods Sales</title>
+		<link>https://www.macrumors.com/2024/08/02/best-apple-deals-of-the-week-8-2-24/</link>
+		<comments>https://forums.macrumors.com/threads/best-apple-deals-of-the-week-record-low-prices-hit-nearly-every-macbook-air-and-macbook-pro-plus-airpods-sales.2432781/</comments>
+		<pubDate>Fri, 02 Aug 2024 10:12:29 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/02/best-apple-deals-of-the-week-8-2-24/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[This week we saw a huge collection of discounts hit both the MacBook Air and MacBook Pro, with as much as &#36;500 off select models of these computers. We're also still tracking record low prices on the M4 iPad Pro as we head into the weekend, as well as a few AirPods deals.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/06/Hero0013.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-848004" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+<h2>AirPods</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/03/airpods-pro-2-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-939073" /><br/>
+<ul><li><strong>What's the deal?</strong> Take up to &#36;69 off AirPods</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/07/30/airpods-2-hit-all-time-low/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PXGQC1Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;59 OFF</div>AirPods 2 for &#36;69.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1WXVQTN%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;39 OFF</div>AirPods 3 for &#36;129.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;69 OFF</div>AirPods Pro 2 (USB-C) for &#36;179.99</div></a></div><br/>
+<br/>
+AirPods deals were in abundance earlier this week, and they're all still available today. You can get the AirPods 2, AirPods 3, and AirPods Pro 2 all for solid second-best prices on Amazon right now.<br/>
+<br/>
+<h2>iPad Pro</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/05/m4-ipad-pro-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-952117" /><br/>
+<ul><li><strong>What's the deal?</strong> Take up to &#36;150 off M4 iPad Pro</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://howl.me/cmMFPxxvE8h">Best Buy</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/07/31/best-buy-m4-ipad-pro-on-sale/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://howl.me/cmMFPxxvE8h"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>11-inch iPad Pro (256GB Wi-Fi) for &#36;899.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://howl.me/cmMFUSaNsv1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>13-inch iPad Pro (256GB Wi-Fi) for &#36;1,199.00</div></a></div><br/>
+<br/>
+Best Buy is hosting a massive sale on the M4 iPad Pro this week, including record low prices on both Wi-Fi and cellular tablets. You can find a bigger list of all the iPad Pro models on sale <a href="https://www.macrumors.com/2024/07/31/best-buy-m4-ipad-pro-on-sale/">in our original post</a>, and note that most of these require a My Best Buy Plus or Total membership to see the final deal price.<br/>
+<br/>
+<h2>MacBook Air</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/03/macbook-air-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-939665" /><br/>
+<ul><li><strong>What's the deal?</strong> Take up to &#36;250 off MacBook Air</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://howl.me/cmLOPci9HbR">Best Buy</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/07/29/best-buy-macbook-air-back-to-school/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://howl.me/cmLOPci9HbR"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>13-inch M2 MacBook Air (256GB) for &#36;799.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://howl.me/cmLOKv5uRMs"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>13-inch M3 MacBook Air (256GB) for &#36;849.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://howl.me/cmLONCkWAwU"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>15-inch M3 MacBook Air (256GB) for &#36;1,099.00</div></a></div><br/>
+<br/>
+MacBook Air discounts this week include all-time low prices on the M2 MacBook Air and the M3 MacBook Air, starting at just &#36;799.00 for the former model.<br/>
+<br/>
+<h2>MacBook Pro</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/06/m3-macbook-pro-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-956595" /><br/>
+<ul><li><strong>What's the deal?</strong> Take up to &#36;500 off M3 MacBook Pro</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://howl.me/cmFVQGyVHqc">Best Buy</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/08/01/500-off-m3-macbook-pro/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://howl.me/cmFVQGyVHqc"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO &#36;500 OFF</div>M3 MacBook Pro at Best Buy</div></a></div><br/>
+<br/>
+Finally, Best Buy and Amazon have notable markdowns on Apple's 14-inch and 16-inch M3 MacBook Pro this week, with up to &#36;500 off select models.<br/>
+<br/>
+<br/>
+Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/02/best-apple-deals-of-the-week-8-2-24/">Best Apple Deals of the Week: Record Low Prices Hit Nearly Every MacBook Air and MacBook Pro, Plus AirPods Sales</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-record-low-prices-hit-nearly-every-macbook-air-and-macbook-pro-plus-airpods-sales.2432781/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Says iOS 18&#039;s ChatGPT Integration on Track for Later This Year</title>
+		<link>https://www.macrumors.com/2024/08/02/ios-18-chatgpt-later-this-year/</link>
+		<comments>https://forums.macrumors.com/threads/apple-says-ios-18s-chatgpt-integration-on-track-for-later-this-year.2432780/</comments>
+		<pubDate>Fri, 02 Aug 2024 09:32:22 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/02/ios-18-chatgpt-later-this-year/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 18</category>
+		<category>ChatGPT</category>
+		
+
+		<description><![CDATA[Apple CEO Tim Cook on Thursday said that ChatGPT will be integrated across iOS 18, iPadOS 18, and macOS Sequoia "by the end of the calendar year." He shared this timeframe during <a href="https://www.macrumors.com/2024/08/01/apple-q3-2024-earnings-takeaways/">Apple's quarterly earnings call</a> with analysts.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/iOS-18-ChatGPT.jpg" alt="" width="1825" height="1027" class="aligncenter size-full wp-image-960667" /><br/>
+Apple first said that ChatGPT integration was coming to the iPhone, iPad, and Mac later this year during its WWDC keynote in June, and Cook's comment indicates that this timeframe remains on track as of the first week of August.<br/>
+<br/>
+"ChatGPT is integrated by the end of the calendar year," said Cook, in response to a question about the timing of Apple Intelligence features.<br/>
+<br/>
+With user permission, Siri will be able to show ChatGPT answers directly in response to questions and other prompts. ChatGPT will also be an option for Apple's system-wide Writing Tools feature, allowing users to generate text and images. Apple said ChatGPT will be powered by OpenAI's latest GPT-4o model on its platforms.<br/>
+<br/>
+iPhone, iPad, and Mac users will be able to use ChatGPT for free, without creating an account, and ChatGPT Plus subscribers will be able to connect their accounts to access paid features on these devices. Apple said OpenAI will not store ChatGPT requests made from its devices, and  it said users' IP addresses will be obscured.<br/>
+<br/>
+Apple Intelligence features started rolling out to developers for testing <a href="https://www.macrumors.com/2024/07/29/ios-18-1-apple-intelligence-features/">in the iOS 18.1 beta</a> earlier this week, but ChatGPT integration is not available yet.<br/>
+<br/>
+Apple Intelligence features require an iPhone 15 Pro or iPhone 15 Pro Max, or a Mac or iPad equipped with an M1 chip or newer. The device's language must be set to U.S. English, with support for additional languages to roll out over the next year. <br/>
+<br/>
+The full suite of Apple Intelligence features is expected to be available <a href="https://www.macrumors.com/2024/07/09/ios-18-4-apple-intelligence-powered-siri/">by time iOS 18.4 is released</a> to the public around March 2025. These features will enable users to summarize text, prioritize notifications and emails, generate custom emoji and images, and more. The technology will also power a smarter version of Siri with richer language understanding, deeper per-app controls, on-screen awareness, and personalized context.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/02/ios-18-chatgpt-later-this-year/">Apple Says iOS 18&#039;s ChatGPT Integration on Track for Later This Year</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-says-ios-18s-chatgpt-integration-on-track-for-later-this-year.2432780/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>The MacRumors Show: Apple Intelligence Beta is Here</title>
@@ -638,157 +988,6 @@ I believe Apple Arcade is a good idea in general, but they need a clear goal for
 Another developer offered a slightly more positive perspective:<blockquote>I think Arcade knows who its audience is much more today than at the outset. If that doesn't turn out to be high concept artful indie games, that's not Apple's fault. If they can build a business on family games, good for them and good for the devs who can chase that opportunity.</blockquote><br/>
 <br/>
 &zwnj;Apple Arcade&zwnj; launched in September 2019, giving users access to a large library of games for a monthly fee of &#36;6.99. &zwnj;Apple Arcade&zwnj; is also available as part of the <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a> subscription bundle, which combines multiple Apple services into a single monthly plan. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/01/apple-arcade-frustrations-persist-for-developers/">Apple Arcade Frustrations Persist for Game Developers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-arcade-frustrations-persist-for-game-developers.2432682/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Google Maps and Waze Updated With New iPhone and CarPlay Features</title>
-		<link>https://www.macrumors.com/2024/08/01/google-maps-waze-new-carplay-features/</link>
-		<comments>https://forums.macrumors.com/threads/google-maps-and-waze-updated-with-new-iphone-and-carplay-features.2432673/</comments>
-		<pubDate>Thu, 01 Aug 2024 03:46:31 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/01/google-maps-waze-new-carplay-features/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Google Maps</category>
-		<category>Waze</category>
-		
-
-		<description><![CDATA[Google has <a href="https://blog.google/products/maps/maps-waze-new-features-information-on-the-go/">announced</a> new Waze and Google Maps features rolling out for <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a> users that aim to keep them safer and more informed on the go. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/google-maps-waze-updates.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-960484" /><br/>
-First up, changes to Maps aim to make it easier to report incidents and helpful information, like nearby construction, lane closures, objects and police presence. These reports come from the Maps and Waze communities, and users will now see which app a report came from. There are larger reporting icons that are designed to be easier to tap for quickly sharing updates, and other drivers can also confirm the incident with a quick tap.<br/>
-<br/>
-Meanwhile, Google Maps gains new destination guidance to make it less confusing when users don't know where to enter or park when they arrive somewhere, especially if it's nighttime. When driving to a place, Maps' new destination guidance will automatically light up your building and its entrance as you approach it, in addition to showing you nearby parking lots. <br/>
-<br/>
-Over on Waze, Google is adding the ability to see new camera types that enforce things like speed limits and carpool lanes. For example, drivers now see an alert if they're approaching a camera that snaps pictures for things like speeding, running a red light, using the wrong lane (like bus, HOV or carpool), not wearing a seatbelt, or using phones while driving.<br/>
-<br/>
-In addition, Waze is getting a new traffic events feature, which is meant to give users a better understanding of how things like parades, concerts, and sporting events are impacting nearby traffic. If a driver recently went through an impacted area or has places saved near the area in Waze, they will now get a notification once the event has started. This will include details like the cause of the event, if there are road closures and real-time traffic conditions. To help your friends and family, these details are also easily shareable, allowing others to be more prepared for their own ride. <br/>
-<br/>
-Lastly, Waze drivers will soon get navigation guidance like turn-by-turn directions and real-time traffic updates while their phone is locked. Google says Lock Screen navigation for Waze is coming to iOS this fall, while the other updates to Google Maps and Waze are rolling out globally now on Android and iOS, cars with Google built-in, Android Auto, and Apple &zwnj;CarPlay&zwnj;.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/google-maps/">Google Maps</a>, <a href="https://www.macrumors.com/guide/waze/">Waze</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/01/google-maps-waze-new-carplay-features/">Google Maps and Waze Updated With New iPhone and CarPlay Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/google-maps-and-waze-updated-with-new-iphone-and-carplay-features.2432673/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16 Pro White, Gray, and Dark Black Colors Shown in New Image</title>
-		<link>https://www.macrumors.com/2024/08/01/iphone-16-pro-colors-shown-leaked-image/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-pro-white-gray-and-dark-black-colors-shown-in-new-image.2432671/</comments>
-		<pubDate>Thu, 01 Aug 2024 02:26:54 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/01/iphone-16-pro-colors-shown-leaked-image/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPhone 16 Pro</category>
-		<category>Sonny Dickson</category>
-		
-
-		<description><![CDATA[Leaker <a href="https://x.com/sonnydickson/status/1818820084762292243">Sonny Dickson</a> is back today with a new dummy unit image showing three alleged iPhone 16 Pro color variants, including a seemingly darker Black Titanium unit compared to the color of the same name on existing iPhone 15 Pro models.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/iphone-16-pro-colors-sonny.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-960477" /><br/>
-The iPhone 16 Pro models are expected to come in black, white or silver, gray or "Natural Titanium," and a rose or rose gold color replacing Blue Titanium, according to <a href="https://www.macrumors.com/2024/05/19/iphone-16-lineup-to-come-in-these-two-new-colors/">Apple analyst Ming-Chi Kuo</a> and <a href="https://x.com/VNchocoTaco/status/1772522408144191732">other leakers</a>. <br/>
-<br/>
-Dickson's image shows the white, black, and gray versions, but there is no sign of the much-rumored rose gold variant, which was recently described by one leaker as having more of a <a href="https://www.macrumors.com/2024/07/31/new-iphone-16-pro-color-bronze-appearance/">bronze-like hue</a>. Apple did not include a gold option in the iPhone 15 lineup, so a similar variant could see heightened demand.<br/>
-<br/>
-One <a href="https://www.macrumors.com/2024/03/29/iphone-16-pro-new-polished-titanium-finish/">rumor</a> suggests that Apple is using an improved process for finishing and coloring titanium, which will result in a glossier look than the brushed aluminum finish of the iPhone 15 Pro models. The glossy finish could look much more like the stainless steel that Apple used in prior years, but it will be more resistant to scratches.<br/>
-<br/>
-We don't actually know the official color names yet, but Apple may choose to stick with the Titanium colorway branding it used for the iPhone 15 Pro models. The next-generation iPhone 16 lineup is due to arrive around mid-September, so we will know for sure soon. Dickson revealed the colors for the standard (non-Pro) iPhone 16 models on <a href="https://www.macrumors.com/2024/07/31/revealed-iphone-16-colors-redesigned-camera/">Wednesday</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/sonny-dickson/">Sonny Dickson</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/01/iphone-16-pro-colors-shown-leaked-image/">iPhone 16 Pro White, Gray, and Dark Black Colors Shown in New Image</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-pro-white-gray-and-dark-black-colors-shown-in-new-image.2432671/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Logitech Considers &#039;Forever Mouse&#039; With Subscription Fee</title>
-		<link>https://www.macrumors.com/2024/07/31/logitech-forever-mouse/</link>
-		<comments>https://forums.macrumors.com/threads/logitech-considers-forever-mouse-with-subscription-fee.2432653/</comments>
-		<pubDate>Wed, 31 Jul 2024 17:33:22 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/31/logitech-forever-mouse/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Logitech</category>
-		
-
-		<description><![CDATA[Logitech has worked on a "forever mouse" that could come with a subscription fee for regular software updates, according to Logitech CEO Hanneke Faber.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/logitech-mouse.jpg" alt="" width="1187" height="668" class="aligncenter size-full wp-image-960435" /><br/>
-There are no plans to release such a product at the current time, but Faber explained the concept during a recent appearance on <a href="https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decoder-podcast-interview"><em>The Verge</em>'s Decoder podcast</a> with Nilay Patel. Apparently, the Logitech innovation center team in Ireland showed Faber a "forever mouse" that is designed to be used for many years. It's a "little heavier" than a standard mouse, and it has "great software and services" that get constantly updated.<blockquote>The other day, in Ireland, in our innovation center there, one of our team members showed me a forever mouse with the comparison to a watch. This is a nice watch, not a super expensive watch, but I'm not planning to throw that watch away ever. So why would I be throwing my mouse or my keyboard away if it's a fantastic-quality, well-designed, software-enabled mouse. The forever mouse is one of the things that we'd like to get to.</blockquote>Logitech is aiming to increase the longevity of its products through more premium devices that can be updated over time. Of course, as a mouse is a one-time purchase, continual software updates would need to be funded through some kind of service model.<br/>
-<br/>
-Patel asked Faber if she could "envision a subscription mouse," and she responded "possibly." Faber went on to explain that customers would "never have to worry about [their mice] again," which is similar to Logitech's video conferencing services.<br/>
-<br/>
-When asked whether Logitech had some other model for monetization than subscription fees or advertising, Faber said no, and that she was "intrigued" by a forever mouse that has an accompanying business model around software updates.<blockquote>We're continuing to recycle and refurbish products. All of that is good. But that said, I am intrigued by a forever mouse or forever video conferencing solution that you just update with software and create a business model around that.</blockquote><br/>
-Later in the interview, Faber said that there could also be a model where customers trade in a mouse for a newer version, similar to something like the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Upgrade Program.<blockquote>The forever mouse, and the forever mouse could be the mouse that you keep and we just send you software updates, but it could also be the mouse that you turn in at Best Buy and we get it back or Best Buy takes it back and refurbs and resells it, which is another business model. We're starting to do that but not yet at the scale that we need to.</blockquote><br/>
-Faber pointed out that customers spend around &#36;26 on a mouse or keyboard on average, which is "really so low" for "stuff you use every day." She said there's "so much room to create more value in that space as we make people more productive."<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/logitech/">Logitech</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/31/logitech-forever-mouse/">Logitech Considers &#039;Forever Mouse&#039; With Subscription Fee</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/logitech-considers-forever-mouse-with-subscription-fee.2432653/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Steve Jobs Auction Features Apple-1, Bomber Jacket, Sealed Original iPhone, and More</title>
-		<link>https://www.macrumors.com/2024/07/31/steve-jobs-auction-apple-1/</link>
-		<comments>https://forums.macrumors.com/threads/steve-jobs-auction-features-apple-1-bomber-jacket-sealed-original-iphone-and-more.2432646/</comments>
-		<pubDate>Wed, 31 Jul 2024 16:08:12 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/31/steve-jobs-auction-apple-1/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Several Apple and Steve Jobs collectibles <a href="https://www.rrauction.com/auctions/auction-details/698?page=1&amp;itemQty=24&amp;view=gallery&amp;sort=hp&amp;cat=0">are up for sale</a> at RR Auction as part of a "Steve Jobs and the Apple Revolution" event, including an Apple-1 Computer, a 4GB original <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, Apple-1 Polaroids from Jobs' pitch deck, Jobs' bomber jacket, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/steve-jobs-auction.jpg" alt="" width="1270" height="715" class="aligncenter size-full wp-image-960438" /><br/>
-A <a href="https://www.rrauction.com/auctions/lot-detail/348973406984025-apple-1-computer-from-apple-employee-dana-redington-from-the-trade-in-pile-in-steve-jobs-office-gifted-by-jobs-and-woz-to-apples-first-applications-engineer/">functional Apple-1 Computer</a> is being auctioned off, and this one is sourced from former Apple employee Dana Redington. It initially came from a "trade-in" pile that was in Steve Jobs' office, and it was gifted to Redington by Jobs and Wozniak. Apple-1 expert Corey Cohen restored the machine. Bids are close to &#36;100,000 now, with the Apple-1 expected to sell for over &#36;300,000.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/apple-a-auction.jpg" alt="" width="1271" height="942" class="aligncenter size-full wp-image-960439" /><br/>
-Several original Polaroids that Jobs used when presenting the Apple-1 to Paul Terrell <a href="https://www.rrauction.com/auctions/lot-detail/348985606984001-steve-jobs-3-apple-1-prototype-polaroid-photographs-given-to-paul-terrell-of-the-byte-shop-in-1976/?cat=668">are being sold off</a>. Terrell famously ordered the Apple-1 machines to sell in The Byte Shop, and the Polaroids were part of the pitch deck. The images are expected to sell for over &#36;30,000.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/jobs-polaroids-auction.jpg" alt="" width="1180" height="664" class="aligncenter size-full wp-image-960440" /><br/>
-An original 4GB &zwnj;iPhone&zwnj; is also for sale, with the device in original condition and still in the box. Original iPhones have been selling for upwards of &#36;50,000, and the rare 4GB models <a href="https://www.macrumors.com/2023/07/17/rare-original-iphone-record-auction-price/">have sold for</a> over &#36;190,000. RR Auction expects the latest 4GB &zwnj;iPhone&zwnj; to sell for &#36;80,000+.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/iphone-auction.jpg" alt="" width="552" height="751" class="aligncenter size-full wp-image-960442" /><br/>
-A <a href="https://www.rrauction.com/auctions/lot-detail/349028906984005-steve-jobs-middle-finger-to-ibm-leather-bomber-jacket/">bomber jacket</a> that Jobs wore in an iconic 1983 photograph is being auctioned off, and the jacket is well-known because Jobs was flipping the bird to an IBM sign in New York City in the image. The jacket could sell for up to &#36;75,000.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/jobs-jacket-auction.jpg" alt="" width="1254" height="1771" class="aligncenter size-full wp-image-960441" /><br/>
-Other items in the auction include two Apple Computer checks signed by Steve Jobs, a Steve Jobs NeXT ID badge Polaroid, a Steve Jobs business card, Jobs' 1972 high school yearbook, several vintage magazines with Jobs on the cover, and several classic Apple Macs and memorabilia.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/31/steve-jobs-auction-apple-1/">Steve Jobs Auction Features Apple-1, Bomber Jacket, Sealed Original iPhone, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/steve-jobs-auction-features-apple-1-bomber-jacket-sealed-original-iphone-and-more.2432646/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Sonos Fixes Bug Causing Battery Drain on iPhone and iPad</title>
-		<link>https://www.macrumors.com/2024/07/31/sonos-fixes-battery-drain-bug/</link>
-		<comments>https://forums.macrumors.com/threads/sonos-fixes-bug-causing-battery-drain-on-iphone-and-ipad.2432641/</comments>
-		<pubDate>Wed, 31 Jul 2024 15:10:41 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/31/sonos-fixes-battery-drain-bug/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Sonos</category>
-		
-
-		<description><![CDATA[Sonos today rolled out a fix for a bug with the Sonos app that has been causing it to drain a significant amount of battery on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. If you've been having battery life issues and are a Sonos user, you may want to install the update ASAP.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/sonos-redesigned-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-947528" /><br/>
-Sonos community manager Keith Nieves <a href="https://www.reddit.com/r/sonos/comments/1egnm5m/sonos_app_update_available/">confirmed the bug fix on Reddit</a> (via <em><a href="https://www.theverge.com/2024/7/31/24210410/sonos-iphone-battery-drain-fix-now-available">The Verge</a></em>), stating that the latest version of the app addresses an unspecified issue that was causing excessive battery use on some Apple devices. There have been several complaints about the app's battery usage over the course of the last week, with the Sonos app running constantly in the background.<br/>
-<br/>
-Unfortunately, several Reddit users have since said they're having issues with the update, which seems to be causing a "No System Found" error message. This is a bug that existed previously, but the update seems to have increased the frequency of the error. Other users have had to re-add their speakers to the Sonos app.<br/>
-<br/>
-Sonos has committed to <a href="https://www.macrumors.com/2024/07/25/sonos-app-update-apology/">providing bi-weekly updates</a> for its iOS app in an effort to fix an ill-received design overhaul. Back in May, Sonos introduced a <a href="https://www.macrumors.com/2024/04/23/redesigned-sonos-app/">redesigned iPhone and iPad app</a> that was meant to provide a more personalized and customizable experience, but it brought several bugs and also removed key features that Sonos customers rely on.<br/>
-<br/>
-Sonos users have been unhappy with the app, and last week, Sonos CEO Patrick Spence penned an apology and outlined the updates that Sonos will introduce over the next few months. Music Library configuration is set to return in August, while user interface improvements and system stability will be addressed in September.<br/>
-<br/>
-Alarm consistency will improve in September as well, and in October, Sonos will reintroduce edit mode for playlists and queues.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/sonos/">Sonos</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/31/sonos-fixes-battery-drain-bug/">Sonos Fixes Bug Causing Battery Drain on iPhone and iPad</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-fixes-bug-causing-battery-drain-on-iphone-and-ipad.2432641/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases Safari Technology Preview 200 With Bug Fixes and Performance Improvements</title>
-		<link>https://www.macrumors.com/2024/07/31/apple-releases-safari-technology-preview-200/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-200-with-bug-fixes-and-performance-improvements.2432640/</comments>
-		<pubDate>Wed, 31 Jul 2024 14:43:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/07/31/apple-releases-safari-technology-preview-200/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Blurb</category>
-		<category>Safari Technology Preview</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://developer.apple.com/safari/download/">released a new update</a> for <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a>, the experimental browser that was <a href="http://www.macrumors.com/2016/03/30/apple-safari-technology-preview-browser/">first introduced</a> in March 2016. Apple designed &zwnj;Safari Technology Preview&zwnj; to allow users to test features that are planned for future release versions of the Safari browser.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-960117" /><br/>
-&zwnj;Safari Technology Preview&zwnj; 200 includes fixes and updates for CSS, JavaScript, Rendering, and Web Extensions.<br/>
-<br/>
-The current &zwnj;Safari Technology Preview&zwnj; release is compatible with machines running <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a> and the <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> beta. Set to launch this fall, &zwnj;macOS Sequoia&zwnj; is the newest version of macOS that Apple is working on. The &zwnj;Safari Technology Preview&zwnj; browser numbering is sequential, so Apple has released 200 updates to its test browser in the last eight years.  <br/>
-<br/>
-The &zwnj;Safari Technology Preview&zwnj; update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has <a href="https://developer.apple.com/safari/download/">downloaded the browser</a> from Apple's website. Complete release notes for the update are available <a href="https://developer.apple.com/safari/technology-preview/release-notes/">on the Safari Technology Preview website</a>.<br/>
-<br/>
-Apple's aim with &zwnj;Safari Technology Preview&zwnj; is to gather feedback from developers and users on its browser development process. &zwnj;Safari Technology Preview&zwnj; can run side-by-side with the existing Safari browser and while it is designed for developers, it does not require a developer account to download and use. <br/>
-<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari-technology-preview/">Safari Technology Preview</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/07/31/apple-releases-safari-technology-preview-200/">Apple Releases Safari Technology Preview 200 With Bug Fixes and Performance Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-safari-technology-preview-200-with-bug-fixes-and-performance-improvements.2432640/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
