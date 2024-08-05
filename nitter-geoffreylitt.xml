@@ -16,6 +16,42 @@
       <height>128</height>
     </image>
       <item>
+        <title>!!con program looks amazing as always - one of the best conferences i&apos;ve ever been to. sadly can&apos;t make it this year but worth a look if you can:
+
+https://bangbangcon.com/</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>!!con program looks amazing as always - one of the best conferences i've ever been to. sadly can't make it this year but worth a look if you can:<br>
+<br>
+<a href="https://bangbangcon.com/">bangbangcon.com/</a></p>]]></description>
+        <pubDate>Mon, 05 Aug 2024 01:38:30 GMT</pubDate>
+        <guid>https://nitter.poast.org/geoffreylitt/status/1820273140942930057#m</guid>
+        <link>https://nitter.poast.org/geoffreylitt/status/1820273140942930057#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: started writing a post this morning *certain* i&apos;d be publishing today.
+
+currently at maybe 40% done lol
+
+but i guess it&apos;s come too far so i gotta finish it now 🤷‍♂️</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>started writing a post this morning *certain* i'd be publishing today.<br>
+<br>
+currently at maybe 40% done lol<br>
+<br>
+but i guess it's come too far so i gotta finish it now 🤷‍♂️</p>]]></description>
+        <pubDate>Sun, 04 Aug 2024 22:12:09 GMT</pubDate>
+        <guid>https://nitter.poast.org/geoffreylitt/status/1820221210426245573#m</guid>
+        <link>https://nitter.poast.org/geoffreylitt/status/1820221210426245573#m</link>
+      </item>
+      <item>
+        <title>the only way i can start writing a blog post is if i truly believe i can finish and publish it within 1 day</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>the only way i can start writing a blog post is if i truly believe i can finish and publish it within 1 day</p>]]></description>
+        <pubDate>Sun, 04 Aug 2024 22:05:58 GMT</pubDate>
+        <guid>https://nitter.poast.org/geoffreylitt/status/1820219654037541267#m</guid>
+        <link>https://nitter.poast.org/geoffreylitt/status/1820219654037541267#m</link>
+      </item>
+      <item>
         <title>R to @geoffreylitt: and once you&apos;re far enough along in the journey, then the esoteric sub-skills can be super rewarding --
 
 eg i still remember realizing how to manage food scraps while cooking from watching Kenji gopro videos, felt like a revelation</title>
@@ -224,39 +260,6 @@ So many thoughts, will try to write up more soon. For those who couldn’t make 
         <pubDate>Fri, 19 Jul 2024 15:56:20 GMT</pubDate>
         <guid>https://nitter.poast.org/geoffreylitt/status/1814328427324784831#m</guid>
         <link>https://nitter.poast.org/geoffreylitt/status/1814328427324784831#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: This seems like the direction I want to explore more, just rolling my own parsing over simple text output… in some sense the beauty of LLMs is the API is string =&gt; string, so perhaps best to lean into that</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>This seems like the direction I want to explore more, just rolling my own parsing over simple text output… in some sense the beauty of LLMs is the API is string =&gt; string, so perhaps best to lean into that</p>]]></description>
-        <pubDate>Mon, 15 Jul 2024 01:49:14 GMT</pubDate>
-        <guid>https://nitter.poast.org/geoffreylitt/status/1812665697849458753#m</guid>
-        <link>https://nitter.poast.org/geoffreylitt/status/1812665697849458753#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: To summarize the replies here: people seem to like Instructor, Vercel “ai”, and litellm…
-
-But my favorite answer was @OrionReedOne @TodePond pointing that “just output text, don’t use the tool call API” is simpler and more flexible</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>To summarize the replies here: people seem to like Instructor, Vercel “ai”, and litellm…<br>
-<br>
-But my favorite answer was <a href="https://nitter.poast.org/OrionReedOne" title="Orion Reed">@OrionReedOne</a> <a href="https://nitter.poast.org/TodePond" title="Lu wilson 🏳️‍🌈">@TodePond</a> pointing that “just output text, don’t use the tool call API” is simpler and more flexible</p>
-<p><a href="https://nitter.poast.org/OrionReedOne/status/1812613196441702463#m">nitter.privacydev.net/OrionReedOne/status/1812613196441702463#m</a></p>]]></description>
-        <pubDate>Mon, 15 Jul 2024 01:47:27 GMT</pubDate>
-        <guid>https://nitter.poast.org/geoffreylitt/status/1812665249377538120#m</guid>
-        <link>https://nitter.poast.org/geoffreylitt/status/1812665249377538120#m</link>
-      </item>
-      <item>
-        <title>what are people doing for LLM tool calling use cases backed by both OpenAI + Anthropic APIs?
-
-i&apos;m annoyed at how many details differ between the two, but reluctant to introduce some heavy layer of abstraction in my code...</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>what are people doing for LLM tool calling use cases backed by both OpenAI + Anthropic APIs?<br>
-<br>
-i'm annoyed at how many details differ between the two, but reluctant to introduce some heavy layer of abstraction in my code...</p>]]></description>
-        <pubDate>Sun, 14 Jul 2024 16:28:00 GMT</pubDate>
-        <guid>https://nitter.poast.org/geoffreylitt/status/1812524459753968101#m</guid>
-        <link>https://nitter.poast.org/geoffreylitt/status/1812524459753968101#m</link>
       </item>
 
   </channel>
