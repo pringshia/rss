@@ -16,6 +16,111 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @geoffreylitt: Also should mention — we are working closely with a  few scientists to prototype Jacquard.
+
+If you publish papers using data  (ideally Python/Latex) and want to try out a new collaborative editor, DM me!</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>Also should mention — we are working closely with a  few scientists to prototype Jacquard.<br>
+<br>
+If you publish papers using data  (ideally Python/Latex) and want to try out a new collaborative editor, DM me!</p>]]></description>
+        <pubDate>Tue, 06 Aug 2024 23:18:47 GMT</pubDate>
+        <guid>https://nitter.poast.org/geoffreylitt/status/1820962755123282046#m</guid>
+        <link>https://nitter.poast.org/geoffreylitt/status/1820962755123282046#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: See this post on the Jacquard project blog: https://www.inkandswitch.com/jacquard/notebook/
+
+Sign up for email updates:
+https://buttondown.email/inkandswitch</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>See this post on the Jacquard project blog: <a href="https://www.inkandswitch.com/jacquard/notebook/">inkandswitch.com/jacquard/no…</a><br>
+<br>
+Sign up for email updates:<br>
+<a href="https://buttondown.email/inkandswitch">buttondown.email/inkandswitc…</a></p>
+<img src="https://nitter.poast.org/pic/card_img%2F1819712409138823168%2FfTypIJtb%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 06 Aug 2024 21:44:57 GMT</pubDate>
+        <guid>https://nitter.poast.org/geoffreylitt/status/1820939142819135655#m</guid>
+        <link>https://nitter.poast.org/geoffreylitt/status/1820939142819135655#m</link>
+      </item>
+      <item>
+        <title>Excited to be working on a new project this summer at &gt;@inkandswitch together with @qualmist and @paulsonnentag! Here&apos;s a quick summary of what we&apos;re up to:
+
+# Jacquard: version control + provenance for empirical research
+
+How do researchers write papers that contain data analysis and charts?
+
+Consider a hypothetical astronomy paper. Measurements are collected from a telescope and written into a raw data file, which is reduced into a smaller CSV, which is loaded into a Python analysis notebook, which outputs further intermediate data files, as well as several visualizations as PNGs, which are then dragged into a web-based collaborative LaTeX editor where the team edits the paper and refines the charts.
+
+This cobbling-together of tools and intermediate data files can cause serious problems for teams of researchers:
+
+- &quot;How did we generate this chart?&quot;: Researchers waste time remembering what script and data were used to generate a given chart or data table. And when an analysis gets updated, it&apos;s tricky to remember what other steps need to be manually rerun to correctly update downstream results.
+- &quot;Where&apos;d that file go?&quot;: The text, the figures, and the code for the paper are spread across various web apps and devices. Any collaborator can edit the paper text on the web, but the moment they want to edit a chart, they have to email their collaborator who has the code on their laptop. Sometimes the team even loses track of a file entirely.
+-  &quot;What&apos;s changed recently?&quot; Authors risk missing important changes made by their collaborators. It&apos;s generally challenging to suggest or review changes; many &quot;track changes&quot; views present too much detail and are difficult to parse.
+
+Through conversations with researchers in fields ranging from astrophysics to oceanography, we&apos;ve learned that these kinds of problems cause daily friction, stealing focus from important work and even causing mistakes. Some researchers use software engineering tools like Git and Makefiles to help with these problems, but those tools are an awkward fit for exploratory research programming, and aren&apos;t easily accessible to scientists who are less familiar with the command line.
+
+---
+
+On this project, we&apos;re prototyping Jacquard: a collaborative environment for writing empirical research papers. The goal is to free up researchers to focus more on their core work of science and communication, and less on tedious bookkeeping. (The name &quot;Jacquard&quot; comes from the automated loom that was an important step in the history of computing.)
+
+Jacquard builds on years of work at Ink &amp; Switch, including most recently Patchwork (http://inkandswitch.com/patchwork/notebook/): a browser-based local-first collaboration environment with powerful version control utilities like branching and history views.
+
+We&apos;re starting out by extending Patchwork to support the kinds of data needed by empirical research papers, like LaTeX files and data visualization scripts.
+
+From there, we aim to add on powerful capabilities like tracking provenance of derived artifacts or making suggestions on a branch. Throughout this process, the prototype should remain a simple web-based collaboration interface that&apos;s accessible to researchers who don&apos;t have prior experience with version control or build systems.
+
+A couple notes about our process:
+
+First, while we&apos;re aiming to invent new collaboration workflows, supporting real science work requires integrating with existing tools as well. So we&apos;ll be taking a pragmatic approach that meets scientists where they are, building bridges to existing desktop workflows and programs.
+
+Second, while this work is related to efforts in scientific reproducibility, that&apos;s not our top priority. Reproducibility efforts often focus on packaging up results once they&apos;re completed; we&apos;re more interested in supporting and accelerating the messy process of getting to the results in the first place.
+
+🗞️ We&apos;ll be posting updates as we go, see links in next post below!
+
+✉️ If you&apos;re an empirical researcher (in any discipline) and would like to talk with us about your experiences with these problems, we&apos;d love to chat—feel free to DM me here or email at geoffrey@inkandswitch.com!</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>Excited to be working on a new project this summer at <a href="https://nitter.poast.org/inkandswitch" title="Ink & Switch">@inkandswitch</a> together with <a href="https://nitter.poast.org/qualmist" title="Josh Horowitz">@qualmist</a> and <a href="https://nitter.poast.org/paulsonnentag" title="Paul Sonnentag (he/him)">@paulsonnentag</a>! Here's a quick summary of what we're up to:<br>
+<br>
+# Jacquard: version control + provenance for empirical research<br>
+<br>
+How do researchers write papers that contain data analysis and charts?<br>
+<br>
+Consider a hypothetical astronomy paper. Measurements are collected from a telescope and written into a raw data file, which is reduced into a smaller CSV, which is loaded into a Python analysis notebook, which outputs further intermediate data files, as well as several visualizations as PNGs, which are then dragged into a web-based collaborative LaTeX editor where the team edits the paper and refines the charts.<br>
+<br>
+This cobbling-together of tools and intermediate data files can cause serious problems for teams of researchers:<br>
+<br>
+- "How did we generate this chart?": Researchers waste time remembering what script and data were used to generate a given chart or data table. And when an analysis gets updated, it's tricky to remember what other steps need to be manually rerun to correctly update downstream results.<br>
+- "Where'd that file go?": The text, the figures, and the code for the paper are spread across various web apps and devices. Any collaborator can edit the paper text on the web, but the moment they want to edit a chart, they have to email their collaborator who has the code on their laptop. Sometimes the team even loses track of a file entirely.<br>
+-  "What's changed recently?" Authors risk missing important changes made by their collaborators. It's generally challenging to suggest or review changes; many "track changes" views present too much detail and are difficult to parse.<br>
+<br>
+Through conversations with researchers in fields ranging from astrophysics to oceanography, we've learned that these kinds of problems cause daily friction, stealing focus from important work and even causing mistakes. Some researchers use software engineering tools like Git and Makefiles to help with these problems, but those tools are an awkward fit for exploratory research programming, and aren't easily accessible to scientists who are less familiar with the command line.<br>
+<br>
+---<br>
+<br>
+On this project, we're prototyping Jacquard: a collaborative environment for writing empirical research papers. The goal is to free up researchers to focus more on their core work of science and communication, and less on tedious bookkeeping. (The name "Jacquard" comes from the automated loom that was an important step in the history of computing.)<br>
+<br>
+Jacquard builds on years of work at Ink & Switch, including most recently Patchwork (<a href="http://inkandswitch.com/patchwork/notebook/">inkandswitch.com/patchwork/n…</a>): a browser-based local-first collaboration environment with powerful version control utilities like branching and history views.<br>
+<br>
+We're starting out by extending Patchwork to support the kinds of data needed by empirical research papers, like LaTeX files and data visualization scripts.<br>
+<br>
+From there, we aim to add on powerful capabilities like tracking provenance of derived artifacts or making suggestions on a branch. Throughout this process, the prototype should remain a simple web-based collaboration interface that's accessible to researchers who don't have prior experience with version control or build systems.<br>
+<br>
+A couple notes about our process:<br>
+<br>
+First, while we're aiming to invent new collaboration workflows, supporting real science work requires integrating with existing tools as well. So we'll be taking a pragmatic approach that meets scientists where they are, building bridges to existing desktop workflows and programs.<br>
+<br>
+Second, while this work is related to efforts in scientific reproducibility, that's not our top priority. Reproducibility efforts often focus on packaging up results once they're completed; we're more interested in supporting and accelerating the messy process of getting to the results in the first place.<br>
+<br>
+🗞️ We'll be posting updates as we go, see links in next post below!<br>
+<br>
+✉️ If you're an empirical researcher (in any discipline) and would like to talk with us about your experiences with these problems, we'd love to chat—feel free to DM me here or email at geoffrey@inkandswitch.com!</p>
+<img src="https://nitter.poast.org/pic/media%2FGUVEJWFWQAAaEg9.jpg" style="max-width:250px;" />
+<img src="https://nitter.poast.org/pic/media%2FGUVEv4UXsAA0EvP.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Tue, 06 Aug 2024 21:44:57 GMT</pubDate>
+        <guid>https://nitter.poast.org/geoffreylitt/status/1820939140432543866#m</guid>
+        <link>https://nitter.poast.org/geoffreylitt/status/1820939140432543866#m</link>
+      </item>
+      <item>
         <title>Highly recommend trying this tool out if you’re a shell scripter!</title>
         <dc:creator>@geoffreylitt</dc:creator>
         <description><![CDATA[<p>Highly recommend trying this tool out if you’re a shell scripter!</p>
@@ -214,52 +319,6 @@ Take a look at the frontier these folks are building: (1/14)</p>]]></description
         <pubDate>Thu, 25 Jul 2024 03:43:24 GMT</pubDate>
         <guid>https://nitter.poast.org/geoffreylitt/status/1816318307265282180#m</guid>
         <link>https://nitter.poast.org/geoffreylitt/status/1816318307265282180#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: This thread has a quick summary of some of the speakers / talks:</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>This thread has a quick summary of some of the speakers / talks:</p>
-<p><a href="https://nitter.poast.org/kaseyklimes/status/1816236775146455111#m">nitter.privacydev.net/kaseyklimes/status/1816236775146455111#m</a></p>]]></description>
-        <pubDate>Thu, 25 Jul 2024 03:38:20 GMT</pubDate>
-        <guid>https://nitter.poast.org/geoffreylitt/status/1816317030145884513#m</guid>
-        <link>https://nitter.poast.org/geoffreylitt/status/1816317030145884513#m</link>
-      </item>
-      <item>
-        <title>AI Interfaces x Malleable Software NYC meetup was a blast! Thanks to everyone who demoed and came out. 
-
-It felt clear from the talks that there’s some kind of inflection point happening…
-
-AI generated UI is getting really fun right now. Malleable software is in the air. Pretty sure we saw 100 AI-generated interfaces across all the demos… Creative interface designers are digging past chatbots into fascinating UI territory. 
-
-So many thoughts, will try to write up more soon. For those who couldn’t make it there’s a recording which will be shared at some point. Thanks to @GopalKRaman and @southpkcommons for hosting with their space!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>AI Interfaces x Malleable Software NYC meetup was a blast! Thanks to everyone who demoed and came out. <br>
-<br>
-It felt clear from the talks that there’s some kind of inflection point happening…<br>
-<br>
-AI generated UI is getting really fun right now. Malleable software is in the air. Pretty sure we saw 100 AI-generated interfaces across all the demos… Creative interface designers are digging past chatbots into fascinating UI territory. <br>
-<br>
-So many thoughts, will try to write up more soon. For those who couldn’t make it there’s a recording which will be shared at some point. Thanks to <a href="https://nitter.poast.org/GopalKRaman" title="Gopal">@GopalKRaman</a> and <a href="https://nitter.poast.org/southpkcommons" title="South Park Commons">@southpkcommons</a> for hosting with their space!</p>
-<img src="https://nitter.poast.org/pic/media%2FGTTRSOyXsAAQ5v_.jpg" style="max-width:250px;" />
-<img src="https://nitter.poast.org/pic/media%2FGTTRSOvWQAAG5Fx.jpg" style="max-width:250px;" />
-<img src="https://nitter.poast.org/pic/media%2FGTTRSOyXMAAqaKP.jpg" style="max-width:250px;" />
-<img src="https://nitter.poast.org/pic/media%2FGTTRSOyWcAANvxY.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 25 Jul 2024 03:11:25 GMT</pubDate>
-        <guid>https://nitter.poast.org/geoffreylitt/status/1816310256999248048#m</guid>
-        <link>https://nitter.poast.org/geoffreylitt/status/1816310256999248048#m</link>
-      </item>
-      <item>
-        <title>Excited for this event in NYC tonight, should be some really fun demos!!
-
-(BTW, signups exceeded room capacity so unfortunately no space to join unless you&apos;re already on the confirmed list in Luma... but it will be recorded!)</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Excited for this event in NYC tonight, should be some really fun demos!!<br>
-<br>
-(BTW, signups exceeded room capacity so unfortunately no space to join unless you're already on the confirmed list in Luma... but it will be recorded!)</p>
-<p><a href="https://nitter.poast.org/geoffreylitt/status/1811079825597059579#m">nitter.privacydev.net/geoffreylitt/status/1811079825597059579#m</a></p>]]></description>
-        <pubDate>Wed, 24 Jul 2024 13:55:51 GMT</pubDate>
-        <guid>https://nitter.poast.org/geoffreylitt/status/1816110046025302439#m</guid>
-        <link>https://nitter.poast.org/geoffreylitt/status/1816110046025302439#m</link>
       </item>
 
   </channel>
