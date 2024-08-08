@@ -14,12 +14,290 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 08 Aug 2024 03:01:27 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 08 Aug 2024 09:01:25 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Loosens App Store External Linking Rules and Changes Fee Structure in European Union</title>
+		<link>https://www.macrumors.com/2024/08/08/app-store-external-links-european-union/</link>
+		<comments>https://forums.macrumors.com/threads/apple-loosens-app-store-external-linking-rules-and-changes-fee-structure-in-european-union.2433208/</comments>
+		<pubDate>Thu, 08 Aug 2024 09:00:06 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/app-store-external-links-european-union/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>App Store</category>
+		<category>European Union</category>
+		<category>Apple Developer Program</category>
+		
+
+		<description><![CDATA[Apple <a href="http://developer.apple.com/news">is today announcing</a> some updates to its Digital Markets Act compliance plan in the European Union, with changes to external linking that give developers more freedom to direct customers to non-App Store purchase options and sales.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/App-Store-vs-EU-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932826" /><br/>
+EU developers that are operating under the new <a href="https://www.macrumors.com/guide/app-store/">App Store</a> business terms or the prior &zwnj;App Store&zwnj; purchase terms can update their apps to communicate and promote offers for purchases available through websites, alternative app marketplaces, other apps, and more.<br/>
+<br/>
+Links to external sources can direct customers outside of the app or to a website with a web view that is available directly in the app. Apple is not directing the design of communications provided to customers, nor is the company dictating what developers are able to say.<br/>
+<br/>
+Developers can provide information about lower prices outside of the &zwnj;App Store&zwnj;, more affordable subscriptions, or any offer available in or outside the app. External links and offer pages can include explanations and instructions about how customers can subscribe to offers outside of the &zwnj;App Store&zwnj; app, though Apple says that communications have to provide accurate information on the digital goods or services available for purchase.<br/>
+<br/>
+Links can be tapped, clicked, or scanned to take users to their destination, and developers have no restrictions on the number of URLs they include. Links with additional parameters, redirects, and intermediate links are allowed, but not for ad tracking purposes.<br/>
+<br/>
+Developers do not have to opt in to the new terms with the Core Technology Fee to take advantage of these link entitlement changes, but must agree to the StoreKit External Purchase Link Entitlement Addendum, which is coming this fall. These terms require developers to use the StoreKit External Purchase APIs, report external purchase transactions, and pay fees and commissions.<br/>
+<br/>
+There are two fees that are associated with directing customers to purchase options outside of the &zwnj;App Store&zwnj;. A 5 percent initial acquisition fee is paid for all sales of digital goods and services that the customer makes on any platform that occur within a 12-month period after an initial install. The fee does not apply to transactions made by customers that had an initial install before the new link changes, but is applicable for new downloads.<br/>
+<br/>
+Apple says that the initial acquisition fee reflects the value that the &zwnj;App Store&zwnj; provides when connecting developers with customers in the European Union.<br/>
+<br/>
+The store services fee, which is in addition to the initial acquisition fee, is a commission that developers pay Apple on all sales of digital goods and services that the customer makes on any platform that occur within a fixed 12-month period from the date of an install, including app updates and reinstalls.<br/>
+<br/>
+According to Apple, the store services fee reflects the ongoing services and capabilities that Apple provides developers, including app distribution and management, &zwnj;App Store&zwnj; trust and safety, re-discovery, re-engagement and promotional tools and services, anti-fraud checks, recommendations, and ratings and reviews.<br/>
+<br/>
+While the initial acquisition fee is the same for both developers that operate under the new business terms and those that use link entitlements under the current terms, the store services fee varies. For the new business terms, the base fee is 10 percent, but it drops to 5 percent for &zwnj;App Store&zwnj; Small Business Program participants and auto-renewal subscriptions after one year. These fees are in addition to the Core Technology Fee of 0.50 euros per first annual install over one million first annual installs.<br/>
+<br/>
+For developers who stick with the standard Apple Developer Program License Agreement, the standard store services fee is 20 percent, but it drops to 7 percent for &zwnj;App Store&zwnj; Small Business Program participants and auto-renewal subscriptions after one year. The standard &zwnj;App Store&zwnj; terms do not require a Core Technology Fee. Apple <a href="https://devcms.apple.com/support/fee-calculator-for-apps-in-the-eu">has a fee calculator</a> that can help EU developers figure out what they'll need to pay.<br/>
+<ul><br/>
+ 	<li><strong>New business terms</strong> - Includes using alternative payment methods in the &zwnj;App Store&zwnj; or distributing outside of the &zwnj;App Store&zwnj; - 5% initial acquisition fee and 5% to 10% store services fee depending on app size, plus Core Technology Fee. Total is 10% to 15% commission, along with the CTF. There is also a payment processing fee of 3% when using the &zwnj;App Store&zwnj;'s payment options.</li><br/>
+ 	<li><strong>Standard business terms</strong> - 5% initial acquisition fee and 7% to 20% store services fee depending on app size. Total is 12% to 27% commission.</li><br/>
+</ul><br/>
+There is one other notable change that Apple is making, and that's giving customers an option to turn off in-app disclosure sheets. By default, Apple will still warn users when they are clicking a link that takes them to non-Apple purchase methods and options, but customers can choose to turn off these warnings when an app links to an external channel. An app that links to an in-app web view will only need to display the disclosure sheet once per session.<br/>
+<br/>
+More information about these changes can be found on <a href="developer.apple.com/news">Apple's developer website</a> and in the specific <a href="developer.apple.com/support/alternative-payment-options-on-the-app-store-in-the-eu/#whats-new">Digital Markets Act page</a> that Apple updates regularly.<br/>
+<br/>
+EU developers can begin planning external linking options for their apps now, and customers will have access to these changes with the launch of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>, tvOS 18, <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a>, and <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a> this fall.<br/>
+<br/>
+As with all of the updates that Apple has made to comply with the Digital Markets Act, these changes are only applicable in the European Union. There are no &zwnj;App Store&zwnj; changes in other countries.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/apple-developer-program/">Apple Developer Program</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/app-store-external-links-european-union/">Apple Loosens App Store External Linking Rules and Changes Fee Structure in European Union</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-loosens-app-store-external-linking-rules-and-changes-fee-structure-in-european-union.2433208/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>M4 Mac Mini to Become Apple&#039;s Smallest Ever Computer With Complete Redesign</title>
+		<link>https://www.macrumors.com/2024/08/08/mac-mini-to-become-smallest-ever-apple-computer/</link>
+		<comments>https://forums.macrumors.com/threads/m4-mac-mini-to-become-apples-smallest-ever-computer-with-complete-redesign.2433207/</comments>
+		<pubDate>Thu, 08 Aug 2024 08:29:08 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/mac-mini-to-become-smallest-ever-apple-computer/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Featured</category>
+		<category>Mac mini</category>
+		<category>Bloomberg</category>
+		<category>Mark Gurman</category>
+		<category>M4 Mac mini</category>
+		
+
+		<description><![CDATA[Apple is planning to debut completely redesigned <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> models with the M4 and M4 Pro chips later this year, <a href="https://www.bloomberg.com/news/articles/2024-08-08/mac-mini-m4-apple-plans-to-release-smallest-desktop-computer-yet"><em>Bloomberg</em></a>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> reports. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/M4-Mac-Mini-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-946149" /><br/>
+The new &zwnj;Mac mini&zwnj; will be the first major design change to the machine since 2010, making it Apple's smallest ever desktop computer. The new &zwnj;Mac mini&zwnj; will apparently approach the size of an <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, but it may be slightly taller than the current model, which is 1.4 inches high. It will continue to feature an aluminum shell. Individuals working on the new device apparently say that it is "essentially an <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> in a small box."<br/>
+<br/>
+Apple is said to have tested &zwnj;Mac mini&zwnj; models with at least three USB-C ports on the back, as well as an area for the power cable and an HDMI port. There will continue to be two versions of the &zwnj;Mac mini&zwnj;: one with the standard M4 chip, similar to the &zwnj;iPad Pro&zwnj;, and one with an M4 Pro chip. The base model is set to begin shipping from suppliers this month ahead of release later in the year, while the high-end model will not be ready until October.<br/>
+<br/>
+The M4 generation of Apple silicon will purportedly be the first time that Apple has used the same chip generation across all of its Macs, with refreshes to add the M4 chip to the <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, MacBook Pro, <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a>, and <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a> planned to take place over the next year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Caution)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/mac-mini-to-become-smallest-ever-apple-computer/">M4 Mac Mini to Become Apple&#039;s Smallest Ever Computer With Complete Redesign</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m4-mac-mini-to-become-apples-smallest-ever-computer-with-complete-redesign.2433207/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Sonos Delays Launch of Arc Soundbar Successor to Focus on Fixing App</title>
+		<link>https://www.macrumors.com/2024/08/08/sonos-delays-product-launces-to-fix-app/</link>
+		<comments>https://forums.macrumors.com/threads/sonos-delays-launch-of-arc-soundbar-successor-to-focus-on-fixing-app.2433204/</comments>
+		<pubDate>Thu, 08 Aug 2024 07:46:25 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/sonos-delays-product-launces-to-fix-app/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Sonos</category>
+		
+
+		<description><![CDATA[Sonos will delay two major product releases that were originally planned later this year in order to focus on improving the quality of its app, according to the company's CEO.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/sonos-redesigned-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-947528" /><br/>
+Speaking on his <a href="https://s22.q4cdn.com/672173472/files/doc_financials/2024/q3/FINAL-SONO-3Q24-Earnings-Transcript-docx.pdf">third quarter earnings call</a>, Sonos chief Patrick Spence told investors that it was "deeply disappointing for me personally" for the company to be on track for the first three quarters of the year, only to revise its expectations for the fourth quarter due to "challenges with our new app."<br/>
+<br/>
+Sonos in May released its <a href="https://www.macrumors.com/2024/04/23/redesigned-sonos-app/">redesigned app</a> with customizable home screen and a more personalized listening service, but Sonos customers quickly found that the app <a href="https://www.macrumors.com/2024/05/10/sonos-said-rolling-out-widely-criticized-app-redesign-took-courage/">lacked several key features</a>, and suffered from multiple bugs. Complaints across social media called the app a "step back" for removing playlist management, alarms, and other features.<br/>
+<br/>
+As a result of the app problems, the Sonos chief said two major product releases – one of which was likely to be the successor to Sonos' flagship Arc soundbar, according to <em><a href="https://www.theverge.com/2024/8/7/24215589/sonos-q3-2024-earnings-ace-headphone-buggy-app">The Verge</a></em> – would now be delayed to focus on improving the company's software.<br/>
+<br/>
+Spence told investors:<br/>
+<blockquote>"The app situation has become a headwind to existing product sales, and we believe our focus needs to be addressing the app ahead of everything else," said Spence. "This means delaying the two major new product releases we had planned for Q4 until our app experience meets the level of quality that we, our customers and our partners expect from Sonos. While this has the painful effect of reducing our Q4 sales expectations, we believe it will set our future products up for greater success over the medium to long term."</blockquote>Spence reiterated an outline of future feature plans that he previously laid out in an <a href="https://www.sonos.com/en-us/blog/update-on-the-sonos-app">apology to users last month</a>, with Sonos planning to push updates on a bi-weekly basis. Among the scheduled plans, alarms are set to be addressed in September, while edit mode for playlists and a queue will come in September or October.<br/>
+<ul><li><a href="https://www.macrumors.com/2024/05/21/hands-on-sonos-ace-headphones/">Hands-On With the New Sonos 'Ace' Headphones</a></li></ul><br/>
+Spence said that Sonos is working hard to earn back customer trust through the continual app improvements. "I want to reiterate again that the entire team and I are committed to making this right with our customers and partners," he added. "It's my #1 focus, and I will not rest until we're in a position where we've addressed these issues and have customers raving about Sonos again."<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/sonos/">Sonos</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/sonos-delays-product-launces-to-fix-app/">Sonos Delays Launch of Arc Soundbar Successor to Focus on Fixing App</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-delays-launch-of-arc-soundbar-successor-to-focus-on-fixing-app.2433204/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Amazon Introduces Big Discounts Across Entire M2/M3 MacBook Air Lineup With Up to &#36;250 Off</title>
+		<link>https://www.macrumors.com/2024/08/08/amazon-m2-m3-macbook-air-discounts/</link>
+		<comments>https://forums.macrumors.com/threads/amazon-introduces-big-discounts-across-entire-m2-m3-macbook-air-lineup-with-up-to-250-off.2433199/</comments>
+		<pubDate>Thu, 08 Aug 2024 07:11:24 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/amazon-m2-m3-macbook-air-discounts/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Amazon this week has a massive sale <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">across the MacBook Air lineup</a>, including both the M2 and M3 MacBook Air models. We tracked many of these deals from Best Buy last week, but Amazon's sales this week don't require any exclusive membership, and in some cases they're even beating the low prices from last week.<br/>
+<br/>
+<h2>13-Inch M2 MacBook Air</h2><br/>
+<img src="https://images.macrumors.com/article-new/2023/11/macbook-air-best-buy.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-924749" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+Starting with the M2 MacBook Air, Amazon is offering up to &#36;254 off these models, including a new all-time low price on the 512GB model. Prices start at &#36;799.00 for the 256GB M2 MacBook Air in all colors, and increase to &#36;944.16 for the 512GB MacBook Air in Midnight.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>13-inch M2 MacBook Air (256GB) for &#36;799.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3C5H787%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;254 OFF</div>13-inch M2 MacBook Air (512GB) for &#36;944.16</div></a></div><h2>13-Inch M3 MacBook Air</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/04/15-inch-m3-macbook-air.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-947373" /><br/>
+<br/>
+For the newer models, Amazon is taking &#36;249 off the 13-inch M3 MacBook Air with multiple all-time low prices. You can get the 256GB 13-inch M3 MacBook Air for &#36;849.98 in every color, down from &#36;1,099.00. Both 512GB models are on sale as well with best-ever prices.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;249 OFF</div>13-inch M3 MacBook Air (256GB) for &#36;849.98</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX22NCHQ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;249 OFF</div>13-inch M3 MacBook Air (8GB/512GB) for &#36;1,049.98</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24BNQC%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;249 OFF</div>13-inch M3 MacBook Air (16GB/512GB) for &#36;1,249.98</div></a></div><h2>15-Inch M3 MacBook Air</h2><br/>
+Finally, Amazon also has the 15-inch M3 MacBook Air for &#36;249-&#36;250 off every model. These start at &#36;1,049.98 for the 256GB 15-inch M3 MacBook Air, down from &#36;1,299.00, and again include both 512GB models. Overall, every 15-inch M3 MacBook Air deal from Amazon this week represents new all-time low prices on each model, beating the deals we saw just last week by about &#36;50.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23GFMJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;249 OFF</div>15-inch M3 MacBook Air (256GB) for &#36;1,049.98</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23P9S7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;249 OFF</div>15-inch M3 MacBook Air (8GB/512GB) for &#36;1,249.98</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX243WQ3%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;250 OFF</div>15-inch M3 MacBook Air (16GB/512GB) for &#36;1,449.00</div></a></div><br/>
+<br/>
+Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/amazon-m2-m3-macbook-air-discounts/">Amazon Introduces Big Discounts Across Entire M2/M3 MacBook Air Lineup With Up to &#36;250 Off</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-introduces-big-discounts-across-entire-m2-m3-macbook-air-lineup-with-up-to-250-off.2433199/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Future Lynk &amp; Co Vehicles Likely to Support Apple Car Keys</title>
+		<link>https://www.macrumors.com/2024/08/08/future-lynk-and-co-model-apple-car-keys/</link>
+		<comments>https://forums.macrumors.com/threads/future-lynk-co-vehicles-likely-to-support-apple-car-keys.2433194/</comments>
+		<pubDate>Thu, 08 Aug 2024 06:17:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/future-lynk-and-co-model-apple-car-keys/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Car Keys</category>
+		
+
+		<description><![CDATA[Apple's <a href="https://www.macrumors.com/guide/carkey/">Car Keys</a> feature appears to be coming to future Lynk & Co models, based on code changes discovered by <em>MacRumors</em> in Apple's Wallet app backend.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/Lynk-Co-Logo.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-961105" /><br/>
+&zwnj;Car Keys&zwnj; allows an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> or Apple Watch with NFC capabilities to unlock a vehicle through the Wallet app. A digital version of a car key is stored in Wallet, and unlocking can be done simply by holding an Apple Watch or ‌&zwnj;iPhone&zwnj;‌ near a compatible vehicle's NFC reader.<br/>
+<br/>
+2021 - 2024 Lynk & Co 01 vehicles already support Apple <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a>. However, cars do not have NFC functionality by default, so this is a feature that would need to be implemented by the automobile manufacturer in future models. <br/>
+<br/>
+The <a href="https://www.arenaev.com/europebound_lynk___co_z20_spotted_for_the_first_time-news-3744.php">Z20</a> is believed to be Lynk & Co's next car launch – and the company's first electric vehicle – so support for &zwnj;Car Keys&zwnj; could well be introduced with this model, which is expected to launch in various European markets.<br/>
+<br/>
+What can be done with &zwnj;Car Keys&zwnj; may vary by car manufacturer, but at a minimum, &zwnj;Car Keys&zwnj; can be used to unlock your car, lock your car, and start your car, which are the features available with a physical key. <br/>
+<br/>
+Apple introduced &zwnj;Car Keys&zwnj; in 2022, and car manufacturers like BMW, Rivian, Kia, and Hyundai have all implemented support for &zwnj;Car Keys&zwnj;. Apple maintains a full list of vehicles that support &zwnj;Car Keys&zwnj; on its <a href="https://www.apple.com/ios/carplay/available-models/">CarPlay model availability webpage</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/carkey/">Car Keys</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/future-lynk-and-co-model-apple-car-keys/">Future Lynk &amp; Co Vehicles Likely to Support Apple Car Keys</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/future-lynk-co-vehicles-likely-to-support-apple-car-keys.2433194/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18: Arrange Icons Around Your iPhone Wallpaper</title>
+		<link>https://www.macrumors.com/how-to/ios-18-arrange-icons-around-your-iphone-wallpaper/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-arrange-icons-around-your-iphone-wallpaper.2433192/</comments>
+		<pubDate>Thu, 08 Aug 2024 05:55:47 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/ios-18-arrange-icons-around-your-iphone-wallpaper&#038;post_date=1723132547/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[With <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, Apple overhauled the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a>, introducing design changes that allow for more customization and personalization. One of the changes is the freedom to arrange icons and widgets with space between them, opening up a variety of new layout options.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-home-screen-icons.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957464" /><br/>
+In <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, new apps added to the &zwnj;Home Screen&zwnj; automatically occupy the next available spot, and there is no way to space out icons on the same page. But with &zwnj;iOS 18&zwnj;, you have more flexibility in arranging your &zwnj;Home Screen&zwnj;. <br/>
+<br/>
+You can now choose the exact location for new apps, allowing for app icon-sized gaps between apps, entire empty rows, or entire empty columns. However, due to the invisible grid system, icons and widgets cannot be placed with uneven spacing, so this should be considered when arranging your &zwnj;Home Screen&zwnj;.<br/>
+<br/>
+This design enables a variety of layouts: For example, you can place a single app in the center of a page, create a row of apps at the top and bottom, form a column of apps, and more. Apple's goal here is to let you organize apps and widgets around wallpapers and create more functional and visually appealing layouts.<br/>
+<br/>
+Here's how to place your icons where you want in &zwnj;iOS 18&zwnj;.<br/>
+<ol><br/>
+  <li>Long press an empty space on the &zwnj;Home Screen&zwnj; to enter jiggle mode.</li><br/>
+  <li>Move your app icons into the desired positions within the invisible grid.</li><br/>
+  <li>Tap <strong>Done</strong>.</li><br/>
+</ol><img src="https://images.macrumors.com/article-new/2024/08/arrange-home-screen-icons-1.jpg" alt="" width="4377" height="2796" class="aligncenter size-full wp-image-961016" /><br/>
+In &zwnj;iOS 18&zwnj;, you can also make your icons bigger by removing the app names from them. <a href="https://www.macrumors.com/how-to/hide-app-icon-labels-iphone-home-screen/">Click the link to learn how it's done</a>. &zwnj;iOS 18&zwnj; is <a href="https://www.macrumors.com/how-to/install-the-ios-18-public-beta/">currently in public beta</a> and will see a general release in the fall.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/ios-18-arrange-icons-around-your-iphone-wallpaper/">iOS 18: Arrange Icons Around Your iPhone Wallpaper</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-arrange-icons-around-your-iphone-wallpaper.2433192/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Would You Subscribe to Apple Intelligence? Analysts Say Some Features Could Cost Up to &#36;20 Per Month</title>
+		<link>https://www.macrumors.com/2024/08/08/apple-intelligence-subscription-price/</link>
+		<comments>https://forums.macrumors.com/threads/would-you-subscribe-to-apple-intelligence-analysts-say-some-features-could-cost-up-to-20-per-month.2433191/</comments>
+		<pubDate>Thu, 08 Aug 2024 05:38:13 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/apple-intelligence-subscription-price/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>CNBC</category>
+		<category>Apple Intelligence</category>
+		
+
+		<description><![CDATA[Apple reportedly plans to turn some Apple Intelligence features into paid subscription services, and some analysts believe the company could charge users up to &#36;20 per month for the privilege.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/apple-intelligence.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-954498" /><br/>
+Last month, <em>Bloomberg</em> reporter Mark Gurman said that while Apple Intelligence will be free to start, Apple's <a href="https://www.macrumors.com/2024/07/01/apple-intelligence-features-likely-paid-sub/">long-term plan</a> is to launch something like "Apple Intelligence+," with extra features that users pay monthly fees to access, similar to iCloud+.<br/>
+<br/>
+Speaking to <em><a href="https://www.cnbc.com/2024/08/08/apple-could-charge-20-for-some-apple-intelligence-features-analysts.html">CNBC</a></em>, Counterpoint Research's Neil Shah said Apple could offer the features as part of a modified Apple One subscription, and he believes an additional figure of between &#36;10 and &#36;20 is a realistic possibility.<br/>
+<br/>
+"Software and services makes it more lucrative for Apple to pass it on with the Apple One subscription model," Shah told <em>CNBC</em> in an interview last week.<br/>
+<br/>
+Apple One costs &#36;19.95 a month and gives users access to various Apple services like Apple Music, Apple TV+, Apple Fitness+, additional cloud storage, and more.<br/>
+<br/>
+"Apple is one of the few connected devices companies that has successfully monetized the value-added services it offers," Ben Wood, chief of research at CCS Insight, told <em>CNBC</em>.<br/>
+<br/>
+"As a result, it has set a precedent with its users that they have to pay for more premium services. On this basis, it can't be ruled out that Apple may choose to charge for more advanced features within its Apple Intelligence offering."<br/>
+<br/>
+Wood added that Apple Intelligence could give the company an option to launched a bundled subscription service with various services under a single price, akin to a new Apple One tier.<br/>
+<br/>
+Apple in the June quarter saw a <a href="https://www.macrumors.com/2024/08/01/apple-q3-2024-earnings-takeaways/">steep increase in services revenue</a> at &#36;24.2 billion, up from &#36;21.2 billion a year ago and a new all-time revenue record. Analysts believe that making its own AI features another services revenue stream could allow Apple to compensate for the slower pace of hardware upgrades and also enable the company to pass the high cost of its investment in AI onto customers.<br/>
+<br/>
+Apple has <a href="https://www.macrumors.com/2024/05/06/apple-building-m2-ultra-and-m4-servers/">reportedly</a> started building its own AI servers that use the M2 Ultra chip, and it is said to be developing its own <a href="https://www.macrumors.com/2024/04/23/apple-developing-its-own-ai-server-processor/">AI server processor</a> using TSMC's 3nm process for use as soon as 2025, which could enhance the performance of its data centers and future AI tools that rely on the cloud. <br/>
+<br/>
+Apple is expected to spend several billion on hardware to support its artificial intelligence development in 2024, <a href="https://www.macrumors.com/2023/10/23/apple-ai-server-spending-2024/">according to Apple analyst Ming-Chi Kuo</a>. Kuo said he expects Apple to spend "at least" &#36;620 million on servers in 2023 and &#36;4.75 billion on servers in 2024. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/cnbc-com/">CNBC</a>, <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/apple-intelligence-subscription-price/">Would You Subscribe to Apple Intelligence? Analysts Say Some Features Could Cost Up to &#36;20 Per Month</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/would-you-subscribe-to-apple-intelligence-analysts-say-some-features-could-cost-up-to-20-per-month.2433191/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 16 Display Mass Production Ramped Up Ahead of Launch</title>
+		<link>https://www.macrumors.com/2024/08/08/iphone-16-display-mass-production/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-16-display-mass-production-ramped-up-ahead-of-launch.2433184/</comments>
+		<pubDate>Thu, 08 Aug 2024 04:18:19 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/iphone-16-display-mass-production/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iPhone 16</category>
+		<category>iPhone 16 Pro</category>
+		
+
+		<description><![CDATA[Apple suppliers have ramped up mass production of iPhone 16 OLED panels ahead of the smartphone's launch in September, reports <em><a href="https://m.etnews.com/20240808000286">ETNews</a></em>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/12/iPhone-16-Pro-Sizes-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-927877" /><br/>
+Both Samsung Display and LG Display began initial production of iPhone 16 OLED panels in June, and significantly ramped up production last month, according to the report.<br/>
+<br/>
+Apple's iPhone 16 shipment forecast for this year is around 90 million units, while it's estimated that the number of OLED panels produced will be approximately 30% higher, at around 120 million units. <br/>
+<br/>
+By the end of the year, Samsung Display is expected to supply about 80 million OLED panels, while LG Display is projected to supply around 43 million panels. Both companies are on track with their production schedules to meet these targets.<br/>
+<ul><li><a href="https://www.macrumors.com/2024/08/08/10-reasons-to-wait-iphone-17/">10 Reasons to Wait for Next Year's iPhone 17</a></li></ul><br/>
+The panels are being sent off to the factories in Apple's supply chain that will assemble the finished ‌iPhone 16‌ models in time for shipping. Going on previous year's, Apple will release the new models around mid-September, with Tuesday, September 10 being floated as a possible announcement date.<br/>
+<br/>
+The ‌iPhone 16‌, ‌iPhone 16‌ Plus, ‌iPhone 16 Pro‌, and ‌iPhone 16 Pro‌ Max will look similar to the iPhone 15 models, but Apple is increasing the size of the ‌iPhone 16 Pro‌ and ‌iPhone 16 Pro‌ Max.<br/>
+<br/>
+The ‌iPhone 16 Pro‌ will have a 6.3-inch display (up from 6.1 inches) while the ‌iPhone 16 Pro‌ Max will have a 6.9-inch display (up from 6.7 inches). Display sizes for the standard ‌iPhone 16‌ models will not change, and the ‌iPhone 16‌ will measure in at 6.1 inches while the ‌iPhone 16‌ Plus will have a 6.7-inch display.<br/>
+<ul><li><a href="https://www.macrumors.com/2024/06/19/iphone-16-pro-max-biggest-rumored-features/">5 Biggest Changes Rumored for iPhone 16 Pro Max</a></li></ul><br/>
+Other new features rumored for the ‌iPhone 16‌ lineup include a new "Capture" button for taking images and videos in landscape mode, faster A-series chips, camera updates, and Wi-Fi 7 and faster 5G modems for some models.<br/>
+<br/>
+More on what to expect from the ‌iPhone 16‌ can be found in our <a href="https://www.macrumors.com/roundup/iphone-16/">dedicated roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/iphone-16-display-mass-production/">iPhone 16 Display Mass Production Ramped Up Ahead of Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-display-mass-production-ramped-up-ahead-of-launch.2433184/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Report: iPad Pro Popularity Cutting Into iPad Air and iPad Mini Sales</title>
+		<link>https://www.macrumors.com/2024/08/08/ipad-pro-quarterly-sales-cirp/</link>
+		<comments>https://forums.macrumors.com/threads/report-ipad-pro-popularity-cutting-into-ipad-air-and-ipad-mini-sales.2433182/</comments>
+		<pubDate>Thu, 08 Aug 2024 03:39:54 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/ipad-pro-quarterly-sales-cirp/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iPad Pro</category>
+		<category>CIRP</category>
+		
+
+		<description><![CDATA[iPad Pro models accounted for the majority of Apple's iPad sales in the June quarter, up from the same quarter a year ago, based on the latest report from <a href="https://cirpapple.substack.com/p/ipad-refresh-looks-like-its-working">Consumer Intelligence Research Partners (CIRP)</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/m4-iPad-Pro-Horizontal-Feature-Purple-Triad.jpg" alt="" width="2250" height="1265" class="aligncenter size-full wp-image-950742" /><br/>
+Apple updated the 11-inch and 13-inch iPad Pro models in May 2024 with the M4 chip, OLED display technology, and a thinner, lighter design. Pricing on the 11-inch OLED iPad Pro starts at &#36;999, and pricing on the 13-inch OLED iPad Pro starts at &#36;1,299. <br/>
+<br/>
+In contrast, the "iPad" is Apple's low-priced mainstream iPad, last updated in October 2022 with a complete redesign, larger display, USB-C port, A14 Bionic chip, 12-megapixel camera, and more. The iPad starting price is &#36;349, but the pricey M4 iPad Pro models are proving to be more popular, and even appear to have cut into iPad mini and iPad Air sales. <br/>
+<br/>
+According to CIRP, in the June 2024 quarter, iPad Pro (both the 11-inch and 13-inch models) accounted for 43% of total iPad sales, an increase from 38% in the year-ago June 2023 quarter. Meanwhile, the iPad remained at 35% compared to the previous year. In the same time periods, iPad Air accounted for 12% of all iPad sales, down from 15% a year ago, and the iPad mini accounted for 10%, down from 12% in the June 2023 quarter.<br/>
+<br/>
+It's worth noting that the iPad mini has not been updated by Apple since September 2021, yet the iPad Air was updated in May alongside the M4 iPad Pro.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/CIRP-ipad-sales-june-2024-quarter.jpg" alt="" width="1127" height="827" class="aligncenter size-full wp-image-961074" /><br/>
+Commenting on the figures, CIRP suggests early adopters are driving the strong iPad Pro sales: "As we've seen with many other Apple product launches, the first-acting consumers appear to have gravitated to the high-end, most expensive models available, in this case the iPad Pros." iPad users: Does that align with your own purchase decisions? Let us know in the comments.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/cirp/">CIRP</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Pro">iPad Pro (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/ipad-pro-quarterly-sales-cirp/">Report: iPad Pro Popularity Cutting Into iPad Air and iPad Mini Sales</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/report-ipad-pro-popularity-cutting-into-ipad-air-and-ipad-mini-sales.2433182/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>2026 iPad Air OLED Panels to Be Supplied By Samsung</title>
@@ -349,225 +627,6 @@ The following steps show you how it's done.<br/>
   <li>Tap on an empty space to hide the customization panel.</li><br/>
 </ol><img src="https://images.macrumors.com/article-new/2024/08/large-home-screen-app-icons.jpg" alt="Home Screen" width="4377" height="2796" class="aligncenter size-full wp-image-960989" /><br/>
 That's all there is to it. If you decide you want to see app labels again, simply repeat the steps, but choose the <strong>Small</strong> option in the customization panel instead. iOS 18 is <a href="https://www.macrumors.com/how-to/install-the-ios-18-public-beta/">currently in public beta</a> and will be officially released to iPhone users in the fall.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/hide-app-icon-labels-iphone-home-screen/">iOS 18: Hide App Names on Your iPhone Home Screen</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-hide-app-names-on-your-iphone-home-screen.2433122/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Google TV Streamer Announced as Chromecast Replacement and Rival to Apple TV 4K</title>
-		<link>https://www.macrumors.com/2024/08/07/google-tv-streamer-announced/</link>
-		<comments>https://forums.macrumors.com/threads/google-tv-streamer-announced-as-chromecast-replacement-and-rival-to-apple-tv-4k.2433121/</comments>
-		<pubDate>Wed, 07 Aug 2024 06:40:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/07/google-tv-streamer-announced/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Google</category>
-		<category>Chromecast</category>
-		
-
-		<description><![CDATA[Google has <a href="https://blog.google/products/google-nest/google-tv-streamer/">announced</a> the Google TV Streamer, a new device that replaces the Chromecast and directly rivals the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> 4K.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/google-tv.jpg" alt="" width="1000" height="563" class="alignnone size-full wp-image-960978" /><br/>
-The discontinuation of the Chromecast marks the end of an era for Google's original streaming dongle, which has been a staple in the market since its launch in 2013. Over 100 million Chromecast devices were sold during its 11-year run. The Google TV Streamer is positioned as a high-end replacement for the Chromecast, promising to deliver a next-generation, AI-powered streaming experience while also functioning as a central hub for smart home devices.<br/>
-<br/>
-The Google TV Streamer provides access to over 700,000 movies and shows through popular streaming apps like YouTube TV, Netflix, Disney+, and &zwnj;Apple TV&zwnj;, as well as live TV with over 800 free channels. One of the standout features is the AI-powered content recommendation system, which uses Google's Gemini technology to curate personalized watchlists and provide detailed summaries, reviews, and season-by-season breakdowns of content.<br/>
-<br/>
-The Google TV Streamer features a faster processor, double the memory, and 32GB of storage. It supports 4K HDR with Dolby Vision and Dolby Atmos. <br/>
-<br/>
-The Google TV Streamer is available in two colors: Porcelain and Hazel, with the latter being exclusive to the U.S. Google Store. The device is intended to sit in front of the TV, rather than behind it, to improve connectivity with smart home devices. The Google TV Streamer supports Matter and includes a built-in Thread border router, which enhances the connectivity and response times of smart home devices like locks and motion sensors.<br/>
-<br/>
-The redesigned voice remote features improved ergonomics with a textured back for better grip and an optimized button layout. It includes a customizable button that can be programmed to open a favorite app, switch inputs, or launch the Google Home panel. The remote also has a built-in "find my remote" feature, allowing users to locate it by voice command or by pressing a button on the back of the device.<br/>
-<br/>
-The Google TV Streamer is positioned to rival high-end streaming devices such as the &zwnj;Apple TV&zwnj; 4K. While the &zwnj;Apple TV&zwnj; 4K offers similar features like 4K HDR and Dolby Vision support, the Google TV Streamer is priced more competitively at &#36;99.99 compared to the &zwnj;Apple TV&zwnj; 4K's starting price of &#36;129. The Google TV Streamer includes Ethernet connectivity as standard, but it lacks the additional storage options that the &zwnj;Apple TV&zwnj; 4K provides, with Apple offering both 64GB and 128GB models.<br/>
-<br/>
-The Google TV Streamer is <a href="https://store.google.com/product/google_tv_streamer">now available for pre-order</a>, with shipping set to begin on September 24, 2024.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/google/">Google</a>, <a href="https://www.macrumors.com/guide/chromecast/">Chromecast</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/07/google-tv-streamer-announced/">Google TV Streamer Announced as Chromecast Replacement and Rival to Apple TV 4K</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/google-tv-streamer-announced-as-chromecast-replacement-and-rival-to-apple-tv-4k.2433121/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16 Lineup Could Launch Earlier Than Usual in Korea</title>
-		<link>https://www.macrumors.com/2024/08/07/iphone-16-lineup-could-launch-earlier-in-korea/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16-lineup-could-launch-earlier-than-usual-in-korea.2433119/</comments>
-		<pubDate>Wed, 07 Aug 2024 06:08:31 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/07/iphone-16-lineup-could-launch-earlier-in-korea/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>iPhone 16</category>
-		<category>iPhone 16 Pro</category>
-		<category>Korea Times</category>
-		<category>South Korea</category>
-		
-
-		<description><![CDATA[Apple is considering launching the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> lineup in Korea earlier than usual due to weakening demand in China, the <a href="https://koreatimes.co.kr/www/tech/2024/08/133_380047.html"><em>Korea Times</em></a> reports.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/iPhone-16-Camera-Lozenge-2-Perspective.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-935161" /><br/>
-If correct, this would mark a significant shift for Apple, as Korea has not been part of the initial release countries since the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> 3GS in 2009. Apple is expected to launch the &zwnj;iPhone 16&zwnj; lineup in mid-September, with an announcement on the 10th being the most probable date based on the company's historical patterns. Sources speaking to the <em>Korea Times</em> claim that preparations appear to be underway for an early release in the country.<br/>
-<br/>
-Historically, despite the &zwnj;iPhone&zwnj;'s strong market share in Korea, new models have been released in the country weeks after their debut in other markets. This is partly due to Apple's rigorous confidentiality policies and Korea's stringent certification system. All electronic devices in Korea must be certified by the National Radio Research Agency, and details about these devices are disclosed on the agency's website, which could lead to premature leaks of new &zwnj;iPhone&zwnj; specifications.<br/>
-<br/>
-Despite these challenges, Apple appears to be reconsidering its strategy for the Korean market, driven by the country's steady demand and the potential for positive early sales. Data from Canalys claims that Apple's market share in China dropped to 14% in the second quarter of this year, down from 16% a year earlier. This decline <a href="https://www.macrumors.com/2024/07/26/apple-drops-to-sixth-place-in-china/">pushed Apple out of the top five smartphone vendors</a> in China, potentially providing an opportunity to reallocate inventory to other markets, such as Korea.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/koreatimes-co-kr/">Korea Times</a>, <a href="https://www.macrumors.com/guide/south-korea/">South Korea</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/07/iphone-16-lineup-could-launch-earlier-in-korea/">iPhone 16 Lineup Could Launch Earlier Than Usual in Korea</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-lineup-could-launch-earlier-than-usual-in-korea.2433119/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18 Adds Camera Setting to Allow iPhone Audio Playback When Shooting Video</title>
-		<link>https://www.macrumors.com/2024/08/07/ios-18-shoot-video-during-audio-playback/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-adds-camera-setting-to-allow-iphone-audio-playback-when-shooting-video.2433116/</comments>
-		<pubDate>Wed, 07 Aug 2024 05:11:24 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/07/ios-18-shoot-video-during-audio-playback/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[In iOS 18, Apple has added a control in the Camera app's Settings menu that lets you choose whether audio playing on your iPhone should pause or continue when you start recording in Video mode.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/allow-audio-playback-camera-setting.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-960959" /><br/>
-In previous versions of iOS, shooting in Video mode in the Camera app automatically pauses any playing audio including music and podcasts. This behavior is based on the assumption that you don't want any sound coming out of your iPhone's speakers to be picked up on the video recording, but it's no good if you want to play a soundtrack to accompany whatever you're shooting.<br/>
-<br/>
-One way to get around this is to use the <a href="https://www.macrumors.com/how-to/use-quicktake-iphone-11/">QuickTake method of recording video</a> in Photo mode, introduced in iOS 13, which allows any audio playback to continue during shooting. The only issue is that QuickTake records in lower quality than Video mode is capable of. <br/>
-<br/>
-But that won't matter soon, because iOS 18 lets you control what happens to audio playback in dedicated Video mode, thanks to a new Allow Audio Playback toggle. "Audio playback will not pause automatically when recording video," notes Apple under the setting. "When playing audio using the iPhone speaker, audio will be recorded in mono."<br/>
-<br/>
-iPhone users can look forward to several new features when iOS 18 arrives in the fall, around mid-September, with new customization options, generative AI features, Siri improvements, and more. For details on everything that's new, be sure to check out our <a href="https://www.macrumors.com/roundup/ios-18/">dedicated iOS 18 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/07/ios-18-shoot-video-during-audio-playback/">iOS 18 Adds Camera Setting to Allow iPhone Audio Playback When Shooting Video</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-adds-camera-setting-to-allow-iphone-audio-playback-when-shooting-video.2433116/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Logitech Says It Has No Plans for a Subscription-Based &#039;Forever Mouse&#039;</title>
-		<link>https://www.macrumors.com/2024/08/07/logitech-no-plans-subscription-mouse/</link>
-		<comments>https://forums.macrumors.com/threads/logitech-says-it-has-no-plans-for-a-subscription-based-forever-mouse.2433112/</comments>
-		<pubDate>Wed, 07 Aug 2024 03:26:14 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/07/logitech-no-plans-subscription-mouse/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Logitech</category>
-		
-
-		<description><![CDATA[Logitech on Wednesday denied reports that the company is working on a "forever mouse" that could come with a subscription fee for regular software updates, after comments by its CEO suggesting it could <a href="https://www.macrumors.com/2024/07/31/logitech-forever-mouse/">introduce such a product</a> in the future received immediate backlash.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/logitech-mouse.jpg" alt="" width="1187" height="668" class="aligncenter size-full wp-image-960435" /><br/>
-"There are no plans for a subscription mouse," said Logitech communications head Nicole Kenyon in a statement given to several media publications. Kenyon was responding to reports based on comments made by Logitech chief Hanneke Faber on <a href="https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decoder-podcast-interview"><em>The Verge</em>'s Decoder podcast</a> with Nilay Patel. <br/>
-<br/>
-During the podcast, Faber said that the Logitech innovation center team in Ireland showed her a "forever mouse" that is designed to be used for many years. It's a "little heavier" than a standard mouse, and it has "great software and services" that get constantly updated.<br/>
-<br/>
-Patel asked Faber if she could "envision a subscription mouse," to which she responded "possibly." Faber went on to explain that customers would "never have to worry about [their mice] again," which is similar to Logitech's video conferencing services.<br/>
-<br/>
-When asked whether Logitech had some other model for monetization than subscription fees or advertising, Faber said no, and that she was "intrigued" by a forever mouse that has an accompanying business model around software updates.<br/>
-<br/>
-Kenyon sought to downplay the comments, saying: "The mouse mentioned is not an actual or planned product but a peek into provocative internal thinking on future possibilities for more sustainable consumer electronics."<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/logitech/">Logitech</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/07/logitech-no-plans-subscription-mouse/">Logitech Says It Has No Plans for a Subscription-Based &#039;Forever Mouse&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/logitech-says-it-has-no-plans-for-a-subscription-based-forever-mouse.2433112/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Blackmagic Camera App 2.0 Adds Multi-iPhone Control and iPad Version</title>
-		<link>https://www.macrumors.com/2024/08/07/blackmagic-camera-app-2-ipad-support/</link>
-		<comments>https://forums.macrumors.com/threads/blackmagic-camera-app-2-0-adds-multi-iphone-control-and-ipad-version.2433108/</comments>
-		<pubDate>Wed, 07 Aug 2024 02:40:47 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/07/blackmagic-camera-app-2-ipad-support/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>DaVinci Resolve</category>
-		
-
-		<description><![CDATA[Blackmagic Design has released version 2.0 of its <a href="https://www.blackmagicdesign.com/products/blackmagiccamera">Blackmagic Camera app</a>, bringing several new additional features along with official iPad support.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/blackmagic-camera-app-ipad.jpeg" alt="" width="1200" height="630" class="aligncenter size-full wp-image-960948" /><br/>
-For readers unfamiliar with the app, Blackmagic Camera features the same digital film camera controls and image processing functions that are available with Blackmagic Design's cameras. The company says that this allows users to create YouTube, TikTok, and Instagram content with a "Hollywood" cinematic look and feel.<br/>
-<br/>
-In a significant update, version 2.0 of the app adds support for controlling multiple iPhones remotely. With the feature enabled, one iPhone acts as a controller, and other iPhones can be connected using the app via a wired or Wi-Fi network. Users can then control app features like zoom, focus, white balance, frame rate, shutter angle, and lens selection, and synchronize the cameras to record simultaneously.<br/>
-<br/>
-This update also brings support for recording up to 100fps in HD on iPhone 15 Pro models, as well as the ability to select multiple clips in the media tab to share them easily or batch copy/edit them. There are also general performance and stability improvements across the app.<br/>
-<br/>
-And in a notable new addition, Blackmagic Camera 2.0 introduces iPad support for the first time, allowing users to make the most of the iPad's bigger screen, particularly when monitoring multiple iPhone captures remotely. <br/>
-<br/>
-Blackmagic Camera integrates with Blackmagic Cloud and uploads content directly to the DaVinci Resolve video editing app. Like DaVinci Resolve for Mac, Blackmagic Camera is free to use, and the app can be <a href="https://apps.apple.com/us/app/blackmagic-camera/id6449580241">downloaded from the App Store</a>. More information on the Blackmagic Camera app for iOS can be found on the <a href="https://www.blackmagicdesign.com/products/blackmagiccamera">Blackmagic website</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/davinci-resolve/">DaVinci Resolve</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/07/blackmagic-camera-app-2-ipad-support/">Blackmagic Camera App 2.0 Adds Multi-iPhone Control and iPad Version</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/blackmagic-camera-app-2-0-adds-multi-iphone-control-and-ipad-version.2433108/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Maps Real-Time Transit Information Now Available in Tokyo</title>
-		<link>https://www.macrumors.com/2024/08/07/apple-maps-real-time-transit-info-tokyo/</link>
-		<comments>https://forums.macrumors.com/threads/apple-maps-real-time-transit-information-now-available-in-tokyo.2433107/</comments>
-		<pubDate>Wed, 07 Aug 2024 01:35:42 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/07/apple-maps-real-time-transit-info-tokyo/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple Maps</category>
-		<category>Japan</category>
-		
-
-		<description><![CDATA[Real-time transit information in <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> has been expanded to Tokyo, Japan, enabling users to get live details of more than 20 railway, bus, and tram lines throughout the metropolitan area, Apple has <a href="https://www.apple.com/jp/newsroom/2024/08/apple-maps-introduces-real-time-transit-information-in-tokyo/">announced</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/real-time-transit-maps-tokyo.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-960942" /><br/>
-With real-time updates on &zwnj;Apple Maps&zwnj;, users in Tokyo can view detailed schedules, real-time departure and arrival times, and transfers to help plan their journeys. Apple adds that important real-time transit information such as service suspensions and delays will also be provided.<br/>
-<br/>
-Apple says the transit information in its Maps app covers services provided by JR East, Tokyo Metro, and other agencies through the ODPT (Open Data Public Transportation Council).<br/>
-<br/>
-No update is required to get the real-time transit data. Additionally, with the release of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> this fall, users across Japan will also be able to explore detailed topographic maps on their iPhones, complete with contour lines, shaded relief, and hiking trails.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a>, <a href="https://www.macrumors.com/guide/japan/">Japan</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/07/apple-maps-real-time-transit-info-tokyo/">Apple Maps Real-Time Transit Information Now Available in Tokyo</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-maps-real-time-transit-information-now-available-in-tokyo.2433107/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Arcade to Gain NFL Retro Bowl &#039;25, Monster Train+, and Puzzle Sculpt</title>
-		<link>https://www.macrumors.com/2024/08/06/apple-arcade-september-games/</link>
-		<comments>https://forums.macrumors.com/threads/apple-arcade-to-gain-nfl-retro-bowl-25-monster-train-and-puzzle-sculpt.2433087/</comments>
-		<pubDate>Tue, 06 Aug 2024 16:13:55 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/06/apple-arcade-september-games/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Arcade</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a> gaming service is <a href="https://www.apple.com/newsroom/2024/08/apple-arcade-launches-three-new-games-in-september-including-nfl-retro-bowl-25/">set to gain three new games</a> in September, including NFL Retro Bowl '25, an NFL and NFLPA-licensed relaunch of the popular Retro Bowl game that initially came out in 2020.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/apple-arcade-retro-bowl.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960904" /><br/>
-NFL Retro Bowl '25 lets NFL fans create their own football dynasty by selecting their favorite NFL teams and players to manage. The game focuses on roster management and game strategies, with the &zwnj;Apple Arcade&zwnj; version offering authentic rosters and NFL players in the original game's retro style.<br/>
-<br/>
-Monster Train+ is another &zwnj;Apple Arcade&zwnj; revamp of a popular original. It is a roguelite deck builder with more than 250 cards to unlock and six monster clans to discover. The &zwnj;Apple Arcade&zwnj; version of the game includes a new strategic layer with three vertical playing fields to defend, along with support for The Last Divinity DLC with an additional clan and more gameplay challenges.<br/>
-<br/>
-For the <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>, &zwnj;Apple Arcade&zwnj; is gaining Puzzle Sculpt, a game where players decipher increasingly challenging clues to solve puzzles. Gameplay consists of removing unnecessary cubes to uncover Deco Objects that can then be placed anywhere in the virtual space around the player.<br/>
-<br/>
-Several &zwnj;Apple Arcade&zwnj; games are set to get new content updates, including new Shrek-themed hoops for Stitch, a Smithsonian-inspired area in Crayola Create and Play, and Tiana from The Princess and the Frog for Disney Dreamlight Valley.<br/>
-<br/>
-&zwnj;Apple Arcade&zwnj; is priced at &#36;6.99 per month, a fee that allows up to six family members to play games. &zwnj;Apple Arcade&zwnj; titles have no in-app purchases or ads. &zwnj;Apple Arcade&zwnj; is also part of the <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a>, Family, and Premier plans.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/06/apple-arcade-september-games/">Apple Arcade to Gain NFL Retro Bowl &#039;25, Monster Train+, and Puzzle Sculpt</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-arcade-to-gain-nfl-retro-bowl-25-monster-train-and-puzzle-sculpt.2433087/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Aqara Launches New HomeKit-Compatible Presence Sensor</title>
-		<link>https://www.macrumors.com/2024/08/06/aqara-homekit-presence-sensor/</link>
-		<comments>https://forums.macrumors.com/threads/aqara-launches-new-homekit-compatible-presence-sensor.2433083/</comments>
-		<pubDate>Tue, 06 Aug 2024 15:03:17 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/06/aqara-homekit-presence-sensor/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>HomeKit</category>
-		<category>Aqara</category>
-		
-
-		<description><![CDATA[Aqara today introduced <a href="https://www.aqara.com/us/product/presence-sensor-fp1e/">a new Presence Sensor</a> that is designed to keep smart home products like lights turned on when someone is in the room. The Presence Sensor FP1E uses Zigbee, but it is able to connect to <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> and other smart home platforms through an Aqara Matter bridge.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/aqara-presence-sensor.jpg" alt="" width="1785" height="1004" class="aligncenter size-full wp-image-960901" /><br/>
-The Presence Sensor FP1E uses millimeter wave technology to detect even minute human movements for prompt presence detection that can be used to trigger &zwnj;HomeKit&zwnj; automations. If you want to have a light come on in the laundry room when you go inside, for example, you need a HomeKit-compatible sensor.<br/>
-<br/>
-A Presence Sensor differs from a motion detection sensor by continuing to recognize when someone is in the room, keeping the automation active. A standard motion sensor might turn on the lights, but will turn off on a timer rather than the continued presence of a person. The FP1E is able to determine that a person is in the room even when the person is sitting or lying still, plus it can recognize when a person leaves the room to trigger an automation to turn off the lights or other home product.<br/>
-<br/>
-Aqara says that the new Presence Sensor is able to detect presence within a distance of up to 20 feet, and it can monitor a room that is up to 538 square feet in size if it is mounted on the ceiling. The sensor is able to distinguish human movement from pets and inanimate objects like curtains that might shift from the air conditioner.<br/>
-<br/>
-The FP1E Presence Sensor joins Aqara's previous Presence Sensor FP2, which offers multi-person detection and zone-based automation triggers. The FP1E Presence Sensor is more affordable at &#36;50, and it can be <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D5QPH3T6">purchased from Amazon starting today</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a>, <a href="https://www.macrumors.com/guide/aqara/">Aqara</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/06/aqara-homekit-presence-sensor/">Aqara Launches New HomeKit-Compatible Presence Sensor</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/aqara-launches-new-homekit-compatible-presence-sensor.2433083/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Flighty Now Able to Provide Early Warnings About Flight Delays</title>
-		<link>https://www.macrumors.com/2024/08/06/flighty-update-flight-delays/</link>
-		<comments>https://forums.macrumors.com/threads/flighty-now-able-to-provide-early-warnings-about-flight-delays.2433075/</comments>
-		<pubDate>Tue, 06 Aug 2024 12:40:59 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/06/flighty-update-flight-delays/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Flight tracking app <a href="https://www.flightyapp.com">Flighty</a> was today updated with a new feature that is designed to provide users with additional information on the reason behind delayed flights.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/flighty-app-update.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-960897" /><br/>
-Flighty is using aviation authority data and machine learning to provide early warnings of delays, and when a delay is official, the reason for the delay. Most delays are due to airspace issues and late aircraft, both of which Flighty will monitor.<br/>
-<br/>
-The app is able to predict delays "hours in advance," and give information to Flighty users that airlines often decline to share. The result is more control over travel plans.<blockquote>For example, the airline might delay your flight by 30 minutes ... and then another hour. But with these updates, Flighty 4 can tell you that's likely to be at least a five-hour delay due to an official ground stop at your airport. That gives users more insight to adjust their travel plans on the fly rather than being stuck for hours at the airport.</blockquote>Flighty tracks late arriving airplanes, Air Traffic Control notices, airport operational issues, weather problems, and even major events that can impact air traffic, such as the Super Bowl.<br/>
-<br/>
-Information on air space delays is limited to the United States, Canada, and the European Union, though late aircraft, airport issues, and live delay trends are available worldwide.<br/>
-<br/>
-Other new features in today's update include live airport performance trends, aircraft internal names, fixes for missing tail numbers, and clear in-app updates when flight schedules change.<br/>
-<br/>
-Flighty is available on <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and Mac. The app is free to download, but the delay features are part of Flighty Pro, which is priced at &#36;4 for one week or &#36;48 for a year. More information on the app can be <a href="https://www.flightyapp.com">found on the Flighty website</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/06/flighty-update-flight-delays/">Flighty Now Able to Provide Early Warnings About Flight Delays</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/flighty-now-able-to-provide-early-warnings-about-flight-delays.2433075/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
