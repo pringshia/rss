@@ -16,6 +16,96 @@
       <height>128</height>
     </image>
       <item>
+        <title>Whoa, just had an incredible moment with AI generating debug tools on the fly...
+
+Was pair programming w/ @qualmist and we were struggling to interpret textual output from a CLI tool.
+
+So we had Claude build us a visual debugger, and it totally crushed it 😎 
+
+quick backstory:
+
+So we were playing around w/ synctex, a tool that maps locations in Latex files to locations in an output PDF.
+
+Pretty simple, you can ask it &quot;line 5 in the .tex file, where&apos;s that in the pdf&quot; and it&apos;ll spit out a bunch of numbers representing coordinates for boxes in the PDF:
+
+h:133.768372
+v:275.285675
+W:343.711060
+H:9.065993
+
+Hm, it&apos;s hard to *see* what those numbers actually mean on the pdf! we were doing coordinate math, manually measuring cursor positions... yuck. felt like we needed a more visual workflow.
+
+Enter Claude! Asked it to make a React app that actually *draws* the boxes as overlays on top of the PDF.
+
+You just paste in the CLI output and upload an image of the PDF. it parses the output and draws red boxes in the correct positions on the image.
+
+This is so much faster than manually parsing the CLI output!! allowed us to quickly try some experiments and get a better feel for how synctex works in various cases.
+
+Generating the tool took a few iterations and the AI wasn&apos;t perfect, but honestly it made very few mistakes and was totally good enough to keep us in flow of conversation. I was repeatedly impressed by 3.5 Sonnet getting things right that it feels like GPT-4 would have failed at a year ago, e.g. coordinate math stuff.
+
+@simonw says &quot;AI-enhanced development makes me more ambitious with my projects&quot;. This is exactly that philosophy at play. No way I would have tried to code this debugger manually during a pairing session. But AI lowered the cost enough to try it.
+
+A strange reflection about this process: when you&apos;re building debugger tools with AI, there&apos;s a lot of leverage because there&apos;s 2 compounding layers of acceleration:
+
+1) AI makes it faster to iterate on debug tools...
+2) ...and debug tools make it faster to iterate on your project!
+
+As a live programming nerd this idea gets me tremendously excited. Until now, it&apos;s generally been too expensive for devs to build bespoke visualization tools in the flow of coding their projects. But when that cost comes down, and it&apos;s faster to build custom tools, then it feels possible to accelerate work in a meaningful way.
+
+So yeah, I guess I&apos;d summarize the lesson here as: AI-enhanced development makes me more ambitious with my debuggers...</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>Whoa, just had an incredible moment with AI generating debug tools on the fly...<br>
+<br>
+Was pair programming w/ <a href="https://nitter.poast.org/qualmist" title="Josh Horowitz">@qualmist</a> and we were struggling to interpret textual output from a CLI tool.<br>
+<br>
+So we had Claude build us a visual debugger, and it totally crushed it 😎 <br>
+<br>
+quick backstory:<br>
+<br>
+So we were playing around w/ synctex, a tool that maps locations in Latex files to locations in an output PDF.<br>
+<br>
+Pretty simple, you can ask it "line 5 in the .tex file, where's that in the pdf" and it'll spit out a bunch of numbers representing coordinates for boxes in the PDF:<br>
+<br>
+h:133.768372<br>
+v:275.285675<br>
+W:343.711060<br>
+H:9.065993<br>
+<br>
+Hm, it's hard to *see* what those numbers actually mean on the pdf! we were doing coordinate math, manually measuring cursor positions... yuck. felt like we needed a more visual workflow.<br>
+<br>
+Enter Claude! Asked it to make a React app that actually *draws* the boxes as overlays on top of the PDF.<br>
+<br>
+You just paste in the CLI output and upload an image of the PDF. it parses the output and draws red boxes in the correct positions on the image.<br>
+<br>
+This is so much faster than manually parsing the CLI output!! allowed us to quickly try some experiments and get a better feel for how synctex works in various cases.<br>
+<br>
+Generating the tool took a few iterations and the AI wasn't perfect, but honestly it made very few mistakes and was totally good enough to keep us in flow of conversation. I was repeatedly impressed by 3.5 Sonnet getting things right that it feels like GPT-4 would have failed at a year ago, e.g. coordinate math stuff.<br>
+<br>
+<a href="https://nitter.poast.org/simonw" title="Simon Willison">@simonw</a> says "AI-enhanced development makes me more ambitious with my projects". This is exactly that philosophy at play. No way I would have tried to code this debugger manually during a pairing session. But AI lowered the cost enough to try it.<br>
+<br>
+A strange reflection about this process: when you're building debugger tools with AI, there's a lot of leverage because there's 2 compounding layers of acceleration:<br>
+<br>
+1) AI makes it faster to iterate on debug tools...<br>
+2) ...and debug tools make it faster to iterate on your project!<br>
+<br>
+As a live programming nerd this idea gets me tremendously excited. Until now, it's generally been too expensive for devs to build bespoke visualization tools in the flow of coding their projects. But when that cost comes down, and it's faster to build custom tools, then it feels possible to accelerate work in a meaningful way.<br>
+<br>
+So yeah, I guess I'd summarize the lesson here as: AI-enhanced development makes me more ambitious with my debuggers...</p>
+<img src="https://nitter.poast.org/pic/media%2FGUfTkXgXkAAYt7d.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 08 Aug 2024 21:54:06 GMT</pubDate>
+        <guid>https://nitter.poast.org/geoffreylitt/status/1821666220644683950#m</guid>
+        <link>https://nitter.poast.org/geoffreylitt/status/1821666220644683950#m</link>
+      </item>
+      <item>
+        <title>compilers are more fun when they have eyes and mouths and stomachs</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>compilers are more fun when they have eyes and mouths and stomachs</p>
+<img src="https://nitter.poast.org/pic/media%2FGUe1yoNXEAAkduJ.png" style="max-width:250px;" />]]></description>
+        <pubDate>Thu, 08 Aug 2024 19:09:00 GMT</pubDate>
+        <guid>https://nitter.poast.org/geoffreylitt/status/1821624671478878462#m</guid>
+        <link>https://nitter.poast.org/geoffreylitt/status/1821624671478878462#m</link>
+      </item>
+      <item>
         <title>R to @geoffreylitt: Notably I don’t need it to have the actual conversation for me! Just spare me the dumbest parts</title>
         <dc:creator>@geoffreylitt</dc:creator>
         <description><![CDATA[<p>Notably I don’t need it to have the actual conversation for me! Just spare me the dumbest parts</p>]]></description>
@@ -296,27 +386,6 @@ Ideally her own work, but open to good explanations by others!</p>]]></descripti
         <pubDate>Thu, 01 Aug 2024 23:33:48 GMT</pubDate>
         <guid>https://nitter.poast.org/geoffreylitt/status/1819154596066906618#m</guid>
         <link>https://nitter.poast.org/geoffreylitt/status/1819154596066906618#m</link>
-      </item>
-      <item>
-        <title>RT by @geoffreylitt: Last week, @geoffreylitt, @thesephist, @websim_ai, @TodePond and I hosted a bunch of our friends at @southpkcommons for a night of demos that explored how our interfaces are evolving. 
-
-Take a look at the frontier these folks are building: (1/14)</title>
-        <dc:creator>@GopalKRaman</dc:creator>
-        <description><![CDATA[<p>Last week, <a href="https://nitter.poast.org/geoffreylitt" title="Geoffrey Litt">@geoffreylitt</a>, <a href="https://nitter.poast.org/thesephist" title="Linus">@thesephist</a>, <a href="https://nitter.poast.org/websim_ai" title="WebSim">@websim_ai</a>, <a href="https://nitter.poast.org/TodePond" title="Lu wilson 🏳️‍🌈">@TodePond</a> and I hosted a bunch of our friends at <a href="https://nitter.poast.org/southpkcommons" title="South Park Commons">@southpkcommons</a> for a night of demos that explored how our interfaces are evolving. <br>
-<br>
-Take a look at the frontier these folks are building: (1/14)</p>]]></description>
-        <pubDate>Mon, 29 Jul 2024 00:28:59 GMT</pubDate>
-        <guid>https://nitter.poast.org/GopalKRaman/status/1817718930590306747#m</guid>
-        <link>https://nitter.poast.org/GopalKRaman/status/1817718930590306747#m</link>
-      </item>
-      <item>
-        <title>Found @TodePond across the pond!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Found <a href="https://nitter.poast.org/TodePond" title="Lu wilson 🏳️‍🌈">@TodePond</a> across the pond!</p>
-<img src="https://nitter.poast.org/pic/media%2FGTbI_XeXMAAaYfU.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 26 Jul 2024 15:38:23 GMT</pubDate>
-        <guid>https://nitter.poast.org/geoffreylitt/status/1816860624816865514#m</guid>
-        <link>https://nitter.poast.org/geoffreylitt/status/1816860624816865514#m</link>
       </item>
 
   </channel>
