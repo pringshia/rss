@@ -14,12 +14,123 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 08 Aug 2024 09:01:25 PDT</lastBuildDate>
+	<lastBuildDate>Fri, 09 Aug 2024 03:01:19 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Epic Games and Spotify Say Apple&#039;s Latest DMA Changes Are &#039;Illegal&#039; and &#039;Deliberately Confusing&#039;</title>
+		<link>https://www.macrumors.com/2024/08/08/epic-games-spotify-apple-dma-changes/</link>
+		<comments>https://forums.macrumors.com/threads/epic-games-and-spotify-say-apples-latest-dma-changes-are-illegal-and-deliberately-confusing.2433232/</comments>
+		<pubDate>Thu, 08 Aug 2024 16:58:23 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/epic-games-spotify-apple-dma-changes/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple <a href="https://www.macrumors.com/2024/08/08/app-store-external-links-european-union/">updated its Digital Markets Act</a> compliance plan in the European Union today, making changes related to external linking. Developers are now free to direct users to non-App Store purchase options for in-app content such as subscriptions, with no restrictions or control over the messaging to customers.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-801789" src="https://images.macrumors.com/article-new/2021/06/Apple-vs-Spotify-feature2.jpg" alt="" width="2500" height="1406" /><br/>
+Apple made the update to comply with the European Commission's <a href="https://www.macrumors.com/2024/06/24/eu-accuses-apple-violating-dma-rules/">objection to its anti-steering rules</a>, but there is a new fee structure that's complicated and not easy to digest. Shortly after Apple announced its new terms, <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a> CEO Tim Sweeney took to social media to call Apple's commission "an illegal new 15% junk fee." He went on to say that the terms make it "completely uneconomical for developers to distribute their apps through both the Apple <a href="https://www.macrumors.com/guide/app-store/">App Store</a> and competing iOS app stores."<br/>
+<br/>
+Sweeney has been outspoken about Apple's Digital Markets Act changes since the first updates were introduced in February, and he has long accused Apple of malicious compliance.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">In the European Union where the new DMA law opens up app store competition, Apple continues its malicious compliance by imposing an illegal new 15% junk fee on users migrating to competing stores and monitor commerce on these competing stores.<a href="https://t.co/YUYwsnrh32">https://t.co/YUYwsnrh32</a> <a href="https://t.co/xAWGkOWPrH">pic.twitter.com/xAWGkOWPrH</a></p>&mdash; Tim Sweeney (@TimSweeneyEpic) <a href="https://twitter.com/TimSweeneyEpic/status/1821594291602649143?ref_src=twsrc%5Etfw">August 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Spotify likewise didn't have anything nice to say about the updated link rules. In a statement to <em><a href="https://techcrunch.com/2024/08/08/spotify-and-epic-games-call-apples-revised-dma-compliance-plan-confusing-illegal-and-unacceptable/">TechCrunch</a></em>, Spotify said the revisions are "deliberately confusing," but "at first glance," Apple is continuing to "blatantly disregard" the requirements of the DMA.<br/>
+<blockquote>We are currently assessing Apple's deliberately confusing proposal. At first glance, by demanding as much as a 25% fee for basic communication with users, Apple once again blatantly disregards the fundamental requirements of the Digital Markets Act (DMA). The European Commission has made it clear that imposing recurring fees on basic elements like pricing and linking is unacceptable. We call on the Commission to expedite its investigation, implement daily fines and enforce the DMA.</blockquote><br/>
+According to Apple, the new initial acquisition fee that developers who use links have to pay reflects the value that the &zwnj;App Store&zwnj; provides when connecting developers to customers in the EU. The second store services fee reflects the ongoing services and capabilities that Apple provides developers, such as app distribution, &zwnj;App Store&zwnj; trust and safety, promotional tools, anti-fraud checks, and more.<br/>
+<br/>
+EU developers who choose to use links to direct customers to purchase options outside of the &zwnj;App Store&zwnj; will pay between 10 percent and 27 percent commission, depending on the &zwnj;App Store&zwnj; terms they've agreed to and whether they belong to the &zwnj;App Store&zwnj; Small Business Program. Developers operating under the new DMA business terms that support alternative payment methods and distributing apps outside of the &zwnj;App Store&zwnj; must also pay the Core Technology Fee in addition to the store services fee and the initial acquisition fee.<br/>
+<br/>
+The 10 to 27 percent commission for developers that adopt linking out is under the 15 to 30 percent commission that was required prior to any of the DMA changes, but &zwnj;Epic Games&zwnj; and Spotify do not feel that Apple's fees are fair. As &zwnj;Epic Games&zwnj; and Spotify are major companies, they would need to pay the 0.50 euro Core Technology Fee to Apple, which would cost tens of thousands per month.<br/>
+<br/>
+&zwnj;Epic Games&zwnj; plans to <a href="https://www.macrumors.com/2024/07/05/apple-approves-epic-games-store-eu/">bring an Epic Games Store</a> to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> in the European Union, and Sweeney today said that the plan is still on track. The store is set to launch<br/>
+"soon," and &zwnj;Epic Games&zwnj; will charge developers 12 percent for payments that it processes and 0 percent for third-party payments.<br/>
+<br/>
+Earlier this year, the European Commission <a href="https://www.macrumors.com/2024/05/21/apple-fights-2-billion-eu-fine-spotify/">fined Apple &#36;1.95 billion</a> for not allowing streaming music apps like Spotify to tell users about cheaper subscription prices outside of the app. Apple in response created a Music Streaming Services Entitlement that would require Spotify to pay a 27 percent commission on website purchases made through the &zwnj;App Store&zwnj;. The fee for the new Link Entitlement is the same for an app of Spotify's size.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/epic-games-spotify-apple-dma-changes/">Epic Games and Spotify Say Apple&#039;s Latest DMA Changes Are &#039;Illegal&#039; and &#039;Deliberately Confusing&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/epic-games-and-spotify-say-apples-latest-dma-changes-are-illegal-and-deliberately-confusing.2433232/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Nanoleaf Launches EXPO Smart LED Display Cases</title>
+		<link>https://www.macrumors.com/2024/08/08/nanoleaf-smart-led-display-case/</link>
+		<comments>https://forums.macrumors.com/threads/nanoleaf-launches-expo-smart-led-display-cases.2433227/</comments>
+		<pubDate>Thu, 08 Aug 2024 15:17:24 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/nanoleaf-smart-led-display-case/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Smart lighting company <a href="https://nanoleaf.me/en-US/products/">Nanoleaf</a> today announced the launch of the EXPO Smart LED Display Case, a new product that it is debuting in partnership with design studio Fantaqi.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/nanoleaf-display-case-1.jpg" alt="" width="1456" height="816" class="aligncenter size-full wp-image-961155" /><br/>
+The EXPO has built-in multi-color lighting that highlights sneakers, figurines, or other collectibles. Each EXPO Case is made from ABS resin, and the cases are modular, so you can use several together with unique lighting scenes. Display cases can be set up in any arrangement, and up to 300 can be connected together.<br/>
+<br/>
+Nanoleaf designed the EXPO with full-coverage lighting that is diffused across the ceiling of each case for uniform illumination that showcases the user's favorite items. A magnetic sensing door provides subtle lighting effects when the display lid is opened and closed.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/nanoleaf-display-case-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961156" /><br/>
+Using the Nanoleaf app. The LEDs in the EXPO Cases can be set to animated colorways through multiple curated scenes like Hypno Beat and Flames. As with other Nanoleaf devices, the EXPO Cases support community created scenes and allow for custom user designed scenes. The EXPO Case layout is reflected in the Nanoleaf app for optimum display of lighting scenes across each custom layout.<br/>
+<br/>
+Other supported features include the Rhythm music visualizer for timing light animations to the beat of music, Desktop Screen Mirror, and AI Magic Scenes for creating a scene based on a word or phrase. The EXPO Cases can also be controlled via <a href="https://www.macrumors.com/guide/siri/">Siri</a> voice commands through <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> integration.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/nanoleaf-display-case-3.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961157" /><br/>
+The Nanoleaf x Fantaqi EXPO Display Cases can be <a href="https://nanoleaf.me/en-US/products/">purchased from the Nanoleaf website</a> as of today. A Smarter Kit with four cases is available for &#36;299.99, and a one case expansion pack is available for &#36;79.99.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/nanoleaf-smart-led-display-case/">Nanoleaf Launches EXPO Smart LED Display Cases</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/nanoleaf-launches-expo-smart-led-display-cases.2433227/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Instagram Now Allows Up to 20 Photos and Videos for Carousel Posts</title>
+		<link>https://www.macrumors.com/2024/08/08/instagram-20-photos-carousel-posts/</link>
+		<comments>https://forums.macrumors.com/threads/instagram-now-allows-up-to-20-photos-and-videos-for-carousel-posts.2433221/</comments>
+		<pubDate>Thu, 08 Aug 2024 12:51:44 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/instagram-20-photos-carousel-posts/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Instagram</category>
+		
+
+		<description><![CDATA[Instagram today expanded the number of photos and videos that can be added to a single carousel post, reports <em><a href="https://www.theverge.com/2024/8/8/24216111/instagram-carousel-post-expansion">The Verge</a></em>. Standard grid posts have long been limited to a total of 10 images and videos, but the limit has now doubled.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/03/Instagram-Feature-1.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-786417" /><br/>
+On Instagram, carousel posts allow users to "photo dump" multiple photos and videos at one time, and a user's followers can use swipe gestures to view all of them. Multi-image posts show up on a user's page and in the Instagram feed.<br/>
+<br/>
+Instagram rival TikTok supports posts with up to 35 photos, so the new limit brings Instagram closer to the TikTok's image options. Instagram has been testing higher image limits since earlier this year.<br/>
+<br/>
+Support for more images in a single post is rolling out for users around the world as of today.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/instagram/">Instagram</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/instagram-20-photos-carousel-posts/">Instagram Now Allows Up to 20 Photos and Videos for Carousel Posts</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/instagram-now-allows-up-to-20-photos-and-videos-for-carousel-posts.2433221/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Samsung&#039;s New 32-Inch Smart Monitor M8 Drops to &#36;448 on Amazon (&#36;251 Off)</title>
+		<link>https://www.macrumors.com/2024/08/08/samsungs-smart-monitor-m8-448/</link>
+		<comments>https://forums.macrumors.com/threads/samsungs-new-32-inch-smart-monitor-m8-drops-to-448-on-amazon-251-off.2433211/</comments>
+		<pubDate>Thu, 08 Aug 2024 10:25:05 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/08/samsungs-smart-monitor-m8-448/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		
+
+		<description><![CDATA[Samsung's newest 32-inch Smart Monitor M80D is being discounted to a new record low price today on Amazon, available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0D1DBQRRS%2Fref%3Dox_sc_act_title_1%3Fsmid%3DATVPDKIKX0DER%26th%3D1"><strong>&#36;448.08</strong></a>, down from &#36;699.99. This sale is only available in the Warm White color, and it can be delivered as soon as August 10.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/samsung-smart-monitor-m80d-new.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-958530" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+This new deal beats the previous record low by about &#36;50, and right now it's only available on Amazon. This version of the monitor launched back in June, and it retains many features of the previous model like USB-C charging connectivity, AirPlay 2 support, an integrated webcam, and several smart TV features that enable it to be used when not connected to a PC.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0D1DBQRRS%2Fref%3Dox_sc_act_title_1%3Fsmid%3DATVPDKIKX0DER%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;251 OFF</div>Samsung 32-Inch Smart Monitor M80D for &#36;448.08</div></a></div><br/>
+<br/>
+In terms of new features, the M80D includes a Multi Control feature that allows images and text to be moved between the display and a Galaxy Book, Tablet, or Phone. You can also pair Galaxy Buds to the monitor for a spatial audio experience with head tracking, as well as guided workouts when paired with a Galaxy Watch.<br/>
+<br/>
+Our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> has more information on the latest Apple-related sales and bargains.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/08/samsungs-smart-monitor-m8-448/">Samsung&#039;s New 32-Inch Smart Monitor M8 Drops to &#36;448 on Amazon (&#36;251 Off)</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/samsungs-new-32-inch-smart-monitor-m8-drops-to-448-on-amazon-251-off.2433211/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Loosens App Store External Linking Rules and Changes Fee Structure in European Union</title>
@@ -54,16 +165,16 @@ The store services fee, which is in addition to the initial acquisition fee, is 
 <br/>
 According to Apple, the store services fee reflects the ongoing services and capabilities that Apple provides developers, including app distribution and management, &zwnj;App Store&zwnj; trust and safety, re-discovery, re-engagement and promotional tools and services, anti-fraud checks, recommendations, and ratings and reviews.<br/>
 <br/>
-While the initial acquisition fee is the same for both developers that operate under the new business terms and those that use link entitlements under the current terms, the store services fee varies. For the new business terms, the base fee is 10 percent, but it drops to 5 percent for &zwnj;App Store&zwnj; Small Business Program participants and auto-renewal subscriptions after one year. These fees are in addition to the Core Technology Fee of 0.50 euros per first annual install over one million first annual installs.<br/>
+While the initial acquisition fee is the same for both developers that use the link entitlement under the new business terms and those that use link entitlements under the current terms, the store services fee varies. For the new business terms, the base fee is 10 percent, but it drops to 5 percent for &zwnj;App Store&zwnj; Small Business Program participants and auto-renewal subscriptions after one year. These fees are in addition to the Core Technology Fee of 0.50 euros per first annual install over one million first annual installs.<br/>
 <br/>
-For developers who stick with the standard Apple Developer Program License Agreement, the standard store services fee is 20 percent, but it drops to 7 percent for &zwnj;App Store&zwnj; Small Business Program participants and auto-renewal subscriptions after one year. The standard &zwnj;App Store&zwnj; terms do not require a Core Technology Fee. Apple <a href="https://devcms.apple.com/support/fee-calculator-for-apps-in-the-eu">has a fee calculator</a> that can help EU developers figure out what they'll need to pay.<br/>
+For developers who stick with the standard Apple Developer Program License Agreement, the standard store services fee is 20 percent, but it drops to 7 percent for &zwnj;App Store&zwnj; Small Business Program participants and auto-renewal subscriptions after one year. The standard &zwnj;App Store&zwnj; terms do not require a Core Technology Fee. Apple <a href="https://developer.apple.com/support/fee-calculator-for-apps-in-the-eu/">has a fee calculator</a> that can help EU developers figure out what they'll need to pay.<br/>
 <ul><br/>
- 	<li><strong>New business terms</strong> - Includes using alternative payment methods in the &zwnj;App Store&zwnj; or distributing outside of the &zwnj;App Store&zwnj; - 5% initial acquisition fee and 5% to 10% store services fee depending on app size, plus Core Technology Fee. Total is 10% to 15% commission, along with the CTF. There is also a payment processing fee of 3% when using the &zwnj;App Store&zwnj;'s payment options.</li><br/>
+ 	<li><strong>New business terms</strong> - Includes using alternative payment methods in the &zwnj;App Store&zwnj; or distributing outside of the &zwnj;App Store&zwnj; - 5% initial acquisition fee and 5% to 10% store services fee depending on app size, plus Core Technology Fee. Total is 10% to 15% commission, along with the CTF, though Apple estimates that 99% of developers will not be eligible to pay the CTF. There is also a payment processing fee of 3% when using the &zwnj;App Store&zwnj;'s payment options.</li><br/>
  	<li><strong>Standard business terms</strong> - 5% initial acquisition fee and 7% to 20% store services fee depending on app size. Total is 12% to 27% commission.</li><br/>
 </ul><br/>
 There is one other notable change that Apple is making, and that's giving customers an option to turn off in-app disclosure sheets. By default, Apple will still warn users when they are clicking a link that takes them to non-Apple purchase methods and options, but customers can choose to turn off these warnings when an app links to an external channel. An app that links to an in-app web view will only need to display the disclosure sheet once per session.<br/>
 <br/>
-More information about these changes can be found on <a href="developer.apple.com/news">Apple's developer website</a> and in the specific <a href="developer.apple.com/support/alternative-payment-options-on-the-app-store-in-the-eu/#whats-new">Digital Markets Act page</a> that Apple updates regularly.<br/>
+More information about these changes can be found on <a href="https://developer.apple.com/news/">Apple's developer website</a> and in the specific <a href="https://developer.apple.com/support/alternative-payment-options-on-the-app-store-in-the-eu/#whats-new">Digital Markets Act page</a> that Apple updates regularly.<br/>
 <br/>
 EU developers can begin planning external linking options for their apps now, and customers will have access to these changes with the launch of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>, tvOS 18, <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a>, and <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a> this fall.<br/>
 <br/>
@@ -133,7 +244,7 @@ Spence said that Sonos is working hard to earn back customer trust through the c
 		<description><![CDATA[Amazon this week has a massive sale <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">across the MacBook Air lineup</a>, including both the M2 and M3 MacBook Air models. We tracked many of these deals from Best Buy last week, but Amazon's sales this week don't require any exclusive membership, and in some cases they're even beating the low prices from last week.<br/>
 <br/>
 <h2>13-Inch M2 MacBook Air</h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/macbook-air-best-buy.jpg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-924749" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<img src="https://images.macrumors.com/article-new/2024/08/macbook-air-best-buy.jpg" alt="" width="1607" height="905" class="alignnone size-full wp-image-961113" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
 Starting with the M2 MacBook Air, Amazon is offering up to &#36;254 off these models, including a new all-time low price on the 512GB model. Prices start at &#36;799.00 for the 256GB M2 MacBook Air in all colors, and increase to &#36;944.16 for the 512GB MacBook Air in Midnight.<br/>
 <br/>
@@ -515,118 +626,6 @@ The &zwnj;macOS Sonoma&zwnj; 14.6.1 update can be downloaded for free on eligibl
 According to Apple's release notes, &zwnj;macOS Sonoma&zwnj; 14.6.1 fixes an issue that prevented the enabling or disabling of Advanced Data Protection. Apple says there are also other "important bug fixes."<br/>
 <br/>
 <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sonoma/">macOS Sonoma</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sonoma.243">macOS Sonoma</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/07/apple-releases-macos-sonoma-14-6-1/">Apple Releases macOS Sonoma 14.6.1 With Bug Fixes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-macos-sonoma-14-6-1-with-bug-fixes.2433140/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases iOS 17.6.1 With Advanced Data Protection Bug Fix</title>
-		<link>https://www.macrumors.com/2024/08/07/apple-releases-ios-17-6-1/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-ios-17-6-1-with-advanced-data-protection-bug-fix.2433138/</comments>
-		<pubDate>Wed, 07 Aug 2024 10:33:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/07/apple-releases-ios-17-6-1/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 17</category>
-		
-
-		<description><![CDATA[Apple today released iOS 17.6.1 and iPadOS 17.6.1, minor updates to the <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a> and <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a> operating system updates that came out last year. Apple is making iOS 17.6.1 and iPadOS 17.6.1 available a week after the launch of iOS 17.6 and iPadOS 17.6. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/iOS-17.6.1-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-960873" /><br/>
-iOS 17.6.1 and iPadOS 17.6.1 can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update. Apple has also released an iOS 16.7.10 update for devices that are unable to be upgraded to &zwnj;iOS 17&zwnj;.<br/>
-<br/>
-According to Apple's release notes, the iOS 17.6.1 update addresses an issue that could prevent the enabling or disabling of Advanced Data Protection. <blockquote>This update includes important bug fixes and addresses an issue that prevents enabling or disabling Advanced Data Protection.</blockquote>The Advanced Data Protection bug impacted a small number of users. Those who tried to turn Advanced Data Protection on and weren't able to get it enabled saw an error message and it was clear it wasn't active. Affected users who tried to turn it off saw it disabled in the interface, though it was actually still active for <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> data. <br/>
-<br/>
-Both of those bugs have been fixed in the update. <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users who had the bug that prevented Advanced Data Protection from properly turning off will see a notification that asks them to confirm the decision to turn the feature off after installing iOS 17.6.1. Apple says that the few users who experienced this bug had an expected level of security or more, in the situation where ADP did not turn off as expected. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>, <a href="https://www.macrumors.com/roundup/ipados-17/">iPadOS 17</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-17.241">iOS 17</a>, <a href="https://forums.macrumors.com/forums/ipados-17.242">iPadOS 17</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/07/apple-releases-ios-17-6-1/">Apple Releases iOS 17.6.1 With Advanced Data Protection Bug Fix</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-17-6-1-with-advanced-data-protection-bug-fix.2433138/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple to Address &#039;0.0.0.0&#039; Security Vulnerability in Safari 18</title>
-		<link>https://www.macrumors.com/2024/08/07/safari-18-to-block-0000-security-vulnerability/</link>
-		<comments>https://forums.macrumors.com/threads/apple-to-address-0-0-0-0-security-vulnerability-in-safari-18.2433134/</comments>
-		<pubDate>Wed, 07 Aug 2024 10:01:30 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/07/safari-18-to-block-0000-security-vulnerability/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>macOS Sequoia</category>
-		<category>Safari</category>
-		
-
-		<description><![CDATA[Apple plans to block websites from attempting to send malicious requests to the IP address 0.0.0.0 on macOS Sequoia, according <a href="https://www.forbes.com/sites/thomasbrewster/2024/08/07/hackers-exploit-18-year-old-vulnerability-in-apple-google-and-mozilla-browsers/">to <em>Forbes</em></a>. The means the change will be part of Safari 18, which will also be available for macOS Sonoma and macOS Ventura.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/01/safari-icon-blue-banner.jpeg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-833485" /><br/>
-This decision comes after researchers from Israeli cybersecurity startup Oligo Security said they discovered a zero-day security vulnerability that allows a malicious actor to access private data on a user's internal private network. The researchers will present their findings this weekend at the DEF CON hacking conference in Las Vegas.<br/>
-<br/>
-"Exploiting 0.0.0.0-day can let the attacker access the internal private network of the victim, opening a wide range of attack vectors," said Avi Lumelsky, a researcher at Oligo Security.<br/>
-<br/>
-The researchers responsibly disclosed the vulnerability to Apple, Google, and Mozilla. More details are available <a href="https://www.appsecvillage.com/events/dc-2024/0-0-0-0-day-exploiting-localhost-apis-from-the-browser-697724">on the AppSec Village website</a>.<br/>
-<br/>
-macOS Sequoia and Safari 18 are currently in beta and will be widely released later this year.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/safari/">Safari</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/07/safari-18-to-block-0000-security-vulnerability/">Apple to Address &#039;0.0.0.0&#039; Security Vulnerability in Safari 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-address-0-0-0-0-security-vulnerability-in-safari-18.2433134/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Amazon Takes Up to &#36;100 Off 9th and 10th Gen iPads, Starting at &#36;229</title>
-		<link>https://www.macrumors.com/2024/08/07/amazon-9th-10th-gen-ipads/</link>
-		<comments>https://forums.macrumors.com/threads/amazon-takes-up-to-100-off-9th-and-10th-gen-ipads-starting-at-229.2433123/</comments>
-		<pubDate>Wed, 07 Aug 2024 07:02:51 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/07/amazon-9th-10th-gen-ipads/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Amazon today is offering up to &#36;100 off the 9th generation and 10th generation iPads, starting as low as <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G9CJM1Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;229.00</strong></a> for the former model. Most of the iPads in this sale can be delivered as soon as the end of this week for Prime members, and by early next week for everyone else.<br/>
-<br/>
-<h2>9th Gen iPad</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/04/ipad-best-buy-blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-946064" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Starting with the 2021 9th generation iPad, Amazon has introduced a new all-time low price on this tablet. You can get the 64GB Wi-Fi iPad for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G9CJM1Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;229.00</strong></a>, down from &#36;329.00, and the 256GB Wi-Fi iPad for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G96TFF7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;379.00</strong></a>, down from &#36;479.00.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G9CJM1Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>9th Gen iPad (64GB Wi-Fi) for &#36;229.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09G96TFF7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>9th Gen iPad (256GB Wi-Fi) for &#36;379.00</div></a></div><br/>
-<br/>
-This is the iPad generation from before the design overhaul of the 10th generation, so it features a Home Button with Touch ID, A13 Bionic chip, and a 10.2-inch Retina display. Anyone looking for a simple and cheap iPad model to have for daily Internet browsing should be satisfied with this one.<br/>
-<br/>
-<h2>10th Gen iPad</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/03/new-ipad-blue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-940260" /><br/>
-<br/>
-Moving to the more recent 10th generation iPad from 2022, Amazon also has a few solid low prices on these models. You can get the 64GB Wi-Fi iPad for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;299.00</strong></a>, down from &#36;349.00, and the 256GB Wi-Fi iPad for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLDDCGS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;449.00</strong></a>, down from &#36;499.00.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>10th Gen iPad (64GB Wi-Fi) for &#36;299.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLDDCGS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>10th Gen iPad (256GB Wi-Fi) for &#36;449.00</div></a></div><br/>
-<br/>
-Apple released these iPads in October 2022 with a complete redesign, introducing a larger display, USB-C port, A14 Bionic chip, and slim bezel design similar to the iPad Pro lineup. Although we're expecting an update to these iPads later this year, anyone looking for an iPad now who doesn't want to wait should definitely take advantage of Amazon's low prices.<br/>
-<br/>
-Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/07/amazon-9th-10th-gen-ipads/">Amazon Takes Up to &#36;100 Off 9th and 10th Gen iPads, Starting at &#36;229</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-takes-up-to-100-off-9th-and-10th-gen-ipads-starting-at-229.2433123/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iOS 18: Hide App Names on Your iPhone Home Screen</title>
-		<link>https://www.macrumors.com/how-to/hide-app-icon-labels-iphone-home-screen/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-hide-app-names-on-your-iphone-home-screen.2433122/</comments>
-		<pubDate>Wed, 07 Aug 2024 07:00:17 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/how-to/hide-app-icon-labels-iphone-home-screen&#038;post_date=1723050017/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[In iOS 18, currently in beta, Apple has broadened the customization options for the Home Screen on iPhone, and thanks to a new setting it is now possible to make app icons and widgets bigger by hiding their labels. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/big-icons-home-screen.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-960988" /><br/>
-With the setting enabled in iOS 18, the names of apps are removed from the grid, which increases the size of the icons and widgets on your Home Screen with the space saved. With larger icons, you still get a maximum of six icon rows with four icons each, the same that you're limited to when icon names are turned on.<br/>
-<br/>
-If you're familiar enough with your favorite apps that you don't feel the need to see the names underneath the icons, then it's worth giving it a try. With the labels removed, the design of your app icons takes center stage, resulting in a cleaner look for your Home Screen. Note that this setting is universal, so you cannot have small icons on one app page and large icons on a different app page.<br/>
-<br/>
-The following steps show you how it's done.<br/>
-<ol><br/>
-  <li>Press on an empty space on your Home Screen to enter jiggle mode.</li><br/>
-  <li>Tap the <strong>Edit</strong> button in the top-left corner, then choose <strong>Customize</strong>.</li><br/>
-  <li>Tap the <strong>Large</strong> option in the customization panel.</li><br/>
-  <li>Tap on an empty space to hide the customization panel.</li><br/>
-</ol><img src="https://images.macrumors.com/article-new/2024/08/large-home-screen-app-icons.jpg" alt="Home Screen" width="4377" height="2796" class="aligncenter size-full wp-image-960989" /><br/>
-That's all there is to it. If you decide you want to see app labels again, simply repeat the steps, but choose the <strong>Small</strong> option in the customization panel instead. iOS 18 is <a href="https://www.macrumors.com/how-to/install-the-ios-18-public-beta/">currently in public beta</a> and will be officially released to iPhone users in the fall.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/hide-app-icon-labels-iphone-home-screen/">iOS 18: Hide App Names on Your iPhone Home Screen</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-hide-app-names-on-your-iphone-home-screen.2433122/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
