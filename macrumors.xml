@@ -14,12 +14,193 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 14 Aug 2024 03:01:34 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 14 Aug 2024 09:00:55 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple Opening Up iPhone&#039;s NFC Chip to Third-Party Developers in iOS 18.1</title>
+		<link>https://www.macrumors.com/2024/08/14/apple-opening-up-iphones-nfc-chip-to-developers/</link>
+		<comments>https://forums.macrumors.com/threads/apple-opening-up-iphones-nfc-chip-to-third-party-developers-in-ios-18-1.2433629/</comments>
+		<pubDate>Wed, 14 Aug 2024 08:53:31 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/14/apple-opening-up-iphones-nfc-chip-to-developers/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Featured</category>
+		<category>NFC</category>
+		<category>Apple Pay</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2024/08/developers-can-soon-offer-in-app-nfc-transactions-using-the-secure-element/">announced</a> that developers will soon be able to offer NFC transactions in their own apps for the first time – something that is mostly exclusive to <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a> at present.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/07/Apple-Tap-to-Pay-on-iPhone-avail-UK-transaction.jpg" alt="" width="1960" height="1306" class="alignnone size-full wp-image-903160" /><br/>
+Starting with iOS 18.1 later this year, developers will be able to offer in-app contactless transactions, separate from &zwnj;Apple Pay&zwnj; and Apple Wallet, using new APIs. This opens up new possibilities for in-store payments, car keys, closed-loop transit, corporate badges, student IDs, home keys, hotel keys, merchant loyalty and rewards cards, and event tickets, as well as government IDs in the future. The APIs use the Secure Enclave inside the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, a certified chip that stores sensitive information directly on the device itself.<br/>
+<br/>
+Users will be able to use an app that features these APIs either by opening the app directly or setting it as their default contactless app in Settings to double-click the Side button and initiate the transaction.<br/>
+<br/>
+Developers will need to request the NFC and Secure Enclave entitlement, enter into a commercial agreement with Apple, and pay the associated fees. Apple says this ensures that only authorized developers who meet certain industry and regulatory requirements and commit to Apple’s ongoing security and privacy standards can access the relevant APIs.<br/>
+<br/>
+The NFC and Secure Enclave APIs will be available to developers in Australia, Brazil, Canada, Japan, New Zealand, the UK, and the U.S. in an upcoming developer seed for iOS 18.1, with additional regions to follow.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/nfc/">NFC</a>, <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/14/apple-opening-up-iphones-nfc-chip-to-developers/">Apple Opening Up iPhone&#039;s NFC Chip to Third-Party Developers in iOS 18.1</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-opening-up-iphones-nfc-chip-to-third-party-developers-in-ios-18-1.2433629/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18: Make Your iPhone Home Screen Icons Dark</title>
+		<link>https://www.macrumors.com/how-to/ios-make-home-screen-icons-dark/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-make-your-iphone-home-screen-icons-dark.2433627/</comments>
+		<pubDate>Wed, 14 Aug 2024 08:28:26 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/ios-make-home-screen-icons-dark&#038;post_date=1723660106/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[In <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, currently in beta, <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> apps have both Light and Dark color options, making it possible to match the color of your icons when you have Dark mode enabled. Keep reading to learn how it works.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/ios-18-dark-mode-icons.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-956931" /><br/>
+Apple's built-in apps have both Light and Dark color options in &zwnj;iOS 18&zwnj;, and third-party apps will likely provide their own Light and Dark icon alternatives to match your preferred aesthetic when &zwnj;iOS 18&zwnj; is released to the public, but until then your &zwnj;iPhone&zwnj; will happily generate dark versions of them, too.<br/>
+<br/>
+The Dark icons are all redesigned with a black background rather than a white or colored background, which makes them blend in better with the ‌<a href="https://www.macrumors.com/guide/ios-dark-mode/">Dark Mode</a>‌ setting. In addition, it's possible to turn on Dark icons independently of having ‌&zwnj;Dark Mode&zwnj;‌ enabled, so you can leave Light mode on while using the Dark icon option if you prefer.<br/>
+<br/>
+To go along with the ‌&zwnj;Dark Mode&zwnj;‌ icons, Apple also introduced a toggle that makes your wallpaper darker. The following steps explain how to switch your icon colors to match Light or Dark mode.<br/>
+<ol><br/>
+  <li>Press and hold a space on the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> or an app page to enter jiggle mode.</li><br/>
+  <li>Tap <strong>Edit</strong> in the top-left corner.</li><br/>
+  <li>Select <strong>Customize</strong> in the dropdown menu.</li><br/>
+  <li>Choose <strong>Dark</strong>, <strong>Light</strong>, or <strong>Automatic</strong> in the customization panel. (Automatic will lighten or darken the icons depending on whether Light or Dark mode is enabled.)</li><br/>
+<li>Tap anywhere outside the customization panel to close it and exit jiggle mode.</li><br/>
+</ol><img src="https://images.macrumors.com/article-new/2024/08/change-dark-mode-icons.jpg" alt="" width="4377" height="2796" class="aligncenter size-full wp-image-961676" /><br/>
+<br/>
+Note that the customization panel has other new settings including one to darken your wallpaper (the sun icon), an option to make icons bigger or smaller, and a Tint option that will put a tint over all of your icons (you can even match the tint with a color from your wallpaper using an eyedropper icon).  <br/>This article, &quot;<a href="https://www.macrumors.com/how-to/ios-make-home-screen-icons-dark/">iOS 18: Make Your iPhone Home Screen Icons Dark</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-make-your-iphone-home-screen-icons-dark.2433627/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Samsung&#039;s Back To School Sale Includes Big Discounts on Monitors and More</title>
+		<link>https://www.macrumors.com/2024/08/14/samsungs-back-to-school-sale/</link>
+		<comments>https://forums.macrumors.com/threads/samsungs-back-to-school-sale-includes-big-discounts-on-monitors-and-more.2433625/</comments>
+		<pubDate>Wed, 14 Aug 2024 08:14:09 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/14/samsungs-back-to-school-sale/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Samsung is hosting a new <a href="https://howl.me/cmSCjDZALXC">back to school sale</a>, which includes notable savings on multiple product lines sitewide. The popular ViewFinity S9 5K Smart Monitor and new Smart Monitor M80D are both discounted during this sale, but you'll also find sales on storage, audio, TVs, smartphones, and wearable tech.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/viewfinity-s9-samsung-pink.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-958532" /><em><small>Note: MacRumors is an affiliate partner with Samsung. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+The best monitor deal during this event is on the 27-inch ViewFinity S9 5K Smart Monitor, available for <a href="https://howl.me/cmcXUnrrsdT"><strong>&#36;899.99</strong></a>, down from &#36;1,599.99. At &#36;700 off this is a match of the all-time low price on the 2023 display, which has a matte display, modular 4K SlimFit camera, and support for Thunderbolt 4.<br/>
+<br/>
+<div class="center-wrap"><a href="https://howl.me/cmcXUnrrsdT"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;700 OFF</div>27-inch ViewFinity S9 5K Smart Monitor for &#36;899.99</div></a></div><br/>
+<br/>
+Samsung also has its new Smart Monitor M80D on sale today for <a href="https://howl.me/cmEbIKKFC8A"><strong>&#36;549.99</strong></a>, down from &#36;699.99, which is a second-best price on the monitor. The display retains key features of the previous model, like USB-C charging connectivity, AirPlay 2 support, an integrated webcam, and several smart TV features that enable it to be used when not connected to a PC. <br/>
+<br/>
+In terms of new features, the M80D includes a Multi Control feature that allows images and text to be moved between the display and a Galaxy Book, Tablet, or Phone. You can also pair Galaxy Buds to the monitor for a spatial audio experience with head tracking, as well as guided workouts when paired with a Galaxy Watch.<br/>
+<br/>
+<h2>Monitors</h2><br/>
+<ul><li><a href="https://howl.me/cmcXYAoJPWk">34-inch ViewFinity HDR10 Curved Monitor</a> - &#36;599.99, down from &#36;699.99</li><br/>
+<li><a href="https://howl.me/cmcXY1mXjV0">49-inch Odyssey G9 Curved Gaming Monitor</a> - &#36;899.99, down from &#36;1,299.99</li><br/>
+<li><a href="https://howl.me/cmh387N2uIj">34-inch OLED Curved Smart Gaming Monitor</a> - &#36;799.99, down from &#36;1,199.99</li><br/>
+<li><a href="https://howl.me/cmcXZtLQWw9">49-inch Odyssey OLED G9 Curved Gaming Monitor</a> - &#36;1,199.99, down from &#36;1,799.99</li><br/>
+<li><a href="https://howl.me/cmSCTMeMf1L">55-inch Odyssey Ark 2nd Gen Curved Gaming Monitor</a> - &#36;1,799.99, down from &#36;2,999.99</li></ul><br/>
+<h2>TVs</h2><br/>
+<ul><br/>
+<li><a href="https://howl.me/cmh365mLB6T">The Frame TV</a> - Save up to &#36;1,700</li><br/>
+<li><a href="https://howl.me/cmcXZZbVCrL">70-inch QLED 4K QE1C TV</a> - &#36;989.99, down from &#36;1,799.99</li><br/>
+<li><a href="https://howl.me/cmcX0OsAHAg">55-inch Neo QLED 4K Smart TV</a> - &#36;1,099.99, down from &#36;1,499.99</li><br/>
+<li><a href="https://howl.me/cmcX1gp9dhd">55-inch Samsung Neo QLED 4K TV</a> - &#36;1,099.99, down from &#36;1,999.99</li><br/>
+<li><a href="https://howl.me/cmcX1NCbcAf">65-inch OLED S90C TV</a> - &#36;1,599.99, down from &#36;2,599.99</li><br/>
+<li><a href="https://howl.me/cmcX2c09le2">85-inch Samsung Neo QLED 4K Smart TV</a> - &#36;2,599.99, down from &#36;4,799.99</li></ul><br/>
+<h2>Galaxy Products</h2><br/>
+<ul><li><a href="https://howl.me/cmEbV7Ybcky">Galaxy Z Fold6</a> - Save up to &#36;1,500 with trade-in credit</li><br/>
+<li><a href="https://howl.me/cmEbXJFsJWi">Galaxy Z Flip6</a> - Save up to &#36;800 with trade-in credit</li><br/>
+<li><a href="https://howl.me/cmEbYxetDfM">Galaxy Watch Ultra</a> - Save up to &#36;350</li><br/>
+<li><a href="https://howl.me/cmEbZknUAIi">Galaxy Buds3 Pro</a> - Save up to &#36;130</li></ul> Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/14/samsungs-back-to-school-sale/">Samsung&#039;s Back To School Sale Includes Big Discounts on Monitors and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/samsungs-back-to-school-sale-includes-big-discounts-on-monitors-and-more.2433625/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Shares New &#039;Designed for Every Body&#039; Ad Ahead of 2024 Paralympic Games</title>
+		<link>https://www.macrumors.com/2024/08/14/apple-shares-designed-for-every-body-ad/</link>
+		<comments>https://forums.macrumors.com/threads/apple-shares-new-designed-for-every-body-ad-ahead-of-2024-paralympic-games.2433618/</comments>
+		<pubDate>Wed, 14 Aug 2024 07:22:13 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/14/apple-shares-designed-for-every-body-ad/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Apple Ads</category>
+		
+
+		<description><![CDATA[Apple today shared a new ad titled "The Relay" focused on athletic accessibility with the tagline "designed for every body."<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/BPqir3EZolw?si=dVNBIQenl33gev8e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+Shared ahead of the 2024 Paralympic Games in Paris, the ad shows some of the routines, training, and competitions undertaken by disabled athletes across a wide range of sports, assisted by Apple devices. It emphasizes inclusivity and the universality of competitive sport, regardless of one's physical disabilities.<br/>
+<br/>
+<blockquote>Apple products are designed for every body. Whether you're a sprinter, wheelchair racer, track cyclist, or swimmer, features like the Workout app on Apple Watch, sleep metrics, and daily exercise goals — along with the ability to record and analyze your performance on iPad and Mac — ensure that all athletes have what they need to train and compete at their best.<br/>
+<br/>
+And innovative accessibility features like Point and Speak on iPhone, for users with low vision, or AssistiveTouch (which helps those with upper-limb difference use Apple Watch one-handed) further equip adaptive athletes with the ability to excel equally.</blockquote><br/>
+<br/>
+More information can be found on <a href="https://apple.com/accessibility ">Apple's accessibility</a> website. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-ads/">Apple Ads</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/14/apple-shares-designed-for-every-body-ad/">Apple Shares New &#039;Designed for Every Body&#039; Ad Ahead of 2024 Paralympic Games</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-shares-new-designed-for-every-body-ad-ahead-of-2024-paralympic-games.2433618/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Allows Spotify to Show Pricing Info to EU Users in iPhone App</title>
+		<link>https://www.macrumors.com/2024/08/14/apple-allows-spotify-show-pricing-eu-app/</link>
+		<comments>https://forums.macrumors.com/threads/apple-allows-spotify-to-show-pricing-info-to-eu-users-in-iphone-app.2433612/</comments>
+		<pubDate>Wed, 14 Aug 2024 04:08:26 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/14/apple-allows-spotify-show-pricing-eu-app/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Spotify</category>
+		<category>European Union</category>
+		<category>Apple Antitrust</category>
+		
+
+		<description><![CDATA[Spotify says it has received approval from Apple to display pricing information in its iOS app for users in the European Union, following its years-long legal struggle with the company.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/06/Apple-vs-Spotify-feature2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-801789" /><br/>
+Spotify says that from Wednesday, iPhone users in the EU will be informed of pricing information in the app and the fact that they can go to the company's website to purchase items directly. <br/>
+<br/>
+"EU iPhone consumers will now benefit from seeing our end of summer promotional pricing," said Spotify in an <a href="https://newsroom.spotify.com/2024-03-04/the-european-commission-confirms-apples-anti-competitive-behavior-is-illegal-and-harms-consumers/">updated blog post</a>. "They'll also finally be able to see how much a Premium plan of their choosing costs once the promotion ends."<br/>
+<br/>
+The music streamer is not opting into Apple's <a href="https://www.macrumors.com/2024/08/08/app-store-external-links-european-union/">complicated new business rules</a> under the Digital Markets Act, but is instead taking advantage of Apple's "entitlement" for music streaming services – a result of the European Commission's decision on <a href="https://www.macrumors.com/2024/03/04/eu-fines-apple-2-billion/">March 4</a> which found that Apple violated the EU's antitrust laws and fined them over €1.8 billion. <br/>
+<br/>
+Spotify is still not giving users a link to click to make purchases from outside of the App Store, which it could have done under the entitlement terms, but it presumably does not want to give Apple a cut of any off-platform sales, which Apple would likely argue is a reflection of the value the App Store provides.<br/>
+<blockquote>"Unfortunately, Spotify and all music streaming services in the EU are still not able to freely give consumers a simple opportunity to click a link to purchase in app because of the illegal and predatory taxes Apple continues to demand, despite the Commission's ruling.<br/>
+<br/>
+"The fight continues. iPhone consumers everywhere deserve basic information about how much things cost, when they can take advantage of great deals and promotions, and where to go to buy those things online. If the European Commission properly enforces its decision, iPhone consumers could see even more wins, like lower cost payment options and better product experiences in the app."</blockquote>Spotify has been in a legal spat with Apple in the EU <a href="https://www.macrumors.com/2019/03/13/spotify-files-complaint-vs-apple-in-europe/">since 2019</a>, when it filed an antitrust complaint over App Store rules. As recently as March Spotify <a href="https://www.macrumors.com/2024/03/14/spotify-no-apple-approval-subscription-update/">complained</a> to the Commission that Apple was failing to approve a Spotify update that adds information on subscription pricing and links its website.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/spotify/">Spotify</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a>, <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/14/apple-allows-spotify-show-pricing-eu-app/">Apple Allows Spotify to Show Pricing Info to EU Users in iPhone App</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-allows-spotify-to-show-pricing-info-to-eu-users-in-iphone-app.2433612/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Still Developing Bigger iMac With Over 30-Inch Display</title>
+		<link>https://www.macrumors.com/2024/08/14/apple-still-working-on-larger-imac/</link>
+		<comments>https://forums.macrumors.com/threads/apple-still-developing-bigger-imac-with-over-30-inch-display.2433611/</comments>
+		<pubDate>Wed, 14 Aug 2024 03:06:56 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/14/apple-still-working-on-larger-imac/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>iMac</category>
+		<category>iMac Pro</category>
+		<category>Mark Gurman</category>
+		
+
+		<description><![CDATA[Apple is still working on a larger iMac with over a 30-inch display, but the development stage and potential release schedule for the all-in-one computer still remains largely unknown.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/01/iMac-Pro-2022-27-and-24-iMac.jpg" alt="" width="1626" height="914" class="aligncenter size-full wp-image-833952" /><br/>
+Following the launch of the Mac Studio and 27-inch Studio Display in March 2022, Apple discontinued the Intel-based 27-inch iMac. The company had already consigned the iMac Pro to its discontinued products list the previous March. Then in November 2023, Apple dashed hopes of a future 27-inch iMac when it confirmed to several publications that it had <a href="https://www.macrumors.com/2023/11/06/no-27-inch-with-apple-silicon/">no plans to release such a machine</a>. <br/>
+<br/>
+Despite Apple's product reshuffle and its continued attempt to push customers to buy its 24-inch iMac or opt instead for a Mac Studio / Studio Display combo, there have been <a href="https://www.macrumors.com/2023/06/26/imac-with-over-30-inch-display/">persistent rumors of a larger-screened iMac</a> in the works that has a display that's over 30 inches in size. The machine was said to be in the early stages of development in mid-2023, but until recently the rumor mill had gone all but quiet about its progress.<br/>
+<br/>
+Now, <em>Bloomberg</em> reporter Mark Gurman has offered a ray of hope for fans of a larger model. "A larger iMac remains something Apple is exploring," he wrote in his <a href="https://www.bloomberg.com/news/newsletters/2024-08-11/iphone-16-preview-bigger-screens-new-colors-camera-button-ai-and-a18-chip-lzpk5495">latest weekly report</a>. However, Gurman still says it is unclear if the device will use Apple's latest M4 processor. Apple plans to update its 24-inch iMac to an M4 processor later this year, but Gurman's comments suggest that this could be too early for the larger model, given its current development phase. <br/>
+<ul><li><a href="https://www.macrumors.com/2024/08/09/m4-macbook-pro-mac-mini-imac-2024/">M4 MacBook Pro, iMac, and Redesigned Mac Mini Coming This Year</a></li></ul><br/>
+Gurman in <a href="https://www.macrumors.com/2023/06/26/imac-with-over-30-inch-display/">June 2023</a> reported that Apple was in the early stages of developing a new iMac with over a 30-inch display, and that it was "further out," suggesting that it might be at least a year or two away from launching. Then in October 2023, Apple analyst Ming-Chi Kuo said he expected a 32-inch iMac with a mini-LED display to <a href="https://www.macrumors.com/2023/10/17/32-inch-imac-coming-in-2025/">come out in 2025</a>. Kuo did not specify, but such a machine could be positioned as an "‌iMac‌ Pro" to replace the 2017 model that Apple discontinued in 2021.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/12/iMac-Pro-Mock-Graphic-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-877852" /><br/>
+So it seems Apple could still release a larger M4 iMac in 2025, alongside planned processor upgrades the MacBook Air, Mac Pro, and Mac Studio next year. Another possibility is that Apple will hold out for its M5 chip, which could see the bigger iMac arrive in 2026 or later. <br/>
+<ul><li><a href="https://www.macrumors.com/2024/08/09/when-to-expect-m4-macbook-air-mac-studio-mac-pro/">When to Expect New M4 MacBook Air, Mac Studio, and Mac Pro Models</a></li></ul><br/>
+As the rumors indicate, the actual size of the bigger iMac that Apple is working on is still unclear, but the display is surely going to be over 30 inches. At 32 inches, it would offer the same dimensions as the 6K Pro Display XDR, which Apple sells for &#36;5,000. As for the design, we could perhaps see slimmer bezels and a machine that is ultimately modeled after the Studio Display, with Apple eliminating the chin, but rumors are not clear on this point.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/imac/">iMac</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/14/apple-still-working-on-larger-imac/">Apple Still Developing Bigger iMac With Over 30-Inch Display</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-still-developing-bigger-imac-with-over-30-inch-display.2433611/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>The iPhone 16 is Getting a New Button: Here&#039;s What It Can Do</title>
@@ -425,217 +606,6 @@ In addition to fully rolling out the first Apple Intelligence features that were
 As another reference point, Apple introduced Emergency SOS via satellite alongside the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a> in 2022, a feature that the company plans to eventually charge a fee to use, but it will be at least 2025 before the first <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> owners have to pay for it. Apple's fee for Emergency SOS has not yet been announced.<br/>
 <br/>
 When Apple does start charging for Apple Intelligence, it could be baked into existing &zwnj;iCloud&zwnj;+ plans or included as part of <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a>, Apple's subscription bundle. Counterpoint Research analyst Neil Shah recently speculated that Apple could charge between &#36;10 and &#36;20 for Apple Intelligence, with the fee rolled into an &zwnj;Apple One&zwnj; plan. The basic &zwnj;Apple One&zwnj; plan is priced at &#36;19.95 per month right now, and it includes 50GB &zwnj;iCloud&zwnj;+ storage, <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a>, <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, and <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/12/apple-intelligence-fees-2027/">Apple Likely Won&#039;t Charge for Apple Intelligence Features Until At Least 2027</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-likely-wont-charge-for-apple-intelligence-features-until-at-least-2027.2433504/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Everything New in iOS 18.1 Beta 2 and iOS 18 Beta 6</title>
-		<link>https://www.macrumors.com/2024/08/12/ios-18-beta-6-everything-new/</link>
-		<comments>https://forums.macrumors.com/threads/everything-new-in-ios-18-1-beta-2-and-ios-18-beta-6.2433497/</comments>
-		<pubDate>Mon, 12 Aug 2024 14:32:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/12/ios-18-beta-6-everything-new/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple is beta testing <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and the first update to &zwnj;iOS 18&zwnj; concurrently, and we got the second betas of iOS 18.1, iPadOS 18.1, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.1 today alongside the sixth betas of &zwnj;iOS 18&zwnj;, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, and &zwnj;macOS Sequoia&zwnj; 15.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-on-iPhone-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955605" /><br/>
-Many of the changes in iOS 18.1 are focused on bringing the .1 betas in line with the standard betas, which recently received updates to <a href="https://www.macrumors.com/guide/photos/">Photos</a> and Safari, while updates in &zwnj;iOS 18&zwnj; are to finalize features and prepare it for launch.<br/>
-<br/>
-<h2>Photos Redesign (iOS 18.1)</h2><br/>
-The redesigned &zwnj;Photos&zwnj; app in &zwnj;iOS 18&zwnj; has proven to be not so popular with some users, so Apple streamlined it ahead of launch. The all-in-one design remains, but Apple removed the carousel to make the app less confusing and less repetitive. Apple introduced these design changes in the standard &zwnj;iOS 18&zwnj; update last week, and has now brought them to iOS 18.1.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/ios-18-photos-app-redesign.jpg" alt="" width="2000" height="1289" class="aligncenter size-full wp-image-960811" /><br/>
-With prior versions of &zwnj;iOS 18&zwnj;, you could swipe left to right to get to various Collections, but now Collections are accessed solely by scrolling down from the main library view. Collections include your custom albums and content that was previously in the For You section, such as featured images, videos, favorites, memories, and more.<br/>
-<br/>
-The Photo Library now displays more images at once in the photos grid, and Apple moved albums higher by default to make it easier for users to get to them. Recently Saved content has been integrated into Recent Days, so it's simpler to find too.<br/>
-<br/>
-<h2>Distraction Control in Safari (iOS 18.1)</h2><br/>
-Distraction Control is a new Safari option that lets you hide distracting elements from webpages and articles. You can use the feature to get rid of sign-in windows, cookie preference popups, newsletter signup videos, GDPR banners, and autoplay videos, among other things.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/ios-18-distraction-control.jpg" alt="" width="2000" height="1289" class="aligncenter size-full wp-image-960812" /><br/>
-What you can't use Distraction Control for is hiding ads. Apple has been clear that Distraction Control is not an ad removing tool, and while you can temporarily hide an ad, it pops right back when the ad or webpage refreshes. Distraction Control is designed for <em>static</em> content, not dynamic content, so anything that refreshes can't be hidden from view.<br/>
-<br/>
-You can get to Distraction Control by opening up Safari, selecting the page settings, and tapping on Hide Distracting Items. From there, you can tap on an element on the page that you want to hide from view. If you're not seeing the Hide Distracting Items option, tap on the three dots in the settings and then choose Edit and you'll be able to add it to your quick access options.<br/>
-<br/>
-What you've hidden will remain blocked from view as long as it's not dynamic content, but you can restore a webpage to default by going into the same options and tapping on Show Hidden Items.<br/>
-<br/>
-Note that if you hide a cookie banner or GDPR popup, it is the same as closing the banner without submitting your website preferences. Distraction Control settings are on-device and will not sync from one device to another, so you will need to set it up on each of your devices.<br/>
-<br/>
-Distraction Control was added to &zwnj;iOS 18&zwnj; and &zwnj;iPadOS 18&zwnj; last week, and now the feature is also in the .1 betas.<br/>
-<br/>
-<h2>Photo App Collection (iOS 18 Beta 6)</h2><br/>
-Apple has further tweaked the &zwnj;Photos&zwnj; app in &zwnj;iOS 18&zwnj; beta 6, introducing a redesigned look for the Albums Collection. Each album has a separate card, with a main thumbnail on the left. Prior versions had the album name on the left and a collection of small thumbnails.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/ios-18-beta-6-photos-app-updates.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961512" /><br/>
-<h2>Control Center (All Betas)</h2><br/>
-In Control Center, there is a new toggle for turning Bluetooth on and off. It is separate from the general communication controls that are all lumped together, and it can be added to any Control Center page.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/ios-18-beta-6-control-center.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961513" /><br/>
-You can also add the Bluetooth toggle to the Lock Screen in place of the Camera or the Flashlight or assign it to the Action Button on the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and Pro Max.<br/>
-<br/>
-There have been some tweaks to the way Control Center icons are organized in the gallery. A "Capture" section, for example, has Camera, Scan QR Code, and Magnifier options, and Silent Mode has been added under Sounds.<br/>
-<br/>
-<h2>Dark Mode Notification Icons (All Betas)</h2><br/>
-When you have <a href="https://www.macrumors.com/guide/ios-dark-mode/">Dark Mode</a> icons turned on, notifications that you receive from apps with a &zwnj;Dark Mode&zwnj; icon will show with that icon properly rather than showing with the Light Mode icon.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/ios-18-dark-mode-notifications.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961514" /><br/>
-Note that in iOS 18.1 beta 2, both &zwnj;Dark Mode&zwnj; and &zwnj;Dark Mode&zwnj; icons need to be turned on for notifications to have the darker icon. In &zwnj;iOS 18&zwnj; beta 6, dark mode icons will show up with the darker icons turned on. &zwnj;Dark Mode&zwnj; is not required. <br/>
-<br/>
-<h2>Splash Screens (All Betas)</h2><br/>
-As Apple prepares for the launch of &zwnj;iOS 18&zwnj;, there are new splash screens for &zwnj;Photos&zwnj;, Translate, Podcasts, Home, <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>, Calculator, and Notes. The addition of splash screens suggests that we are nearing the end of planned changes for the base version of &zwnj;iOS 18&zwnj;, which will be installed on <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/ios-18-splash-screens.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961515" /><br/>
-<h2>Apple Intelligence Localization (iOS 18.1)</h2><br/>
-Apple Intelligence includes new localized versions of English in the second 18.1 beta. Options include Canada, Ireland, New Zealand, South Africa, India, and Singapore, which are in addition to the previous U.S., UK, and Australia localization options.<br/>
-<br/>
-No support for non-English languages has been added at this time, and Apple says that support for other languages will come later this year and in 2025.<br/>
-<br/>
-<h2>Apple Intelligence in EU (iOS 18.1)</h2><br/>
-Multiple people located in the European Union have been able to turn on and use Apple Intelligence by setting their region to the United States and language to U.S. English.<br/>
-<br/>
-<h2>Icon Tints (All Betas)</h2><br/>
-Tints that you apply to your icons to match wallpapers are now linked to that wallpaper rather than the system. When you change your wallpaper, your icons will change as well if you've tailored them to be tinted to a wallpaper color.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/ios-18-tinted-icons-wallpapers.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961516" /><br/>
-<h2>Apple Music (All Betas)</h2><br/>
-The Browse tab in <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> is now the "New" tab.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/ios-18-6-music-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961517" /><br/>
-<h2>Lock Screen (iOS 18.1)</h2><br/>
-There is no longer an option to get to Spotlight search by swiping down from the Lock Screen in iOS 18.1 beta 2, but based on it being listed a known issue in the release notes, this is a bug.<br/>
-<br/>
-<h2>Mail - Upgrade Warning</h2><br/>
-Apple says that developers who have &zwnj;iOS 18&zwnj; beta 5 and who are thinking of upgrading to the iOS 18.1 beta might have all their mail redownloaded.<br/>
-<br/>
-<h2>More Features</h2><br/>
-Know of something that we left out? Let us know in the comments below.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/12/ios-18-beta-6-everything-new/">Everything New in iOS 18.1 Beta 2 and iOS 18 Beta 6</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-new-in-ios-18-1-beta-2-and-ios-18-beta-6.2433497/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Latest macOS Sequoia Betas Add New Wallpapers</title>
-		<link>https://www.macrumors.com/2024/08/12/macos-sequoia-beta-new-wallpapers/</link>
-		<comments>https://forums.macrumors.com/threads/latest-macos-sequoia-betas-add-new-wallpapers.2433483/</comments>
-		<pubDate>Mon, 12 Aug 2024 12:55:52 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/12/macos-sequoia-beta-new-wallpapers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sequoia</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15 and 15.1 betas that Apple provided to developers today officially introduce new &zwnj;macOS Sequoia&zwnj; wallpapers that <a href="https://www.macrumors.com/2024/08/05/macos-sequoia-forest-wallpaper-hidden/">first popped up</a> last week.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/macos-sequoia-wallpaper-night.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961503" /><br/>
-The wallpapers feature the sequoia trees that &zwnj;macOS Sequoia&zwnj; is named for. The imagery likely comes from Sequoia National Park, located in the southern Sierra Nevada mountains of California. There are three separate versions of the wallpaper for different times of day: Sequoia Sunrise, Sequoia Morning, and Sequoia Night.<br/>
-<br/>
-Each wallpaper is animated and will shift slightly at the Lock Screen when you unlock your Mac, plus there is an option to set it as a screen saver.<br/>
-<br/>
-You will need the latest &zwnj;macOS Sequoia&zwnj; betas to see the official wallpapers, but <a href="https://www.macrumors.com/2024/08/05/macos-sequoia-forest-wallpaper-hidden/">downloadable versions</a> are available on other machines. The Sequoia wallpapers will be available to all &zwnj;macOS Sequoia&zwnj; users when the operating system is released this fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/12/macos-sequoia-beta-new-wallpapers/">Latest macOS Sequoia Betas Add New Wallpapers</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/latest-macos-sequoia-betas-add-new-wallpapers.2433483/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases New AirPods Pro 2 Beta Firmware With Support for iOS 18 Features</title>
-		<link>https://www.macrumors.com/2024/08/12/airpods-pro-beta-firmware-3-ios-18/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-beta-firmware-with-support-for-ios-18-features.2433479/</comments>
-		<pubDate>Mon, 12 Aug 2024 11:32:31 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/12/airpods-pro-beta-firmware-3-ios-18/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>AirPods Pro</category>
-		
-
-		<description><![CDATA[Apple today released a third beta firmware for the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2, including both the Lightning and USB-C versions. The updated firmware has a build number of 7A5266c, up from 7A5244b, and it is available to developers at the current time. This is the third firmware update that Apple has released since announcing new &zwnj;AirPods Pro&zwnj; 2 features in June.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-803705" src="https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware.jpg" alt="" width="1920" height="1081" /><br/>
-There are multiple features that are coming to the &zwnj;AirPods Pro&zwnj; 2 as part of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, and these features are included in the firmware update.<br/>
-<br/>
-With head gestures, users can control <a href="https://www.macrumors.com/guide/siri/">Siri</a> on the &zwnj;AirPods Pro&zwnj; with a shake or a nod of the head. If you get a phone call, for example, you can shake your head no if you don't want to answer it, or nod to accept the call. &zwnj;Siri&zwnj; interactions can be used for responding to incoming messages, calls, and notifications.<br/>
-<br/>
-Apple is adding Voice Isolation to the &zwnj;AirPods Pro&zwnj; to cut down on loud background sounds to make you easier to hear, and there is a new Personalized Spatial Audio feature specific to gaming. Game developers will be able to incorporate spatial audio into their games for a more immersive audio experience.<br/>
-<br/>
-The new firmware requires a device running &zwnj;iOS 18&zwnj; to install, and it won't be available to the public until this fall.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/12/airpods-pro-beta-firmware-3-ios-18/">Apple Releases New AirPods Pro 2 Beta Firmware With Support for iOS 18 Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-beta-firmware-with-support-for-ios-18-features.2433479/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Second Developer Betas of iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 With Apple Intelligence</title>
-		<link>https://www.macrumors.com/2024/08/12/apple-seeds-ios-18-1-beta-2-to-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-second-developer-betas-of-ios-18-1-ipados-18-1-and-macos-sequoia-15-1-with-apple-intelligence.2433468/</comments>
-		<pubDate>Mon, 12 Aug 2024 10:02:54 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/12/apple-seeds-ios-18-1-beta-2-to-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		<category>macOS Sequoia</category>
-		
-
-		<description><![CDATA[Apple today provided developers with the second betas of iOS 18.1, iPadOS 18.1, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.1 to continue testing Apple Intelligence features. The second betas come two weeks after Apple seeded the first iOS 18.1, iPadOS 18.1, and &zwnj;macOS Sequoia&zwnj; 15.1 betas.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-960229" src="https://images.macrumors.com/article-new/2024/07/Apple-Intelligence-Feature-2.jpg" alt="" width="2500" height="1406" /><br/>
-A device capable of supporting Apple Intelligence is required to download the updates, which includes the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> and Pro Max, Apple silicon iPads, and Apple silicon Macs. The updates can be downloaded from the Settings app on a compatible device, with developers able to choose between the standard <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>/<a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>/&zwnj;macOS Sequoia&zwnj; 15 betas or the .1 betas with Apple Intelligence functionality.<br/>
-<br/>
-Apple Intelligence includes Writing Tools that are available wherever text can be selected and edited, and it can be used for spell checking, fixing grammar, rewriting with a new tone, and summarizing text.<br/>
-<br/>
-<a href="https://www.macrumors.com/guide/siri/">Siri</a> has a new design with a subtle glow around the display, and there is a Type to &zwnj;Siri&zwnj; feature so you don't have to speak to &zwnj;Siri&zwnj;. &zwnj;Siri&zwnj; can follow along if you stumble over your words, and can maintain context between requests. Safari can summarize articles, and there's a new Reduce Interruptions Focus Mode.<br/>
-<br/>
-Smart replies are available in Messages and Mail, plus the Mail app surfaces time sensitive messages and puts them at the top of your inbox. <a href="https://www.macrumors.com/guide/photos/">Photos</a> has a Memory Movie feature for creating slideshows based on text descriptions, and you can record, transcribe, and summarize phone calls. Transcription and summarization are also available for any audio recording.<br/>
-<br/>
-More on all of the features that are available in the betas right now can be <a href="https://www.macrumors.com/2024/07/29/ios-18-1-apple-intelligence-features/">found in our Apple Intelligence guide</a>. Image Playground, Genmoji, and other new &zwnj;Siri&zwnj; features <a href="https://www.macrumors.com/2024/07/29/ios-18-1-apple-intelligence-unavailable-features/">have not yet been implemented</a>.<br/>
-<br/>
-Apple has split Apple Intelligence into a separate set of betas because these features will not be available in the initial launch versions of &zwnj;iOS 18&zwnj;, &zwnj;iPadOS 18&zwnj;, and &zwnj;macOS Sequoia&zwnj;. Apple Intelligence will be available to the public later in the fall after a developer testing period.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a>, <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/12/apple-seeds-ios-18-1-beta-2-to-developers/">Apple Seeds Second Developer Betas of iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 With Apple Intelligence</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-developer-betas-of-ios-18-1-ipados-18-1-and-macos-sequoia-15-1-with-apple-intelligence.2433468/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Sixth Betas of iOS 18 and iPadOS 18 to Developers [Update: Public Beta Available]</title>
-		<link>https://www.macrumors.com/2024/08/12/apple-seeds-ios-18-beta-6-to-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-sixth-betas-of-ios-18-and-ipados-18-to-developers-update-public-beta-available.2433467/</comments>
-		<pubDate>Mon, 12 Aug 2024 10:02:24 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/12/apple-seeds-ios-18-beta-6-to-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple today seeded the sixth betas of upcoming <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a> updates to developers for testing purposes, with the software coming a week after the <a href="https://www.macrumors.com/2024/08/05/apple-seeds-ios-18-beta-5-to-developers/">release of the fifth betas</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Generic-iOS-18-Feature-Real-Mock.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-954594" /><br/>
-Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the ‌&zwnj;iOS 18&zwnj;/&zwnj;iPadOS 18&zwnj;‌ Developer Beta setting. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta. The &zwnj;iOS 18&zwnj; and &zwnj;iPadOS 18&zwnj; beta track is now separate from the iOS 18.1 and iPadOS 18.1 beta track, with the .1 betas adding support for Apple Intelligence on devices that are able to run the features. <br/>
-<br/>
-&zwnj;iOS 18&zwnj; introduces Apple Intelligence, a set of AI features that are built deeply into the operating system. Apple Intelligence won't be coming until later in the beta testing process, but it includes features for refining and editing writing, generating images and emoji, and most notably, improving <a href="https://www.macrumors.com/guide/siri/">Siri</a> and search. &zwnj;Siri&zwnj; is gaining a better understanding of natural language, improved contextual awareness, and the personal assistant will integrate with ChatGPT to answer more complex queries.<br/>
-<br/>
-Apple Intelligence features are limited to the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models and iPads with an M-series chip, but there are a number of other features that are coming. Apple is allowing users to rearrange Home screen apps to have open spaces, plus there's a dark mode for app icons and tinting options.<br/>
-<br/>
-The Control Center is customizable and third-party developers can add controls for their apps, with the Lock Screen Flashlight and Camera icons able to be replaced or removed. Messages is gaining Rich Communication Services support to improve conversations with Android users, the option to schedule texts to be sent later, new text effects, messages over satellite when there's no cellular, and the option to use any emoji for Tapback responses.<br/>
-<br/>
-There's a dedicated Passwords app for logins, passkeys, Wi-Fi passwords, and verification codes, and there's now an option to lock and hide apps, which means they can't be opened without secondary <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> authentication even when your phone is unlocked.<br/>
-<br/>
-Safari has a highlights feature that summarizes articles and surfaces key information on websites, the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app interface has been overhauled, and there's a new Tap to Cash feature for privately and securely transferring money using Apple Cash. Other features include equation solving and voice memo transcription in Notes, a game mode for improving game performance, and an option to respond to &zwnj;Siri&zwnj; on AirPods with head gestures.<br/>
-<br/>
-Apple will release &zwnj;iOS 18&zwnj; and &zwnj;iPadOS 18&zwnj; to the public this fall. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/12/apple-seeds-ios-18-beta-6-to-developers/">Apple Seeds Sixth Betas of iOS 18 and iPadOS 18 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-sixth-betas-of-ios-18-and-ipados-18-to-developers-update-public-beta-available.2433467/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Sixth Beta of macOS Sequoia to Developers [Update: Public Beta Available]</title>
-		<link>https://www.macrumors.com/2024/08/12/apple-seeds-macos-sequoia-beta-6/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-sixth-beta-of-macos-sequoia-to-developers-update-public-beta-available.2433471/</comments>
-		<pubDate>Mon, 12 Aug 2024 10:01:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/12/apple-seeds-macos-sequoia-beta-6/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sequoia</category>
-		
-
-		<description><![CDATA[Apple today seeded the sixth beta of upcoming an upcoming macOS 15 Sequoia update to developers for testing purposes, with the software coming a week after the <a href="https://www.macrumors.com/2024/08/05/apple-seeds-macos-sequoia-beta-5-to-developers/">release of the fifth beta</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/macOS-Sequoia-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955370" /><br/>
-Registered developers can opt-in to the <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> beta through the Software Update section of the System Settings app. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
-<br/>
-&zwnj;macOS Sequoia&zwnj; includes <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Mirroring, which allows you to control your locked &zwnj;iPhone&zwnj; from your Mac. You can open and use &zwnj;iPhone&zwnj; apps, interact with notifications, and drag and drop files between your &zwnj;iPhone&zwnj; and Mac and vice versa.<br/>
-<br/>
-There are new options for window tiling, and dragging a window to the edge of the display will suggest a tiled location to make it easier to use multiple apps at once. Apple is adding a Passwords app for managing passwords, Safari can summarize websites, surface key information, and Notes has support for live audio transcription and math equations.<br/>
-<br/>
-All of the Apple Intelligence features coming to <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> will also be available in &zwnj;macOS Sequoia&zwnj;, but Apple does not plan to add these until later in the beta testing process. Apple Intelligence includes Writing Tools for editing, proofreading, and summarizing text in apps, and an Image Playground allows for AI images to be created from prompts.<br/>
-<br/>
-Custom emoji or "Genmoji" can be created for any situation and used just like emoji, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> is getting much smarter. &zwnj;Siri&zwnj; will be able to do more in apps and will better understand requests, especially those made in regard to on-screen content.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/12/apple-seeds-macos-sequoia-beta-6/">Apple Seeds Sixth Beta of macOS Sequoia to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-sixth-beta-of-macos-sequoia-to-developers-update-public-beta-available.2433471/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
