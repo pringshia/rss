@@ -20,7 +20,7 @@ jobs:
 
       - name: Replace URLs (optional)
         run: |
-          sed -i 's~https://nitter.privacydev.net/~https://nitter.poast.org/~g' nitter-*.xml
+          sed -i 's~https://nitter.privacydev.net/~https://x.com/~g' nitter-*.xml
  
 
       - name: Commit Changes
