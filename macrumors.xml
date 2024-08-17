@@ -14,12 +14,264 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Fri, 16 Aug 2024 09:01:23 PDT</lastBuildDate>
+	<lastBuildDate>Sat, 17 Aug 2024 03:01:19 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>iOS 18: What&#039;s New With the Maps App</title>
+		<link>https://www.macrumors.com/guide/ios-18-maps/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-whats-new-with-the-maps-app.2433808/</comments>
+		<pubDate>Fri, 16 Aug 2024 15:18:44 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-18-maps&#038;post_date=1723857524/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[Almost all of Apple's built-in apps are getting new features in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, and that includes the Maps app. The Maps app isn't getting any fun new AI additions, but Apple does have some useful changes in store.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/Generic-iOS-18-Maps-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961870" /><br/>
+<h2 id="hiking_trails">Hiking Trails</h2><br/>
+Apple added topographic maps to the Apple Watch last year, and now detailed topographic maps are also coming to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. The Maps app features detailed trail networks and hikes, including all 63 U.S. national parks.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-maps-hikes.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961875" /><br/>
+You can do a search for "hikes" or "hiking routes" in the Maps app to see nearby trail options, with Apple including hike length, elevation, ratings, and other details.<br/>
+<br/>
+Hikes can be filtered by length, route type (loop, point to point, or out and back), and elevation, and can be saved for offline access.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-maps-hike-filters.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961876" /><br/>
+You can zoom into hiking areas to see specific trails, or search for trails. If you tap on a trail, Apple has information that includes length, highest point, lowest point, and distance. You can also see a full overview of the trail's path and get lengths for each section.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-maps-find-trails.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961877" /><br/>
+Trails and hikes are separate entities in the Maps app. A search for hikes essentially brings you to the general area where specific trails are located, and you can zoom in with the Maps app to find the trail you want to take.<br/>
+<br/>
+<h2 id="custom_routes">Custom Routes</h2><br/>
+<a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> supports custom routes in &zwnj;iOS 18&zwnj;, so you can plan out a specific hiking route that you want to take. At a trailhead, you can tap on the "Create a Custom Route" option to initiate the custom routing experience.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-maps-custom-route.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961878" /><br/>
+From there, you tap on the map to begin setting points for your route, and the Maps app will provide length and elevation details. You can also have the Maps app finish a route automatically by tapping on the Reverse, Out and Back, or Close Loop options.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-maps-custom-route-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961879" /><br/>
+For hikes and trails, the Maps app will not let you create an unsafe route that does not stick to existing trails, so it's difficult to make a dangerous map out into the middle of nowhere.<br/>
+<br/>
+Route creation is not limited to hikes and trails. You can add a pinned spot to a map, tap on the "More" option and choose Create Custom Route.<br/>
+<br/>
+<h2 id="search_here">Search Here</h2><br/>
+Apple made it easier to search in locations you might be thinking of visiting or those you want to explore by adding a "Search here" button. If you look up a place, such as San Diego, and then tap on search, it'll search in the area that's on your screen rather at your physical location.<br/>
+<br/>
+If you search for something and then pan around the map, the search will update reliably in the new location. When you zoom in, you'll see a dedicated "Search here" button that gives you more control over where you want to search.<br/>
+<br/>
+<h2 id="saving_favorites">Saving Favorites</h2><br/>
+If you find a favorite hike, trail, or custom route, you can save it to your Library to save it for later. To do so, find the relevant hike and then tap on the "Add to Library" button.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-maps-trail-save-library.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961880" /><br/>
+You can rename hikes and add specific information that you might want to revisit later, as well as download the route for offline usage.<br/>
+<br/>
+Tapping on the "+" button when viewing any location on the map, including a hike, will also add that location to the library.<br/>
+<br/>
+Favorites are stored in the Maps app and can be accessed by tapping on your profile picture and choosing the Library section.<br/>
+<br/>
+<h2 id="library">Library</h2><br/>
+All saved content from the Maps app including locations, routes, guides, and pins are stored in the new Library section of the Maps app rather than in separate sections as in <a href="https://www.macrumors.com/roundup/ios-17/">iOS 17</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-maps-library.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961881" /><br/>
+The Library also shows all of your Recently Added content.<br/>
+<br/>
+<h2 id="notes">Notes</h2><br/>
+You can tap on any place in the Maps app and select the Add a Note option from the menu. From there, you can make a note about what you want to remember about a location.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-maps-add-a-note.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-961882" /><br/>
+Notes are private and are kept on-device. They are only visible to the note creator.<br/>
+<br/>
+<h2 id="read_more">Read More</h2><br/>
+Additional information on new features that Apple has added in &zwnj;iOS 18&zwnj; <a href="https://www.macrumors.com/roundup/ios-18/">can be found in our iOS 18 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-18-maps/">iOS 18: What&#039;s New With the Maps App</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-whats-new-with-the-maps-app.2433808/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple is Opening Up the iPhone&#039;s NFC Chip: What You Need to Know</title>
+		<link>https://www.macrumors.com/guide/apple-nfc-chip-ios-18-1/</link>
+		<comments>https://forums.macrumors.com/threads/apple-is-opening-up-the-iphones-nfc-chip-what-you-need-to-know.2433801/</comments>
+		<pubDate>Fri, 16 Aug 2024 12:45:45 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/apple-nfc-chip-ios-18-1&#038;post_date=1723848345/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>NFC</category>
+		
+
+		<description><![CDATA[With the launch of iOS 18.1 this fall, Apple will allow third-party developers to support NFC contactless transactions for payments and more. Right now, the NFC chip is locked down, and it's primarily only used for <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a>, but a number of new capabilities will be coming when Apple expands access to NFC.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/Apple-Tap-to-Pay-on-iPhone-avail-FR-transaction.jpg" alt="" width="1960" height="1306" class="aligncenter size-full wp-image-922462" /><br/>
+<h2 id="nfc_capabilities_in_third-party_apps">NFC Capabilities in Third-Party Apps</h2><br/>
+With NFC access, banks will be able to offer direct contactless payment options that serve as an alternative to &zwnj;Apple Pay&zwnj;, but it app developers will be able to do more, too. Some ways Apple says NFC can be used:<br/>
+<ul><br/>
+ <li>Contactless payments in stores</li><br/>
+ <li>Car keys</li><br/>
+ <li>Closed-loop transit cards</li><br/>
+ <li>Corporate badges</li><br/>
+ <li>Student IDs</li><br/>
+ <li>Government IDs (coming in the future)</li><br/>
+ <li>Home keys</li><br/>
+ <li>Hotel keys</li><br/>
+ <li>Merchant loyalty and reward cards</li><br/>
+ <li>Event tickets</li><br/>
+</ul><br/>
+<h2 id="security_protections">Security Protections</h2><br/>
+Apple is creating several new APIs that will power the contactless transactions. The APIs will use the Secure Enclave in the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, with sensitive information stored directly on device.<br/>
+<br/>
+Developers will have to request access to the NFC and Secure Enclave entitlement, sign a commercial agreement with Apple, and pay associated fees. Apple plans to make sure that only authorized developers who meet regulatory and industry requirements and commit to Apple's security and privacy standards can get access to the APIs.<br/>
+<br/>
+<h2 id="default_contactless_app_options">Default Contactless App Options</h2><br/>
+Once these features go live, &zwnj;iPhone&zwnj; users can open up the app and then hold the &zwnj;iPhone&zwnj; near an NFC terminal to make a payment. So if you want to pay at a store using your bank's NFC payment service, you'd open your bank app and then double-click the side button on the &zwnj;iPhone&zwnj; to initiate a transaction.<br/>
+<br/>
+Third-party apps will also be able to be set as default contactless apps in the &zwnj;iPhone&zwnj;'s Settings app.<br/>
+<br/>
+Transactions will be verified with <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a>.<br/>
+<br/>
+<h2 id="apple_pay_and_apple_wallet">Apple Pay and Apple Wallet</h2><br/>
+The NFC APIs are separate from &zwnj;Apple Pay&zwnj; and Apple Wallet, which is why you will need to open up a third-party app to use its NFC capabilities.<br/>
+<br/>
+<h2 id="available_countries">Available Countries</h2><br/>
+Apple's NFC and Secure Enclave APIs are coming to developers in Australia, Brazil, Canada, Japan, New Zealand, the UK, and the United States.<br/>
+<br/>
+Support will come to additional locations in the future.<br/>
+<br/>
+Apple <a href="https://www.macrumors.com/2024/07/11/apple-opens-iphone-nfc-access-eu/">already opened up</a> the NFC chip in the European Economic Area.<br/>
+<br/>
+<h2 id="ios_18.1_launch_date">iOS 18.1 Launch Date</h2><br/>
+The new APIs will launch in iOS 18.1, which is an update that Apple is testing at the current time. iOS 18.1 will likely be released a few weeks after <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, and we are expecting to see it sometime in October.<br/>
+<br/>
+In past years, .1 updates have come out between October 20 and October 25, so the week of October 21 is likely when we will see iOS 18.1 come out.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/nfc/">NFC</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/apple-nfc-chip-ios-18-1/">Apple is Opening Up the iPhone&#039;s NFC Chip: What You Need to Know</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-is-opening-up-the-iphones-nfc-chip-what-you-need-to-know.2433801/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Five New Features Coming in tvOS 18 This Fall</title>
+		<link>https://www.macrumors.com/2024/08/16/tvos-18-five-features/</link>
+		<comments>https://forums.macrumors.com/threads/five-new-features-coming-in-tvos-18-this-fall.2433796/</comments>
+		<pubDate>Fri, 16 Aug 2024 11:06:39 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/16/tvos-18-five-features/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Alongside <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>, and the other fall updates, Apple plans to release an updated version of tvOS. <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> software updates often don't get much attention because they tend to introduce a limited number of new features, but there are some interesting additions coming this year.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/LC4CBHVRoNg" title="tvOS 18: Best NEW Features Coming to Apple TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+<ol><br/>
+ 	<li><strong>InSight</strong> - InSight is like Amazon X-ray, providing information about actors, character, and music from &zwnj;Apple TV&zwnj;+ movies and shows in real-time. If you pause a show that's playing, you can see details on the actors, the song that's playing, and more. If you're using an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> as a remote for an &zwnj;Apple TV&zwnj;, you can get InSight information right on your phone. Note that this feature only works with &zwnj;Apple TV&zwnj;+ content right now.</li><br/>
+ 	<li><strong>Enhance Dialogue and Subtitles</strong> - Enhance Dialogue is setting that already exists, but Apple is making it better with machine learning and computational audio improvements. It'll be better at improving vocal clarity over loud music, action scenes, and background noise. Plus Apple updated it so it works with HDMI-connected speakers, when playing content on &zwnj;iPhone&zwnj; and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, when using AirPods, and with other Bluetooth audio devices. As a bonus, Apple is also improving subtitles, so they'll appear intelligently such as when content is muted or when a TV show or movie is rewound.</li><br/>
+ 	<li><strong>FaceTime Updates</strong> - When you use <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> with your &zwnj;Apple TV&zwnj; with an &zwnj;iPhone&zwnj; or &zwnj;iPad&zwnj; as the camera, you can now see real-time Live Captions during the call. This works in English in the United States and Canada. Semi-related, there is a new option to use SharePlay so everyone can contribute songs to a party playlist by scanning a QR code.</li><br/>
+ 	<li><strong>New Screen Savers</strong> - Apple is adding new screen saver options, including Portraits (shows your Portrait images), TV and Movies, and Snoopy.</li><br/>
+ 	<li><strong>Projector Support</strong> - If you have a projector, you'll be pleased to hear that tvOS 18 adds support for the 21:9 aspect ratio used by most projectors.</li><br/>
+</ol><br/>
+What do you think of the new features coming in tvOS 18? Let us know in the comments below.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/16/tvos-18-five-features/">Five New Features Coming in tvOS 18 This Fall</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/five-new-features-coming-in-tvos-18-this-fall.2433796/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Best Apple Deals of the Week: Low Prices Hit AirTag, Studio Display, iPad Pro, and More</title>
+		<link>https://www.macrumors.com/2024/08/16/best-apple-deals-of-the-week-low-prices-hit-airtag-studio-display-ipad-pro-and-more/</link>
+		<comments>https://forums.macrumors.com/threads/best-apple-deals-of-the-week-low-prices-hit-airtag-studio-display-ipad-pro-and-more.2433793/</comments>
+		<pubDate>Fri, 16 Aug 2024 10:21:35 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/16/best-apple-deals-of-the-week-low-prices-hit-airtag-studio-display-ipad-pro-and-more/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Some of this week's best Apple deals include all-time low prices for the Apple Studio Display and M4 iPad Pro, both of which are available on Amazon. We're also tracking great discounts on Bluetooth trackers, Sony's popular noise canceling headphones, and portable power stations from Anker and Jackery.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/hero-new-blue-botw.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961852" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+<h2>Bluetooth Trackers</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/08/airtag-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961851" /><br/>
+<ul><li><strong>What's the deal?</strong> Save on Apple and Anker Bluetooth trackers</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D54JZTHY%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/08/10/airtag-anker-bluetooth-trackers/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D54JZTHY%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;19 OFF</div>AirTag 4 Pack for &#36;79.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BNVFJMZR%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.F587O4DYC8XW%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.F587O4DYC8XW_1723214604243"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;6 OFF</div>SmartTrack Link 2 Pack for &#36;29.88</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BKJZ5BVF%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.21TJMGTITJI3Q%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.21TJMGTITJI3Q_1723214719490"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;10 OFF</div>SmartTrack Card for &#36;19.99</div></a></div><br/>
+<br/>
+This week started with a handful of discounts on popular Bluetooth trackers, including Apple's AirTag and Anker's brand of Eufy SmartTrack accessories. Although all-time low prices are no longer available on some devices, you can still find all of them on sale today on Amazon.<br/>
+<br/>
+<h2>Sony Headphones</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/08/sony-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961862" /><br/>
+<ul><li><strong>What's the deal?</strong> Take &#36;150 off Sony WH1000XM4 Headphones</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://www.tkqlhce.com/click-462641-15268034?url=https%3A%2F%2Felectronics.sony.com%2Faudio%2Fheadphones%2Fheadband%2Fp%2Fwh1000xm4-b">Sony</a></li></ul><br/>
+<div class="center-wrap"><a href="https://www.tkqlhce.com/click-462641-15268034?url=https%3A%2F%2Felectronics.sony.com%2Faudio%2Fheadphones%2Fheadband%2Fp%2Fwh1000xm4-b"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>Sony WH1000XM4 Headphones for &#36;199.99</div></a></div><br/>
+<br/>
+Sony this week introduced a steep new discount on the WH1000XM4 Wireless Premium Noise Canceling Headphones, available for &#36;199.99 direct from its website, down from &#36;349.99. These headphones feature premium noise cancellation and up to a 30 hour battery life, and this discount is available in all three colors.<br/>
+<br/>
+<h2>Apple Studio Display</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/08/studio-display-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961850" /><br/>
+<ul><li><strong>What's the deal?</strong> Take &#36;299 off Apple Studio Display</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3GZD32%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Amazon</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/08/14/apple-studio-display-low-discounts/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3GZD32%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;299 OFF</div>Standard Glass Apple Studio Display for &#36;1,299.99</div></a></div><br/>
+<br/>
+Amazon this week discounted the Apple Studio Display (standard glass) to &#36;1,299.99, down from &#36;1,599.00, which is a match of the all-time low price on the monitor. You can also find low prices on the VESA mount adapter model and tilt- and height-adjustable stand model on Amazon right now.<br/>
+<br/>
+<h2>iPad Pro</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/08/m4-ipad-pro-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961848" /><br/>
+<ul><li><strong>What's the deal?</strong> Save on M4 iPad Pro</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/08/15/m4-ipad-pro-starting-899/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>11-inch iPad Pro (256GB Wi-Fi0 for &#36;899.00</div></a></div><br/>
+<br/>
+Amazon has Apple's 256GB Wi-Fi 11-inch M4 iPad Pro for &#36;899.00, down from &#36;999.00. This is a new record low price on the tablet, and there are also multiple other sales on both 11-inch and 13-inch Wi-Fi models happening this week on Amazon.<br/>
+<br/>
+<h2>Portable Power Stations</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/07/anker-jackery-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-958617" /><br/>
+<ul><li><strong>What's the deal?</strong> Save on Anker and Jackery power stations</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1CBVLK7%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.WAQNA1RIZWIZ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.WAQNA1RIZWIZ_1723559358185">Amazon</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/08/13/amazon-power-stations-anker-jackery/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1CBVLK7%3Fref%3Dt_ac_view_request_product_image%26campaignId%3Damzn1.campaign.WAQNA1RIZWIZ%26linkCode%3Dtr1%26tag%3Dweeno%26linkId%3Damzn1.campaign.WAQNA1RIZWIZ_1723559358185"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>Jackery Explorer 100 Plus Power Station for &#36;179.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FAnker-A1754-SOLIX-C800-Plus%2Fdp%2FB0C5CBDX2P%3Fref_%3Dast_sto_dp%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;200 OFF</div>Anker SOLIX C800 Power Station for &#36;449.00</div></a></div><br/>
+<br/>
+This week also saw the return of major discounts on Anker's and Jackery's best portable power stations, with as much as &#36;1,750 off these accessories. Many of the Anker deals do require a Prime membership, while others require you to clip an on-page coupon. You can <a href="https://www.macrumors.com/2024/08/13/amazon-power-stations-anker-jackery/">visit our original post</a> for the full list of power stations on sale.<br/>
+<br/>
+<h2>Samsung Monitors</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/08/samsung-smart-monitor-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961849" /><br/>
+<ul><li><strong>What's the deal?</strong> Take &#36;700 off Samsung's ViewFinity S9 5K Smart Monitor, plus other deals</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://howl.me/cmcXUnrrsdT">Samsung</a></li><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/08/14/samsungs-back-to-school-sale/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://howl.me/cmcXUnrrsdT"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;700 OFF</div>27-inch ViewFinity S9 5K Smart Monitor for &#36;899.99</div></a></div><br/>
+<br/>
+Samsung opened up its back to school sale this week, and it includes a match of the all-time low price on the 27-inch ViewFinity S9 5K Smart Monitor. This display is priced at &#36;899.99 (&#36;700 off), and you'll find even more deals on monitors, TVs, and smartphones in this sale.<br/>
+<br/>
+Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/16/best-apple-deals-of-the-week-low-prices-hit-airtag-studio-display-ipad-pro-and-more/">Best Apple Deals of the Week: Low Prices Hit AirTag, Studio Display, iPad Pro, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-low-prices-hit-airtag-studio-display-ipad-pro-and-more.2433793/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Android Phones Exposed to Remote Access Vulnerability</title>
+		<link>https://www.macrumors.com/2024/08/16/android-phones-exposed-to-remote-vulnerability/</link>
+		<comments>https://forums.macrumors.com/threads/android-phones-exposed-to-remote-access-vulnerability.2433786/</comments>
+		<pubDate>Fri, 16 Aug 2024 09:50:23 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/16/android-phones-exposed-to-remote-vulnerability/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Android</category>
+		<category>Cybersecurity</category>
+		<category>Google</category>
+		
+
+		<description><![CDATA[Some Android smartphones have been found to contain a hidden security vulnerability that could allow remote access to user data, alarming cybersecurity experts and leading to a halt in the use of these devices by a major intelligence contractor, <a href="https://www.washingtonpost.com/technology/2024/08/15/google-sold-android-phones-with-hidden-insecure-feature-companies-find/"><em>The Washington Post</em></a> reports.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/02/Google-Logo-Feature-Slack.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-837104" /><br/>
+The vulnerability, identified by the security firm iVerify, involves a pre-installed application known as Showcase.apk, which, though dormant by default, can be activated to potentially allow unauthorized remote access to the devices. The Showcase.apk application was discovered within certain models of Android phones, including Google Pixel devices.<br/>
+<br/>
+According to iVerify, the application appears to have been designed for use in retail environments, allowing employees to demonstrate the device's features to customers. However, researchers found that when activated, the application could connect to a server via an unsecured "http" connection, making it vulnerable to interception by cybercriminals. This flaw could enable attackers to execute code remotely, potentially injecting malicious code or spyware and gaining access to sensitive data stored on the device.<br/>
+<br/>
+Palantir Technologies, a data analysis platform vendor that often works with government agencies and other security-sensitive clients, expressed grave concerns about the implications of this vulnerability. The company has ceased the use of Android phones for their employees as a result.<br/>
+<br/>
+The presence of this vulnerability on Pixel devices is particularly notable since they are known for receiving timely security updates directly from Google. Google has now announced that it will issue an update to remove the Showcase.apk application from all supported Pixel devices. Distributors of other Android phones will also be officially notified of the issue.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/android/">Android</a>, <a href="https://www.macrumors.com/guide/cybersecurity/">Cybersecurity</a>, <a href="https://www.macrumors.com/guide/google/">Google</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/16/android-phones-exposed-to-remote-vulnerability/">Android Phones Exposed to Remote Access Vulnerability</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/android-phones-exposed-to-remote-access-vulnerability.2433786/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple&#039;s AirPods Lineup to Get These Updates in 2024</title>
@@ -465,162 +717,6 @@ Similar to the 11-inch models, Amazon has every Wi-Fi and cellular version of th
 As highlighted by Apple in a <a href="https://www.apple.com/newsroom/2024/08/apple-card-named-best-in-customer-satisfaction-by-jd-power/">press release</a> earlier today, this is the fourth year in a row that the &zwnj;Apple Card&zwnj;, issued by Goldman Sachs, has earned the top spot in J.D. Power's 2024 U.S. Credit Card Satisfaction Study. The study measures overall customer satisfaction by assessing performance across several categories, including Account Management, Customer Service, and New Account Experience. <br/>
 <br/>
 The &zwnj;Apple Card&zwnj; was first introduced in 2019 and is deeply integrated into the Wallet app on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, allowing users to track their spending in real time, categorize transactions, and set up payment plans. The &zwnj;Apple Card&zwnj; also offers up to three percent Daily Cash on purchases, which can be used instantly or saved for future expenses. With &zwnj;Apple Card&zwnj; Family, users can share an &zwnj;Apple Card&zwnj; account with other members of their Family Sharing group. The &zwnj;Apple Card&zwnj; also features an integrated a Savings account option, providing users with the ability to automatically deposit their Daily Cash rewards into the account.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/15/apple-card-named-best-in-customer-satisfaction/">Apple Card Named Best in Customer Satisfaction for Fourth Year</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-card-named-best-in-customer-satisfaction-for-fourth-year.2433696/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Beats and Kim Kardashian Team Up for New Beats Studio Pro Colors</title>
-		<link>https://www.macrumors.com/2024/08/15/kim-kardashian-beats-studio-pro/</link>
-		<comments>https://forums.macrumors.com/threads/beats-and-kim-kardashian-team-up-for-new-beats-studio-pro-colors.2433693/</comments>
-		<pubDate>Thu, 15 Aug 2024 07:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/15/kim-kardashian-beats-studio-pro/</guid>
-		<dc:creator>Eric Slivka</dc:creator>
-		<category>Beats</category>
-		<category>Beats Studio Pro</category>
-		
-
-		<description><![CDATA[Following a <a href="https://www.macrumors.com/2022/08/09/beats-fit-pro-kim-kardashian-colors/">successful 2022 collaboration with Kim Kardashian</a> for a set of three neutral color options for the Beats Fit Pro earphones, the <a href="http://apple.com/beatsxkim">"Beats x Kim" campaign is back</a> to bring the same colors to the Beats Studio Pro headphones.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/kim-kardashian-beats-studio-pro.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-961587" /><br/>
-As with the Beats Fit Pro, the new Beats Studio Pro color options from Kardashian's signature palette include Moon (light), Dune (medium), and Earth (deep).<blockquote>"I'm so excited we're bringing these three popular, chic colors to Beats' most iconic and advanced headphones," said Kim Kardashian. "Beats Studio have always been a fashion statement, so I can't wait to see how everyone styles them."</blockquote>Beats Studio Pro are the brand's latest over-ear headphones and <a href="https://www.macrumors.com/2023/07/19/beats-studio-pro-debut/">were originally released in July 2023</a>. They offer Active Noise Cancellation and Transparency modes, Personalized Spatial Audio with dynamic head tracking, improved audio quality, and up to 40 hours of battery life. Connectivity options include Class 1 Bluetooth, USB-C, and 3.5mm analog.<br/>
-<br/>
-Apple's Beats brand has been building up to today's launch with an ad campaign featuring Kardashian and Jimmy Fallon vying for the next Beats collaboration, with Kardashian's neutral Beats x Kim colors going up against a mustard-yellow "Beats x Jim" option that apparently did not make the cut.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/21029bAd4_w?si=sSiOeTyqiGJVwkdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
-The new Beats x Kim Beats Studio Pro headphones are priced at &#36;349.99 in the United States, and they are launching today through <a href="http://apple.com/beatsxkim">Apple's online stores</a> in the US, Canada, Mexico, UK, France, Germany, Japan, China, South Korea, Hong Kong, and Thailand, with limited availability at select Apple retail stores in those countries. They are also <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=http%3A%2F%2Famazon.com%2Fbeatsxkim">available through Amazon</a> in the US, Canada, Mexico, and Japan, and at Argos in the UK, JB Hi-Fi in Australia, and Tmall and JD.com in China.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/beats/">Beats</a>, <a href="https://www.macrumors.com/guide/beats-studio-pro/">Beats Studio Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/15/kim-kardashian-beats-studio-pro/">Beats and Kim Kardashian Team Up for New Beats Studio Pro Colors</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/beats-and-kim-kardashian-team-up-for-new-beats-studio-pro-colors.2433693/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>AltStore Pal Now Free Thanks to &#039;MegaGrant&#039; From Epic Games</title>
-		<link>https://www.macrumors.com/2024/08/15/altstore-pal-now-free-epic-games/</link>
-		<comments>https://forums.macrumors.com/threads/altstore-pal-now-free-thanks-to-megagrant-from-epic-games.2433686/</comments>
-		<pubDate>Thu, 15 Aug 2024 05:57:27 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/15/altstore-pal-now-free-epic-games/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Epic Games</category>
-		
-
-		<description><![CDATA[<a href="https://altstore.io/">AltStore PAL</a>, the open-source app that is designed to distribute apps in the EU from independent developers, is now free thanks to a grant provided by <em>Fortnite</em> developer <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/altstore-pal-eu.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-947008" /><br/>
-The alternative iOS app store had charged a €1.50 plus tax annual subscription, in order to cover Apple's Core Technology Fee (CTF). Apple's terms for alternative app marketplaces requires developers to pay the CTF for each annual app installation.<br/>
-<br/>
-However, AltStore Pal will no longer pass on the cost of this fee after the third-party store received a "<a href="https://www.unrealengine.com/en-US/megagrants">MegaGrant</a>" from &zwnj;Epic Games&zwnj;. <a href="https://x.com/altstoreio/status/1823826482046886273">AltStore said</a> that existing subscribers won't be charged upon their renewal date, and that the AltStore team plans to "show our appreciation for our existing subscribers in a future update," but didn't go into details.<br/>
-<br/>
-Developer Riley Testut has been working on AltStore PAL since Apple announced plans to support alternative app marketplaces in iOS 17.4. It is open to all apps, but Testut says that it makes the most sense for "smaller, indie apps that otherwise couldn't exist due to ‌<a href="https://www.macrumors.com/guide/app-store/">App Store</a>‌ rules."<br/>
-<br/>
-AltStore PAL is equipped with Patreon integration to allow developers to monetize their apps. Developers can offer their apps to just their patrons, and this method of distribution also allows for a sub-1 million cap on those who can subscribe to use an app.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">GOOD NEWS EU &#x1f1ea;&#x1f1fa; For innovation in app distribution, Epic Games has granted us a MegaGrant grant that we plan to use to cover Apple’s Core Technology Fee going forward — and we won’t take it for granted!<br><br>What does this mean? AltStore PAL is now FREE — no subscription necessary &#x1f389; <a href="https://t.co/JSJo3FdhBx">pic.twitter.com/JSJo3FdhBx</a></p>&mdash; AltStore.io (@altstoreio) <a href="https://twitter.com/altstoreio/status/1823826343085433226?ref_src=twsrc%5Etfw">August 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-<a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users in the European Union can download AltStore PAL from the AltStore website. Alternative app marketplaces are not available outside of the European Union.<br/>
-<br/>
-As for Epic, it has <a href="https://www.macrumors.com/2024/07/01/fortnite-epic-game-store-submitted-apple/">submitted</a> the &zwnj;Epic Games&zwnj; Store to Apple for notarization under Apple's alternative app marketplace policy in the European Union. The ‌&zwnj;Epic Games&zwnj;‌ Store will include <em>Fortnite</em>, which means ‌&zwnj;iPhone&zwnj;‌ users in the EU will be able to install and play the title without having to use a cloud gaming service. An ‌<a href="https://www.macrumors.com/roundup/ipad/">iPad</a>‌ version of Fortnite is expected to follow this year.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/15/altstore-pal-now-free-epic-games/">AltStore Pal Now Free Thanks to &#039;MegaGrant&#039; From Epic Games</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/altstore-pal-now-free-thanks-to-megagrant-from-epic-games.2433686/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>How to Get macOS Sequoia 15.1 Beta With Apple Intelligence</title>
-		<link>https://www.macrumors.com/how-to/get-macos-sequoia-15-1-beta-apple-intelligence/</link>
-		<comments>https://forums.macrumors.com/threads/how-to-get-macos-sequoia-15-1-beta-with-apple-intelligence.2433683/</comments>
-		<pubDate>Thu, 15 Aug 2024 05:05:58 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/how-to/get-macos-sequoia-15-1-beta-apple-intelligence&#038;post_date=1723734358/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>macOS Sequoia</category>
-		<category>Apple Intelligence</category>
-		
-
-		<description><![CDATA[Apple has made available the <a href="https://www.macrumors.com/2024/08/12/apple-seeds-ios-18-1-beta-2-to-developers/">second developer beta</a> of macOS Sequoia 15.1, which includes the ability to test Apple Intelligence features. If you have an Apple silicon Mac and don't live in China, you can try Apple Intelligence features for yourself, even if you're not a developer. Keep reading to learn how.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/macOS-Sequoia-Night-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961501" /><br/>
-Apple has split Apple Intelligence into a separate set of betas for Macs because these features will not be available in the initial launch version of ‌macOS Sequoia‌ 15. Apple Intelligence will be available to the public later in the fall with the release of macOS Sequoia 15.1. <br/>
-<br/>
-This point release will add several of the Apple Intelligence features, such as Writing Tools, an updated Siri design, Safari and Mail summaries, Reduce Interruptions Focus mode, and more. Other features, including Image Playground, Genmoji, and the Siri personal context and onscreen awareness will be coming later and are not in the macOS Sequoia 15.1 beta. You can learn more about what's available and when in our <a href="https://www.macrumors.com/roundup/macos-sequoia/#apple_intelligence">macOS 15 roundup</a>.<br/>
-<br/>
-The good news is that Apple has already seeded the second developer beta of macOS 15.1, which means you can try some of the AI features out for yourself by signing up for macOS beta access. Signing up to get the macOS Sequoia beta is simple, and can be done by following the steps below. Be sure to back up your Mac using Time Machine before going on to follow the beta software installation steps, otherwise you won't be able to revert back to your previous version of macOS if you need to.<br/>
-<br/>
-<h2>Things to Remember Before You Start</h2><br/>
-<ul><br/>
-<li>Back up Your Mac.</li><br/>
-<li>Apple Intelligence requires a Mac with an M1 Apple silicon processor or later.</li><br/>
-<li>Apple Intelligence is only available in US English.</li><br/>
-<li>Apple Intelligence for Mac is not available in China, but appears to be available in the EU and everywhere else when region and language settings are changed to United States (see below).</li><br/>
-<li>Apple Intelligence is not available if macOS 15.1 is installed on an external drive.</li></ul><br/>
-<br/>
-<h2>Register for Developer Beta Access</h2><br/>
-You can skip this first set of steps if you have previously joined the Apple Developer Program with your Apple ID. Note that registering in this way is free, and <strong>does not require paying for an Apple Developer Program membership</strong>.<br/>
-<ol><br/>
-  <li>Go to the Apple Developer website (<a href="https://developer.apple.com/account">developer.apple.com/account</a>) and sign in with your Apple ID.</li><br/>
-  <li>Check the box to accept the terms and conditions, then tap the <strong>Submit</strong> button.</li><br/>
-</ol><img src="https://images.macrumors.com/article-new/2024/08/apple-developer-website.jpg" alt="apple developer" width="1361" height="872" class="aligncenter size-full wp-image-961716" /><br/>
-<br/>
-That's all there is to it. You can now proceed to the next steps to download and install the macOS Sequoia 15.1 developer beta.<br/>
-<br/>
-<h2>Download macOS 15.1 Beta</h2><br/>
-To download and install the macOS Sequoia 15.1 Developer beta, follow these steps on your Mac.<br/>
-<ol><br/>
-  <li>Go to <strong>System Settings ➝ General ➝ Software Update</strong>.</li><br/>
-  <li>Click the info button ⓘ next to "Beta updates."<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/1macos-15-beta-install.jpg" alt="settings" width="980" height="604" class="aligncenter size-full wp-image-961717" /><br/>
-  <li>Choose the <strong>macOS Sequoia 15.1 Developer Beta</strong> option, then click <strong>Done</strong>.<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/2macos-15-beta-install.jpg" alt="settings" width="1518" height="604" class="aligncenter size-full wp-image-961718" /><br/>
-  <li>When the <strong>macOS 15 Sequoia 15.1 Beta</strong> update appears, click the <strong>Upgrade Now</strong> button to start downloading and installing it on your Mac.<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/3macos-15-beta-install.jpg" alt="settings" width="1430" height="972" class="aligncenter size-full wp-image-961719" /><br/>
-</ol><br/>
-<br/>
-<h2>Activate Apple Intelligence</h2><br/>
-The following steps explain how to join the Apple Intelligence waitlist, which usually grants you access to the AI features in just a few minutes.<br/>
-<ol><br/>
-  <li>Go to <strong>System Settings ➝ Apple Intelligence & Siri</strong>.</li><br/>
-  <li>Set Siri's language to <strong>English (United States)</strong>, and decline to restart your Mac at the prompt for now.</li><br/>
-  <li>Set Voice to <strong>American</strong>.<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/2macos-apple-intelligence.jpg" alt="settings" width="1464" height="1141" class="aligncenter size-full wp-image-961720" /><br/>
-  <li>Next, go to <strong>System Settings ➝ General ➝ Language & Region</strong>.</li><br/>
-  <li>Click the "Region" selector and choose <strong>United States</strong>.</li><br/>
-  <li>Under "Preferred Languages," click <strong>+</strong> and add <strong>English (US)</strong>, then set English (US) as the Primary language by dragging it above your other language(s).</li><br/>
-  <li>Restart your Mac when prompted.<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/1macos-apple-intelligence.jpg" alt="settings" width="1472" height="901" class="aligncenter size-full wp-image-961721" /><br/>
-  <li>After restarting, go to <strong>Settings ➝ Apple Intelligence & Siri</strong>.</li><br/>
-  <li>Click the option to <strong>Join the Apple Intelligence waitlist</strong>. You will be notified when Apple Intelligence features are available for your Mac. In most cases this should take only a few minutes, but don't rule out waiting a couple of hours.</li><br/>
-<li>When Apple Intelligence is available, toggle the switch to enable it.<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/3macos-apple-intelligence.jpg" alt="settings" width="1475" height="904" class="aligncenter size-full wp-image-961722" /><br/>
-</ol>Note that Apple Intelligence will not be in the initial launch version of iOS 18 that comes out in September alongside new iPhones. It will instead be introduced in a separate iOS 18.1 update that is likely to come out a few weeks after ‌iOS 18‌ debuts. Have you had a chance to try out Apple Intelligence features on Mac? Let us know of your experience in the comments.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/get-macos-sequoia-15-1-beta-apple-intelligence/">How to Get macOS Sequoia 15.1 Beta With Apple Intelligence</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/how-to-get-macos-sequoia-15-1-beta-with-apple-intelligence.2433683/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Sonos Considering Bringing Back Its Old Mobile App Amid Ongoing Issues</title>
-		<link>https://www.macrumors.com/2024/08/14/sonos-bring-back-old-app/</link>
-		<comments>https://forums.macrumors.com/threads/sonos-considering-bringing-back-its-old-mobile-app-amid-ongoing-issues.2433647/</comments>
-		<pubDate>Wed, 14 Aug 2024 12:41:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/14/sonos-bring-back-old-app/</guid>
-		<dc:creator>Eric Slivka</dc:creator>
-		<category>Sonos</category>
-		
-
-		<description><![CDATA[Just a few months after <a href="https://www.macrumors.com/2024/04/23/redesigned-sonos-app/">debuting an all-new mobile app</a> for controlling its audio products, Sonos is considering bringing back the previous version of the app following <a href="https://www.macrumors.com/2024/07/25/sonos-app-update-apology/">numerous user complaints</a>, <a href="https://www.theverge.com/2024/8/14/24220421/sonos-s2-app-relaunch">reports <em>The Verge</em></a></a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/sonos-redesigned-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-947528" /><br/>
-While Sonos has been working to address a number of missing features and issues with the new app and has laid out a timeline to keep users updated on the company's progress, <em>The Verge</em> reports that "discussions high up within Sonos" have centered around potentially offering the old app as an interim solution.<blockquote>Letting customers fall back to the older software could ease their frustrations and reduce at least some of the pressure on Sonos to rectify every issue with the new app. At least for now, the redesigned version is all that’s available, which makes it impossible for some customers to avoid its flaws.</blockquote>Just last week, Sonos CEO Patrick Spence <a href="https://www.macrumors.com/2024/08/08/sonos-delays-product-launces-to-fix-app/">revealed on the company's earnings call</a> that it will be delaying two upcoming product launches due to "challenges with our new app." While Spence did not identify the products in question, one of them is likely to be the successor to the company's flagship Arc soundbar.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/sonos/">Sonos</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/14/sonos-bring-back-old-app/">Sonos Considering Bringing Back Its Old Mobile App Amid Ongoing Issues</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-considering-bringing-back-its-old-mobile-app-amid-ongoing-issues.2433647/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Aiming to Launch Tabletop Robotic Home Device as Soon as 2026 With Pricing Around &#36;1,000</title>
-		<link>https://www.macrumors.com/2024/08/14/apple-tabletop-robotic-home-device-2026/</link>
-		<comments>https://forums.macrumors.com/threads/apple-aiming-to-launch-tabletop-robotic-home-device-as-soon-as-2026-with-pricing-around-1-000.2433643/</comments>
-		<pubDate>Wed, 14 Aug 2024 11:30:58 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/14/apple-tabletop-robotic-home-device-2026/</guid>
-		<dc:creator>Eric Slivka</dc:creator>
-		<category>Bloomberg</category>
-		<category>Mark Gurman</category>
-		
-
-		<description><![CDATA[Apple is moving forward with its project to develop a tabletop robotic device, <a href="https://www.bloomberg.com/news/articles/2024-08-14/apple-pushes-ahead-with-tabletop-home-device-in-shift-to-robotics">according to <em>Bloomberg</em>'s Mark Gurman</a>.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/G-vEDI_dr-Y" title="Apple is Making a Tabletop Robotic Home Device &#x1f914;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-The device would feature a large iPad-like display mounted on a "thin robotic arm" that would allow the display to tilt and up and down and rotate a full 360º, and it would serve as a "smart home command center," a videoconferencing machine such as for <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls, and a home security monitoring tool.<br/>
-<br/>
-The tabletop robot would leverage <a href="https://www.macrumors.com/guide/siri/">Siri</a> and Apple Intelligence, allowing it to respond to an array of verbal commands, recognize different voices, and automatically orient the display to face users in the room. <br/>
-<br/>
-While Apple has been toying with the idea for some time, Gurman says Apple has recently prioritized development of the device, putting it under the purview of Kevin Lynch, Apple's vice president of technology who has overseen such projects as the Apple Watch and Apple's defunct self-driving car venture.<br/>
-<br/>
-Apple is now looking to launch the device as soon as 2026 or 2027 and is aiming to get the price down to around &#36;1,000, though plans may change as development proceeds.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/bloomberg-com/">Bloomberg</a>, <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/14/apple-tabletop-robotic-home-device-2026/">Apple Aiming to Launch Tabletop Robotic Home Device as Soon as 2026 With Pricing Around &#36;1,000</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-aiming-to-launch-tabletop-robotic-home-device-as-soon-as-2026-with-pricing-around-1-000.2433643/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
