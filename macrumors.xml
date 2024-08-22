@@ -14,12 +14,106 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 22 Aug 2024 03:01:06 PDT</lastBuildDate>
+	<lastBuildDate>Thu, 22 Aug 2024 09:01:32 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Apple to Let EU Users Set New Defaults for Multiple Apps, Delete App Store, Photos, Messages and More</title>
+		<link>https://www.macrumors.com/2024/08/22/apple-eu-default-app-update/</link>
+		<comments>https://forums.macrumors.com/threads/apple-to-let-eu-users-set-new-defaults-for-multiple-apps-delete-app-store-photos-messages-and-more.2434165/</comments>
+		<pubDate>Thu, 22 Aug 2024 09:00:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/22/apple-eu-default-app-update/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>App Store</category>
+		<category>European Union</category>
+		
+
+		<description><![CDATA[Apple is <a href="https://developer.apple.com/news/">making additional changes</a> to its app ecosystem in the European Union to comply with the terms of the Digital Markets Act. The default browser selection experience that's already in place will be updated, Apple will allow EU users to set defaults for more types of apps, and core iOS apps like Messages and the <a href="https://www.macrumors.com/guide/app-store/">App Store</a> will also be deletable.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/01/App-Store-vs-EU-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-932826" /><br/>
+<a href="https://www.macrumors.com/guide/iphone/">iPhone</a> owners in the EU can already set different defaults for the browser, mail app, app marketplace, and contactless payments, but Apple is going to allow users to select new defaults for phone calls, messaging, password managers, keyboards, call spam filters, navigation, and translation. That means, for example, that EU users will be able to choose an app like WhatsApp instead of Messages to be their default texting app, or a mapping app like Waze to be the default instead of <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a>.<br/>
+<br/>
+Apple has not yet provided insight into just how setting a new default will work for messaging apps, navigation, password managers, and more, and the company plans to provide more information as the launch date for these features approaches. New defaults for phone calls, messaging, password managers, spam call filters, and keyboards will be able to be set starting with an update to <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> coming later this year, while the option to set different navigation and translation defaults will be implemented in spring 2025.<br/>
+<br/>
+To handle the multitude of new default apps that can be set, Apple is adding a Default Apps section to the Settings app. It will list all of the defaults available to each user for easy management.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/eu-ios-18-default-apps-settings.jpg" alt="" width="1432" height="606" class="aligncenter size-full wp-image-962200" /><br/>
+Along with setting new apps as defaults, Apple will let users delete core apps. The &zwnj;App Store&zwnj;, Messages, Camera, <a href="https://www.macrumors.com/guide/photos/">Photos</a>, and Safari apps will be able to be deleted, so it's essentially just the Settings and Phone apps that will not be able to be removed in the EU. If a user deletes the &zwnj;App Store&zwnj; app, it will be able to be reinstalled from the Settings app if desired, while the other apps can be reinstalled from the &zwnj;App Store&zwnj;.<br/>
+<br/>
+With iOS 17.4, EU users were able to select a default browser from a randomized list of the top 12 browsers in their country. In a future update to &zwnj;iOS 18&zwnj;, the browser choice window will pop up again if a user has Safari set as their default. The new browser selection experience will include a descriptive line about the browser, as well as the option to set a default browser right from the choice window. If a user selects a browser that is already installed on their device, it will open automatically, otherwise there will be a downloading icon and the browser will open after it's downloaded. Users will also need to scroll through the full list of available browser options before being able to make a selection.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/eu-ios-18-default-browser-choice.jpg" alt="" width="1928" height="882" class="aligncenter size-full wp-image-962201" /><br/>
+Note that the option to set a default browser will only show up again for users who have Safari as the default, so if an EU user has already selected Chrome, the choice window will not pop up again with the &zwnj;iOS 18&zwnj; update coming later in the year. Users will also see the selection interface on all of their devices rather than just one, and it will show up when Safari is opened for the first time after updating. Setting a new default when Safari is on the user's <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> or Dock will see the new default browser replace the Safari icon.<br/>
+<br/>
+The browser default popup will also be displayed when migrating to a new device if the user previously had Safari set as the default.<br/>
+<br/>
+The changes that Apple is making are applicable for &zwnj;iPhone&zwnj; and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> users in the European Union with updates to &zwnj;iOS 18&zwnj; and <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, and will not be available in other countries like the United States.<br/>
+<br/>
+More information on the changes <a href="https://developer.apple.com/support/browser-choice-screen/">can be found on Apple's developer site</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/apple-eu-default-app-update/">Apple to Let EU Users Set New Defaults for Multiple Apps, Delete App Store, Photos, Messages and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-let-eu-users-set-new-defaults-for-multiple-apps-delete-app-store-photos-messages-and-more.2434165/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Studio Display Available for Record Low Price of &#36;1,299.99 on Amazon</title>
+		<link>https://www.macrumors.com/2024/08/22/apple-studio-display-low-discounts-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-studio-display-available-for-record-low-price-of-1-299-99-on-amazon.2434157/</comments>
+		<pubDate>Thu, 22 Aug 2024 08:23:12 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/22/apple-studio-display-low-discounts-2/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Amazon today has the Apple Studio Display for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3GZD32%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;1,299.99</strong></a>, down from &#36;1,599.00, which is a match of the all-time low price on the monitor. This is the standard glass version of the Studio Display with the tilt adjustable stand, and Amazon also has a few other models on sale as well.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/04/studio-display-april.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-948662" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+You can get the standard glass model with the VESA Mount Adapter for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3HGN6Q%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;1,299.99</strong></a>, down from &#36;1,599.00, but there isn't currently a sale on the tilt- and height-adjustable stand model. In regards to the VESA model, this is a match of the all-time low price on the display.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3GZD32%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;299 OFF</div>Standard Glass Apple Studio Display for &#36;1,299.99</div></a></div><br/>
+<br/>
+If you want to upgrade to the nano-texture glass option, Amazon also has this model of the Studio Display on sale. It's available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3HP4KL%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;1,599.00</strong></a>, down from &#36;1,899.00, which is a second-best price on the Studio Display with nano-texture glass.<br/>
+<br/>
+The Studio Display features a 27-inch 5K retina display with a 5120 x 2880 resolution and up to 600 nits of brightness. Apple says that the standard display is engineered for "extremely low reflectivity," but for rooms where there is a lot of glare, Apple suggests the nano-texture glass option with even less reflectivity.<br/>
+<br/>
+Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/apple-studio-display-low-discounts-2/">Apple Studio Display Available for Record Low Price of &#36;1,299.99 on Amazon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-studio-display-available-for-record-low-price-of-1-299-99-on-amazon.2434157/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Kuo: Folding All-Screen MacBook Delayed Until Late 2027 At the Earliest</title>
+		<link>https://www.macrumors.com/2024/08/22/kuo-foldable-macbook-delayed-2027/</link>
+		<comments>https://forums.macrumors.com/threads/kuo-folding-all-screen-macbook-delayed-until-late-2027-at-the-earliest.2434144/</comments>
+		<pubDate>Thu, 22 Aug 2024 03:50:25 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/22/kuo-foldable-macbook-delayed-2027/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>Foldable MacBook</category>
+		<category>Ming-Chi Kuo</category>
+		
+
+		<description><![CDATA[Apple's rumored foldable MacBook won't arrive until the end of 2027 or 2028 at the earliest because of technical challenges, according to the latest prediction by <a href="https://x.com/mingchikuo/status/1826460677604786478">Apple analyst Ming-Chi Kuo</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/02/foldable-macbook-astropad.jpg" alt="" width="1280" height="768" class="aligncenter size-full wp-image-837701" /><div class="center-wrap"><em>Concept by <a href="https://astropad.com/foldable-mac-screen/">Astropad</a></em></div><br/>
+Previous reports from <a href="https://www.macrumors.com/2024/05/23/18-8-inch-foldable-macbook-rumor/">display industry analyst Ross Young</a>, <a href="https://www.macrumors.com/2024/05/06/first-apple-foldable-coming-in-2025/">Haitong analyst Jeff Pu</a>, Korean website <em><a href="https://www.macrumors.com/2022/12/07/apple-20-inch-display-future-macbook-pro/">The Elec</a></em>, and <a href="https://www.macrumors.com/2024/08/02/apple-foldable-ipad-delays/">Kuo himself</a> suggested that Apple is developing an all-display foldable laptop that will feature a 20.2-inch or an 18.8-inch screen. <br/>
+<br/>
+When folded, the laptop was rumored to be a full-size on-screen keyboard that seamlessly integrates the typing experience into the display itself. When completely unfolded, the device was said to function as a standard monitor. Paired with an external keyboard, it would essentially transform into a large-screen desktop setup. <br/>
+<br/>
+Kuo in May said that LG Display was aiming to begin mass production of display panels for a MacBook with a 20.2-inch or an 18.8-inch foldable screen in the fourth quarter of 2025. However, his <a href="https://x.com/mingchikuo/status/1826460677604786478">latest post on X (Twitter)</a> claims that Apple has canceled the 20-inch design and has now settled on a display size of 18.8 inches.<br/>
+<br/>
+"Some market participants previously expected Apple to launch the foldable <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> in 2025," said Kuo in his latest post. "But the current supply chain survey indicates that the foldable &zwnj;iPad&zwnj; has no visibility. This may also be because some call this foldable MacBook a foldable &zwnj;iPad&zwnj;."<br/>
+<br/>
+Apple has been experimenting with various devices with foldable displays, including a <a href="https://www.macrumors.com/2024/08/02/apple-foldable-ipad-delays/">foldable iPad</a> and MacBook. Obviously the MacBook is already foldable, but Apple has reportedly been exploring an all-display MacBook form factor that has no standard keyboard.<br/>
+<br/>
+Display analyst Ross Young said in July 2022 that Apple could bring some kind of foldable laptop to market in 2026 or 2027, and it remains unclear if such a device would be classified as a Mac, an ‌&zwnj;iPad&zwnj;‌, or something in between. <br/>
+<br/>
+In a <a href="https://www.macrumors.com/2024/05/06/first-apple-foldable-coming-in-2025/">May report</a>, Haitong analyst Jeff Pu said Apple's first foldable devices would reach mass production in 2025 and 2026, following increasing evidence of foldable devices in Apple's supply chain. At the time, the analyst said Apple would likely release a large-screen foldable &zwnj;iPad&zwnj; or MacBook in that timeframe before launching a higher-volume foldable <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> in late 2026.<br/>
+<br/>
+Pu had claimed one Apple foldable with a 20.3-inch display would start production in late 2025, which was sooner than previously expected. However, Pu later said he believed Apple would join the foldable market in the <a href="https://www.macrumors.com/2024/08/02/apple-foldable-ipad-delays/">second quarter of 2026</a> due to "display durability issues," reflecting Apple's intention to perfect a foldable design. It seems Apple is still in the prototyping stage of a foldable device. Would you be interested in such a product? Let us know in the comments.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/foldable-macbook/">Foldable MacBook</a>, <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/kuo-foldable-macbook-delayed-2027/">Kuo: Folding All-Screen MacBook Delayed Until Late 2027 At the Earliest</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-folding-all-screen-macbook-delayed-until-late-2027-at-the-earliest.2434144/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple Card Turns 5, Still U.S. Only</title>
@@ -583,95 +677,6 @@ An upfront &zwnj;AppleCare&zwnj;+ plan for <a href="https://www.macrumors.com/gu
 Customers who want to renew their expired &zwnj;AppleCare&zwnj;+ plans can go to <a href="https://mysupport.apple.com/">Apple's support website</a> to see if their devices are eligible. Apple does not guarantee that &zwnj;AppleCare&zwnj;+ can be renewed, and it does not alert customers when &zwnj;AppleCare&zwnj;+ is expiring unless required by law.<br/>
 <br/>
 &zwnj;AppleCare&zwnj;+ expiration dates can be checked in the Settings app on &zwnj;iPhone&zwnj; or &zwnj;iPad&zwnj;, in the System Settings app on a Mac, or <a href="https://mysupport.apple.com/">on Apple's website</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/20/applecare-coverage-extension-period-increase/">Apple Now Gives Customers 45 Days to Extend AppleCare+ Coverage After Expiration</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-gives-customers-45-days-to-extend-applecare-coverage-after-expiration.2434031/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>OnePlus Buds Pro 3 vs. AirPods Pro 2</title>
-		<link>https://www.macrumors.com/2024/08/20/oneplus-buds-pro-3-vs-airpods-pro-2/</link>
-		<comments>https://forums.macrumors.com/threads/oneplus-buds-pro-3-vs-airpods-pro-2.2434021/</comments>
-		<pubDate>Tue, 20 Aug 2024 10:58:01 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/20/oneplus-buds-pro-3-vs-airpods-pro-2/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>OnePlus</category>
-		
-
-		<description><![CDATA[Chinese company OnePlus is debuting new earbuds today, with a feature set that pits them against the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a>. The OnePlus Buds Pro 3 look and sound a lot like Apple's AirPods, and while they lack some of the Apple-esque magic integration, they're more affordable at &#36;179.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/c4d9oj0Z43o" title="These Headphones Sound BETTER than AirPods Pro!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-Design wise, the OnePlus earbuds resemble the &zwnj;AirPods Pro&zwnj;, featuring an in-ear silicone design and a stem. The stem is silver, though, and unlike Samsung's recent <a href="https://www.macrumors.com/2024/07/13/airpods-pro-2-vs-galaxy-buds3-pro/">Galaxy Buds3 Pro</a>, you won't mistake these for the &zwnj;AirPods Pro&zwnj; due to the unique case design of the OnePlus Buds Pro 3. Fit is close to the &zwnj;AirPods Pro&zwnj; because of the silicone tips, and they're comfortable to wear. Squeeze gestures can be used on the stem to play/pause music, skip tracks, replay a track, and adjust volume.<br/>
-<br/>
-The case has an oval shape that's wider and more rounded than the &zwnj;AirPods Pro&zwnj; case, plus it's covered in a faux leather material that gives it a more distinct look.<br/>
-<br/>
-Apple may have added a USB-C case to the &zwnj;AirPods Pro&zwnj; 2 in 2023, but the initial launch was in 2022, so it's no surprise that other companies are starting to surpass the &zwnj;AirPods Pro&zwnj; in terms of sound quality. The OnePlus Buds Pro 3 have better out-of-the-box sound than the &zwnj;AirPods Pro&zwnj;, even though there's no option for adjusting EQ.<br/>
-<br/>
-There's a solid balance between bass and higher frequencies with full sound and good separation of tracks. Sound is crisp, and the high-end notes are clear. there are two DACs per earbud, one that's focused on the tweeter and the other on the woofer, which is what gives that balanced sound.<br/>
-<br/>
-The Active Noise Cancellation works well, and it's on par with ANC from other high-end earbuds. The ANC is adaptive and can adjust based on your surroundings, so ambient sounds can come through when you need them to. The ANC isn't as standout as the sound quality, but it's more than adequate.<br/>
-<br/>
-Battery lasts for up to 43 hours, which is 13 hours longer than the &zwnj;AirPods Pro&zwnj;, and there is ear detection when using the earbuds with an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. As for the microphones, call quality is solid.<br/>
-<br/>
-OnePlus sells Android-based devices, so these earbuds are designed for Android smartphones rather than the &zwnj;iPhone&zwnj;. You're not going to get the useful AirPods features like quick connect and automatic device swapping, and that's a major downside. You also won't get spatial audio unless these are paired with a Google Pixel phone that supports the feature.<br/>
-<br/>
-For Apple device users, the OnePlus Buds Pro 3 are just standard Bluetooth earbuds, but if that's all you need, you might like what OnePlus has to offer.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/oneplus/">OnePlus</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/20/oneplus-buds-pro-3-vs-airpods-pro-2/">OnePlus Buds Pro 3 vs. AirPods Pro 2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/oneplus-buds-pro-3-vs-airpods-pro-2.2434021/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Seventh Beta of macOS Sequoia to Developers [Update: Public Beta Available]</title>
-		<link>https://www.macrumors.com/2024/08/20/apple-seeds-macos-sequoia-beta-7/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-seventh-beta-of-macos-sequoia-to-developers-update-public-beta-available.2434012/</comments>
-		<pubDate>Tue, 20 Aug 2024 10:08:11 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/20/apple-seeds-macos-sequoia-beta-7/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sequoia</category>
-		
-
-		<description><![CDATA[Apple today seeded the seventh beta of upcoming an upcoming macOS 15 Sequoia update to developers for testing purposes, with the software coming a week after the <a href="https://www.macrumors.com/2024/08/12/apple-seeds-macos-sequoia-beta-6/">release of the sixth beta</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/macOS-Sequoia-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955370" /><br/>
-Registered developers can opt-in to the <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> beta through the Software Update section of the System Settings app. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
-<br/>
-&zwnj;macOS Sequoia&zwnj; includes <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Mirroring, which allows you to control your locked &zwnj;iPhone&zwnj; from your Mac. You can open and use &zwnj;iPhone&zwnj; apps, interact with notifications, and drag and drop files between your &zwnj;iPhone&zwnj; and Mac and vice versa.<br/>
-<br/>
-There are new options for window tiling, and dragging a window to the edge of the display will suggest a tiled location to make it easier to use multiple apps at once. Apple is adding a Passwords app for managing passwords, Safari can summarize websites, surface key information, and Notes has support for live audio transcription and math equations.<br/>
-<br/>
-All of the Apple Intelligence features coming to <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> will also be available in &zwnj;macOS Sequoia&zwnj;, but Apple does not plan to add these until later in the beta testing process. Apple Intelligence includes Writing Tools for editing, proofreading, and summarizing text in apps, and an Image Playground allows for AI images to be created from prompts.<br/>
-<br/>
-Custom emoji or "Genmoji" can be created for any situation and used just like emoji, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> is getting much smarter. &zwnj;Siri&zwnj; will be able to do more in apps and will better understand requests, especially those made in regard to on-screen content.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/20/apple-seeds-macos-sequoia-beta-7/">Apple Seeds Seventh Beta of macOS Sequoia to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-seventh-beta-of-macos-sequoia-to-developers-update-public-beta-available.2434012/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Seventh Betas of iOS 18 and iPadOS 18 to Developers [Update: Public Beta Available]</title>
-		<link>https://www.macrumors.com/2024/08/20/apple-seeds-ios-18-beta-7-to-developers/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-seventh-betas-of-ios-18-and-ipados-18-to-developers-update-public-beta-available.2434010/</comments>
-		<pubDate>Tue, 20 Aug 2024 10:07:13 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/20/apple-seeds-ios-18-beta-7-to-developers/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Apple today seeded the seventh betas of upcoming <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a> updates to developers for testing purposes, with the software coming a week after the <a href="https://www.macrumors.com/2024/08/12/apple-seeds-ios-18-beta-6-to-developers/">release of the sixth betas</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/Generic-iOS-18-Feature-Real-Mock.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-954594" /><br/>
-Registered developers are able to opt into the betas by opening up the Settings app, going to the Software Update section, tapping on the "Beta Updates" option, and toggling on the ‌&zwnj;iOS 18&zwnj;/&zwnj;iPadOS 18&zwnj;‌ Developer Beta setting. Note that an <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with a developer account is required to download and install the beta. The &zwnj;iOS 18&zwnj; and &zwnj;iPadOS 18&zwnj; beta track is now separate from the iOS 18.1 and iPadOS 18.1 beta track, with the .1 betas adding support for Apple Intelligence on devices that are able to run the features. <br/>
-<br/>
-&zwnj;iOS 18&zwnj; introduces Apple Intelligence, a set of AI features that are built deeply into the operating system. Apple Intelligence won't be coming until later in the beta testing process, but it includes features for refining and editing writing, generating images and emoji, and most notably, improving <a href="https://www.macrumors.com/guide/siri/">Siri</a> and search. &zwnj;Siri&zwnj; is gaining a better understanding of natural language, improved contextual awareness, and the personal assistant will integrate with ChatGPT to answer more complex queries.<br/>
-<br/>
-Apple Intelligence features are limited to the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> models and iPads with an M-series chip, but there are a number of other features that are coming. Apple is allowing users to rearrange Home screen apps to have open spaces, plus there's a dark mode for app icons and tinting options.<br/>
-<br/>
-The Control Center is customizable and third-party developers can add controls for their apps, with the Lock Screen Flashlight and Camera icons able to be replaced or removed. Messages is gaining Rich Communication Services support to improve conversations with Android users, the option to schedule texts to be sent later, new text effects, messages over satellite when there's no cellular, and the option to use any emoji for Tapback responses.<br/>
-<br/>
-There's a dedicated Passwords app for logins, passkeys, Wi-Fi passwords, and verification codes, and there's now an option to lock and hide apps, which means they can't be opened without secondary <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a> or <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> authentication even when your phone is unlocked.<br/>
-<br/>
-Safari has a highlights feature that summarizes articles and surfaces key information on websites, the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app interface has been overhauled, and there's a new Tap to Cash feature for privately and securely transferring money using Apple Cash. Other features include equation solving and voice memo transcription in Notes, a game mode for improving game performance, and an option to respond to &zwnj;Siri&zwnj; on AirPods with head gestures.<br/>
-<br/>
-Apple will release &zwnj;iOS 18&zwnj; and &zwnj;iPadOS 18&zwnj; to the public this fall.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/20/apple-seeds-ios-18-beta-7-to-developers/">Apple Seeds Seventh Betas of iOS 18 and iPadOS 18 to Developers [Update: Public Beta Available]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-seventh-betas-of-ios-18-and-ipados-18-to-developers-update-public-beta-available.2434010/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
