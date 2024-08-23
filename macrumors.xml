@@ -14,12 +14,252 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Thu, 22 Aug 2024 09:01:32 PDT</lastBuildDate>
+	<lastBuildDate>Fri, 23 Aug 2024 03:00:52 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Five New Features in the iOS 18 Phone App</title>
+		<link>https://www.macrumors.com/guide/ios-18-phone-app/</link>
+		<comments>https://forums.macrumors.com/threads/five-new-features-in-the-ios-18-phone-app.2434190/</comments>
+		<pubDate>Thu, 22 Aug 2024 15:46:57 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-18-phone-app&#038;post_date=1724377617/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[The Phone app doesn't often get updated, but with <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and Apple Intelligence, it's getting a major overhaul that includes one of the best new features in the &zwnj;iOS 18&zwnj; software.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/iOS-18-Phone-App-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-962140" /><br/>
+This guide highlights everything new with the Phone app.<br/>
+<br/>
+<h2 id="record_phone_calls_apple_intelligence">Record Phone Calls (Apple Intelligence)</h2><br/>
+After placing or answering a call on an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> running &zwnj;iOS 18&zwnj;, you can initiate a recording that gives you an audio copy of the call.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-1-call-recording-1.jpg" alt="" width="5416" height="3047" class="aligncenter size-full wp-image-960199" /><br/>
+<ol><br/>
+ <li>Open the Phone app.</li><br/>
+ <li>Make a call.</li><br/>
+ <li>Tap on the record button in the top left corner to start a recording.</li><br/>
+</ol><br/>
+When you tap on the record button, everyone on the call is informed that the call is being recorded through an audible message. The message repeats for each person that is recording, so if two &zwnj;iPhone&zwnj; users are on a call and both record, the message will play twice.<br/>
+<br/>
+There is no confirmation dialogue when a call is being recorded, so someone who does not want to be recorded would need to hang up the call as there is no opt out.<br/>
+<br/>
+While the call is in progress, audio is recorded and saved to the Notes app for later access. When you open up the Notes app, you'll see a Call Recording labeled with the date and the time with an option to tap on Play to repeat the call or to tap into the note for more information.<br/>
+<br/>
+<h2 id="transcribe_and_summarize_phone_calls_apple_intelligence">Transcribe and Summarize Phone Calls (Apple Intelligence)</h2><br/>
+Calls that are saved in the Notes app are automatically transcribed, so you can see a full transcription of what was said on the call. You can get to a transcription by tapping into a Call Recording note.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-1-call-recording-2.jpg" alt="" width="2000" height="1289" class="aligncenter size-full wp-image-960200" /><br/>
+As you listen to the call, the transcript will update so you can read along with what's being said.<br/>
+<br/>
+Transcriptions have a "Summary" button so you can get a quick summary of what was said in the call, plus there is a search option for searching for key words and phrases.<br/>
+<br/>
+Transcripts can be added to a different note, or copied, and the audio can be saved to the Files app or shared.<br/>
+<br/>
+<h2 id="search_call_history">Search Call History</h2><br/>
+In &zwnj;iOS 18&zwnj;, Apple added a search feature for the Recents tab, which means you can now search through all of your incoming and outgoing calls and voicemails.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-phone-app-call-history-search.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-962170" /><br/>
+<ol><br/>
+ <li>Open up the Phone app.</li><br/>
+ <li>Tap on the Recents tab.</li><br/>
+ <li>Search for the person or number you're looking for with the search bar at the top of the interface.</li><br/>
+</ol><br/>
+You can type in phone numbers or names to see calls that have been placed, received, or missed, and contacts that have the name or phone number you're searching for.<br/>
+<br/>
+Along with name or phone number, you can search for the date of a call, the type of call (such as <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a>), or use multiple search parameters. If you wanted to see all calls from Eric in June, for example, you could type in "Eric" tap the name when it comes up to set the parameter, and then add in "June" to the search bar.<br/>
+<br/>
+There are options to "See All" calls and voicemails when conducting a search to view more results.<br/>
+<br/>
+<h2 id="swap_sim_cards">Swap SIM cards</h2><br/>
+If you have two SIMs on your &zwnj;iPhone&zwnj;, such as for personal and work purposes, you can swap between them using a Control Center toggle. In prior versions of iOS, you had to change numbers using the Settings app.<br/>
+<br/>
+To swap numbers, open up Control Center, navigate to the connectivity controls, and long press on Cellular Data.<br/>
+<br/>
+<h2 id="contact_suggestions">Contact Suggestions</h2><br/>
+When you start typing in a number with the Keypad in &zwnj;iOS 18&zwnj;, you'll see a list of contacts so you can quickly get to who you want to call.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-auto-fill-phone-app-dialing.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-962169" /><br/>
+Type in the first digit or two of a number and then tap on the "More" icon to see all of your options. You can tap one from there to dial.<br/>
+<br/>
+<h2 id="t9_dialing">T9 Dialing</h2><br/>
+Related to the contact suggestion feature, you can actually search for names instead of numbers using T9 characters. If you have a contact in your phone under "Eric," you can type in 3 for E, 7 for R, 4 for I, and 2 for C, and the contact card for Eric will pop up.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-phone-app-t9-dialing.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-962168" /><br/>
+T9 dialing dates back to the days before touchscreens, allowing smartphone users to type using predictive text that associated numbers with letters. The &zwnj;iPhone&zwnj; has not supported T9 dialing until now.<br/>
+<br/>
+<h2 id="apple_intelligence_release_info">Apple Intelligence Release Info</h2><br/>
+Call recording, transcribing, and summarizing are Apple Intelligence features that will be available in iOS 18.1. Recording phone calls won't be available in the initial &zwnj;iOS 18&zwnj; update that comes out alongside the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models, but it should be introduced to the public in an October update.<br/>
+<br/>
+Using Apple Intelligence will require an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a>, &zwnj;iPhone 15 Pro&zwnj; Max, or an &zwnj;iPhone 16&zwnj;.<br/>
+<br/>
+<h2 id="read_more">Read More</h2><br/>
+Additional information on new features that Apple has added in &zwnj;iOS 18&zwnj; <a href="https://www.macrumors.com/roundup/ios-18/">can be found in our iOS 18 roundup</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-18-phone-app/">Five New Features in the iOS 18 Phone App</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/five-new-features-in-the-ios-18-phone-app.2434190/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>macOS Sequoia Slated to Launch in Mid-September Alongside iOS 18</title>
+		<link>https://www.macrumors.com/2024/08/22/macos-sequoia-mid-september-launch-date/</link>
+		<comments>https://forums.macrumors.com/threads/macos-sequoia-slated-to-launch-in-mid-september-alongside-ios-18.2434189/</comments>
+		<pubDate>Thu, 22 Aug 2024 14:51:31 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/22/macos-sequoia-mid-september-launch-date/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sequoia</category>
+		
+
+		<description><![CDATA[<a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a>, the newest version of the operating system that runs on the Mac, is set to launch in mid-September, <em>MacRumors</em> has learned. While Apple's iOS updates are consistently introduced in September, macOS launch dates vary, and new Mac updates have been released in September, October, and November in recent years.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/macOS-Sequoia-Night-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961501" /><br/>
+This year, Apple plans to release &zwnj;macOS Sequoia&zwnj; around the same time as <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> rather than holding it until October. Introducing both updates at the same time will ensure that cross-platform features are functional and working as intended, such as <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Mirroring. A key new feature, &zwnj;iPhone&zwnj; Mirroring allows an &zwnj;iPhone&zwnj; running &zwnj;iOS 18&zwnj; to be controlled using a Mac running &zwnj;macOS Sequoia&zwnj;.<br/>
+<br/>
+Other new features coming to &zwnj;macOS Sequoia&zwnj; include refreshed window tiling capabilities, a dedicated Passwords app, and updates to Safari, Messages, Maps, Notes, and more.<br/>
+<br/>
+Apple Intelligence features will not be in &zwnj;macOS Sequoia&zwnj; or &zwnj;iOS 18&zwnj; at launch, with Apple instead introducing the functionality in subsequent iOS 18.1 and &zwnj;macOS Sequoia&zwnj; 15.1 updates. We expect to see those updates released in October.<br/>
+<br/>
+Apple is in the final stages of beta testing &zwnj;macOS Sequoia&zwnj; and &zwnj;iOS 18&zwnj; ahead of its annual fall iPhone-focused event. If Apple sticks with the timing that it has used for the last several years, the most likely event date is September 10. If that's the event date, new iPhones could launch a week later on September 20. New iOS updates typically come out on the Wednesday before new iPhones launch, so with that timeline, we could see &zwnj;iOS 18&zwnj; and &zwnj;macOS Sequoia&zwnj; on September 18.<br/>
+<br/>
+There is some wiggle room with dates, though, and Apple could opt to hold the event later in September, which would change the software launch date guesstimate. Apple could announce its &zwnj;iPhone&zwnj; event as soon as next week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/macos-sequoia-mid-september-launch-date/">macOS Sequoia Slated to Launch in Mid-September Alongside iOS 18</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macos-sequoia-slated-to-launch-in-mid-september-alongside-ios-18.2434189/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Nintendo Shutting Down Animal Crossing: Pocket Camp App, Plans to Release Paid Offline Version</title>
+		<link>https://www.macrumors.com/2024/08/22/nintendo-shutting-down-animal-crossing-pocket-camp/</link>
+		<comments>https://forums.macrumors.com/threads/nintendo-shutting-down-animal-crossing-pocket-camp-app-plans-to-release-paid-offline-version.2434185/</comments>
+		<pubDate>Thu, 22 Aug 2024 14:06:42 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/22/nintendo-shutting-down-animal-crossing-pocket-camp/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Nintendo</category>
+		
+
+		<description><![CDATA[Nintendo <a href="https://faq.ac-pocketcamp.com/hc/en-us/articles/36349494591001-What-will-happen-when-the-Animal-Crossing-Pocket-Camp-online-service-ends">today announced</a> that it will shut down the Animal Crossing: Pocket Camp app for iOS on November 29, seven years after <a href="https://www.macrumors.com/2017/11/21/animal-crossing-pocket-camp-launches/">the game originally launched</a>. Animal Crossing: Pocket Camp is a freemium app that Nintendo has regularly been adding new content to through ongoing events, so there are players with money invested in the game.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2017/10/animalcrossingpocketcamp.jpg" alt="" width="800" height="514" class="aligncenter size-full wp-image-598832" /><br/>
+There will be no more events or updates with the Pocket Camp service being discontinued, but Nintendo will release a paid version of Animal Crossing: Pocket Camp so that existing users can continue to play an offline version of the game. The paid version will allow saves to be transferred over, but it will not support visiting and interacting with other players or receiving gifts. It will not have in-app purchases nor will it require an online connection.<br/>
+<br/>
+Pocket Camp users who have purchased Leaf Tickets, the in-game currency, can redeem them through November 28. Leaf Tickets not used by that date will expire. Pocket Camp Club subscriptions will be ending on October 28, but Nintendo will continue providing the associated benefits until Pocket Camp shuts down.<br/>
+<br/>
+Nintendo plans to release the paid version of the app when the existing freemium version is shut down, but pricing has not yet been announced. Transferring a Pocket Camp save to the new app requires linking to a Nintendo Account.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/nintendo/">Nintendo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/nintendo-shutting-down-animal-crossing-pocket-camp/">Nintendo Shutting Down Animal Crossing: Pocket Camp App, Plans to Release Paid Offline Version</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/nintendo-shutting-down-animal-crossing-pocket-camp-app-plans-to-release-paid-offline-version.2434185/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases New AirPods Pro 2 Beta Firmware With Support for iOS 18 Features</title>
+		<link>https://www.macrumors.com/2024/08/22/airpods-pro-2-beta-firmware-4/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-beta-firmware-with-support-for-ios-18-features.2434184/</comments>
+		<pubDate>Thu, 22 Aug 2024 13:31:13 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/22/airpods-pro-2-beta-firmware-4/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple today released a new firmware update for the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2, including both the Lightning and USB-C versions. The firmware has a build number of 7A5290a, up from 7A5266c, and it is available to developers at the current time. This is the fourth firmware update that Apple has released since announcing new &zwnj;AirPods Pro&zwnj; 2 features in June.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-803705" src="https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware.jpg" alt="" width="1920" height="1081" /><br/>
+There are multiple features that are coming to the &zwnj;AirPods Pro&zwnj; 2 as part of <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, and these features are included in the firmware update.<br/>
+<br/>
+With head gestures, users can control <a href="https://www.macrumors.com/guide/siri/">Siri</a> on the &zwnj;AirPods Pro&zwnj; with a shake or a nod of the head. If you get a phone call, for example, you can shake your head no if you don't want to answer it, or nod to accept the call. &zwnj;Siri&zwnj; interactions can be used for responding to incoming messages, calls, and notifications.<br/>
+<br/>
+Apple is adding Voice Isolation to the &zwnj;AirPods Pro&zwnj; to cut down on loud background sounds to make you easier to hear, and there is a new Personalized Spatial Audio feature specific to gaming. Game developers will be able to incorporate spatial audio into their games for a more immersive audio experience.<br/>
+<br/>
+The new firmware is limited to developers at the current time, but it will be available to all &zwnj;iOS 18&zwnj; users following the public launch of the new software.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/airpods-pro-2-beta-firmware-4/">Apple Releases New AirPods Pro 2 Beta Firmware With Support for iOS 18 Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-beta-firmware-with-support-for-ios-18-features.2434184/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple to Require Identity Verification for Sending &#36;500+ in Apple Cash Starting in October</title>
+		<link>https://www.macrumors.com/2024/08/22/apple-cash-identity-verification-october/</link>
+		<comments>https://forums.macrumors.com/threads/apple-to-require-identity-verification-for-sending-500-in-apple-cash-starting-in-october.2434173/</comments>
+		<pubDate>Thu, 22 Aug 2024 10:17:17 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/22/apple-cash-identity-verification-october/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Cash</category>
+		<category>Tap to Cash</category>
+		
+
+		<description><![CDATA[Apple today began sending out emails to customers letting them know about upcoming changes that are being made to the Apple Cash Terms and Conditions.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/ios-18-tap-to-cash.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957059" /><br/>
+<a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a> introduce Tap to Cash, a feature that allows users to exchange Apple Cash in person by holding an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> or Apple Watch near another &zwnj;iPhone&zwnj; or Apple Watch. As part of this feature implementation, Apple is changing the identity verification rules surrounding Apple Cash.<br/>
+<br/>
+Starting on October 4, Apple will require that &zwnj;iPhone&zwnj; and Apple Watch users verify their identity to send more than a total of &#36;500 in peer-to-peer transfers, which includes sending Apple Cash via Messages and making Tap to Cash payments. Identity verification is required whether sending money from an Apple Cash balance or from a supported card in the Wallet app. Prior transactions will count toward the limit that will trigger identity verification.<br/>
+<br/>
+Apple <a href="https://support.apple.com/en-us/109312">already requires</a> identity verification for Apple Cash for those who use the feature frequently. <a href="https://support.apple.com/en-us/109312">Apple's support document</a> says that users cannot add or receive &#36;500 or more in total without identity verification, so it sounds like verification will also be required when sending large amounts of money as of October.<br/>
+<br/>
+Identify verification for Apple Cash involves taking photos of a driver's license or ID card, as well as answering personal history questions and providing information like home address, date of birth, and social security number.<br/>
+<br/>
+Identity verification for sending payments makes sense as Tap to Cash will allow money to be exchanged without being accompanied by personal information like phone number. Tap to Cash is designed for private in-person transactions where Apple Cash is exchanged. <br/>
+<br/>
+Apple's email to customers also says that it is adding the Vision Pro as a supported device for Apple Cash and that weekly peer-to-peer transfer limits will apply to transfers that are sent as well as received. Apple allows users to send or receive a maximum of &#36;10,000 <a href="https://support.apple.com/en-us/109305">within a 7-day period</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-cash/">Apple Cash</a>, <a href="https://www.macrumors.com/guide/tap-to-cash/">Tap to Cash</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/apple-cash-identity-verification-october/">Apple to Require Identity Verification for Sending &#36;500+ in Apple Cash Starting in October</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-to-require-identity-verification-for-sending-500-in-apple-cash-starting-in-october.2434173/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iPhone 16 Lineup to Introduce Wave of Camera Improvements</title>
+		<link>https://www.macrumors.com/2024/08/22/iphone-16-lineup-wave-of-camera-improvements/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-16-lineup-to-introduce-wave-of-camera-improvements.2434167/</comments>
+		<pubDate>Thu, 22 Aug 2024 09:30:03 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/22/iphone-16-lineup-wave-of-camera-improvements/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>iPhone 16</category>
+		<category>iPhone 16 Pro</category>
+		<category>AppleInsider</category>
+		
+
+		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> lineup will feature a significant number of new camera features and capabilities, <a href="https://appleinsider.com/articles/24/08/22/exclusive-every-iphone-16-iphone-16-pro-camera-spec-capture-button-detail-revealed"><em>AppleInsider</em></a> reports.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Cameras.jpg" alt="" width="1600" height="900" class="alignnone size-full wp-image-913544" /><br/>
+Both the &zwnj;iPhone 16&zwnj; and <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a> models are rumored to step up the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>'s photography and videography functions, including upgraded hardware such as 48-megapixel sensor on the Pro models' ultra wide camera and software such as macro photography for the standard models and an all-new image format. Reiterating some previous rumors, the report claims that:<br/>
+<br/>
+<ul><br/>
+	<li>The &zwnj;iPhone 16&zwnj;'s main camera will remain the same as that of the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> with a 48-megapixel sensor and a f/1.6 aperture, and there are unlikely to be changes to the unit on subsequent generations through to 2026.</li><br/>
+	<li>The &zwnj;iPhone 16&zwnj;'s ultra wide camera will gain a f/2.2 aperture, up from the f/2.4 aperture on the previous generation, to improve low-light performance.</li><br/>
+	<li>The &zwnj;iPhone 16&zwnj; and &zwnj;iPhone 16&zwnj; Plus may support macro photography for the first time. The feature is currently exclusive to the Pro models. </li><br/>
+	<li>The &zwnj;iPhone 16 Pro&zwnj; and &zwnj;iPhone 16 Pro&zwnj; Max will continue to feature a 48-megapixel main camera with an f/1.78 aperture.</li><br/>
+	<li>The &zwnj;iPhone 16 Pro&zwnj; will gain the 5x tetraprism telephoto camera introduced on the <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max last year, replacing the current 3x telephoto camera. </li><br/>
+	<li>The &zwnj;iPhone 16 Pro&zwnj; and &zwnj;iPhone 16 Pro&zwnj; Max will feature an upgraded ultra wide camera with a 48-megapixel sensor, with the same pixel-binning feature as the main camera. It will have an f/2.2 aperture, up from f/2.4, for significantly improved low-light performance and support 48-megapixel ProRaw photography.</li><br/>
+	<li>Apple will introduce a new image format called "JPEG-XL," sitting alongside HEIF, JPEG, HEIF Max, ProRaw, and ProRAW Max.</li><br/>
+	<li>The &zwnj;iPhone 16 Pro&zwnj; and &zwnj;iPhone 16 Pro&zwnj; Max will support 3K video at 120 frames per second with Dolby Vision.</li><br/>
+	<li>A new capacitive "Capture" button will be introduced on all four models, designed to be used exclusively by camera apps. Users will apparently be able to select which camera app the button opens, including third-party ones.</li><br/>
+	<li>The Capture button offers a force-sensitive half-press tied to a developer API that could, for example, lock exposure and focus, before fully depressing the button to take a photo.</li><br/>
+	<li>Sliding along the capacitive button will also perform different actions. This gesture will tout a developer API.</li><br/>
+</ul><br/>
+<br/>
+The &zwnj;iPhone 16&zwnj; lineup is expected to be announced in just a matter of weeks. The Pro models are expected to feature larger display sizes and a faster chip, while the standard models are set to offer the Action button and a redesigned rear camera array. See <a href="https://www.macrumors.com/roundup/iphone-16-pro/">our comprehensive roundup</a> for more information.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/appleinsider-com/">AppleInsider</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/iphone-16-lineup-wave-of-camera-improvements/">iPhone 16 Lineup to Introduce Wave of Camera Improvements</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16-lineup-to-introduce-wave-of-camera-improvements.2434167/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Promotes Final Cut Pro for Mac and iPad in New Ad</title>
+		<link>https://www.macrumors.com/2024/08/22/apple-final-cut-pro-mac-ipad-ad/</link>
+		<comments>https://forums.macrumors.com/threads/apple-promotes-final-cut-pro-for-mac-and-ipad-in-new-ad.2434166/</comments>
+		<pubDate>Thu, 22 Aug 2024 09:12:16 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/08/22/apple-final-cut-pro-mac-ipad-ad/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Ads</category>
+		<category>Final Cut Pro</category>
+		
+
+		<description><![CDATA[Apple today shared new ads focusing on <a href="https://www.apple.com/final-cut-pro/">Final Cut Pro 10.8</a>, the latest version of the Apple-designed app for professional video editing. The first ad highlights Final Cut Pro for the Mac, while the second covers Final Cut Pro for <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>.<br/>
+<br/>
+<div class="center-wrap"><iframe title="Final Cut Pro 10.8 Apple Pro Apps" src="https://www.youtube.com/embed/dy3k9M8kqu0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+<br/>
+<div class="center-wrap"><iframe title="Final Cut Pro for iPad 2 Apple Pro Apps" src="https://www.youtube.com/embed/5IshJoOuIJQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+Both videos walk through the different features that are available in Final Cut Pro on the Mac and the &zwnj;iPad&zwnj;. The Mac video walks through different tools for adding effects and organizing footage, while the &zwnj;iPad&zwnj; ad shows off the touch-based gestures and <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> integration.<br/>
+<br/>
+With Final Cut Pro 10.8, which <a href="https://www.macrumors.com/2024/06/20/final-cut-pro-major-update/">came out in June</a>, Apple added Enhance Light and Color, an feature that improves color, color balance, contrast, and brightness in one step. Slo-Mo, another AI feature, blends the frames of video intelligently to provide higher-quality movement.<br/>
+<br/>
+Apple also introduced Final Cut Camera, an app that can capture video from multiple iOS devices and feed it into Final Cut Pro for a multicam experience.<br/>
+<br/>
+Final Cut Pro is priced at &#36;300 for the Mac version, and &#36;49 per year or &#36;4.99 per month for the &zwnj;iPad&zwnj; version. Apple offers a free 90-day trial.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-ads/">Apple Ads</a>, <a href="https://www.macrumors.com/guide/final-cut-pro/">Final Cut Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/apple-final-cut-pro-mac-ipad-ad/">Apple Promotes Final Cut Pro for Mac and iPad in New Ad</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-promotes-final-cut-pro-for-mac-and-ipad-in-new-ad.2434166/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Apple to Let EU Users Set New Defaults for Multiple Apps, Delete App Store, Photos, Messages and More</title>
@@ -91,8 +331,8 @@ Keep up with all of this week's best discounts on Apple products and related acc
 		<guid isPermaLink="false">https://www.macrumors.com/2024/08/22/kuo-foldable-macbook-delayed-2027/</guid>
 		<dc:creator>Tim Hardwick</dc:creator>
 		<category>Featured</category>
-		<category>Foldable MacBook</category>
 		<category>Ming-Chi Kuo</category>
+		<category>Foldable MacBook</category>
 		
 
 		<description><![CDATA[Apple's rumored foldable MacBook won't arrive until the end of 2027 or 2028 at the earliest because of technical challenges, according to the latest prediction by <a href="https://x.com/mingchikuo/status/1826460677604786478">Apple analyst Ming-Chi Kuo</a>.<br/>
@@ -112,7 +352,7 @@ Display analyst Ross Young said in July 2022 that Apple could bring some kind of
 <br/>
 In a <a href="https://www.macrumors.com/2024/05/06/first-apple-foldable-coming-in-2025/">May report</a>, Haitong analyst Jeff Pu said Apple's first foldable devices would reach mass production in 2025 and 2026, following increasing evidence of foldable devices in Apple's supply chain. At the time, the analyst said Apple would likely release a large-screen foldable &zwnj;iPad&zwnj; or MacBook in that timeframe before launching a higher-volume foldable <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> in late 2026.<br/>
 <br/>
-Pu had claimed one Apple foldable with a 20.3-inch display would start production in late 2025, which was sooner than previously expected. However, Pu later said he believed Apple would join the foldable market in the <a href="https://www.macrumors.com/2024/08/02/apple-foldable-ipad-delays/">second quarter of 2026</a> due to "display durability issues," reflecting Apple's intention to perfect a foldable design. It seems Apple is still in the prototyping stage of a foldable device. Would you be interested in such a product? Let us know in the comments.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/foldable-macbook/">Foldable MacBook</a>, <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/kuo-foldable-macbook-delayed-2027/">Kuo: Folding All-Screen MacBook Delayed Until Late 2027 At the Earliest</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-folding-all-screen-macbook-delayed-until-late-2027-at-the-earliest.2434144/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Pu had claimed one Apple foldable with a 20.3-inch display would start production in late 2025, which was sooner than previously expected. However, Pu later said he believed Apple would join the foldable market in the <a href="https://www.macrumors.com/2024/08/02/apple-foldable-ipad-delays/">second quarter of 2026</a> due to "display durability issues," reflecting Apple's intention to perfect a foldable design. It seems Apple is still in the prototyping stage of a foldable device. Would you be interested in such a product? Let us know in the comments.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a>, <a href="https://www.macrumors.com/guide/foldable-macbook/">Foldable MacBook</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/22/kuo-foldable-macbook-delayed-2027/">Kuo: Folding All-Screen MacBook Delayed Until Late 2027 At the Earliest</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/kuo-folding-all-screen-macbook-delayed-until-late-2027-at-the-earliest.2434144/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -292,7 +532,7 @@ Other new features include more workout types, Check In for Messages, a revamped
 		<category>Nomad</category>
 		
 
-		<description><![CDATA[Nomad today introduced its latest multi-device charger, debuting a new version of the Stand One Max with Qi2 support. Rather than continuing to use <a href="https://www.macrumors.com/guide/magsafe/">MagSafe</a>, Nomad is transitioning to Qi2, the latest Qi charging standard that is able to charge iPhones at &zwnj;MagSafe&zwnj; speeds.<br/>
+		<description><![CDATA[Nomad today introduced its latest multi-device charger, debuting a new version of the Stand One Max with Qi2 support. Rather than continuing to use <a href="https://www.macrumors.com/guide/magsafe-battery-pack/">MagSafe</a>, Nomad is transitioning to Qi2, the latest Qi charging standard that is able to charge iPhones at &zwnj;MagSafe&zwnj; speeds.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/08/nomad-stand-one-max-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-962082" /><br/>
 The Stand One Max can charge an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> at up to 15W, and we were able to test the charger out ahead of launch. An <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max charged from 0 to 39 percent in an hour, which is essentially identical to &zwnj;MagSafe&zwnj; charging speeds.<br/>
@@ -366,12 +606,12 @@ Finally, Jackery has a large collection of discounts on its best portable power 
 		<description><![CDATA[Paid <a href="https://www.macrumors.com/guide/icloud/">iCloud</a> storage overwhelmingly remains the most popular Apple service in the United States, according to a <a href="https://cirpapple.substack.com/p/icloud-storage-remains-apples-most">new report</a> from Consumer Intelligence Research Partners (CIRP).<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2021/06/iCloud-General-Feature.jpg" alt="" width="2250" height="1266" class="alignnone size-full wp-image-803318" /><br/>
-Nearly two-thirds of Apple customers in the United States opt for paid &zwnj;iCloud&zwnj; storage, surpassing other services like <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>+, and <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a> in terms of user adoption. In comparison, &zwnj;Apple Music&zwnj; and &zwnj;Apple TV&zwnj;+ have achieved moderate penetration rates among Apple customers, with 42% and 32% adoption, respectively. &zwnj;AppleCare&zwnj;, the company's extended warranty service, sees even lower adoption, with only 17% of <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> buyers opting for the additional coverage. <br/>
+Nearly two-thirds of Apple customers in the United States opt for paid &zwnj;iCloud&zwnj; storage, surpassing other services like <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a>, <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV+</a>, and <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a> in terms of user adoption. In comparison, &zwnj;Apple Music&zwnj; and &zwnj;Apple TV+&zwnj; have achieved moderate penetration rates among Apple customers, with 42% and 32% adoption, respectively. &zwnj;AppleCare&zwnj;, the company's extended warranty service, sees even lower adoption, with only 17% of <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> buyers opting for the additional coverage. <br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/08/apple-services-cirp.jpg" alt="" width="1127" height="934" class="alignnone size-full wp-image-962128" /><br/>
 These other services, while significant contributors to Apple's Services revenue, operate in highly competitive markets, unlike the cloud storage market where no service is able to offer such a deeply integrated experience with Apple devices as &zwnj;iCloud&zwnj;. Many users opt for just one music service and multiple video subscriptions, which limits the growth potential for Apple's subscription offerings. As Apple's hardware sales growth slows, the company has increasingly turned to its services segment as a source of revenue.<br/>
 <br/>
-Paid &zwnj;iCloud&zwnj; subscriptions start at &#36;0.99 per month for 50GB of storage, &#36;2.99 per month for 200GB, and &#36;9.99 per month for 2TB. These standalone &zwnj;iCloud&zwnj; storage plans can also be bundled with other Apple services through <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a>, which offers three tiers: the Individual plan at &#36;16.95 per month includes 50GB of &zwnj;iCloud&zwnj; storage, &zwnj;Apple Music&zwnj;, &zwnj;Apple TV&zwnj;+, and <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>; the Family plan at &#36;22.95 per month includes 200GB of &zwnj;iCloud&zwnj; storage and extends those services to up to six family members; and the Premier plan at &#36;32.95 per month includes 2TB of &zwnj;iCloud&zwnj; storage and adds <a href="https://www.macrumors.com/guide/apple-news/">Apple News</a>+ and Apple Fitness+.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/cirp/">CIRP</a>, <a href="https://www.macrumors.com/guide/icloud/">iCloud</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-music-apple-pay-card-icloud-fitness.134">Apple Music, Apple Pay/Card, iCloud, Fitness+</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/21/icloud-storage-most-popular-apple-service/">Report: iCloud Is the Most Popular Apple Subscription Service in the US</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/report-icloud-is-the-most-popular-apple-subscription-service-in-the-us.2434083/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Paid &zwnj;iCloud&zwnj; subscriptions start at &#36;0.99 per month for 50GB of storage, &#36;2.99 per month for 200GB, and &#36;9.99 per month for 2TB. These standalone &zwnj;iCloud&zwnj; storage plans can also be bundled with other Apple services through <a href="https://www.macrumors.com/guide/apple-one/">Apple One</a>, which offers three tiers: the Individual plan at &#36;16.95 per month includes 50GB of &zwnj;iCloud&zwnj; storage, &zwnj;Apple Music&zwnj;, &zwnj;Apple TV+&zwnj;, and <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>; the Family plan at &#36;22.95 per month includes 200GB of &zwnj;iCloud&zwnj; storage and extends those services to up to six family members; and the Premier plan at &#36;32.95 per month includes 2TB of &zwnj;iCloud&zwnj; storage and adds <a href="https://www.macrumors.com/guide/apple-news-plus/">Apple News</a>+ and Apple Fitness+.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/cirp/">CIRP</a>, <a href="https://www.macrumors.com/guide/icloud/">iCloud</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-music-apple-pay-card-icloud-fitness.134">Apple Music, Apple Pay/Card, iCloud, Fitness+</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/21/icloud-storage-most-popular-apple-service/">Report: iCloud Is the Most Popular Apple Subscription Service in the US</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/report-icloud-is-the-most-popular-apple-subscription-service-in-the-us.2434083/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
@@ -456,227 +696,6 @@ iOS 18 for the iPhone, iPadOS 18 for iPad, watchOS 11 for the Apple Watch, and t
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/07/iOS-18-Public-Beta-Thumb-1.5.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-958424" /><br/>
 For all the details on the new software features you can expect, check out our dedicated roundups for <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a>, and <a href="https://www.macrumors.com/roundup/apple-tv/#tvos_and_the_tv_app">tvOS 18</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/21/apple-september-2024-event-new-products-expected/">Apple&#039;s September Event: New Products to Expect Beyond the iPhone 16</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-september-event-new-products-to-expect-beyond-the-iphone-16.2434080/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The iPhone 16 Is Getting an Action Button: Here&#039;s Everything It Will Do</title>
-		<link>https://www.macrumors.com/2024/08/21/iphone-16-everything-new-action-button-will-do/</link>
-		<comments>https://forums.macrumors.com/threads/the-iphone-16-is-getting-an-action-button-heres-everything-it-will-do.2434070/</comments>
-		<pubDate>Wed, 21 Aug 2024 05:22:52 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/21/iphone-16-everything-new-action-button-will-do/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>iPhone 16</category>
-		<category>Action Button</category>
-		
-
-		<description><![CDATA[Apple's upcoming iPhone 16 and iPhone 16 Plus models are widely expected to inherit the Action button first seen on last year's iPhone 15 Pro models. The Action button replaces the traditional Ring/Silent switch – a staple of the iPhone since it launched in 2007. For users unfamiliar with the Action button, here's a rundown of its functions – including some new features that iOS 18 will bring to the table for all iPhone models with an Action button.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Pro-Action-Button-Translate.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-911022" /><br/>
-The Action button replaces the single-function switch used to toggle between ring and silent, offering additional options so users can choose between quickly accessing the camera or flashlight, activate Voice Memos, Focus modes, Translate, and accessibility features like Magnifier. Users can also associate it with Shortcuts for more options. <br/>
-<ul><li><a href="https://www.macrumors.com/how-to/iphone-15-pro-how-to-customize-action-button/">iPhone 15 Pro: How to Customize the Action Button</a></li><br/>
-<li><a href="https://www.macrumors.com/how-to/iphone-15-pro-assign-two-shortcuts-action-button/">iPhone 15 Pro: How to Assign Two Functions to the Action Button</a></li></ul><br/>
-A press-and-hold gesture with fine-tuned haptic feedback and visual cues in the Dynamic Island ensure the new Action button launches the intended action, which users can customize in Settings and assign to different actions. <br/>
-<br/>
-<h2>Existing Action Button Functions</h2><br/>
-Here's what the Action button can be programmed to do:<br/>
-<ul><li><strong>Accessibility</strong>: Access to various accessibility settings, such as VoiceOver, Zoom, AssistiveTouch, Live Speech, and more.</li><br/>
-<li><strong>Shortcuts</strong>: Open your favorite app, or run a shortcut created in or downloaded from the Shortcuts app, such as sending a message, playing a playlist, or controlling smart home devices.</li><br/>
-<li><strong>Silent Mode</strong>: Like the Ring/Silent switch on existing iPhone models, toggle silent mode on or off, which will mute or unmute the ringer and alerts.</li><br/>
-<li><strong>Camera</strong>: Take a photo, selfie, video, portrait, or portrait selfie with a single press of the Action button.</li><br/>
-<li><strong>Flashlight</strong>: Turn on or off the flashlight on the back of the device.<br/>
-<li><strong>Focus</strong>: Activate or deactivate a Focus mode.</li><br/>
-<li><strong>Magnifier</strong>: Activate the Magnifier app to use the iPhone's camera as a magnifying glass to zoom in on small text or objects.</li><br/>
-<li><strong>Translate</strong>: Launch the Translate app and start a conversation or text translation with a single press of the Action button.</li><br/>
-<li><strong>Voice Memos</strong>: Start or stop recording a voice memo with the Voice Memos app.</li></ul><br/>
-<br/>
-<h2>New Action Button Functions Coming in iOS 18</h2><br/>
-iOS 18 allows the Action button to be assigned to one of the dozens of controls available in the new Control Center gallery, allowing the Action button to invoke Dark Mode, Airplane Mode, Personal Hotspot, and more. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/iOS-18-Control-Center-Toggles-for-Action-Button-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955224" /><br/>
-Available Control Center actions in iOS 18 will include:<div style="float: left; width: 50%;"><br/>
-<ul><br/>
-  <li>Calculator</li><br/>
-  <li>Stopwatch</li><br/>
-  <li>Alarm</li><br/>
-  <li>Home</li><br/>
-  <li>Timer</li><br/>
-  <li>Dark Mode</li><br/>
-  <li>Scan Code</li><br/>
-  <li>Airplane Mode</li></ul></div><div style="float: right; width: 50%;"><br/>
-<ul><br/>
-  <li>Cellular Data</li><br/>
-  <li>Personal Hotspot</li><br/>
-  <li>Dark Mode</li><br/>
-  <li>Quick Note</li><br/>
-  <li>Remote</li><br/>
-  <li>Wallet</li><br/>
-  <li>Tap to Cash</li><br/>
-  <li>Ping My Watch</li><br/>
-</ul></div><br/>
-<div style="clear:both;"></div><br/>
-These new options are in addition to the actions that were already available for the Action button on iOS 17, including Ring/Silent, Do Not Disturb, Camera, Flashlight, Voice Memo, Magnifier, Translate, Shortcut, and Accessibility. Some of the new Control Center options were already possible with the Shortcut or Accessibility options.<br/>
-<br/>
-Multiple rumors have suggested that all the iPhone 16 models will also have an all-new button that's designed to make it easier to capture photos when the devices are held in landscape mode. Check out our <a href="https://www.macrumors.com/2024/08/13/iphone-16-capture-button-features/">dedicated article on the subject</a> to learn more about what it will do. Apple is expected to announce the new iPhone 16 lineup next month.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/action-button/">Action Button</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/21/iphone-16-everything-new-action-button-will-do/">The iPhone 16 Is Getting an Action Button: Here&#039;s Everything It Will Do</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-iphone-16-is-getting-an-action-button-heres-everything-it-will-do.2434070/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>UK Antitrust Watchdog Closes Apple App Store Investigation, Case to Be Reconsidered Under New Digital Rules Regime</title>
-		<link>https://www.macrumors.com/2024/08/21/uk-antitrust-watchdog-closes-probe-app-store/</link>
-		<comments>https://forums.macrumors.com/threads/uk-antitrust-watchdog-closes-apple-app-store-investigation-case-to-be-reconsidered-under-new-digital-rules-regime.2434068/</comments>
-		<pubDate>Wed, 21 Aug 2024 04:37:01 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/21/uk-antitrust-watchdog-closes-probe-app-store/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple Antitrust</category>
-		<category>App Store</category>
-		<category>United Kingdom</category>
-		
-
-		<description><![CDATA[The UK's Competition and Market Authority (CMA) today <a href="https://www.gov.uk/government/news/cma-looks-to-new-digital-markets-competition-regime-to-resolve-app-store-concerns">announced</a> it had closed an investigation into Apple's <a href="https://www.macrumors.com/guide/app-store/">App Store</a> policies, as it expects to consider the concerns under a new digital markets competition regime which is expected to come into force later this year.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/06/app-store-blue-banner-uk-fixed.jpg" alt="" width="1794" height="1009" class="aligncenter size-full wp-image-804521" /><br/>
-Originally initiated in <a href="https://www.macrumors.com/2021/03/04/uk-watchdog-apple-investigation/">March 2021</a>, the CMA's investigation set out to determine whether or not Apple has a dominant position in connection with the distribution of apps on Apple devices in the UK – and, if so, whether Apple imposes unfair or anti-competitive terms on developers using the ‌&zwnj;App Store&zwnj;‌, such as by charging a 30% commission on transactions. <br/>
-<br/>
-The watchdog opened a similar probe into Google, which it believed breached UK competition law by making app developers use its own billing system for in-app purchases. The CMA now says it has closed the Competition Act cases into Google's Play Store and Apple's &zwnj;App Store&zwnj; on the grounds of administrative priorities and has not taken any decisions as to whether the Competition Act 1998 has been infringed.<br/>
-<br/>
-Despite both investigations being closed, the competition regulator says it may use new powers given to it via the UK's new Digital Markets, Competition and Consumers Act to address its concerns "more holistically" with a view to boosting competition in the app market. From the CMA's press release:<br/>
-<blockquote>In light of recent developments, in particular the passing in May of the Digital Markets, Competition and Consumers Act (DMCCA), the CMA has assessed its existing Competition Act investigation into Google's Play Store and its parallel case into Apple's App Store rules against its administrative priorities and decided to close these cases at this point. Should Apple or Google each or both be designated as having 'strategic market status' in connection with any digital activities in the mobile sector, the CMA will be able to use its new powers to consider the range of issues raised by parties more holistically than it otherwise could under these specific Competition Act investigations. This will also enable the CMA to consider what, if any, interventions may be needed following any designation.</blockquote>Published in January 2024, the <a href="https://www.gov.uk/government/publications/overview-of-the-cmas-provisional-approach-to-implement-the-new-digital-markets-competition-regime">new digital markets competition regime paper</a> gives the CMA the ability to impose requirements on the conduct of firms in digital markets where those firms have been designated as having Strategic Market Status (SMS) – and to impose significant fines against firms if those requirements are breached.<br/>
-<br/>
-In that paper, the CMA also confirmed it expects to launch around three to four SMS investigations within the first year of the new digital markets competition regime coming into force, which is expected later this year. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a>, <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/united-kingdom/">United Kingdom</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/21/uk-antitrust-watchdog-closes-probe-app-store/">UK Antitrust Watchdog Closes Apple App Store Investigation, Case to Be Reconsidered Under New Digital Rules Regime</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/uk-antitrust-watchdog-closes-apple-app-store-investigation-case-to-be-reconsidered-under-new-digital-rules-regime.2434068/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Sonos Can&#039;t Release Old App for Customers Unhappy With Design Changes</title>
-		<link>https://www.macrumors.com/2024/08/20/sonos-not-rereleasing-old-app/</link>
-		<comments>https://forums.macrumors.com/threads/sonos-cant-release-old-app-for-customers-unhappy-with-design-changes.2434045/</comments>
-		<pubDate>Tue, 20 Aug 2024 16:23:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/20/sonos-not-rereleasing-old-app/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Sonos</category>
-		
-
-		<description><![CDATA[Sonos won't be able to re-release its old app to appease customers that have been dissatisfied with the new version of the app, Sonos CEO Patrick Spence today said on Reddit <em>(via <a href="https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be">The Verge</a>)</em>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/04/sonos-redesigned-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-947528" /><br/>
-Spence said that he was "hopeful" the old app would be able to be re-released up until "very recently" as an alternative for people having issues, but Sonos found that doing so would ultimately make the issues worse because of backend updates to cloud servers and the software that runs on speakers.<br/>
-<blockquote>Everything has been on the table in terms of finding the fastest path to fixing your systems. In fact, until very recently I'd been hopeful that we could re-release the old app (S2) as an alternative for those of you that are having issues that we've not yet resolved.<br/>
-<br/>
-The trick of course is that Sonos is not just the mobile app, but software that runs on your speakers and in the cloud too. In the months since the new mobile app launched we've been updating the software that runs on our speakers and in the cloud to the point where today S2 is less reliable &amp; less stable then what you remember. After doing extensive testing we've reluctantly concluded that re-releasing S2 would make the problems worse, not better. I'm sure this is disappointing. It was disappointing to me.</blockquote><br/>
-<a href="https://www.macrumors.com/2024/08/14/sonos-bring-back-old-app/">Earlier this month</a>, <em>The Verge</em> reported that Sonos was considering bringing back the original version of its app, and Sonos was reportedly hopeful that allowing customers to revert to the old app would provide an interim solution as the company works to improve the new app. It sounds like that plan has been scrapped, which is unfortunate for customers who are having problems with the redesign.<br/>
-<br/>
-Sonos released a <a href="https://www.macrumors.com/2024/04/23/redesigned-sonos-app/">redesigned version of its app</a> back in May, and it has turned out to be a disaster for the company. Sonos customers quickly found that the new app lacked several key features and was riddled with bugs, and there have been ongoing complaints for months.<br/>
-<br/>
-Sonos <a href="https://www.macrumors.com/2024/07/25/sonos-app-update-apology/">issued an apology</a> in July and shared an outline of future update plans that will see missing features returned in September and October. In August, Sonos said that <a href="https://www.macrumors.com/2024/08/08/sonos-delays-product-launces-to-fix-app/">it would delay</a> two upcoming product launches planned for 2024 to focus on improving the app.<br/>
-<br/>
-In today's Reddit post, Spence said that the "original architect of the Sonos platform" has been put back in charge, and that the company has also "pulled together the very best and most experienced engineers" that it has to work on the app until it is fixed.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/sonos/">Sonos</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/20/sonos-not-rereleasing-old-app/">Sonos Can&#039;t Release Old App for Customers Unhappy With Design Changes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-cant-release-old-app-for-customers-unhappy-with-design-changes.2434045/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone Photography Awards Highlight Best Images of 2024</title>
-		<link>https://www.macrumors.com/2024/08/20/iphone-photography-awards-2024/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-photography-awards-highlight-best-images-of-2024.2434042/</comments>
-		<pubDate>Tue, 20 Aug 2024 15:42:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/20/iphone-photography-awards-2024/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Every year, the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> Photography Awards (IPPA) selects the best photographs captured with an &zwnj;iPhone&zwnj;, and the 2024 award winners <a href="https://www.ippawards.com/?v=7516fd43adaa">were announced today</a>. Many of this year's winning images were taken with Apple's most recent <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> models.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/09/iPhone-15-Blue-Three-Quarters-Perspective-Camera-Closeup-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-909012" /><br/>
-The grand prize image features a boy at an aquarium, with the photo shot in black and white using an <a href="https://www.macrumors.com/roundup/iphone-15-pro/">iPhone 15 Pro</a> Max.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/iphone-photography-award-main-winner.jpg" alt="" width="600" height="795" class="aligncenter size-full wp-image-962058" /><br/>
-The first place image includes a group of swimmers at a lifeguard camp from an &zwnj;iPhone&zwnj; 11 Pro Pro Max, while the second place image features children in Cambodia shot on an &zwnj;iPhone 15 Pro&zwnj;.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/first-place-ippa-winner-2024.jpeg" alt="" width="600" height="761" class="aligncenter size-full wp-image-962059" /><br/>
-There are also winners across a number of categories, including abstract, animals, architecture, children, cityscape, landscape, lifestyle, nature, people, portrait, series, still life, travel, and other. All of the winning images can be <a href="https://www.ippawards.com/2024-winning-photographers/?v=7516fd43adaa">viewed on the IPPA website</a>.<br/>
-<br/>
-IPPA has been running the &zwnj;iPhone&zwnj; Photography Awards since 2007, and 2024 marks the 17th annual competition. The contests are open to &zwnj;iPhone&zwnj; and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> users worldwide, and images can be edited with iOS apps. It is worth noting that it costs money to send in a photo, but Apple devices are provided as prizes.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/20/iphone-photography-awards-2024/">iPhone Photography Awards Highlight Best Images of 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-photography-awards-highlight-best-images-of-2024.2434042/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases New Firmware for Beats Studio Pro With Audio Sharing</title>
-		<link>https://www.macrumors.com/2024/08/20/apple-releases-new-firmware-for-beats-studio-pro/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-new-firmware-for-beats-studio-pro-with-audio-sharing.2434041/</comments>
-		<pubDate>Tue, 20 Aug 2024 15:30:39 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/20/apple-releases-new-firmware-for-beats-studio-pro/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Beats</category>
-		<category>Beats Studio Pro</category>
-		
-
-		<description><![CDATA[Apple today released new firmware for the Beats Studio Pro over-ear headphones. The Beats Studio Pro can be updated to firmware version 2C301, up from the prior 2B68 firmware that was installed on the headphones at launch. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/07/beats-studio-pro-iphone.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-903700" /><br/>
-Today's firmware update introduces support for audio sharing, a feature that was not available at launch. Audio sharing is designed to allow two people to listen to music from an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> or <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>.<br/>
-<br/>
-<div class="center-wrap"><blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">The Share Audio… option was not there on the old 2B68 firmware. <a href="https://t.co/5xLX46lElP">pic.twitter.com/5xLX46lElP</a></p>&mdash; Jonathan Forsander (@jforsander) <a href="https://twitter.com/jforsander/status/1826027992134595029?ref_src=twsrc%5Etfw">August 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
-Apple introduced the Beats Studio Pro headphones <a href="https://www.macrumors.com/2023/07/19/beats-studio-pro-debut/">just over a year ago</a>, marking an update to the original Studio headphones that made the Beats brand popular. The &#36;350 Beats Studio Pro headphones feature Active Noise Cancellation support, Personalized Spatial Audio with dynamic head tracking, multiple audio profiles, and improved audio quality with better bass performance compared to prior models.<br/>
-<br/>
-Apple did not include an Apple audio chip in the Beats Studio Pro, instead opting for a custom Beats chip that provides better feature parity between iOS and Android devices. The Beats chip supports one-touch pairing and setup, <a href="https://www.macrumors.com/guide/find-my/">Find My</a> integration, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> support, but automatic switching between devices is not available.<br/>
-<br/>
-As with all of Apple's headphone and earbud products, firmware updates for the Beats Studio Pro are delivered over-the-air. Firmware will be installed while the Beats headphones are charging and are in Bluetooth range of an &zwnj;iPhone&zwnj;, &zwnj;iPad&zwnj;, or Mac that's connected to Wi-Fi.<br/>
-<br/>
-On Android devices, users will need to download the Beats app for Android and connect the Android device to a power outlet to initiate a firmware update. There is no word on what's new in the firmware.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/beats/">Beats</a>, <a href="https://www.macrumors.com/guide/beats-studio-pro/">Beats Studio Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/20/apple-releases-new-firmware-for-beats-studio-pro/">Apple Releases New Firmware for Beats Studio Pro With Audio Sharing</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-firmware-for-beats-studio-pro-with-audio-sharing.2434041/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Major &#039;National Public Data&#039; Leak Worse Than Expected With Passwords Stored in Plain Text</title>
-		<link>https://www.macrumors.com/2024/08/20/npd-data-leak-plain-text/</link>
-		<comments>https://forums.macrumors.com/threads/major-national-public-data-leak-worse-than-expected-with-passwords-stored-in-plain-text.2434039/</comments>
-		<pubDate>Tue, 20 Aug 2024 14:42:05 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/20/npd-data-leak-plain-text/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Earlier this month, data broker National Public Data (NPD) announced that there had <a href="https://nationalpublicdata.com/Breach.html">been a major data breach</a> that saw hackers obtain millions of names, email addresses, phone numbers, social security numbers, and mailing addresses stored in its database. NPD is a company that does employee background checks, aggregating public data from numerous sources and selling it.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/04/apple-security-banner.jpeg" alt="" width="2048" height="1145" class="aligncenter size-full wp-image-796484" /><br/>
-NPD's security was clearly lacking to allow for the breach in the first place, but a new report from <a href="https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/"><em>KrebsOnSecurity</em></a> suggests that an NPD sister site made an even more grievous error, hosting an easily accessible plaintext archive with usernames and passwords.<br/>
-<br/>
-RecordsCheck.net, a site affiliated with NPD that hosts much of the same information, had a "members.zip" file that was downloadable until yesterday. It had source code and plain text usernames and passwords for RecordsCheck users, including logins belonging to NPD's founder, Salvatore Verini. The logins that were made available through RecordsCheck allowed access to the same data that was available via NPD.<br/>
-<br/>
-After being alerted by KrebsOnSecurity, RecordsCheck removed the file, and NPD is shutting down the site, according to Verini. He told the KrebsOnSecurity that the file had an "old version of the site with non-working code and passwords."<br/>
-<br/>
-There are websites <a href="https://www.npdbreach.com/">that are available</a> to see if your information was leaked in the NPD breach, and it is advisable to lock down your credit.<br/>
-<br/>
-The NPD leak included decades of information, including data from people who are now deceased. 137 million email addresses <a href="https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/">were leaked</a>, as were 272 million social security numbers. A lawsuit has <a href="https://www.cbsnews.com/news/social-security-number-leak-npd-breach-what-to-know/">since been filed</a> against NPD.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/20/npd-data-leak-plain-text/">Major &#039;National Public Data&#039; Leak Worse Than Expected With Passwords Stored in Plain Text</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/major-national-public-data-leak-worse-than-expected-with-passwords-stored-in-plain-text.2434039/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Now Gives Customers 45 Days to Extend AppleCare+ Coverage After Expiration</title>
-		<link>https://www.macrumors.com/2024/08/20/applecare-coverage-extension-period-increase/</link>
-		<comments>https://forums.macrumors.com/threads/apple-now-gives-customers-45-days-to-extend-applecare-coverage-after-expiration.2434031/</comments>
-		<pubDate>Tue, 20 Aug 2024 13:21:28 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/08/20/applecare-coverage-extension-period-increase/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>AppleCare</category>
-		
-
-		<description><![CDATA[Apple in August increased the period in which customers can extend their <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a>+ coverage after it expires. Apple used to allow coverage to be extended for 30 days after the end of the original &zwnj;AppleCare&zwnj;+ plan, but that has now changed to 45 days.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/12/applecare-apple-care-banner.jpg" alt="" width="1896" height="1066" class="aligncenter size-full wp-image-828594" /><br/>
-The <a href="https://support.apple.com/en-us/101560">AppleCare+ extension support document</a> says that customers have 45 days to sign up for a new &zwnj;AppleCare&zwnj;+ plan after existing coverage expires, with options for extending plans by 24 months, 36 months, monthly, or on an annual basis until canceled.<br/>
-<br/>
-&zwnj;AppleCare&zwnj;+ plans can be extended for 45 days after expiration in Australia, Austria Canada, Denmark, Finland, France, Germany, Ireland, Italy, Japan, the Netherlands, New Zealand, Norway, Spain, Sweden, Switzerland, the United Kingdom, and the United States. In China, there is still a 30-day limit.<br/>
-<br/>
-An upfront &zwnj;AppleCare&zwnj;+ plan for <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, or Apple Watch is eligible for updated coverage that renews monthly or annually, while upfront &zwnj;AppleCare&zwnj;+ plans for Mac can be enrolled in a new coverage plan that renews on an annual basis.<br/>
-<br/>
-Customers who want to renew their expired &zwnj;AppleCare&zwnj;+ plans can go to <a href="https://mysupport.apple.com/">Apple's support website</a> to see if their devices are eligible. Apple does not guarantee that &zwnj;AppleCare&zwnj;+ can be renewed, and it does not alert customers when &zwnj;AppleCare&zwnj;+ is expiring unless required by law.<br/>
-<br/>
-&zwnj;AppleCare&zwnj;+ expiration dates can be checked in the Settings app on &zwnj;iPhone&zwnj; or &zwnj;iPad&zwnj;, in the System Settings app on a Mac, or <a href="https://mysupport.apple.com/">on Apple's website</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/applecare/">AppleCare</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/08/20/applecare-coverage-extension-period-increase/">Apple Now Gives Customers 45 Days to Extend AppleCare+ Coverage After Expiration</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-gives-customers-45-days-to-extend-applecare-coverage-after-expiration.2434031/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
