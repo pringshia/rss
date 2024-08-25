@@ -16,6 +16,165 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @geoffreylitt: And from @dubroy, on playing like a kid again:
+
+https://dubroy.com/blog/playing-like-a-kid-again/</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>And from <a href="https://x.com/dubroy" title="Patrick Dubroy">@dubroy</a>, on playing like a kid again:<br>
+<br>
+<a href="https://dubroy.com/blog/playing-like-a-kid-again/">dubroy.com/blog/playing-like…</a></p>
+<img src="https://x.com/pic/media%2FGV18CC8WIAABfEo.png" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 25 Aug 2024 17:02:27 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1827753418145816817#m</guid>
+        <link>https://x.com/geoffreylitt/status/1827753418145816817#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: Related wisdom from Richard Feynman, on rediscovering the joy of physics:
+
+https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>Related wisdom from Richard Feynman, on rediscovering the joy of physics:<br>
+<br>
+<a href="https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html">asc.ohio-state.edu/kilcup.1/…</a></p>
+<img src="https://x.com/pic/media%2FGV17J0BXQAAJL07.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 25 Aug 2024 17:02:01 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1827753310855500200#m</guid>
+        <link>https://x.com/geoffreylitt/status/1827753310855500200#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: geoffreylitt.com/2024/08/25/…</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p><a href="https://www.geoffreylitt.com/2024/08/25/your-pie-doesnt-need-be-original">geoffreylitt.com/2024/08/25/…</a></p>
+<img src="https://x.com/pic/card_img%2F1827741531542790144%2FpfYu2Cce%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 25 Aug 2024 16:16:22 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1827741818915607032#m</guid>
+        <link>https://x.com/geoffreylitt/status/1827741818915607032#m</link>
+      </item>
+      <item>
+        <title>Your pie doesn&apos;t need to be original (unless you claim it so)
+
+Imagine you bake a delicious peach pie over the weekend, and you offer a slice to your friend. They respond:
+
+&quot;Wait, how is this different from every other peach pie that&apos;s ever been baked? It seems really similar to another pie I had recently.&quot;
+
+This is obviously an absurd reaction!
+
+But this exact dynamic happens all the time in creative software projects. Someone shares a project they made, and the first reaction is: how&apos;s it different?
+
+The problem here is a mismatch in values.
+
+The friend has assumed that your goal is to &quot;efficiently&quot; reach the goal of a delicious pie, or perhaps even to create a new kind of pie. But that&apos;s not the goal at all!
+
+Baking a pie is a creative act. It&apos;s personal, it&apos;s inherently delightful, it&apos;s an act of caring for others. It&apos;s also a craft that one can improve at over time. Just buying the &quot;best&quot; pie would defeat the point.
+
+---
+
+The next day, you find out there&apos;s a scientific conference in town: CRISP, the Conference for Research on Innovative Sweet Pastries. This is where the world&apos;s foremost experts push forward the frontier of pie-baking technique.
+
+You show up with your delicious peach pie, and the first question from the judging panel is:
+
+&quot;Wait, how is this different from every other peach pie that&apos;s ever been baked? It seems really similar to another pie I had recently.&quot;
+
+You respond: &quot;I have no idea, I just enjoyed baking it and thought it was delicious! I don&apos;t even know what recipe I used. Why does it matter to you, huh?&quot;
+
+The expert says: &quot;Well then, you&apos;re welcome to bake pies all you want at home, but your pie is not welcome at CRISP. The community cannot understand your contribution or build on your work.&quot;
+
+You might be upset about this outcome, but you&apos;d be wrong. In this context, the judge&apos;s criticism is totally fair.
+
+The goal of CRISP isn&apos;t just to enjoy pies, it&apos;s to build up a community of practice. Part of being a good citizen of that community is being able to explain how your pie is different—which in turn requires learning about all the other ways of making pie. This isn&apos;t merely a higher bar than amateur weekend baking, it&apos;s a totally different frame of mind.
+
+---
+
+I think mixing up these two situations is the source of a lot of unfortunate confusion.
+
+I work on prototyping new kinds of software interfaces and programming tools, and I spend time in various communities that span across the cultures of playful exploration (sharing demos on Twitter) and academic research (writing formal papers).
+
+Often I see creative people share personal projects and get their spirits weakened by &quot;how&apos;s it different?&quot; The question can be well-meaning; it isn&apos;t necessarily cynical! It&apos;s just misunderstanding the goal.
+
+On the other hand, I see people submit cool work to academic research venues and get confused by, or even chafe at, the stringent requirement of situating the work in context. I used to be pretty dismissive of Related Work sections myself, until I went through grad school and realized how valuable they are to the world.
+
+---
+
+So, as creators and feedback-givers, how can we avoid this confusion?
+
+There&apos;s an answer that seems obvious: clearly set the goal up front. Are you trying to do a personal project for fun, or are you trying to make a novel research contribution? Just proactively broadcast your intent, and most people will be better at asking questions that are aligned with your goals.
+
+Unfortunately, in my experience, things don&apos;t work out this cleanly. Many of the best new ideas start out as playful explorations, and over time snowball into a larger project that are worthy of a serious research contribution.
+
+A strategy I&apos;ve found helpful is to _start_ from a place of personal creativity. If the initial goal is playful exploration for its own sake, that creates free space to explore and quells early doubts (from both myself and others). It doesn&apos;t matter if it&apos;s new or good (yet), I&apos;m just having fun.
+
+Occasionally a project grows into something more. At that point it can be appropriate to apply a critical academic lens.
+
+Starting from the other side seems a lot tougher. If you start off saying &quot;we&apos;re going to make a big serious contribution no one&apos;s ever done before,&quot; that sets up high stakes and invites harsh critique from the start. Maybe this approach works for some projects with narrower success criteria, but it doesn&apos;t seem to work well for most of what I do.
+
+A final thing to keep in mind: when I&apos;m on the side of giving feedback, I always try to first understand the creator&apos;s goals. This can be a subtle art when they don&apos;t even know their own goals yet. The weekend baker may just need encouragement, not critique.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>Your pie doesn't need to be original (unless you claim it so)<br>
+<br>
+Imagine you bake a delicious peach pie over the weekend, and you offer a slice to your friend. They respond:<br>
+<br>
+"Wait, how is this different from every other peach pie that's ever been baked? It seems really similar to another pie I had recently."<br>
+<br>
+This is obviously an absurd reaction!<br>
+<br>
+But this exact dynamic happens all the time in creative software projects. Someone shares a project they made, and the first reaction is: how's it different?<br>
+<br>
+The problem here is a mismatch in values.<br>
+<br>
+The friend has assumed that your goal is to "efficiently" reach the goal of a delicious pie, or perhaps even to create a new kind of pie. But that's not the goal at all!<br>
+<br>
+Baking a pie is a creative act. It's personal, it's inherently delightful, it's an act of caring for others. It's also a craft that one can improve at over time. Just buying the "best" pie would defeat the point.<br>
+<br>
+---<br>
+<br>
+The next day, you find out there's a scientific conference in town: CRISP, the Conference for Research on Innovative Sweet Pastries. This is where the world's foremost experts push forward the frontier of pie-baking technique.<br>
+<br>
+You show up with your delicious peach pie, and the first question from the judging panel is:<br>
+<br>
+"Wait, how is this different from every other peach pie that's ever been baked? It seems really similar to another pie I had recently."<br>
+<br>
+You respond: "I have no idea, I just enjoyed baking it and thought it was delicious! I don't even know what recipe I used. Why does it matter to you, huh?"<br>
+<br>
+The expert says: "Well then, you're welcome to bake pies all you want at home, but your pie is not welcome at CRISP. The community cannot understand your contribution or build on your work."<br>
+<br>
+You might be upset about this outcome, but you'd be wrong. In this context, the judge's criticism is totally fair.<br>
+<br>
+The goal of CRISP isn't just to enjoy pies, it's to build up a community of practice. Part of being a good citizen of that community is being able to explain how your pie is different—which in turn requires learning about all the other ways of making pie. This isn't merely a higher bar than amateur weekend baking, it's a totally different frame of mind.<br>
+<br>
+---<br>
+<br>
+I think mixing up these two situations is the source of a lot of unfortunate confusion.<br>
+<br>
+I work on prototyping new kinds of software interfaces and programming tools, and I spend time in various communities that span across the cultures of playful exploration (sharing demos on Twitter) and academic research (writing formal papers).<br>
+<br>
+Often I see creative people share personal projects and get their spirits weakened by "how's it different?" The question can be well-meaning; it isn't necessarily cynical! It's just misunderstanding the goal.<br>
+<br>
+On the other hand, I see people submit cool work to academic research venues and get confused by, or even chafe at, the stringent requirement of situating the work in context. I used to be pretty dismissive of Related Work sections myself, until I went through grad school and realized how valuable they are to the world.<br>
+<br>
+---<br>
+<br>
+So, as creators and feedback-givers, how can we avoid this confusion?<br>
+<br>
+There's an answer that seems obvious: clearly set the goal up front. Are you trying to do a personal project for fun, or are you trying to make a novel research contribution? Just proactively broadcast your intent, and most people will be better at asking questions that are aligned with your goals.<br>
+<br>
+Unfortunately, in my experience, things don't work out this cleanly. Many of the best new ideas start out as playful explorations, and over time snowball into a larger project that are worthy of a serious research contribution.<br>
+<br>
+A strategy I've found helpful is to _start_ from a place of personal creativity. If the initial goal is playful exploration for its own sake, that creates free space to explore and quells early doubts (from both myself and others). It doesn't matter if it's new or good (yet), I'm just having fun.<br>
+<br>
+Occasionally a project grows into something more. At that point it can be appropriate to apply a critical academic lens.<br>
+<br>
+Starting from the other side seems a lot tougher. If you start off saying "we're going to make a big serious contribution no one's ever done before," that sets up high stakes and invites harsh critique from the start. Maybe this approach works for some projects with narrower success criteria, but it doesn't seem to work well for most of what I do.<br>
+<br>
+A final thing to keep in mind: when I'm on the side of giving feedback, I always try to first understand the creator's goals. This can be a subtle art when they don't even know their own goals yet. The weekend baker may just need encouragement, not critique.</p>
+<img src="https://x.com/pic/media%2FGV1sDXhWcAAVVlt.jpg" style="max-width:250px;" />
+<img src="https://x.com/pic/media%2FGV1sF9OXEAAu7kJ.png" style="max-width:250px;" />
+<img src="https://x.com/pic/media%2FGV1sGUZXEAA9w0r.jpg" style="max-width:250px;" />
+<img src="https://x.com/pic/media%2FGV1sGnRWYAAOMBq.png" style="max-width:250px;" />]]></description>
+        <pubDate>Sun, 25 Aug 2024 15:59:03 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1827737464297214323#m</guid>
+        <link>https://x.com/geoffreylitt/status/1827737464297214323#m</link>
+      </item>
+      <item>
         <title>✨ EDITING THE EDITOR
 
 What are some foundational abstractions that can help us use AI to edit documents?
@@ -272,119 +431,6 @@ So yeah, I guess I'd summarize the lesson here as: AI-enhanced development makes
         <pubDate>Wed, 07 Aug 2024 17:09:54 GMT</pubDate>
         <guid>https://x.com/geoffreylitt/status/1821232310655545741#m</guid>
         <link>https://x.com/geoffreylitt/status/1821232310655545741#m</link>
-      </item>
-      <item>
-        <title>an AI that navigates a phone tree, waits on hold, and then when someone finally answers it says “wait a sec lemme go grab him” and calls me</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>an AI that navigates a phone tree, waits on hold, and then when someone finally answers it says “wait a sec lemme go grab him” and calls me</p>]]></description>
-        <pubDate>Wed, 07 Aug 2024 17:05:08 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1821231113140072688#m</guid>
-        <link>https://x.com/geoffreylitt/status/1821231113140072688#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: Also should mention — we are working closely with a  few scientists to prototype Jacquard.
-
-If you publish papers using data  (ideally Python/Latex) and want to try out a new collaborative editor, DM me!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Also should mention — we are working closely with a  few scientists to prototype Jacquard.<br>
-<br>
-If you publish papers using data  (ideally Python/Latex) and want to try out a new collaborative editor, DM me!</p>]]></description>
-        <pubDate>Tue, 06 Aug 2024 23:18:47 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1820962755123282046#m</guid>
-        <link>https://x.com/geoffreylitt/status/1820962755123282046#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: See this post on the Jacquard project blog: https://www.inkandswitch.com/jacquard/notebook/
-
-Sign up for email updates:
-https://buttondown.email/inkandswitch</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>See this post on the Jacquard project blog: <a href="https://www.inkandswitch.com/jacquard/notebook/">inkandswitch.com/jacquard/no…</a><br>
-<br>
-Sign up for email updates:<br>
-<a href="https://buttondown.email/inkandswitch">buttondown.email/inkandswitc…</a></p>
-<img src="https://x.com/pic/card_img%2F1827326141251928064%2FKENXIR43%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 06 Aug 2024 21:44:57 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1820939142819135655#m</guid>
-        <link>https://x.com/geoffreylitt/status/1820939142819135655#m</link>
-      </item>
-      <item>
-        <title>Excited to be working on a new project this summer at &gt;@inkandswitch together with @qualmist and @paulsonnentag! Here&apos;s a quick summary of what we&apos;re up to:
-
-# Jacquard: version control + provenance for empirical research
-
-How do researchers write papers that contain data analysis and charts?
-
-Consider a hypothetical astronomy paper. Measurements are collected from a telescope and written into a raw data file, which is reduced into a smaller CSV, which is loaded into a Python analysis notebook, which outputs further intermediate data files, as well as several visualizations as PNGs, which are then dragged into a web-based collaborative LaTeX editor where the team edits the paper and refines the charts.
-
-This cobbling-together of tools and intermediate data files can cause serious problems for teams of researchers:
-
-- &quot;How did we generate this chart?&quot;: Researchers waste time remembering what script and data were used to generate a given chart or data table. And when an analysis gets updated, it&apos;s tricky to remember what other steps need to be manually rerun to correctly update downstream results.
-- &quot;Where&apos;d that file go?&quot;: The text, the figures, and the code for the paper are spread across various web apps and devices. Any collaborator can edit the paper text on the web, but the moment they want to edit a chart, they have to email their collaborator who has the code on their laptop. Sometimes the team even loses track of a file entirely.
--  &quot;What&apos;s changed recently?&quot; Authors risk missing important changes made by their collaborators. It&apos;s generally challenging to suggest or review changes; many &quot;track changes&quot; views present too much detail and are difficult to parse.
-
-Through conversations with researchers in fields ranging from astrophysics to oceanography, we&apos;ve learned that these kinds of problems cause daily friction, stealing focus from important work and even causing mistakes. Some researchers use software engineering tools like Git and Makefiles to help with these problems, but those tools are an awkward fit for exploratory research programming, and aren&apos;t easily accessible to scientists who are less familiar with the command line.
-
----
-
-On this project, we&apos;re prototyping Jacquard: a collaborative environment for writing empirical research papers. The goal is to free up researchers to focus more on their core work of science and communication, and less on tedious bookkeeping. (The name &quot;Jacquard&quot; comes from the automated loom that was an important step in the history of computing.)
-
-Jacquard builds on years of work at Ink &amp; Switch, including most recently Patchwork (http://inkandswitch.com/patchwork/notebook/): a browser-based local-first collaboration environment with powerful version control utilities like branching and history views.
-
-We&apos;re starting out by extending Patchwork to support the kinds of data needed by empirical research papers, like LaTeX files and data visualization scripts.
-
-From there, we aim to add on powerful capabilities like tracking provenance of derived artifacts or making suggestions on a branch. Throughout this process, the prototype should remain a simple web-based collaboration interface that&apos;s accessible to researchers who don&apos;t have prior experience with version control or build systems.
-
-A couple notes about our process:
-
-First, while we&apos;re aiming to invent new collaboration workflows, supporting real science work requires integrating with existing tools as well. So we&apos;ll be taking a pragmatic approach that meets scientists where they are, building bridges to existing desktop workflows and programs.
-
-Second, while this work is related to efforts in scientific reproducibility, that&apos;s not our top priority. Reproducibility efforts often focus on packaging up results once they&apos;re completed; we&apos;re more interested in supporting and accelerating the messy process of getting to the results in the first place.
-
-🗞️ We&apos;ll be posting updates as we go, see links in next post below!
-
-✉️ If you&apos;re an empirical researcher (in any discipline) and would like to talk with us about your experiences with these problems, we&apos;d love to chat—feel free to DM me here or email at geoffrey@inkandswitch.com!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Excited to be working on a new project this summer at <a href="https://x.com/inkandswitch" title="Ink & Switch">@inkandswitch</a> together with <a href="https://x.com/qualmist" title="Josh Horowitz">@qualmist</a> and <a href="https://x.com/paulsonnentag" title="Paul Sonnentag (he/him)">@paulsonnentag</a>! Here's a quick summary of what we're up to:<br>
-<br>
-# Jacquard: version control + provenance for empirical research<br>
-<br>
-How do researchers write papers that contain data analysis and charts?<br>
-<br>
-Consider a hypothetical astronomy paper. Measurements are collected from a telescope and written into a raw data file, which is reduced into a smaller CSV, which is loaded into a Python analysis notebook, which outputs further intermediate data files, as well as several visualizations as PNGs, which are then dragged into a web-based collaborative LaTeX editor where the team edits the paper and refines the charts.<br>
-<br>
-This cobbling-together of tools and intermediate data files can cause serious problems for teams of researchers:<br>
-<br>
-- "How did we generate this chart?": Researchers waste time remembering what script and data were used to generate a given chart or data table. And when an analysis gets updated, it's tricky to remember what other steps need to be manually rerun to correctly update downstream results.<br>
-- "Where'd that file go?": The text, the figures, and the code for the paper are spread across various web apps and devices. Any collaborator can edit the paper text on the web, but the moment they want to edit a chart, they have to email their collaborator who has the code on their laptop. Sometimes the team even loses track of a file entirely.<br>
--  "What's changed recently?" Authors risk missing important changes made by their collaborators. It's generally challenging to suggest or review changes; many "track changes" views present too much detail and are difficult to parse.<br>
-<br>
-Through conversations with researchers in fields ranging from astrophysics to oceanography, we've learned that these kinds of problems cause daily friction, stealing focus from important work and even causing mistakes. Some researchers use software engineering tools like Git and Makefiles to help with these problems, but those tools are an awkward fit for exploratory research programming, and aren't easily accessible to scientists who are less familiar with the command line.<br>
-<br>
----<br>
-<br>
-On this project, we're prototyping Jacquard: a collaborative environment for writing empirical research papers. The goal is to free up researchers to focus more on their core work of science and communication, and less on tedious bookkeeping. (The name "Jacquard" comes from the automated loom that was an important step in the history of computing.)<br>
-<br>
-Jacquard builds on years of work at Ink & Switch, including most recently Patchwork (<a href="http://inkandswitch.com/patchwork/notebook/">inkandswitch.com/patchwork/n…</a>): a browser-based local-first collaboration environment with powerful version control utilities like branching and history views.<br>
-<br>
-We're starting out by extending Patchwork to support the kinds of data needed by empirical research papers, like LaTeX files and data visualization scripts.<br>
-<br>
-From there, we aim to add on powerful capabilities like tracking provenance of derived artifacts or making suggestions on a branch. Throughout this process, the prototype should remain a simple web-based collaboration interface that's accessible to researchers who don't have prior experience with version control or build systems.<br>
-<br>
-A couple notes about our process:<br>
-<br>
-First, while we're aiming to invent new collaboration workflows, supporting real science work requires integrating with existing tools as well. So we'll be taking a pragmatic approach that meets scientists where they are, building bridges to existing desktop workflows and programs.<br>
-<br>
-Second, while this work is related to efforts in scientific reproducibility, that's not our top priority. Reproducibility efforts often focus on packaging up results once they're completed; we're more interested in supporting and accelerating the messy process of getting to the results in the first place.<br>
-<br>
-🗞️ We'll be posting updates as we go, see links in next post below!<br>
-<br>
-✉️ If you're an empirical researcher (in any discipline) and would like to talk with us about your experiences with these problems, we'd love to chat—feel free to DM me here or email at geoffrey@inkandswitch.com!</p>
-<img src="https://x.com/pic/media%2FGUVEJWFWQAAaEg9.jpg" style="max-width:250px;" />
-<img src="https://x.com/pic/media%2FGUVEv4UXsAA0EvP.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 06 Aug 2024 21:44:57 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1820939140432543866#m</guid>
-        <link>https://x.com/geoffreylitt/status/1820939140432543866#m</link>
       </item>
 
   </channel>
