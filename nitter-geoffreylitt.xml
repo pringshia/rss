@@ -16,6 +16,43 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @geoffreylitt: If you&apos;re doing it right, it should feel like your prompts are absurdly long. Like, I&apos;ll sometimes ramble for minutes.
+
+You should rarely stop to re-record -- if you make a mistake just keep going and correct yourself. Feel free to think aloud on thef ly</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>If you're doing it right, it should feel like your prompts are absurdly long. Like, I'll sometimes ramble for minutes.<br>
+<br>
+You should rarely stop to re-record -- if you make a mistake just keep going and correct yourself. Feel free to think aloud on thef ly</p>]]></description>
+        <pubDate>Mon, 26 Aug 2024 01:58:06 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1827888219179901310#m</guid>
+        <link>https://x.com/geoffreylitt/status/1827888219179901310#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: The key is that you can get very detailed with your prompt since voice makes it so fast. Just say everything you’d say to a junior, be verbose. 
+
+Feels less like “computer magically doing coding for me” and more like “saving myself some typing”, still a huge accelerator.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>The key is that you can get very detailed with your prompt since voice makes it so fast. Just say everything you’d say to a junior, be verbose. <br>
+<br>
+Feels less like “computer magically doing coding for me” and more like “saving myself some typing”, still a huge accelerator.</p>]]></description>
+        <pubDate>Mon, 26 Aug 2024 01:25:15 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1827879949862088900#m</guid>
+        <link>https://x.com/geoffreylitt/status/1827879949862088900#m</link>
+      </item>
+      <item>
+        <title>For those discovering Cursor recently: try out cmd-k with voice input from a transcription app!
+
+Started doing this a while back and it’s stuck, today I was hacking on some UI and did majority of my coding by voice.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>For those discovering Cursor recently: try out cmd-k with voice input from a transcription app!<br>
+<br>
+Started doing this a while back and it’s stuck, today I was hacking on some UI and did majority of my coding by voice.</p>
+<p><a href="https://x.com/geoffreylitt/status/1745953276338536830#m">nitter.privacydev.net/geoffreylitt/status/1745953276338536830#m</a></p>]]></description>
+        <pubDate>Mon, 26 Aug 2024 01:23:24 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1827879486228148280#m</guid>
+        <link>https://x.com/geoffreylitt/status/1827879486228148280#m</link>
+      </item>
+      <item>
         <title>R to @geoffreylitt: And from @dubroy, on playing like a kid again:
 
 https://dubroy.com/blog/playing-like-a-kid-again/</title>
@@ -198,7 +235,7 @@ Here's a short talk I gave recently on that topic. 3 acts:<br>
 3) Editing the editor 🤖<br>
 <br>
 <a href="https://www.youtube.com/watch?v=5OaTk5q_CTc">youtube.com/watch?v=5OaTk5q_…</a></p>
-<img src="https://x.com/pic/card_img%2F1825329799222738944%2FkgtGZygy%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
+<img src="https://x.com/pic/card_img%2F1827868878963175424%2FoKAaRnQP%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
         <pubDate>Tue, 20 Aug 2024 15:50:18 GMT</pubDate>
         <guid>https://x.com/geoffreylitt/status/1825923322518884448#m</guid>
         <link>https://x.com/geoffreylitt/status/1825923322518884448#m</link>
@@ -333,104 +370,6 @@ P.S: We need better runtimes, frameworks, dependency management and languages fo
         <pubDate>Fri, 09 Aug 2024 14:36:56 GMT</pubDate>
         <guid>https://x.com/mschoening/status/1821918591169782093#m</guid>
         <link>https://x.com/mschoening/status/1821918591169782093#m</link>
-      </item>
-      <item>
-        <title>Whoa, just had an incredible moment with AI generating debug tools on the fly...
-
-Was pair programming w/ @qualmist and we were struggling to interpret textual output from a CLI tool.
-
-So we had Claude build us a visual debugger, and it totally crushed it 😎 
-
-quick backstory:
-
-So we were playing around w/ synctex, a tool that maps locations in Latex files to locations in an output PDF.
-
-Pretty simple, you can ask it &quot;line 5 in the .tex file, where&apos;s that in the pdf&quot; and it&apos;ll spit out a bunch of numbers representing coordinates for boxes in the PDF:
-
-h:133.768372
-v:275.285675
-W:343.711060
-H:9.065993
-
-Hm, it&apos;s hard to *see* what those numbers actually mean on the pdf! we were doing coordinate math, manually measuring cursor positions... yuck. felt like we needed a more visual workflow.
-
-Enter Claude! Asked it to make a React app that actually *draws* the boxes as overlays on top of the PDF.
-
-You just paste in the CLI output and upload an image of the PDF. it parses the output and draws red boxes in the correct positions on the image.
-
-This is so much faster than manually parsing the CLI output!! allowed us to quickly try some experiments and get a better feel for how synctex works in various cases.
-
-Generating the tool took a few iterations and the AI wasn&apos;t perfect, but honestly it made very few mistakes and was totally good enough to keep us in flow of conversation. I was repeatedly impressed by 3.5 Sonnet getting things right that it feels like GPT-4 would have failed at a year ago, e.g. coordinate math stuff.
-
-@simonw says &quot;AI-enhanced development makes me more ambitious with my projects&quot;. This is exactly that philosophy at play. No way I would have tried to code this debugger manually during a pairing session. But AI lowered the cost enough to try it.
-
-A strange reflection about this process: when you&apos;re building debugger tools with AI, there&apos;s a lot of leverage because there&apos;s 2 compounding layers of acceleration:
-
-1) AI makes it faster to iterate on debug tools...
-2) ...and debug tools make it faster to iterate on your project!
-
-As a live programming nerd this idea gets me tremendously excited. Until now, it&apos;s generally been too expensive for devs to build bespoke visualization tools in the flow of coding their projects. But when that cost comes down, and it&apos;s faster to build custom tools, then it feels possible to accelerate work in a meaningful way.
-
-So yeah, I guess I&apos;d summarize the lesson here as: AI-enhanced development makes me more ambitious with my debuggers...</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Whoa, just had an incredible moment with AI generating debug tools on the fly...<br>
-<br>
-Was pair programming w/ <a href="https://x.com/qualmist" title="Josh Horowitz">@qualmist</a> and we were struggling to interpret textual output from a CLI tool.<br>
-<br>
-So we had Claude build us a visual debugger, and it totally crushed it 😎 <br>
-<br>
-quick backstory:<br>
-<br>
-So we were playing around w/ synctex, a tool that maps locations in Latex files to locations in an output PDF.<br>
-<br>
-Pretty simple, you can ask it "line 5 in the .tex file, where's that in the pdf" and it'll spit out a bunch of numbers representing coordinates for boxes in the PDF:<br>
-<br>
-h:133.768372<br>
-v:275.285675<br>
-W:343.711060<br>
-H:9.065993<br>
-<br>
-Hm, it's hard to *see* what those numbers actually mean on the pdf! we were doing coordinate math, manually measuring cursor positions... yuck. felt like we needed a more visual workflow.<br>
-<br>
-Enter Claude! Asked it to make a React app that actually *draws* the boxes as overlays on top of the PDF.<br>
-<br>
-You just paste in the CLI output and upload an image of the PDF. it parses the output and draws red boxes in the correct positions on the image.<br>
-<br>
-This is so much faster than manually parsing the CLI output!! allowed us to quickly try some experiments and get a better feel for how synctex works in various cases.<br>
-<br>
-Generating the tool took a few iterations and the AI wasn't perfect, but honestly it made very few mistakes and was totally good enough to keep us in flow of conversation. I was repeatedly impressed by 3.5 Sonnet getting things right that it feels like GPT-4 would have failed at a year ago, e.g. coordinate math stuff.<br>
-<br>
-<a href="https://x.com/simonw" title="Simon Willison">@simonw</a> says "AI-enhanced development makes me more ambitious with my projects". This is exactly that philosophy at play. No way I would have tried to code this debugger manually during a pairing session. But AI lowered the cost enough to try it.<br>
-<br>
-A strange reflection about this process: when you're building debugger tools with AI, there's a lot of leverage because there's 2 compounding layers of acceleration:<br>
-<br>
-1) AI makes it faster to iterate on debug tools...<br>
-2) ...and debug tools make it faster to iterate on your project!<br>
-<br>
-As a live programming nerd this idea gets me tremendously excited. Until now, it's generally been too expensive for devs to build bespoke visualization tools in the flow of coding their projects. But when that cost comes down, and it's faster to build custom tools, then it feels possible to accelerate work in a meaningful way.<br>
-<br>
-So yeah, I guess I'd summarize the lesson here as: AI-enhanced development makes me more ambitious with my debuggers...</p>
-<img src="https://x.com/pic/media%2FGUfTkXgXkAAYt7d.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 08 Aug 2024 21:54:06 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1821666220644683950#m</guid>
-        <link>https://x.com/geoffreylitt/status/1821666220644683950#m</link>
-      </item>
-      <item>
-        <title>compilers are more fun when they have eyes and mouths and stomachs</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>compilers are more fun when they have eyes and mouths and stomachs</p>
-<img src="https://x.com/pic/media%2FGUe1yoNXEAAkduJ.png" style="max-width:250px;" />]]></description>
-        <pubDate>Thu, 08 Aug 2024 19:09:00 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1821624671478878462#m</guid>
-        <link>https://x.com/geoffreylitt/status/1821624671478878462#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: Notably I don’t need it to have the actual conversation for me! Just spare me the dumbest parts</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Notably I don’t need it to have the actual conversation for me! Just spare me the dumbest parts</p>]]></description>
-        <pubDate>Wed, 07 Aug 2024 17:09:54 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1821232310655545741#m</guid>
-        <link>https://x.com/geoffreylitt/status/1821232310655545741#m</link>
       </item>
 
   </channel>
