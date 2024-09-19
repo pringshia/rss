@@ -16,6 +16,79 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @geoffreylitt: And here&apos;s the general background on what Jacquard is all about and why we&apos;re working in this space!</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>And here's the general background on what Jacquard is all about and why we're working in this space!</p>
+<p><a href="https://x.com/geoffreylitt/status/1820939140432543866#m">nitter.privacydev.net/geoffreylitt/status/1820939140432543866#m</a></p>]]></description>
+        <pubDate>Wed, 18 Sep 2024 21:26:33 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1836517189161226616#m</guid>
+        <link>https://x.com/geoffreylitt/status/1836517189161226616#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: We&apos;ve also been thinking about what it might mean to have this kind of provenance as a universal primitive in a collaborative OS. For more notes on that, check out our latest lab notebook post:
+
+https://www.inkandswitch.com/jacquard/notebook/03/</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>We've also been thinking about what it might mean to have this kind of provenance as a universal primitive in a collaborative OS. For more notes on that, check out our latest lab notebook post:<br>
+<br>
+<a href="https://www.inkandswitch.com/jacquard/notebook/03/">inkandswitch.com/jacquard/no…</a></p>]]></description>
+        <pubDate>Wed, 18 Sep 2024 21:25:31 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1836516929164529998#m</guid>
+        <link>https://x.com/geoffreylitt/status/1836516929164529998#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: Fine-grained provenance is our latest area of exploration on the Jacquard project at &gt;@inkandswitch -- where we&apos;re imagining editing tools for science papers with better version control and provenance tracking.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>Fine-grained provenance is our latest area of exploration on the Jacquard project at <a href="https://x.com/inkandswitch" title="Ink & Switch">@inkandswitch</a> -- where we're imagining editing tools for science papers with better version control and provenance tracking.</p>]]></description>
+        <pubDate>Wed, 18 Sep 2024 21:24:58 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1836516789527675338#m</guid>
+        <link>https://x.com/geoffreylitt/status/1836516789527675338#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: All of these are examples of interactions for fine-grained provenance: linking parts of a source and build document to more fluidly work across the two.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>All of these are examples of interactions for fine-grained provenance: linking parts of a source and build document to more fluidly work across the two.</p>
+<img src="https://x.com/pic/media%2FGXydKBTX0AAI-x1.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 18 Sep 2024 21:20:28 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1836515657225244755#m</guid>
+        <link>https://x.com/geoffreylitt/status/1836515657225244755#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: What if, instead of a list of files, you could visualize the layout of a project by seeing which scripts feed into each part of the final paper?</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>What if, instead of a list of files, you could visualize the layout of a project by seeing which scripts feed into each part of the final paper?</p>
+<img src="https://x.com/pic/media%2FGXyc4txXYAAWkZ3.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 18 Sep 2024 21:19:51 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1836515504925876484#m</guid>
+        <link>https://x.com/geoffreylitt/status/1836515504925876484#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: What if, when you leave a comment on the PDF, it gets mirrored to the underlying source LaTeX as well?
+
+So that reviewers get to comment on the nice PDF, but authors get to see the comments as they edit the text:</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>What if, when you leave a comment on the PDF, it gets mirrored to the underlying source LaTeX as well?<br>
+<br>
+So that reviewers get to comment on the nice PDF, but authors get to see the comments as they edit the text:</p>
+<img src="https://x.com/pic/ext_tw_video_thumb%2F1836515028922449920%2Fpu%2Fimg%2F7wdXkD-3Xn98iZmv.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 18 Sep 2024 21:18:38 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1836515196413891033#m</guid>
+        <link>https://x.com/geoffreylitt/status/1836515196413891033#m</link>
+      </item>
+      <item>
+        <title>So you&apos;re reviewing a draft PDF generated from LaTeX, and you notice a typo...
+
+What if you could just fix it right away, using a little popup to edit the underlying LaTeX?</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>So you're reviewing a draft PDF generated from LaTeX, and you notice a typo...<br>
+<br>
+What if you could just fix it right away, using a little popup to edit the underlying LaTeX?</p>
+<img src="https://x.com/pic/ext_tw_video_thumb%2F1836513645393506304%2Fpu%2Fimg%2F7GxJF-uA6om-h1A2.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 18 Sep 2024 21:16:17 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1836514607395148186#m</guid>
+        <link>https://x.com/geoffreylitt/status/1836514607395148186#m</link>
+      </item>
+      <item>
         <title>R to @geoffreylitt: Even weirder how most people have no idea that self-driving has truly (within specific operating parameters) been solved. 
 
 Strong “future is here, just not evenly distributed” vibes</title>
@@ -289,104 +362,6 @@ A final thing to keep in mind: when I'm on the side of giving feedback, I always
         <pubDate>Sun, 25 Aug 2024 15:59:03 GMT</pubDate>
         <guid>https://x.com/geoffreylitt/status/1827737464297214323#m</guid>
         <link>https://x.com/geoffreylitt/status/1827737464297214323#m</link>
-      </item>
-      <item>
-        <title>✨ EDITING THE EDITOR
-
-What are some foundational abstractions that can help us use AI to edit documents?
-
-Here&apos;s a short talk I gave recently on that topic. 3 acts:
-
-1) Editing an essay 📝
-2) Editing anything ✍️
-3) Editing the editor 🤖
-
-https://www.youtube.com/watch?v=5OaTk5q_CTc</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>✨ EDITING THE EDITOR<br>
-<br>
-What are some foundational abstractions that can help us use AI to edit documents?<br>
-<br>
-Here's a short talk I gave recently on that topic. 3 acts:<br>
-<br>
-1) Editing an essay 📝<br>
-2) Editing anything ✍️<br>
-3) Editing the editor 🤖<br>
-<br>
-<a href="https://www.youtube.com/watch?v=5OaTk5q_CTc">youtube.com/watch?v=5OaTk5q_…</a></p>
-<img src="https://x.com/pic/card_img%2F1835484285417250816%2FCv4rVHI2%3Fformat%3Djpg%26name%3D800x320_1" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 20 Aug 2024 15:50:18 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1825923322518884448#m</guid>
-        <link>https://x.com/geoffreylitt/status/1825923322518884448#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: I feel like this is a nice little benchmark for casual tiny app building
-
-Level 2: show movie thumbnails and rotten tomatoes scores
-
-level 3: save history, learn my tastes over time</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>I feel like this is a nice little benchmark for casual tiny app building<br>
-<br>
-Level 2: show movie thumbnails and rotten tomatoes scores<br>
-<br>
-level 3: save history, learn my tastes over time</p>]]></description>
-        <pubDate>Sat, 17 Aug 2024 20:33:11 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1824907345840963923#m</guid>
-        <link>https://x.com/geoffreylitt/status/1824907345840963923#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: Another one!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Another one!</p>
-<p><a href="https://x.com/dhruvtruth/status/1824841096561840243#m">nitter.privacydev.net/dhruvtruth/status/1824841096561840243#m</a></p>]]></description>
-        <pubDate>Sat, 17 Aug 2024 20:32:06 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1824907074574397791#m</guid>
-        <link>https://x.com/geoffreylitt/status/1824907074574397791#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: One of my favorite patterns too: using AI to make software that uses AI</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>One of my favorite patterns too: using AI to make software that uses AI</p>]]></description>
-        <pubDate>Sat, 17 Aug 2024 15:16:11 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1824827570111561836#m</guid>
-        <link>https://x.com/geoffreylitt/status/1824827570111561836#m</link>
-      </item>
-      <item>
-        <title>Making software at the speed of thought!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Making software at the speed of thought!</p>
-<p><a href="https://x.com/stevekrouse/status/1824823444485415000#m">nitter.privacydev.net/stevekrouse/status/1824823444485415000#m</a></p>]]></description>
-        <pubDate>Sat, 17 Aug 2024 15:15:53 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1824827497717858623#m</guid>
-        <link>https://x.com/geoffreylitt/status/1824827497717858623#m</link>
-      </item>
-      <item>
-        <title>A tip: Next time you’re struggling to find a movie to watch, try an LLM with this prompt:
-
-- tell it the vibe you want and a couple examples 
-- “make a list of 20 candidates, select top 3, with summaries and explanations of why I’d like them”
-
-Works surprisingly well!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>A tip: Next time you’re struggling to find a movie to watch, try an LLM with this prompt:<br>
-<br>
-- tell it the vibe you want and a couple examples <br>
-- “make a list of 20 candidates, select top 3, with summaries and explanations of why I’d like them”<br>
-<br>
-Works surprisingly well!</p>]]></description>
-        <pubDate>Sat, 17 Aug 2024 01:14:09 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1824615668521603210#m</guid>
-        <link>https://x.com/geoffreylitt/status/1824615668521603210#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: reminds me a bit of this passage i was revisiting the other day from Albert Borgmann - about how wooden home stoves provided meaning in non-obvious ways, and when we replaced them we lost some things</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>reminds me a bit of this passage i was revisiting the other day from Albert Borgmann - about how wooden home stoves provided meaning in non-obvious ways, and when we replaced them we lost some things</p>
-<img src="https://x.com/pic/media%2FGVHXrAUW8AAPS1r.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 16 Aug 2024 16:01:57 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1824476700387811674#m</guid>
-        <link>https://x.com/geoffreylitt/status/1824476700387811674#m</link>
       </item>
 
   </channel>
