@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 23 Oct 2024 09:04:11 PDT</lastBuildDate>
+	<lastBuildDate>Sat, 26 Oct 2024 03:02:38 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,590 +22,865 @@
 	<generator>https://www.macrumors.com</generator>
 		
 		<item>
-		<title>AirPods 4 Drop to &#36;119 on Amazon, Plus Record Low Prices on iPhone 16 Cases</title>
-		<link>https://www.macrumors.com/2024/10/23/airpods-4-drop-to-119/</link>
-		<comments>https://forums.macrumors.com/threads/airpods-4-drop-to-119-on-amazon-plus-record-low-prices-on-iphone-16-cases.2440773/</comments>
-		<pubDate>Wed, 23 Oct 2024 07:48:21 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/23/airpods-4-drop-to-119/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
+		<title>iOS 18.2: Everything You Should Know About Image Playground</title>
+		<link>https://www.macrumors.com/guide/image-playground/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-2-everything-you-should-know-about-image-playground.2440974/</comments>
+		<pubDate>Fri, 25 Oct 2024 15:35:51 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/image-playground&#038;post_date=1729906551/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		<category>Apple Intelligence</category>
+		<category>Image Playground</category>
 		
 
-		<description><![CDATA[Today we're tracking two separate sales across Amazon and Woot, with big discounts on AirPods 4 and Apple's MagSafe cases for iPhone 16.<br/>
+		<description><![CDATA[iOS 18.2 includes the first image generation technologies that are coming to Apple Intelligence, including Image Playground. Image Playground is Apple's dedicated image creation app that can build cartoon-like pictures based on text descriptions.<br/>
 <br/>
-<h2>AirPods 4</h2><br/>
-<img src="https://images.macrumors.com/article-new/2018/02/airpods-4-blue.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-964768" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<img src="https://images.macrumors.com/article-new/2024/10/image-playground-ios-18-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-972926" /><br/>
+This guide highlights everything that you need to know about Image Playground, from its limitations to where you can use it, and we'll provide updates as Image Playground evolves.<br/>
 <br/>
-Starting with AirPods, Amazon has the AirPods 4 for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHMNQ5Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;119.00</strong></a>, down from &#36;129.00. This is the base model without Active Noise Cancellation, and Amazon's price today is just &#36;1 off from the all-time low price on this model.<br/>
+<h2 id="the_image_playground_app">The Image Playground App</h2><br/>
+Updating to iOS 18.2, iPadOS 18.2, or <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.2 adds a "Playground" app to the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> or desktop, denoted by an icon featuring a white cat/dog/bear creature in a 3D style.<br/>
+<br/>
+Tapping into the app brings up a splash screen with instructions on how to use Image Playground, but it's straightforward. There's a text bar at the bottom that instructs you to "Describe an image."<br/>
+<br/>
+As soon as you type in a word or phrase, Image Playground starts working on generating an image for you. You can essentially type in anything, like "crocodile wearing a tutu" or "skunk hula hooping on top of an elephant."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/ios-18-2-image-playground-crocodile.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-972927" /><br/>
+You can modify the result with additional word descriptions, or use one of Apple's suggestions. You'll get several possible images for each description, and you can swipe through them to choose what you want. You can add and remove words and phrases until you refine the generated image to exactly what you want.<br/>
+<br/>
+Image Playground is very much in beta right now, so Apple is soliciting feedback. There are thumbs up and thumbs down icons you can use to submit feedback. Thumbs up doesn't require additional input, but thumbs down goes to an interface where you can select what's wrong with an image and provide additional written details.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/ios-18-2-image-playground-feedback.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-972928" /><br/>
+After you've created your ideal image, you can tap on the Done button to save it to your Image Playground library. Items saved in the Image Playground library can be edited again later, deleted, or shared with the standard Share Sheet. There are also built-in tools for copying, sharing, or saving an image during the creation process.<br/>
+<br/>
+<h3 id="personalized_images_based_on_people">Personalized Images Based on People</h3><br/>
+You can start an Image Playground creation with a person. People that are saved in your People album in the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app will show up as an option (yourself included), and you can select a specific photo of a person to use as the base for a new image.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/ios-18-2-image-playground-person.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-972929" /><br/>
+Each photo of a person will look different because Image Playground is pulling in the specific angle, lighting, and look of a particular image rather than of an aggregate, so you can swipe through to see which image of a person looks the most like them when converted to an animated form.<br/>
+<br/>
+You are limited to individuals that are saved to your People album, so AI isn't going to understand if you ask for an image of <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> or Taylor Swift, but for this use case, you can import a photo.<br/>
+<br/>
+You can also create a generic look to use as a base using the built-in "Appearance" option in the Person interface. That setting lets you select a skin tone and feature set, which can be refined further with image descriptions.<br/>
+<br/>
+<h3 id="image_playground_suggestions">Image Playground Suggestions</h3><br/>
+If you don't know where to start with an image creation or you need inspiration for details, Apple has a range of suggestions that you can tap to add to your image.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/Image-Playground-Preset-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955046" /><br/>
+There are themes like adventure, disco, summer, party, sunset, and fantasy, along with places like city, space, desert, park, prairie, and forest. Apple suggests costumes that include artist, chef, hiker, mage, robot, and superhero, and there are accessories you can select from like sunglasses, beanie, top hat, party hat, and flower crown.<br/>
+<br/>
+These are just a jumping off point, of course, and you can choose any location or setting and add any objects and accessories you want using text descriptions.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/image-playground-cat.jpg" alt="" width="1024" height="1024" class="aligncenter size-full wp-image-972925" /><br/>
+Suggestions in the Image Playground app aren't contextual, but when you use Image Playground in Messages, you might see suggestions based on what you've been talking about.<br/>
+<br/>
+<h3 id="animation_style">Animation Style</h3><br/>
+You can't make photorealistic images with Image Playground, and that's by design. Apple doesn't want to generate images that can fool someone, so you're limited to two styles: Animation and Illustration.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/ios-18-2-image-playground-styles.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-972930" /><br/>
+Animation is a 3D-looking style that looks like something out of a Pixar movie, while Illustration is a flatter, 2D image that's simpler.<br/>
+<br/>
+When Image Playground was first announced in June 2024, Apple said there would be three styles, including Animation, Illustration, and Sketch. It's not clear if sketch is still planned and will be coming at a later date.<br/>
+<br/>
+<h3 id="base_an_image_on_a_photo">Base an Image on a Photo</h3><br/>
+You can take a photo or import a photo from the &zwnj;Photos&zwnj; app to use as inspiration for an Image Playground creation. If you want an Image Playground image with &zwnj;Tim Cook&zwnj;, using a photo is the way to go.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/ios-18-2-image-playground-photo.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-972934" /><br/>
+Any photo works to serve as inspiration for a creation, and you can use a photo for the main subject of an image or for the background.<br/>
+<br/>
+<h2 id="image_playground_in_messages">Image Playground in Messages</h2><br/>
+You can create images in the Image Playground app and share them in Messages, but you can also do it directly from the Messages app. In a conversation, tap on the "+" button and then choose Image Playground from the list.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/08/ios-18-image-playground.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960704" /><br/>
+The Messages mini app works like the full app. Just type in a description of an image and use the same steps to get it to where you want it. When you're finished, tap on Done, and it'll show up in the send field of your conversation so you can text it to whoever you're conversing with.<br/>
+<br/>
+<h2 id="sharing_image_playground_creations">Sharing Image Playground Creations</h2><br/>
+To share an Image Playground image in a text message, you can use the built-in Image Playground mini app in Messages, which is the quickest route.<br/>
+<br/>
+You can also go to the Image Playground library or create a new image in the app and then use the Share Sheet to AirDrop it, send it via Messages, email it, or save it to the &zwnj;Photos&zwnj; or Files app. Anything you've saved to &zwnj;Photos&zwnj; can be uploaded to a social media app.<br/>
+<br/>
+The Share Sheet is like the Share Sheet anywhere else in iOS, so if you have an app like Instagram installed, there is a Share Sheet option to upload an Image Playground creation directly to Instagram. The same goes for other social networks that support the Share Sheet.<br/>
+<br/>
+<h2 id="image_playground_limitations">Image Playground Limitations</h2><br/>
+Image Playground is in beta right now, and Apple says that users can see unexpected results depending on the descriptors that are used. Sometimes words that seem like they should produce a simple result end up making something unexpectedly odd, such as the banana split images below. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/ios-18-2-image-playground-banana-split.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-972932" /><br/>
+The AI has some limitations to be aware of, and there are also built-in guardrails that restrict the content that you can create. <br/>
+<br/>
+<h2 id="size_and_scope">Size and Scope</h2><br/>
+One noticeable limitation involves Image Playground creations that use photos of people. You can only get portrait-style photos that show the top half of a person, with no option for a full-body pose. So if you wanted to generate an image of your friend Eric roller skating, it's hard to depict that activity accurately because Image Playground will only generate a chest-up image.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/ios-18-2-playground-people-limitation.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-972933" /><br/>
+This limitation doesn't apply when generating images of animals and creatures, but it's an issue when you want to depict an activity that needs more than a head and shoulders.<br/>
+<br/>
+This also impacts images that you might want to generate with a secondary object, like a cat or another person. Image Playground doesn't always do a good job with multiple subjects in a photo at this time. The more descriptors you have, the more it struggles with this kind of thing.<br/>
+<br/>
+<h3 id="words">Words</h3><br/>
+As with most image generating tools that are available, Image Playground struggles with text. Text tends to be non-sensical.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/ios-18-2-image-playground-writing.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-972931" /><br/>
+<h3 id="restricted_phrases">Restricted Phrases</h3><br/>
+Apple learned some lessons from other tech companies that have introduced image generation tools, and there are plenty of built-in restrictions. When Google <a href="https://www.macrumors.com/2024/08/21/google-pixel-editing-image-creation-tools/">debuted Pixel Studio</a> in August, people were able to use it to generate images with drugs, alcohol, Nazis, and more, and Apple's not allowing any of that.<br/>
+<br/>
+When a word isn't allowed, you'll see the following message: "Unable to use that description" with an undo button you can use to remove it.<br/>
+<br/>
+There are other phrases that Image Playground will kind of ignore. If you use "blood" or "bloody" for example, you'll get a red-tinted background, but no actual blood. You can't use words like murder or dead or their synonyms, and while gun and pistol are okay, AK-47, machine gun, and shotgun are not.<br/>
+<br/>
+Concepts that could be used to generate a political image are likewise banned. You can't add country-specific flags, or countries like United States, Mexico or Germany. Words related to drugs or drug paraphernalia don't work, and there are a lot of descriptors that Image Playground will just disregard, even if you don't get a message that it's explicitly forbidden.<br/>
+<br/>
+It's clear that Apple put a lot of work into preventing Image Playground from generating inappropriate images, and the company has made it clear that improvements will be made and that there's still a possibility of unexpected results during the beta.<br/>
+<br/>
+<h3 id="people_requirement">People Requirement</h3><br/>
+When Apple Intelligence is having trouble applying a word, it often requires you to select a person to add to your image, even if you didn't want to add a person. It can be frustrating, and you'll need to add the person, change your phrasing, and remove the person to get to what you really meant. <br/>
+<br/>
+<h3 id="copyright">Copyright</h3><br/>
+Likewise, Apple doesn't allow you to create images of copyrighted characters, so there won't be any option to use Image Playground to create compromising photos of Bluey and Mickey Mouse.<br/>
+<br/>
+<h2 id="security">Security</h2><br/>
+Image generation for Image Playground is done on-device, so nothing that you're typing in is sent to a cloud server or shared, though it is worth noting that Apple is collecting feedback on it right now.<br/>
+<br/>
+<h2 id="availability">Availability</h2><br/>
+Image Playground is only available in the iOS 18.2 beta, and the beta is limited to developers at the current time. There is no word yet on when a public beta might be released.<br/>
+<br/>
+<h3 id="waitlist">Waitlist</h3><br/>
+You need to opt in to a second waitlist to get access to Image Playground and Genmoji in iOS 18.2, with Apple apparently limiting the number of people who can use the features. The wait is longer than the initial wait for opting in to Apple Intelligence, and it has taken 24+ hours in some cases.<br/>
+<br/>
+<h2 id="public_launch">Public Launch</h2><br/>
+If Apple follows launch timelines from prior years, we could see an iOS 18.2 release sometime in mid-December.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/image-playground/">iOS 18.2: Everything You Should Know About Image Playground</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-2-everything-you-should-know-about-image-playground.2440974/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Best Apple Deals of the Week: M2 MacBook Air Gets Massive &#36;299 Discount Alongside AirPods 4 and Apple Pencil Pro Sales</title>
+		<link>https://www.macrumors.com/2024/10/25/best-apple-deals-of-the-week-10-25-24/</link>
+		<comments>https://forums.macrumors.com/threads/best-apple-deals-of-the-week-m2-macbook-air-gets-massive-299-discount-alongside-airpods-4-and-apple-pencil-pro-sales.2440968/</comments>
+		<pubDate>Fri, 25 Oct 2024 11:46:45 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/25/best-apple-deals-of-the-week-10-25-24/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[This week we saw big discounts on a few Apple devices and related accessories, including a new record low price on the 13-inch M2 MacBook Air. You'll also find great deals on Apple Pencil Pro, Apple Watch Series 10, AirPods 4, and more below.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/best-apple-deals-hero-new-blue.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-959384" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+<h2>Apple Accessories</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/10/apple-pencil-pro-blue.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972563" /><br/>
+<ul><li><strong>What's the deal?</strong> Save on Apple's first party accessories</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J63BWD%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/10/21/get-the-apple-pencil-pro-for-94/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J71RM7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;35 OFF</div>Apple Pencil Pro for &#36;93.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J65R9N%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;39 OFF</div>11-inch M4 iPad Pro Magic Keyboard for &#36;259.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J63BWD%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;50 OFF</div>13-inch M4 iPad Pro Magic Keyboard for &#36;298.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHHJXTC%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;11 OFF</div>2-meter MagSafe Charger for &#36;38.00</div></a></div><br/>
+<br/>
+This week we tracked a few deals on Apple's Magic Keyboards for iPad, Apple Pencil Pro, AirTag, and the new MagSafe Charger. Some of the most notable discounts include the Apple Pencil Pro which was at &#36;94.99 and has since dropped another &#36;1 to sit just &#36;4 above its all-time low price, plus up to &#36;50 off the M4 Magic Keyboards.<br/>
+<br/>
+Additionally, you can find some big discounts on <a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Fplus%2Fapple-iphone-16-cases">Apple's official Silicone and Clear Cases for the iPhone 16</a> at Woot. There's a large selection of these cases down to &#36;34.99 right now, and you can take an additional &#36;10 off with the coupon code APPLEWELCOME through the end of today, Friday, October 25.<br/>
+<br/>
+<h2>M2 MacBook Air</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/10/m2-macbook-air-blue.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972561" /><br/>
+<ul><li><strong>What's the deal?</strong> Take &#36;299 off M2 MacBook Air</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3C2R8MP%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue">Amazon</a><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/10/23/get-apples-m2-macbook-air-699/">Right here</a></li></ul><br/>
+<div class="center-wrap"><em><strong>Note: You won't see the deal price until checkout.</strong></em></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3C2R8MP%3Ftag%3Dmacrumors-20%26th%3D1%26geniuslink%3Dtrue"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;299 OFF</div>13-inch M2 MacBook Air (256GB) for &#36;699.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3C5H787%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;249 OFF</div>13-inch M2 MacBook Air (512GB) for &#36;949.99</div></a></div><br/>
+<br/>
+One of the most notable deals of the week was on the 256GB 13-inch M2 MacBook Air, available for just &#36;699.99, down from &#36;999.00, and this sale has since expanded to include more colors. Overall, this is a new record low price on the previous generation MacBook Air, and the 512GB model is seeing a similarly steep discount on Amazon.<br/>
+<br/>
+<h2>AirPods</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/10/airpods-4-blue.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972562" /><br/>
+<ul><li><strong>What's the deal?</strong> Take &#36;10 off AirPods 4</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHMNQ5Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/10/23/airpods-4-drop-to-119/">Right here</a></li></ul><br/>
 <br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHMNQ5Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;10 OFF</div>AirPods 4 for &#36;119.00</div></a></div><br/>
 <div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ7HYG1%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;10 OFF</div>AirPods 4 (ANC) for &#36;168.99</div></a></div><br/>
 <br/>
-Amazon also has the AirPods 4 with Active Noise Cancellation for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ7HYG1%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;168.99</strong></a>, down from &#36;179.00. Similar to the previous model, this is just about &#36;1 away from the record low price on this version of the AirPods 4, making today's sale a solid second-best price for anyone shopping for AirPods this week.<br/>
+Amazon took &#36;10 off both models of the AirPods 4 this week, starting at &#36;119.00 for the base model without Active Noise Cancellation. Both deals are still available to purchase today, and right now only Amazon has the discounts.<br/>
 <br/>
-<h2>iPhone 16 Cases</h2><br/>
-<img src="https://images.macrumors.com/article-new/2024/09/iphone-16-cases-blue.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-968483" /><br/>
+<h2>Apple Watch</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/10/apple-watch-series-10-blue.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972560" /><br/>
+<ul><li><strong>What's the deal?</strong> Take up to &#36;33 off Apple Watch Series 10</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHV8NLZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/10/24/apple-watch-series-10-drops/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHV8NLZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;33 OFF</div>Apple Watch Series 10 (42mm GPS) for &#36;365.28</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ3WKR6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;30 OFF</div>Apple Watch Series 10 (46mm GPS) for &#36;399.00</div></a></div><br/>
 <br/>
-Over at Woot, you can get <a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Fplus%2Fapple-iphone-16-cases">all-time low prices on Silicone and Clear Cases</a> for the iPhone 16, iPhone 16 Pro, and iPhone 16 Pro Max. Woot has a large selection of these down to &#36;34.99 right now, and you can take an additional &#36;10 off with the coupon code APPLEWELCOME through Friday, October 25.<br/>
+Amazon hosted a few low prices on the Apple Watch Series 10 this week, with solid markdowns on both the 42mm and 46mm GPS models still available. This includes the 42mm GPS model for the all-time low price of &#36;365.28 in Rose Gold Aluminum, down from &#36;399.00.<br/>
 <br/>
-<div class="center-wrap"><a href="https://www.jdoqocy.com/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Fplus%2Fapple-iphone-16-cases"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO &#36;24 OFF</div>iPhone 16 Cases at Woot</div></a></div><br/>
+<h2>Samsung</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/10/samsung-week-sale-blue.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972559" /><br/>
+<ul><li><strong>What's the deal?</strong> Find sitewide deals during Samsung's week-long event</li><br/>
+<li><strong>Where can I get it?</strong> <a href="https://howl.me/cnlVGcT3IGL">Samsung</a><br/>
+<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2024/10/22/samsung-week-long-sale/">Right here</a></li></ul><br/>
+<div class="center-wrap"><a href="https://howl.me/cnlVGcT3IGL"target="_blank"><div class="fancybutton"><div class="fancybadge">SITEWIDE DEALS</div>Samsung Week Discount Event</div></a></div><br/>
 <br/>
-These cases are in new condition and come with a one year Apple manufacturer limited warranty. There are multiple colors on sale for each model, including Denim, Black, Lake Green, Fuchsia, and more.<br/>
+Samsung's new discount event features deals on TVs, smartphones, monitors and memory, wearables, appliances, and more. One of the most notable offers during this sale is a bundle deal with Samsung's TVs and monitors. When you <a href="https://howl.me/cnlV16oWQ0u">purchase select gaming monitors</a> at the same time as one of Samsung's OLED S95D TVs, you can save up to &#36;1,075 on your entire order.<br/>
 <br/>
-Keep up with all of this week's best discounts on Apple products and related accessories in our dedicated <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals roundup</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/23/airpods-4-drop-to-119/">AirPods 4 Drop to &#36;119 on Amazon, Plus Record Low Prices on iPhone 16 Cases</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/airpods-4-drop-to-119-on-amazon-plus-record-low-prices-on-iphone-16-cases.2440773/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Head to our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to get caught up with all of the latest deals and discounts that we've been tracking over the past week.<br/>
+<br/>
+<h3>Deals Newsletter</h3><br/>
+Interested in hearing more about top deals as we head into the holidays? <a href="http://eepurl.com/itTnTk">Sign up</a> for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!<br/>
+<br/>
+<div style="text-align:center;margin-bottom:2em;"><br/>
+<form action="http://macrumors.us5.list-manage.com/subscribe/post?u=7d0106b433773bd0aef5828e0&amp;id=eebad02bf4&amp;f_id=00fbede0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><input type="email" value="" name="EMAIL" size="30" class="required email" id="mce-EMAIL" placeholder="Enter Email Address"/><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div><div style="position: absolute; left: -5000px;"><input type="text" name="b_7d0106b433773bd0aef5828e0_eebad02bf4" tabindex="-1" value=""/></div> <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"/></form></div><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/25/best-apple-deals-of-the-week-10-25-24/">Best Apple Deals of the Week: M2 MacBook Air Gets Massive &#36;299 Discount Alongside AirPods 4 and Apple Pencil Pro Sales</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-m2-macbook-air-gets-massive-299-discount-alongside-airpods-4-and-apple-pencil-pro-sales.2440968/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>5 Reasons to Get Excited About the New Mac Mini</title>
-		<link>https://www.macrumors.com/2024/10/23/5-reasons-get-excited-upcoming-mac-mini/</link>
-		<comments>https://forums.macrumors.com/threads/5-reasons-to-get-excited-about-the-new-mac-mini.2440770/</comments>
-		<pubDate>Wed, 23 Oct 2024 06:55:33 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/23/5-reasons-get-excited-upcoming-mac-mini/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>Mac mini</category>
-		
-
-		<description><![CDATA[Apple's Mac mini has long been a powerhouse in a compact form, offering impressive performance in a small package. With rumors swirling about a completely overhauled new model that is likely just days away from being announced, anticipation is building for what Apple has in store. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/M4-Mac-mini-Silver-Perspective.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961276" /><br/>
-From enhanced connectivity to major hardware upgrades, the upcoming Mac mini promises to bring significant improvements that make it more compelling than ever. Here are five reasons to get excited about the next generation of this beloved small form-factor desktop. <br/>
-<br/>
-<h2>Major Redesign</h2><br/>
-Apple is planning to debut completely redesigned Mac mini models, according to <a href="https://www.macrumors.com/2024/08/08/mac-mini-to-become-smallest-ever-apple-computer/"><em>Bloomberg</em>'s Mark Gurman</a>. The new ‌Mac mini‌ will be the first major design change to the machine since 2010, and is expected to become Apple's smallest ever desktop computer. The slimmed down machine will retain its aluminum casing and be comparable in size to the Apple TV, though it is expected to be taller. Individuals working on the new device reportedly say that it is "essentially an iPad Pro in a small box."<br/>
-<br/>
-<h2>5 USB-C Ports</h2><br/>
-According to <a href="https://www.macrumors.com/2024/09/02/new-m4-mac-mini-5-usb-c-ports/">Mark Gurman</a> and a <a href="https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/">leaked Apple report</a>, the next Mac mini is expected to come with five USB-C ports. Similar to the Mac Studio, two of these ports are anticipated to be positioned on the front. It's likely that some of these will support Thunderbolt 4, utilizing the same USB-C interface. However, the full set of five ports might only be available on the M4 Pro versions of the Mac mini.<br/>
-<br/>
-<h2>M4 Chip</h2><br/>
-The next Mac mini will come in both M4 and M4 Pro configurations, a significant step up from the current M2 and M2 Pro models. Like the M3, the M4 is built on a 3nm process, but with enhancements from Apple supplier TSMC for improved performance and power efficiency. The M4 also includes an improved Neural Engine that fuels accelerated AI workloads. Apple says it is the company's most powerful Neural Engine ever, capable of 38 trillion operations per second, so there's plenty of scope for faster compute speeds.<br/>
-<br/>
-<h2>16GB Base RAM</h2><br/>
-<a href="https://www.bloomberg.com/news/articles/2024-08-23/when-is-apple-announcing-the-iphone-16-apple-planning-event-on-sept-10-2024"><em>Bloomberg</em>'s Mark Gurman</a> reported in <a href="https://www.macrumors.com/2024/08/26/apple-new-macs-16gb-ram-standard/">August</a> that Apple has tested four new Mac models equipped with an M4 chip, and all of them have either 16GB or 32GB of unified memory. The adequacy of 8GB of RAM in Macs has been a <a href="https://www.macrumors.com/guide/is-8gb-of-ram-enough-for-macbook-pro/#:~:text=8GB%20or%20More%20RAM%3F,run%20smoothly%20even%20during%20multitasking.">contentious issue</a> for over a decade. That has left Apple open to criticism from users who believe that 8GB is not a sufficient amount of RAM for most creative professional workflows, so the news that 16GB is likely to be the new minimum will surely be a welcome development.<br/>
-<br/>
-<h2>Apple Intelligence</h2><br/>
-Apple is expected to emphasize the artificial intelligence capabilities of the M4 chip series, and the first Apple Intelligence features are expected to arrive with the release of macOS Sequoia 15.1 on October 28, which is right around the time we are expecting a Mac mini announcement. The initial release will focus on new Siri features, Smart Replies in Mail and Messages, Priority messages in the Mail app, Memory Movie and Clean Up in Photos, and more, with additional features coming in phased updates over the next several months.<br/>
-<br/>
-<h3>Release Timing</h3><br/>
-The new-look Mac mini is expected to be announced by Apple before the end of October, with a launch to follow in early November. In his latest word on the subject, Gurman said an "M4 Mac launch" is on Apple's schedule for <a href="https://www.macrumors.com/2024/10/22/m4-mac-launch-timing-rumors/">next week</a>, but he did not mention a specific day. What are you looking forward to about the overhauled model? Let us know in the comments.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/23/5-reasons-get-excited-upcoming-mac-mini/">5 Reasons to Get Excited About the New Mac Mini</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/5-reasons-to-get-excited-about-the-new-mac-mini.2440770/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Report: Apple May Stop Producing Vision Pro by the End of 2024</title>
-		<link>https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/</link>
-		<comments>https://forums.macrumors.com/threads/report-apple-may-stop-producing-vision-pro-by-the-end-of-2024.2440767/</comments>
-		<pubDate>Wed, 23 Oct 2024 06:11:37 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
+		<title>Apple Bringing Spatial Photo and Video Support to Safari for Vision Pro Users</title>
+		<link>https://www.macrumors.com/2024/10/25/apple-vision-pro-safari-spatial-photo-video/</link>
+		<comments>https://forums.macrumors.com/threads/apple-bringing-spatial-photo-and-video-support-to-safari-for-vision-pro-users.2440965/</comments>
+		<pubDate>Fri, 25 Oct 2024 11:29:42 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/25/apple-vision-pro-safari-spatial-photo-video/</guid>
+		<dc:creator>Juli Clover</dc:creator>
 		<category>Vision Pro</category>
-		<category>Featured</category>
-		<category>Luxshare</category>
-		<category>The Information</category>
 		
 
-		<description><![CDATA[Apple has abruptly reduced production of the Vision Pro headset and could stop making the current version of the device completely by the end of 2024, <a href="https://www.theinformation.com/articles/apple-sharply-scales-back-production-of-vision-pro"><em>The Information</em></a> reports.<br/>
+		<description><![CDATA[Vision Pro users will soon be able to view spatial photos and videos in Safari, according to <a href="https://petapixel.com/2024/10/25/apple-is-adding-spatial-photo-and-video-support-to-safari/"><em>PetaPixel</em></a>. The photography site did an interview with Apple product manager Della Huff and designer Billy Sorrentino, who shared that Apple is bringing spatial photo and spatial video support to Safari.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/03/apple-vision-pro-orange.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-944159" /><br/>
-Citing multiple people "directly involved" in making components for the headset, the report says that the scaling back of production began in the early summer. This indicates that Apple now has a sufficient number of Vision Pro units in its inventory to meet demand for the device's remaining lifespan through to next year.<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/visionos-2-2d-spatial-photos.jpg" alt="" width="1793" height="1009" class="aligncenter size-full wp-image-957275" /><br/>
+Later this year, web developers will be able to add spatial photos and videos to their websites, which will be viewable in 3D on the Vision Pro.<br/>
 <br/>
-The Vision Pro is widely reported to have seen weak demand due to insufficient content and its high price point. <em>The Information</em> says that Vision Pro suppliers have now produced enough components for between 500,000 to 600,000 headsets. Some factories suspended production of Vision Pro components as early as May based on Apple's weak sales forecasts, and warehouses remain filled with tens of thousands of undelivered parts.<br/>
+Spatial photos and videos can be captured with the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> Pro and Pro Max, as well as all four <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models and the Vision Pro itself. Note that spatial photo support for the &zwnj;iPhone 15&zwnj; Pro is coming in iOS 18.1, set to be released next week. With Vision Pro and <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a>, even existing photos can have added depth.<br/>
 <br/>
-Apple is said to have recently told Luxshare, a Chinese company that serves as the Vision Pro's assembler, that it may need to wind down production in November. Luxshare is currently making around 1,000 Vision Pro headsets per day, which is half that being produced at its peak. Apple will still be able to resume Vision Pro production if sales pick up since the production lines are not yet due to be dismantled.<br/>
+As of right now, spatial photos and videos can only be viewed on Vision Pro when they're sent to you directly via Messages, email, or AirDrop, which makes it difficult to see content from other people. Browser support for spatial videos and photos will let <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> users upload their content to websites where anyone with a Vision Pro can see it in 3D.<br/>
 <br/>
-Moreover, Apple has apparently suspended work on the second-generation Vision Pro for at least a year to focus on developing a lower-cost headset. Interestingly, Apple has told suppliers to prepare to build four million low-cost headsets over the entire lifespan of the future product. This is half the total number of Vision Pros that Apple told suppliers to produce, suggesting that sales expectations are even lower for the cheaper headset.<br/>
+For those without a Vision Pro, spatial photos and videos will look like standard media embeds. "Once you embedded spatial content, folks who are on Vision Pro are getting spatial and folks who are just looking at it on their laptop see it in two dimensions," Sorrentino told <em>PetaPixel</em>.<br/>
 <br/>
-Although Apple's work on the second-generation Vision Pro has apparently stalled, there are some indications that the company could release "an incremental update to the product with limited changes to its physical design," such as a chip upgrade. This would allow Apple to use up the considerable number of excess components in its supply chain.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/luxshare/">Luxshare</a>, <a href="https://www.macrumors.com/guide/theinformation-com/">The Information</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/">Report: Apple May Stop Producing Vision Pro by the End of 2024</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/report-apple-may-stop-producing-vision-pro-by-the-end-of-2024.2440767/">Discuss this article</a> in our forums<br/><br/>]]></description>
+There is no word on exactly when spatial photo and video support will be coming to Safari, but it is expected before the end of the year so it could be included in a visionOS 2.2 update.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/25/apple-vision-pro-safari-spatial-photo-video/">Apple Bringing Spatial Photo and Video Support to Safari for Vision Pro Users</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-bringing-spatial-photo-and-video-support-to-safari-for-vision-pro-users.2440965/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Apple TV+ Shares Another Teaser Trailer for &#039;Severance&#039; Season 2</title>
-		<link>https://www.macrumors.com/2024/10/23/apple-tv-plus-severance-season-two-teaser/</link>
-		<comments>https://forums.macrumors.com/threads/apple-tv-shares-another-teaser-trailer-for-severance-season-2.2440766/</comments>
-		<pubDate>Wed, 23 Oct 2024 06:05:14 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/23/apple-tv-plus-severance-season-two-teaser/</guid>
+		<title>Review: Journey&#039;s NOVA 3-in-1 Qi2 Charging Station Powers Up Your Devices With a Unique Minimalist Design</title>
+		<link>https://www.macrumors.com/review/journey-nova-3-in-1-charging-station/</link>
+		<comments>https://forums.macrumors.com/threads/review-journeys-nova-3-in-1-qi2-charging-station-powers-up-your-devices-with-a-unique-minimalist-design.2440963/</comments>
+		<pubDate>Fri, 25 Oct 2024 11:04:14 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/review/journey-nova-3-in-1-charging-station&#038;post_date=1729890254/</guid>
+		<dc:creator>Eric Slivka</dc:creator>
+		<category>Journey</category>
+		
+
+		<description><![CDATA[3-in-1 charging stations capable of wirelessly powering up an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, an Apple Watch, and AirPods have been popular for years now, although most of them involve relatively straightforward and utilitarian designs. Accessory brand <a href="https://shareasale.com/r.cfm?b=2017698&u=63177&m=124934&urllink=&afftrack=">Journey</a> is looking to bring a bit more design flair to the category with its new <a href="https://shrsl.com/4q4vd">NOVA 3-in-1 Wireless Charging Station</a>, which will begin shipping next Monday, October 28.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/journey-nova-charger-parts.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-972694" /><br/>
+The NOVA charging station is available in Wood Grain and Sparkle Grey color options, and I've been testing out a Wood Grain model for a few days to see how it looks and performs.<br/>
+<br/>
+Overall it features a compact footprint with a vertically oriented design rather than a "tree-style" design used on some competing 3-in-1 chargers. The entire body is made of plastic, but the faux wood grain front can help it fit in depending on your decor. A pair of non-slip strips on the bottom of the charger help keep it in place and protect your surfaces from damage.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/journey-nova-charger-devices.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-972697" /><br/>
+At a little over 400 grams (0.9 pounds), the NOVA is hefty enough to remain stable with an &zwnj;iPhone&zwnj; mounted on it, yet it remains somewhat portable so it can be easily transported. It measures around 15 cm high (though an attached &zwnj;iPhone&zwnj; will raise the total height by a few centimeters) and has a footprint of around 8 cm by 9 cm.<br/>
+<br/>
+The NOVA is topped with an elevated angled surface hiding a Qi2 charging pad, allowing an &zwnj;iPhone&zwnj; to magnetically attach and charge at up to 15 watts depending on your &zwnj;iPhone&zwnj; model. The MagSafe-compatible Qi2 standard has only recently started making its way into a broad array of products, and while Apple has already one-upped Qi2 with its new 25-watt <a href="https://www.macrumors.com/guide/magsafe/">MagSafe</a> charging on the latest <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models, Qi2 should still be plenty sufficient for most users.<br/>
+<br/>
+The phone charging surface is plain plastic with no distinct pad or graphics indicating where to place the device. Magnetic alignment makes it easy to find the right spot even without those features, so it allows for a very clean look when there's no phone on the charger.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/journey-nova-charger-rear.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-972698" /><br/>
+The rear of the station includes a flip-up Apple Watch charging puck that delivers fast charging on supported Apple Watch models. The flip-up feature lets you hide the puck away while not in use and protect it if you choose to toss the charging station in a bag for travel.<br/>
+<br/>
+The rear-mounted Apple Watch puck design means your watch won't be visible while charging on a nightstand, end table, or desk, but if you're also charging a phone in either horizontal StandBy or vertical orientation, that's likely a better option for viewing the time and other information.<br/>
+<br/>
+Finally, a hollow opening oriented toward the front of the charging station serves as a spot to drop a compatible AirPods case for charging. The AirPods charging spot has a grippy pad to help keep the AirPods in position, but it doesn't include magnets to help with aligning AirPods cases with that feature. Still, the placement seems fairly forgiving to me, and I didn't have any issues getting my <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> to consistently charge.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/journey-nova-charger-light.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-972696" /><br/>
+A touch-activated light inside the opening can help you find the AirPods charging spot in the dark or even just provide a bit of light in a dark room for any other needs.<br/>
+<br/>
+The NOVA charging station comes with a 1.5-meter USB-C to USB-C cable to power the unit, although you'll have to provide your own power adapter. I always prefer that a power adapter be included in the box, especially for more premium priced accessories, so that's a bit of a downside here. Allowing you to provide your own adapter does offer more flexibility if you prefer to power it from a multi-port charger, a flat charger for tucking behind furniture, or other options, so just be aware of that potential additional cost. You'll want at least a 30-watt charger to be able to charge everything at full speed.<br/>
+<br/>
+Journey also includes an adhesive magnetic ring and alignment guide in the box, which allows you to add magnetic capabilities to older iPhones and other smartphone models that support wireless charging but not &zwnj;MagSafe&zwnj;/Qi2.<br/>
+<br/>
+The <a href="https://shrsl.com/4q4vd">NOVA 3-in-1 Wireless Charging Station</a> is normally priced at &#36;139.99, but there's currently a 20% off pre-order discount that brings the price down to &#36;112.00. Many other 3-in-1 chargers from reputable brands with &zwnj;MagSafe&zwnj;/Qi2 and Made for Apple Watch certification are in the &#36;120–&#36;150 range, so this is in the same ballpark. Remember that you do have to provide your own power adapter though, but the current pre-order discount brings things down enough to keep pricing competitive even with that possible additional cost.<br/>
+<br/>
+<em><small>Note: Journey provided MacRumors with a NOVA 3-in-1 Wireless Charging Station for the purposes of this review. No other compensation was received. MacRumors is an affiliate partner with Journey. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/journey/">Journey</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/review/journey-nova-3-in-1-charging-station/">Review: Journey&#039;s NOVA 3-in-1 Qi2 Charging Station Powers Up Your Devices With a Unique Minimalist Design</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/review-journeys-nova-3-in-1-qi2-charging-station-powers-up-your-devices-with-a-unique-minimalist-design.2440963/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Highlights &#039;Scribble to Siri&#039; Feature on iPadOS 18.1 in Interview</title>
+		<link>https://www.macrumors.com/2024/10/25/scribble-to-siri/</link>
+		<comments>https://forums.macrumors.com/threads/apple-highlights-scribble-to-siri-feature-on-ipados-18-1-in-interview.2440962/</comments>
+		<pubDate>Fri, 25 Oct 2024 10:48:12 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/25/scribble-to-siri/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple TV Plus</category>
-		<category>Apple TV Shows</category>
+		<category>iOS 18</category>
 		
 
-		<description><![CDATA[Apple TV+ today <a href="https://www.apple.com/tv-pr/news/2024/10/apple-tv-unveils-severance-season-two-teaser-ahead-of-the-highly-anticipated-return-of-the-emmy-and-peabody-award-winning-phenomenon/">shared</a> another teaser trailer for the second season of the critically-acclaimed workplace thriller "Severance."<br/>
+		<description><![CDATA[In 2020, iPadOS 14 was released with a <a href="https://www.macrumors.com/2020/06/25/ipados-14-apple-pencil-scribble/">"Scribble" feature</a> that automatically converts any handwriting written with the Apple Pencil into typed text. Scribble works in any text field, and this means the feature works with the revamped Siri on iPadOS 18.1.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/07/Apple-TV-Plus-Severance-Season-2.jpg" alt="" width="1960" height="1104" class="aligncenter size-full wp-image-958238" /><br/>
-Apple previously announced that the 10-episode second season of "Severance" will <a href="https://www.macrumors.com/2024/07/10/apple-tv-plus-severance-season-2-date/">premiere on Friday, January 17</a>, and then one episode will follow every Friday through March 21. The first season ended in April 2022, so fans have waited a long time for the show to return, partly due to the Writers Guild of America going on strike last year.<br/>
+<img src="https://images.macrumors.com/article-new/2022/08/iPadOS-Scribble-Feature.jpeg" alt="" width="1280" height="720" class="aligncenter size-full wp-image-858205" /><br/>
+iPadOS 18.1 introduces the first Apple Intelligence features, including the ability to type to Siri in an on-screen overlay. Given that Scribble works in any text field, this means you can now write a Siri query with an Apple Pencil and it will automatically be converted to typed text. Apple highlighted this "Scribble to Siri" feature, and discussed the new iPad mini, in an <a href="https://www.techradar.com/tablets/ipad-mini/apple-tells-us-why-scribble-to-siri-and-math-notes-take-the-ipad-mini-to-new-heights">interview with <em>TechRadar</em>'s Jacob Krol</a> this week.<br/>
 <br/>
-The sci-fi series revolves around the mysterious company Lumon Industries, whose employees cannot recall any memories about their personal lives while they are at work. Similarly, the employees cannot remember anything about the workplace when they are out of the office. In the second season, Apple says the employees "learn the dire consequences of trifling with the severance barrier, leading them further down a path of woe."<br/>
+Apple previously confirmed that <a href="https://www.macrumors.com/2024/10/21/airpods-pro-hearing-features-launching-in-ios-18-1/">iPadOS 18.1 will be released to the public next week</a>.<br/>
 <br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/VwP6M9zS_pQ?si=oLj7HVqSAD9SWTG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
-"Severance" was created by Dan Erickson, and Ben Stiller serves as an executive producer. The series has an ensemble cast, including Adam Scott, Britt Lower, Tramell Tillman, Zach Cherry, Christopher Walken, and others.<br/>
+Scribble works with any Apple Pencil, but the revamped version of Siri is limited to devices with Apple Intelligence, including iPad Pro, iPad Air, and iPad mini models equipped with the M1 chip, M2 chip, M4 chip, or A17 Pro chip.<br/>
 <br/>
-In the U.S., Apple TV+ costs &#36;9.99 per month or &#36;99 per year, and the service is included in all Apple One subscription bundles. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV Plus</a>, <a href="https://www.macrumors.com/guide/apple-tv-shows/">Apple TV Shows</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/23/apple-tv-plus-severance-season-two-teaser/">Apple TV+ Shares Another Teaser Trailer for &#039;Severance&#039; Season 2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-tv-shares-another-teaser-trailer-for-severance-season-2.2440766/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/10/Scribble-to-Siri.gif" alt="" width="486" height="522" class="aligncenter size-full wp-image-972887" /><em>Scribble to Siri (Credit: TechRadar)</em></div><br/>
+Typing to Siri technically already existed as an accessibility setting, but you could not easily switch between typing and talking to Siri like you can now.<br/>
+<br/>
+Read the full interview with Apple marketing employees Tom Boger and Kurt Knight <a href="https://www.techradar.com/tablets/ipad-mini/apple-tells-us-why-scribble-to-siri-and-math-notes-take-the-ipad-mini-to-new-heights">on <em>TechRadar</em></a> for more details about Scribble to Siri and more.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/25/scribble-to-siri/">Apple Highlights &#039;Scribble to Siri&#039; Feature on iPadOS 18.1 in Interview</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-highlights-scribble-to-siri-feature-on-ipados-18-1-in-interview.2440962/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>iPad Mini 7 With Apple Intelligence Available Today for Same-Day Pickup</title>
-		<link>https://www.macrumors.com/2024/10/23/ipad-mini-7-now-available-same-day-pickup/</link>
-		<comments>https://forums.macrumors.com/threads/ipad-mini-7-with-apple-intelligence-available-today-for-same-day-pickup.2440762/</comments>
-		<pubDate>Wed, 23 Oct 2024 04:16:54 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/23/ipad-mini-7-now-available-same-day-pickup/</guid>
+		<title>Apple Tested Blood Sugar App for Preventing Diabetes</title>
+		<link>https://www.macrumors.com/2024/10/25/apple-diabetes-prevention-app-test/</link>
+		<comments>https://forums.macrumors.com/threads/apple-tested-blood-sugar-app-for-preventing-diabetes.2440961/</comments>
+		<pubDate>Fri, 25 Oct 2024 10:29:57 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/25/apple-diabetes-prevention-app-test/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple Watch</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Apple has been testing a health-focused app that's aimed at diabetes prevention, reports <em><a href="https://www.bloomberg.com/news/articles/2024-10-25/apple-secretly-tests-blood-sugar-app-in-sign-of-health-ambitions">Bloomberg</a></em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>. The app isn't slated for release, but it could help inform some of Apple's future products related to blood sugar management.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/04/apple-health-app.jpg" alt="" width="2048" height="1145" class="aligncenter size-full wp-image-893452" /><br/>
+Select employees with prediabetes were invited to test the app, which offered assistance with food selection and lifestyle changes. Employees who participated confirmed that they had prediabetes with a blood test, and then actively monitored their meals and their blood sugar using glucose monitoring devices.<br/>
+<br/>
+The app was used to demonstrate to employees how healthy and unhealthy food choices could impact their blood sugar and lead to disease progression. A significant glucose spike after a carbohydrate-heavy meal, for example, could encourage testers to consume more protein and make different choices. Intervening at the prediabetes stage could help millions of people avoid developing diabetes 2.<br/>
+<br/>
+According to Gurman, Apple used the app to look at how blood sugar data could be used, and what future tools might be helpful for consumers. For the last several years, Apple has been working to add non-invasive blood glucose monitoring functionality to the Apple Watch. Currently, most blood sugar tests require a skin prick, but Apple is developing a method that uses optical absorption spectroscopy and lasers to determine the concentration of glucose in the body without puncturing the skin.<br/>
+<br/>
+<a href="https://www.macrumors.com/2023/02/22/apple-blood-glucose-monitoring-technology/">As of last year</a>, Apple's work on blood glucose monitoring had reached a "proof-of-concept" stage. Apple has a functional prototype device, but it is still much too large to incorporate into a device the size of the Apple Watch. It will likely be several more years before Apple is able to release an Apple Watch that has noninvasive blood sugar tracking features.<br/>
+<br/>
+In the meantime, Apple could develop more advanced food logging and glucose tracking tools for the Health app, expanding integration with third-party blood glucose monitors.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch 10</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/25/apple-diabetes-prevention-app-test/">Apple Tested Blood Sugar App for Preventing Diabetes</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-tested-blood-sugar-app-for-preventing-diabetes.2440961/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>The MacRumors Show: iOS 18.2 Ramps Up Apple Intelligence</title>
+		<link>https://www.macrumors.com/2024/10/25/the-macrumors-show-ios-18-2-apple-intelligence/</link>
+		<comments>https://forums.macrumors.com/threads/the-macrumors-show-ios-18-2-ramps-up-apple-intelligence.2440953/</comments>
+		<pubDate>Fri, 25 Oct 2024 08:26:54 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/25/the-macrumors-show-ios-18-2-apple-intelligence/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Featured</category>
+		<category>Featured (sticky)</category>
+		<category>The MacRumors Show</category>
+		
+
+		<description><![CDATA[On this week's episode of <a href="https://podcasts.apple.com/podcast/ios-18-2-ramps-up-apple-intelligence/id1602394741?i=1000674458981">The MacRumors Show</a>, we discuss the first beta version of iOS 18.2 – a significant update that continues the rollout of Apple Intelligence.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/gVlkfS9DHn0?si=-eCEM3DCujIvSLte" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1">Subscribe to The MacRumors Show YouTube channel</a> for more videos</em></div><br/>
+iOS 18.1 will bring the first Apple Intelligence features to Apple devices. The update includes Writing Tools, the ability for <a href="https://www.macrumors.com/guide/siri/">Siri</a> to answer Apple product questions, smart replies to emails and messages, audio transcripts, the Reduce Interruptions Focus Mode, and a new Clean Up tool in <a href="https://www.macrumors.com/guide/photos/">Photos</a>, as well as email, text, and notification summaries. iOS 18.1 is expected to be officially released on Monday, October 28.<br/>
+<br/>
+<ul><li><a href="https://www.macrumors.com/guide/ios-18-2-beta-features/">Everything New in iOS 18.2 Beta 1</a></li></ul><br/>
+<br/>
+Ahead of this, Apple this week <a href="https://www.macrumors.com/2024/10/23/apple-releases-ios-18-2/">seeded the first beta version</a> of iOS 18.2 to developers. The update further expands Apple Intelligence's capabilities, with new Mail app categories, Image Playground to generate pictures, Image Wand in Notes, Genmoji to create custom emojis, ChatGPT integration in &zwnj;Siri&zwnj;, Visual Intelligence on <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models, expanded Writing Tools, and support for regional versions of English outside the United States.<br/>
+<br/>
+<a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a> has <a href="https://www.youtube.com/@themacrumorsshow">its own YouTube channel</a>, so make sure you're subscribed to keep up with new episodes and clips:<br/>
+<br/>
+<div class="center-wrap"><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1"><div class="fancybutton">Subscribe to <em>The MacRumors Show</em> YouTube channel!</div></a></div><br/>
+<br/>
+You can also listen to &zwnj;The MacRumors Show&zwnj; on <a href="https://podcasts.apple.com/podcast/id1602394741">Apple Podcasts</a>, <a href="https://open.spotify.com/show/41XOHIA6w8IxAKJZvrnx90">Spotify</a>, <a href="https://overcast.fm/itunes1602394741">Overcast</a>, or your preferred podcasts app. You can also <a href="https://audioboom.com/channels/5096144.rss">copy our RSS feed</a> directly into your podcast player.<br/>
+<br/>
+<div class="center-wrap"><iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/the-macrumors-show/id1602394741?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe></div><br/>
+If you haven't already listened to the <a href="https://www.macrumors.com/2024/10/18/the-macrumors-show-ipad-mini-7-is-here/">previous episode of The MacRumors Show</a>, catch up for our discussion about the new <a href="https://www.macrumors.com/guide/ipad-mini-7/">iPad mini 7</a>, Apple Intelligence and Genmoji, and the chances of an October Apple event to introduce M4 Macs.<br/>
+<br/>
+Subscribe to &zwnj;The MacRumors Show&zwnj; for new episodes every week, where we discuss some of the topical news breaking here on <em>MacRumors</em>, often joined by interesting guests such as <a href="https://www.macrumors.com/2024/07/05/the-macrumors-show-luke-miani-talks-apple-watch-x/">Luke Miani</a>, <a href="https://www.macrumors.com/2024/04/12/the-macrumors-show-matthew-cassinelli/">Matthew Cassinelli</a>, <a href="https://www.macrumors.com/2024/02/23/the-macrumors-show-brian-tong-vision-pro/">Brian Tong</a>, <a href="https://www.macrumors.com/2024/02/09/the-macrumors-show-one-week-with-vision-pro/">Quinn Nelson</a>, <a href="https://www.macrumors.com/2023/11/24/the-macrumors-show-kevin-nether-talks-iphone-16/">Kevin Nether</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Jared Nelson</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Eli Hodapp</a>, <a href="https://www.macrumors.com/2023/10/13/the-macrumors-show-former-apple-executive-mike-bell/">Mike Bell</a>, <a href="https://www.macrumors.com/2023/10/06/the-macrumors-show-sara-dietschy-apple-accessories/">Sara Dietschy</a>, <a href="https://www.macrumors.com/2023/09/15/the-macrumors-show-ijustine-talks-iphone-15/">iJustine</a>, <a href="https://www.macrumors.com/2023/08/25/the-macrumors-show-iphone-15-jon-rettinger/">Jon Rettinger</a>, <a href="https://www.macrumors.com/2023/02/10/the-macrumors-show-andru-edwards-iphone-ultra/">Andru Edwards</a>, <a href="https://www.macrumors.com/2023/05/26/the-macrumors-show-arnold-kim/">Arnold Kim</a>, <a href="https://www.macrumors.com/2023/05/19/the-macrumors-show-ben-sullins-apple-car/">Ben Sullins</a>, <a href="https://www.macrumors.com/2023/04/07/the-macrumors-show-marcus-kane-headset-design/">Marcus Kane</a>, <a href="https://www.macrumors.com/2023/03/24/the-macrumors-show-christopher-lawley-talks-ipados/">Christopher Lawley</a>, <a href="https://www.macrumors.com/2023/03/10/the-macrumors-show-frank-mcshan-yellow-iphone-14/">Frank McShan</a>, <a href="https://www.macrumors.com/2023/02/24/the-macrumors-show-david-lewis-talks-apple-audio/">David Lewis</a>, <a href="https://www.macrumors.com/2023/01/27/the-macrumors-show-tyler-stalman-new-macs/">Tyler Stalman</a>, <a href="https://www.macrumors.com/2022/12/23/the-macrumors-show-apple-2022-jon-prosser-sam-kohl/">Jon Prosser</a>, <a href="https://www.macrumors.com/2022/09/02/the-macrumors-show-apple-event-expectations/">Sam Kohl</a>, <a href="https://www.macrumors.com/2022/11/09/the-macrumors-show-john-gruber-talks-macos-ventura/">John Gruber</a>, <a href="https://www.macrumors.com/2022/10/28/the-macrumors-show-ipados-16-ft-federico-viticci/">Federico Viticci</a>, <a href="https://www.macrumors.com/2022/08/26/the-macrumors-show-thomas-frank-talks-productivity/">Thomas Frank</a>, <a href="https://www.macrumors.com/2022/07/21/the-macrumors-show-jonathan-morrison/">Jonathan Morrison</a>, <a href="https://www.macrumors.com/2022/07/12/the-macrumors-show-ross-young/">Ross Young</a>, <a href="https://www.macrumors.com/2022/06/21/the-macrumors-show-ian-zelbo/">Ian Zelbo</a>, and <a href="https://www.macrumors.com/2022/03/25/the-macrumors-show-rene-ritchie-talks-mac-studio/">Rene Ritchie</a>.<br/>
+<br/>
+&zwnj;The MacRumors Show&zwnj; is on X <a href="https://twitter.com/macrumorsshow">@MacRumorsShow</a><a href="https://twitter.com/macrumorsshow"></a>, so be sure to give us a follow to keep up with the podcast. You can also head over to <a href="https://forums.macrumors.com/threads/the-macrumors-show-discussion-thread.2383023/">The MacRumors Show</a> forum thread to engage with us directly. Remember to rate and review the podcast, and let us know what subjects and guests you would like to see in the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/25/the-macrumors-show-ios-18-2-apple-intelligence/">The MacRumors Show: iOS 18.2 Ramps Up Apple Intelligence</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-macrumors-show-ios-18-2-ramps-up-apple-intelligence.2440953/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Are We Free From Price Increases to Apple Services This Year?</title>
+		<link>https://www.macrumors.com/2024/10/25/no-apple-services-price-increases-in-2024-yet/</link>
+		<comments>https://forums.macrumors.com/threads/are-we-free-from-price-increases-to-apple-services-this-year.2440951/</comments>
+		<pubDate>Fri, 25 Oct 2024 08:05:29 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/25/no-apple-services-price-increases-in-2024-yet/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Apple announced price increases for some of its subscription-based services <a href="https://www.macrumors.com/2022/10/24/apple-price-increase-services/">on October 24, 2022</a>, and again <a href="https://www.macrumors.com/2023/10/25/apple-services-price-increases/">on October 25, 2023</a>, but no such announcement has been made as the same week of October comes to an end this year. Hopefully, that means no price increases are planned for the likes of Apple Music and Apple TV+ this year, but knock on wood.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2020/09/Apple-One-Apps-Feature-2.jpg" alt="" width="1012" height="601" class="aligncenter size-full wp-image-760995" /><br/>
+Here are the current monthly prices of Apple's services in the U.S.:<ul><li>Apple News+: &#36;12.99 per month</li><br/>
+<li>Apple Music: &#36;10.99 per month</li><br/>
+<li>Apple TV+: &#36;9.99 per month</li><br/>
+<li>Apple Fitness+: &#36;9.99 per month</li><br/>
+<li>Apple Arcade: &#36;6.99 per month</li></ul><a href="https://www.macrumors.com/guide/apple-one/">Apple One subscription bundle</a> prices have not changed either.<br/>
+<br/>
+Take this as a bit of good news on a Friday, or we reminded Apple that it still needs to increase prices and we will forever regret publishing this story.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/25/no-apple-services-price-increases-in-2024-yet/">Are We Free From Price Increases to Apple Services This Year?</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/are-we-free-from-price-increases-to-apple-services-this-year.2440951/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Here Are All the New Features Coming to macOS Sequoia Next Week</title>
+		<link>https://www.macrumors.com/2024/10/25/new-features-macos-sequoia-next-week/</link>
+		<comments>https://forums.macrumors.com/threads/here-are-all-the-new-features-coming-to-macos-sequoia-next-week.2440949/</comments>
+		<pubDate>Fri, 25 Oct 2024 07:45:18 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/25/new-features-macos-sequoia-next-week/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple Intelligence</category>
+		
+
+		<description><![CDATA[On October 28, Apple is expected to release macOS Sequoia‌ 15.1, bringing to Macs the first Apple Intelligence features such as Writing Tools, new Siri features, Smart Replies, and more. In addition, macOS 15.1 adds a handful of welcome tweaks and improvements to existing Mac capabilities. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/macOS-Sequoia-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955370" /><br/>
+Here's what we can expect from the first major update to macOS Sequoia later this month. Note that Apple Intelligence features require Macs powered by Apple silicon.<br/>
+<br/>
+<h2>iPhone Mirroring Drag and Drop Support</h2><br/>
+One of the most anticipated iPhone Mirroring features coming in macOS 15.1 is support for drag and drop. After updating to the new software, you will be able to drag files from an ‌iPhone‌ to a Mac and vice versa. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/iphone-mirroring-drag-and-drop.jpg" alt="finder" width="2940" height="1912" class="aligncenter size-full wp-image-969047" /><br/>
+‌iPhone‌ Mirroring makes file transfers between devices effortless, even when the ‌iPhone‌ is locked and charging. With an iPhone running iOS 18.1, you can drag files, such as photos, from your Mac directly to the open Photos app on your ‌iPhone‌, and they'll transfer instantly. For PDFs, open the Files app and drag the document from your Mac to the ‌iPhone‌. Transferring files from ‌iPhone‌ to Mac follows the same process — simply drag the file to your desired location on the Mac.<br/>
+<br/>
+<h2>New Low Power Mode Toggle</h2><br/>
+Low Power Mode is a long-standing ‌iPhone‌ feature for conserving battery, and was introduced to the Mac with macOS Monterey. Since then, it has remained hidden in System Settings, but in macOS 15.1, Apple is simplifying access by adding a Low Power Mode toggle to the Battery menu for MacBook users, allowing it to be enabled or disabled in just two clicks. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/low-power-mode.jpg" alt="Mac" width="1456" height="622" class="aligncenter size-full wp-image-969049" /><br/>
+The battery icon also now turns yellow when Low Power Mode is active, similar to iOS. It's worth noting that some advanced settings, like automatically enabling Low Power Mode when unplugged, remain within System Settings. When enabled, Low Power Mode optimizes the system to conserve energy by slightly reducing performance, suspending background tasks, lowering screen brightness, and capping ProMotion display refresh rates at 60Hz where applicable.<br/>
+<br/>
+<h2>Writing Tools </h2><br/>
+<h3>Apple Intelligence</h3><br/>
+You can select any text on your Mac and use Apple Intelligence to access Writing Tools for summaries and other features. The proofreading feature scans your text for spelling and grammar errors, providing suggestions for word choice and sentence structure improvements. You can quickly accept all recommendations or review them individually with accompanying explanations.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/writing-tools-macos-01.jpg" alt="" width="2022" height="756" class="aligncenter size-full wp-image-969201" /><br/>
+If you're looking to refine your writing style, the rewrite function allows for tone adjustment without altering the core content. You can choose from options such as Friendly, Professional, or Concise to tailor your message to your intended audience.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/writing-tools-macos.jpg" alt="" width="2266" height="804" class="aligncenter size-full wp-image-969200" /><br/>
+Additionally, the update introduces versatile summarization capabilities. You can select text and generate concise summaries in various formats, including paragraphs, key points, lists, or tables. This feature seamlessly integrates with apps like Mail and Messages, making it easier to distill and share written information.<br/>
+<br/>
+<h2>Enhanced Siri</h2><br/>
+<h3>Apple Intelligence</h3><br/>
+The Siri window now offers greater flexibility, allowing you to position it anywhere on their screen. A new responsive glow animation provides visual feedback, indicating when Siri is actively listening without disrupting ongoing tasks.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/siri-macos-15.jpg" alt="siri" width="1315" height="713" class="aligncenter size-full wp-image-969203" /><br/>
+If you prefer typing, the Type to Siri feature can be quickly accessed by double-pressing the Command key, and it now includes suggested requests. Siri's improved contextual awareness also lets you ask follow-up questions without repeating previously established information.<br/>
+<br/>
+The update also brings more natural language processing capabilities. Siri can now better understand and interpret you if you stumble over your words or change direction mid-sentence, making interactions feel more conversational and less rigid.<br/>
+<br/>
+Lastly, Siri's knowledge base has been expanded to include comprehensive information about Apple products and support, so you can inquire about device features and settings. Siri can even locate specific settings even if you're unsure of their exact names.<br/>
+<br/>
+<h2>Smart Replies and Mail Summaries</h2><br/>
+<h3>Apple Intelligence</h3><br/>
+To facilitate faster responses, Mail and Messages now include a Smart Reply feature. This intelligent system offers contextual quick-tap responses based on the content of received messages, allowing you to reply promptly with minimal effort.<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/mail-smart-reply.jpg" alt="" width="1670" height="946" class="aligncenter size-full wp-image-969205" /><br/>
+<br/>
+In Mail, a new summarize button allows you to quickly distill the content of incoming emails, providing concise overviews at a glance. This feature also extends to multiple Messages notifications and your Mail inbox, where brief summaries replace the first few lines of each message. Mail also prioritizes time-sensitive communications by automatically elevating them to the top of your inbox. <br/>
+<br/>
+<h2>Photos Cleanup Tool</h2><br/>
+<h3>Apple Intelligence</h3><br/>
+With macOS Sequoia 15.1, Apple is bringing a powerful new feature to the Photos app called Clean Up. Thanks to advanced object detection algorithms, this editing tool can automatically identify potentially unwanted objects in your images, allowing you to effortlessly remove them.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/macos-15-1-cleanup-tool1.jpg" alt="" width="1578" height="1176" class="aligncenter size-full wp-image-969212" /><br/>
+At the same time, users retain full control over the editing process, with the ability to manually select objects for removal by clicking, circling, or brushing over them.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/macos-15-1-cleanup-tool2.jpg" alt="photos" width="1566" height="1172" class="aligncenter size-full wp-image-969213" /><br/>
+You can zoom in on images to meticulously remove smaller blemishes or imperfections using brush strokes. Notably, Clean Up is designed to preserve the integrity of main subjects like people, even if they are inadvertently selected during the editing process.<br/>
+<br/>
+<h2>Transcription Summaries</h2><br/>
+<h3>Apple Intelligence</h3><br/>
+In macOS Sequoia, Apple added a transcription feature to Notes that lets you capture audio recordings and automatically generates a verbatim transcript of the content. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/transcription-summary-macos.jpg" alt="notes" width="2108" height="1110" class="aligncenter size-full wp-image-969218" /><br/>
+In macOS Sequoia 15.1, the feature also provides a concise summary of the transcribed text, offering a quick overview of the recorded material. The transcript is useful for recording lectures and meetings as it ensures that no important details are missed, while the addition of a summary provides a quick reference for key topics, action items, or main discussion points.<br/>
+<br/>
+<h2>Focus Modes</h2><br/>
+<h3>Apple Intelligence</h3><br/>
+A dedicated new Reduce Interruptions Focus Mode filters out all but the most important notifications, ensuring you only see those that require your attention.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/reduce-interruptions-focus.jpg" alt="" width="1498" height="828" class="aligncenter size-full wp-image-969210" /><br/>
+When customizing or creating a new Focus mode, there's a new option to enable Intelligent Breakthrough and Silencing. This feature lets critical notifications come through while muting less important ones, similar to how the Reduce Notifications Focus works.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/25/new-features-macos-sequoia-next-week/">Here Are All the New Features Coming to macOS Sequoia Next Week</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/here-are-all-the-new-features-coming-to-macos-sequoia-next-week.2440949/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18.2 Adds Daily Sudoku Puzzles for Apple News+ Subscribers in U.S.</title>
+		<link>https://www.macrumors.com/2024/10/25/ios-18-2-adds-sudoku-to-apple-news-plus/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-2-adds-daily-sudoku-puzzles-for-apple-news-subscribers-in-u-s.2440947/</comments>
+		<pubDate>Fri, 25 Oct 2024 07:36:27 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/25/ios-18-2-adds-sudoku-to-apple-news-plus/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iOS 18</category>
+		<category>Apple News</category>
+		
+
+		<description><![CDATA[Starting with iOS 18.2, Apple News+ subscribers in the U.S. have access to daily sudoku puzzles, with easy, moderate, and challenging difficulty levels.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/Sudoku-Apple-News-iOS-18.1-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972812" /><br/>
+A scoreboard tracks your sudoku stats, including your total number of puzzles solved, fastest completion times per difficulty level, and more.<br/>
+<br/>
+Sudoku is also available in Apple News+ on iPadOS 18.2, and likely macOS Sequoia 15.2. It is the fourth puzzle game to be included with an Apple News+ subscription, alongside Crossword, Crossword Mini, and <a href="https://www.macrumors.com/2024/04/10/ios-17-5-apple-news-quartiles-game/">Quartiles</a>.<br/>
+<br/>
+In the U.S., Apple News+ costs &#36;12.99 per month, and the service is also included in the Apple One Premier subscription bundle alongside Apple Music, Apple TV+, Apple Arcade, Apple Fitness+, and iCloud+ with 2TB of storage for &#36;37.95 per month.<br/>
+<br/>
+The first iOS 18.2 beta was released this week for devices with Apple Intelligence support, including iPhone 15 Pro models and all iPhone 16 models. The software update is expected to be widely released to the public in December.<br/>
+<br/>
+iOS 18.2 also includes additional Apple Intelligence features, such as Image Playground and Genmoji. Check out our list of <a href="https://www.macrumors.com/guide/ios-18-2-beta-features/">everything new in the first iOS 18.2 beta</a> for an overview of most of the new features and changes discovered so far.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-news/">Apple News</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/25/ios-18-2-adds-sudoku-to-apple-news-plus/">iOS 18.2 Adds Daily Sudoku Puzzles for Apple News+ Subscribers in U.S.</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-2-adds-daily-sudoku-puzzles-for-apple-news-subscribers-in-u-s.2440947/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Announces Announcements Next Week: What NOT to Expect</title>
+		<link>https://www.macrumors.com/2024/10/25/what-not-to-expect-apple-october-announcements/</link>
+		<comments>https://forums.macrumors.com/threads/apple-announces-announcements-next-week-what-not-to-expect.2440945/</comments>
+		<pubDate>Fri, 25 Oct 2024 07:02:28 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/25/what-not-to-expect-apple-october-announcements/</guid>
 		<dc:creator>Tim Hardwick</dc:creator>
 		<category>Featured</category>
-		<category>iPad mini</category>
-		<category>Apple Intelligence</category>
 		
 
-		<description><![CDATA[Starting today, Apple's new iPad mini 7 with A17 Pro chip is available for same-day or next-day pickup at Apple Stores, with no pre-order required. Online orders are also beginning to arrive to customers today.<br/>
+		<description><![CDATA[Apple has teased an "<a href="https://www.macrumors.com/2024/10/24/apple-m4-announcements-next-week/">exciting week of announcements</a>" starting on Monday, and going on its teaser image, new Macs are sure to feature prominently. However, there are some hardware updates on Apple's roadmap that are unlikely to be a part of those announcements.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/10/ipad-mini-7-1.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-972160" /><br/>
-Customers across Europe, Asia, and other regions can now place an order on Apple's website or in the Apple Store app and arrange for in-store pickup at a local retail location. Apple has yet to update its online store for customers in the United States and Canada, but that will change in the next couple of hours.<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/10.28.24-Event-What-Not-To-Expect-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972803" /><br/>
+Below, we've recapped what <em>not</em> to expect from Apple's series of product announcements through the last week of October going into November.<br/>
 <br/>
-To order a product with ‌Apple Store‌ pickup, add the product to your bag on Apple.com, proceed to checkout, select the "I'll pick it up" option, enter your ZIP code, choose an available ‌Apple Store‌ location, and select a pickup date. Payment is completed online, and a valid government-issued photo ID and the order number may be required upon pickup.<br/>
+<h2>M4 MacBook Air</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/05/m3-macbook-air-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-950298" /><br/>
+Apple in March 2024 launched updated 13-inch and 15-inch MacBook Air models equipped with Apple's M3 chip, and the company will soon start production of M4 versions ahead of an early 2025 launch, according to <a href="https://www.macrumors.com/2024/08/09/when-to-expect-m4-macbook-air-mac-studio-mac-pro/"><em>Bloomberg</em>'s Mark Gurman</a>. There are no new design changes planned for the ‌MacBook Air‌ models, and the focus will be on the M4 chip. The ‌machines will arrive next year between January and March. <br/>
 <br/>
-The iPad mini is Apple's smallest tablet device and the latest model features a slim-bezeled design, an A17 Pro chip with support for Apple Intelligence features that are coming in iPadOS 18.1, a USB-C port, and Apple Pencil Pro support. Base storage has been doubled, so the entry-level iPad mini starts with 128GB of storage, up from 64GB. 256GB and 512GB options are available as upgrades.<br/>
+<h2>M4 Mac Studio</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/04/M4-Mac-Studio-Feature.jpg" alt="" width="2672" height="1503" class="aligncenter size-full wp-image-946114" /><br/>
+Apple plans to refresh the Mac Studio after the M4 MacBook Air has been released in early 2025. It will be equipped with a variation of the M4 processor, which could be an M4 Ultra or Max chip. The current model comes in both M2 Max and M2 Ultra variants. Mark Gurman claims that the ‌Mac Studio‌ was on track to be updated alongside the ‌MacBook Air‌, but it is now going to see a refresh <a href="https://www.macrumors.com/2024/10/23/m4-macbook-air-production-beginning-soon/">between March and June</a>. In previous reports, he said the ‌Mac Studio‌ would come out in <a href="https://www.macrumors.com/2024/10/07/m4-mac-studio-m4-mac-pro-2025/">mid-2025</a>, so it is unclear what has changed. <br/>
 <br/>
-The 12MP wide back camera on the new iPad mini now supports Smart HDR 4 and uses machine learning to detect and scan documents right in the Camera app, while the USB-C port delivers 2x faster wired connections than the previous generation, with data transfers up to 10Gbps. The iPad mini 7's cellular version supports sub-6GHz 5G, and now includes Wi-Fi 6E for faster 6GHz connections. Bluetooth is improved to version 5.3, and Apple has replaced the nano-SIM slot with eSIM-only connectivity worldwide.<br/>
+<h2>M4 Mac Pro</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/04/M4-Mac-Pro-Feature-Warm-2.jpg" alt="" width="2672" height="1503" class="aligncenter size-full wp-image-948229" /><br/>
+Apple last updated the Mac Pro in June 2023, adding an M2 Ultra chip and officially completing the transition away from Intel chips. Apple will refresh the Mac Pro in the <a href="https://www.macrumors.com/2024/10/23/m4-macbook-air-production-beginning-soon/">summer of 2025</a>, according to Mark Gurman. Like the Mac Studio, the next Mac Pro will skip the M3 series. Instead it will be equipped with the highest-end version of the M4 chip, codenamed "Hidra." Based on the description of the chip, it could be positioned as an "Ultra" or "Extreme" chip. It could also support up to 512GB of memory, a notable increase over the current 192GB limit. <br/>
 <br/>
-Note that iPad mini models sold in Europe <a href="https://www.macrumors.com/2024/10/15/whats-in-the-ipad-mini-7-box/">do not come with a power adapter</a> in the box, whereas models sold in the US do include a 20W USB-C adapter.<br/>
+<h2>iPhone SE 4</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/05/iPhone-SE-4-Thumb-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-951978" /><br/>
+Apple plans to release a new iPhone SE with Apple Intelligence support early next year, with a launch in March or April most likely, <a href="https://www.macrumors.com/2024/10/01/new-iphone-se-and-ipad-air-early-2025-rumor/">according to Mark Gurman</a>. The fourth-generation iPhone SE is expected to have a similar design as the base iPhone 14, with rumored features including a 6.1-inch OLED display, Face ID, a newer A-series chip, a USB-C port, a single 48-megapixel rear camera, 8GB of RAM for Apple Intelligence support, and an Apple-designed 5G modem. Supply chain analyst Ming-Chi Kuo claims that Apple suppliers will begin mass production in <a href="https://www.macrumors.com/2024/10/23/iphone-se-4-mass-production-timeframe/">December</a>.<br/>
 <br/>
-The iPad mini comes in four colors, including Blue, Starlight, Purple, and Space Gray. It starts at &#36;499 for the 128GB Wi-Fi-only model, going up to &#36;799 for the 512GB model. Cellular models are available for &#36;150 more over the base price of each configuration. Apple is also selling new &#36;59 Smart Folio cases for the iPad mini in matching colors, while the Apple Pencil Pro that works with the iPad mini is available for &#36;129. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad_Mini">iPad Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/23/ipad-mini-7-now-available-same-day-pickup/">iPad Mini 7 With Apple Intelligence Available Today for Same-Day Pickup</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipad-mini-7-with-apple-intelligence-available-today-for-same-day-pickup.2440762/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<h2>iPad</h2><br/>
+<img src="https://images.macrumors.com/article-new/2022/10/10th-Gen-iPad-Feature-Fanned-Pink.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-869882" /><br/>
+Apple has already updated the iPad Air and iPad Pro this year, and the company released the new iPad mini 7 earlier this month, which leaves the entry-level iPad as the most likely candidate next in line to receive an update. Don't expect an announcement next week though.<br/>
+<br/>
+Apple's most affordable iPad model will receive an 11th-generation update with Apple Intelligence capabilities in <a href="https://www.macrumors.com/2024/10/21/entry-level-ipad-apple-intelligence-late-2025/">late 2025</a>, according to Mark Gurman. The timeline indicates a significant gap since the last refresh of the entry-level iPad, which occurred in October 2022. The delayed update could be attributed to the technical requirements of implementing AI capabilities in a budget-friendly &#36;349 device.<br/>
+<br/>
+<h2>AirPods Pro 3</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/09/airpods-pro-2-gradient.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-967392" /><br/>
+Despite being released over two years ago, Apple's AirPods Pro 2 continue to dominate the wireless earbud market, but they aren't expected to see a refresh until <a href="https://www.macrumors.com/2023/10/25/airpods-lineup-overhaul-2024/">next year</a>, according to Gurman. The 2025 ‌AirPods Pro‌ will be updated with a new design and a faster chip, plus the earbuds will inherit Apple's upcoming new <a href="https://www.apple.com/airpods-pro/hearing-health/">hearing health features</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/25/what-not-to-expect-apple-october-announcements/">Apple Announces Announcements Next Week: What NOT to Expect</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-announces-announcements-next-week-what-not-to-expect.2440945/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>iPad Mini 7 Supports Over-the-Air Recovery Using Another iOS Device</title>
-		<link>https://www.macrumors.com/2024/10/23/ipad-mini-7-ota-recovery-ios-device/</link>
-		<comments>https://forums.macrumors.com/threads/ipad-mini-7-supports-over-the-air-recovery-using-another-ios-device.2440760/</comments>
-		<pubDate>Wed, 23 Oct 2024 03:29:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/23/ipad-mini-7-ota-recovery-ios-device/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iPad mini</category>
+		<title>YouTuber Creates the Apple Event We Aren&#039;t Getting This Month</title>
+		<link>https://www.macrumors.com/2024/10/25/youtuber-creates-an-apple-event/</link>
+		<comments>https://forums.macrumors.com/threads/youtuber-creates-the-apple-event-we-arent-getting-this-month.2440942/</comments>
+		<pubDate>Fri, 25 Oct 2024 06:08:38 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/25/youtuber-creates-an-apple-event/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Jon Prosser</category>
 		
 
-		<description><![CDATA[In iOS 18, Apple includes a new over-the-air recovery feature designed to revive bricked iPhone 16 devices using another iPhone or an iPad, and it appears that the same feature can be used to recover the new iPad mini 7, too.<br/>
+		<description><![CDATA[Apple's marketing chief Greg Joswiak on Thursday <a href="https://www.macrumors.com/2024/10/24/apple-m4-announcements-next-week/">teased an "exciting week of announcements"</a> planned next week, and that likely rules out a prerecorded Apple Event video this month, despite Apple streaming a short, spooky "Scary Fast" event last October.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/10/ipad-mini-7-feature-blue.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-972027" /><br/>
-In iOS 18, placing an iPhone 16 next to another iPhone or iPad can start an over-the-air firmware recovery – the other device downloads a new iOS firmware and transfers it to the bricked device, removing the need to connect it to a computer. ‌This contrasts with iPhone 15 and earlier models, which require connection to a Mac or PC to restore the firmware.<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/Jon-Prosser-MacBook-Pro-Render.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-972805" /><br/>
+Nevertheless, YouTube channel Front Page Tech has stepped in with its own rendition of the Apple Event we aren't getting this month. In the video, Jon Prosser does his best impression of Apple CEO Tim Cook and announces all of the rumored new Macs with M4 chips. The video is somewhat of a parody, so don't take it too seriously, but it's also an impressive production feat that Prosser's team spent nearly a month working on.<br/>
 <br/>
-<em><a href="https://9to5mac.com/2024/10/22/ipad-mini-7-restored-wirelessly/">9to5Mac</a></em> today reports that the firmware shipped with the iPad mini 7, which is powered by an A17 Pro chip, includes the same RecoveryOS partition that was added to the iPhone 16 models. The finding puts to bed the earlier theory that the RecoveryOS partition was something exclusive to the A18 chip in the iPhone 16.<br/>
-<br/>
-Evidence that Apple has been working on an over-the-air recovery method for iOS devices first appeared <a href="https://www.macrumors.com/2020/02/26/ios-13-4-over-the-air-recovery-feature/">way back in iOS 13.4</a>. Whether Apple intends to add the functionality to other iPhone or iPad models via a software update remains unclear. Apple introduced the iPad mini 7 on October 15, and the first pre-orders are arriving in the hands of customers today.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad_Mini">iPad Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/23/ipad-mini-7-ota-recovery-ios-device/">iPad Mini 7 Supports Over-the-Air Recovery Using Another iOS Device</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipad-mini-7-supports-over-the-air-recovery-using-another-ios-device.2440760/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/H8lEZKazs70?si=UDpesdM7GDRrkBpl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+After you are done watching, check out our own <a href="https://www.macrumors.com/2024/10/24/what-to-expect-from-apple-announcements-next-week/">recap of everything that Apple is expected to announce next week</a> to learn more.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/jon-prosser/">Jon Prosser</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/25/youtuber-creates-an-apple-event/">YouTuber Creates the Apple Event We Aren&#039;t Getting This Month</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/youtuber-creates-the-apple-event-we-arent-getting-this-month.2440942/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Craig Federighi Explains Phased Release of Apple Intelligence Features</title>
-		<link>https://www.macrumors.com/2024/10/23/craig-federighi-phased-release-apple-intelligence/</link>
-		<comments>https://forums.macrumors.com/threads/craig-federighi-explains-phased-release-of-apple-intelligence-features.2440759/</comments>
-		<pubDate>Wed, 23 Oct 2024 02:59:36 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/23/craig-federighi-phased-release-apple-intelligence/</guid>
+		<title>iOS 18.1: How to Record and Transcribe Phone Calls</title>
+		<link>https://www.macrumors.com/how-to/ios-record-your-phone-calls/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-1-how-to-record-and-transcribe-phone-calls.2440927/</comments>
+		<pubDate>Fri, 25 Oct 2024 03:21:32 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/ios-record-your-phone-calls&#038;post_date=1729862492/</guid>
 		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Apple Intelligence</category>
-		<category>Craig Federighi</category>
+		<category>Featured</category>
 		
 
-		<description><![CDATA[In a new interview with <em><a href="https://www.youtube.com/watch?v=fr8ALcEiYAk">The Wall Street Journal</a></em>, Apple's head of software Craig Federighi has highlighted the company's measured, multi-phase approach to introducing Apple Intelligence features, with the initial iOS 18.1 release next week marking just the beginning of a staggered rollout over several months.<br/>
+		<description><![CDATA[From business meetings to family memories, there are countless reasons to record a phone call, but until now, iPhone users have had to rely on third-party apps or complex workarounds. That changes on October 28 with the release of iOS 18.1, which introduces native call recording and transcription powered by Apple Intelligence. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/call-recording-ios-18-1.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-972752" /><br/>
+Apple's new Phone app feature not only records conversations but automatically creates searchable transcripts and AI-generated summaries, all while maintaining Apple's commitment to privacy and transparency. When you start recording, all participants automatically hear an announcement, ensuring everyone knows they're being recorded. A visible indicator also remains on screen throughout the call for as long as the recording continues. <br/>
+<br/>
+To further protect user privacy, all recordings are stored locally in the Notes app with end-to-end encryption, and the new Apple Intelligence-powered transcription happens entirely on your device, meaning conversations never leave your iPhone. Here's how to make your first phone call recording in iOS 18.1.<br/>
+<br/>
+<h2>Recording a Phone Call</h2><br/>
+<ol><br/>
+  <li>Start or answer a phone call.</li><br/>
+  <li>Tap the record button (the waveform icon) in the top-left corner of the call screen.</li><br/>
+  <li>An automated voice will notify all participants that recording has begun.</li><br/>
+  <li>The recording will automatically save to the Notes app when the call ends or when you stop the recording.</li><br/>
+</ol><img src="https://images.macrumors.com/article-new/2024/10/ios-18-1-call-recording-steps.jpg" alt="phone" width="1600" height="900" class="aligncenter size-full wp-image-972760" /><br/>
+<br/>
+<h2>Finding and Managing Phone Call Recordings</h2><br/>
+Once saved, recordings appear in the Notes app as audio files with attached transcripts. Tap any recording to access a range of options: You can play back the audio, read the full transcript, view an AI-generated summary of the conversation, or share and delete recordings as needed.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/07/ios-18-1-call-recording-2.jpg" alt="" width="2000" height="1289" class="aligncenter size-full wp-image-960200" /><br/>
+<br/>
+<h2>Legal Considerations</h2> <br/>
+While iOS 18.1 makes recording calls easier than ever, it's important to understand your legal obligations. Although Apple's automated announcement helps ensure transparency, you should familiarize yourself with local recording laws. Regardless, it's always best to get explicit verbal consent before the start of any recorded conversation. <br/>
+<br/>
+Phone call recording and transcription features will be available on <a href="https://www.macrumors.com/2024/10/25/ios-18-these-iphones-wont-support-ai/">compatible iPhone models</a> when iOS 18.1 is released on Monday, October 28.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/ios-record-your-phone-calls/">iOS 18.1: How to Record and Transcribe Phone Calls</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-1-how-to-record-and-transcribe-phone-calls.2440927/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>You Won&#039;t Get These Apple Intelligence Features Until 2025</title>
+		<link>https://www.macrumors.com/2024/10/24/apple-intelligence-2025-features/</link>
+		<comments>https://forums.macrumors.com/threads/you-wont-get-these-apple-intelligence-features-until-2025.2440899/</comments>
+		<pubDate>Thu, 24 Oct 2024 14:06:07 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/24/apple-intelligence-2025-features/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[Apple plans to introduce the first Apple Intelligence features in iOS 18.1, debuting Writing Tools, notification summaries, smart replies, and more. iOS 18.1 will be followed by iOS 18.2, which Apple started testing this week.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg" alt="" width="1400" height="788" class="aligncenter size-full wp-image-963902" /><br/>
-"This is a big lift," Federighi told <em>WSJ</em>'s Joanna Stern, explaining Apple's cautious strategy of integrating AI into its devices. "You could put something out there and have it be sort of a mess. Apple's point of view is more like, 'Let's try to get each piece right and release it when it's ready.'"<br/>
+iOS 18.2 has Genmoji, Image Playground, and <a href="https://www.macrumors.com/guide/siri/">Siri</a> ChatGPT integration, but there are still some Apple Intelligence features that won't be introduced until even later.<br/>
 <br/>
-The initial release will focus on basic features including Writing Tools for text summarization, notification summaries, and a Clean Up tool in Photos for removing unwanted objects. While most processing occurs on-device, Apple's Private Cloud Compute system handles more intensive tasks through encrypted servers. In other words, user data isn't stored or accessed for AI training. <br/>
+<h2>More Siri Features</h2><br/>
+Apple plans to make major updates to &zwnj;Siri&zwnj;, and has outlined new functionality that will make &zwnj;Siri&zwnj; much more helpful. &zwnj;Siri&zwnj; will be able to learn more about you through your communications and actions on your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, but this personal context won't be coming until a later update.<br/>
 <br/>
-Apple's approach differs significantly from other large language models, which typically process all user input on cloud servers. According to Federighi, the company's personally oriented, privacy-first approach is also why Siri won't offer the sort of answers that one might get from something like ChatGPT.<br/>
+Personal context will incorporate texts, emails, notes, and more, so you'll be able to ask &zwnj;Siri&zwnj; for things like a flight number buried in an email, or a recipe that a friend once texted you.<br/>
 <br/>
-"There's a trade-off across capabilities," he explained. "Those other chatbots are great if you want to ask a question about quantum mechanics, and then have them write a poem about it, but they won't open your garage or send a text message. Will these worlds converge? Of course."<br/>
+&zwnj;Siri&zwnj; will also be able to do more in apps, both first and third-party, with in-app actions. &zwnj;Siri&zwnj; will be able to do things like edit a photo for you and then send it to someone in the Messages app, or pull a PDF from an email and save it to the Files app.<br/>
 <br/>
-Several anticipated features showcased by Apple at WWDC in June won't appear until later updates: iOS 18.2 is expected before the end of the year, and will introduce Image Playground for generating cartoon-style images and Genmoji for creating custom emoji. The update will also add ChatGPT integration for handling complex Siri queries.<br/>
+&zwnj;Siri&zwnj; will also be able to get information and take action in third-party apps, doing things like getting a weather readout from Carrot Weather or scheduling an event in Fantastical.<br/>
 <br/>
-The most significant Siri enhancements are scheduled for iOS 18.4 around March 2025. These include onscreen awareness for contextual commands, personal context for better understanding of user data, and expanded app control capabilities. Initially, Apple Intelligence will only support U.S. English, with additional languages planned for next year.<br/>
+New &zwnj;Siri&zwnj; capabilities will either come in iOS 18.3 or iOS 18.4 in 2025.<br/>
 <br/>
-In contrast to its rivals, Apple is taking a particularly measured approach to image manipulation. The new Clean Up tool in Photos allows users to remove unwanted objects or people from images, but avoids more complex AI-generated alterations like changing the background. "People view photographic content as something they can rely on as indicative of reality," explained Federighi. "It's important to us that we help purvey accurate information, not fantasy."<br/>
+<h2>Genmoji on macOS</h2><br/>
+<a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.2 includes support for Image Playground, but it does not have Genmoji integration as of yet. You can create Genmoji with iOS 18.2 and iPadOS 18.2, but there is no Mac feature for making custom emoji characters.<br/>
 <br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/fr8ALcEiYAk?si=YlwIgNHfXvfUiGWb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
-Speaking more broadly about the rollout of Apple Intelligence features, Federighi said: "This is a many-year, honestly, even decades-long arc of this technology playing out, and so we're going to do it responsibly." The new Apple Intelligence features will be available on iPhone 15 Pro and iPhone 16 models, as well as Apple silicon-powered iPads and Macs, when iOS 18.1 launches on October 28.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a>, <a href="https://www.macrumors.com/guide/craig-federighi/">Craig Federighi</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/23/craig-federighi-phased-release-apple-intelligence/">Craig Federighi Explains Phased Release of Apple Intelligence Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/craig-federighi-explains-phased-release-of-apple-intelligence-features.2440759/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<h2>Memory Movies on macOS</h2><br/>
+The Memory Movie feature that lets you create slideshows from your photos using text descriptions is limited to the &zwnj;iPhone&zwnj; and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> in iOS/iPadOS 18.1 and later. It will come to &zwnj;macOS Sequoia&zwnj; in the future.<br/>
+<br/>
+<h2>Priority Notifications</h2><br/>
+Apple is working on a feature that will show you your most important notifications first. Priority Notifications will show up at the top of your notification stack.<br/>
+<br/>
+<h2>More Languages</h2><br/>
+Apple plans to add support for more languages in 2025, including Chinese, English (India), English (Singapore), French, German, Italian, Japanese, Korean, Portuguese, Spanish, Vietnamese, and more.<br/>
+<br/>
+<h2>Apple Intelligence Release Timing</h2><br/>
+Writing Tools, the new &zwnj;Siri&zwnj; design, Type to &zwnj;Siri&zwnj;, notification summaries, smart replies, Clean Up in <a href="https://www.macrumors.com/guide/photos/">Photos</a>, and several other features <a href="https://www.macrumors.com/guide/ios-18-1-apple-intelligence/">are available in iOS 18.1</a>, which will be released on Monday, October 28.<br/>
+<br/>
+Image Playground, Genmoji, &zwnj;Siri&zwnj; ChatGPT integration, <a href="https://www.macrumors.com/2024/10/23/apple-releases-ios-18-2/">and other features</a> will be released in iOS 18.2, which will likely launch in December. iOS 18.2 will be the last iOS update of 2024.<br/>
+<br/>
+All other Apple Intelligence features are expected in iOS 18.3 and iOS 18.4, which will be released in 2025. iOS 18.3 could come as soon as late January, while iOS 18.4 will likely be a March update.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/24/apple-intelligence-2025-features/">You Won&#039;t Get These Apple Intelligence Features Until 2025</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/you-wont-get-these-apple-intelligence-features-until-2025.2440899/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Game Studio Shutdown Suggests Gaming May Not Be Working Out for Netflix</title>
-		<link>https://www.macrumors.com/2024/10/22/netflix-game-studio-shutdown/</link>
-		<comments>https://forums.macrumors.com/threads/game-studio-shutdown-suggests-gaming-may-not-be-working-out-for-netflix.2440744/</comments>
-		<pubDate>Tue, 22 Oct 2024 16:57:12 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/netflix-game-studio-shutdown/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Netflix</category>
-		
-
-		<description><![CDATA[Netflix recently shut down its "Team Blue" gaming studio in Southern California, according to <em><a href="https://www.gamefile.news/p/netflix-team-blue-socal-studio">Game File</a></em>. The studio included industry veterans that worked on titles like Halo, Overwatch, and God of War.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-824171" src="https://images.macrumors.com/article-new/2021/11/netflix-games-launch.jpg" alt="" width="1920" height="1080" /><br/>
-There have been <a href="https://www.macrumors.com/2021/11/09/netflix-games-ios-launch/">mobile gaming titles</a> available through Netflix since 2021, but Team Blue was supposedly working on a big budget AAA gaming title that would have represented an expansion of Netflix's gaming efforts.<br/>
-<br/>
-The decision to shutter the studio developing an original multi-platform AAA title suggests that gaming might not be going so well for Netflix. Back in 2022, a report suggested that <a href="https://www.macrumors.com/2022/08/08/netflix-games-note-engaging-subscribers/">less than one percent</a> of Netflix subscribers were engaging in games, but Netflix has made an effort to introduce more premium titles since then.<br/>
-<br/>
-Netflix's mobile gaming catalog includes several Grand Theft Auto titles, popular roguelike Hades, Cozy Grove, Farming Simulator, Spiritfarer, Rollercoaster Tycoon, and more. The games are included with a Netflix subscription, and no additional fees are required to play them.<br/>
-<br/>
-Netflix games can be downloaded as standalone games on Apple devices, and are available to play after logging in with an active Netflix account.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/netflix/">Netflix</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/netflix-game-studio-shutdown/">Game Studio Shutdown Suggests Gaming May Not Be Working Out for Netflix</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/game-studio-shutdown-suggests-gaming-may-not-be-working-out-for-netflix.2440744/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>New iPad Mini 7 Models Begin Arriving to Customers in Australia and New Zealand</title>
-		<link>https://www.macrumors.com/2024/10/22/ipad-mini-7-australia-new-zealand/</link>
-		<comments>https://forums.macrumors.com/threads/new-ipad-mini-7-models-begin-arriving-to-customers-in-australia-and-new-zealand.2440736/</comments>
-		<pubDate>Tue, 22 Oct 2024 15:12:36 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/ipad-mini-7-australia-new-zealand/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iPad mini</category>
-		
-
-		<description><![CDATA[It's Wednesday, October 23 in Australia and New Zealand, which means that customers who pre-ordered one of the new <a href="https://www.macrumors.com/guide/ipad-mini-7/">iPad mini 7</a> devices are starting to receive their orders.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/ipad-mini-7-feature-red-and-blue.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-972028" /><br/>
-Apple <a href="https://www.macrumors.com/2024/10/15/apple-unveils-new-ipad-mini-apple-intelligence/">introduced the iPad mini 7</a> on October 15, which is also when the company began accepting pre-orders. While the &zwnj;iPad mini 7&zwnj; has the same design as the <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a> 6, it is equipped with an A17 Pro chip and 8GB RAM in order to support the Apple Intelligence features that are coming in iPadOS 18.1.<br/>
-<br/>
-The &zwnj;iPad mini 7&zwnj; also offers Wi-Fi 6E, faster USB-C data transfer speeds, Bluetooth 5.3, and support for the <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> Pro. It now offers a minimum of 128GB of storage with an option to upgrade to 256GB or 512GB, and Apple also unveiled new colors.<br/>
-<br/>
-There are no Apple retail stores in New Zealand, but Apple Stores in Australia will have the new &zwnj;iPad mini 7&zwnj; available for walk-in purchases. We are not expecting any shortages of the new tablet.<br/>
-<br/>
-Following New Zealand and Australia, sales of the &zwnj;iPad mini 7&zwnj; will begin in Asia, the Middle East, Europe, and finally, North America.<br/>
-<br/>
-The &zwnj;iPad mini 7&zwnj; is priced starting at &#36;499, and it continues to be Apple's smallest tablet.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad_Mini">iPad Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/ipad-mini-7-australia-new-zealand/">New iPad Mini 7 Models Begin Arriving to Customers in Australia and New Zealand</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-ipad-mini-7-models-begin-arriving-to-customers-in-australia-and-new-zealand.2440736/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Dropped iPhone Causes Woman to Be Trapped Upside Down in Rock Crevice for Hours</title>
-		<link>https://www.macrumors.com/2024/10/22/dropped-iphone-rock-crevice-accident/</link>
-		<comments>https://forums.macrumors.com/threads/dropped-iphone-causes-woman-to-be-trapped-upside-down-in-rock-crevice-for-hours.2440733/</comments>
-		<pubDate>Tue, 22 Oct 2024 14:23:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/dropped-iphone-rock-crevice-accident/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Australian woman Matilda Campbell ended up trapped in a tight rock crevice upside down after she fell trying to retrieve an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> that she dropped, according to a report from <em><a href="https://www.abc.net.au/news/2024-10-22/images-of-hunter-valley-rescue-after-woman-falls-rock-crevice/104500728">ABC Newcastle</a></em>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/iphone-trapped-crevice.jpg" alt="" width="1536" height="862" class="aligncenter size-full wp-image-972106" /><br/>
-The 23-year-old was taking images in the New South Wales Hunter Valley when she lost hold of her phone. She tried to get it, but slipped and fell three meters and became stuck between two large boulders, hanging upside down by her feet. While the news report does not make specific mention of an &zwnj;iPhone&zwnj;, Campbell's social media accounts indicate she was an &zwnj;iPhone&zwnj; user.<br/>
-<br/>
-It took an hour for rescuers to get to Campbell, and several more hours to free her. NSW Ambulance rescue paramedic Peter Watts told <em>ABC Newcastle</em> that Campbell was calm and collected, despite the situation. He said it was a difficult, "out-of-the-box rescue" that was unlike anything he'd previously experienced. NSW Ambulance shared images of the rescue <a href="https://www.facebook.com/NSWAmbulance">on Facebook</a>.<br/>
-<br/>
-Rescue crews had to remove seven boulders weighing between 80 and 500 kilograms to free Campbell, plus a wooden frame had to be constructed in case any boulders cracked and fell. Campbell was trapped for approximately seven hours, and she ended up with scrapes, bruises, and a cracked vertebra. She was not able to retrieve her &zwnj;iPhone&zwnj;.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/dropped-iphone-rock-crevice-accident/">Dropped iPhone Causes Woman to Be Trapped Upside Down in Rock Crevice for Hours</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/dropped-iphone-causes-woman-to-be-trapped-upside-down-in-rock-crevice-for-hours.2440733/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Said to Be Working on New Gaming App for iOS</title>
-		<link>https://www.macrumors.com/2024/10/22/apple-gaming-app-ios/</link>
-		<comments>https://forums.macrumors.com/threads/apple-said-to-be-working-on-new-gaming-app-for-ios.2440726/</comments>
-		<pubDate>Tue, 22 Oct 2024 13:17:58 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/apple-gaming-app-ios/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>App Store</category>
-		<category>Apple Arcade</category>
-		<category>Game Center</category>
-		
-
-		<description><![CDATA[Apple is working on an App Store-style app designed for gaming, according to a report from <em><a href="https://9to5mac.com/2024/10/22/apple-new-app-store-like-app-games/">9to5Mac</a></em>. It would merge <a href="https://www.macrumors.com/guide/app-store/">App Store</a> gaming content, <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>, and Game Center into a central location.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/06/apple-arcade-orange-feature.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-748620" /><br/>
-The app is said to feature a Play Now tab with gaming content and suggestions, plus a Game Center tab for tracking game progress and games that friends are playing. Game Center features like achievements and leaderboards will be highlighted.<br/>
-<br/>
-Apple plans to offer both &zwnj;Apple Arcade&zwnj; games and &zwnj;App Store&zwnj; games in the app, and the company will promote gaming events and details about important updates. It is possible that there will be integration with <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> and Messages for remote play with friends, as well as App Clip mini game demos.<br/>
-<br/>
-There is no word on when Apple might release this dedicated gaming app.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/apple-arcade/">Apple Arcade</a>, <a href="https://www.macrumors.com/guide/game-center/">Game Center</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/apple-gaming-app-ios/">Apple Said to Be Working on New Gaming App for iOS</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-said-to-be-working-on-new-gaming-app-for-ios.2440726/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds Second visionOS 2.1 Release Candidate</title>
-		<link>https://www.macrumors.com/2024/10/22/apple-seeds-second-visionos-2-1-release-candidate/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-second-visionos-2-1-release-candidate.2440725/</comments>
-		<pubDate>Tue, 22 Oct 2024 13:11:53 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/apple-seeds-second-visionos-2-1-release-candidate/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[Apple today seeded a second release candidate version of an upcoming visionOS 2.1 update to developers for testing purposes. The new software comes a day after Apple seeded the <a href="https://www.macrumors.com/2024/10/21/apple-watchos-11-1-release-candidate/">first release candidate version</a>.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-955607" src="https://images.macrumors.com/article-new/2024/06/visionOS-2-Feature-1.jpg" alt="" width="2500" height="1406" /><br/>
-<br/>
-visionOS 2.1 can be installed by going to the Software Update section of the Settings app on the Vision Pro and opting into Beta Updates.<br/>
-<br/>
-So far, no major new features have been discovered in the update, and it likely focuses on bug fixes and other small feature improvements. Apple's release notes say that the second visionOS 2.1 RC fixes an issue that could cause <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> songs and music videos to fail to play.<br/>
-<br/>
-visionOS 2.1 is expected to see a release next Monday alongside iOS 18.1.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/apple-seeds-second-visionos-2-1-release-candidate/">Apple Seeds Second visionOS 2.1 Release Candidate</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-visionos-2-1-release-candidate.2440725/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases New AirPods Pro, AirPods, and AirPods Max Firmware</title>
-		<link>https://www.macrumors.com/2024/10/22/apple-releases-airpods-firmware-6f21/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-airpods-and-airpods-max-firmware.2440718/</comments>
-		<pubDate>Tue, 22 Oct 2024 11:39:01 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/apple-releases-airpods-firmware-6f21/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Apple today released a new firmware update for the original <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a>, the AirPods 2, the AirPods 3, and the Lightning version of the <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a> headphones. The new firmware is version 6F21, up from the <a href="https://www.macrumors.com/2024/06/25/apple-all-airpods-new-firmware/">prior 6A326 firmware</a> that these devices were previously running.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-867348" src="https://images.macrumors.com/article-new/2022/09/airpods-pro-2-pink.jpg" alt="" width="2500" height="1406" /><br/>
-There is no word on what's included in the firmware, but given that these are all older models, it is likely that the new firmware includes bug fixes and other minor improvements.<br/>
-<br/>
-Apple doesn't have a way to manually upgrade AirPods software, but firmware is generally installed over-the-air when the AirPods are in a charging case and connected to an iOS device or Mac.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/apple-releases-airpods-firmware-6f21/">Apple Releases New AirPods Pro, AirPods, and AirPods Max Firmware</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-airpods-and-airpods-max-firmware.2440718/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>You Can Now Try AT&amp;T&#039;s Network for Free</title>
-		<link>https://www.macrumors.com/2024/10/22/att-free-network-trial/</link>
-		<comments>https://forums.macrumors.com/threads/you-can-now-try-at-ts-network-for-free.2440716/</comments>
-		<pubDate>Tue, 22 Oct 2024 11:19:49 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/att-free-network-trial/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>AT&amp;amp;T</category>
-		
-
-		<description><![CDATA[AT&T today <a href="https://about.att.com/blogs/2024/try-att.html">announced a new promotion</a> that allows potential new customers to try out the AT&T network for 30 days for free.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/02/ATT-Banner.jpeg" alt="" width="1200" height="630" class="aligncenter size-full wp-image-937556" /><br/>
-Customers with an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> that has an eSIM can download the myAT&T app or visit the AT&T <a href="http://www.att.com/wireless/free-trial/">free trial website</a> to sign up for temporary access to the AT&T network. No credit card is required for the AT&T trial, which includes 5G access.<br/>
-<br/>
-Compatible iPhones with eSIM capabilities include the &zwnj;iPhone&zwnj; XR, &zwnj;iPhone&zwnj; XS, <a href="https://www.macrumors.com/roundup/iphone-se/">iPhone SE</a> 2020 and all later models, but note that devices must be unlocked. Testing AT&T's network through the Try AT&T feature does not require transferring a phone number or canceling current service. It instead operates as a second line on a compatible &zwnj;iPhone&zwnj;, with options to switch between the AT&T test and another carrier plan.<br/>
-<br/>
-AT&T is providing unlimited talk and text, 100GB of data, 25GB of personal hotspot data, AT&T 5G access, and unlimited texting from the United States to more than 230 countries. After the 30-day trial ends, service will be canceled automatically, but customers will have the option to sign up for AT&T service.<br/>
-<br/>
-Both Verizon and T-Mobile have previously rolled out programs that allow customers to test their networks for free, but AT&T is offering 25GB of hotspot data, which neither Verizon or T-Mobile support.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/att/">AT&amp;T</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/att-free-network-trial/">You Can Now Try AT&amp;T&#039;s Network for Free</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/you-can-now-try-at-ts-network-for-free.2440716/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases iPadOS 18.0.1 for iPad Mini 7 Ahead of Tomorrow&#039;s Launch</title>
-		<link>https://www.macrumors.com/2024/10/22/apple-releases-ipados-18-0-1-ipad-mini-7/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-ipados-18-0-1-for-ipad-mini-7-ahead-of-tomorrows-launch.2440711/</comments>
-		<pubDate>Tue, 22 Oct 2024 10:55:10 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/apple-releases-ipados-18-0-1-ipad-mini-7/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iPad mini</category>
-		
-
-		<description><![CDATA[Apple today released a new version of iPadOS 18.0.1 that's designed specifically for the <a href="https://www.macrumors.com/guide/ipad-mini-7/">iPad mini 7</a> that will be available as of tomorrow.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/ipad-mini-7-feature-blue-and-orange.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-972026" /><br/>
-The iPadOS 18.0.1 update features the same content as the iPadOS 18.0.1 update that was <a href="https://www.macrumors.com/2024/10/03/apple-releases-ios-18-0-1/">released in early October</a>, but it has a 22A8380 build number. The &zwnj;iPad mini 7&zwnj; isn't out just yet, but customers in Australia and New Zealand who pre-ordered will be getting their shipments in just a few hours, and they'll be able to update during the setup process.<br/>
-<br/>
-iPadOS 18.0.1 includes a fix for an issue that could cause the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> to unexpectedly quit when replying to a message with a shared Apple Watch face, plus it has a security fix to address a vulnerability with the Passwords app.<br/>
-<br/>
-Launch versions of the &zwnj;iPad mini 7&zwnj; have a version of iOS 18.0 installed rather than iPadOS 18.0.1, which is why there's an out-of-the-box update. Next week, &zwnj;iPad mini 7&zwnj; owners can also upgrade to iPadOS 18.1, an update that includes the first Apple Intelligence features.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad_Mini">iPad Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/apple-releases-ipados-18-0-1-ipad-mini-7/">Apple Releases iPadOS 18.0.1 for iPad Mini 7 Ahead of Tomorrow&#039;s Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ipados-18-0-1-for-ipad-mini-7-ahead-of-tomorrows-launch.2440711/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Gurman: &#039;M4 Mac Launch&#039; is &#039;Next Week&#039;</title>
-		<link>https://www.macrumors.com/2024/10/22/m4-mac-launch-timing-rumors/</link>
-		<comments>https://forums.macrumors.com/threads/gurman-m4-mac-launch-is-next-week.2440707/</comments>
-		<pubDate>Tue, 22 Oct 2024 10:29:46 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/m4-mac-launch-timing-rumors/</guid>
+		<title>Apple Discontinued These Four Products This Year, But One Will Return</title>
+		<link>https://www.macrumors.com/2024/10/24/apple-discontinued-these-products-in-2024/</link>
+		<comments>https://forums.macrumors.com/threads/apple-discontinued-these-four-products-this-year-but-one-will-return.2440890/</comments>
+		<pubDate>Thu, 24 Oct 2024 12:30:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/24/apple-discontinued-these-products-in-2024/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[As we get into the final months of 2024, now is a good opportunity to look back at devices and accessories that Apple discontinued throughout the year.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/Apple-Discontinued-Products-Goodbye.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-971596" /><br/>
+Apple products discontinued this year include the iPad 9, SuperDrive, FineWoven cases for the iPhone, and the Powerbeats Pro earbuds.<br/>
+<br/>
+This list <strong>excludes most previous-generation devices</strong> that were discontinued this year as part of annual updates to Apple's product lineup, such as the iPhone 15 Pro and Apple Watch Series 9. The one exception to this rule is the iPad 9, as that device was discontinued in May, over a year and a half after the iPad 10 launched.<br/>
+<br/>
+Check out our previous lists of <a href="https://www.macrumors.com/2023/11/27/apple-discontinued-products-in-2023/">Apple products discontinued in 2023</a>, <a href="https://www.macrumors.com/2022/11/09/apple-discontinued-products-2022/">2022</a>, and <a href="https://www.macrumors.com/2021/12/29/5-products-discontinued-by-apple-in-2021/">2021</a> as well.<br/>
+<br/>
+<h2>iPad 9</h2><br/>
+<img src="https://images.macrumors.com/article-new/2021/08/iPad-9th-gen-feature.jpg" alt="" width="2040" height="1147" class="aligncenter size-full wp-image-812369" /><br/>
+On the same day that it unveiled new iPad Pro and iPad Air models in May, Apple <a href="https://www.macrumors.com/2024/05/07/ipad-9-discontinued-ipad-10-now-starts-at-349/">discontinued the ninth-generation, entry-level iPad</a>. In addition, Apple lowered the price of the tenth-generation iPad, which now starts at &#36;349 in the U.S., down from &#36;449.<br/>
+<br/>
+<h2>SuperDrive</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/01/8-Old-SuperDrives.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-928630" /><br/>
+In August, the <a href="https://www.macrumors.com/2024/08/06/apple-superdrive-could-be-discontinued/">SuperDrive went out of stock</a> on Apple's online store in the U.S., and it is now listed as sold out or unavailable in all countries. Given it has yet to return, it seems likely that Apple has discontinued the 16-year-old accessory.<br/>
+<br/>
+Introduced in 2008, the SuperDrive is an external CD/DVD drive that was released alongside the original MacBook Air, which lacked a built-in CD/DVD drive. Despite having an outdated USB-A cable attached to it, the SuperDrive remained available on Apple's online store until just recently, becoming one of the company's longest-sold products.<br/>
+<br/>
+<h2>FineWoven Cases</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/04/iPhone-15-Pro-FineWoven-feature.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-947658" /><br/>
+Apple last year <a href="https://www.macrumors.com/2023/09/12/apple-announces-finewoven/">discontinued its leather accessories</a>, including iPhone cases, and it introduced a new "FineWoven" fabric material as a replacement.<br/>
+<br/>
+"FineWoven" cases for the iPhone 15 series <a href="https://www.macrumors.com/2024/02/26/finewoven-iphone-cases-brown-like-rotten-banana/">were widely panned</a>, and it appears that Apple was well aware of this feedback, as the material is <a href="https://www.macrumors.com/2024/09/09/apple-discontinues-finewoven-cases/">no longer offered for iPhone 16 cases</a> just a year later. It is unclear if Apple will come up with a new solution.<br/>
+<br/>
+<h2>Powerbeats Pro</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/10/Powerbeats-Pro-Original.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-971547" /><br/>
+Apple this month quietly <a href="https://www.macrumors.com/2024/10/18/apple-discontinues-powerbeats-pro/">discontinued the Powerbeats Pro</a>, around five and a half years after the wireless earbuds launched.<br/>
+<br/>
+Powerbeats Pro are a sportier, fitness-focused alternative to AirPods Pro with built-in, adjustable ear hooks for a secure fit. Key features of the original Powerbeats Pro include the H1 chip that debuted in the AirPods 2, IPX4-rated sweat and water resistance, up to nine hours of battery life, and silicone ear tips with four size options.<br/>
+<br/>
+In a short teaser video last month, Apple revealed that it will be <a href="https://www.macrumors.com/2024/09/04/beats-teases-powerbeats-pro-2/">launching new Powerbeats Pro 2 next year</a>. The earbuds look similar to the original Powerbeats Pro, but they have a more vertical, slimmer design. <em>MacRumors</em> contributor Aaron Perris later discovered iOS 18 code revealing that the Powerbeats Pro 2 will <a href="https://www.macrumors.com/2024/09/09/powerbeats-pro-2-heart-rate/">feature heart rate monitoring</a> during workouts, and gain support for Active Noise Cancellation, Spatial Audio, and Adaptive Audio.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/24/apple-discontinued-these-products-in-2024/">Apple Discontinued These Four Products This Year, But One Will Return</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-discontinued-these-four-products-this-year-but-one-will-return.2440890/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases New AirPods Pro 2 Firmware Ahead of Hearing Aid Feature Launch</title>
+		<link>https://www.macrumors.com/2024/10/24/apple-releases-airpods-pro-2-firmware-7b19/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-firmware-ahead-of-hearing-aid-feature-launch.2440886/</comments>
+		<pubDate>Thu, 24 Oct 2024 11:43:38 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/24/apple-releases-airpods-pro-2-firmware-7b19/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>AirPods Pro</category>
+		
+
+		<description><![CDATA[Apple today released a new firmware update for the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2, with the software available for both the USB-C and Lightning models. The &zwnj;AirPods Pro&zwnj; 2 firmware has a build number of 7B19, up from the 7A305 firmware <a href="hhttps://www.macrumors.com/2024/09/26/apple-releases-new-airpods-pro-2-firmware-7a305/">released in September</a>.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-825981" src="https://images.macrumors.com/article-new/2021/11/AirPods-Pro-Firmware-Feature.jpg" alt="" width="2322" height="1306" /><br/>
+The new &zwnj;AirPods Pro&zwnj; 2 firmware comes just ahead of when Apple plans to launch Hearing Health features in iOS 18.1. Hearing Health includes a hearing test that mimics an audiologist's test, and hearing aid functionality should that test sense mild to moderate hearing loss.<br/>
+<br/>
+Release notes for the update are as follows:<blockquote><ul><li>When used with an iPhone or iPad running iOS 18.1 or iPadOS 18.1 or later, AirPods Pro 2 with firmware update 7B19 enable three new features—a Hearing Test, Hearing Aid, and Hearing Protection.</li><br/>
+<li>The Apple Hearing Test feature provides scientifically-validated hearing test results from the comfort of home (intended for users 18 years or older).</li><br/>
+<li>The Hearing Aid feature provides personalized, clinical-grade assistance that is automatically applied to sounds in your environment as well as music, videos, and calls (intended for users 18 years or older with perceived mild to moderate hearing loss)</li><br/>
+<li>The Hearing Protection feature helps users minimize exposure to loud environmental noise across listening modes (available in the United States and Canada)</li></ul><br/>
+Features require AirPods Pro 2 with firmware version 7B19 or later. All features may not be available for all countries or regions.</blockquote><br/>
+Apple has approval for the &zwnj;AirPods Pro&zwnj; 2 to function as an over-the-counter hearing aid in the United States. The hearing aid capabilities will boost conversations and other environmental sounds for those who have hearing loss issues.<br/>
+<br/>
+The update also includes a Hearing Protection feature that will continuously monitor the wearer's environment to reduce the impact of loud sounds. This functionality will be limited to the U.S. and Canada at launch.<br/>
+<br/>
+Hearing Health will be introduced in iOS 18.1, which is set to be released next Monday.<br/>
+<br/>
+Apple doesn't have a way to manually upgrade AirPods software, but firmware is generally installed over-the-air when the AirPods are in a charging case and connected to an iOS device or Mac.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Pro">AirPods Pro (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/24/apple-releases-airpods-pro-2-firmware-7b19/">Apple Releases New AirPods Pro 2 Firmware Ahead of Hearing Aid Feature Launch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-airpods-pro-2-firmware-ahead-of-hearing-aid-feature-launch.2440886/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>TestFlight Now Lets Developers Set Testing Criteria and Include App Screenshots</title>
+		<link>https://www.macrumors.com/2024/10/24/testflight-testing-criteria-app-screenshots/</link>
+		<comments>https://forums.macrumors.com/threads/testflight-now-lets-developers-set-testing-criteria-and-include-app-screenshots.2440884/</comments>
+		<pubDate>Thu, 24 Oct 2024 11:19:43 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/24/testflight-testing-criteria-app-screenshots/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>TestFlight</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://developer.apple.com/news/?id=fps422ld">updated</a> its TestFlight app, adding new features that are designed to streamline the app beta testing process. TestFlight is the app that developers can use to distribute their app to beta testers ahead of when the app is released.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/New-TestFlight.jpeg" alt="" width="2048" height="1151" class="aligncenter size-full wp-image-972715" /><br/>
+The app has also been redesigned on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>.<br/>
+<br/>
+Invites to beta test an app include an app description, plus developers can opt to include screenshots and information about their app category.<br/>
+<br/>
+To narrow down potential testers, developers can set tester criteria that must be met in order to join a beta. Testers who decide not to join a particular beta can provide feedback to a developer explaining why. Apple's release notes for the update are below.<br/>
+<blockquote>This update includes several key improvements to enhance your testing experience:<br/>
+<ul><br/>
+ 	<li>Invitations include a beta app description and developers can now also choose to include screenshots and their app category.</li><br/>
+ 	<li>Developers can now set tester criteria you must meet in order to join a beta.</li><br/>
+ 	<li>You can share with developers why you decided not to join a beta through a new feedback option.</li><br/>
+</ul><br/>
+Additionally, this update includes stability improvements and bug fixes.</blockquote><br/>
+TestFlight is a free app for &zwnj;iPhone&zwnj;, &zwnj;iPad&zwnj;, Mac, and Vision Pro, and it can be downloaded from the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. [<a href="https://apps.apple.com/us/app/testflight/id899247664">Direct Link</a>]<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/testflight/">TestFlight</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/24/testflight-testing-criteria-app-screenshots/">TestFlight Now Lets Developers Set Testing Criteria and Include App Screenshots</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/testflight-now-lets-developers-set-testing-criteria-and-include-app-screenshots.2440884/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Shares Private Cloud Compute Virtual Research Environment, Provides Bounties for Vulnerabilities</title>
+		<link>https://www.macrumors.com/2024/10/24/apple-private-cloud-compute-security-info/</link>
+		<comments>https://forums.macrumors.com/threads/apple-shares-private-cloud-compute-virtual-research-environment-provides-bounties-for-vulnerabilities.2440882/</comments>
+		<pubDate>Thu, 24 Oct 2024 10:57:58 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/24/apple-private-cloud-compute-security-info/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Private Cloud Compute is a cloud intelligence system that Apple designed for private artificial intelligence processing, and it's what Apple is using to keep Apple Intelligence requests secure when they need to be processed in the cloud.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-963424" /><br/>
+Apple promised to allow security and privacy researchers to verify the end-to-end security and privacy promises that Apple made with Private Cloud Compute, and today, Apple made its Private Cloud Compute Virtual Research Environment (VRE) and other materials <a href="https://security.apple.com/blog/pcc-security-research">publicly available to all security researchers</a>.<br/>
+<br/>
+Apple has a Private Cloud Compute (PCC) Security Guide that details all of the components of PCC and how they work to provide privacy for cloud-based AI processing. Apple released the source code for select components of PCC that help implement its security and privacy requirements, which allows for a deeper dive into PCC.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/apple-private-cloud-compute-security.jpg" alt="" width="1260" height="626" class="aligncenter size-full wp-image-972691" /><br/>
+The Virtual Research Environment is a set of tools that lets researchers perform their own security analysis on PCC using a Mac. The VRE can be used for inspecting PCC software releases, verifying the consistency of the transparency log, booting a release in a virtualized environment, and modifying and debugging PCC software for deeper investigation. The VRE can be accessed in the macOS 18.1 Developer Preview and can be used with a Mac that has an Apple silicon chip and 16GB+ unified memory.<br/>
+<br/>
+Along with these tools, Apple is expanding its Apple Security Bounty to include rewards for vulnerabilities that demonstrate a compromise of the fundamental privacy and security guarantees of Private Cloud Compute. Security researchers who locate a vulnerability can earn up to &#36;1 million.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/24/apple-private-cloud-compute-security-info/">Apple Shares Private Cloud Compute Virtual Research Environment, Provides Bounties for Vulnerabilities</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-shares-private-cloud-compute-virtual-research-environment-provides-bounties-for-vulnerabilities.2440882/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Seeds Second macOS Sequoia 15.1 Release Candidate</title>
+		<link>https://www.macrumors.com/2024/10/24/macos-sequoia-15-1-rc-2/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-second-macos-sequoia-15-1-release-candidate.2440880/</comments>
+		<pubDate>Thu, 24 Oct 2024 10:38:25 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/24/macos-sequoia-15-1-rc-2/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
+		<category>macOS Sequoia</category>
+		
+
+		<description><![CDATA[Apple today provided developers and public beta testers with the second release candidate version of an upcoming <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.1 update, with the new software coming one week after Apple <a href="https://www.macrumors.com/2024/10/15/apple-seeds-macos-sequoia-15-1-beta-7/">released the seventh beta</a>. Apple introduced the first RC on Monday, and there's likely a new version to address an underlying bug.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-955370" src="https://images.macrumors.com/article-new/2024/06/macOS-Sequoia-Feature.jpg" alt="" width="2500" height="1406" /><br/>
+Registered developers can opt-in to the &zwnj;macOS Sequoia&zwnj; beta through the Software Update section of the System Settings app. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta. Public beta testers can sign up on Apple's website.<br/>
+<br/>
+&zwnj;macOS Sequoia&zwnj; 15.1 introduces the <a href="https://www.macrumors.com/2024/07/29/ios-18-1-apple-intelligence-features/">first Apple Intelligence features</a>, adding support for Writing Tools, new <a href="https://www.macrumors.com/guide/siri/">Siri</a> features, Smart Replies in Mail and Messages, Priority messages in the Mail app, Memory Movie and Clean Up in <a href="https://www.macrumors.com/guide/photos/">Photos</a>, and more.<br/>
+<br/>
+The update <a href="https://www.macrumors.com/2024/07/29/ios-18-1-apple-intelligence-unavailable-features/">does not include</a> Image Playground, Genmoji, or more advanced &zwnj;Siri&zwnj; functionality.<br/>
+<br/>
+Using Apple Intelligence features requires a Mac that has an Apple silicon chip.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/24/macos-sequoia-15-1-rc-2/">Apple Seeds Second macOS Sequoia 15.1 Release Candidate</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-second-macos-sequoia-15-1-release-candidate.2440880/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>What to Expect From Apple&#039;s &#039;Exciting Week of Announcements&#039;</title>
+		<link>https://www.macrumors.com/2024/10/24/what-to-expect-from-apple-announcements-next-week/</link>
+		<comments>https://forums.macrumors.com/threads/what-to-expect-from-apples-exciting-week-of-announcements.2440877/</comments>
+		<pubDate>Thu, 24 Oct 2024 10:36:17 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/24/what-to-expect-from-apple-announcements-next-week/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>Featured (sticky)</category>
 		<category>iMac</category>
 		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
 		<category>Mac mini</category>
-		<category>Mark Gurman</category>
-		<category>Sonny Dickson</category>
+		<category>Magic Keyboard</category>
+		<category>Magic Mouse</category>
+		<category>Magic Trackpad</category>
 		
 
-		<description><![CDATA[Just a few hours after claiming that the first Macs with M4 chips are <a href="https://www.macrumors.com/2024/10/22/gurman-says-m4-macs-launch-very-soon/">launching "very soon,"</a> <em>Bloomberg</em>'s Mark Gurman has followed up with a slightly more specific timeframe. In his latest <a href="https://x.com/markgurman/status/1848762199675965773">social media post</a> today, he said an "M4 Mac launch" is on Apple's schedule for next week, but he did not mention a specific day.<br/>
+		<description><![CDATA[Apple's marketing chief Greg Joswiak today teased that the company has an <a href="https://www.macrumors.com/2024/10/24/apple-m4-announcements-next-week/">"exciting week of announcements" planned next week</a>. Joswiak said to "Mac" your calendars, and the post includes an animated icon for the Finder app on the Mac, so it is clear that at least some of next week's announcements will be related to the Mac.<br/>
 <br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/10/M4-Mac-mini-Ortho-Black-Cooler.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972058" /><em>A concept of a smaller Mac mini with front-facing USB-C ports</em></div><br/>
-"Busy week for Apple next week: Apple Intelligence on Monday, then M4 Mac launch, then earnings results on Thursday," he posted.<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/zJjmOP_gKpw?si=Xgt8akvA1TT09gXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to MacRumors on YouTube for more videos!</a></em></div><br/>
+Below, we have recapped what to expect from Apple's announcements next week.<br/>
 <br/>
-In <a href="https://x.com/markgurman/status/1848748246799429753">another social media post</a> today, Gurman said that Apple is inviting journalists and content creators to a hands-on experience in Los Angeles next Wednesday, and he believes this means the new Macs would need to be announced before then.<br/>
+<h2>Hardware</h2><br/>
+<h3>MacBook Pro</h3><br/>
+<img src="https://images.macrumors.com/article-new/2023/10/m3-mbp-space-black.jpg" alt="" width="1440" height="810" class="aligncenter size-full wp-image-919466" /><br/>
+Apple is expected to announce new 14-inch and 16-inch MacBook Pro models, including an entry-level 14-inch MacBook Pro with the M4 chip, and higher-end 14-inch and 16-inch MacBook Pro models with M4 Pro and M4 Max chips.<br/>
 <br/>
-In another twist, leaker Sonny Dickson today claimed that he heard the new Mac mini with five USB-C ports <a href="https://x.com/SonnyDickson/status/1848596156302971278">might launch this week</a> instead. Dickson has revealed some accurate details about upcoming Apple products through leaked cases and dummy models, but some of his hardware-related claims have <a href="https://www.macrumors.com/2020/06/09/imac-redesign-wwdc/">proven to be inaccurate</a>.<br/>
+No major external design changes have been rumored for the laptops this year, with improvements such as an OLED display and thinner design not expected <a href="https://www.macrumors.com/2024/09/10/macbook-pro-wont-switch-to-oled-in-2025-rumor/">until 2026 at the earliest</a>. However, the entry-level 14-inch MacBook Pro is expected to gain an additional Thunderbolt port compared to the current model, based on <a href="https://www.macrumors.com/2024/10/07/apple-potentially-facing-worst-leak-since-iphone-4/">alleged leaks earlier this month</a>. Those same leaks revealed that the MacBook Pro lineup might finally start with 16GB of RAM, instead of 8GB, which was <a href="https://www.macrumors.com/2024/10/23/apple-new-macs-16gb-ram-standard/">rumored even before the leaks happened</a>.<br/>
 <br/>
-In any case, it looks like Apple will announce the first Macs with M4 chips in around a week from now at the latest, based on these latest claims. It's still not entirely clear if the announcements will be part of an online event, like the "Scary Fast" event on October 30 last year, or if the products will be announced in press releases on the Apple Newsroom website only. There is still time left in October for Apple to invite the media to watch an online event, but the window for that is gradually coming to a close. We'll see!<br/>
+Apple last redesigned the 14-inch and 16-inch MacBook Pro in 2021, and the latest models with the M3 family of chips were released last October.<br/>
 <br/>
-Here is everything that Apple is likely to announce in the coming days:<br/>
+<h3>iMac</h3><br/>
+<img src="https://images.macrumors.com/article-new/2024/04/M4-iMac-Feature-Teal.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-946085" /><br/>
+The next iMac is expected to be equipped with the standard M4 chip, up from the M3 chip in the current model released a year ago. No major design changes have been rumored for Apple's all-in-one desktop computer this year.<br/>
 <br/>
-<ul><li>An entry-level 14-inch MacBook Pro with the M4 chip, and an additional Thunderbolt port compared to the current model</li><br/>
-<li>14-inch and 16-inch MacBook Pro models with M4 Pro and M4 Max chip options</li><br/>
-<li>An updated iMac with the M4 chip</li><br/>
-<li>A new Mac mini with a <a href="https://www.macrumors.com/2024/10/03/mac-mini-redesign-rumor/">smaller Apple TV-like design, two front-facing USB-C ports, and M4 and M4 Pro chip options</a></li><br/>
-<li><a href="https://www.macrumors.com/2024/10/21/apple-new-magic-mouse-trackpad-keyboard/">USB-C versions of the Magic Mouse, Magic Trackpad, and Magic Keyboard accessories</a></li></ul>The entry-level 14-inch MacBook Pro with the M4 chip <a href="https://www.macrumors.com/2024/10/07/apple-potentially-facing-worst-leak-since-iphone-4/">allegedly leaked in a few unboxing videos</a> earlier this month, and it was shown to be a November 2024 model in those videos. If the videos are legitimate, that means the first Macs with M4 chips might not arrive to customers until next month, even if they are announced within the next week or so.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a>, <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>, <a href="https://www.macrumors.com/guide/sonny-dickson/">Sonny Dickson</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Don't Buy)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a>, <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a>, <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/m4-mac-launch-timing-rumors/">Gurman: &#039;M4 Mac Launch&#039; is &#039;Next Week&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/gurman-m4-mac-launch-is-next-week.2440707/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds watchOS 11.1 Release Candidate</title>
-		<link>https://www.macrumors.com/2024/10/22/apple-watchos-11-1-release-candidate-now-available/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-watchos-11-1-release-candidate.2440706/</comments>
-		<pubDate>Tue, 22 Oct 2024 10:15:28 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/apple-watchos-11-1-release-candidate-now-available/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>watchOS</category>
-		
-
-		<description><![CDATA[Apple today seeded the release candidate version of an upcoming watchOS 11.1 update to developers and public beta testers for testing purposes. The new software comes approximately week after Apple released the <a href="https://www.macrumors.com/2024/10/14/apple-seeds-fifth-beta-watchos-11-1/">fifth beta</a>.<br/>
+It is likely that the Magic Keyboard with Touch ID, Magic Mouse, and Magic Trackpad accessories that are included in the box with the iMac will finally feature USB-C ports, as part of Apple's transition away from Lightning. More on that below.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/06/watchOS-11-Feature-2-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-955937" /><br/>
-watchOS 11.1 can be installed by going to the Apple Watch app and selecting the Software Update section under "General" in Settings. <br/>
+<h3>Mac mini</h3><br/>
+<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/10/M4-Mac-mini-Ortho-Silver-Cooler.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972060" /><em>A concept of a smaller Mac mini</em></div><br/>
+The next Mac mini is expected to be available with M4 and M4 Pro chip options. <em>Bloomberg</em>'s Mark Gurman <a href="https://www.macrumors.com/2024/10/03/mac-mini-redesign-rumor/">expects the next Mac mini to be smaller</a>, making it closer in size to an Apple TV, and he said that the computer will gain two front-facing USB-C ports. All in all, the Mac mini is expected to receive its biggest redesign since 2010.<br/>
 <br/>
-So far, no major new features have been discovered in the watchOS 11.1 update, though Apple's release notes indicate that there is a fix for an issue that could cause problems writing breathing disturbance data to the Health app. <br/>
+It is unclear if the next Mac mini will also start with 16GB of RAM, instead of the current 8GB.<br/>
 <br/>
-watchOS 11.1 is expected to see a release alongside iOS 18.1 next Monday.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/watchos-11/">watchOS 11</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/apple-watchos-11-1-release-candidate-now-available/">Apple Seeds watchOS 11.1 Release Candidate</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-watchos-11-1-release-candidate.2440706/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPad Mini 7 Launches Tomorrow: Here Are 12 Changes to Know About</title>
-		<link>https://www.macrumors.com/2024/10/22/ipad-mini-7-all-new-features-and-changes/</link>
-		<comments>https://forums.macrumors.com/threads/ipad-mini-7-launches-tomorrow-here-are-12-changes-to-know-about.2440699/</comments>
-		<pubDate>Tue, 22 Oct 2024 08:45:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/ipad-mini-7-all-new-features-and-changes/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPad mini</category>
-		
-
-		<description><![CDATA[Earlier this month, Apple <a href="https://www.macrumors.com/2024/10/15/apple-unveils-new-ipad-mini-apple-intelligence/">announced a new iPad mini</a> for the first time in three years. Ahead of the device launching this Wednesday, we have outlined 12 new features and changes with the seventh-generation iPad mini compared to the previous model.<br/>
+<h3>USB-C Magic Accessories</h3><br/>
+<img src="https://images.macrumors.com/article-new/2022/07/magic-trackpad-orange-image.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-852993" /><br/>
+<em>MacRumors</em> contributor Aaron Perris recently discovered <a href="https://www.macrumors.com/2024/10/21/apple-new-magic-mouse-trackpad-keyboard/">code references to new versions of the Magic Mouse, Magic Trackpad, and Magic Keyboard</a>, and these accessories will likely switch from Lightning to USB-C for charging alongside the new iMac. In the EU, a regulation requiring USB-C as a common charging port goes into effect later this year.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/10/ipad-mini-7-apple-intelligence-a17-pro-feature.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-970909" /><br/>
-Here's everything new with the iPad mini 7:<br/>
+It is unclear if the accessories will have any other changes.<br/>
 <br/>
-<ul><li><strong>A17 Pro chip:</strong> Introduced in the iPhone 15 Pro models last year, the A17 Pro chip is now available in the iPad mini 7, although it <a href="https://www.macrumors.com/2024/10/18/ipad-mini-7-benchmarks-confirm-8gb-ram/">has a 5-core GPU</a> instead of a 6-core GPU. Apple says the iPad mini 7 offers up to 30% faster CPU performance compared to the previous iPad mini with the A15 Bionic chip.</li><br/>
-<li><strong>8GB of RAM for Apple Intelligence support:</strong> The new iPad mini is compatible with Apple Intelligence, which will be available <a href="https://www.macrumors.com/2024/10/21/airpods-pro-hearing-features-launching-in-ios-18-1/">starting with iPadOS 18.1 next week</a>. Geekbench results confirmed that the device is <a href="https://www.macrumors.com/2024/10/18/ipad-mini-7-benchmarks-confirm-8gb-ram/">equipped with 8GB of RAM</a>, the minimum requirement for Apple Intelligence. That's up from 4GB of RAM in the iPad mini 6.</li><br/>
-<li><strong>Apple Pencil Pro support:</strong> The new iPad mini is compatible with the Apple Pencil Pro.</li><br/>
-<li><strong>Apple Pencil hover:</strong> This feature lets you preview the Apple Pencil's stroke on the canvas before the accessory touches the screen.</li><br/>
-<li><strong>"Jelly scrolling" fixed?</strong> Most reviews said <a href="https://www.macrumors.com/2024/10/22/does-ipad-mini-7-fix-jelly-scrolling/">"jelly scrolling" is much less noticeable or fully absent on the new iPad mini</a>, but one prominent technology website disagreed, so we await teardowns for further confirmation.</li><br/>
-<li><strong>Faster USB-C port:</strong> The USB-C port on the iPad mini 7 supports data transfer speeds of up to 10 Gbps, compared to 5 Gbps for the iPad mini 6.</li><br/>
-<li><strong>eSIM only:</strong> All cellular models of the iPad mini 7 lack a nano-SIM card slot worldwide and instead rely solely on digital eSIM technology.</li><br/>
-<li><strong>Wi-Fi 6E support:</strong> The new iPad mini supports the faster Wi-Fi 6E standard, which extends the capabilities of regular Wi-Fi 6 to the 6 GHz band. You will also need a router with Wi-Fi 6E support.</li><br/>
-<li><strong>Double the base storage:</strong> iPad mini now starts with 128GB of storage, compared to 64GB for the previous model.</li> <br/>
-<li><strong>Final Cut Pro support:</strong> Final Cut Pro is <a href="https://www.macrumors.com/2024/10/22/ipad-mini-7-compatible-with-final-cut-pro/">compatible with the new iPad mini</a>.</li><br/>
-<li><strong>Improved HDR photos:</strong> The new iPad mini supports "Smart HDR 4," whereas the previous model supports "Smart HDR 3." Apple says Smart HDR 4 makes photos look "even more detailed and vivid."</li><br/>
-<li><strong>"iPad mini" inscription:</strong> The new iPad mini has an "iPad mini" inscription on the back of device. Previous models of the device are inscribed with "iPad."</li></ul><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad_Mini">iPad Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/ipad-mini-7-all-new-features-and-changes/">iPad Mini 7 Launches Tomorrow: Here Are 12 Changes to Know About</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipad-mini-7-launches-tomorrow-here-are-12-changes-to-know-about.2440699/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPad Mini vs. iPad Air Buyer&#039;s Guide: 15 Differences Compared</title>
-		<link>https://www.macrumors.com/guide/ipad-mini-vs-ipad-air/</link>
-		<comments>https://forums.macrumors.com/threads/ipad-mini-vs-ipad-air-buyers-guide-15-differences-compared.2337402/</comments>
-		<pubDate>Tue, 22 Oct 2024 08:16:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/ipad-mini-vs-ipad-air&#038;post_date=1729620960/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Buyer's Guide</category>
-		<category>Featured</category>
-		<category>iPad Air</category>
-		<category>iPad mini</category>
-		
-
-		<description><![CDATA[Apple recently introduced the seventh-generation <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a>, offering the A17 Pro chip, Apple Intelligence support, 8GB of memory, <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a> Pro and &zwnj;Apple Pencil&zwnj; hover support, and more. Earlier this year, Apple debuted the sixth-generation <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air</a>, featuring the <a href="https://www.macrumors.com/guide/m2/">M2</a> chip, &zwnj;Apple Pencil&zwnj; Pro support, and a larger display size option. <br/>
+<h2>Software</h2><br/>
+<h3>iOS 18.1 With First Apple Intelligence Features and More</h3><br/>
+<img src="https://images.macrumors.com/article-new/2024/08/Generic-iOS-18.1-Feature-Real-Mock.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-963325" /><br/>
+Apple recently confirmed that new AirPods Pro 2 hearing health features <a href="https://www.macrumors.com/2024/10/21/airpods-pro-hearing-features-launching-in-ios-18-1/">will be available as part of iOS 18.1 next week</a>, so there could be an announcement when the software update is released, especially since it also includes the <a href="https://www.macrumors.com/guide/ios-18-1-apple-intelligence/">first set of Apple Intelligence features</a> for the iPhone 15 Pro, iPhone 15 Pro Max, and all iPhone 16 models.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2022/03/ipad-mini-vs-air-early-2022.jpg" alt="" width="2498" height="1406" class="aligncenter size-full wp-image-839261" /><br/>
-The &zwnj;iPad mini&zwnj; effectively shares the design of the &zwnj;iPad Air&zwnj;, with both devices possessing many of the same features such as an all-screen design with no Home button, <a href="https://www.macrumors.com/guide/touch-id/">Touch ID</a> in the top button, and stereo speakers. Despite theoretically being different product lines, the &zwnj;iPad mini&zwnj; and &zwnj;iPad Air&zwnj; are almost identical in terms of specifications and are even available in the same color options. There are still some minor differences between the devices, such as their display sizes and chips, that set the devices apart.<br/>
+Gurman said Apple has planned to release the update <a href="https://www.macrumors.com/2024/10/06/apple-to-release-ios-18-1-on-october-28/">on Monday, October 28</a>.<br/>
 <br/>
-Should you buy the more expensive, larger &zwnj;iPad Air&zwnj;, or opt for the smaller and more affordable &zwnj;iPad mini&zwnj;? Our guide helps to answer the question of how to decide which of these two iPads is best for you. All of the differences between the two devices are listed below:<br/>
+The following other updates are expected to be widely released next week as well:<br/>
 <br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>&zwnj;iPad mini&zwnj; (seventh generation, 2024)</th><br/>
- <th>&zwnj;iPad Air&zwnj; (sixth generation, 2024)</th><br/>
- </tr><br/>
- <tr><br/>
- <td>8.3-inch display with 326 ppi</td><br/>
- <td>11-inch or 13-inch display with 264 ppi</td><br/>
- </tr><br/>
- <tr><br/>
- <td>500 nits max SDR brightness</td><br/>
- <td><strong>11-inch</strong>: 500 nits max SDR brightness<br/>
-<strong>13-inch</strong>: 600 nits max SDR brightness</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Smaller, compact design for maximum portability</td><br/>
- <td>Larger design, better for productivity</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Weighs 0.66 pounds (297 grams)</td><br/>
- <td><strong>11-inch</strong>: Weighs 1.02 pounds (462 grams)<br/>
-<strong>13-inch</strong>: Weighs 1.36 pounds (617 grams)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>A17 Pro chip (introduced with <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> Pro in 2023, made with TSMC's <a href="https://www.macrumors.com/guide/3nm/">3nm</a> N3 process)</td><br/>
- <td>&zwnj;M2&zwnj; chip (introduced with redesigned <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> in 2022, made with TSMC's enhanced 5nm N5P process)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>6-core CPU</td><br/>
- <td>8-core CPU</td><br/>
- </tr><br/>
- <tr><br/>
- <td>5-core GPU</td><br/>
- <td>9-core GPU</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Dedicated media Engine<br/>
-Hardware-accelerated H.264 and HEVC<br/>
-Video decode engine<br/>
-Video encode engine</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td><a href="https://www.macrumors.com/guide/stage-manager/">Stage Manager</a> support</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Volume buttons on top</td><br/>
- <td>Volume buttons on right side</td><br/>
- </tr><br/>
- <tr><br/>
- <td>12MP Ultra Wide front camera</td><br/>
- <td>Landscape 12MP Ultra Wide front camera</td><br/>
- </tr><br/>
- <tr><br/>
- <td>True Tone flash</td><br/>
- <td></td><br/>
- </tr><br/>
- <tr><br/>
- <td>Compatible with Bluetooth keyboards only</td><br/>
- <td><a href="https://www.macrumors.com/guide/smart-connector/">Smart Connector</a> to support Apple's Magic Keyboard and <a href="https://www.macrumors.com/guide/smart-keyboard/">Smart Keyboard</a> Folio</td><br/>
- </tr><br/>
- <tr><br/>
- <td>128GB, 256GB, or 512GB of storage</td><br/>
- <td>128GB, 256GB, 512GB, or 1TB of storage</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Starts at &#36;499</td><br/>
- <td><strong>11-inch</strong>: Starts at &#36;599<br/>
-<strong>13-inch</strong>: Start at &#36;799</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
+<ul><li>iPadOS 18.1</li><br/>
+<li>macOS Sequoia 15.1</li><br/>
+<li>watchOS 11.1</li><br/>
+<li>tvOS 18.1</li><br/>
+<li>HomePod Software 18.1</li><br/>
+<li>visionOS 2.1</li></ul><br/>
 <br/>
-Overall, the &zwnj;iPad Air&zwnj; is the best all-around option for the majority of users, providing a large screen for productivity and consuming entertainment in a slim, portable design. The additional &#36;100 needed to buy the 11-inch &zwnj;iPad Air&zwnj; over the &zwnj;iPad mini&zwnj; is more than justified for the benefits that come with its larger display and &zwnj;M2&zwnj; chip, not least the ability to practically use it as a laptop replacement with the Magic Keyboard and &zwnj;Stage Manager&zwnj;.<br/>
-<br/>
-Yet, most customers who choose the &zwnj;iPad mini&zwnj; will do so because of its screen size rather than in spite of it. The &zwnj;iPad mini&zwnj; is ideal for comfortably reading ebooks, playing handheld games, and easy transport and storage. Those who buy the &zwnj;iPad mini&zwnj; will likely have a specific use case in mind for how they will use the device, such as for note-taking on the go with the &zwnj;Apple Pencil&zwnj;, throwing into a small bag to use on public transport, or giving it to a kid as their first tablet.<br/>
-<br/>
-If you do not see the &zwnj;iPad mini&zwnj;'s smaller display, easy one-handed grip, lightweight design, and portable form factor as an advantage for your use case and are focused on a more versatile display size, you will likely prefer the &zwnj;iPad Air&zwnj;, especially as it is now available with a 13-inch size option. The &zwnj;iPad Air&zwnj; is more of an all-around device that works as a potential laptop replacement with support for &zwnj;Stage Manager&zwnj;, with the added bonuses that come with a bigger screen for productivity and entertainment.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ipad-air/">iPad Air </a>, <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPad-Air">iPad Air (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#iPad_Mini">iPad Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/ipad.137">iPad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ipad-mini-vs-ipad-air/">iPad Mini vs. iPad Air Buyer&#039;s Guide: 15 Differences Compared</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ipad-mini-vs-ipad-air-buyers-guide-15-differences-compared.2337402/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple CEO Tim Cook and COO Jeff Williams Visiting China</title>
-		<link>https://www.macrumors.com/2024/10/22/cook-and-williams-visiting-china/</link>
-		<comments>https://forums.macrumors.com/threads/apple-ceo-tim-cook-and-coo-jeff-williams-visiting-china.2440693/</comments>
-		<pubDate>Tue, 22 Oct 2024 07:59:09 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/22/cook-and-williams-visiting-china/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>China</category>
-		<category>Jeff Williams</category>
-		<category>Tim Cook</category>
-		
-
-		<description><![CDATA[Apple CEO <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a> and COO Jeff Williams are in China this week to promote Apple's products and initiatives in the region. Throughout their trip, Cook has been <a href="https://m.weibo.cn/u/5524254784?luicode=20000061&lfid=4883088750673991">active on Weibo</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/tim-cook-jeff-williams-china.jpg" alt="" width="6300" height="4235" class="alignnone size-full wp-image-972030" /><br/>
-Cook and Williams met students from China Agricultural University and Zhejiang University, exploring how they use iPhones and iPads to improve sustainable agricultural practices. Cook thanked the China Rural Development Fund (CFRD) and everyone involved in the Science and Technology Backyards initiative for their work in promoting efficiency and sustainability in farming.<br/>
-<br/>
-They also met renowned Chinese fashion photographer Chen Man, who captured images of Cook using the <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a> Max. Cook spent time with musician Lexie Liu, who shared insights into her creative process and how she uses Apple products, including the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and Mac. Cook and Williams also visited developers at Gala Sports, where they witnessed a demonstration of the game NBA Rivals on the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>.<br/>
-<br/>
-A significant aspect of Cook's trip was the announcement of Apple's support for a national parks initiative in China through a partnership with the China Green Carbon Foundation (CGCF). The visit marks Cook's second trip to China in 2024, following a visit in March, which included the opening of Apple's 57th store in the Greater China region and meetings with key suppliers. <br/>
-<br/>
-Simultaneously, Apple's Senior Vice President Worldwide Marketing Greg Jozwiak is <a href="https://x.com/gregjoz/status/1848372693923504398">visiting Europe</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/china/">China</a>, <a href="https://www.macrumors.com/guide/jeff-williams/">Jeff Williams</a>, <a href="https://www.macrumors.com/guide/tim-cook/">Tim Cook</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/22/cook-and-williams-visiting-china/">Apple CEO Tim Cook and COO Jeff Williams Visiting China</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-ceo-tim-cook-and-coo-jeff-williams-visiting-china.2440693/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<h2>Earnings</h2><br/>
+Apple will be discussing its earnings results for the fourth quarter of its 2024 fiscal year <a href="https://www.macrumors.com/2024/10/03/apple-earnings-on-halloween/">on Thursday, October 31</a> at 2 p.m. Pacific Time. That call will provide early insight into iPhone 16, Apple Watch Series 10, and AirPods 4 sales, and Apple will likely touch on some of its Mac-related announcements on the call too.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a>, <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/magic-keyboard/">Magic Keyboard</a>, <a href="https://www.macrumors.com/guide/magic-mouse/">Magic Mouse</a>, <a href="https://www.macrumors.com/guide/magic-trackpad/">Magic Trackpad</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Don't Buy)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a>, <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a>, <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/24/what-to-expect-from-apple-announcements-next-week/">What to Expect From Apple&#039;s &#039;Exciting Week of Announcements&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/what-to-expect-from-apples-exciting-week-of-announcements.2440877/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
