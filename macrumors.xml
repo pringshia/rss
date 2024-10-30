@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Mon, 28 Oct 2024 16:24:24 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 30 Oct 2024 03:04:19 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,639 +22,407 @@
 	<generator>https://www.macrumors.com</generator>
 		
 		<item>
-		<title>iOS 18.1: What You Get If You Don&#039;t Have an iPhone With Apple Intelligence</title>
-		<link>https://www.macrumors.com/2024/10/28/ios-18-1-no-apple-intelligence/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-1-what-you-get-if-you-dont-have-an-iphone-with-apple-intelligence.2441200/</comments>
-		<pubDate>Mon, 28 Oct 2024 15:49:06 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/ios-18-1-no-apple-intelligence/</guid>
+		<title>GitHub Brings Copilot to Xcode</title>
+		<link>https://www.macrumors.com/2024/10/29/github-brings-copilot-to-xcode/</link>
+		<comments>https://forums.macrumors.com/threads/github-brings-copilot-to-xcode.2441373/</comments>
+		<pubDate>Tue, 29 Oct 2024 17:10:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/github-brings-copilot-to-xcode/</guid>
 		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
+		<category>GitHub</category>
+		<category>Xcode</category>
 		
 
-		<description><![CDATA[iOS 18.1 is the first <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> update with <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> capabilities, and that's what a lot of the coverage about the new software has focused on. If you don't have an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> that's capable of &zwnj;Apple Intelligence&zwnj;, you're probably wondering just what's in the update for you.<br/>
+		<description><![CDATA[Popular AI coding tool Copilot is now available for Xcode as part of a public preview, GitHub <a href="https://github.blog/changelog/2024-10-29-github-copilot-code-completion-in-xcode-is-now-available-in-public-preview/">announced today</a>. Apple developers can use Copilot for coding assistance directly in Xcode, which GitHub says will help developers boost productivity, speed up development, and enhance their overall coding experience.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/10/iOS-18.1-Without-Apple-Intelligence-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972870" /><br/>
-While &zwnj;Apple Intelligence&zwnj; does make up the bulk of what's new, if you have an older device, you still get some solid improvements.<br/>
-<br/>
-<h2>Phone Call Recording</h2><br/>
-In iOS 18.1, you can record any phone call that you're on, with the audio saved to the Notes app. The Notes app is able to automatically generate a transcript of the call, which you can search.<br/>
-<br/>
-To use call recording, just tap on the little voice wave icon in the upper left while on a call. You cannot record a call in secret - all participants are notified that a recording is in progress through an automated message.<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/copilot-for-xcode.jpg" alt="" width="2238" height="1260" class="aligncenter size-full wp-image-973892" /><br/>
+GitHub Copilot for Xcode offers multiple useful features.<br/>
 <ul><br/>
- 	<li><a href="https://www.macrumors.com/how-to/ios-record-your-phone-calls/">How to Record and Transcribe Phone Calls</a></li><br/>
+ 	<li>Code completions with real-time code suggestions.</li><br/>
+ 	<li>Multi-language support, including Swift and Objective-C.</li><br/>
+ 	<li>Multiline suggestions for code.</li><br/>
+ 	<li>Content filtering to ensure all code recommendations adhere to professional standards.</li><br/>
+ 	<li>Option to block suggestions matching public code.</li><br/>
 </ul><br/>
-Your recorded phone calls are saved in the Notes app. You can play a call back in its entirety or get a transcript, as well as find specific spots in a call using the transcript. Transcripts are generated automatically and can be searched.<br/>
+Xcode users who have a Copilot license can use Copilot for Xcode by <a href="https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/installing-the-github-copilot-extension-in-your-environment?tool=xcode">installing the Copilot extension</a>. As of right now, the feature is available in a preview capacity and GitHub is soliciting feedback from developers.<br/>
 <br/>
-You need an &zwnj;iPhone&zwnj; 12 or later to use call recording, and that's also the minimum device requirement for the related feature for saving voice memos to the Notes app to get a transcript.<br/>
-<br/>
-Transcripts are available in English (U.S., Australia), Spanish (U.S., Mexico), Mandarin Chinese (China mainland), Cantonese (Hong Kong), and Korean (South Korea) right now.<br/>
-<br/>
-<h2>AirPods Features</h2><br/>
-If you have <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2, you have access to all of the new Hearing Health features that are available in iOS 18.1. That includes a hearing test to check for hearing loss, as well as the option to use the &zwnj;AirPods Pro&zwnj; 2 as a hearing aid if you do end up finding mild to moderate hearing loss.<br/>
-<br/>
-The &zwnj;AirPods Pro&zwnj; 2 can also be used to protect your hearing, listening for loud sounds around you like construction noise or shouting and minimizing them. It will work for sustained sounds louder than 110 decibels, but it's not meant for burst sounds like gunfire, fireworks, or jackhammers.<br/>
-<br/>
-As long as you have &zwnj;AirPods Pro&zwnj; 2, the latest &zwnj;AirPods Pro&zwnj; 2 firmware (<a href="https://www.macrumors.com/2024/10/24/apple-releases-airpods-pro-2-firmware-7b19/">which is out now</a>) and a device that can run &zwnj;iOS 18&zwnj; (or an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> with <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>) you can use the Hearing Test, Hearing Aid, and Hearing Protection capabilities.<br/>
-<br/>
-<h2>App Store Search</h2><br/>
-The <a href="https://www.macrumors.com/guide/app-store/">App Store</a> now supports natural language search, so it's easier to find exactly what you're looking for. Some of the possible searches now:<br/>
-<ul><br/>
- 	<li>Fun new games to play</li><br/>
- 	<li>Apps for learning new skills</li><br/>
- 	<li>Apps to help with physics homework</li><br/>
- 	<li>Games to compete with friends</li><br/>
- 	<li>Cooking games for kids</li><br/>
- 	<li>Best games in the world</li><br/>
- 	<li>Apps with HealthKit integration</li><br/>
- 	<li>Games with roguelike elements</li><br/>
- 	<li>Games to play without Wi-Fi</li><br/>
- 	<li>Apps to sell stuff</li><br/>
- 	<li>Apps to watch movies for free</li><br/>
-</ul><br/>
-<h2>Smaller New Features</h2><br/>
-There are a few other minor feature tweaks that are worth knowing about.<br/>
-<ul><br/>
- 	<li><strong>Control Center</strong> - You can add standalone buttons for AirDrop and Satellite, plus there are Control Center controls for Measure and Level.</li><br/>
- 	<li><strong>Apple Music</strong> - You can share <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> songs directly to TikTok.</li><br/>
- 	<li><strong>Wallet</strong> - The Wallet app no longer shows your Savings account balance on the main <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a> screen, and you need to tap into it to get that info.</li><br/>
-</ul><br/>
-<h2>Bug Fixes</h2><br/>
-Along with these features, there are a couple of bug fixes.<br/>
-<ul><br/>
- 	<li><strong>Podcasts</strong> - Unplayed Podcasts episodes should no longer be marked as played.</li><br/>
- 	<li><strong>Photos</strong> - When you're scrubbing through a 4K 60fps video in the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app, it will no longer stutter.</li><br/>
- 	<li><strong>Car keys</strong> - If you had a problem where your digital car key would not start or unlock your vehicle with passive unlocking, the update should fix it.</li><br/>
-</ul><br/>
-<h2>What to Look Forward to Next</h2><br/>
-Apple is testing iOS 18.2 right now, and it once again focuses primarily on &zwnj;Apple Intelligence&zwnj; features. There are some non-AI changes to look forward to, though, like a whole new look for the Mail app with built-in categorization and a new interface for setting default apps to replace Apple's own apps.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/ios-18-1-no-apple-intelligence/">iOS 18.1: What You Get If You Don&#039;t Have an iPhone With Apple Intelligence</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-1-what-you-get-if-you-dont-have-an-iphone-with-apple-intelligence.2441200/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Copilot is priced starting at &#36;10 per month or &#36;100 per year.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/github/">GitHub</a>, <a href="https://www.macrumors.com/guide/xcode/">Xcode</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/github-brings-copilot-to-xcode/">GitHub Brings Copilot to Xcode</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/github-brings-copilot-to-xcode.2441373/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Apple Card Users Can Get Up to 5% Daily Cash on All Purchases Through Holiday Season</title>
-		<link>https://www.macrumors.com/2024/10/28/apple-card-promo-daily-cash-back/</link>
-		<comments>https://forums.macrumors.com/threads/apple-card-users-can-get-up-to-5-daily-cash-on-all-purchases-through-holiday-season.2441195/</comments>
-		<pubDate>Mon, 28 Oct 2024 15:25:12 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/apple-card-promo-daily-cash-back/</guid>
+		<title>Google Chrome Browser for Desktop Gains New Performance Controls</title>
+		<link>https://www.macrumors.com/2024/10/29/google-chrome-performance-controls/</link>
+		<comments>https://forums.macrumors.com/threads/google-chrome-browser-for-desktop-gains-new-performance-controls.2441361/</comments>
+		<pubDate>Tue, 29 Oct 2024 15:33:06 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/google-chrome-performance-controls/</guid>
 		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Card</category>
+		<category>Google Chrome</category>
 		
 
-		<description><![CDATA[Apple is launching a new <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a> promotion for &zwnj;Apple Card&zwnj; users, providing the option to earn up to five percent Daily Cash on purchases made from November 6, 2024 to April 30, 2025.<br/>
+		<description><![CDATA[The Memory Saver feature in the Chrome browser for desktop <a href="https://blog.google/products/chrome/google-chrome-performance-controls-october-2024/">now features</a> three different modes, including Standard, Balanced, and Advanced. Memory Saver is aimed at speeding up browser performance by limiting the memory that inactive tabs are using.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2020/04/apple-card-feature2.jpg" alt="" width="1144" height="644" class="aligncenter size-full wp-image-735877" /><br/>
-To unlock the Daily Cash back promotion, users will need to spend between &#36;5,000 and &#36;15,000. At &#36;5,000, three percent Daily Cash is unlocked. Spending &#36;10,000 unlocks four percent Daily Cash, and spending &#36;15,000 unlocks five percent Daily Cash.<br/>
+<img src="https://images.macrumors.com/article-new/2022/06/Chrome-Feature-22.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-851161" /><br/>
+Standard mode deactivates tabs based on your computer's needs, while Balanced mode considers both browsing habits and the needs of the system. Advanced mode deactivates tabs more quickly after you stop using them. You can select a Memory Saver mode by going to the Settings menu in Chrome and choosing the Performance option.<br/>
 <br/>
-You will need to spend at least &#36;5,000 to get the bonus, and it is not retroactive, so it will only apply to purchases made after you hit each spending limit.<br/>
+Google has also added a Performance Detection tool to Chrome. The tool is able to identify potential performance issues that you might have, offering up solutions on how to fix the problem.<br/>
 <br/>
-Apple says that the offer is limited to select &zwnj;Apple Card&zwnj; users who receive a notification about it in the Wallet app. Those eligible who have &zwnj;Apple Card&zwnj; participants will see shared spending count toward the total.<br/>
+To speed up a tab you're using, for example, Google says Chrome will suggest deactivating tabs using extra resources. Chrome users will see a "Performance issue alert" notification, and clicking on the included "Fix now" option will improve browsing. Performance Detection can be disabled in Settings.<br/>
 <br/>
-For &zwnj;Apple Card&zwnj; partner stores that already offer three percent cash back, there will be no additional Daily Cash increase until the four percent tier is reached. The Daily Cash bonus is available on up to &#36;50,000 in total purchases.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-card/">Apple Card</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/apple-card-promo-daily-cash-back/">Apple Card Users Can Get Up to 5% Daily Cash on All Purchases Through Holiday Season</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-card-users-can-get-up-to-5-daily-cash-on-all-purchases-through-holiday-season.2441195/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Chrome has additional performance controls that can be used to set websites that should always remain active, such as those that need to complete tasks in the background, plus there's an option to turn off visual indicators for inactive tabs.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/google-chrome/">Google Chrome</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/google-chrome-performance-controls/">Google Chrome Browser for Desktop Gains New Performance Controls</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/google-chrome-browser-for-desktop-gains-new-performance-controls.2441361/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Mac Pro Now Comes With USB-C Accessories, Including Magic Mouse and Keyboard</title>
-		<link>https://www.macrumors.com/2024/10/28/mac-pro-now-comes-with-usb-c-accessories/</link>
-		<comments>https://forums.macrumors.com/threads/mac-pro-now-comes-with-usb-c-accessories-including-magic-mouse-and-keyboard.2441194/</comments>
-		<pubDate>Mon, 28 Oct 2024 15:15:29 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/mac-pro-now-comes-with-usb-c-accessories/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
+		<title>Final Cut Pro to Gain &#039;Transcribe to Caption&#039; AI Feature</title>
+		<link>https://www.macrumors.com/2024/10/29/final-cut-pro-ai-transcription-captions/</link>
+		<comments>https://forums.macrumors.com/threads/final-cut-pro-to-gain-transcribe-to-caption-ai-feature.2441349/</comments>
+		<pubDate>Tue, 29 Oct 2024 13:29:42 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/final-cut-pro-ai-transcription-captions/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Final Cut Pro</category>
+		
+
+		<description><![CDATA[In today's <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> announcement video, Apple showed off some new capabilities that are coming to the Final Cut Pro video editing software in the future.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/final-cut-pro-captions.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-973886" /><br/>
+Final Cut Pro will soon incorporate AI for generating captions for videos without having to use additional software. Current versions of Final Cut Pro allow you to import captions from another app, use a plug-in, or write them yourself, but soon the software will generate them natively.<br/>
+<br/>
+The mention of the Final Cut Pro capability is at about 3:50 in the announcement video below.<br/>
+<br/>
+<div class="center-wrap"><iframe title="Mac mini Announcement - October 29" src="https://www.youtube.com/embed/TtFm9n3NVzE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+Apple didn't highlight any other features coming to Final Cut Pro, but there was a short clip of the caption option that also suggests that a new "Magnetic Mask" function is coming, as well as a mention of AI effects. <br/>
+<br/>
+The <a href="https://fcpcreativesummits.com">2024 FCP Creative Summit</a> is set to take place in November, and it's likely that we'll hear about new AI features coming to Final Cut Pro at the event.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/final-cut-pro/">Final Cut Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/final-cut-pro-ai-transcription-captions/">Final Cut Pro to Gain &#039;Transcribe to Caption&#039; AI Feature</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/final-cut-pro-to-gain-transcribe-to-caption-ai-feature.2441349/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Releases New AirPods 4 Firmware</title>
+		<link>https://www.macrumors.com/2024/10/29/airpods-4-firmware-7b19/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-new-airpods-4-firmware.2441328/</comments>
+		<pubDate>Tue, 29 Oct 2024 11:25:17 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/airpods-4-firmware-7b19/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>AirPods</category>
 		<category>Featured</category>
-		<category>Mac Pro</category>
-		<category>Magic Keyboard</category>
-		<category>Magic Mouse</category>
-		<category>Magic Trackpad</category>
 		
 
-		<description><![CDATA[Apple today <a href="https://www.apple.com/shop/buy-mac/mac-pro">updated its website</a> to indicate that the Mac Pro now ships with a USB-C to USB-C charging cable in the box, instead of a USB-C to Lightning cable, and we have learned that the high-end desktop computer now comes with the new USB-C versions of the Magic Mouse and Magic Keyboard accessories in the box as well.<br/>
+		<description><![CDATA[Apple today released a new firmware update for all <a href="https://www.macrumors.com/roundup/airpods/">AirPods 4</a> models. The &zwnj;AirPods 4&zwnj; firmware has a build number of 7B19, up from the previous 7A304 firmware that <a href="https://www.macrumors.com/2024/09/18/apple-airpods-pro-2-firmware-7a302/">came out in September</a>.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/10/Mac-Pro-Magic-Accessories.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-973399" /><br/>
-There are no other changes to the Mac Pro today beyond the Magic accessories and charging cable switching from Lightning to USB-C.<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/airpods-4-blue.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972562" /><br/>
+There is no word yet on what's included in the new &zwnj;AirPods 4&zwnj; firmware, but it is available for both the standard &zwnj;AirPods 4&zwnj; and the &zwnj;AirPods 4&zwnj; with ANC. This is the second firmware update that the &zwnj;AirPods 4&zwnj; have received since they launched earlier this year.<br/>
 <br/>
-Apple released the current Mac Pro with the M2 Ultra chip in June 2023, with pricing starting at &#36;5,999 in the United States.<br/>
+Apple recently updated the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a> 2 to add Hearing Health capabilities like a hearing test, hearing protection, and hearing aid functionality. The &zwnj;AirPods Pro&zwnj; 2 also run the 7B19 firmware, but hearing aid functionality will not be included in the &zwnj;AirPods 4&zwnj;.<br/>
 <br/>
-Apple released <a href="https://www.macrumors.com/2024/10/28/apple-announces-usb-c-magic-accessories/">USB-C versions of the Magic Mouse, Magic Keyboard, and Magic Trackpad accessories</a> alongside the <a href="https://www.macrumors.com/2024/10/28/apple-announces-imac-with-m4-chip-upgraded-camera-new-colors-and-more/">new iMac with the M4 chip</a> earlier today. The accessories are also sold separately in white and black color options.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/magic-keyboard/">Magic Keyboard</a>, <a href="https://www.macrumors.com/guide/magic-mouse/">Magic Mouse</a>, <a href="https://www.macrumors.com/guide/magic-trackpad/">Magic Trackpad</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Pro">Mac Pro (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-pro.1">Mac Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/mac-pro-now-comes-with-usb-c-accessories/">Mac Pro Now Comes With USB-C Accessories, Including Magic Mouse and Keyboard</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/mac-pro-now-comes-with-usb-c-accessories-including-magic-mouse-and-keyboard.2441194/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Apple doesn't have a way to manually upgrade AirPods software, but firmware is generally installed over-the-air when the AirPods are in a charging case and connected to an iOS device or Mac.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods/">AirPods 4</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods">AirPods (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/airpods-4-firmware-7b19/">Apple Releases New AirPods 4 Firmware</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-airpods-4-firmware.2441328/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Lower-End Apple Silicon Macs With 10-Core M4 Chip to Fully Support Two External Displays</title>
-		<link>https://www.macrumors.com/2024/10/28/m4-chip-two-external-displays/</link>
-		<comments>https://forums.macrumors.com/threads/lower-end-apple-silicon-macs-with-10-core-m4-chip-to-fully-support-two-external-displays.2441190/</comments>
-		<pubDate>Mon, 28 Oct 2024 14:18:48 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/m4-chip-two-external-displays/</guid>
+		<title>New Mac Mini Provides Two Clues About RAM in Upcoming MacBook Pros</title>
+		<link>https://www.macrumors.com/2024/10/29/new-mac-mini-hints-at-macbook-pro-ram/</link>
+		<comments>https://forums.macrumors.com/threads/new-mac-mini-provides-two-clues-about-ram-in-upcoming-macbook-pros.2441327/</comments>
+		<pubDate>Tue, 29 Oct 2024 11:24:50 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/new-mac-mini-hints-at-macbook-pro-ram/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iMac</category>
-		<category>MacBook Air 15&quot;</category>
 		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
-		<category>MacBook Air 13&quot;</category>
 		
 
-		<description><![CDATA[In addition to the <a href="https://www.macrumors.com/2024/10/28/apple-announces-imac-with-m4-chip-upgraded-camera-new-colors-and-more/">new iMac</a> with the 10-core M4 chip being the <a href="https://www.macrumors.com/2024/10/28/10-core-m4-imac-supports-8k-display-at-120hz/">first-ever Mac with support for up to an 8K external display at 120Hz</a>, the computer also supports up to two 6K external displays at 60Hz. That's a very notable upgrade, as lower-end Apple silicon Macs like the MacBook Air, entry-level MacBook Pro, and previous iMac models have mostly been limited to a single external display, at least on an official basis.<br/>
+		<description><![CDATA[Apple today <a href="https://www.macrumors.com/2024/10/29/apple-announces-redesigned-mac-mini/">introduced a redesigned Mac mini</a> with M4 and M4 Pro chip options, and the computer provides two clues about RAM amounts for the next 14-inch and 16-inch MacBook Pro models, which are expected to be announced tomorrow.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/01/hero-banner-displays.jpg" alt="" width="1723" height="969" class="aligncenter size-full wp-image-930094" /><br/>
-Two exceptions are the MacBook Air and 14-inch MacBook Pro models with the M3 chip, which support up to two external displays, but <a href="https://www.macrumors.com/2024/07/29/macos-sonoma-14-6-dual-display-support/">only when the laptop's lid is closed</a>. Another exception is the Mac mini, which has an HDMI port for connecting a second display. DisplayLink adapters have also been a viable solution for multiple external displays ever since the first Apple silicon Macs with the M1 chip launched in 2020.<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/m3-mbp-space-black.jpg" alt="" width="1440" height="810" class="aligncenter size-full wp-image-919466" /><br/>
+First, just like the new iMac, the base-model Mac mini with the M4 chip starts with 16GB of RAM, which is double the 8GB of RAM included in the equivalent previous-generation model. As has <a href="https://www.macrumors.com/2024/10/23/apple-new-macs-16gb-ram-standard/">already been rumored</a> and <a href="https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/">leaked</a>, it now looks almost certain that the next base-model 14-inch MacBook Pro with the M4 chip will start with 16GB of RAM too. Given that a vocal contingent of Mac fans have long criticized Apple for including only 8GB of RAM with some Macs, the increased 16GB minimum would be a long-awaited change.<br/>
 <br/>
-But the 10-core M4 chip is notable in that it will bring proper support for two external displays to more lower-end Macs for the first time since Apple silicon launched, without any special tricks required. No more DisplayLink adapters, and no needing to have the MacBook's lid closed. That's a significant, long-awaited advancement for Apple silicon.<br/>
+Second, all higher-end Mac mini configurations with the M4 Pro chip start with 24GB of RAM, and this upgrade will likely extend to the incoming 14-inch and 16-inch MacBook Pro models with the M4 Pro chip. The current MacBook Pro models with the M3 Pro chip start with 18GB of RAM, so this would amount to a 6GB increase for the new models. The increased unified memory can benefit multitasking and Apple Intelligence performance.<br/>
 <br/>
-Higher-end Apple silicon Macs have supported multiple external displays since the MacBook Pro models with M1 Pro and M1 Max chips launched in 2021.<br/>
+Apple has yet to announce the M4 Max, so it is unclear how much RAM that chip will support.<br/>
 <br/>
-Apple is <a href="https://www.macrumors.com/2024/10/28/apple-promises-two-more-mac-announcements/">expected to announce</a> a new entry-level 14-inch MacBook Pro with the 10-core M4 chip this week, and an <a href="https://www.macrumors.com/2024/10/08/macbook-pro-m4-two-external-displays/">alleged leak</a> already confirmed that the laptop will support two external displays with the lid open. Next year, the M4 chip should expand to the MacBook Air, and 10-core configurations should likewise support two external displays.<br/>
-<br/>
-The new iMac is available to pre-order now, and it launches on Friday, November 8.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a>, <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#15-MacBook-Air">15" MacBook Air (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Air">13" MacBook Air (Neutral)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a>, <a href="https://forums.macrumors.com/forums/macbook-air.122">MacBook Air</a>, <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/m4-chip-two-external-displays/">Lower-End Apple Silicon Macs With 10-Core M4 Chip to Fully Support Two External Displays</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/lower-end-apple-silicon-macs-with-10-core-m4-chip-to-fully-support-two-external-displays.2441190/">Discuss this article</a> in our forums<br/><br/>]]></description>
+All of this information will likely be confirmed in less than 24 hours.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/new-mac-mini-hints-at-macbook-pro-ram/">New Mac Mini Provides Two Clues About RAM in Upcoming MacBook Pros</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-mac-mini-provides-two-clues-about-ram-in-upcoming-macbook-pros.2441327/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Everything You Need to Know About Apple Intelligence</title>
-		<link>https://www.macrumors.com/guide/apple-intelligence/</link>
-		<comments>https://forums.macrumors.com/threads/everything-you-need-to-know-about-apple-intelligence.2441182/</comments>
-		<pubDate>Mon, 28 Oct 2024 13:19:04 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/apple-intelligence&#038;post_date=1730157544/</guid>
+		<title>M4 Mac Mini is Apple&#039;s First Carbon Neutral Mac</title>
+		<link>https://www.macrumors.com/2024/10/29/apple-m4-mac-mini-carbon-neutral/</link>
+		<comments>https://forums.macrumors.com/threads/m4-mac-mini-is-apples-first-carbon-neutral-mac.2441326/</comments>
+		<pubDate>Tue, 29 Oct 2024 11:20:24 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/apple-m4-mac-mini-carbon-neutral/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Mac mini</category>
+		<category>Apple Environment</category>
+		
+
+		<description><![CDATA[With the launch of the <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a>, Apple says it has reached a milestone in its overarching environmental goal of total carbon neutrality by 2030. The <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> is Apple's first carbon neutral Mac to date, and it joins the carbon neutral Series 10 Apple Watch models.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/m4-mac-mini-carbon-neutral.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-973768" /><br/>
+The &zwnj;Mac mini&zwnj; is made from more than 50 percent recycled content overall, including 100 percent recycled aluminum in its enclosure, 100 percent recycled gold plating in its circuit boards, and 100 percent recycled rare earth elements in all magnets.<br/>
+<br/>
+Apple claims that the electricity that was used to manufacture the &zwnj;Mac mini&zwnj; is sourced from 100 percent renewable electricity, and the company says that its worldwide clean energy projects address 100 percent of the electricity that customers use to power their &zwnj;Mac mini&zwnj; devices.<br/>
+<br/>
+Apple updated its shipping methods, and 50 percent of &zwnj;Mac mini&zwnj; computers by weight are shipped using non-air modes of transportation, like ocean freight, from the factory to their next destination. According to Apple, these changes have cut the carbon footprint of the Mac by more than 80 percent, and to make up the remaining emissions, Apple "applies high-quality carbon credits from nature based products" such as those <a href="https://www.apple.com/newsroom/2024/03/apples-restore-fund-cultivates-new-roots-in-the-atlantic-forest/">from the Restore Fund</a>. The Restore Fund uses funds from Apple and other companies to invest in carbon removal projects such as reforesting.<br/>
+<br/>
+&zwnj;Mac mini&zwnj; packaging is fiber based, which Apple says brings it closer to its goal of eliminating plastic from packaging by 2025.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="ht" dir="ltr">Mac mini M4 box  <a href="https://t.co/gO1YvkYJLJ">pic.twitter.com/gO1YvkYJLJ</a></p>&mdash; Beta Profiles (@BetaProfiles) <a href="https://twitter.com/BetaProfiles/status/1851310432881164678?ref_src=twsrc%5Etfw">October 29, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+Back in 2020, Apple announced that it was committing to being <a href="https://www.macrumors.com/2020/07/21/apple-commits-carbon-neutral-supply-chain-2030/">100 percent carbon neutral</a> across its entire supply chain by 2030, with net zero climate impact for every Apple product sold. Apple plans to reduce emissions by 75 percent compared with 2015, while using carbon removal solutions for the remaining 25 percent of its carbon footprint.<br/>
+<br/>
+Apple's global corporate operations are already carbon neutral, and Apple has been making changes as it works toward hitting its 2030 goal.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-environment/">Apple Environment</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/apple-m4-mac-mini-carbon-neutral/">M4 Mac Mini is Apple&#039;s First Carbon Neutral Mac</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m4-mac-mini-is-apples-first-carbon-neutral-mac.2441326/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>M4 Pro Mac Mini Supports Up to Three 6K Displays</title>
+		<link>https://www.macrumors.com/2024/10/29/m4-pro-mac-mini-display-support/</link>
+		<comments>https://forums.macrumors.com/threads/m4-pro-mac-mini-supports-up-to-three-6k-displays.2441322/</comments>
+		<pubDate>Tue, 29 Oct 2024 10:46:57 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/m4-pro-mac-mini-display-support/</guid>
 		<dc:creator>Juli Clover</dc:creator>
 		<category>Featured</category>
-		<category>Featured (sticky)</category>
-		<category>iOS 18</category>
-		<category>macOS Sequoia</category>
-		<category>Mega Guides</category>
-		<category>Apple Intelligence</category>
-		
-
-		<description><![CDATA[Apple Intelligence is what Apple is calling its artificial intelligence feature set, previewed at WWDC in June 2024. The first Apple Intelligence features launched with iOS 18.1, iPadOS 18.1, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.1, but this is only an initial taste of what Apple has planned.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/apple-intelligence-black-everything-you-need-to-know.jpg" alt="" width="1400" height="788" class="aligncenter size-full wp-image-963902" /><br/>
-There are a selection of Apple Intelligence features that are available now, along with additional capabilities that will be rolling out across the rest of 2024 and 2025.<br/>
-<br/>
-<h2 id="apple_intelligence_features_available_now">Apple Intelligence Features Available Now</h2><br/>
-<h3 id="writing_tools">Writing Tools</h3><br/>
-<img class="aligncenter size-full wp-image-960221" src="https://images.macrumors.com/article-new/2024/07/ios-18-1-writing-tools.jpg" alt="" width="2000" height="1125" /><br/>
-<ul><br/>
- <li>Proofread text checks for spelling and grammar errors, including word choice and sentence structure. You can accept all suggestions with a tap or go through them one by one with explanations.</li><br/>
- <li>Rewrite cleans up what you've written and shifts the tone without impacting your content. Options include Friendly, Professional, and Concise.</li><br/>
- <li>You can select text and get a summary of it with Apple Intelligence. You can choose to create a paragraph, pull out key points, make a list, or create a table. Summaries are available in Mail, Messages, and more.</li><br/>
-</ul><br/>
-You can select any text on your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, or Mac and use Apple Intelligence to access Writing Tools for summaries and other features.<br/>
-<br/>
-<h3 id="siri">Siri</h3><br/>
-<img class="aligncenter size-full wp-image-960222" src="https://images.macrumors.com/article-new/2024/07/ios-18-1-siri.jpg" alt="" width="2000" height="1125" /><br/>
-<ul><br/>
- <li>There's a new glow around the edges of the display when <a href="https://www.macrumors.com/guide/siri/">Siri</a> is activated, applicable to &zwnj;iPhone&zwnj;, &zwnj;iPad&zwnj;, and <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a>. On Mac, the &zwnj;Siri&zwnj; window can be placed anywhere. The glow animates responsively to the sound of your voice so you can tell when &zwnj;Siri&zwnj; is listening without interrupting other things you're doing.</li><br/>
- <li>A double tap at the bottom of the display brings up the Type to &zwnj;Siri&zwnj; interface so you can type requests instead of speaking them. On Mac, you need to press the Command key twice to bring up Type to &zwnj;Siri&zwnj;. Type to &zwnj;Siri&zwnj; includes suggested requests so you can get your questions answered faster.</li><br/>
- <li>&zwnj;Siri&zwnj; can maintain context between requests so you can ask a question and then reference it in a second reply. If you ask about the temperature in Raleigh, for example, and then follow up with "what's the humidity?" &zwnj;Siri&zwnj; should know you mean in Raleigh.</li><br/>
- <li>If you stumble over your words when speaking to &zwnj;Siri&zwnj;, or change what you're saying mid-sentence, &zwnj;Siri&zwnj; will follow along.</li><br/>
- <li>&zwnj;Siri&zwnj; has Apple's product knowledge and support base for answering questions about your device's features and settings, and can even find settings when you don't know the exact name by using natural language search.</li><br/>
-</ul><br/>
-<h3 id="mail">Mail</h3><br/>
-<img class="aligncenter size-full wp-image-960207" src="https://images.macrumors.com/article-new/2024/07/ios-18-1-smart-replies.jpg" alt="" width="2000" height="1125" /><br/>
-<ul><br/>
- <li>There is a summarize button for summarizing any of your incoming emails, plus you will see a brief summary of an email in your inbox list rather than the first few lines of the email.</li><br/>
- <li>Mail surfaces time sensitive messages first when applicable, putting them at the top of your inbox so you see what's important right away.</li><br/>
- <li>Smart Reply provides quick-tap responses to emails that you've been sent, with contextual options based on what's in the email.</li><br/>
- <li>Multiple notifications from Mail will be summarized on your Lock Screen so you can see what's in an email without opening the app.</li><br/>
-</ul><br/>
-<h3 id="messages">Messages</h3><br/>
-<img class="aligncenter size-full wp-image-960223" src="https://images.macrumors.com/article-new/2024/07/ios-18-1-messages-smart-reply.jpg" alt="" width="2000" height="1125" /><br/>
-<ul><br/>
- <li>Messages has Smart Reply options for incoming texts, which analyze the content of messages to offer suggestions of what you might want to say.</li><br/>
- <li>Multiple Messages notifications are summarized on your Lock Screen.</li><br/>
- <li>You can use all of the Writing Tools features in the Messages app for proofreading and refining what you're planning to send.</li><br/>
-</ul><br/>
-<h3 id="photos">Photos</h3><br/>
-<img class="aligncenter size-full wp-image-960208" src="https://images.macrumors.com/article-new/2024/07/ios-18-1-memory-maker.jpg" alt="" width="2000" height="1125" /><br/>
-<ul><br/>
- <li>You can create a Memory Movie with just a description, such as "My cat in 2024," or "Orlando in the summer." The feature automatically picks relevant photos and chooses songs, but you can tweak through the Memory Mixes feature or choose a mood to guide the direction of the audio. You can also add in specific scenes and images you want to see throughout the memory when you're creating the prompt.</li><br/>
- <li>Natural language search is available in <a href="https://www.macrumors.com/guide/photos/">Photos</a>, so you can just describe what you're looking for, such as "Eric rollerskating while wearing green."</li><br/>
- <li>Search can also find specific moments in video clips.</li><br/>
- <li>Search offers up smart complete suggestions for narrowing down what you might want to find.</li><br/>
-</ul><br/>
-<h4>Clean Up</h4><br/>
-The &zwnj;Photos&zwnj; app also includes "Clean Up," a feature that lets you remove unwanted objects from your photos. The Clean Up tool in the ‌&zwnj;Photos&zwnj;‌ app is able to automatically detect objects in an image that might not be wanted, but you can also tap, circle, or brush over an unwanted object to remove it.<br/>
-<br/>
-Zooming in on an image can help with using a finger as a brush to remove smaller blemishes and issues with an image, and it is intelligent enough not to remove part of a person even if a person or main subject is selected.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-962933" src="https://images.macrumors.com/article-new/2024/08/iOS-18-Photos-Clean-Up-Feature-1.jpg" alt="" width="2500" height="1406" /><br/>
-Clean Up works on all images in the ‌&zwnj;Photos&zwnj;‌ library, including older images and images captured by other devices like a point and shoot camera or a DSLR.<br/>
-<br/>
-<h3 id="transcription_summaries">Transcription Summaries</h3><br/>
-In Notes and other apps, you can record audio and get a transcript along with a summary of your transcript, which is useful for recording lectures and other audio. Transcription isn't an Apple Intelligence feature, but summaries are.<br/>
-<br/>
-<h3 id="focus_modes">Focus Modes</h3><br/>
-There is a dedicated Reduce Interruptions Focus Mode that only shows you important notifications that need attention while filtering out everything else.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-960224" src="https://images.macrumors.com/article-new/2024/07/ios-18-1-focus-mode-changes.jpg" alt="" width="2000" height="1125" /><br/>
-When customizing an existing Focus mode or creating a new one, there is a new toggle to turn on Intelligent Breakthrough and Silencing. This option allows important notifications to interrupt you, while muting notifications that are not important, which is the same thing that the Reduce Notifications Focus does. You can override the notification settings for specific apps and people, which is how it worked prior to iOS 18.1.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-960225" src="https://images.macrumors.com/article-new/2024/07/ios-18-1-focus-reduce-interruptions.jpg" alt="" width="2000" height="1125" /><br/>
-<br/>
-<h3 id="notification_summaries">Notification Summaries</h3><br/>
-Your incoming notifications are summarized so you can see what's new for each app at a glance.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-968372" src="https://images.macrumors.com/article-new/2024/09/ios-18-apple-intelligence-notification-summary.jpg" alt="notifications" width="2000" height="1125" /><br/>
-<br/>
-<h3 id="phone">Phone</h3><br/>
-Summaries of transcriptions generated from your phone calls are supported in iOS 18.1. The iOS 18.1 update adds the option to record a phone call and get a transcription, which is not an Apple Intelligence feature. What does require Apple Intelligence, though, is getting a summary from that transcription without reading through the entire thing.<br/>
-<br/>
-Note that you can start a recording by tapping on the record button in the upper left corner of the display when on a phone call. All participants are notified that the call is being recorded before the recording starts.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-960199" src="https://images.macrumors.com/article-new/2024/07/ios-18-1-call-recording-1.jpg" alt="" width="5416" height="3047" /><br/>
-Recorded phone calls are stored in the Notes app, where you can tap in to view a transcript and get a summary generated from that transcript.<br/>
-<br/>
-<h3 id="safari">Safari</h3><br/>
-When reading an article in Reader Mode, there is an option to have Apple Intelligence summarize the article for you.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-960226" src="https://images.macrumors.com/article-new/2024/07/ios-18-1-safari-summarize.jpg" alt="" width="2000" height="1125" /><br/>
-<br/>
-<h2 id="apple_intelligence_features_coming_in_ios_18.2">Apple Intelligence Features Coming in iOS 18.2</h2><br/>
-The next set of Apple Intelligence features will come in iOS 18.2, iPadOS 18.2, and &zwnj;macOS Sequoia&zwnj; 15.2, and this is when Apple plans to release <a href="https://www.macrumors.com/guide/image-playground/">Image Playground</a>, Genmoji, and ChatGPT &zwnj;Siri&zwnj; integration. These features are being beta tested right now. <br/>
-<br/>
-Apple has a waitlist for &zwnj;Image Playground&zwnj;, Genmoji, and Image Wand, and these features will be rolling out to developers over the coming weeks so that Apple can collect feedback and make improvements to the image generation capabilities before a public launch later this year. <br/>
-<br/>
-<h3 id="image_playground">Image Playground</h3><br/>
-&zwnj;Image Playground&zwnj; can be used to generate images in cartoon-like styles using a text-based prompt. Apple has built-in suggestions and concepts that you can choose from, like costumes, locations, items, and themes. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/ios-18-2-image-playground-crocodile.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-972927" /><br/>
-While &zwnj;Image Playground&zwnj; is a standalone app, it is also integrated into the Messages and Notes app. In these apps, Apple can use context from what you've typed for image generation suggestions.<br/>
-<br/>
-For inspiration, you can upload or take a photo, and then get a cartoon AI version of it, and you can also use images of friends and family members pulled from the People album in the &zwnj;Photos&zwnj; app. <br/>
-<br/>
-You can start with a base suggestion or photo and then continue to add to it until you get what you want. You can remove suggestions at any time, and save your favorite creations for use in other apps. Anytime you create something with &zwnj;Image Playground&zwnj;, you'll get multiple options so you can choose the best one.<br/>
-<br/>
-There are only Animation and Illustration styles for &zwnj;Image Playground&zwnj;, so there is no option for creating photorealistic images. <br/>
-<br/>
-<h3 id="image_wand">Image Wand</h3><br/>
-Image Wand is basically the same thing as &zwnj;Image Playground&zwnj;, but in the Notes app. When you have notes that you've taken, you can circle an empty spot or some text and Image Wand will add a contextually relevant image. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/apple-intelligence-image-wand.jpg" alt="" width="1640" height="995" class="aligncenter size-full wp-image-962313" /><br/>
-So if you have notes on photosynthesis, you can add in an image of a plant under the sun. Image Wand isn't able to generate complex images, so if you want a picture of the internal structure of mitochondria, you're out of luck, but it can make a stylized image featuring the organelle. <br/>
-<br/>
-On an &zwnj;iPad&zwnj;, you can draw a rough sketch of what you want to add to your notes with an <a href="https://www.macrumors.com/guide/apple-pencil/">Apple Pencil</a>, and then use Image Wand to generate something more polished.<br/>
-<br/>
-<h3 id="genmoji">Genmoji</h3><br/>
-Genmoji are custom emoji characters that you can create using a text-based description. If there's an emoji you can't find but need, like a duck eating a sandwich or an alligator skateboarding, Genmoji can make it for you. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/ios-18-genmoji.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-960703" /><br/>
-Genmoji aren't too far off from &zwnj;Image Playground&zwnj; images, but the generation system tends to want to add a person for a lot of requests. You can choose yourself or a friend or family member, or just use a generic emoji character as your base. <br/>
-<br/>
-In Messages and other apps, Genmoji behave like emoji, but they're not going to display properly for anyone running an operating system earlier than iOS 18.1, or on an Android device. In iOS 18.1 and iOS 18.2, they work like emoji, but Genmoji are displayed as a blank box and an accompanying full-size image on other versions of iOS.<br/>
-<br/>
-If you have iOS 18.1 and iOS 18.2 and someone sends a Genmoji, you can long press on it and tap the "Emoji Details" button to see what prompt was used to create it, plus you can add it to your own Genmoji/sticker collection to use.<br/>
-<br/>
-To create a Genmoji character, tap into the Emoji keyboard and tap on the Emoji with a "+" button next to the search bar. From there, you can type in your idea.<br/>
-<br/>
-<h3 id="siri_chatgpt_integration">Siri ChatGPT Integration</h3><br/>
-&zwnj;Siri&zwnj; ChatGPT integration lets &zwnj;Siri&zwnj; hand requests over to OpenAI's ChatGPT. ChatGPT is off by default, but you can turn it on in the Apple Intelligence and &zwnj;Siri&zwnj; section of the Settings app. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/08/iOS-18-ChatGPT.jpg" alt="" width="1825" height="1027" class="aligncenter size-full wp-image-960667" /><br/>
-If ChatGPT integration is enabled, &zwnj;Siri&zwnj; will consult ChatGPT for complex requests. Complex requests might include creating an image, generating text from scratch, making recipe ideas based on what's in your refrigerator, describing what's in a photo, and more. <br/>
-<br/>
-&zwnj;Siri&zwnj; will analyze each request to see if it's something that needs to be answered by ChatGPT, but you can also automatically invoke ChatGPT for a request by using a request like "Ask ChatGPT to give me a chocolate chip cookie recipe." <br/>
-<br/>
-&zwnj;Siri&zwnj; will ask your permission before querying ChatGPT, but there is an option to turn off that extra permission step by toggling off "Confirm ChatGPT Requests" in the ChatGPT section of Settings. <br/>
-<br/>
-You don't need an account to use ChatGPT, and it is free, but if you have a paid account, you can sign in. If you're not signed in, OpenAI does not store any of your ChatGPT requests, nor is your information used for training ChatGPT. If you sign in, ChatGPT can save a copy of your queries. Apple does not store ChatGPT queries. <br/>
-<br/>
-ChatGPT can be used with &zwnj;Siri&zwnj;, but it is also integrated into Writing Tools and Visual Intelligence. With Writing Tools, ChatGPT can generate text, and with Visual Intelligence, ChatGPT can answer questions about what the Camera sees. <br/>
-<br/>
-<h3 id="visual_intelligence">Visual Intelligence</h3><br/>
-Visual Intelligence is an <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> feature that uses the Camera Control button. If you long press it, you can get into Visual Intelligence mode, where the Camera app can be used to identify what's around you.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/Apple-Visual-Intelligence.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-970984" /><br/>
-If you point the camera at a store, for example, you can see ratings, hours, and other information. If you take a photo of an object, you can get more information about the object from ChatGPT, or use it with Google Search to find similar images. The Google Search feature is a good way to search for products that you want to find.<br/>
-<br/>
-Other Visual Intelligence features include reading text out loud, detecting phone numbers and addresses to add them to the Contacts app, copying text, and summarizing long passages of text. <br/>
-<br/>
-<h3 id="writing_tools">Writing Tools</h3><br/>
-Writing Tools is in iOS 18.1, but in iOS 18.2, you can make more open-ended changes to what you've written. You can come up with your own tone changes, so if you want something to be more flowery or elaborate, Writing Tools can make it happen. You can also ask for your text to be converted into a different format, like a poem.<br/>
-<br/>
-Writing Tools also has ChatGPT integration in iOS 18.2 so if you want to generate text from scratch, you can do so with ChatGPT.<br/>
-<br/>
-<h3 id="additional_languages">Additional Languages</h3><br/>
-In iOS 18.2, Apple Intelligence supports localized English in Australia, Canada, New Zealand, South Africa, Ireland, and the UK in addition to U.S. English.<br/>
-<br/>
-<h2 id="apple_intelligence_features_coming_later">Apple Intelligence Features Coming Later</h2><br/>
-There are additional Apple Intelligence features that will be coming in updates to <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> in 2025. <br/>
-<br/>
-<h3 id="priority_notifications">Priority Notifications</h3><br/>
-Priority notifications will show up at the top of your notification stack, so you can get to what's most important first.<br/>
-<br/>
-<h3 id="siri">Siri</h3><br/>
-Some initial &zwnj;Siri&zwnj; updates are available in iOS 18.1, such as &zwnj;Siri&zwnj;'s new glow that encompasses the edges of the display, and ChatGPT integration is coming in iOS 18.2, but we'll need to wait for iOS 18.3 and iOS 18.4 for additional &zwnj;Siri&zwnj; capabilities. Apple is working on onscreen awareness, personal context, and the ability to take more actions in and across apps.<br/>
-<br/>
-Onscreen awareness will let &zwnj;Siri&zwnj; take actions when you ask something about what's on your display. If you're looking at a photo and want to message it to your friend Eric, you'll be able to tell &zwnj;Siri&zwnj; to "Send this picture to Eric," and &zwnj;Siri&zwnj; will understand and do it.<br/>
-<br/>
-Personal context will let &zwnj;Siri&zwnj; do more with your personal data like emails and messages. This is an on-device feature, and it will let &zwnj;Siri&zwnj; learn more about you, who you're communicating with, and how you use your device. Personal context will let you do things like ask &zwnj;Siri&zwnj; to find a specific message, or remind you when you took a photo that you're looking for.<br/>
-<br/>
-The &zwnj;Siri&zwnj; option to take more actions in and across apps will drastically improve what &zwnj;Siri&zwnj; is capable of. You'll be able to move files from one app to another and control app functions with &zwnj;Siri&zwnj; that you never could before. It'll work in third-party apps as well as Apple's own apps.<br/>
-<br/>
-<h3 id="macos_features">macOS Features</h3><br/>
-Memory Maker is in iOS 18.1 and iPadOS 18.1, but not &zwnj;macOS Sequoia&zwnj; 15.1. Genmoji is in iOS 18.2 and iPadOS 18.2, but not &zwnj;macOS Sequoia&zwnj; 15.2.<br/>
-<br/>
-Apple plans to release Memory Maker and Genmoji for &zwnj;macOS Sequoia&zwnj; at a later time. <br/>
-<br/>
-<h2 id="when_to_expect_more_apple_intelligence_features">When to Expect More Apple Intelligence Features</h2><br/>
-More Apple Intelligence features will come in iOS 18.2, iOS 18.3, and iOS 18.4.<br/>
-<br/>
-We'll get iOS 18.2 in December, likely around the middle of the month. Apple is already testing iOS 18.2 with developers. <br/>
-<br/>
-In late January or so, we'll get iOS 18.3, which could potentially have some new &zwnj;Siri&zwnj; features.<br/>
-<br/>
-iOS 18.4, which isn't expected until around March 2025, will have the bulk of the &zwnj;Siri&zwnj; Apple Intelligence features. We're also expecting to see Apple roll out support for additional languages in 2025.<br/>
-<br/>
-<h2 id="apple_intelligence_device_requirements">Apple Intelligence Device Requirements</h2><br/>
-Apple Intelligence requires a device with one of Apple's newest chips and 8GB RAM. Eligible models are listed below.<br/>
-<ul><br/>
- <li>All &zwnj;iPhone 16&zwnj; models</li><br/>
- <li><a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> Pro and &zwnj;iPhone 15&zwnj; Pro Max</li><br/>
- <li>All Apple silicon iPads</li><br/>
-<li>A17 Pro <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a></li><br/>
- <li>All Apple silicon Macs</li><br/>
-</ul><br/>
-<h2 id="apple_intelligence_waitlist">Apple Intelligence Waitlist</h2><br/>
-When you first install iOS 18.1, iPadOS 18.1, and &zwnj;macOS Sequoia&zwnj; 15.1, you have to go to the Settings app and join the Apple Intelligence waitlist. Apple uses a waitlist mechanic to ensure that behind the scenes downloads go smoothly and that the system isn't overloaded.<br/>
-<br/>
-While on the waitlist, Apple devices download necessary files for on-device processing, and the waitlist should only take a few hours at most. The waitlist is on a per-account basis, so you only need to sign up for it on one device to have access on multiple devices.<br/>
-<br/>
-&zwnj;Image Playground&zwnj;, Genmoji, and Image Wand in iOS 18.2 require a second waitlist, but that's only relevant if you're running the iOS 18.2 developer beta. If you are, note that Apple is rolling out access to these features over the coming weeks. <br/>
-<br/>
-<h2 id="apple_intelligence_settings">Apple Intelligence Settings</h2><br/>
-In the Privacy and Security section of the Settings app you can access an Apple Intelligence Report that lets you export your Apple Intelligence data as part of Apple's promise for transparency around Apple Intelligence. Biometric authentication is required to access and export Apple Intelligence data.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-960227" src="https://images.macrumors.com/article-new/2024/07/ios-18-1-apple-intelligence-report.jpg" alt="" width="2000" height="1125" /><br/>
-<br/>
-You can also disable Apple Intelligence by toggling off the setting under the Apple Intelligence and &zwnj;Siri&zwnj; section in the Settings app.<br/>
-<br/>
-<h2 id="apple_intelligence_availability">Apple Intelligence Availability</h2><br/>
-Apple Intelligence is only available in U.S. English at this time, and it is not available to in the European Union (&zwnj;iPhone&zwnj; and &zwnj;iPad&zwnj;) or China. Device region and language need to be set to the United States.<br/>
-<br/>
-In iOS 18.2, localized English in Australia, Canada, New Zealand, South Africa, and the UK is supported in addition to U.S. English. <br/>
-<br/>
-Apple plans to add support for additional languages in 2025, like Chinese, English (India), English (Singapore), French, German, Italian, Japanese, Korean, Portuguese, Spanish, and Vietnamese. Apple Intelligence will launch on the &zwnj;iPhone&zwnj; and the &zwnj;iPad&zwnj; in the European Union in April 2025. <div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a>, <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/apple-intelligence/">Everything You Need to Know About Apple Intelligence</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-you-need-to-know-about-apple-intelligence.2441182/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iMac With 10-Core M4 Chip is First Mac to Support 8K Display at 120Hz</title>
-		<link>https://www.macrumors.com/2024/10/28/10-core-m4-imac-supports-8k-display-at-120hz/</link>
-		<comments>https://forums.macrumors.com/threads/imac-with-10-core-m4-chip-is-first-mac-to-support-8k-display-at-120hz.2441180/</comments>
-		<pubDate>Mon, 28 Oct 2024 13:04:12 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/10-core-m4-imac-supports-8k-display-at-120hz/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>iMac</category>
-		
-
-		<description><![CDATA[When configured with a 10-core M4 chip, the new iMac announced today <a href="https://www.apple.com/imac/specs/">supports up to an 8K external display at 120Hz</a>, or up to two 6K displays at 60Hz each. The impressive feat was <a href="https://x.com/VadimYuryev/status/1850929080281321899">noted by Vadim Yuryev</a>, co-host of the YouTube channel Max Tech.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/iMac-M4-Blue.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-973341" /><br/>
-This means the latest iMac is the first-ever Mac to support an 8K display at 120Hz, beating out higher-end models like the MacBook Pro, Mac Studio, and Mac Pro. Apple is expected to announce new MacBook Pro models with M4 Pro and M4 Max chips <a href="https://www.macrumors.com/2024/10/28/apple-promises-two-more-mac-announcements/">as early as tomorrow</a>, however, so support for an 8K display at 120Hz could be expanded soon.<br/>
-<br/>
-Apple doesn't even offer an 8K display with a 120Hz refresh rate — at least not yet. Apple's higher-end Pro Display XDR monitor has a 6K resolution at 60Hz, while its lower-end Studio Display monitor has a 5K resolution at 60Hz.<br/>
-<br/>
-Does the iMac's external display support hint at future 120Hz versions of the Pro Display XDR or Studio Display? There are no concrete rumors yet.<br/>
-<br/>
-The previous iMac with the M3 chip supports one external display at up to 6K/60Hz, and this remains true for the latest base model with the 8-core M4 chip.<br/>
-<br/>
-For more details about the new iMac, read our <a href="https://www.macrumors.com/2024/10/28/apple-announces-imac-with-m4-chip-upgraded-camera-new-colors-and-more/">earlier coverage of Apple's announcement</a>.<br/>
-<br/>
-In the U.S., pricing for the iMac with a 10-core M4 chip starts at &#36;1,499.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/imac/">iMac</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/10-core-m4-imac-supports-8k-display-at-120hz/">iMac With 10-Core M4 Chip is First Mac to Support 8K Display at 120Hz</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/imac-with-10-core-m4-chip-is-first-mac-to-support-8k-display-at-120hz.2441180/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Confirms iOS 18.2 With Image Playground, Genmoji and Siri ChatGPT Integration Will Launch in December</title>
-		<link>https://www.macrumors.com/2024/10/28/apple-confirms-ios-18-2-december-launch/</link>
-		<comments>https://forums.macrumors.com/threads/apple-confirms-ios-18-2-with-image-playground-genmoji-and-siri-chatgpt-integration-will-launch-in-december.2441174/</comments>
-		<pubDate>Mon, 28 Oct 2024 12:10:13 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/apple-confirms-ios-18-2-december-launch/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[The iOS 18.2, iPadOS 18.2, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.2 updates that Apple <a href="https://www.macrumors.com/2024/10/23/apple-releases-ios-18-2/">started testing last week</a> are set to be released to the public this December, Apple said today <a href="https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/">in a newsroom article</a> highlighting <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> capabilities.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/Generic-iOS-18.2-Feature-Real-Mock.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972123" /><br/>
-"New &zwnj;Apple Intelligence&zwnj; features will be available in December," reads Apple's article. The update will add the first image generation features, including Genmoji, <a href="https://www.macrumors.com/guide/image-playground/">Image Playground</a>, and Image Wand, plus it includes ChatGPT integration with <a href="https://www.macrumors.com/guide/siri/">Siri</a> and new, more flexible Writing Tools options. For <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> users, the iOS 18.2 update adds visual intelligence, which uses Camera Control to identify and provide additional information about objects and places.<br/>
-<br/>
-iOS 18.2 will also see &zwnj;Apple Intelligence&zwnj; gain support for localized English in Australia, Canada, New Zealand, South Africa, Ireland, and the UK in addition to U.S. English.<br/>
-<br/>
-As of right now, iOS 18.2 and its sister updates are available to developers for testing, but Apple will likely make a public beta available at some point. A December release gives Apple approximately a month and a half to test the new feature set, depending on the planned release date.<br/>
-<br/>
-Apple's .2 updates are typically released in December during the same general timeframe, so if Apple sticks to that, we could see a launch on December 9th or 10th, well ahead of the holiday period.<br/>
-<ul><br/>
- 	<li>iOS 17.2: December 11</li><br/>
- 	<li>iOS 16.2: December 13</li><br/>
- 	<li>iOS 15.2: December 13</li><br/>
-</ul><br/>
-After iOS 18.2, Apple will start testing iOS 18.3. That update is likely to come out at some point in January or February, and it will be followed by iOS 18.4 in April.<br/>
-<br/>
-Apple said today that it plans to bring &zwnj;Apple Intelligence&zwnj; to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> in the European Union in April, plus we are awaiting other &zwnj;Apple Intelligence&zwnj; features like Priority Notifications, and &zwnj;Siri&zwnj; features that include onscreen awareness, personal context, and the ability to take new actions in and across apps.<br/>
-<br/>
-Customers who install iOS 18.1, iPadOS 18.1, or &zwnj;macOS Sequoia&zwnj; 15.1 on a device capable of supporting &zwnj;Apple Intelligence&zwnj; can try out Writing Tools, Smart Replies summaries, and other &zwnj;Apple Intelligence&zwnj; features as of today.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/apple-confirms-ios-18-2-december-launch/">Apple Confirms iOS 18.2 With Image Playground, Genmoji and Siri ChatGPT Integration Will Launch in December</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-confirms-ios-18-2-with-image-playground-genmoji-and-siri-chatgpt-integration-will-launch-in-december.2441174/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Promises Two More Mac Announcements This Week Following New iMac Today</title>
-		<link>https://www.macrumors.com/2024/10/28/apple-promises-two-more-mac-announcements/</link>
-		<comments>https://forums.macrumors.com/threads/apple-promises-two-more-mac-announcements-this-week-following-new-imac-today.2441166/</comments>
-		<pubDate>Mon, 28 Oct 2024 11:18:27 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/apple-promises-two-more-mac-announcements/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Featured</category>
-		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
 		<category>Mac mini</category>
 		
 
-		<description><![CDATA[Apple <a href="https://www.macrumors.com/2024/10/28/apple-announces-imac-with-m4-chip-upgraded-camera-new-colors-and-more/">introduced a new iMac today</a> with the M4 chip and more, but that's not all, as it still has two more Mac announcements planned this week.<br/>
+		<description><![CDATA[With the M4 Pro chip, the <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> is able to support up to three 6K displays at 60Hz over Thunderbolt or HDMI, an improvement over the previous <a href="https://www.macrumors.com/guide/m2/">M2</a> Pro model. The &zwnj;M2&zwnj; Pro version of the &zwnj;Mac mini&zwnj; also supported three displays, but it could run only two at 6K 60Hz resolution and one at 4K 60Hz resolution. <br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/10/apple-oct-2024-mac-tease.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-972620" /><br/>
-"This is a huge week for the Mac, and this morning, we begin a series of three exciting new product announcements that will take place over the coming days," said Apple's hardware engineering chief John Ternus, in a <a href="https://www.macrumors.com/2024/10/28/apple-m4-imac-keynote/">video announcing the new iMac</a>.<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/m4-mac-mini-displays.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-973743" /><br/>
+Apple's M4 Pro chip alternatively supports one display at 6K resolution over 60Hz and a second display at 8K resolution at 60Hz or 4K resolution at 240Hz. <br/>
 <br/>
-Based on rumors, those two announcements are very likely to be new 14-inch and 16-inch MacBook Pro models with M4, M4 Pro, and M4 Max chip options, along with a redesigned, smaller Mac mini with M4 and M4 Pro chip options and two front-facing USB-C ports. Just like the new iMac today, press releases and YouTube videos for the new MacBook Pro and Mac mini models are likely on Tuesday and Wednesday of this week.<br/>
+The standard M4 chip that Apple has used in the &zwnj;Mac mini&zwnj; and the <a href="https://www.macrumors.com/roundup/imac/">iMac</a> so far is compatible with three displays total, though not three 6K displays. It can drive two displays with up to 6K resolution at 60Hz over Thunderbolt and one display with up to 5K resolution at 60Hz over Thunderbolt or 4K resolution at 60Hz over HDMI.<br/>
 <br/>
-Below, we reiterate what to expect from the new MacBook Pro and Mac mini models.<br/>
+It is also able to power an 8K display at 60Hz or a 4K display at 240Hz alongside a 5K display with a 60Hz refresh rate. <br/>
 <br/>
-<h3>MacBook Pro</h3><br/>
-<img src="https://images.macrumors.com/article-new/2023/10/m3-mbp-space-black.jpg" alt="" width="1440" height="810" class="aligncenter size-full wp-image-919466" /><br/>
-Apple is expected to announce new 14-inch and 16-inch MacBook Pro models, including an entry-level 14-inch MacBook Pro with the M4 chip, and higher-end 14-inch and 16-inch MacBook Pro models with M4 Pro and M4 Max chips.<br/>
+With the M4 Pro chip, the &zwnj;Mac mini&zwnj; can power three of the Pro Display XDR or three of the Studio Display. With the M4 chip, the &zwnj;Mac mini&zwnj; can drive two Pro Display XDRs or three Studio Displays.<br/>
 <br/>
-No major external design changes have been rumored for the laptops this year, with improvements such as an OLED display and thinner design not expected <a href="https://www.macrumors.com/2024/09/10/macbook-pro-wont-switch-to-oled-in-2025-rumor/">until 2026 at the earliest</a>. However, the entry-level 14-inch MacBook Pro is expected to gain an additional Thunderbolt port compared to the current model, based on <a href="https://www.macrumors.com/2024/10/07/apple-potentially-facing-worst-leak-since-iphone-4/">alleged leaks earlier this month</a>. Those same leaks revealed that the MacBook Pro lineup might finally start with 16GB of RAM, instead of 8GB, which was <a href="https://www.macrumors.com/2024/10/23/apple-new-macs-16gb-ram-standard/">rumored even before the leaks happened</a>. As another clue, the <a href="https://www.macrumors.com/2024/10/28/new-m4-imac-minimum-16gb-ram/">new iMac has a minimum of 16GB of RAM for all configurations</a>.<br/>
-<br/>
-Apple last redesigned the 14-inch and 16-inch MacBook Pro in 2021, and the latest models with the M3 family of chips were released last October.<br/>
-<br/>
-<h3>Mac mini</h3><br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2024/10/M4-Mac-mini-Ortho-Silver-Cooler.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972060" /><em>A concept of a smaller Mac mini</em></div><br/>
-The next Mac mini is expected to be available with M4 and M4 Pro chip options. <em>Bloomberg</em>'s Mark Gurman <a href="https://www.macrumors.com/2024/10/03/mac-mini-redesign-rumor/">expects the next Mac mini to be smaller</a>, making it closer in size to an Apple TV, and he said that the computer will gain two front-facing USB-C ports. All in all, the Mac mini is expected to receive its biggest redesign since 2010.<br/>
-<br/>
-Like the new iMac, the next Mac mini could also start with 16GB of RAM, instead of 8GB.<br/>
-<br/>
-The new MacBook Pro and Mac mini models will likely be available to pre-order starting this week, and they are expected to launch in November. The new iMac became available to pre-order today, and it launches on Friday, November 8.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a>, <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Don't Buy)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a>, <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/apple-promises-two-more-mac-announcements/">Apple Promises Two More Mac Announcements This Week Following New iMac Today</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-promises-two-more-mac-announcements-this-week-following-new-imac-today.2441166/">Discuss this article</a> in our forums<br/><br/>]]></description>
+The M4 Pro version of the &zwnj;Mac mini&zwnj; is equipped with three Thunderbolt 5 ports, and it is the first Mac that offers Thunderbolt 5 compatibility. The <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a> has three Thunderbolt 4 ports instead, and both models have two USB-C ports at the front. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/m4-pro-mac-mini-display-support/">M4 Pro Mac Mini Supports Up to Three 6K Displays</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m4-pro-mac-mini-supports-up-to-three-6k-displays.2441322/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>These Are Apple&#039;s Only Products Still Sold With Lightning After Magic Accessories Switch to USB-C</title>
-		<link>https://www.macrumors.com/2024/10/28/apple-products-still-sold-with-lightning/</link>
-		<comments>https://forums.macrumors.com/threads/these-are-apples-only-products-still-sold-with-lightning-after-magic-accessories-switch-to-usb-c.2441157/</comments>
-		<pubDate>Mon, 28 Oct 2024 10:26:41 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/apple-products-still-sold-with-lightning/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Lightning</category>
-		<category>Magic Keyboard</category>
-		<category>Magic Mouse</category>
-		<category>Magic Trackpad</category>
-		
-
-		<description><![CDATA[Apple has been gradually transitioning its products from Lightning to USB-C in recent years. This trend continued today with Apple updating the Magic Mouse, Magic Keyboard, and Magic Trackpad accessories for the Mac <a href="https://www.macrumors.com/2024/10/28/apple-announces-usb-c-magic-accessories/">with USB-C charging ports</a>. The accessories have no other changes, meaning the Magic Mouse's charging port is <a href="https://www.macrumors.com/2024/10/28/magic-mouse-usb-c-port-on-bottom/">still on the bottom</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/04/lightning-connector-feature-purple.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-891738" /><br/>
-For the time being, Apple is continuing to sell a Lightning version of the Magic Keyboard with a numeric keypad, but it lacks a Touch ID button. Apple has yet to release a USB-C version of this particular Magic Keyboard.<br/>
-<br/>
-The list of Apple devices and accessories that are still sold with either a Lightning port or a Lightning connector is now quite small:<br/>
-<br/>
-<ul><li>iPhone 14, iPhone 14 Plus, and iPhone SE</li><br/>
-<li>First-generation Apple Pencil</li><br/>
-<li><a href="https://www.apple.com/shop/product/MQ052LL/A/magic-keyboard-with-numeric-keypad-us-english">Magic Keyboard with Numeric Keypad (No Touch ID)</a></li></ul>A new iPhone SE with a USB-C port is <a href="https://www.macrumors.com/2024/10/01/new-iphone-se-and-ipad-air-early-2025-rumor/">rumored to launch next year</a>, while the iPhone 14 and iPhone 14 Plus should be discontinued next September.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/lightning/">Lightning</a>, <a href="https://www.macrumors.com/guide/magic-keyboard/">Magic Keyboard</a>, <a href="https://www.macrumors.com/guide/magic-mouse/">Magic Mouse</a>, <a href="https://www.macrumors.com/guide/magic-trackpad/">Magic Trackpad</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/apple-products-still-sold-with-lightning/">These Are Apple&#039;s Only Products Still Sold With Lightning After Magic Accessories Switch to USB-C</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/these-are-apples-only-products-still-sold-with-lightning-after-magic-accessories-switch-to-usb-c.2441157/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Shares New Ads Highlighting Apple Intelligence Features</title>
-		<link>https://www.macrumors.com/2024/10/28/apple-intelligence-features-ad/</link>
-		<comments>https://forums.macrumors.com/threads/apple-shares-new-ads-highlighting-apple-intelligence-features.2441154/</comments>
-		<pubDate>Mon, 28 Oct 2024 10:15:37 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/apple-intelligence-features-ad/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Intelligence</category>
-		
-
-		<description><![CDATA[With the launch of iOS 18.1, iPadOS 18.1, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.1, Apple is going all in on promoting <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a>. Today's <a href="https://www.macrumors.com/roundup/imac/">iMac</a> announcement was heavily focused on the Mac's &zwnj;Apple Intelligence&zwnj; features, and Apple has also shared two new &zwnj;Apple Intelligence&zwnj; ads.<br/>
-<br/>
-<div class="center-wrap"><iframe title="Apple Intelligence Writing Tools iPhone 16" src="https://www.youtube.com/embed/3m0MoYKwVTM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-Apple's first ad shows off Writing Tools, featuring an office worker who sends an email and uses the "Professional" rewriting feature to make it sound less casual. The well-crafted email impresses his boss.<br/>
-<br/>
-<div class="center-wrap"><iframe title="Apple Intelligence Create memory movies iPhone 16" src="https://www.youtube.com/embed/A0BXZhdDqZM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-The second ad features a woman who forgot it was her husband's birthday, so she whips up a quick Memory Movie slideshow on her <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> as a gift.<br/>
-<br/>
-Both Writing Tools and Memory Movies  in the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app are new features that are available on devices running iOS 18.1, iPadOS 18.1, or &zwnj;macOS Sequoia&zwnj; 15.1. The updates launched to the public today.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/apple-intelligence-features-ad/">Apple Shares New Ads Highlighting Apple Intelligence Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-shares-new-ads-highlighting-apple-intelligence-features.2441154/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Intelligence Rolling Out in the European Union Starting in April 2025</title>
-		<link>https://www.macrumors.com/2024/10/28/apple-intelligence-eu-april-2025/</link>
-		<comments>https://forums.macrumors.com/threads/apple-intelligence-rolling-out-in-the-european-union-starting-in-april-2025.2441153/</comments>
-		<pubDate>Mon, 28 Oct 2024 10:07:08 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/apple-intelligence-eu-april-2025/</guid>
+		<title>Apple&#039;s Much Smaller M4 Mac Mini Has All-New Thermal Architecture to Maximize Speed</title>
+		<link>https://www.macrumors.com/2024/10/29/m4-mac-mini-thermal-architecture/</link>
+		<comments>https://forums.macrumors.com/threads/apples-much-smaller-m4-mac-mini-has-all-new-thermal-architecture-to-maximize-speed.2441317/</comments>
+		<pubDate>Tue, 29 Oct 2024 10:07:44 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/m4-mac-mini-thermal-architecture/</guid>
 		<dc:creator>Juli Clover</dc:creator>
 		<category>Featured</category>
-		<category>Apple Intelligence</category>
-		<category>European Union</category>
+		<category>Mac mini</category>
 		
 
-		<description><![CDATA[Apple plans to roll out <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> features to <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> users in the European Union starting in April 2025, according to information included in today's &zwnj;Apple Intelligence&zwnj; announcement <a href="https://www.apple.com/ie/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/">in European countries</a>.<br/>
+		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> received a major update today, with Apple introducing a slimmed down design that shaves more than two inches off of the size so it takes up less space on a desktop or in a rack. Despite the size change, the &zwnj;Mac mini&zwnj; uses Apple's most powerful M-series chips, including the new M4 Pro.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg" alt="" width="1400" height="788" class="aligncenter size-full wp-image-963902" /><br/>
-Apple's newsroom post confirms that &zwnj;Apple Intelligence&zwnj; features will roll out beginning in April, with users gaining access to Writing Tools, Genmoji, a redesigned version of <a href="https://www.macrumors.com/guide/siri/">Siri</a>, and more. <blockquote>Mac users in the EU can access Apple Intelligence in U.S. English with macOS Sequoia 15.1. In April, Apple Intelligence features will start to roll out to iPhone and iPad users in the EU. This will include many of the core features of Apple Intelligence, including Writing Tools, Genmoji, a redesigned Siri with richer language understanding, ChatGPT integration, and more. </blockquote>As of right now, EU Mac users can access &zwnj;Apple Intelligence&zwnj; features with <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.1, as long as the language on the device is set to U.S. English. Apple has <a href="https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/">restricted the launch</a> of &zwnj;Apple Intelligence&zwnj; capabilities for the &zwnj;iPhone&zwnj; and &zwnj;iPad&zwnj; in order to work out "regulatory uncertainties brought about by the Digital Markets Act."<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/mac-mini-thermal-architecture.jpg" alt="" width="1474" height="829" class="aligncenter size-full wp-image-973736" /><br/>
+Combining the smaller form factor and updated chips necessitated a redesigned thermal architecture. The foot of the &zwnj;Mac mini&zwnj; allows it to pull in air from the surrounding environment, and the air is able to circulate throughout before being vented back out through the bottom foot. <br/>
 <br/>
-Apple in June said that it would delay &zwnj;Apple Intelligence&zwnj;, &zwnj;iPhone&zwnj; Mirroring, and SharePlay Screen Sharing until it was able to determine how to make the features compatible with the European Union's competition rules.<br/>
+Apple says that air is guided to each level of the system, and that combined with the power efficiency of the M4 chips, the &zwnj;Mac mini&zwnj; can "breeze through intensive workloads at outrageous speeds."<br/>
 <br/>
-&zwnj;iPhone&zwnj; and &zwnj;iPad&zwnj; users in the European Union who have a U.S. <a href="https://www.macrumors.com/guide/app-store/">App Store</a> ID are able to <a href="https://www.macrumors.com/how-to/enable-apple-intelligence-outside-us/">use Apple Intelligence</a> with the Language and Region on the device set to U.S. English. In a December iOS 18.2 update, &zwnj;Apple Intelligence&zwnj; will offer localized English in Ireland, as well as in Australia, Canada, New Zealand, South Africa, and the U.K.<br/>
+The redesigned &zwnj;Mac mini&zwnj; measures in at five inches square and two inches tall. It's taller than the prior version, but it is 2.75 inches smaller. Rumors suggested that it could be as small as the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> (which is 3.66 inches), but it ended up being a bit bigger than that. <br/>
 <br/>
-It is worth noting that &zwnj;Apple Intelligence&zwnj; support in European countries will likely come in an update to <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, and the timing is right for iOS 18.4. Rumors suggest that iOS 18.4 will be a major update that brings improvements to &zwnj;Siri&zwnj;, including personal context and the ability for the personal assistant to do more in and across apps. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a>, <a href="https://www.macrumors.com/guide/european-union/">European Union</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/apple-intelligence-eu-april-2025/">Apple Intelligence Rolling Out in the European Union Starting in April 2025</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-intelligence-rolling-out-in-the-european-union-starting-in-april-2025.2441153/">Discuss this article</a> in our forums<br/><br/>]]></description>
+The M4 Pro hasn't been benchmarked yet, but it has a 14-core CPU and up to a 20-core GPU, which is up to twice as powerful as the M4 GPU. 3D renders in Blender are up to 2.9x faster compared to the <a href="https://www.macrumors.com/guide/m2/">M2</a> Pro and motion graphics render up to 2x faster.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/m4-mac-mini-thermal-architecture/">Apple&#039;s Much Smaller M4 Mac Mini Has All-New Thermal Architecture to Maximize Speed</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-much-smaller-m4-mac-mini-has-all-new-thermal-architecture-to-maximize-speed.2441317/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Watch Apple&#039;s Full 10-Minute M4 iMac Keynote</title>
-		<link>https://www.macrumors.com/2024/10/28/apple-m4-imac-keynote/</link>
-		<comments>https://forums.macrumors.com/threads/watch-apples-full-10-minute-m4-imac-keynote.2441150/</comments>
-		<pubDate>Mon, 28 Oct 2024 09:35:36 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/apple-m4-imac-keynote/</guid>
+		<title>Apple Now Selling Thunderbolt 5 Cable for M4 Mac Mini and MacBook Pro</title>
+		<link>https://www.macrumors.com/2024/10/29/apple-thunderbolt-5-cable/</link>
+		<comments>https://forums.macrumors.com/threads/apple-now-selling-thunderbolt-5-cable-for-m4-mac-mini-and-macbook-pro.2441313/</comments>
+		<pubDate>Tue, 29 Oct 2024 09:55:29 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/apple-thunderbolt-5-cable/</guid>
 		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iMac</category>
+		<category>Thunderbolt 5</category>
 		
 
-		<description><![CDATA[To introduce the new M4 <a href="https://www.macrumors.com/roundup/imac/">iMac</a> models today, Apple didn't hold a standard event, but the company did record a short keynote video to go through all of the machine's new features.<br/>
+		<description><![CDATA[The M4 Pro version of the <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> that Apple introduced today uses the latest Thunderbolt 5 technology with transfer speeds of up to 120Gb/s, which means Apple is selling a new Thunderbolt 5 cable to go along with it.<br/>
 <br/>
-<div class="center-wrap"><iframe title="iMac Announcement - October 28" src="https://www.youtube.com/embed/eaB7nCdId0Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-The announcement is themed just like one of Apple's full pre-recorded event videos, starting with a view of <a href="https://www.macrumors.com/guide/apple-park/">Apple Park</a> that zooms in to Apple executives highlighting the M4 &zwnj;iMac&zwnj;'s capabilities and once again walking through <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a>. The first four minutes of the video cover &zwnj;Apple Intelligence&zwnj;, so skip to 4:40 if you just want to watch the bit about the &zwnj;iMac&zwnj;.<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/apple-thunderbolt-5-cable.jpg" alt="" width="2194" height="1234" class="aligncenter size-full wp-image-973730" /><br/>
+Priced at &#36;69, the new <a href="https://www.apple.com/shop/product/MC9C4AM/A/thunderbolt-5-usb%E2%80%91c-pro-cable-1-m">1 meter Thunderbolt 5 Pro Cable</a> supports Thunderbolt 5 data transfers at the maximum speed, but it is also backward compatible with Thunderbolt 3, Thunderbolt 4, USB 4, and USB 3. The cable has a braided design for durability purposes, and it is black like prior Thunderbolt cables that Apple has offered.<br/>
 <br/>
-Apple has three videos to share this week, so we can expect additional M4 Mac product announcements on Tuesday and Wednesday. We are also expecting Apple to release new <a href="https://www.macrumors.com/guide/m4-macbook-pro/">M4 MacBook Pro</a> models and <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a> models with a new design.<br/>
+Apple's new Thunderbolt 5 cable supports up to 240W charging, and it offers DisplayPort 2.1 video output. It is designed to connect displays and other devices to the new <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a> models and the upcoming <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a> models that we expect to see introduced tomorrow.<br/>
 <br/>
-Pricing on the new &zwnj;iMac&zwnj; starts at &#36;1,299, and pre-orders began today. A launch will follow on November 8.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/imac/">iMac</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/apple-m4-imac-keynote/">Watch Apple&#039;s Full 10-Minute M4 iMac Keynote</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/watch-apples-full-10-minute-m4-imac-keynote.2441150/">Discuss this article</a> in our forums<br/><br/>]]></description>
+The M4 Pro &zwnj;Mac mini&zwnj; supports Thunderbolt 5, which means M4 Pro and M4 Max versions of the &zwnj;MacBook Pro&zwnj; will as well, but it is compatible with all of Apple's USB-C devices. The cable is ideal for connecting the Studio Display, Pro Display XDR, Thunderbolt docks, and external drives.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/thunderbolt-5/">Thunderbolt 5</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/apple-thunderbolt-5-cable/">Apple Now Selling Thunderbolt 5 Cable for M4 Mac Mini and MacBook Pro</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-now-selling-thunderbolt-5-cable-for-m4-mac-mini-and-macbook-pro.2441313/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>M1 vs. M3 vs. M4 iMac Buyer&#039;s Guide: 25+ Upgrades Compared</title>
-		<link>https://www.macrumors.com/guide/m1-vs-m3-vs-m4-imac/</link>
-		<comments>https://forums.macrumors.com/threads/m1-vs-m3-vs-m4-imac-buyers-guide-25-upgrades-compared.2441149/</comments>
-		<pubDate>Mon, 28 Oct 2024 09:31:48 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/m1-vs-m3-vs-m4-imac&#038;post_date=1730143908/</guid>
+		<title>M4 Mac Mini&#039;s Power Button Has New Bottom Location</title>
+		<link>https://www.macrumors.com/2024/10/29/m4-mac-mini-bottom-power-button/</link>
+		<comments>https://forums.macrumors.com/threads/m4-mac-minis-power-button-has-new-bottom-location.2441304/</comments>
+		<pubDate>Tue, 29 Oct 2024 09:42:09 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/m4-mac-mini-bottom-power-button/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Mac mini</category>
+		
+
+		<description><![CDATA[The <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a> has an overhauled design that adds more ports in a slimmed down package, and to make everything fit, Apple needed a new place for the power button.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/mac-mini-power-button.jpg" alt="" width="1637" height="921" class="aligncenter size-full wp-image-973725" /><br/>
+As it turns out, the power button for the device is located on the bottom, so as <a href="https://x.com/ClassicII_MrMac/status/1851296326278918511">Mr. Macintosh</a> pointed out, you'll need to tip the <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> up in order to turn it on (or off, using the physical button).<br/>
+<br/>
+Apple has been criticized for questionable button and port placement with other devices <a href="https://www.macrumors.com/2024/10/28/magic-mouse-usb-c-port-on-bottom/">such as the Magic Mouse</a>, but accessing the power button is probably not something most people do often with a desktop machine. Macs don't often need to be turned off, and most people put them into a sleep mode rather than shutting them down on a regular basis.<br/>
+<br/>
+The power button is located on the rear left of the &zwnj;Mac mini&zwnj; when looking at the front of the machine, below the three Thunderbolt ports.<br/>
+<br/>
+Pricing on the &zwnj;Mac mini&zwnj; starts at &#36;599, and it can be pre-ordered today. It will launch on Friday, November 8.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/m4-mac-mini-bottom-power-button/">M4 Mac Mini&#039;s Power Button Has New Bottom Location</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m4-mac-minis-power-button-has-new-bottom-location.2441304/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>M4 Pro and M4 Max MacBook Pro Models Likely to Feature Thunderbolt 5</title>
+		<link>https://www.macrumors.com/2024/10/29/m4-macbook-pro-likely-feature-thunderbolt-5/</link>
+		<comments>https://forums.macrumors.com/threads/m4-pro-and-m4-max-macbook-pro-models-likely-to-feature-thunderbolt-5.2441296/</comments>
+		<pubDate>Tue, 29 Oct 2024 09:07:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/m4-macbook-pro-likely-feature-thunderbolt-5/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		
+
+		<description><![CDATA[Apple dropped a surprise today with the announcement of the <a href="https://www.macrumors.com/2024/10/29/apple-announces-redesigned-mac-mini/">new redesigned Mac mini</a> when it revealed that the M4 Pro model comes with three Thunderbolt 5 ports, making it the first Mac to support the next-generation connectivity standard.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/thunderbolt-5.jpg" alt="" width="3020" height="1694" class="aligncenter size-full wp-image-973669" /><br/>
+The newest specification of Thunderbolt offers 80 Gb/s of bi-directional bandwidth, and with Bandwidth Boost it will provide up to 120 Gb/s, enabling triple the maximum bandwidth of Thunderbolt 4 for an optimal display experience. <br/>
+<br/>
+Given that the current 14-inch and 16-inch MacBook Pro models with M3 Pro and M3 Max chips only support the older protocol, you can almost consider it a given that Apple's upcoming MacBook Pro models with M4 Pro and M4 Max will support Thunderbolt 5.<br/>
+<br/>
+Thunderbolt 5 is fully compatible with USB4, and supports advanced protocols such as PCIe 4.0, allowing faster data access speeds for storage devices and peripherals. In addition, the new standard features support for native DisplayPort 2.1 output over USB‑C. Thanks to Thunderbolt 5, the Mac mini with M4 Pro can also support up to three 6K external displays at 60Hz, so expect similar enhancements to come to the new high-end MacBook Pro models.<br/>
+<br/>
+Apple is expected to announce the new M4 MacBook Pro models on Wednesday. The entry-level 14-inch MacBook Pro will be equipped with an M4 chip, while the higher-end 14-inch and 16-inch models will offer M4 Pro and M4 Max chips. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/m4-macbook-pro-likely-feature-thunderbolt-5/">M4 Pro and M4 Max MacBook Pro Models Likely to Feature Thunderbolt 5</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m4-pro-and-m4-max-macbook-pro-models-likely-to-feature-thunderbolt-5.2441296/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>M1 vs. M2. vs. M4 Mac Mini Buyer&#039;s Guide: 25+ Upgrades Compared</title>
+		<link>https://www.macrumors.com/guide/m1-vs-m2-vs-m4-mac-mini/</link>
+		<comments>https://forums.macrumors.com/threads/m1-vs-m2-vs-m4-mac-mini-buyers-guide-25-upgrades-compared.2441294/</comments>
+		<pubDate>Tue, 29 Oct 2024 09:01:45 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/m1-vs-m2-vs-m4-mac-mini&#038;post_date=1730228505/</guid>
 		<dc:creator>Hartley Charlton</dc:creator>
 		<category>Buyer's Guide</category>
 		<category>Featured</category>
-		<category>iMac</category>
-		<category>M1</category>
-		<category>M3</category>
-		<category>M4</category>
-		<category>M4 iMac</category>
+		<category>Mac mini</category>
+		<category>M4 Mac mini</category>
 		
 
-		<description><![CDATA[Apple's third Apple silicon <a href="https://www.macrumors.com/roundup/imac/">iMac</a> gains the M4 chip alongside a range of other small but notable improvements, so how does the new machine compare to its two predecessors?<br/>
+		<description><![CDATA[Apple just unveiled the first <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> redesign in over a decade. The previous major updates to the device were the transition to Apple silicon in 2020 and the option of a Pro-grade chip in 2023, so how does the latest model compare to its two immediate predecessors?<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/04/M4-iMac-Feature-Teal.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-946085" /><br/>
-The 2021 &zwnj;iMac&zwnj; was the first of its kind to feature an Apple silicon chip, replacing previous Intel-based models with 21.5- and 27-inch displays. It offered an all-new ultra-thin design, a 24-inch Retina display, a six-speaker system with force-cancelling woofers, and an array of seven two-tone color options. The 2023 model was a minor update that added the M3 chip and specification updates like Bluetooth 5.3 and Wi-Fi 6E. One year later, the latest, M4 version of the device looks like a much more substantial upgrade, offering a dramatically more powerful Neural Engine, 16GB of memory as standard, a 12-megapixel camera with Center Stage, USB-C accessories, and a nano-texture display option.<br/>
-<br/>
-The 2021 and 2023 iMacs have now been discontinued by Apple and prices at third-party resellers are falling. As such, some customers may be weighing up whether to pick up a 2021 or 2023 &zwnj;iMac&zwnj; instead of the latest model, while some existing &zwnj;iMac&zwnj; users may be wondering if it's now time to upgrade to the M4 model.<br/>
-<br/>
-The three Apple silicon &zwnj;iMac&zwnj; models share the overwhelming majority of their features, so should you consider buying or sticking with the first- or second-generation models to save money? This breakdown also serves as a way to see all the differences that the 2024 &zwnj;iMac&zwnj; brings to the table.<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/mac-mini-compared.jpg" alt="" width="1600" height="900" class="alignnone size-full wp-image-973674" /><br/>
+The new &zwnj;Mac mini&zwnj; looks dramatically different to previous models thanks to a markedly smaller enclosure and two front USB-C ports, but it is also much more powerful thanks to the M4 and M4 Pro chips. All of the hardware differences between the 2020, 2023, and 2024 &zwnj;Mac mini&zwnj; models are detailed below:<br/>
 <br/>
 <table class="comparison"><br/>
  <tr><br/>
- <th>&zwnj;iMac&zwnj; (2021)</th><br/>
- <th>&zwnj;iMac&zwnj; (2023)</th><br/>
- <th>&zwnj;iMac&zwnj; (2024)</th><br/>
+ <th>&zwnj;Mac mini&zwnj; (late 2020)</th><br/>
+ <th>&zwnj;Mac mini&zwnj; (early 2023)</th><br/>
+ <th>&zwnj;Mac mini&zwnj; (late 2024)</th><br/>
+ </tr><br/>
+ <tr><br/>
+ <td><strong>Height</strong>: 1.41 inches (3.58 cm)</td><br/>
+ <td><strong>Height</strong>: 1.41 inches (3.58 cm)</td><br/>
+ <td><strong>Height</strong>: 2.0 inches (5.0 cm)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td><strong>Width</strong>: 7.75 inches (19.70 cm)</td><br/>
+ <td><strong>Width</strong>: 7.75 inches (19.70 cm)</td><br/>
+ <td><strong>Width</strong>: 5.0 inches (12.7 cm)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td><strong>Depth</strong>: 7.75 inches (19.70 cm)</td><br/>
+ <td><strong>Depth</strong>: 7.75 inches (19.70 cm)</td><br/>
+ <td><strong>Depth</strong>: 5.0 inches (12.7 cm)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td><strong>Weight</strong>: 2.6 pounds (1.18 kg)</td><br/>
+ <td><strong>Weight (M2)</strong>: 2.6 pounds (1.18 kg)<br/>
+<strong>Weight (M2 Pro)</strong>: 2.8 pounds (1.28 kg)</td><br/>
+ <td><strong>Weight (M4)</strong>: 1.5 pounds (0.67 kg)<br/>
+<strong>Weight (M4 Pro)</strong>: 1.6 pounds (0.73 kg)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Thermal design with rear air intake and exhaust</td><br/>
+ <td>Thermal design with rear air intake and exhaust</td><br/>
+ <td>New thermal design that drives air up through the base</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Rear power button</td><br/>
+ <td>Rear power button</td><br/>
+ <td>Bottom power button</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Wi-Fi 6</td><br/>
+ <td>Wi-Fi 6E</td><br/>
+ <td>Wi-Fi 6E</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Bluetooth 5.0</td><br/>
+ <td>Bluetooth 5.3</td><br/>
+ <td>Bluetooth 5.3</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>3.5mm headphone jack</td><br/>
+ <td>3.5mm headphone jack with advanced support for high-impedance headphones</td><br/>
+ <td>3.5mm headphone jack with advanced support for high-impedance headphones</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>HDMI 2.0</td><br/>
+ <td><strong>M2</strong>: HDMI 2.0<br/>
+<strong>M2 Pro</strong>: HDMI 2.1</td><br/>
+ <td>HDMI 2.1</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Two rear USB-A ports</td><br/>
+ <td>Two rear USB-A ports</td><br/>
+ <td>Two front USB-C ports</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Two Thunderbolt 3/USB4 USB-C ports</td><br/>
+ <td><strong>M2</strong>: Two Thunderbolt 4 ports<br/>
+<strong>M2 Pro</strong>: Four Thunderbolt 4 ports</td><br/>
+ <td><strong>M4</strong>: Three Thunderbolt 4 ports<br/>
+<strong>M4 Pro</strong>: Three Thunderbolt 5 ports</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>Maximum of two external displays</td><br/>
+ <td>Maximum of three external displays</td><br/>
+ <td>Maximum of three external displays</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>256GB, 512GB, 1TB, or 2TB storage</td><br/>
+ <td><strong>M2</strong>: 256GB, 512GB, 1TB, or 2TB storage<br/>
+<strong>M2 Pro</strong>: 512GB, 1TB, 2TB, or 4TB storage</td><br/>
+ <td><strong>M4</strong>: 256GB, 512GB, 1TB, or 2TB storage<br/>
+<strong>M4 Pro</strong>: 512GB, 1TB, 2TB, 4TB, or 8TB storage</td><br/>
+ </tr><br/>
+</table><br/>
+<div class="clear"></div><br/>
+<br/>
+The chips offered across the three &zwnj;Mac mini&zwnj; generations are a key point of difference. These changes are outlined below:<br/>
+<br/>
+<table class="comparison"><br/>
+ <tr><br/>
+ <th>&zwnj;Mac mini&zwnj; (late 2020)</th><br/>
+ <th>&zwnj;Mac mini&zwnj; (early 2023)</th><br/>
+ <th>&zwnj;Mac mini&zwnj; (late 2024)</th><br/>
  </tr><br/>
  <tr><br/>
  <td><a href="https://www.macrumors.com/guide/m1/">M1</a> chip (made with TSMC's 5nm (N5) process)</td><br/>
- <td>M3 chip (made with TSMC's <a href="https://www.macrumors.com/guide/3nm/">3nm</a> (N3) process)</td><br/>
- <td>M4 chip (made with TSMC's enhanced &zwnj;3nm&zwnj; (N3E) process)</td><br/>
+ <td><a href="https://www.macrumors.com/guide/m2/">M2</a> or &zwnj;M2&zwnj; Pro chip (made with TSMC's enhanced 5nm (N5P) process)</td><br/>
+ <td>M4 or M4 Pro chip (made with TSMC's enhanced <a href="https://www.macrumors.com/guide/3nm/">3nm</a> (N3E) process)</td><br/>
  </tr><br/>
  <tr><br/>
- <td>3.20 GHz maximum CPU clock speed</td><br/>
- <td>4.05 GHz maximum CPU clock speed</td><br/>
+ <td>8 CPU cores (4 performance + 4 efficiency)</td><br/>
+ <td><strong>M2</strong>: 8 CPU cores (4 performance + 4 efficiency)<br/>
+<strong>M2 Pro</strong>: 10 or 12 CPU cores (6 or 8 performance + 4 efficiency)</td><br/>
+ <td><strong>M4</strong>: 10 CPU cores (4 performance + 6 efficiency cores)<br/>
+<strong>M4 Pro</strong>: 12 or 14 CPU cores (8 or 10 performance + 4 efficiency)</td><br/>
+ </tr><br/>
+ <tr><br/>
+ <td>3.23 GHz maximum CPU clock speed</td><br/>
+ <td>3.50 GHz maximum CPU clock speed</td><br/>
  <td>4.30 GHz maximum CPU clock speed</td><br/>
  </tr><br/>
  <tr><br/>
- <td>16 billion transistors</td><br/>
- <td>25 billion transistors</td><br/>
- <td>28 billion transistors</td><br/>
- </tr><br/>
- <tr><br/>
- <td>8-core CPU</td><br/>
- <td>8- or 10-core CPU</td><br/>
- <td>8- or 10-core CPU</td><br/>
- </tr><br/>
- <tr><br/>
- <td>7- or 8-core GPU</td><br/>
- <td>8- or 10-core GPU</td><br/>
- <td>8- or 10-core GPU</td><br/>
+ <td>8 GPU cores</td><br/>
+ <td><strong>M2</strong>: 10 GPU cores<br/>
+<strong>M2 Pro</strong>: 16 or 19 GPU cores</td><br/>
+ <td><strong>M4</strong>: 10 GPU cores<br/>
+<strong>M4 Pro</strong>: 16 or 20 GPU cores</td><br/>
  </tr><br/>
  <tr><br/>
  <td></td><br/>
- <td>Updated GPU architecture</td><br/>
+ <td></td><br/>
  <td>Updated GPU architecture with improved efficiency</td><br/>
  </tr><br/>
  <tr><br/>
  <td></td><br/>
- <td>Dynamic Caching</td><br/>
- <td>Dynamic Caching</td><br/>
- </tr><br/>
- <tr><br/>
  <td></td><br/>
- <td>Hardware-accelerated ray tracing</td><br/>
- <td>Hardware-accelerated ray tracing</td><br/>
+ <td>Hardware-accelerated ray-tracing</td><br/>
  </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Hardware-accelerated mesh shading</td><br/>
- <td>Hardware-accelerated mesh shading</td><br/>
- </tr><br/>
- <tr><br/>
+<tr><br/>
  <td>Video decode engine</td><br/>
  <td>Higher-bandwidth video decode engine</td><br/>
  <td>Higher-bandwidth video decode engine</td><br/>
@@ -671,452 +439,272 @@ The three Apple silicon &zwnj;iMac&zwnj; models share the overwhelming majority 
  </tr><br/>
  <tr><br/>
  <td></td><br/>
- <td>Support for AV1 decode</td><br/>
+ <td></td><br/>
  <td>Support for AV1 decode</td><br/>
  </tr><br/>
  <tr><br/>
- <td>LPDDR4X memory </td><br/>
+ <td>LPDDR4X memory</td><br/>
  <td>LPDDR5 memory</td><br/>
  <td>LPDDR5X memory</td><br/>
  </tr><br/>
  <tr><br/>
  <td>68.25GB/s memory bandwidth</td><br/>
- <td>100GB/s memory bandwidth</td><br/>
- <td>120GB/s memory bandwidth</td><br/>
+ <td><strong>M2</strong>: 100GB/s memory bandwidth<br/>
+<strong>M2 Pro</strong>: 200GB/s memory bandwidth</td><br/>
+ <td><strong>M4</strong>: 120GB/s memory bandwidth<br/>
+<strong>M4 Pro</strong>: 273GB/s memory bandwidth</td><br/>
  </tr><br/>
  <tr><br/>
- <td>8GB or 16GB unified memory</td><br/>
- <td>8GB, 16GB, or 24GB unified memory</td><br/>
- <td>16GB, 24GB, or 32GB unified memory</td><br/>
+ <td>8GB or 16GB memory</td><br/>
+ <td><strong>M2</strong>: 8GB, 16GB, or 24GB memory<br/>
+<strong>M2 Pro</strong>: 16GB or 32GB memory</td><br/>
+ <td><strong>M4</strong>: 16GB, 24GB, or 32GB memory<br/>
+<strong>M4 Pro</strong>: 24GB, 48GB, or 64GB memory</td><br/>
  </tr><br/>
  <tr><br/>
  <td>16-core Neural Engine, 11 trillion operations per second</td><br/>
- <td>16-core Neural Engine, 18 trillion operations per second</td><br/>
+ <td>16-core Neural Engine, 15.8 trillion operations per second</td><br/>
  <td>16-core Neural Engine, 38 trillion operations per second</td><br/>
- </tr><br/>
- <tr><br/>
- <td>1080p <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> HD camera</td><br/>
- <td>1080p &zwnj;FaceTime&zwnj; HD camera</td><br/>
- <td>12-megapixel camera</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td></td><br/>
- <td>Center Stage with support for Desk View</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Image signal processor (ISP)</td><br/>
- <td>"New" image signal processor (ISP)</td><br/>
- <td>"New" image signal processor (ISP)</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td></td><br/>
- <td>Nano-texture display option</td><br/>
  </tr><br/>
  <tr><br/>
  <td></td><br/>
  <td></td><br/>
  <td>Dedicated display engine</td><br/>
  </tr><br/>
- <tr><br/>
- <td>3.5mm headphone jack</td><br/>
- <td>3.5mm headphone jack with support for high-impedance headphones</td><br/>
- <td>3.5mm headphone jack with support for high-impedance headphones</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Up to two Thunderbolt/USB 4 ports and two USB 3 ports</td><br/>
- <td>Up to two Thunderbolt/USB 4 ports and two USB 3 ports</td><br/>
- <td>Up to four Thunderbolt 4 ports</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Wi-Fi 6</td><br/>
- <td>Wi-Fi 6E</td><br/>
- <td>Wi-Fi 6E</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Bluetooth 5.0</td><br/>
- <td>Bluetooth 5.3</td><br/>
- <td>Bluetooth 5.3</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Available in Silver, Green, Yellow, Orange, Pink, Purple, and Blue</td><br/>
- <td>Available in Silver, Green, Yellow, Orange, Pink, Purple, and Blue</td><br/>
- <td>Available in Silver, as well as new shades of Green, Yellow, Orange, Pink, Purple, and Blue</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Magic Keyboard and Magic Mouse/Magic Trackpad with Lightning port</td><br/>
- <td>Magic Keyboard and Magic Mouse/Magic Trackpad with Lightning port</td><br/>
- <td>Magic Keyboard and Magic Mouse/Magic Trackpad with USB-C port</td><br/>
- </tr><br/>
 </table><br/>
 <div class="clear"></div><br/>
 <br/>
-The 2024 &zwnj;iMac&zwnj; with the M4 chip marks a much more substantial upgrade compared to the 2021 and 2023 models. Key improvements such as the significantly more powerful Neural Engine for AI and machine learning tasks, increased standard memory of 16GB, 12-megapixel camera with Center Stage, and support for USB-C accessories make it an appealing choice for future-proofing. Performance-wise, it delivers a meaningful boost, especially for those upgrading from the &zwnj;M1&zwnj; &zwnj;iMac&zwnj; or older Intel-based iMacs, where Apple claims up to 6x faster performance than the most popular Intel &zwnj;iMac&zwnj;. <br/>
+The M4 and M4 Pro &zwnj;Mac mini&zwnj; represent the most significant update to Apple's compact desktop in years, marking an evolution not only in performance but in design and functionality as well. The new, dramatically smaller enclosure, improved thermal design, and front USB-C ports are standout changes that make the <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a> much more versatile. For users who prioritize compactness and connectivity without sacrificing power, these design upgrades alone make the 2024 &zwnj;Mac mini&zwnj; an appealing choice.<br/>
 <br/>
-For &zwnj;M1&zwnj; &zwnj;iMac&zwnj; users, the M4 model could be worth considering if they require enhanced performance or a richer set of features, such as hardware-accelerated ray tracing, nano-texture display option, or simply a better webcam. However, M3 &zwnj;iMac&zwnj; users may find fewer incentives to upgrade, as the performance gap between M3 and M4 is good but not as significant in daily use unless the system is pushed to the limit. The M3 &zwnj;iMac&zwnj; is built to handle demanding tasks and will remain relevant for several more years, but &zwnj;M1&zwnj; &zwnj;iMac&zwnj; users may want to begin considering an upgrade. <br/>
+In terms of performance, the M4 and M4 Pro chips offer substantial advancements. With higher clock speeds, more efficient core architecture, and memory bandwidth improvements, the &zwnj;M4 Mac mini&zwnj; brings noticeable gains in performance over the &zwnj;M1&zwnj; and &zwnj;M2&zwnj; models. The new chips also introduce hardware-accelerated ray-tracing, support for AV1 decoding, and an updated GPU architecture, which are particularly beneficial for users in graphic design, video editing, and other GPU-intensive tasks. Paired with LPDDR5X memory, these upgrades make the &zwnj;Mac mini&zwnj; more competitive than ever, even nearing the capabilities of the <a href="https://www.macrumors.com/roundup/mac-studio/">Mac Studio</a> for many professional workflows.<br/>
 <br/>
-Starting at &#36;1,299, the new &zwnj;iMac&zwnj; remains a solid investment for those looking for a device with longevity, a robust array of features, and meaningful upgrades over the original &zwnj;M1&zwnj; model or older Intel machines. However, if you have basic needs and find a discounted 2023 &zwnj;iMac&zwnj;, this could still offer good value, though the M4 will better meet the needs of those seeking higher performance, better features, and a more forward-looking setup.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/imac/">iMac</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/m1/">M1</a>, <a href="https://www.macrumors.com/guide/m3/">M3</a>, <a href="https://www.macrumors.com/guide/m4/">M4</a>, <a href="https://www.macrumors.com/guide/m4-imac/">M4 iMac</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/m1-vs-m3-vs-m4-imac/">M1 vs. M3 vs. M4 iMac Buyer&#039;s Guide: 25+ Upgrades Compared</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m1-vs-m3-vs-m4-imac-buyers-guide-25-upgrades-compared.2441149/">Discuss this article</a> in our forums<br/><br/>]]></description>
+For &zwnj;M1&zwnj; &zwnj;Mac mini&zwnj; users, the latest model is a compelling upgrade that delivers tangible improvements in speed, graphics capability, and future-proofing. The leap in Neural Engine performance alone, which now handles 38 trillion operations per second, will significantly enhance AI-driven tasks and applications. Even &zwnj;M2&zwnj; &zwnj;Mac mini&zwnj; users may find the M4 and M4 Pro models tempting, given the design overhaul and even more high-end configuration options.<br/>
+<br/>
+However, &zwnj;M2&zwnj; Pro users who already have a higher-spec configuration may not find the jump to the latest model as essential, especially if their needs are already being met by their current machine's power and capabilities. For these users, it might be worth waiting for an even more transformative update later down the line.<br/>
+<br/>
+What is clear is that the M4 and M4 Pro &zwnj;Mac mini&zwnj; provide a noteworthy upgrade for users seeking a high-performance, compact, and cost-effective desktop Mac. The latest generation blurs the line between the &zwnj;Mac mini&zwnj; and &zwnj;Mac Studio&zwnj;, delivering substantial power and formidable specifications in a much smaller footprint. It stands out as one of the best-value options for desktop computing in Apple's lineup, making it an excellent choice for many users.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/m1-vs-m2-vs-m4-mac-mini/">M1 vs. M2. vs. M4 Mac Mini Buyer&#039;s Guide: 25+ Upgrades Compared</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m1-vs-m2-vs-m4-mac-mini-buyers-guide-25-upgrades-compared.2441294/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>The Meme Lives On: Magic Mouse&#039;s USB-C Charging Port Still on Bottom</title>
-		<link>https://www.macrumors.com/2024/10/28/magic-mouse-usb-c-port-on-bottom/</link>
-		<comments>https://forums.macrumors.com/threads/the-meme-lives-on-magic-mouses-usb-c-charging-port-still-on-bottom.2441148/</comments>
-		<pubDate>Mon, 28 Oct 2024 09:21:52 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/magic-mouse-usb-c-port-on-bottom/</guid>
+		<title>Apple Leaks M4 Max Chip Icon Ahead of Announcing New MacBook Pros</title>
+		<link>https://www.macrumors.com/2024/10/29/apple-leaks-m4-max-chip/</link>
+		<comments>https://forums.macrumors.com/threads/apple-leaks-m4-max-chip-icon-ahead-of-announcing-new-macbook-pros.2441288/</comments>
+		<pubDate>Tue, 29 Oct 2024 08:48:59 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/apple-leaks-m4-max-chip/</guid>
 		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Magic Mouse</category>
-		
-
-		<description><![CDATA[Apple today updated its Magic Mouse, Magic Keyboard, and Magic Trackpad accessories for the Mac <a href="https://www.macrumors.com/2024/10/28/apple-announces-usb-c-magic-accessories/">with USB-C charging ports</a>, but the accessories have no other external design changes. Yes, that means the Magic Mouse's charging port is still located on the bottom of the mouse, despite the switch from Lightning to USB-C.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/Magic-Mouse-USB-C.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-973231" /><br/>
-The position of the charging port on the Magic Mouse has been the subject of a meme on social media since 2015, as it means the mouse cannot be used while it is charging in an upside-down position, but Apple is clearly unfazed.<br/>
-<br/>
-The augmented reality view of the new iMac on Apple's website confirms the bottom position of the USB-C port on the updated Magic Mouse, as shown above.<br/>
-<br/>
-Apple includes the updated Magic Mouse and Magic Keyboard in the box with the iMac, and the Magic Trackpad is an optional upgrade. The USB-C versions of the accessories are <a href="https://www.macrumors.com/2024/10/28/apple-announces-usb-c-magic-accessories/">also sold separately</a> in white and black color options.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/magic-mouse/">Magic Mouse</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/magic-mouse-usb-c-port-on-bottom/">The Meme Lives On: Magic Mouse&#039;s USB-C Charging Port Still on Bottom</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-meme-lives-on-magic-mouses-usb-c-charging-port-still-on-bottom.2441148/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Higher-End iMac&#039;s Ports Are All Thunderbolt 4</title>
-		<link>https://www.macrumors.com/2024/10/28/imac-thunderbolt-4-ports/</link>
-		<comments>https://forums.macrumors.com/threads/higher-end-imacs-ports-are-all-thunderbolt-4.2441147/</comments>
-		<pubDate>Mon, 28 Oct 2024 09:19:16 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/imac-thunderbolt-4-ports/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>iMac</category>
-		
-
-		<description><![CDATA[Apple today released new <a href="https://www.macrumors.com/roundup/imac/">iMac</a> models, and while there are few external changes with the exception of some color tweaks, Apple made several internal updates to the machine. The inclusion of the next-generation M4 chip is the biggest update, but the ports have also seen improvement.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/imac-thunderbolt-4-ports.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-973226" /><br/>
-For the M4 &zwnj;iMac&zwnj; models with 10-core CPU and 10-core GPU, all four of the USB-C ports support Thunderbolt 4 transfer speeds of up to 40Gb/s. The prior-generation M3 &zwnj;iMac&zwnj; with four ports had two Thunderbolt 3 ports and two USB-3 ports.<br/>
-<br/>
-The 8-core CPU and 8-core GPU models only have two ports, but both of those are Thunderbolt 4. All of the USB-C/Thunderbolt 4 ports also support USB 4 and USB 3.1 Gen 2.<br/>
-<br/>
-Pricing on the &zwnj;iMac&zwnj; starts at &#36;1,299 for the 8-core CPU/GPU version, while the 10-core CPU/GPU models with four ports are priced starting at &#36;1,499. Apple is accepting pre-orders for the new M4 &zwnj;iMac&zwnj; models as of today.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/imac/">iMac</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/imac-thunderbolt-4-ports/">Higher-End iMac&#039;s Ports Are All Thunderbolt 4</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/higher-end-imacs-ports-are-all-thunderbolt-4.2441147/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Nano-Texture Display Option Returns to iMac</title>
-		<link>https://www.macrumors.com/2024/10/28/nano-texture-display-returns-to-imac/</link>
-		<comments>https://forums.macrumors.com/threads/nano-texture-display-option-returns-to-imac.2441142/</comments>
-		<pubDate>Mon, 28 Oct 2024 08:47:53 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/nano-texture-display-returns-to-imac/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>iMac</category>
-		
-
-		<description><![CDATA[Apple's <a href="https://www.macrumors.com/2024/10/28/apple-announces-imac-with-m4-chip-upgraded-camera-new-colors-and-more/">new iMac models</a> are available with a nano-texture display option for the first time since the product line switched to Apple silicon.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-lifestyle-business-storefront.jpg" alt="" width="2880" height="1620" class="alignnone size-full wp-image-973173" /><br/>
-First introduced with the Pro Display XDR in 2019, nano-texture glass is etched at a nanometer scale, which is meant to preserve image quality while scattering ambient light to cut down on glare. It is the most matte display type that Apple makes, and Apple claims that it is useful for high-end, color-managed workflows or demanding ambient lighting environments.<br/>
-<br/>
-<blockquote>The expansive 24-inch 4.5K Retina display on iMac is its highest-rated feature, and for the first time, it's available with a nano-texture glass option that drastically reduces reflections and glare, while maintaining outstanding image quality. With nano-texture glass, users can place iMac in even more spaces, such as a sun-drenched living room or bright storefront.</blockquote><br/>
-<br/>
-The 2020 27-inch Intel-based <a href="https://www.macrumors.com/roundup/imac/">iMac</a> was available with a nano-texture display option prior to its discontinuation, so the new &zwnj;iMac&zwnj; marks the first time that the feature has been available with the Apple silicon version of the device. The new &zwnj;iMac&zwnj;'s nano-texture glass is a build-to-order option that costs &#36;200, configurable at the point of purchase. It is now available across the Pro Display XDR, Studio Display, and <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>. <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/imac/">iMac</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/nano-texture-display-returns-to-imac/">Nano-Texture Display Option Returns to iMac</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/nano-texture-display-option-returns-to-imac.2441142/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>M3 vs. M4 Chip Buyer&#039;s Guide: How Much Better Really Is M4?</title>
-		<link>https://www.macrumors.com/guide/m3-vs-m4/</link>
-		<comments>https://forums.macrumors.com/threads/m3-vs-m4-chip-buyers-guide-how-much-better-really-is-m4.2441141/</comments>
-		<pubDate>Mon, 28 Oct 2024 08:45:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/guide/m3-vs-m4&#038;post_date=1730141100/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Buyer's Guide</category>
 		<category>Featured</category>
-		<category>iMac</category>
 		<category>MacBook Pro 14&quot; &amp;amp; 16&quot;</category>
+		
+
+		<description><![CDATA[Oops! Eagle-eyed developer <a href="https://x.com/heychazza/status/1851283812619108626">Charlie Joseph today discovered</a> that Apple has leaked its upcoming high-end M4 Max chip through an image uploaded to its website. The discovery was shared with <em>Bloomberg</em>'s Mark Gurman on social media.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/10/m3-mbp-space-black.jpg" alt="" width="1440" height="810" class="aligncenter size-full wp-image-919466" /><br/>
+It was already pretty obvious that Apple plans to announce new 14-inch and 16-inch MacBook Pro models with M4, M4 Pro, and M4 Max chips this week, after Apple <a href="https://www.macrumors.com/2024/10/28/apple-promises-two-more-mac-announcements/">promised multiple Mac-related announcements this week</a>. Now, the M4 Max chip image reinforces that Apple is gearing up to announce the new laptops imminently. Apple will likely unveil the new MacBook Pro models with a press release and video on Wednesday.<br/>
+<br/>
+Here is the image of the M4 Max icon, and an <a href="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-decision-m4-max-202410">Apple.com link to it</a> while it lasts:<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/M4-Max-Chip-Large.jpeg" alt="" width="72" height="72" class="aligncenter size-full wp-image-973679" /><br/>
+With this leak, the <a href="https://www.macrumors.com/2024/10/07/apple-potentially-facing-worst-leak-since-iphone-4/">base model 14-inch MacBook Pro leaking in Russia</a>, and the <a href="https://www.macrumors.com/2024/10/28/amazon-leaks-new-mac-mini/">new Mac mini leaking on Amazon</a>, Apple has struggled to keep these M4 Mac announcements under wraps, which is pretty rare territory for the company.<br/>
+<br/>
+This discovery comes after <a href="https://www.macrumors.com/2024/10/29/apple-announces-m4-pro-chip/">Apple announced the M4 Pro chip</a> alongside the <a href="https://www.macrumors.com/2024/10/29/apple-announces-redesigned-mac-mini/">new Mac mini</a> today. Key specifications of the M4 Pro chip include up to a 14-core CPU, up to a 20-core GPU, a 16-core Neural Engine, support for up to 64GB of RAM, support for Thunderbolt 5, and an increased 273GB/s of memory bandwidth. For the M4 Pro chip with a 14-core CPU, there are 10 performance cores and four efficiency cores. M4 Max specifications have not leaked, but it will obviously take performance to an even higher level than the M4 Pro chip.<br/>
+<br/>
+Apple is expected to announce a base 14-inch MacBook Pro with the M4 chip, and higher-end 14-inch and 16-inch MacBook Pro models with M4 Pro and M4 Max chips.<br/>
+<br/>
+No major external design changes have been rumored for the MacBook Pro lineup this year, with more significant improvements such as an OLED display and thinner design not expected <a href="https://www.macrumors.com/2024/09/10/macbook-pro-wont-switch-to-oled-in-2025-rumor/">until 2026 at the earliest</a>. However, the entry-level 14-inch MacBook Pro is expected to gain an additional Thunderbolt port compared to the current model, based on <a href="https://www.macrumors.com/2024/10/07/apple-potentially-facing-worst-leak-since-iphone-4/">alleged leaks earlier this month</a>. Those same leaks revealed that the MacBook Pro lineup might finally start with 16GB of RAM, instead of 8GB. We've already seen this trend with the new iMac and Mac mini, which both have a minimum of 16GB of RAM for all configurations.<br/>
+<br/>
+Based on the Mac mini with the M4 Pro chip, it <a href="https://www.macrumors.com/2024/10/29/m4-macbook-pro-likely-feature-thunderbolt-5/">seems pretty likely that MacBook Pro models with M4 Pro and M4 Max chips will also support Thunderbolt 5</a> for up to 120 Gb/s data transfer speeds, but this is not officially confirmed yet.<br/>
+<br/>
+Apple last redesigned the 14-inch and 16-inch MacBook Pro in 2021, and the latest models with the M3 family of chips were released last October.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Don't Buy)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/apple-leaks-m4-max-chip/">Apple Leaks M4 Max Chip Icon Ahead of Announcing New MacBook Pros</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-leaks-m4-max-chip-icon-ahead-of-announcing-new-macbook-pros.2441288/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Shares 12-Minute Video Announcement for Redesigned Mac Mini</title>
+		<link>https://www.macrumors.com/2024/10/29/apple-shares-m4-mac-mini-announcement-video/</link>
+		<comments>https://forums.macrumors.com/threads/apple-shares-12-minute-video-announcement-for-redesigned-mac-mini.2441281/</comments>
+		<pubDate>Tue, 29 Oct 2024 08:21:47 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/apple-shares-m4-mac-mini-announcement-video/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
 		<category>Mac mini</category>
+		
+
+		<description><![CDATA[Apple today shared a 12-minute announcement video on YouTube for the <a href="https://www.macrumors.com/2024/10/29/apple-announces-redesigned-mac-mini/">new Mac mini</a>, providing an overview of the computer's new features and changes, including a smaller design, two front-facing USB-C ports, M4 and M4 Pro chip options, Thunderbolt 5 support for higher-end configurations with the M4 Pro chip, and more.<br/>
+<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/TtFm9n3NVzE?si=91e-kdYzjZz6qVdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+For more details about the new Mac mini, read <a href="https://www.macrumors.com/2024/10/29/apple-announces-redesigned-mac-mini/">our coverage of Apple's announcement</a>.<br/>
+<br/>
+The new Mac mini is available to pre-order today, with U.S. pricing starting at &#36;599, and it launches on Friday, November 8.<br/>
+<br/>
+Be sure to check out <a href="https://www.macrumors.com/2024/10/28/apple-m4-imac-keynote/">Apple's video announcement for the new iMac</a> too if you missed it yesterday.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/apple-shares-m4-mac-mini-announcement-video/">Apple Shares 12-Minute Video Announcement for Redesigned Mac Mini</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-shares-12-minute-video-announcement-for-redesigned-mac-mini.2441281/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Mac Mini With M4 Pro Features Three Thunderbolt 5 Ports</title>
+		<link>https://www.macrumors.com/2024/10/29/m4-pro-mac-mini-features-thunderbolt-5/</link>
+		<comments>https://forums.macrumors.com/threads/mac-mini-with-m4-pro-features-three-thunderbolt-5-ports.2441280/</comments>
+		<pubDate>Tue, 29 Oct 2024 08:17:11 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/m4-pro-mac-mini-features-thunderbolt-5/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Mac mini</category>
+		<category>Thunderbolt 5</category>
+		
+
+		<description><![CDATA[Apple's new <a href="https://www.macrumors.com/2024/10/29/apple-announces-redesigned-mac-mini/">redesigned Mac mini</a> with M4 Pro chip features three Thunderbolt 5 ports, the newest specification of Thunderbolt that offers speeds of up to 120 Gb/s with Bandwidth Boost, which is triple the maximum bandwidth of Thunderbolt 4.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/Apple-Mac-mini-back-facing-ports-1.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-973621" /><br/>
+The new standard also features support for native DisplayPort 2.1 output over USB‑C. Thunderbolt 5 is fully compatible with USB4, and supports advanced protocols such as PCIe 4.0, allowing faster data access speeds for storage devices and peripherals. <br/>
+<br/>
+In contrast, the new Mac mini with M4 chip includes three Thunderbolt 4 ports. Front ports on both models include two USB-C ports that support USB 3, and an audio jack with support for high-impedance headphones.<br/>
+<br/>
+Both models also come standard with Gigabit Ethernet, configurable up to 10Gb Ethernet for faster networking speeds, and an HDMI port for easy connection to a TV or HDMI display without an adapter. With M4, Mac mini can support up to two 6K displays and up to one 5K display, and with M4 Pro, it can support up to three 6K displays at 60Hz for a total of over 60 million pixels.<br/>
+<br/>
+The new Mac mini with M4 starts with 16GB of memory for &#36;599, while the M4 Pro models start with 24GB for &#36;1,399. The new models are available to pre-order today with launch day arriving on Friday, November 8.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/thunderbolt-5/">Thunderbolt 5</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/m4-pro-mac-mini-features-thunderbolt-5/">Mac Mini With M4 Pro Features Three Thunderbolt 5 Ports</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/mac-mini-with-m4-pro-features-three-thunderbolt-5-ports.2441280/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>M4 Pro Chip Announced: Up to 14-Core CPU and 20-Core GPU, Up to 64GB of RAM, Thunderbolt 5 Support, and More</title>
+		<link>https://www.macrumors.com/2024/10/29/apple-announces-m4-pro-chip/</link>
+		<comments>https://forums.macrumors.com/threads/m4-pro-chip-announced-up-to-14-core-cpu-and-20-core-gpu-up-to-64gb-of-ram-thunderbolt-5-support-and-more.2441276/</comments>
+		<pubDate>Tue, 29 Oct 2024 08:03:57 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/apple-announces-m4-pro-chip/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>New Banner (Featured)</category>
 		<category>Apple Silicon</category>
-		<category>M3</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/">unveiled the M4 Pro chip</a>, with key specifications including up to a 14-core CPU, up to a 20-core GPU, a 16-core Neural Engine, and support for up to 64GB of RAM. For the 14-core CPU, there are 10 performance cores and four efficiency cores.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/M4-Pro.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-973605" /><br/>
+The previous-generation M3 Pro chip has up to a 12-core CPU and up to an 18-core GPU.<br/>
+<br/>
+Apple says the M4 Pro chip features "the world's fastest CPU core" with "lightning-fast single-threaded performance." It also advertises the M4 Pro chip's graphics performance as being up to twice as fast as the standard M4 chip.<br/>
+<br/>
+Apple has not provided any direct comparisons between the M4 Pro and M3 Pro chips, so we will have to wait for benchmark results for that. However, in its <a href="https://www.macrumors.com/2024/10/29/apple-shares-m4-mac-mini-announcement-video/">Mac mini video announcement</a>, Apple says the M4 Pro chip's multi-core CPU performance is up to 1.6x faster than the M2 Pro chip and up to 1.9x faster than the M1 Pro chip.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/M4-Pro-vs-M2-Pro.jpg" alt="" width="5090" height="2856" class="aligncenter size-full wp-image-973718" /><br/>
+Other specifications for the M4 Pro chip include Thunderbolt 5 support with up to 120 Gb/s data transfer speeds, and an increased 273GB/s of memory bandwidth. That is a 75% increase in memory bandwidth compared to the M3 Pro chip.<br/>
+<br/>
+The first Mac equipped with the M4 Pro chip is <a href="https://www.macrumors.com/2024/10/29/apple-announces-redesigned-mac-mini/">the new Mac mini</a>, also announced today. Apple is also expected to introduce updated 14-inch and 16-inch MacBook Pro models with M4, M4 Pro, and M4 Max chip options later this week.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/apple-announces-m4-pro-chip/">M4 Pro Chip Announced: Up to 14-Core CPU and 20-Core GPU, Up to 64GB of RAM, Thunderbolt 5 Support, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m4-pro-chip-announced-up-to-14-core-cpu-and-20-core-gpu-up-to-64gb-of-ram-thunderbolt-5-support-and-more.2441276/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Announces Redesigned Mac Mini With M4 and M4 Pro Chips, Two Front USB-C Ports, and More</title>
+		<link>https://www.macrumors.com/2024/10/29/apple-announces-redesigned-mac-mini/</link>
+		<comments>https://forums.macrumors.com/threads/apple-announces-redesigned-mac-mini-with-m4-and-m4-pro-chips-two-front-usb-c-ports-and-more.2441275/</comments>
+		<pubDate>Tue, 29 Oct 2024 08:01:45 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/apple-announces-redesigned-mac-mini/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Featured</category>
+		<category>Featured (sticky)</category>
+		<category>Mac mini</category>
+		<category>New Banner (Featured)</category>
+		<category>Product Release (Buyer's Guide)</category>
 		<category>M4</category>
-		<category>M4 iMac</category>
 		<category>M4 Mac mini</category>
 		<category>M4 Macs</category>
 		
 
-		<description><![CDATA[Apple today announced the first of its M4 Mac models, but how much better really is the M4 chip over its predecessor?<br/>
+		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/">announced</a> fully redesigned <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> models featuring the M4 and M4 Pro chips, a considerably smaller casing, two front-facing USB-C ports, Thunderbolt 5 connectivity, and more.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/06/M3-vs-M4-Feature.jpg" alt="" width="2500" height="1406" class="alignnone size-full wp-image-957214" /><br/>
-The M4 chip debuted in the <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a> earlier this year, promising around 20% faster performance than the M3 chip in both single and multi-core tasks. All of the key differences between the two chip generations are listed below:<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/HUDqB8Ralkk?si=N7GsgeIvLVI5ljff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+The product refresh marks the first time the &zwnj;Mac mini&zwnj; has been redesigned in over a decade. The enclosure now measures just five by five inches and contains a new thermal architecture where air is guided up through the device's foot to different levels of the system.<br/>
 <br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>M3 Chip (2023–2024)</th><br/>
- <th>M4 Chip (2024)</th><br/>
- </tr><br/>
- <tr><br/>
- <td>Made using TSMC's <a href="https://www.macrumors.com/guide/3nm/">3nm</a> technology (N3)</td><br/>
- <td>Made using TSMC's enhanced &zwnj;3nm&zwnj; technology (N3E)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>Based on <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> Pro's A17 Pro chip (2023)</td><br/>
- <td>Based on <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>'s A18 chip (2024)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>25 billion transistors</td><br/>
- <td>28 billion transistors (+12%)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>8-core CPU<br/>
-(4 performance + 4 efficiency cores)</td><br/>
- <td>Up to 10 CPU cores<br/>
-(4 performance + 6 efficiency cores)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>4.05 GHz CPU clock speed</td><br/>
- <td>4.3 GHz CPU clock speed</td><br/>
- </tr><br/>
- <tr><br/>
- <td>16-core Neural Engine, 18 trillion operations per second</td><br/>
- <td>16-core Neural Engine, 38 trillion operations per second (+111%)</td><br/>
- </tr><br/>
- <tr><br/>
- <td>LPDDR5 memory</td><br/>
- <td>LPDDR5X memory</td><br/>
- </tr><br/>
- <tr><br/>
- <td>100 GB/s memory bandwidth</td><br/>
- <td>120 GB/s memory bandwidth (+20%)</td><br/>
- </tr><br/>
- <tr><br/>
- <td></td><br/>
- <td>Dedicated display engine</td><br/>
- </tr><br/>
- <tr><br/>
- <td>GPU with standard power efficiency</td><br/>
- <td>More power-efficient GPU: Maintains performance with significantly less power</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
+The new &zwnj;Mac mini&zwnj; can be configured with either the M4 or M4 Pro chip, with the latter allowing for a 14-core CPU, a 20-core GPU, and up to 64GB of memory. The &zwnj;Mac mini&zwnj; with the M4 chip features a 10-core CPU, 10-core GPU, and now starts with 16GB of unified memory as standard. The M4 Pro features 273GB/s of memory bandwidth.<br/>
 <br/>
-Most of these upgrades, with the exception of core counts and memory bandwidth, apply to the entire selection M3 and M4 chips. Using Geekbench benchmarks, these are the approximate performance gains you can expect from the M4 chip:<br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/JjpGvjy0Gxk?si=Fupq1ja31Y821APw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+Apple says that the <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a> is up to 1.8x faster in CPU performance and 2.2x faster in GPU performance than the <a href="https://www.macrumors.com/guide/m1/">M1</a> model from 2020. With up to 20 cores, the M4 Pro's GPU is said to be up to twice as powerful as the GPU in the standard M4. Both chips bring hardware-accelerated ray tracing to the &zwnj;Mac mini&zwnj; for the first time, alongside a considerably more powerful Neural Engine. <br/>
 <br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>Benchmark Type</th><br/>
- <th>M3 Chip Performance</th><br/>
- <th>M4 Chip Performance (Improvement)</th><br/>
- </tr><br/>
- <tr><br/>
- <th>Single-core CPU</th><br/>
- <td>3,088</td><br/>
- <td>3,864 (+25.1%)</td><br/>
- </tr><br/>
- <tr><br/>
- <th>Multi-core CPU</th><br/>
- <td>11,711</td><br/>
- <td>15,288 (+30.5%)</td><br/>
- </tr><br/>
- <tr><br/>
- <th>Metal GPU</th><br/>
- <td>47,466</td><br/>
- <td>57,603 (+21.4%)</td><br/>
- </tr><br/>
-</table><br/>
-<div class="clear"></div><br/>
+The M4 Pro model offers two USB-C ports on the front and three Thunderbolt 5 ports on the back. This is the first time a Mac has featured Thunderbolt 5 connectivity, which delivers up to 120 Gb/s data transfer speeds—more than doubling the throughput of Thunderbolt 4. The M4 model continues to have Thunderbolt 4 ports.<br/>
 <br/>
-While the M4 chip features notable enhancements over the M3, such as increased CPU and GPU performance and improved efficiency, the practical differences for users upgrading from an M3 system may not be as radical as the specifications suggest. The M3 chip already delivers impressive performance and efficiency, making it a formidable contender in its own right.<br/>
-<br/>
-The 25.1% improvement in single-core performance and 30.5% in multi-core performance highlight technical advancements, but for many users, especially those already equipped with M3-based devices, the everyday experience will likely not feel dramatically different. Tasks that benefit from single-core speeds, like launching apps and light productivity work, will be snappier, but for those accustomed to the M3's capabilities, this difference may not significantly impact their workflow.<br/>
-<br/>
-Similarly, the 21.4% increase in GPU performance means better graphics rendering and gaming capabilities, yet users who have enjoyed the M3's performance may find these enhancements less noticeable in routine tasks. The improvements in gaming and creative applications will benefit users who are heavily engaged in graphics-intensive work, but those using the M3 might not feel compelled to upgrade solely for these reasons.<br/>
-<br/>
-The 111% boost in the Neural Engine is a standout figure, emphasizing the chip's impressive artificial intelligence and advanced machine learning capabilities. However, for many users, especially with less demanding requirements, the difference might not justify the upgrade, especially as both the M3 and M4 chip support <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a>. That being said, the M4 chip's significantly improved Neural Engine makes it more likely to support and effectively run new &zwnj;Apple Intelligence&zwnj; and AI features as they emerge over the years. <br/>
-<br/>
-In terms of memory bandwidth, the 20% increase allows for faster data transfer, which is beneficial for data-heavy applications. Yet, again, for users already using the M3, this improvement may not translate into a dramatic change in performance.<br/>
-<br/>
-Ultimately, while the M4 chip certainly pushes the boundaries of what is possible in Apple's silicon, it may not represent a radical shift for those already using the M3. Instead, the M4 is likely aimed at users looking to upgrade from <a href="https://www.macrumors.com/guide/m1/">M1</a> chips or older Intel systems, where the jump in performance is far more pronounced.<br/>
-<br/>
-For existing M3 users, the decision to upgrade may hinge more on specific needs and applications rather than a broad expectation of enhanced performance. For example, M3 Max chip users who push their system to the limit with highly intensive tasks may have good reason to upgrade. Likewise, if your current M3 or M3 Pro system seems to be insufficient for your workflow, you could consider upgrading to an "M4 Pro" or "M4 Max" device when they're available, but these upgrade paths will be unusual.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/imac/">iMac</a>, <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a>, <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a>, <a href="https://www.macrumors.com/guide/m3/">M3</a>, <a href="https://www.macrumors.com/guide/m4/">M4</a>, <a href="https://www.macrumors.com/guide/m4-imac/">M4 iMac</a>, <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a>, <a href="https://www.macrumors.com/guide/m4-macs/">M4 Macs</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#MacBook_Pro_16">14" & 16" MacBook Pro (Don't Buy)</a>, <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Don't Buy)</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a>, <a href="https://forums.macrumors.com/forums/macbook-pro.90">MacBook Pro</a>, <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/m3-vs-m4/">M3 vs. M4 Chip Buyer&#039;s Guide: How Much Better Really Is M4?</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m3-vs-m4-chip-buyers-guide-how-much-better-really-is-m4.2441141/">Discuss this article</a> in our forums<br/><br/>]]></description>
+The new machine is also Apple's first carbon-neutral Mac. The M4 and M4 Pro &zwnj;Mac mini&zwnj; is available to pre-order today with a starting price of &#36;599, with launch set to take place on November 8.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/m4/">M4</a>, <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a>, <a href="https://www.macrumors.com/guide/m4-macs/">M4 Macs</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/apple-announces-redesigned-mac-mini/">Apple Announces Redesigned Mac Mini With M4 and M4 Pro Chips, Two Front USB-C Ports, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-announces-redesigned-mac-mini-with-m4-and-m4-pro-chips-two-front-usb-c-ports-and-more.2441275/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>New Base M4 iMac Comes With 16GB of Unified Memory</title>
-		<link>https://www.macrumors.com/2024/10/28/new-m4-imac-minimum-16gb-ram/</link>
-		<comments>https://forums.macrumors.com/threads/new-base-m4-imac-comes-with-16gb-of-unified-memory.2441140/</comments>
-		<pubDate>Mon, 28 Oct 2024 08:25:31 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/new-m4-imac-minimum-16gb-ram/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>iMac</category>
-		
-
-		<description><![CDATA[Apple has equipped its <a href="https://www.macrumors.com/2024/10/28/apple-announces-imac-with-m4-chip-upgraded-camera-new-colors-and-more/">just-announced</a> M4-powered iMac with 16GB of Unified Memory as standard, up from 8GB of RAM in the previous model. The new iMac starts at &#36;1,299.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-lifestyle-24-inch-Retina-display.jpg" alt="" width="2880" height="1620" class="aligncenter size-full wp-image-973163" /><br/>
-<a href="https://www.macrumors.com/2024/10/23/apple-new-macs-16gb-ram-standard/">As rumored</a>, Apple has upped the base memory configuration of at least one of its latest Macs. It is the first time that the company has offered the ultra-thin all-in-one desktop computer with a minimum of 16GB of memory.  <br/>
-<br/>
-All of Apple's upcoming new Macs this year are likely to have at least 16GB of RAM pre-installed as standard, breaking a years-long tradition of Apple offering just 8GB of RAM in most of its base Macs and forcing customers to pay out an extra &#36;200+ for additional memory.<br/>
-<br/>
-The new iMac is available in a range of new colors, and the 24-inch 4.5K Retina display offers a new nano-texture glass option. The iMac also features a new 12MP Center Stage camera with Desk View, up to four Thunderbolt 4 ports, up to 32GB of Unified Memory, and color-matched accessories that include USB-C. <br/>
-<br/>
-The new iMac is available to pre-order today, with availability beginning Friday, November 8. Apple is expected to announce new MacBook Pro models and a new redesigned Mac mini later this week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/imac/">iMac</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iMac">iMac (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/imac.91">iMac</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/new-m4-imac-minimum-16gb-ram/">New Base M4 iMac Comes With 16GB of Unified Memory</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/new-base-m4-imac-comes-with-16gb-of-unified-memory.2441140/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases iOS 18.1 and iPadOS 18.1 With Apple Intelligence</title>
-		<link>https://www.macrumors.com/2024/10/28/apple-releases-ios-18-1/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-ios-18-1-and-ipados-18-1-with-apple-intelligence.2441132/</comments>
-		<pubDate>Mon, 28 Oct 2024 08:07:50 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/apple-releases-ios-18-1/</guid>
-		<dc:creator>Juli Clover</dc:creator>
+		<title>Amazon Introduces Record Low Prices Across M2 iPad Air Lineup, Available From &#36;498</title>
+		<link>https://www.macrumors.com/2024/10/29/amazon-record-low-m2-ipad-air/</link>
+		<comments>https://forums.macrumors.com/threads/amazon-introduces-record-low-prices-across-m2-ipad-air-lineup-available-from-498.2441271/</comments>
+		<pubDate>Tue, 29 Oct 2024 07:46:18 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/amazon-record-low-m2-ipad-air/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
 		<category>Featured</category>
 		
 
-		<description><![CDATA[Apple today released iOS 18.1 and iPadOS 18.1, the first major updates to the <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a> and <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a> updates that <a href="https://www.macrumors.com/2024/09/16/apple-releases-ios-18/">came out in September</a>. iOS 18.1 and iPadOS 18.1 come six weeks after the release of &zwnj;iOS 18&zwnj; and &zwnj;iPadOS 18&zwnj;.<br/>
+		<description><![CDATA[Amazon today has a big selection of discounts on <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7W33Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Apple's M2 iPad Air</a>, with savings of about &#36;100 across nearly every model. Only Amazon is offering these deals right now, and you'll find early November delivery dates for most of the tablets.<br/>
 <br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/f1-_OAJ4TG8?si=2T8Yzj4f1Zq7nrk3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-The new software can be downloaded on eligible iPhones and iPads over-the-air by going to Settings &gt; General &gt; Software Update.<br/>
+<img src="https://images.macrumors.com/article-new/2024/06/m2-ipad-air-fathers-day.jpg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-954134" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
 <br/>
-<a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> is the main draw in iOS 18.1 and iPadOS 18.1, and some of the first &zwnj;Apple Intelligence&zwnj; features are available on the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> Pro, &zwnj;iPhone 15&zwnj; Pro Max, any <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> model, or any <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> with an M-series or A17 Pro chip. Note that &zwnj;Apple Intelligence&zwnj; is launching in a beta capacity, and there will be a short waitlist initially. To opt in to &zwnj;Apple Intelligence&zwnj;, you'll need to open up the Settings app, go to &zwnj;Apple Intelligence&zwnj; and <a href="https://www.macrumors.com/guide/siri/">Siri</a>, and toggle it on.<br/>
+Below we've collected every Wi-Fi model of the 11-inch and 13-inch iPad Air models on sale. In most cases, you'll find all four colors on sale for every model. There are some cellular devices being marked down as well on Amazon this week, with the same &#36;100 discounts.<br/>
 <br/>
-There are multiple &zwnj;Apple Intelligence&zwnj; features available:<br/>
-<ul><br/>
- 	<li><strong>Writing Tools</strong> - You can use Writing Tools for proofreading text, rewriting what you've written, and getting summaries.</li><br/>
- 	<li><strong>Siri</strong> - &zwnj;Siri&zwnj; has a new look, a Type to &zwnj;Siri&zwnj; feature, and Apple product knowledge for answering support-related questions. &zwnj;Siri&zwnj; can also maintain better context between requests and keep up if you stumble over your words.</li><br/>
- 	<li><strong>Summaries and Smart Replies</strong> - In Mail and Messages, there are summarize and Smart Reply features, and for all apps, you'll get notification summaries. In Safari, you can get summaries of webpages, and you can also get summaries of transcripts in the Notes app, including from phone calls.</li><br/>
- 	<li><strong>Photos</strong> - <a href="https://www.macrumors.com/guide/photos/">Photos</a> has "Clean Up" for removing unwanted objects, and Memory Movie for creating slideshows from your images with just a phrase.</li><br/>
- 	<li><strong>Focus</strong> - There's a Reduce Interruptions Focus Mode that only shows you important notifications that need your attention.</li><br/>
-</ul><br/>
-For more on all of the &zwnj;Apple Intelligence&zwnj; features available today, <a href="https://www.macrumors.com/guide/ios-18-1-apple-intelligence/">we have a dedicated guide</a>.<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7W33Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;101 OFF</div>11-inch iPad Air (128GB Wi-Fi) for &#36;498.00</div></a></div><h2>11-inch iPad Air</h2><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7W33Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">128GB Wi-Fi</a> - &#36;498.00 (&#36;101 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J5D33G%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">256GB  Wi-Fi</a> - &#36;599.00 (&#36;100 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6MNSG%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">512GB Wi-Fi</a> - &#36;797.00 (&#36;102 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J81CQB%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">1TB Wi-Fi</a> - &#36;998.00 (&#36;101 off)</li></ul><br/>
+<h2>13-inch iPad Air</h2><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7GPRX%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">128GB Wi-Fi</a> - &#36;698.00 (&#36;101 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J8W54H%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">256GB Wi-Fi</a> - &#36;797.00 (&#36;102 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J8BD6L%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">512GB Wi-Fi</a> - &#36;999.00 (&#36;100 off)</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J75PYR%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">1TB Wi-Fi</a> - &#36;1,197.00 (&#36;102 off)</li></ul> Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<br/>
 <br/>
-There are also other new additions in iOS 18.1 and iPadOS 18.1, which will be of particular interest to those who do not have an &zwnj;Apple Intelligence&zwnj; device.<br/>
+<h3>Deals Newsletter</h3><br/>
+Interested in hearing more about top deals as we head into the holidays? <a href="http://eepurl.com/itTnTk">Sign up</a> for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!<br/>
 <br/>
-Apple has refined Control Center so you can now split out more connectivity controls, access the Measure app, and more, plus you can record phone calls. To record a call, just tap the button in the left hand corner while the call is in progress. Everyone will be notified, and it'll be added to the Notes app, where you'll get a transcript of what was said.<br/>
-<br/>
-NFC access is being opened up to third-party apps, allowing for all kinds of new capabilities, including contactless payments that aren't <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a>. Apple's full release notes for iOS 18.1 are available below.<br/>
-<br/>
-<blockquote><b>Apple Intelligence (All iPhone 16 models, iPhone 15 Pro, iPhone 15 Pro Max)</b><br/>
-<br/>
-<b>Writing Tools</b><br/>
-- Writing Tools are available nearly everywhere you type, allowing you to rewrite, proofread, and summarize text right in the app you’re working in<br/>
-- Rewrite suggests different versions of your text so you can choose which combination of flow and wording you like best<br/>
-- Proofread lets you view suggested improvements to what you’re writing, like grammar fixes and language refinements<br/>
-- Summarize allows you to select text wherever you’re writing and generate a high-quality summary<br/>
-<br/>
-<b>Siri</b><br/>
-- A new look and feel includes a glowing light that wraps around the edge of your screen, animates responsively to the sound of your voice, and lets you keep scrolling or typing while you talk to Siri<br/>
-- Type to Siri when you don’t want to speak a request out loud by double tapping at the bottom of the screen<br/>
-- Richer language understanding enables Siri to follow along if you stumble over your words or change your mind mid-sentence<br/>
-- Conversational context is maintained over the course of a session, so you can refer more naturally to something you said in a recent request or something Siri mentioned in a recent response<br/>
-- Product knowledge helps you get answers to thousands of questions about the features and settings on your Apple products<br/>
-- Voice enhancements make Siri sound more natural, expressive, and clear<br/>
-<br/>
-<b>Photos</b><br/>
-- Photos search lets you find photos and videos simply by describing what you’re looking for<br/>
-- Clean Up removes distractions in your photos<br/>
-- Memory movies can be created by describing the story you want to see<br/>
-<br/>
-<b>Notifications</b><br/>
-- Notification summaries make it easy to catch up on your notifications with a glanceable summary of the most important information<br/>
-- Reduce Interruptions is a new Focus that ensures the most urgent notifications get through to you while silencing potential distractions<br/>
-<br/>
-- Smart Reply in Mail and Messages help you quickly respond to messages with suggested responses<br/>
-- Priority messages in Mail understands the content of your messages and prioritizes those that require your attention, displaying them at the top of your inbox<br/>
-- Transcription summaries in Notes give you an intelligently created summary of the transcript from your audio recording or call recording<br/>
-<br/>
-<b>Phone</b><br/>
-- Call recordings and transcriptions let you record live calls and transcribe them in the Notes app, with an automatic announcement that the call is being recorded<br/>
-<br/>
-<strong>Camera</strong><br/>
-- Camera Control can quickly switch to the front TrueDepth Camera (iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max)<br/>
-- Spatial photo capture, along with spatial video capture, is available in a new Spatial camera mode (iPhone 15 Pro, iPhone 15 Pro Max)<br/>
-<br/>
-<strong>AirPods</strong><br/>
-- Hearing Test feature provides scientifically-validated hearing test results from the comfort of home (intended for users 18 years or older)<br/>
-- Hearing Aid feature provides personalized, clinical-grade assistance that is automatically applied to sounds in your environment as well as music, videos, and calls (intended for users 18 years or older with perceived mild to moderate hearing loss)<br/>
-- Hearing Protection feature helps users minimize exposure to loud environmental noise across listening modes (available in the United States and Canada)<br/>
-- Features require AirPods Pro 2 with firmware version 7B19 or later. All features may not be available for all countries or regions, for more information visit: https://apple.com/airpods-pro/feature-availability/<br/>
-<br/>
-<b>This update also includes the following improvements and bug fixes:</b><br/>
-- Control Center has new options to add connectivity controls individually and reset your configuration<br/>
-- RCS Business Messaging lets you connect with businesses over RCS (requires carrier support)<br/>
-- App Store search lets you use natural language to find what you’re looking for more easily<br/>
-- Game Center friend invites can be sent directly from the Contacts app and Friend Suggestions, and receivers can see the invites in the inbox in Settings<br/>
-- Fixes an issue in Podcasts where unplayed episodes are marked as played<br/>
-- Fixes an issue where videos recorded at 4K 60 while the device is warm could experience stutter while scrubbing the video playback in Photos<br/>
-- Fixes an issue where digital car keys may not unlock or start a vehicle with passive entry after restoring from a backup or transferring directly from another iPhone<br/>
-- Fixes an issue where iPhone 16 or iPhone 16 Pro models may unexpectedly restart<br/>
-<br/>
-Some features may not be available for all regions or on all Apple devices. For information on the security content of Apple software updates, please visit this website: https://support.apple.com/100100</blockquote><br/>
-<br/>
-Note that some &zwnj;Apple Intelligence&zwnj; features like Genmoji, <a href="https://www.macrumors.com/guide/image-playground/">Image Playground</a>, and the much smarter &zwnj;Siri&zwnj; <a href="https://www.macrumors.com/guide/apple-intelligence-features-coming-later/">won't be coming until later</a>.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/apple-releases-ios-18-1/">Apple Releases iOS 18.1 and iPadOS 18.1 With Apple Intelligence</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-ios-18-1-and-ipados-18-1-with-apple-intelligence.2441132/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<div style="text-align:center;margin-bottom:2em;"><br/>
+<form action="http://macrumors.us5.list-manage.com/subscribe/post?u=7d0106b433773bd0aef5828e0&amp;id=eebad02bf4&amp;f_id=00fbede0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><input type="email" value="" name="EMAIL" size="30" class="required email" id="mce-EMAIL" placeholder="Enter Email Address"/><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div><div style="position: absolute; left: -5000px;"><input type="text" name="b_7d0106b433773bd0aef5828e0_eebad02bf4" tabindex="-1" value=""/></div> <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"/></form></div><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/amazon-record-low-m2-ipad-air/">Amazon Introduces Record Low Prices Across M2 iPad Air Lineup, Available From &#36;498</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-introduces-record-low-prices-across-m2-ipad-air-lineup-available-from-498.2441271/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Apple Releases macOS Sequoia 15.1 With Apple Intelligence</title>
-		<link>https://www.macrumors.com/2024/10/28/apple-releases-macos-sequoia-15-1/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-macos-sequoia-15-1-with-apple-intelligence.2441133/</comments>
-		<pubDate>Mon, 28 Oct 2024 08:06:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/10/28/apple-releases-macos-sequoia-15-1/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sequoia</category>
+		<title>iPhone 17 Being Developed in India: What to Expect From Base Model</title>
+		<link>https://www.macrumors.com/2024/10/29/iphone-17-base-model-development-india-report/</link>
+		<comments>https://forums.macrumors.com/threads/iphone-17-being-developed-in-india-what-to-expect-from-base-model.2441266/</comments>
+		<pubDate>Tue, 29 Oct 2024 07:00:05 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/iphone-17-base-model-development-india-report/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>iPhone 17</category>
+		<category>The Information</category>
 		
 
-		<description><![CDATA[Apple today released <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.1, the first update to the &zwnj;macOS Sequoia&zwnj; operating system that was released in September. &zwnj;macOS Sequoia&zwnj; comes six weeks after the launch of &zwnj;macOS Sequoia&zwnj; 15.<br/>
+		<description><![CDATA[Apple's manufacturing partner Foxconn is conducting early development of the base iPhone 17 at a factory in Bengaluru, India, according to <a href="https://www.theinformation.com/articles/apple-taps-india-to-learn-how-to-build-new-iphone"><em>The Information</em>'s Wayne Ma</a>. This is considered to be a "milestone" for Apple's manufacturing efforts in India.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2024/08/macOS-Sequoia-Night-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-961501" /><br/>
-Mac users can download the ‌&zwnj;macOS Sequoia&zwnj;‌ update through the Software Update section of System Settings.<br/>
+<img src="https://images.macrumors.com/article-new/2024/09/iphone-16-teal.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-964610" /><br/>
+The paywalled report said this iPhone 17 model has already passed an early development stage, as Apple evaluates whether India-based engineers can develop iPhone prototypes that match the quality of those built at its California headquarters. Apple's goal is to start developing new iPhones as early as possible in locations closer to where final assembly takes place, which could result in lower operating costs for the company.<br/>
 <br/>
-&zwnj;macOS Sequoia&zwnj; 15.1 introduces the first <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> features for Macs that are equipped with an M-series chip. Not all &zwnj;Apple Intelligence&zwnj; features are available, but the update includes support for Writing Tools, a new <a href="https://www.macrumors.com/guide/siri/">Siri</a> design, AI-powered Focus modes, smart replies, and summaries.<br/>
+The report does not reveal any new features or changes planned for the iPhone 17, but Apple supply chain analyst Jeff Pu outlined some features that he expects for the base model in a research note earlier this month:<br/>
 <br/>
-Writing Tools can be used across the operating system wherever text can be selected and edited, and the feature supports spell checking, correcting grammar, rewriting your work with a new tone, and summarizing text.<br/>
+<ul><li>6.1-inch display</li><br/>
+<li>A19 chip</li><br/>
+<li>8GB of RAM</li><br/>
+<li>An upgraded 24-megapixel front camera</li><br/>
+<li>Two rear cameras, including a 48-megapixel Fusion and 12-megapixel Ultra Wide</li><br/>
+<li>Aluminum casing</li></ul>Based on these specs, the base iPhone 17 will not be a major upgrade over the iPhone 16.<br/>
 <br/>
-‌&zwnj;Siri&zwnj;‌ has been updated with a new design that includes a subtle glow around the display, and Type to ‌&zwnj;Siri&zwnj;‌ means you don't have to speak to ‌&zwnj;Siri&zwnj;‌ to get answers. ‌&zwnj;Siri&zwnj;‌‌ can follow along if you stumble over your words, and can maintain context between requests. Safari can summarize articles, and there's a new Reduce Interruptions Focus Mode that intelligently highlights only important notifications.<br/>
+The primary development locations for the rumored ultra-thin iPhone 17, the iPhone 17 Pro, and the iPhone 17 Pro Max will still be in China, according to the report. Pu believes the ultra-thin iPhone 17 will feature a <a href="https://www.macrumors.com/2024/10/18/iphone-17-air-rumored-features/">single 48-megapixel rear camera, 8GB of RAM, and more</a>, while the iPhone 17 Pro models are rumored to feature a <a href="https://www.macrumors.com/2024/10/18/iphone-17-pro-rumored-features/">48-megapixel Telephoto camera, 12GB of RAM, and more</a>. The devices should launch next September.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-17/">iPhone 17</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/theinformation-com/">The Information</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/iphone-17-base-model-development-india-report/">iPhone 17 Being Developed in India: What to Expect From Base Model</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-17-being-developed-in-india-what-to-expect-from-base-model.2441266/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Fantastical Calendar App Expands to Windows</title>
+		<link>https://www.macrumors.com/2024/10/29/fantastical-windows/</link>
+		<comments>https://forums.macrumors.com/threads/fantastical-calendar-app-expands-to-windows.2441265/</comments>
+		<pubDate>Tue, 29 Oct 2024 07:00:00 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/10/29/fantastical-windows/</guid>
+		<dc:creator>Eric Slivka</dc:creator>
+		<category>Fantastical</category>
+		<category>Flexibits</category>
+		
+
+		<description><![CDATA[Popular calendar app <a href="https://www.dpbolvw.net/click-462641-15735818?url=https%3A%2F%2Fflexibits.com%2Ffantastical">Fantastical</a> is expanding beyond the Apple ecosystem for the first time, bringing the full Fantastical experience to Windows. Support for Windows has been a top-requested feature for quite some time, primarily from Apple users who have the need to use Windows for work, software availability, or other reasons, so Flexibits has spent the past three years building Fantastical for Windows from the ground up for a fully native experience.<br/>
 <br/>
-Smart replies are available in Messages and Mail, plus the Mail app surfaces priority time sensitive messages and puts them at the top of your inbox. <a href="https://www.macrumors.com/guide/photos/">Photos</a> has a Memory Movie feature for creating slideshows based on text descriptions, and there is a Clean Up tool for unwanted objects in your photos. Apple's full release notes for the update are below.<br/>
-<blockquote>This update introduces the first set of features powered by Apple Intelligence, the personal intelligence system that unlocks powerful new ways to communicate, work, and express yourself, all while protecting your data with an extraordinary step forward for privacy in AI. This release also includes drag and drop support for iPhone Mirroring and other features, bug fixes, and security updates for your Mac.<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/fantastical-windows.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-973441" /><br/>
+While Apple's Calendar app has improved significantly in recent years, multi-award-winning Fantastical has remained popular as a third-party option due to its support for natural language parsing, the ability to manage tasks and reminders from Google Tasks, Microsoft 365, and Todoist, scheduling features like Openings that let you open up calendar time slots for others to book and Proposals that let organizers poll potential attendees to determine the best time for an event, glanceable weather information tied to event location, and more.<br/>
 <br/>
-<strong>Apple Intelligence (Mac with M1 and later)</strong><br/>
+<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/AqCMu8skGEw?si=Ag2VfIBSAkUZiix-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
+Fantastical for Windows arrives as part of Fantastical 4.0, which is available for free with limited features across Windows, Mac, <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a>. A <a href="https://www.anrdoezrs.net/click-462641-15735818?url=https%3A%2F%2Fflexibits.com%2Fpricing">Flexibits Premium subscription</a> priced at &#36;6.99 per month or &#36;56.99 per year (a 14-day free trial is available) is required to unlock all features, and the new Windows app is covered under that same subscription with no increase in pricing. Flexibits Premium for Families offers up to five family members full access to Fantastical across all platforms for &#36;10.49 per month or &#36;89.99 per year.<br/>
 <br/>
-<strong>Writing Tools</strong><br/>
-- Writing Tools are available nearly everywhere you type, allowing you to rewrite, proofread, and summarize text right in the app you're working in<br/>
-- Rewrite suggests different versions of your text so you can choose which combination of flow and wording you like best<br/>
-- Proofread lets you view suggested improvements to what you're writing, like grammar fixes and language refinements<br/>
-- Summarize allows you to select text wherever you're writing and generate a high-quality summary<br/>
+Also included in a Flexibits Premium subscription is full feature unlock for <a href="https://www.dpbolvw.net/click-462641-15735818?url=https%3A%2F%2Fflexibits.com%2Fcardhop">Cardhop</a>, a Contacts app alternative that works across Apple's platforms with natural language parsing, widgets, Shortcuts support, simple contact card sharing, business card scanning, and more.<br/>
 <br/>
-<strong>Siri</strong><br/>
-- A new look and feel includes a glowing light that wraps around the edge of your screen, animates responsively to the sound of your voice, and lets you keep scrolling or typing while you talk to Siri<br/>
-- Type to Siri when you don't want to speak a request out loud<br/>
-- Richer language understanding enables Siri to follow along if you stumble over your words or change your mind mid-sentence<br/>
-- Conversational context is maintained over the course of a session, so you can refer more naturally to something you said in a recent request or something Siri mentioned in a recent response<br/>
-- Product knowledge helps you get answers to thousands of questions about the features and settings on your Apple products<br/>
-- Voice enhancements make Siri sound more natural, expressive, and clear<br/>
-<br/>
-<strong>Photos</strong><br/>
-- Memory movies can be created by describing the story you want to see<br/>
-- Photos search lets you find photos and videos simply by describing what you're looking for<br/>
-- Clean Up removes distractions in your photos<br/>
-<br/>
-<strong>Notifications</strong><br/>
-- Notification summaries make it easy to catch up on your notifications with a glanceable summary of the most important information<br/>
-- Reduce Interruptions is a new Focus that ensures the most urgent notifications get through to you while silencing potential distractions<br/>
-<br/>
-<strong>Additional Features</strong><br/>
-- Smart Reply in Mail and Messages help you quickly respond to messages with suggested responses<br/>
-- Transcription summaries in Notes give you an intelligently created summary of the transcript from your audio recording<br/>
-<br/>
-<strong>iPhone Mirroring</strong><br/>
-- Drag and drop support lets you seamlessly move files, photos, videos, and more between your Mac and iPhone<br/>
-<br/>
-<strong>AirPods</strong><br/>
-- Hearing Protection feature helps users minimize exposure to loud environmental noise across listening modes (available in the United States and Canada)<br/>
-- Features require AirPods Pro 2 with firmware version 7B19 or later. All features may not be available for all countries or regions, for more information visit: https://apple.com/airpods-pro/feature-availability/<br/>
-<br/>
-<strong>This update also includes the following improvements and bug fixes:</strong><br/>
-- Option to automatically download and install games and apps to an external disk drive<br/>
-- Game Center friend invites can be sent directly from the Contacts app and Friend Suggestions and receivers can see the invites in the inbox in Settings</blockquote>More information on all of the new &zwnj;Apple Intelligence&zwnj; features in &zwnj;macOS Sequoia&zwnj; 15.1 can be <a href="https://www.macrumors.com/guide/ios-18-1-apple-intelligence/">found in our Apple Intelligence guide</a>.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/28/apple-releases-macos-sequoia-15-1/">Apple Releases macOS Sequoia 15.1 With Apple Intelligence</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-macos-sequoia-15-1-with-apple-intelligence.2441133/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<em><small>Note: MacRumors is an affiliate partner with Flexibits. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/fantastical/">Fantastical</a>, <a href="https://www.macrumors.com/guide/flexibits/">Flexibits</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/10/29/fantastical-windows/">Fantastical Calendar App Expands to Windows</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/fantastical-calendar-app-expands-to-windows.2441265/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
