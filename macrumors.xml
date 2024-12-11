@@ -14,12 +14,481 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 11 Dec 2024 02:03:31 PST</lastBuildDate>
+	<lastBuildDate>Wed, 11 Dec 2024 08:04:20 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>&#039;M4 Extreme&#039; Chip Unlikely After Apple &#039;Cancels&#039; High-Performance Chip</title>
+		<link>https://www.macrumors.com/2024/12/11/m4-extreme-chip-unlikely/</link>
+		<comments>https://forums.macrumors.com/threads/m4-extreme-chip-unlikely-after-apple-cancels-high-performance-chip.2445107/</comments>
+		<pubDate>Wed, 11 Dec 2024 07:52:23 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/12/11/m4-extreme-chip-unlikely/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Mac Pro</category>
+		<category>The Information</category>
+		
+
+		<description><![CDATA[Apple this "past summer" canceled the development of a high-performance Mac chip that would have consisted of four smaller chips stitched together, in order to free up engineering resources for a <a href="https://www.macrumors.com/2024/12/11/apple-intelligence-servers-new-chip-report/">planned AI server chip</a>, according <a href="https://www.theinformation.com/articles/apple-is-working-on-ai-chip-with-broadcom">to <em>The Information</em></a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/12/M4-Extreme-Cancelled.jpg" alt="" width="2313" height="1301" class="aligncenter size-full wp-image-981659" /><br/>
+Based on the report's description of the chip, it sounds like Apple has canceled a previously-rumored "Extreme" chip for the Mac. It was previously reported that an <a href="https://www.macrumors.com/2022/12/18/mac-pro-m2-extreme-chip-likely-scrapped/">"M2 Extreme" chip was scrapped</a> a few years ago, but perhaps Apple had revisited the idea since then. In any case, it now sounds like an "M4 Extreme" chip is also unlikely.<br/>
+<br/>
+Apple likely would have introduced the "M4 Extreme" in its high-end Mac Pro tower. The chip would have offered even faster performance than the M4 Ultra chip that is expected to launch in <a href="https://www.macrumors.com/2024/10/07/m4-mac-studio-m4-mac-pro-2025/">new Mac Studio and Mac Pro models</a> later next year.<br/>
+<br/>
+If the "M4 Extreme" were to have been a quadrupled version of the M4 Max chip that debuted in the MacBook Pro a few months ago, it would have had massive specifications, including up to a 64-core CPU and up to a 160-core GPU.<br/>
+<br/>
+While the "Extreme" chip may be off the table once again, it seems like Apple has repeatedly shown interest in developing such a chip, so perhaps it will eventually materialize as part of the M5 series or later. For now, though, the wait continues.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/theinformation-com/">The Information</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Pro">Mac Pro (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-pro.1">Mac Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/11/m4-extreme-chip-unlikely/">&#039;M4 Extreme&#039; Chip Unlikely After Apple &#039;Cancels&#039; High-Performance Chip</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/m4-extreme-chip-unlikely-after-apple-cancels-high-performance-chip.2445107/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Cloud-Based M4 and M4 Pro Mac Mini Models Now Available</title>
+		<link>https://www.macrumors.com/2024/12/11/cloud-m4-mac-mini-models-now-available/</link>
+		<comments>https://forums.macrumors.com/threads/cloud-based-m4-and-m4-pro-mac-mini-models-now-available.2445105/</comments>
+		<pubDate>Wed, 11 Dec 2024 07:34:05 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/12/11/cloud-m4-mac-mini-models-now-available/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Mac mini</category>
+		<category>M4</category>
+		<category>M4 Mac mini</category>
+		
+
+		<description><![CDATA[Developers now have access to cloud-based M4 and M4 Pro <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a> units via <a href="https://www.macweb.com/macmini">MacWeb</a>, a Silicon Valley-based provider of cloud services.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/11/m4-mac-mini-hands-on.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-976377" /><br/>
+The company has launched <a href="https://www.macweb.com/macmini">three configurations</a> of the new &zwnj;Mac mini&zwnj;, powered by Apple's M4 and M4 Pro chips. Developers and IT teams can rent these machines for tasks ranging from basic development to advanced artificial intelligence modeling, providing an efficient and scalable infrastructure option without the need to purchase expensive hardware outright. A new &zwnj;Mac mini&zwnj; can range from &#36;599 for a base M4 model to &#36;1,999 for a high-end M4 Pro model with 64GB of unified memory. <br/>
+<br/>
+The three configurations include the MacWeb Base M4 at &#36;99 per month, the MacWeb Power M4 Pro at &#36;199 per month, and the MacWeb Ultimate M4 Pro at &#36;299 per month. The Base M4, featuring the standard M4 chip, is designed for virtual desktops and small-scale tasks. The Power M4 Pro includes a 12-core CPU and 24GB of unified memory, making it suitable for application development and testing. The Ultimate M4 Pro, MacWeb's most advanced tier, offers a 14-core CPU, a 20-core GPU, and 64GB of unified memory, capable of handling intensive workloads such as AI model training and mission-critical applications.<br/>
+<br/>
+MacWeb touts the potential of its M4 Pro configurations to support advanced networking capabilities using Thunderbolt 5. According to the company, Thunderbolt 5 delivers 80 Gbps of bi-directional bandwidth, a performance leap described as being up to 800 percent faster than 10G Ethernet. This apparently enables seamless clustering of Mac minis, allowing users to pool resources for distributed computing tasks, including video editing and large-scale software testing. <br/>
+<br/>
+Companies like AWS has offered similar services in recent years, but MacWeb's integration of Apple's latest Mac hardware positions it at the forefront of the market, <a href="https://www.macstadium.com/bare-metal-mac">along with MacStadium</a>. MacWeb has retained its M2-based offerings for developers with less demanding performance requirements. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/mac-mini/">Mac mini</a></div><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/m4/">M4</a>, <a href="https://www.macrumors.com/guide/m4-mac-mini/">M4 Mac mini</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Mac_Mini">Mac Mini (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-mini.146">Mac mini</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/11/cloud-m4-mac-mini-models-now-available/">Cloud-Based M4 and M4 Pro Mac Mini Models Now Available</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/cloud-based-m4-and-m4-pro-mac-mini-models-now-available.2445105/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Watch Series 10 Available for Black Friday Prices and Christmas Delivery on Amazon</title>
+		<link>https://www.macrumors.com/2024/12/11/apple-watch-series-10-christmas-delivery/</link>
+		<comments>https://forums.macrumors.com/threads/apple-watch-series-10-available-for-black-friday-prices-and-christmas-delivery-on-amazon.2445104/</comments>
+		<pubDate>Wed, 11 Dec 2024 07:24:03 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/12/11/apple-watch-series-10-christmas-delivery/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[As we get further into December, it's becoming increasingly hard to find all-time low discounts on Apple products that also have guaranteed Christmas delivery. One of the few devices that still falls under both of these conditions is the Apple Watch Series 10, which remains at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ5KQL7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">best-ever Black Friday prices on Amazon</a> for multiple 42mm and 46mm GPS models.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/11/apple-watch-10-candy-cane.jpeg" alt="" width="1607" height="905" class="aligncenter size-full wp-image-979968" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+You'll find &#36;69 off both 42mm and 46mm GPS Series 10 models in multiple case colors and band styles, all requiring an on-page coupon in order to see the discount at checkout. Every price listed below is a match of the record low prices we saw for Black Friday. If you've been eyeing an Apple Watch Series 10 as a present, now will be the time to purchase one at these record low prices.<br/>
+<br/>
+<div class="center-wrap"><em><strong>Note: You won't see the deal price until checkout.</strong></em></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ5KQL7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;69 OFF</div>Apple Watch Series 10 (42mm GPS) for &#36;329.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHQ2QH6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;69 OFF</div>Apple Watch Series 10 (46mm GPS) for &#36;359.99</div></a></div><br/>
+<br/>
+If you're also shopping for a few new Apple Watch bands, Woot is hosting a big sale this week on <a href="https://www.macrumors.com/2024/12/08/woot-expands-watch-band-sale/">Solo Loop and Braided Solo Loop bands</a>. You'll find Solo Loop bands at <a href="https://www.anrdoezrs.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-watch-solo-loop-black-white-hues%3Fref%3Dw_cnt_lnd_cat_elec_2_5"><strong>&#36;19.99</strong></a> (&#36;29 off) and Braided Solo Loop bands at <a href="https://www.dpbolvw.net/click-462641-13142092?url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fapple-watch-braided-solo-loop-black-white-hues%3Fref%3Dw_cnt_lnd_cat_elec_2_1"><strong>&#36;29.99</strong></a> (&#36;69 off) during this event, making them both the lowest we've ever tracked for each style in brand new condition.<br/>
+<br/>
+<h2>42mm GPS Apple Watch Series 10</h2><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ5KQL7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Jet Black Aluminum Case with Black Sport Band (S/M)</a> - &#36;329.99 with on-page coupon, down from &#36;399.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHYQ1VJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Rose Gold Aluminum Case with Light Blush Sport Band (S/M)</a> - &#36;329.99 with on-page coupon, down from &#36;399.00</li></ul><br/>
+<h2>46mm GPS Apple Watch Series 10</h2><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHQ2QH6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Jet Black Aluminum Case with Black Sport Band (M/L)</a> - &#36;359.99 with on-page coupon, down from &#36;429.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ4QLYH%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Jet Black Aluminum Case with Black Sport Band (S/M)</a> - &#36;359.99 with on-page coupon, down from &#36;429.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHNXP5Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Jet Black Aluminum Case with Ink Sport Loop</a> - &#36;359.99 with on-page coupon, down from &#36;429.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ3WKR6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Rose Gold Aluminum Case with Light Blush Sport Band (M/L)</a> - &#36;359.99 with on-page coupon, down from &#36;429.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHV2B2Z%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Rose Gold Aluminum Case with Plum Sport Loop</a> - &#36;359.99 with on-page coupon, down from &#36;429.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHVB7QS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Silver Aluminum Case with Blue Cloud Sport Loop</a> - &#36;359.99 with on-page coupon, down from &#36;429.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ1F2BG%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Silver Aluminum Case with Denim Sport Band (S/M)</a> - &#36;359.99 with on-page coupon, down from &#36;429.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ745J6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Silver Aluminum Case with Denim Sport Band (M/L)</a> - &#36;359.99 with on-page coupon, down from &#36;429.00</li></ul> Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<br/>
+<hr /><br/>
+<div class="no-raptive"><br/>
+<h3>Deals Newsletter</h3><br/>
+Interested in hearing more about the best deals you can find during the holiday season? <a href="http://eepurl.com/itTnTk">Sign up</a> for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!<br/>
+<br/>
+<div style="text-align:center;margin-bottom:2em;"><br/>
+<br/>
+<form action="http://macrumors.us5.list-manage.com/subscribe/post?u=7d0106b433773bd0aef5828e0&amp;id=eebad02bf4&amp;f_id=00fbede0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><input type="email" value="" name="EMAIL" size="30" class="required email" id="mce-EMAIL"  placeholder="Enter Email Address"/><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div><div style="position: absolute; left: -5000px;"><input type="text" name="b_7d0106b433773bd0aef5828e0_eebad02bf4" tabindex="-1" value=""/></div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div><br/>
+</div><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/11/apple-watch-series-10-christmas-delivery/">Apple Watch Series 10 Available for Black Friday Prices and Christmas Delivery on Amazon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-watch-series-10-available-for-black-friday-prices-and-christmas-delivery-on-amazon.2445104/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Intelligence Servers Expected to Get All-New, Turbocharged Chip</title>
+		<link>https://www.macrumors.com/2024/12/11/apple-intelligence-servers-new-chip-report/</link>
+		<comments>https://forums.macrumors.com/threads/apple-intelligence-servers-expected-to-get-all-new-turbocharged-chip.2445103/</comments>
+		<pubDate>Wed, 11 Dec 2024 07:10:09 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/12/11/apple-intelligence-servers-new-chip-report/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple Intelligence</category>
+		<category>The Information</category>
+		
+
+		<description><![CDATA[Apple Intelligence servers are currently powered <a href="https://www.macrumors.com/2024/05/06/apple-building-m2-ultra-and-m4-servers/">by the M2 Ultra chip</a>, and they are expected to <a href="https://www.macrumors.com/2024/11/06/apple-intelligence-servers-with-m4-chips-report/">start using M4 series chips</a> next year. In an eventual move away from Mac chips for server use, <a href="https://www.theinformation.com/articles/apple-is-working-on-ai-chip-with-broadcom"><em>The Information</em> today reported</a> that Apple is developing a new server chip that will offer even faster performance for AI features.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/09/Apple-Intelligence-iPhone-16.jpg" alt="" width="1600" height="898" class="aligncenter size-full wp-image-964551" /><br/>
+The report said the new chip contains "many duplicates" of Apple's Neural Engine, so it sounds like it will offer turbocharged performance for AI processing.<br/>
+<br/>
+At least a trio of companies are believed to be involved with the chip. Apple is said to be handling the overall design of the chip, while Broadcom is said to be providing some networking technology for it. TSMC is expected to begin mass production of the chip in 2026, using its third-generation 3nm process, known as N3P. That is the same process expected to be used <a href="https://www.macrumors.com/2024/11/18/a19-and-a19-pro-n3p-rumor/">for the A19 chips in the iPhone 17 models next year</a>.<br/>
+<br/>
+The chip will likely power some Apple Intelligence features that rely on server-based generation, such as Image Playground, according to the report:<blockquote>Apple will likely use the new AI chip it is developing for inference, where the chip processes new data—such as a user describing a possible image—and applies them to the models to generate an output, like producing the image itself.</blockquote>More on Broadcom's involvement, from the report:<blockquote>Like Google, Apple is relying on Broadcom for technology to network or link the chips together so they can work in unison to compute data more quickly. That technology has been one of the key drivers of AI development, making it possible to compute the massive amounts of data required to train and run LLMs. Networking technology is one of Broadcom's key strengths.</blockquote>The <a href="https://www.theinformation.com/articles/apple-is-working-on-ai-chip-with-broadcom">paywalled report</a> offers many more details about the chip.<br/>
+<br/>
+Apple has announced that <a href="https://www.macrumors.com/2024/12/11/ios-18-2-lanching-today/">iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2 will be released today</a> with additional Apple Intelligence features, including Genmoji, Image Playground, Image Wand, and ChatGPT integration for Siri. There is also a new Visual Intelligence feature on all iPhone 16 models that allows you to quickly identify things in the real world using the Camera Control button on those devices. As part of Apple Intelligence, Siri will gain features like on-screen awareness and deeper per-app controls, likely starting with iOS 18.4. And with iOS 19.4 in 2026, Siri is expected to become more conversational like ChatGPT.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a>, <a href="https://www.macrumors.com/guide/theinformation-com/">The Information</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/11/apple-intelligence-servers-new-chip-report/">Apple Intelligence Servers Expected to Get All-New, Turbocharged Chip</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-intelligence-servers-expected-to-get-all-new-turbocharged-chip.2445103/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Beats Launches iPhone 16 Cases in New Sunrise Pink and Twilight Blue Colors</title>
+		<link>https://www.macrumors.com/2024/12/11/beats-iphone-16-cases-pink-blue/</link>
+		<comments>https://forums.macrumors.com/threads/beats-launches-iphone-16-cases-in-new-sunrise-pink-and-twilight-blue-colors.2445101/</comments>
+		<pubDate>Wed, 11 Dec 2024 07:00:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/12/11/beats-iphone-16-cases-pink-blue/</guid>
+		<dc:creator>Eric Slivka</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[Back in September as part of the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> launch, Apple's Beats brand surprisingly launched <a href="https://www.macrumors.com/2024/09/09/apple-beats-iphone-16-cases/">cases for new iPhone lineup</a>, available in four colors and featuring <a href="https://www.macrumors.com/guide/magsafe/">MagSafe</a> and Camera Control support.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/12/beats-iphone-16-cases-pink-blue.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-981318" /><br/>
+Beats today is expanding its case lineup with two additional colors, Sunrise Pink and Twilight Blue, with the new cases including the iconic Beats logo in the center of the rear rather than the &zwnj;MagSafe&zwnj; alignment guides seen on the original versions.<br/>
+<br/>
+The cases are made of a polycarbonate back with flexible sidewalls for shock absorption, and they feature a glossy scratch-resistant exterior coating and a soft microfiber interior. Camera Control support is enabled via a sapphire crystal button coupled to a conductive layer to transmit finger movements to the button on the phone.<br/>
+<br/>
+The two new colors of cases are available for all four models in the &zwnj;iPhone 16&zwnj; lineup, and are priced at &#36;49. They're available <a href="https://www.apple.com/shop/product/MDTK4LL/A/beats-iphone-16-pro-case-with-magsafe-special-edition-twilight-blue">through Apple's online store</a> starting today, and will be at <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a> retail locations starting tomorrow.<br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/11/beats-iphone-16-cases-pink-blue/">Beats Launches iPhone 16 Cases in New Sunrise Pink and Twilight Blue Colors</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/beats-launches-iphone-16-cases-in-new-sunrise-pink-and-twilight-blue-colors.2445101/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>How to Turn Off Mail Categories in iOS 18.2</title>
+		<link>https://www.macrumors.com/how-to/ios-disable-apple-mail-categories/</link>
+		<comments>https://forums.macrumors.com/threads/how-to-turn-off-mail-categories-in-ios-18-2.2445097/</comments>
+		<pubDate>Wed, 11 Dec 2024 06:20:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/ios-disable-apple-mail-categories&#038;post_date=1733937600/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>Apple Intelligence</category>
+		
+
+		<description><![CDATA[Apple today is releasing iOS 18.2, which introduces a major change to the Mail app with its new Categories feature. Categories automatically sorts your emails into four distinct sections: Primary, Transactions, Updates, and Promotions. However, while this organizational system aims to help manage email overload, not everyone is going to prefer the new layout.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/11/ios-18-mail-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-957054" /><br/>
+Mail Categories attempts to intelligently organize your incoming emails into different sections. Important emails are shown in a "Primary" category, with orders, newsletters, social notifications, and deals organized into three other sections.<br/>
+<br/>
+The "Transactions" section includes receipts, orders, and deliveries, and aims to make it easy to find orders that you've placed and shipping information for those orders. Meanwhile, the "Updates" section includes newsletters, alerts for things like doctor's appointments and correspondence, and other subscription emails. Lastly, Apple's "Promotions" category includes special offers and deal emails.<br/>
+<br/>
+Note that even if an email would normally fall into Transactions, Updates, or Promotions, it will also appear in your Primary inbox if it contains time-critical information. On devices that support Apple Intelligence, the system goes a step further by highlighting priority emails that require action or have deadlines.<br/>
+<br/>
+<h2>Mail Categories: Why You Might Want to Revert</h2><br/>
+The new Categories view, while helpful for some, might not suit your email management style for several reasons:<br/>
+<ul><br/>
+  <li>You prefer seeing all emails in chronological order.</li><br/>
+  <li>Some messages may be incorrectly categorized.</li><br/>
+  <li>You have your own organization system.</li><br/>
+  <li>You find the extra sections distracting.</li><br/>
+  <li>You want faster access to all emails without switching between categories.</li><br/>
+</ul>You can swipe left across the categories to switch to an All Mail view, but what if you want to remove the categories completely?<br/>
+<h2>iOS 18.2: How to Return to List View in Apple Mail</h2><br/>
+Categories is the default view after updating to the new software. Fortunately, Apple makes it simple to switch back to the traditional list view. Here's how it's done:<br/>
+<ol><br/>
+  <li>Open the Mail app on your iPhone or iPad.</li><br/>
+  <li>Tap the <strong>More</strong> button (three dots) in the upper right corner of your inbox.</li><br/>
+  <li>Select <strong>List View</strong> from the pop-up menu.</li><br/>
+</ol><img src="https://images.macrumors.com/article-new/2024/10/remove-apple-mail-categories.jpg" alt="mail" width="4170" height="2760" class="aligncenter size-full wp-image-981534" /><br/>
+<br/>
+Once you switch to List View, your inbox will return to showing all emails in chronological order, just as it did before iOS 18.2. The change takes effect immediately. While categorization is not perfect, it's likely something that Apple will improve over time. You can always switch back to Categories view using the same menu if you want to try it again later. <br/>
+<br/>
+Note: If you're using an iPhone that supports Apple Intelligence, you'll see an additional option in the More menu for priority messages. This option won't appear on <a href="https://www.macrumors.com/guide/does-my-iphone-support-apple-intelligence/">devices without Apple Intelligence support</a>. The More menu also has an "About Categories" section where you can see how your messages have been categorized over the course of the last week, but there is no option to tell the Mail app if you believe an email has been put into the wrong category.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/ios-disable-apple-mail-categories/">How to Turn Off Mail Categories in iOS 18.2</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/how-to-turn-off-mail-categories-in-ios-18-2.2445097/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Pencil Pro Available for &#36;99.00 on Amazon, Plus More Accessory Deals [Updated]</title>
+		<link>https://www.macrumors.com/2024/12/11/apple-pencil-pro-for-99/</link>
+		<comments>https://forums.macrumors.com/threads/apple-pencil-pro-available-for-99-00-on-amazon-plus-more-accessory-deals-updated.2445095/</comments>
+		<pubDate>Wed, 11 Dec 2024 06:10:59 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/12/11/apple-pencil-pro-for-99/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		
+
+		<description><![CDATA[Amazon this week has brought back a low price for the Apple Pencil Pro, available for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J71RM7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;99.00</strong></a>, down from &#36;129.00. Alongside this deal, we're tracking a collection of Apple accessory discounts, including great deals on the Magic Keyboard and MagSafe Charger.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/accessories-prime-day.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-969108" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+<h2>Apple Pencil Pro</h2><br/>
+Deals on the Apple Pencil Pro have been very rare throughout the past few weeks, and they never last long. So, although this isn't an all-time low price, it's still a great deal and potentially your last chance to get the accessory at a discount before Christmas.<br/>
+<br/>
+<strong>Update:</strong> As expected, the Apple Pencil Pro deal has quickly expired, but the other deals below remain available.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J71RM7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;30 OFF</div>Apple Pencil Pro for &#36;99.00</div></a></div><br/>
+<h2>AirTag</h2><br/>
+Amazon is also discounting Apple's AirTag 4-Pack to <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D54JZTHY%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;72.99</strong></a> this week, down from &#36;99.00. This is just about &#36;3 higher when compared to the all-time low price and it's still a great deal on the accessory, with guaranteed Christmas delivery.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D54JZTHY%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;26 OFF</div>AirTag 4-Pack for &#36;72.99</div></a></div><br/>
+<h2>iPad Pro Magic Keyboard</h2><br/>
+Moving to the new 2024 Magic Keyboard, you can get the 11-inch model in Black for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J65R9N%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;249.99</strong></a>, down from &#36;299.00. This is an all-time low price on the accessory and it can still be delivered in time for Christmas on Amazon.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J65R9N%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;49 OFF</div>11-inch M4 iPad Pro Magic Keyboard for &#36;249.99</div></a></div><br/>
+<h2>MagSafe Charger</h2><br/>
+Amazon introduced a few deals on Apple's new lineup of MagSafe Chargers this week. You can get the 1-meter model for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ4QQ5W%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;29.99</strong></a> and 2-meter model for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHHJXTC%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;34.99</strong></a>, both representing solid second-best prices on the accessory.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ4QQ5W%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;9 OFF</div>1-meter MagSafe Charger for &#36;29.99</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHHJXTC%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;14 OFF</div>2-meter MagSafe Charger for &#36;34.99</div></a></div><br/>
+<br/>
+The new MagSafe Chargers provide overall faster charging speeds with compatible iPhone models. When paired with a 30W power adapter, iPhone 16 models can charge at up to 25W wirelessly over MagSafe, which is 10W faster than a regular non-MagSafe Qi2 wireless charger.<br/>
+<br/>
+If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/11/apple-pencil-pro-for-99/">Apple Pencil Pro Available for &#36;99.00 on Amazon, Plus More Accessory Deals [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-pencil-pro-available-for-99-00-on-amazon-plus-more-accessory-deals-updated.2445095/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Reveals iPhone App of the Year and More 2024 App Store Awards</title>
+		<link>https://www.macrumors.com/2024/12/11/2024-app-store-award-winners/</link>
+		<comments>https://forums.macrumors.com/threads/apple-reveals-iphone-app-of-the-year-and-more-2024-app-store-awards.2445093/</comments>
+		<pubDate>Wed, 11 Dec 2024 06:00:03 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/12/11/2024-app-store-award-winners/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>App Store</category>
+		
+
+		<description><![CDATA[Apple today revealed its <a href="https://www.apple.com/newsroom/2024/12/apple-honors-2024-app-store-award-winners/">2024 App Store Award winners</a>, including <a href="https://www.macrumors.com/2024/05/29/kino-camera-app/">pro video camera app Kino</a>, which was named iPhone App of the Year.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/12/2024-App-Store-Awards.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-981508" /><br/>
+There were <a href="https://www.macrumors.com/2024/11/25/2024-app-store-awards-finalists/">45 finalists across 12 categories</a>, including a first-ever Apple Vision Pro category. Apple said the awards recognize developers who delivered the "highest levels of user experience, design, and innovation" on the App Store this year.<br/>
+<br/>
+Kino was released earlier this year by Lux, the makers of the popular iPhone camera app Halide.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/11/Kino-iPhone.jpg" alt="" width="1333" height="750" class="aligncenter size-full wp-image-979361" /><br/>
+<br/>
+The full list of winner is below.<br/>
+<br/>
+<strong>Apps</strong><br/>
+<br/>
+iPhone App of the Year: Kino, from Lux Optics Inc. <br/>
+<br/>
+iPad App of the Year: Moises, from Moises Systems Inc. <br/>
+<br/>
+Mac App of the Year: Adobe Lightroom, from Adobe Inc. <br/>
+<br/>
+Apple Vision Pro App of the Year: What If…? An Immersive Story, from Disney.<br/>
+<br/>
+Apple Watch App of the Year: Lumy, from Raja V.<br/>
+<br/>
+Apple TV App of the Year: F1 TV, from Formula One Digital Media Limited.<br/>
+<br/>
+<strong>Games</strong><br/>
+<br/>
+iPhone Game of the Year: AFK Journey, from Farlight Games.<br/>
+<br/>
+iPad Game of the Year: Squad Busters, from Supercell.<br/>
+<br/>
+Mac Game of the Year: Thank Goodness You’re Here!, from Panic, Inc. <br/>
+<br/>
+Apple Vision Pro Game of the Year: THRASHER: Arcade Odyssey, from Puddle, LLC.<br/>
+<br/>
+Apple Arcade Game of the Year: Balatro+, from Playstack Ltd.<br/>
+<br/>
+<strong>Cultural Impact Winners</strong><br/>
+<br/>
+These apps have made a "lasting impact" on people and communities, according to Apple.<br/>
+<br/>
+Oko from AYES BV<br/>
+<br/>
+Oko combines innovation and simplicity to help users who are blind or have low vision navigate city streets with confidence. <br/>
+<br/>
+EF Hello from Signum International AG<br/>
+<br/>
+Powered by AI, EF Hello integrates a systematic learning approach to support language learners of all levels, helping them enhance their communication and better engage with the world around them.<br/>
+<br/>
+DailyArt from Zuzanna Stanska<br/>
+<br/>
+By connecting users to exceptional artwork across centuries and movements, DailyArt fuels the intellectual curiosity and wonder of users. <br/>
+<br/>
+NYT Games from The New York Times Company<br/>
+<br/>
+Offering a great start to the day, NYT Games connects family and friends across generations with a variety of fun and simple daily games. <br/>
+<br/>
+The Wreck from The Pixel Hunt<br/>
+<br/>
+Featuring cinematic scenes and an interactive narrative, The Wreck depicts the mind’s inner struggles when facing a crisis. <br/>
+<br/>
+Do You Really Want to Know? 2 from Gamtropy Co., Ltd.<br/>
+<br/>
+Do You Really Want to Know? 2 explores the nuances of living with HIV, offering users local resources and educational materials to navigate conversations with family and friends.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/app-store/">App Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/11/2024-app-store-award-winners/">Apple Reveals iPhone App of the Year and More 2024 App Store Awards</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-reveals-iphone-app-of-the-year-and-more-2024-app-store-awards.2445093/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18.2: Create Custom Emoji in Messages With Genmoji</title>
+		<link>https://www.macrumors.com/how-to/create-custom-emoji-messages-genmoji/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-2-create-custom-emoji-in-messages-with-genmoji.2445092/</comments>
+		<pubDate>Wed, 11 Dec 2024 05:42:49 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/create-custom-emoji-messages-genmoji&#038;post_date=1733935369/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>Apple Intelligence</category>
+		<category>Genmoji</category>
+		
+
+		<description><![CDATA[In iOS 18.2, which Apple is releasing today, Apple's new Genmoji feature lets you create personalized emoji that aim to perfectly match what you want to express, going far beyond the limitations of standard Unicode emoji. Want an emoji of a break-dancing astronaut or a dog playing bagpipes? With Genmoji, you can make it happen.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/11/Genmoji-Feature-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-975005" /><br/>
+Unlike standard emoji that are fixed Unicode characters, Genmoji are dynamically generated using on-device AI. They work seamlessly in text, appearing as inline emoji characters in supported apps like Messages and Notes. You can even create Genmoji based on people in your Photos app, making them more personal and expressive.<br/>
+<br/>
+<h2>Requirements and Availability</h2><br/>
+Genmoji is available in the iOS 18.2 update, which Apple is releasing on December 11, 2024. The feature also requires Apple Intelligence, which is limited to iPhone 15 Pro/Pro Max and iPhone 16 series models. Apple Intelligence does not currently work in the EU.<br/>
+<br/>
+Even with a compatible device in a supported region, you'll need to join a waitlist for Apple Intelligence features like image creation (Settings ➝ Apple Intelligence & Siri). Apple will notify you when access is granted. Note that Apple Intelligence is only available when your iPhone and Siri are set to the same language. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/iOS-18-Genmoji-WWDC.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-973017" /><br/>
+Apple Intelligence is available in English (US) in most regions around the world, while iOS 18.2 adds Apple Intelligence support for English (Australia), English (Canada), English (Ireland), English (New Zealand), English (South Africa) and English (UK). <br/>
+<br/>
+<h2>Compatibility</h2><br/>
+While Genmoji work best between iOS 18.2 devices, they're also viewable on devices running iOS/iPadOS 18.1 and later, as well as Macs running macOS Sequoia 15.1 and later.<br/>
+<br/>
+On older Apple devices or Android phones, Genmoji appear as regular images rather than inline emoji characters. Third-party apps need to specifically add Genmoji support to enable creation and proper display of these custom emoji.<br/>
+<br/>
+<h2>Creating Custom Emoji in Messages</h2><br/>
+<ol><br/>
+  <li>In Messages, start a conversation or choose an existing one.</li><br/>
+  <li>Tap the emoji symbol in the bottom-left corner of the keyboard.</li><br/>
+  <li>In the emoji search field, describe your desired emoji (alternatively, tap the colored smiling emoji at the far right, then enter your description).</li><br/>
+  <li>Tap <strong>Create New Emoji</strong>.<br/>
+<img src="https://images.macrumors.com/article-new/2024/11/create-genmoji-ios.jpg" alt="messages" width="4377" height="2796" class="aligncenter size-full wp-image-977428" /><br/>
+  <li>On the New Genmoji screen, wait a moment for the amorphous blob to transform into your new emoji.</li><br/>
+  <li>When the navigational symbols appear below the emoji, swipe left to preview alternative versions of your creation.</li><br/>
+  <li>Tap the ellipsis button to add a caption to your emoji or save it as a sticker. You can also provide feedback to Apple using the thumbs up/down buttons.</li><br/>
+  <li>Tap <strong>Add</strong> when you're happy with your selection, then tap the blue arrow button to send your new Genmoji.<br/>
+<img src="https://images.macrumors.com/article-new/2024/11/create-genmoji-ios-1.jpg" alt="messages" width="4377" height="2796" class="aligncenter size-full wp-image-977430" /><br/>
+</ol>With Genmoji, emoji finally become as limitless as your imagination. Having said that, Apple does maintain content restrictions similar to Image Playground to keep things appropriate. Regardless, once you start creating custom emoji, you might find standard emoji feeling a bit limited in comparison.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a>, <a href="https://www.macrumors.com/guide/genmoji/">Genmoji</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/how-to/create-custom-emoji-messages-genmoji/">iOS 18.2: Create Custom Emoji in Messages With Genmoji</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-2-create-custom-emoji-in-messages-with-genmoji.2445092/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Announces iOS 18.2 Launching Today With These New Features</title>
+		<link>https://www.macrumors.com/2024/12/11/ios-18-2-lanching-today/</link>
+		<comments>https://forums.macrumors.com/threads/apple-announces-ios-18-2-launching-today-with-these-new-features.2445091/</comments>
+		<pubDate>Wed, 11 Dec 2024 05:23:33 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/12/11/ios-18-2-lanching-today/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>iOS 18</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2024/12/apple-intelligence-now-features-image-playground-genmoji-and-more/">announced</a> that iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2 will be released today following more than six weeks of beta testing.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/10/Generic-iOS-18.2-Feature-Real-Mock.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-972123" /><br/>
+For the iPhone 15 Pro and iPhone 16 models, the update introduces additional Apple Intelligence features, including Genmoji for creating custom emoji, Image Playground and Image Wand for generating images, and ChatGPT integration for Siri. There is also a new Visual Intelligence feature on all iPhone 16 models that allows you to quickly identify things in the real world using the Camera Control button on those devices.<br/>
+<br/>
+On all compatible iPhones, the update adds a new Defaults section in the Settings app, an <a href="https://www.macrumors.com/2024/11/11/apple-announces-airtag-location-sharing/">item location sharing feature in the Find My app</a>, and much more.<br/>
+<br/>
+Apple's full release notes for iOS 18.2 are below.<br/>
+<br/>
+<blockquote><strong>Apple Intelligence (All iPhone 16 models, iPhone 15 Pro, iPhone 15 Pro Max)</strong><br/>
+<br/>
+<strong>Image Playground</strong><br/>
+- A new app that lets you use concepts, descriptions, and people from your photo library to create fun, playful images in multiple styles<br/>
+- Swipe through previews and choose from as you add concepts to your playground<br/>
+- Choose from animation and illustration styles when creating your image<br/>
+- Create images in Messages and Freeform, as well as third party apps<br/>
+- Images are synced in your Image Playground library across all your devices with iCloud<br/>
+<br/>
+<strong>Genmoji</strong><br/>
+- Genmoji allows you to create a custom emoji right from the keyboard<br/>
+- Genmoji are synced in your sticker drawer across all your devices with iCloud<br/>
+<br/>
+<strong>ChatGPT support</strong><br/>
+- ChatGPT from OpenAI can be accessed right from Siri or Writing Tools<br/>
+- Compose in Writing Tools allows you to create something from scratch with ChatGPT<br/>
+- Siri can tap into ChatGPT when relevant to provide you an answer<br/>
+- A ChatGPT account is not required and your requests will be anonymous and won't be used to train OpenAI's models<br/>
+- Sign in with ChatGPT to access your account benefits, and requests will be covered by OpenAI's data policies<br/>
+<br/>
+- Image Wand turns sketches and handwritten or typed notes into images in Notes<br/>
+- Describe your change in Writing Tools allows you to suggest how you'd like something rewritten, for example as a poem<br/>
+- Camera Control (iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max)<br/>
+- Visual Intelligence with Camera Control helps you instantly learn about places or interact with information simply by pointing your iPhone at the object, with the option to tap into Google Search or ChatGPT<br/>
+- Camera Control two-stage shutter lets you lock focus and exposure in Camera when light pressing the Camera Control<br/>
+<br/>
+<strong>Mail</strong><br/>
+- Mail Categorization sorts your messages to help you prioritize the most important messages<br/>
+- Digest view groups all of the messages from one sender into a single bundle for easy browsing<br/>
+<br/>
+<strong>Photos</strong><br/>
+- Video viewing improvements, including the ability to scrub frame-by-frame and a setting to turn off auto-looping video playback<br/>
+- Improvements when navigating Collections views, including the ability to swipe right to go back to the previous view<br/>
+- Recently Viewed and Recently Shared album history can be cleared<br/>
+- Favorites album appears in the Utilities collection in addition to Pinned Collections<br/>
+<br/>
+<strong>Safari</strong><br/>
+- New background images to customize your Safari Start Page<br/>
+- Import and Export enables you to export your browsing data from Safari and import browsing data from another app into Safari<br/>
+- HTTPS Priority upgrades URLs to HTTPS whenever possible<br/>
+- File Download Live Activity shows the progress of a file download in the Dynamic Island and on your home screen<br/>
+<br/>
+<strong>This update also includes the following improvements and bug fixes:</strong><br/>
+- Voice Memos supports layered recording, letting you add vocals over an existing song idea without the need for headphones -- then import your two-track projects directly into Logic Pro (iPhone 16 Pro, iPhone 16 Pro Max)<br/>
+- Share Item Location in Find My helps you locate and recover misplaced items by easily and securely sharing the location of an AirTag or Find My network accessory with trusted third parties, such as airlines<br/>
+- Natural language search in Apple Music and Apple TV app lets you describe what you're looking for using any combination of categories like genres, moods, actors, decades, and more<br/>
+- Favorite Categories in Podcasts allows you to choose your favorite categories and get relevant show recommendations that you can easily access in your Library<br/>
+- Personalized Search page in Podcasts highlights the most relevant categories and editorially curated collections tailored to you<br/>
+- Sudoku for News+ Puzzles provided in three difficulty levels and available for News+ subscribers<br/>
+- Support for the Hearing Test feature on AirPods Pro 2 in Cyprus, Czechia, France, Italy, Luxembourg, Romania, Spain, United Arab Emirates, and United Kingdom<br/>
+- Support for the Hearing Aid feature on AirPods Pro 2 in United Arab Emirates<br/>
+- Pre-market price quotes in Stocks lets you track NASDAQ and NYSE tickers prior to market open<br/>
+- Fixes an issue where recently captured photos do not appear immediately in the All Photos grid<br/>
+- Fixes an issue where Night mode photos in Camera could appear degraded when capturing long exposures (iPhone 16 Pro, iPhone 16 Pro Max)<br/>
+<br/>
+Some features may not be available for all regions or on all Apple devices. For information on the security content of Apple software updates, please visit this website: <a href="https://support.apple.com/100100">https://support.apple.com/100100</a></blockquote>When released, iOS 18.2 will be available in the Settings app under General → Software Update.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/11/ios-18-2-lanching-today/">Apple Announces iOS 18.2 Launching Today With These New Features</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-announces-ios-18-2-launching-today-with-these-new-features.2445091/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>TP-Link Launches Tapo Smart In-Wall Outlet With Matter Support</title>
+		<link>https://www.macrumors.com/2024/12/11/tapo-smart-in-wall-outlet-matter-support/</link>
+		<comments>https://forums.macrumors.com/threads/tp-link-launches-tapo-smart-in-wall-outlet-with-matter-support.2445089/</comments>
+		<pubDate>Wed, 11 Dec 2024 04:47:56 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/12/11/tapo-smart-in-wall-outlet-matter-support/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>HomeKit</category>
+		<category>Matter</category>
+		<category>TP-Link</category>
+		
+
+		<description><![CDATA[TP-Link has launched a new Smart In-Wall Outlet under its <a href="https://www.tapo.com/us/">Tapo</a> brand, bundling Matter support and a feature that lets users monitor the energy usage of connected devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/12/tapo-smart-wifi-outlet-matter.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-981490" /><br/>
+The Tapo P210M includes overcharge protection, meaning when connected devices are fully charged, the outlet switches off. The 15A/1800W outlet also features Power Protection, which automatically turns off devices when the power exceeds a user-specified threshold.<br/>
+<br/>
+The aforementioned energy monitoring is accessed via the Tapo app, providing tracking of the outlet's energy use through stats and charts. Users can save money on their bills by scheduling devices to turn off during periods of inactivity. Note that this dual-socket model also has manual on/off buttons for each outlet.<br/>
+<br/>
+The all-important Matter support over Wi-Fi eliminates the need for an additional hub, but a controller is necessary. In Apple Home terms, that equates to an Apple TV 4K (2021 and 2022 models), HomePod (both generations), or HomePod mini.<br/>
+<br/>
+The <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FTapo-P210M-Compatible-Monitoring-SmartThings%2Fdp%2FB0DLLQR3K7%2F">Tapo Smart Wi-Fi Outlet</a> retails at &#36;30, but it is currently listed as on sale at <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FTapo-P210M-Compatible-Monitoring-SmartThings%2Fdp%2FB0DLLQR3K7%2F">Amazon.com</a>, with a 33% discount bringing the price below &#36;20. <br/>
+<br/>
+<small><em>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</em></small><div class="linkback">Tags: <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a>, <a href="https://www.macrumors.com/guide/matter/">Matter</a>, <a href="https://www.macrumors.com/guide/tp-link/">TP-Link</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/11/tapo-smart-in-wall-outlet-matter-support/">TP-Link Launches Tapo Smart In-Wall Outlet With Matter Support</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tp-link-launches-tapo-smart-in-wall-outlet-with-matter-support.2445089/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Microsoft Teams for iPad Now Includes External Camera Support</title>
+		<link>https://www.macrumors.com/2024/12/11/microsoft-teams-ipad-external-camera-support/</link>
+		<comments>https://forums.macrumors.com/threads/microsoft-teams-for-ipad-now-includes-external-camera-support.2445086/</comments>
+		<pubDate>Wed, 11 Dec 2024 03:44:44 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2024/12/11/microsoft-teams-ipad-external-camera-support/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Microsoft Teams</category>
+		
+
+		<description><![CDATA[Microsoft has <a href="https://techcommunity.microsoft.com/blog/microsoftteamsblog/introducing-external-camera-support-for-ipads-in-microsoft-teams/4355767">announced</a> that Teams for iPad now supports external cameras, allowing users with older devices to hook up better-quality webcams during Teams calls.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/12/teams-ipad-external-camera-support.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-981486" /><br/>
+With iPadOS 17, Apple added support for connecting external cameras to iPads with a USB-C port, and Microsoft has just got around to leveraging the feature for users who want to benefit from higher resolution, better dynamic range, and the ability to adjust angles when videoconferencing. <br/>
+<br/>
+Thanks to Microsoft's implementation, connecting a camera for use in Teams couldn't be simpler. Plug your external camera into your iPad's USB-C port either before or during your Teams meeting, and the app will automatically select it for use on the call. To switch back to your iPad's built-in camera, simply disconnect the external one.<br/>
+<br/>
+The plug and play simplicity of the support does mean that there are currently no native or Teams controls to manually switch between your iPad's internal camera and an external one. For now at least, Teams will default to the connected external camera whenever one is plugged in.<br/>
+<br/>
+Microsoft says most webcams that work over a USB-C connection are supported, so finding a compatible model shouldn't be an issue.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/microsoft-teams/">Microsoft Teams</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/11/microsoft-teams-ipad-external-camera-support/">Microsoft Teams for iPad Now Includes External Camera Support</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/microsoft-teams-for-ipad-now-includes-external-camera-support.2445086/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>Spotify&#039;s Car Thing Accessory is Officially Dead</title>
@@ -297,490 +766,6 @@ Hypertension is known as a silent killer because it can go undetected and undiag
 According to Gurman, Apple is aiming to introduce the feature in the Apple Watch Ultra 3, and it would also presumably be included in the standard Apple Watch coming in 2025 as well. It is not yet entirely clear if Apple will be able to launch the feature in 2025, given that it was previously delayed. In 2022, Apple was reportedly dealing with accuracy issues during testing, but those problems may have been solved.<br/>
 <br/>
 Apple is also continuing to work on noninvasive blood glucose monitoring, but that feature is not yet ready to launch.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/apple-watch/">Apple Watch 10</a>, <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch">Apple Watch (Buy Now)</a>, <a href="https://buyersguide.macrumors.com/#Apple_Watch_Ultra">Apple Watch Ultra (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/10/apple-watch-blood-pressure-monitoring-2025/">Apple Watch Could Get Blood Pressure Monitoring in 2025</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-watch-could-get-blood-pressure-monitoring-in-2025.2445058/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases First Firmware Update for Beats Pill</title>
-		<link>https://www.macrumors.com/2024/12/10/beats-pill-first-firmware-update/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-first-firmware-update-for-beats-pill.2445056/</comments>
-		<pubDate>Tue, 10 Dec 2024 11:35:08 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/10/beats-pill-first-firmware-update/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Beats</category>
-		
-
-		<description><![CDATA[Apple today released a firmware update for the Beats Pill, marking the first new software the speaker has received since <a href="https://www.macrumors.com/2024/06/25/beats-pill-bluetooth-speaker-announced/">its June 2024 launch</a>. The firmware has a build number of 2C336, up from the 2C289 firmware the Beats Pill shipped with. Users will see version 2.2 in the Settings app when the device is connected to an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> or Mac.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/beats-pill-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-956812" /><br/>
-We don't know what's included in the new firmware, and Apple does not typically provide information about Beats firmware updates.<br/>
-<br/>
-Apple introduced the Beats Pill earlier this year after discontinuing the prior Beats Pill+ back in 2022. The new model is priced at &#36;150 and it features an all-new speaker system, a removable lanyard, USB-C and Bluetooth connectivity, IP67 water resistance, and a 24-hour battery life.<br/>
-<br/>
-The Beats Pill is designed to work seamlessly with both Android and Apple devices, and it supports both <a href="https://www.macrumors.com/guide/find-my/">Find My</a> and &zwnj;Find My&zwnj; Device for tracking purposes.<br/>
-<br/>
-Firmware updates for the Beats Pill are delivered over-the-air. Firmware will be installed while the Beats Pill is charging and in Bluetooth range of an &zwnj;iPhone&zwnj;, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, or Mac that's connected to Wi-Fi. On Android devices, users need to download the Beats app for Android and connect the Android device to a power outlet to initiate a firmware update.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/beats/">Beats</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/10/beats-pill-first-firmware-update/">Apple Releases First Firmware Update for Beats Pill</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-first-firmware-update-for-beats-pill.2445056/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Watch Ultra 3 Will Support Texting via Satellite</title>
-		<link>https://www.macrumors.com/2024/12/10/apple-watch-ultra-3-satellite-connectivity/</link>
-		<comments>https://forums.macrumors.com/threads/apple-watch-ultra-3-will-support-texting-via-satellite.2445054/</comments>
-		<pubDate>Tue, 10 Dec 2024 11:26:26 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/10/apple-watch-ultra-3-satellite-connectivity/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple Watch Ultra</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[The next-generation Apple Watch Ultra is set to gain satellite connectivity, reports <em><a href="https://www.bloomberg.com/news/articles/2024-12-10/apple-plans-apple-watch-ultra-3-next-year-with-satellite-texting-and-5g">Bloomberg</a></em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a>. Apple first introduced satellite connectivity for off-grid texting with the <a href="https://www.macrumors.com/roundup/iphone-14/">iPhone 14</a>, and the feature has been included in the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, but no Apple Watch to date.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/09/apple-watch-ultra-2-new-black.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-965050" /><br/>
-Apple's 2025 Apple Watch Ultra will be able to connect to a satellite network like the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, allowing users to send texts via satellite when cellular networks and Wi-Fi are unavailable. When satellite connectivity first launched, it was limited to emergency text messages, but in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, Apple expanded it to allow users to send texts to anyone.<br/>
-<br/>
-Apple is hoping that the satellite feature will encourage Apple Watch owners to update to a new Apple Watch Ultra, with the third-generation model set to come out in September 2025. Satellite connectivity would also allow Apple to better compete with companies like Garmin that manufacture dedicated satellite hardware for use in off-grid emergencies.<br/>
-<br/>
-The Apple Watch Ultra is aimed at hikers, scuba divers, and adventurers, and satellite connectivity for the device would add another layer of safety for activities that are not near cellular towers.<br/>
-<br/>
-As of right now, Apple still does not charge for satellite connectivity, and there is no word yet on what the company might charge. All iPhones come with two years of connectivity for free, and that will also likely be the case for the Apple Watch Ultra.<br/>
-<br/>
-Apple is also planning to stop using Intel cellular modems in future Apple Watch models, instead transitioning to technology from MediaTek. MediaTek's modem chip adds support or 5G Recap, a 5G service that's designed for connected devices and wearables that don't need standard 5G speeds. The current cellular Apple Watch models still use 4G LTE, even though Apple has been using 5G in iPhones for several years. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch_Ultra">Apple Watch Ultra (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/10/apple-watch-ultra-3-satellite-connectivity/">Apple Watch Ultra 3 Will Support Texting via Satellite</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-watch-ultra-3-will-support-texting-via-satellite.2445054/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Get the 11-Inch M2 iPad Air for &#36;469 at Best Buy Today Only (&#36;130 Off)</title>
-		<link>https://www.macrumors.com/2024/12/10/get-the-11-inch-m2-ipad-air/</link>
-		<comments>https://forums.macrumors.com/threads/get-the-11-inch-m2-ipad-air-for-469-at-best-buy-today-only-130-off.2445042/</comments>
-		<pubDate>Tue, 10 Dec 2024 08:32:51 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/10/get-the-11-inch-m2-ipad-air/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Best Buy has Apple's 11-inch M2 iPad Air (128GB Wi-Fi) for <a href="https://howl.link/b6iyvb3dkir53"><strong>&#36;469.00</strong></a> today, down from &#36;599.00. This is a new record low price on the tablet, and it's only available in Blue.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/10/ipad-air-early-black-friday.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-974478" /><em><small>Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-The other three colors are currently priced at &#36;499.00 on Best Buy, which is still a solid second-best price for the M2 iPad Air. The deal on the Blue model will only last for today, so if you're interested be sure to make your purchase soon.<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.link/b6iyvb3dkir53"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;130 OFF</div>11-inch M2 iPad Air (128GB Wi-Fi) for &#36;469.00</div></a></div><br/>
-<br/>
-Best Buy is currently taking &#36;100 off nearly <a href="https://howl.link/j5h18xbyh24yk">every other model of the M2 iPad Air</a>, including both 11-inch and 13-inch tablets. If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<br/>
-<br/>
-<hr /><br/>
-<div class="no-raptive"><br/>
-<h3>Deals Newsletter</h3><br/>
-Interested in hearing more about the best deals you can find during the holiday season? <a href="http://eepurl.com/itTnTk">Sign up</a> for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!<br/>
-<br/>
-<div style="text-align:center;margin-bottom:2em;"><br/>
-<br/>
-<form action="http://macrumors.us5.list-manage.com/subscribe/post?u=7d0106b433773bd0aef5828e0&amp;id=eebad02bf4&amp;f_id=00fbede0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><input type="email" value="" name="EMAIL" size="30" class="required email" id="mce-EMAIL"  placeholder="Enter Email Address"/><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div><div style="position: absolute; left: -5000px;"><input type="text" name="b_7d0106b433773bd0aef5828e0_eebad02bf4" tabindex="-1" value=""/></div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div><br/>
-</div><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/10/get-the-11-inch-m2-ipad-air/">Get the 11-Inch M2 iPad Air for &#36;469 at Best Buy Today Only (&#36;130 Off)</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/get-the-11-inch-m2-ipad-air-for-469-at-best-buy-today-only-130-off.2445042/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iCloud+ Storage Prices Increased in 10 Countries This Year</title>
-		<link>https://www.macrumors.com/2024/12/10/icloud-storage-price-increases/</link>
-		<comments>https://forums.macrumors.com/threads/icloud-storage-prices-increased-in-10-countries-this-year.2445038/</comments>
-		<pubDate>Tue, 10 Dec 2024 08:02:39 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/10/icloud-storage-price-increases/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iCloud</category>
-		
-
-		<description><![CDATA[Over the past several months, Apple has raised its prices for some or all iCloud+ storage plans in 10 countries, including Japan, South Korea, Thailand, Indonesia, Turkey, Pakistan, Nigeria, Egypt, Tanzania, and the Philippines. The updated prices for each of these countries are listed <a href="https://support.apple.com/en-us/108047">in a support document</a> on Apple's website.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/06/iCloud-General-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-803318" /><br/>
-In Japan, for example, prices have increased by around 15%.<br/>
-<br/>
-<table class="comparison"><br/>
- <tr><br/>
- <th>Storage Tier</th><br/>
- <th>Old Pricing</th><br/>
- <th>New Pricing</th><br/>
- </tr><br/>
- <tr><br/>
- <td>50GB</td><br/>
- <td>¥130</td><br/>
- <td>¥150</td><br/>
- </tr><br/>
- <tr><br/>
- <td>200GB</td><br/>
- <td>¥400</td><br/>
- <td>¥450</td><br/>
- </tr><br/>
- <tr><br/>
- <td>2TB</td><br/>
- <td>¥1300</td><br/>
- <td>¥1500</td><br/>
- </tr><br/>
- <tr><br/>
- <td>6TB</td><br/>
- <td>¥3900</td><br/>
- <td>¥4500</td><br/>
- </tr><br/>
- <tr><br/>
- <td>12TB</td><br/>
- <td>¥7900</td><br/>
- <td>¥9000</td><br/>
- </tr><br/>
- <tr><br/>
-</table><br/>
-<div class="clear"></div>Local currencies in many of the affected countries have declined against the U.S. dollar over the past few years, and that is likely the underlying reason for the price increases. iCloud+ prices in the U.S. have not changed this year.<br/>
-<br/>
-iCloud+ plans provide users with extra storage beyond the 5GB of free storage included with iCloud by default. The plans also include some other perks, such as iCloud Private Relay, Hide My Email, and HomeKit Secure Video.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/icloud/">iCloud</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-music-apple-pay-card-icloud-fitness.134">Apple Music, Apple Pay/Card, iCloud, Fitness+</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/10/icloud-storage-price-increases/">iCloud+ Storage Prices Increased in 10 Countries This Year</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/icloud-storage-prices-increased-in-10-countries-this-year.2445038/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Samsung Winter Sale Takes Up to &#36;1,000 Off The Frame TV, &#36;300 Off Smart Monitor M8, and More</title>
-		<link>https://www.macrumors.com/2024/12/10/samsung-winter-sale/</link>
-		<comments>https://forums.macrumors.com/threads/samsung-winter-sale-takes-up-to-1-000-off-the-frame-tv-300-off-smart-monitor-m8-and-more.2445035/</comments>
-		<pubDate>Tue, 10 Dec 2024 07:24:54 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/10/samsung-winter-sale/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Samsung this week kicked off a new <a href="https://howl.link/0ufxm5ick33dz">Winter Sale</a>, offering discounts across smartphones, smartwatches, tablets, computers, and home appliances. Many of the deals in this sale are the same prices we tracked during Samsung's Black Friday and Cyber Week sales, making it a great last-minute opportunity to shop steep discounts on products that can still arrive before Christmas.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/11/samsung-best-holiday.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-923404" /><em><small>Note: MacRumors is an affiliate partner with Samsung. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Right now, Amazon has the 27-inch ViewFinity S9 5K Display at an all-time low price, beating Samsung's deal. You can get this monitor for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CB71BY87%2Fref%3Dox_sc_act_title_1%3Ftag%3Dmacrumors-20%26smid%3DATVPDKIKX0DER%26th%3D1%26geniuslink%3Dtrue"><strong>&#36;767.99</strong></a> (&#36;832 off). Another notable Samsung monitor deal is on the 32-inch Smart Monitor M8, available for <a href="https://howl.link/m79zwydm8axba"><strong>&#36;399.99</strong></a> on Samsung's own website (&#36;300 off).<br/>
-<br/>
-<div class="center-wrap"><a href="https://howl.link/0ufxm5ick33dz"target="_blank"><div class="fancybutton"><div class="fancybadge">SITEWIDE DEALS</div>Samsung Winter Sale</div></a></div><br/>
-<br/>
-During this sale, if you purchase a <a href="https://howl.link/ekxaws4sul7id">select Samsung gaming monitor</a>, you'll also get the 27-inch Odyssey G3 Gaming Monitor for free (&#36;229.99 value). One of the best monitors to purchase with this offer is the 57-inch Odssey Neo G9 Curved Gaming Monitor for <a href="https://howl.link/ezd2zzv2k1wyv"><strong>&#36;1,599.99</strong></a> (&#36;1,129.99 off).<br/>
-<br/>
-Similar to events like Prime Day, Samsung's Winter Sale has exclusive "deals of the day" that swap out every day. Today's offer is taking <a href="https://howl.link/x33y89tesmjcl">up to &#36;1,000 off The Frame TVs</a>, including every size currently sold on Samsung's website. This drops the popular 65-inch model down to <a href="https://howl.link/x33y89tesmjcl"><strong>&#36;1,599.99</strong></a>, from &#36;1,999.99.<br/>
-<br/>
-<h2><a href="https://howl.link/p7y8pcx52jg1k">Monitors and Storage</a></h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/smart-monitor-holiday.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-923411" /><br/>
-<ul><li><a href="https://howl.me/cnlVMG7DfcK">990 EVO 5.0 NVMe SSD 2TB</a> - &#36;119.99, down from &#36;239.99</li><br/>
-<li><a href="https://howl.me/cnlVLMVgenn">2TB Portable SSD</a> - &#36;159.99, down from &#36;284.99</li><br/>
-<li><a href="https://howl.link/m79zwydm8axba">Smart Monitor M80D</a> - &#36;399.99, down from &#36;699.99</li><br/>
-<li><a href="https://howl.me/cnlVKayx1Nx">34-inch Odyssey OLED G8 Curved Gaming Monitor</a> - &#36;799.99, down from &#36;1,199.99</li><br/>
-<li><a href="https://howl.me/cnlVKXc8UKH">32-inch Odyssey Quantum Gaming Monitor</a> - &#36;599.99, down from &#36;1,099.99</li><br/>
-<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CB71BY87%2Fref%3Dox_sc_act_title_1%3Fsmid%3DATVPDKIKX0DER%26psc%3D1">27-inch ViewFinity S9 Smart Monitor</a> - &#36;767.99 at Amazon, down from &#36;1,599.99</li><br/>
-<li><a href="https://howl.me/cmcXZtLQWw9">49-inch Odyssey OLED G9 Curved Gaming Monitor</a> - &#36;1,078.99, down from &#36;1,799.99</li><br/>
-<li><a href="https://howl.me/cmSCTMeMf1L">55-inch Odyssey Ark 2nd Gen Curved Gaming Monitor</a> - &#36;1,799.99, down from &#36;2,999.99</li></ul><br/>
-<h2><a href="https://howl.link/gmsd1fl5cpubb">TVs</a></h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/the-frame-holiday.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-923410" /><br/>
-<ul><li><a href="https://howl.link/vzsts7mj2hogy">The Frame</a> - Save up to &#36;1,000</li><br/>
-<li><a href="https://howl.link/basyw1q0kj7hr">85-inch Crystal UHD TV</a> - &#36;899.99, down from &#36;1,099.99</li><br/>
-<li><a href="https://howl.me/cmcX0OsAHAg">55-inch Neo QLED 4K Smart TV</a> - &#36;1,199.99, down from &#36;1,499.99</li><br/>
-<li><a href="https://howl.link/ykww20f4u23u4">65-inch QLED 4K TV</a> - &#36;899.99, down from &#36;1,599.99</li><br/>
-<li><a href="https://howl.me/cmcX1NCbcAf">65-inch OLED S90C TV</a> - &#36;1,699.99, down from &#36;2,599.99</li><br/>
-<li><a href="https://howl.link/btdmfxv0poeju">65-inch Neo QLED 4K TV</a> - &#36;1,499.99, down from &#36;2,699.99</li><br/>
-<li><a href="https://howl.me/cnlVRaSFAOn">85-inch QLED 4K TV</a> - &#36;1,579.99, down from &#36;2,799.99</li><br/>
-<li><a href="https://howl.me/cnlVQujFbtE">85-inch Neo QLED 4K TV</a> - &#36;1,799.99, down from &#36;3,699.99</li></ul><br/>
-<h2><a href="https://howl.link/g0apfewviypne">Refrigerators</a></h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/fridge-holiday.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-923409" /><br/>
-<ul><li><a href="https://howl.link/rj0skwxvkajxt">Large Capacity Side-by-Side Fridge</a> - &#36;1,199.00, down from &#36;1,666.00</li><br/>
-<li><a href="https://howl.link/wvh01oaq72v2w">4-Door French Door Fridge</a> - &#36;1,699.00, down from &#36;2,899.00</li><br/>
-<li><a href="https://howl.link/ozmz1x8zug5xn">Mega Capacity 3-Door French Door Fridge</a> - &#36;2,499.00, down from &#36;3,499.00</li><br/>
-<li><a href="https://howl.link/2ywoezhcm8c5r">Bespoke 4-Door Flex Fridge</a> - &#36;2,699.00, down from &#36;4,099.00</li><br/>
-<li><a href="https://howl.link/ot6h8iqi1q361">Bespoke 4-Door Flex Fridge</a> - &#36;3,499.00, down from &#36;4,999.00</li></ul><br/>
-<h2><a href="https://howl.link/5tyldrblhkwko">Galaxy Products</a></h2><br/>
-<img src="https://images.macrumors.com/article-new/2023/11/smartphone-samsung.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-923408" /><br/>
-<ul><li><a href="https://howl.me/cmEbV7Ybcky">Galaxy Z Fold6</a> - Save up to &#36;1,600 with trade-in credit</li><br/>
-<li><a href="https://howl.me/cmEbXJFsJWi">Galaxy Z Flip6</a> - Save up to &#36;900 with trade-in credit</li><br/>
-<li><a href="https://howl.me/cmEbYxetDfM">Galaxy Watch Ultra</a> - Save up to &#36;460</li><br/>
-<li><a href="https://howl.me/cmEbZknUAIi">Galaxy Buds3 Pro</a> - Save up to &#36;190</li></ul><br/>
-<br/>
-If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<br/>
-<br/>
-<hr /><br/>
-<div class="no-raptive"><br/>
-<h3>Deals Newsletter</h3><br/>
-Interested in hearing more about the best deals you can find during the holiday season? <a href="http://eepurl.com/itTnTk">Sign up</a> for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!<br/>
-<br/>
-<div style="text-align:center;margin-bottom:2em;"><br/>
-<br/>
-<form action="http://macrumors.us5.list-manage.com/subscribe/post?u=7d0106b433773bd0aef5828e0&amp;id=eebad02bf4&amp;f_id=00fbede0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><input type="email" value="" name="EMAIL" size="30" class="required email" id="mce-EMAIL"  placeholder="Enter Email Address"/><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div><div style="position: absolute; left: -5000px;"><input type="text" name="b_7d0106b433773bd0aef5828e0_eebad02bf4" tabindex="-1" value=""/></div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div><br/>
-</div><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/10/samsung-winter-sale/">Samsung Winter Sale Takes Up to &#36;1,000 Off The Frame TV, &#36;300 Off Smart Monitor M8, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/samsung-winter-sale-takes-up-to-1-000-off-the-frame-tv-300-off-smart-monitor-m8-and-more.2445035/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Three All-New Radio Stations Arrive on Apple Music</title>
-		<link>https://www.macrumors.com/2024/12/10/three-new-apple-music-radio-stations/</link>
-		<comments>https://forums.macrumors.com/threads/three-all-new-radio-stations-arrive-on-apple-music.2445029/</comments>
-		<pubDate>Tue, 10 Dec 2024 06:10:41 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/10/three-new-apple-music-radio-stations/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>New Banner (Featured)</category>
-		<category>Apple Music</category>
-		
-
-		<description><![CDATA[<a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a> today <a href="https://www.apple.com/newsroom/2024/12/apple-music-expands-live-global-radio-offering-with-three-brand-new-stations/">announced</a> the addition of three new global radio stations: Apple Música Uno, &zwnj;Apple Music&zwnj; Club, and &zwnj;Apple Music&zwnj; Chill.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/Apple-Music-Radio.jpg" alt="" width="3840" height="2160" class="alignnone size-full wp-image-981383" /><br/>
-The stations join &zwnj;Apple Music&zwnj; 1, &zwnj;Apple Music&zwnj; Hits, and &zwnj;Apple Music&zwnj; Country. Oliver Schusser, Apple's vice president of Music, Sports, and Beats, said:<br/>
-<br/>
-<blockquote>Apple Music Radio is the beating heart of our service, representing the intersection of exceptional human voices and curation with cutting-edge technology that shapes and influences culture. We put a lot of time and care into making sure these new radio stations are really bespoke, highly curated, and hosted by some of the world's best music commentators with unique programming that we know our listeners will love.</blockquote><br/>
-<br/>
-The stations are hosted from state-of-the-art studios in Los Angeles, New York, Nashville, London, Paris, and Berlin. Each has a different theme:<br/>
-<br/>
-<ul><br/>
-	<li><strong><a href="https://music.apple.com/us/station/ra.1740613864/">Apple Música Uno</a></strong>: Latin music from around the world, focusing on new and current releases, including Música Mexicana and reggaetón, tropical, Latin pop, and more. The station is hosted by Becky G, followed by Evelyn Sicairos and Lechero. Rauw Alejandro and Grupo Frontera have special shows of their own. On-air talent will speak Spanish and English.</li><br/>
-	<li><strong><a href="https://music.apple.com/us/station/ra.1740613859/">Apple Music Club</a></strong>: Dance and electronic music with a focus on global club culture, hosted by Tim Sweeney and NAINA.</li><br/>
-	<li><a href="https://music.apple.com/us/station/ra.1740614260/"><strong>Apple Music Chill</strong></a>: Mood-focused music for respite, wellbeing, and ease, interspersed with "mindful moments" to remind listeners to find center and remain calm, hosted by Sabi with shows from Brian Eno, Stephan Moccio, and Zane Lowe.</li></ul><br/>
-<br/>
-Apple Música Uno, &zwnj;Apple Music&zwnj; Club, and &zwnj;Apple Music&zwnj; Chill are available to listen to now in the newly updated Radio tab of the &zwnj;Apple Music&zwnj; app, as well as for free, without a subscription, on the <a href="https://music.apple.com/us/radio/">Apple Music Radio</a> website.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-music/">Apple Music</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/10/three-new-apple-music-radio-stations/">Three All-New Radio Stations Arrive on Apple Music</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/three-all-new-radio-stations-arrive-on-apple-music.2445029/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s Pro Display XDR Is Five Years Old Today</title>
-		<link>https://www.macrumors.com/2024/12/10/pro-display-xdr-five-years-old-today/</link>
-		<comments>https://forums.macrumors.com/threads/apples-pro-display-xdr-is-five-years-old-today.2445012/</comments>
-		<pubDate>Tue, 10 Dec 2024 02:45:15 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/10/pro-display-xdr-five-years-old-today/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Displays</category>
-		<category>Pro Display XDR</category>
-		
-
-		<description><![CDATA[Apple's Pro Display XDR is five years old today, marking half a decade since its release alongside the 2019 <a href="https://www.macrumors.com/roundup/mac-pro/">Mac Pro</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2020/05/Pro-Display-XDR-Yella.jpg" alt="" width="2590" height="1456" class="alignnone size-full wp-image-743451" /><br/>
-Released on December 10, 2019, the Pro Display XDR was Apple's re-entry into the high-end external monitor market, following a three-year hiatus after discontinuing the Thunderbolt Display in 2016. The announcement came at Apple's Worldwide Developers Conference (WWDC) in June 2019, where the company presented the display as a rival to traditional reference monitors. The XDR in its name stands for "Extreme Dynamic Range," a feature that Apple emphasized as a key differentiator from other high-resolution monitors available at the time.<br/>
-<br/>
-It features a 32-inch Retina display with a 6K resolution of 6,016 by 3,384 pixels, powered by Apple's proprietary LED backlighting system. Apple utilized blue-colored LEDs with custom lenses and reflectors to achieve a maximum brightness of up to 1,600 nits in HDR mode, while sustaining 1,000 nits across the entire screen indefinitely. This allows for what Apple describes as "stunningly accurate colors and contrast," supporting the P3 wide color gamut and delivering a claimed 1,000,000:1 contrast ratio.<br/>
-<br/>
-The rear of the display features the same lattice pattern used on the 2019 &zwnj;Mac Pro&zwnj;, which functions as a heatsink to aid thermal management. The display is also available with matte nano-texture glass to cut down on glare—the first Apple product it's featured on. <br/>
-<br/>
-Upon its release, the Pro Display XDR garnered significant attention for its high price. In the United States, the display starts at &#36;4,999, and users who opt for the adjustable Pro Stand must pay an additional &#36;999. The Pro Stand, which is sold separately, was met with mixed reactions upon its unveiling. Apple justified the cost by highlighting the engineering involved, with the Pro Stand offering height, tilt, and rotation adjustments, as well as support for both landscape and portrait modes. A VESA mount adapter is also available for those who prefer third-party mounting solutions.<br/>
-<br/>
-As of its fifth anniversary, the Pro Display XDR remains one of only two external monitors sold by Apple, alongside the Studio Display, which was released in March 2022. Unlike the Pro Display XDR, the Studio Display comes with an integrated A13 Bionic chip, enabling features such as Center Stage for its built-in webcam, spatial audio, and support for <a href="https://www.macrumors.com/guide/siri/">Siri</a> voice commands. The Pro Display XDR, however, has no webcam or any internal Apple silicon chip.<br/>
-<br/>
-Speculation about a second-generation Pro Display XDR has been circulating for some time. In December 2022, <em>Bloomberg</em>'s <a href="https://www.macrumors.com/guide/mark-gurman/">Mark Gurman</a> reported that Apple was working on an <a href="https://www.macrumors.com/2022/12/18/updated-pro-display-xdr-gurman/">updated version of the display</a>, this time with an Apple silicon chip to enhance its capabilities. In July 2023, Gurman reiterated that Apple was still developing multiple new displays. Display supply chain analyst Ross Young <a href="https://www.macrumors.com/2024/11/19/pro-display-xdr-2-quantom-dot-rumor/">recently said</a> that the next-generation Pro Display XDR will feature quantum dot technology, just like the latest <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a> models. However, no further details have emerged regarding what other specific upgrades the Pro Display XDR might receive or a potential release time frame. For now, the Pro Display XDR remains Apple's flagship display offering.<br/>
-<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/displays/">Apple Pro Display XDR</a>, <a href="https://www.macrumors.com/roundup/studio-display/">Apple Studio Display</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/pro-display-xdr/">Pro Display XDR</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/mac-accessories.77">Mac Accessories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/10/pro-display-xdr-five-years-old-today/">Apple&#039;s Pro Display XDR Is Five Years Old Today</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-pro-display-xdr-is-five-years-old-today.2445012/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Resident Evil 2 Now Available on iPhone, iPad, and Mac</title>
-		<link>https://www.macrumors.com/2024/12/10/resident-evil-2-debuts-iphone-ipad-mac/</link>
-		<comments>https://forums.macrumors.com/threads/resident-evil-2-now-available-on-iphone-ipad-and-mac.2445011/</comments>
-		<pubDate>Tue, 10 Dec 2024 02:22:19 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/10/resident-evil-2-debuts-iphone-ipad-mac/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Capcom</category>
-		
-
-		<description><![CDATA[Capcom's <em>Resident Evil 2</em> remake has <a href="https://apps.apple.com/app/resident-evil-2/id1640632432">debuted on Apple devices</a>, making it the fourth Resident Evil title to arrive on Apple's mobile platforms.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/resident-evil-2.jpeg" alt="" width="3840" height="2160" class="aligncenter size-full wp-image-981367" /><br/>
-The survival horror shooter is available as a free download with a limited part of the game being playable, after which players must purchase the full game to continue. The good news is that Capcom is running a promotional discount of 75% off the usual price for a limited time.<br/>
-<br/>
-From now until January 8, the base game can be purchased for &#36;9.99, while all in-game rewards can be unlocked for &#36;1.99. After that date, the game will be sold for &#36;39.99.<br/>
-<br/>
-<em>Resident Evil 2</em> requires an iPhone 15 Pro or iPhone 16 series model to run, along with iPads and Macs equipped with M1 chips or later. The game supports cross-progression across supported Apple devices, so players can continue their progress whether playing on iPhone, iPad, or Mac. It's also a universal purchase, meaning a single purchase grants access across all compatible Apple devices.<br/>
-<br/>
-Capcom says the app is approximately 31GB in size, and that the installation process requires the target drive to have at least twice the size of the app in storage space available. An internet connection is also required to start the game. <em>Resident Evil 2</em> can be downloaded from the App Store. [<a href="https://apps.apple.com/app/resident-evil-2/id1640632432">Direct Link</a>]<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/capcom/">Capcom</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/10/resident-evil-2-debuts-iphone-ipad-mac/">Resident Evil 2 Now Available on iPhone, iPad, and Mac</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/resident-evil-2-now-available-on-iphone-ipad-and-mac.2445011/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Tap to Pay on iPhone Now Available in the UAE</title>
-		<link>https://www.macrumors.com/2024/12/10/tap-to-pay-on-iphone-now-in-the-uae/</link>
-		<comments>https://forums.macrumors.com/threads/tap-to-pay-on-iphone-now-available-in-the-uae.2445007/</comments>
-		<pubDate>Tue, 10 Dec 2024 01:51:25 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/10/tap-to-pay-on-iphone-now-in-the-uae/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Tap to Pay on iPhone</category>
-		<category>UAE</category>
-		
-
-		<description><![CDATA[Apple has <a href="https://www.apple.com/ae/newsroom/2024/12/apple-launches-tap-to-pay-on-iphone-in-the-uae/">announced</a> Tap to Pay on iPhone in the UAE, allowing independent sellers, small merchants, and large retailers in the country to use ‌iPhones‌ as a payment terminal.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2022/02/tap-to-pay-on-iphone-credit-card.jpeg" alt="" width="1306" height="735" class="aligncenter size-full wp-image-836335" /><br/>
-Tap to Pay allows iPhones to accept payments via Apple Pay, contactless credit and debit cards, and other digital wallets‌‌‌. All transactions are encrypted, and Apple has no information about what is purchased or the person who made the purchase.<br/>
-<br/>
-No additional hardware or credit card machine is required‌ to use Tap to Pay on iPhone. The feature uses NFC technology to securely authenticate the contactless payments, plus the feature also supports PIN entry, which includes accessibility options.<br/>
-<br/>
-Adyen, Magnati, and Network International are the first payment platforms in the UAE to offer Tap to Pay on iPhone, which works with cards from leading payment networks, including American Express, Mastercard, and Visa.<br/>
-<br/>
-Tap to Pay on ‌‌‌‌‌iPhone‌‌‌‌‌ requires ‌‌‌‌‌iPhone‌‌‌‌‌ XS or newer models, and works for customers as any normal ‌‌‌‌‌Apple Pay‌‌‌‌‌ transaction would. Sellers just need to open up the app, register the sale, and present their ‌‌‌‌‌iPhone‌‌‌‌‌ to the buyer, who can then use an appropriate contactless payment method.<br/>
-<br/>
-Tap to Pay on ‌iPhone‌ launched in <a href="https://www.macrumors.com/2022/02/08/apple-announces-tap-to-pay-iphone-feature/">February 2022</a> in the United States, and since then, Apple has been working to expand it to additional countries. The feature is available in Australia, Austria, Brazil, Canada, Czech Republic, France, Germany, Ireland, Italy, Japan, New Zealand, Netherlands, Romania, Sweden, Taiwan, the UAE, Ukraine, the United Kingdom, and the United States.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/tap-to-pay-on-iphone/">Tap to Pay on iPhone</a>, <a href="https://www.macrumors.com/guide/uae/">UAE</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/10/tap-to-pay-on-iphone-now-in-the-uae/">Tap to Pay on iPhone Now Available in the UAE</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/tap-to-pay-on-iphone-now-available-in-the-uae.2445007/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Several Apple TV+ Shows Score Golden Globe Nominations</title>
-		<link>https://www.macrumors.com/2024/12/09/apple-tv-plus-golden-globe-2024-nominations/</link>
-		<comments>https://forums.macrumors.com/threads/several-apple-tv-shows-score-golden-globe-nominations.2444990/</comments>
-		<pubDate>Mon, 09 Dec 2024 15:14:29 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/09/apple-tv-plus-golden-globe-2024-nominations/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV Plus</category>
-		
-
-		<description><![CDATA[Apple <a href="https://www.apple.com/tv-pr/news/2024/12/apples-slow-horses-disclaimer-shrinking-and-presumed-innocent-score-nominations-for-the-golden-globe-awards/">today announced</a> that several of its TV shows have been nominated for the 82nd Annual Golden Globe Awards. Popular series Slow Horses has been nominated for Best Drama, while Disclaimer, a psychological thriller miniseries starring Cate Blanchett, has been nominated for Best Limited Series.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/slow-horses-apple-tv-plus.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-981341" /><br/>
-Slow Horses stars Gary Oldman and Jack Lowden have been nominated for Best Performance by a Male Actor in a Drama, while Disclaimer's Cate Blanchett and Kevin Kline have been nominated for best actor awards for a limited series.<br/>
-<br/>
-Jason Segel and Harrison Ford, the stars of hit comedy Shrinking, have been nominated for best comedy performance and best supporting role, respectively. Jake Gyllenhaal, star of Presumed Innocent, has also been nominated for best actor in a TV drama.<br/>
-<br/>
-The Golden Globe winners are set to be announced on January 5, 2025. Apple previously won Golden Globes for Killers of the Flower Moon and Black Bird, and its original TV shows, movies, and documentaries have earned a total of 535 wins and 2,402 award nominations across the Oscars, Golden Globes, Emmys, and more.<br/>
-<br/>
-<a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>+ is priced at &#36;9.99 per month in the United States, and it is available in more than 100 countries and regions. Customers who purchase and activate a new <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, &zwnj;Apple TV&zwnj;, or Mac can get three months of &zwnj;Apple TV&zwnj;+ for free.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV Plus</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/09/apple-tv-plus-golden-globe-2024-nominations/">Several Apple TV+ Shows Score Golden Globe Nominations</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/several-apple-tv-shows-score-golden-globe-nominations.2444990/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Review: Ugreen&#039;s Line of &#039;Uno&#039; Chargers and Hubs Brings a Bit of Whimsy to Utilitarian Products</title>
-		<link>https://www.macrumors.com/review/ugreen-uno-chargers-power-adapters/</link>
-		<comments>https://forums.macrumors.com/threads/review-ugreens-line-of-uno-chargers-and-hubs-brings-a-bit-of-whimsy-to-utilitarian-products.2444988/</comments>
-		<pubDate>Mon, 09 Dec 2024 14:58:59 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/review/ugreen-uno-chargers-power-adapters&#038;post_date=1733795939/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Ugreen caught my attention earlier this year when it launched a new line of "Uno" accessories that are equipped with LED screens that can display fun emoji faces. The Uno range has everything from wireless chargers to power banks, and I've spent several months testing the products to see how they perform.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-964026" src="https://images.macrumors.com/article-new/2024/09/ugreen-uno-series.jpg" alt="" width="1491" height="839" /><br/>
-Everything in the Uno line was designed with a "robot-inspired" aesthetic, according to Ugreen, which equates to a boxy style with an LED screen that can display emoji-like faces. The emoji faces are amusing and bring some fun to accessories that are typically boring, but they're also useful and can change based on power level and other factors.<br/>
-<br/>
-<h2>Ugreen Uno Magnetic Wireless Power Bank</h2><br/>
-Priced at &#36;45, the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FUGREEN-Portable-Certified-Magnetic-10000mAh%2Fdp%2FB0D7CFCRBN">Magnetic Wireless Power Bank</a> looks like a lot of other power banks on the market at first glance, featuring a rectangular design that mirrors the shape of the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>. An LED screen and an attached stand that happens to look like a set of headphones set it apart, though.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-power-bank-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-981330" /><br/>
-The power bank is made from a smooth, metallic plastic material, with a soft silicone on the back where it attaches magnetically to a <a href="https://www.macrumors.com/guide/magsafe/">MagSafe</a> &zwnj;iPhone&zwnj;. It feels relatively lightweight, but it is a bit over 3/4ths of an inch thick, so it does add some bulk to the &zwnj;iPhone&zwnj;. It comes in black, which looks similar to Apple's space black, and a light purple shade. Though it's a bit thick, it is pocketable, measuring in at 4.2 inches by 2.8 inches. The plastic material feels a little cheap, but it's light and I don't expect too much more for the price.<br/>
-<br/>
-The LED display protrudes slightly which does indeed give it a distinctly robot-like look, and it often displays an emoji face that corresponds to power level. I say "often" because a lot of the time, it actually shows a percent reading of the exact power level. I don't know what triggers the emoji face to show up, and I wish there was a button to toggle between the power percent and the face.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-power-bank-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-981331" /><br/>
-You need to turn the power bank on by pressing the side button when it is attached to an &zwnj;iPhone&zwnj;, which initiates charging. More than once, I've attached it to my &zwnj;iPhone&zwnj; and forgotten to activate it, but having a sleep state seems to preserve battery level when it's not in use. The button has other functions as well, and a single press will turn on the LCD, while a double press will turn it off.<br/>
-<br/>
-When the power is on, it displays a "Hi" message, and when it's powering down, it shows a "bye" message. The emoji face that's displayed changes based on power level. At 100 percent, the face shows heart eyes, and at 99 to 80 percent, it changes to a happy face with smiling eyes. At 79 to 21 percent, it's a happy face with a more neutral eye expression, and 20 percent or below, there's a sad face. Each face animates slightly, with the eyes and mouth changing position.<br/>
-<br/>
-This is a Qi2 charger, so it can charge &zwnj;MagSafe&zwnj; iPhones at up to 15W. 15W is no longer the maximum charging speed because <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models support 25W &zwnj;MagSafe&zwnj; charging, but it is equivalent to the original 15W &zwnj;MagSafe&zwnj; charging. It has a 10,000mAh capacity, which is standard for smaller chargers these days.<br/>
-<br/>
-In an hour-long test, it charged my <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a> Max from one percent to 39 percent, and there was 67 percent of the battery left. After charging my &zwnj;iPhone&zwnj; to 80 percent (the maximum I have set), the power bank had 20 percent power remaining.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-power-bank-3.jpg" alt="" width="2000" height="1124" class="aligncenter size-full wp-image-981332" /><br/>
-I've tested several times, and I am able to reliably get one full charge of the 16 Pro Max from the power bank, and I've had no issues with it during my testing. My &zwnj;iPhone&zwnj; does sometimes get warm, but it does that with any &zwnj;MagSafe&zwnj; power bank that I use.<br/>
-<br/>
-Along with Qi2 charging, there is a USB-C port that can be used for charging iPhones and other accessories, plus it's used for charging the power bank. The USB-C port is 20W, so you can get faster &zwnj;iPhone&zwnj; charging using a USB-C to USB-C cable (included) or a USB-C to Lightning cable depending on which &zwnj;iPhone&zwnj; you have. 20W can also charge an <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> at a reasonable speed, but it's not enough for fast charging. Passthrough charging is supported, so you can charge the power bank via USB-C while also charging an attached &zwnj;iPhone&zwnj;.<br/>
-<br/>
-There is an included stand on the power bank that flips down from the top. It holds an &zwnj;iPhone&zwnj; in an ideal position for <a href="https://www.macrumors.com/guide/facetime/">FaceTime</a> calls or watching videos, and it's sturdy. The stand has multiple positions so the viewing angle is adjustable, and it can be used in landscape or portrait mode. When not in use, it folds up at the top of the power bank and looks like a set of headphones.<br/>
-<br/>
-<h2>Ugreen Uno 30W Power Bank</h2><br/>
-The &#36;38 10,000mAh <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FUGREEN-Portable-Charger-Charging-Battery%2Fdp%2FB0D1XKS2LP">Ugreen Uno USB-C Power Bank</a> is similar to the Magnetic Wireless Power Bank in design, but it doesn't have wireless charging. Instead, it offers 30W charging over USB-C, and it has a built-in USB-C cable.<br/>
-<br/>
-All the emoji faces are the same and the build quality is identical, but the power bank is slightly slimmer and taller at 4.6 inches by 2.8 inches. This model is a little over a half inch thick, and does not magnetically attach to an &zwnj;iPhone&zwnj;.<br/>
-<br/>
-While it has the same headphone-like design at the top, there is no stand. Instead, one side of the "headphones" features a power button for turning the power bank on and off.<br/>
-<br/>
-Along with the built-in USB-C cable, there are additional USB-C and USB-A ports at the top, so more than one device can be charged at once. The flat USB-C cable tucks into a slot at the back of the charger, and it feels well-attached. I couldn't get it to budge by pulling on it, but there's always a danger that attached cables will break.<br/>
-<br/>
-30W is fast charging for an &zwnj;iPhone&zwnj;, and my &zwnj;iPhone 16 Pro&zwnj; Max charged from one percent to 54 percent in a 30-minute period when testing, which is in line with fast charging tests using standard 30W power adapters. I was able to get one full charge out of the power bank before exhausting the battery.<br/>
-<br/>
-Because it has a built-in USB-C cable, this model is best for the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and &zwnj;iPhone 16&zwnj; models that have USB-C ports, but since it has an extra USB-C and USB-A port, it can be used with a Lightning cable, too.<br/>
-<br/>
-For charging at fast speeds, the USB-C Uno power bank is the better pick over the Qi2 model, and it's nice not to have to carry a USB-C cable around.<br/>
-<br/>
-<h2>100W USB-C Charger</h2><br/>
-Ugreen's <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FUGREEN-Charger-Compact-Adapter-MacBook%2Fdp%2FB0D3XR6S47">&#36;48 100W USB-C Uno Charger</a> is probably my favorite of the bunch, and it has the most robot-like design. It's a square-shaped charger but there's an LED display that shows emoji faces, a headphone-like band at the top, and a set of feet that cover the plug at the bottom.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-100w-power-adapter-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-981335" /><br/>
-The feet detach so that you can plug the Uno Charger into an outlet, and it's best suited as a desktop charger because of the position of the prongs. If you plug it into a standard wall outlet, the face will be either up or down, but it can definitely be used that way. I haven't lost the little feet yet, and they do have a magnet inside that can attach to a laptop when the charger is plugged in if it's being used while on the go.<br/>
-<br/>
-This charger is surprisingly compact and heavy, and it's made from the same black plastic material as the power banks.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-100w-power-adapter-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-981336" /><br/>
-When plugged in, the LCD face is continually active. I have the charger on top of my desk, and it sits and blinks at me all day. If you have this in your line of sight, it might get annoying. When something is charging, there are three faces, including one with shining eyes and an eating face. When a device is fully charged, there's a face with sunglasses.<br/>
-<br/>
-There are four ports at the top of the charger, including three USB-C ports and one USB-A port. Since this is a 100W charger, it can charge a 16-inch <a href="https://www.macrumors.com/roundup/macbook-pro/">MacBook Pro</a> and anything below that. To get the fastest charging with a &zwnj;MacBook Pro&zwnj; (the full 100W), you'll need to plug it in by itself in one of the top two ports.<br/>
-<br/>
-With multiple devices charging, the power is split up between the ports. When two devices are plugged in, the split is 65W/30W with the USB-C ports, or 65W/22.5W with one USB-C and one USB-A port.<br/>
-<br/>
-The three port split has 45W/30W/20W, 45W/30W/22.5W, and 80W/7.5W/7.5W options, while four ports in use will split the power to 45W/30W/7.5W/7.5W. The manual that comes with the charger has more specific information on how power is divided to each port.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-100w-power-adapter-3.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-981337" /><br/>
-Ugreen says that the charger has overvoltage, overcurrent, overload, and temperature protections, and I haven't run into any issues using the charger.<br/>
-<br/>
-There's <a href="https://www.ugreen.com/collections/ugreen-uno-iphone-accessories/products/ugreen-uno-charger-65w-pink-blue">also a 65W version</a> that comes in white/purple and blue/pink shades, and it's nice to see options that aren't the standard black.<br/>
-<br/>
-<h2>USB-C Cable</h2><br/>
-Ugreen has an &#36;8 <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FUGREEN-Charging-Display-iPhone-MacBook%2Fdp%2FB0D7BL2JBN%2Fr">Uno USB-C to USB-C 100W PD cable</a> that has little emoji eyes on it, and it's a good companion to the 100W charger. It's braided nylon and feels like a good quality cable.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-usb-c-cable.jpg" alt="" width="2000" height="1124" class="aligncenter size-full wp-image-981327" /><br/>
-The base cable is 1.6 feet, but there are more expensive 3.3 foot, 6.6 foot, and 10 foot models. For data transfers, it supports speeds up to 480Mb/s.<br/>
-<br/>
-<h2>2-in-1 Wireless Charger</h2><br/>
-Ugreen's &#36;49 Uno 2-in-1 Wireless Charger is also Qi2, with support for up to 15W charging on &zwnj;MagSafe&zwnj; iPhones. It has a fold-out design with a charging puck for the &zwnj;iPhone&zwnj; and a second 5W charging space for the <a href="https://www.macrumors.com/roundup/airpods-pro/">AirPods Pro</a>. The &zwnj;iPhone&zwnj; charger can be adjusted to different angles, and an &zwnj;iPhone&zwnj; can be placed in either landscape or portrait mode, so you can use StandBy.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-iphone-magsafe-charger.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-981328" /><br/>
-The square-shaped 2-in-1 Wireless Charger looks like the other Uno products, and it's made from the same black plastic material. It has an LCD face at the front, and the headphone-style design at the top. The face isn't as animated as other models, but it does show two happy eyes when turned on and in standby mode, and a happy face with a mouth when a device is charging.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-magsafe-charger-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-981329" /><br/>
-Ugreen includes a USB-C cable that plugs into the back, but you'll need to supply your own power adapter. You can also buy an optional Apple Watch charger to add to the side so you can charge three devices at once.<br/>
-<br/>
-The charger is relatively compact, so it doesn't take up much space on a desk at all, but it's weighted so it's not going to tip over.<br/>
-<br/>
-<h2>Uno 6-in-1 Hub</h2><br/>
-Ugreen's final product in the Uno line is the <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2FUGREEN-10Gbps-MacBook-Surface-Thinkpad%2Fdp%2FB0D2Q5XJY9">6-in-1 USB-C Hub</a>, which is &#36;18. This is a cheap hub, but it's serviceable for passthrough charging and connecting accessories to your Mac. Design wise, it has the black plastic that Ugreen uses for most of the Uno line, and an LCD face that displays different emoji animations.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-usb-c-hub.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-981333" /><br/>
-The build quality of the hub feels cheap, and I wasn't impressed with it. It's the same plastic as Ugreen's other products, but the hub feels so lightweight and almost flimsy. The emoji faces were also less useful on the hub, featuring only separate idle faces and charging faces.<br/>
-<br/>
-There are three USB-C ports, two USB-A ports, and an HDMI port that supports up to 4K/60Hz. It offers 85W passthrough charging for a Mac, with 15W available for connecting peripherals. 85W is generally fine for all Mac notebooks, but you're not going to get maximum charging speed for the 16-inch &zwnj;MacBook Pro&zwnj;.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/12/ugreen-usb-c-hub-2.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-981334" /><br/>
-I've had some issues with data transfers using this hub, with a transfer stopping in the middle. I'm not sure why, but multiple ports were affected. I doubt this is a problem with all models, but I don't like the size or the utility of this hub, and I think there are better options out there.<br/>
-<br/>
-<h2>Bottom Line</h2><br/>
-If you're looking for an accessory that's brings a little more fun to your desk than the standard power adapter or power bank, I think Ugreen's Uno line is well worth checking out. I especially liked the 100W USB-C charger and the Qi2 Magnetic Wireless Charger, though everything but the hub performed well.<br/>
-<br/>
-Ugreen's Uno products also make for fun gifts, and I think a power bank with a little emoji face would go over well with anyone that has an &zwnj;iPhone&zwnj;. I do want to note that the Qi2 Charger seems to be &zwnj;iPhone&zwnj; only, as some of the reviews mentioned that it does not work with Android devices.<br/>
-<br/>
-<h2>How to Buy</h2><br/>
-Ugreen's Uno products can be <a href="https://www.ugreen.com/pages/ugreen-uno-release">purchased from the Ugreen website</a> or <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FUGREEN%2FUGREENUnoSeries_NexodeSeries%2Fpage%2F488CA5D7-F4E6-42B7-97AB-EA509E3BAAD7">from Amazon</a>.<br/>
-<br/>
-<em><small>Note: Ugreen provided MacRumors with the Uno products included in the review for the purpose of the review. No other compensation was received.</small></em><br/>This article, &quot;<a href="https://www.macrumors.com/review/ugreen-uno-chargers-power-adapters/">Review: Ugreen&#039;s Line of &#039;Uno&#039; Chargers and Hubs Brings a Bit of Whimsy to Utilitarian Products</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/review-ugreens-line-of-uno-chargers-and-hubs-brings-a-bit-of-whimsy-to-utilitarian-products.2444988/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Sonos Holiday Sale Brings Back Black Friday Prices on Ace Headphones, Arc Soundbar, and More</title>
-		<link>https://www.macrumors.com/2024/12/09/sonos-holiday-sale/</link>
-		<comments>https://forums.macrumors.com/threads/sonos-holiday-sale-brings-back-black-friday-prices-on-ace-headphones-arc-soundbar-and-more.2444970/</comments>
-		<pubDate>Mon, 09 Dec 2024 10:36:05 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2024/12/09/sonos-holiday-sale/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		
-
-		<description><![CDATA[Sonos is hosting a new <a href="https://www.sonos.com/en-us/shop/promotional-offers">holiday sale</a>, where you can find multiple all-time low Black Friday prices return for popular Sonos products. This includes the new Sonos Ace headphones, Arc soundbar, Roam 2 portable speaker, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/11/sonos-black-friday-red.jpeg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-979950" /><em><small>Note: MacRumors is an affiliate partner with Sonos. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-All discounts in this sale have been automatically applied, so you don't need to enter a coupon code in order to see the final sale prices. We've collected all of the deals in the list below, but you can also find a few bundle discounts on sale on the Sonos website.<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.sonos.com/en-us/shop/promotional-offers"target="_blank"><div class="fancybutton"><div class="fancybadge">UP TO 20% OFF</div>Sonos Holiday Sale</div></a></div><ul><li><a href="https://www.sonos.com/en-us/shop/sonos-ace-black">Ace Headphones</a> - &#36;349, down from &#36;449</li><br/>
-<li><a href="https://www.sonos.com/en-us/shop/arc-black">Arc Soundbar</a> - &#36;699, down from &#36;899</li><br/>
-<li><a href="https://www.sonos.com/en-us/shop/beam-black">Beam (Gen 2) Soundbar</a> - &#36;369, down from &#36;499</li><br/>
-<li><a href="https://www.sonos.com/en-us/shop/era-100-black">Era 100 Speaker</a> - &#36;199, down from &#36;249</li><br/>
-<li><a href="https://www.sonos.com/en-us/shop/roam-2-black">Roam 2 Portable Speaker</a> - &#36;139, down from &#36;179</li><br/>
-<li><a href="https://www.sonos.com/en-us/shop/move-2-black">Move 2 Portable Speaker</a> - &#36;359, down from &#36;449</li></ul><br/>
-<br/>
-If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<br/>
-<br/>
-<hr /><br/>
-<div class="no-raptive"><br/>
-<h3>Deals Newsletter</h3><br/>
-Interested in hearing more about the best deals you can find during the holiday season? <a href="http://eepurl.com/itTnTk">Sign up</a> for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!<br/>
-<br/>
-<div style="text-align:center;margin-bottom:2em;"><br/>
-<br/>
-<form action="http://macrumors.us5.list-manage.com/subscribe/post?u=7d0106b433773bd0aef5828e0&amp;id=eebad02bf4&amp;f_id=00fbede0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><input type="email" value="" name="EMAIL" size="30" class="required email" id="mce-EMAIL"  placeholder="Enter Email Address"/><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div><div style="position: absolute; left: -5000px;"><input type="text" name="b_7d0106b433773bd0aef5828e0_eebad02bf4" tabindex="-1" value=""/></div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div><br/>
-</div><br/>
-<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2024/12/09/sonos-holiday-sale/">Sonos Holiday Sale Brings Back Black Friday Prices on Ace Headphones, Arc Soundbar, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/sonos-holiday-sale-brings-back-black-friday-prices-on-ace-headphones-arc-soundbar-and-more.2444970/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
