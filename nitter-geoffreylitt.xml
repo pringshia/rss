@@ -16,6 +16,161 @@
       <height>128</height>
     </image>
       <item>
+        <title>R to @geoffreylitt: Alright, back to building for now --
+
+we&apos;re thinking of writing up some of this malleable software vision soon, would be curious what questions/topics you&apos;d want to see covered in such a piece!</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>Alright, back to building for now --<br>
+<br>
+we're thinking of writing up some of this malleable software vision soon, would be curious what questions/topics you'd want to see covered in such a piece!</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:34:42 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879567899901530535#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879567899901530535#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: We&apos;re building a malleable software environment called Patchwork that weaves together all these hunches.
+
+It&apos;s a web-based tool where you can edit all kinds of docs with your team... and you can edit the tools too.
+
+Excited to share more about this soon.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>We're building a malleable software environment called Patchwork that weaves together all these hunches.<br>
+<br>
+It's a web-based tool where you can edit all kinds of docs with your team... and you can edit the tools too.<br>
+<br>
+Excited to share more about this soon.</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:34:08 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879567755550318810#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879567755550318810#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 3) Shared data
+
+When every app manages its own data, it&apos;s hard for your tools to work together and coordinate.
+
+We need a &quot;next-gen filesystem&quot; for the modern web: a place to put our stuff so that all our tools can share info and context.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>3) Shared data<br>
+<br>
+When every app manages its own data, it's hard for your tools to work together and coordinate.<br>
+<br>
+We need a "next-gen filesystem" for the modern web: a place to put our stuff so that all our tools can share info and context.</p>
+<p><a href="https://x.com/geoffreylitt/status/1810442615264796864#m">nitter.privacydev.net/geoffreylitt/status/1810442615264796864#m</a></p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:30:27 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879566828944642457#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879566828944642457#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 2) Version control
+
+Every dev knows the value of version control. It matters even more in malleable software, when every user is making tweaks.
+
+Unfortunately, git is complicated. So we need to invent simple version control that everyone can use...</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>2) Version control<br>
+<br>
+Every dev knows the value of version control. It matters even more in malleable software, when every user is making tweaks.<br>
+<br>
+Unfortunately, git is complicated. So we need to invent simple version control that everyone can use...</p>
+<p><a href="https://x.com/geoffreylitt/status/1825923322518884448#m">nitter.privacydev.net/geoffreylitt/status/1825923322518884448#m</a></p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:28:09 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879566250839552067#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879566250839552067#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 3 hunches we&apos;ve been developing as we work:
+
+1) Dynamic documents. The best starting point for many problems is to jot down some notes. Then you *gradually* enrich that note with computation as needed... until it becomes a little tool just for you.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>3 hunches we've been developing as we work:<br>
+<br>
+1) Dynamic documents. The best starting point for many problems is to jot down some notes. Then you *gradually* enrich that note with computation as needed... until it becomes a little tool just for you.</p>
+<p><a href="https://x.com/geoffreylitt/status/1727043882524037502#m">nitter.privacydev.net/geoffreylitt/status/1727043882524037502#m</a></p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:26:13 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879565765743124945#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879565765743124945#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: That&apos;s the vision of &quot;malleable software&quot; that we&apos;re pursuing at &gt;@inkandswitch -- rethinking the OS from the ground up, with the assumption that everyone is a creator.
+
+It&apos;s a big scope: we need to unbundle the app metaphor, rip apart tools from their underlying data, make it 10x lighter to deploy collaborative software, and allow everyone to actually own their tools so they have the right to change them.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>That's the vision of "malleable software" that we're pursuing at <a href="https://x.com/inkandswitch" title="Ink & Switch">@inkandswitch</a> -- rethinking the OS from the ground up, with the assumption that everyone is a creator.<br>
+<br>
+It's a big scope: we need to unbundle the app metaphor, rip apart tools from their underlying data, make it 10x lighter to deploy collaborative software, and allow everyone to actually own their tools so they have the right to change them.</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:23:28 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879565070499279340#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879565070499279340#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: There are many tools popping up that empower regular people to do more with AI codegen.
+
+I&apos;m a big fan...but I think we can push so much further!
+
+The future is not merely &quot;make me an app&quot;.
+
+it&apos;s &quot;no more apps&quot;; a new OS where you casually build/mod software every day.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>There are many tools popping up that empower regular people to do more with AI codegen.<br>
+<br>
+I'm a big fan...but I think we can push so much further!<br>
+<br>
+The future is not merely "make me an app".<br>
+<br>
+it's "no more apps"; a new OS where you casually build/mod software every day.</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:20:15 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879564262357803153#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879564262357803153#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: The typical dev workflow for the app world is so damn heavy: PMs juggling the needs of millions, engineers carefully scaling and QAing...
+
+We&apos;ll want far lighter tools when building for just ourselves or just our teams. More like spreadsheets than &quot;app dev&quot;.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>The typical dev workflow for the app world is so damn heavy: PMs juggling the needs of millions, engineers carefully scaling and QAing...<br>
+<br>
+We'll want far lighter tools when building for just ourselves or just our teams. More like spreadsheets than "app dev".</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:16:40 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879563359546437897#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879563359546437897#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: The idea of an &quot;app&quot;—a hermetically sealed bundle of functionality built by a team trying to anticipate your needs—will no longer be as relevant.
+
+We&apos;ll want looser clusters, amenable to change at the edges. Everyone owns their tools, rather than all of us renting cloned ones.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>The idea of an "app"—a hermetically sealed bundle of functionality built by a team trying to anticipate your needs—will no longer be as relevant.<br>
+<br>
+We'll want looser clusters, amenable to change at the edges. Everyone owns their tools, rather than all of us renting cloned ones.</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:13:31 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879562569989628001#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879562569989628001#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: Today&apos;s software ecosystem evolved around a central assumption that code is expensive, so it makes sense to centrally develop and then distribute at low marginal cost.
+
+If code becomes 100x cheaper, the choices no longer make sense! Build-buy tradeoffs often flip.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>Today's software ecosystem evolved around a central assumption that code is expensive, so it makes sense to centrally develop and then distribute at low marginal cost.<br>
+<br>
+If code becomes 100x cheaper, the choices no longer make sense! Build-buy tradeoffs often flip.</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:11:03 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879561947299115433#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879561947299115433#m</link>
+      </item>
+      <item>
+        <title>Regular people using AI code generation in today&apos;s software world is like showing up to your rented apartment with a construction crew.
+
+We all have increasing capability, but what are we allowed to do with it?</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>Regular people using AI code generation in today's software world is like showing up to your rented apartment with a construction crew.<br>
+<br>
+We all have increasing capability, but what are we allowed to do with it?</p>]]></description>
+        <pubDate>Wed, 15 Jan 2025 16:09:12 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1879561481022529667#m</guid>
+        <link>https://x.com/geoffreylitt/status/1879561481022529667#m</link>
+      </item>
+      <item>
         <title>R to @geoffreylitt: Also, I regret to admit that the terrible bloating of the Spotify app does have the advantage that many audiobooks are available included with Premium…</title>
         <dc:creator>@geoffreylitt</dc:creator>
         <description><![CDATA[<p>Also, I regret to admit that the terrible bloating of the Spotify app does have the advantage that many audiobooks are available included with Premium…</p>]]></description>
@@ -112,136 +267,6 @@ Malleable software = does just what I need, and nothing more.</p>
         <pubDate>Fri, 03 Jan 2025 16:12:12 GMT</pubDate>
         <guid>https://x.com/geoffreylitt/status/1875213582348263910#m</guid>
         <link>https://x.com/geoffreylitt/status/1875213582348263910#m</link>
-      </item>
-      <item>
-        <title>Stuck at a hotel gym with unfamiliar equipment?
-
-Obviously ask Claude for a custom workout plan… 
-
-Oh and one more thing: ask for an entire custom workout app that guides you thru the plan 😎</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Stuck at a hotel gym with unfamiliar equipment?<br>
-<br>
-Obviously ask Claude for a custom workout plan… <br>
-<br>
-Oh and one more thing: ask for an entire custom workout app that guides you thru the plan 😎</p>
-<img src="https://x.com/pic/ext_tw_video_thumb%2F1875212708041142272%2Fpu%2Fimg%2FiorphQA1so4_oRj8.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 03 Jan 2025 16:10:04 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1875213046366511516#m</guid>
-        <link>https://x.com/geoffreylitt/status/1875213046366511516#m</link>
-      </item>
-      <item>
-        <title>RT by @geoffreylitt: Wrote a blog post with some more reflections on building this debugger, and the nature of custom dev toolss:
-
-https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Wrote a blog post with some more reflections on building this debugger, and the nature of custom dev toolss:<br>
-<br>
-<a href="https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger">geoffreylitt.com/2024/12/22/…</a></p>
-<img src="https://x.com/pic/card_img%2F1878336571113656320%2FaCqcPeWe%3Fformat%3Djpg%26name%3D420x420_2" style="max-width:250px;" />]]></description>
-        <pubDate>Sun, 22 Dec 2024 21:47:57 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1870949424387772629#m</guid>
-        <link>https://x.com/geoffreylitt/status/1870949424387772629#m</link>
-      </item>
-      <item>
-        <title>👀</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>👀</p>
-<p><a href="https://x.com/alexwarth/status/1870246252430103012#m">nitter.privacydev.net/alexwarth/status/1870246252430103012#m</a></p>]]></description>
-        <pubDate>Fri, 20 Dec 2024 23:17:35 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1870247205581324350#m</guid>
-        <link>https://x.com/geoffreylitt/status/1870247205581324350#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: AI tool inception:
-
-one of the most powerful speedups AI can provide is making it faster to build custom tools that speed up our manual iteration loops</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>AI tool inception:<br>
-<br>
-one of the most powerful speedups AI can provide is making it faster to build custom tools that speed up our manual iteration loops</p>
-<img src="https://x.com/pic/media%2FGfRvh9FWIAAOzLs.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 20 Dec 2024 22:59:13 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1870242581340148069#m</guid>
-        <link>https://x.com/geoffreylitt/status/1870242581340148069#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: the pattern I like here is that AI built a *scaffold* so that I could do the interesting programming by hand, and have more fun doing it</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>the pattern I like here is that AI built a *scaffold* so that I could do the interesting programming by hand, and have more fun doing it</p>]]></description>
-        <pubDate>Fri, 20 Dec 2024 22:55:43 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1870241699982913842#m</guid>
-        <link>https://x.com/geoffreylitt/status/1870241699982913842#m</link>
-      </item>
-      <item>
-        <title>was working on a prolog interpreter this week
-
-step 1: had Claude make me a custom debugger UI that could visualize execution traces of my interpreter!
-
-AI-generated custom dev tools ftw 😎</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>was working on a prolog interpreter this week<br>
-<br>
-step 1: had Claude make me a custom debugger UI that could visualize execution traces of my interpreter!<br>
-<br>
-AI-generated custom dev tools ftw 😎</p>
-<img src="https://x.com/pic/ext_tw_video_thumb%2F1870241340065189888%2Fpu%2Fimg%2F7GgSaw_WLK8wkRiT.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Fri, 20 Dec 2024 22:54:56 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1870241503412375800#m</guid>
-        <link>https://x.com/geoffreylitt/status/1870241503412375800#m</link>
-      </item>
-      <item>
-        <title>RT by @geoffreylitt: At &gt;@inkandswitch we are starting a new project to research better version control tools for making games 
-
-One hypothesis: collaborating on a game should initially be as simple as working on a Google Doc, with concepts like branching introduced gradually as needed.</title>
-        <dc:creator>@paulsonnentag</dc:creator>
-        <description><![CDATA[<p>At <a href="https://x.com/inkandswitch" title="Ink & Switch">@inkandswitch</a> we are starting a new project to research better version control tools for making games <br>
-<br>
-One hypothesis: collaborating on a game should initially be as simple as working on a Google Doc, with concepts like branching introduced gradually as needed.</p>
-<img src="https://x.com/pic/ext_tw_video_thumb%2F1869308359637135360%2Fpu%2Fimg%2FSQ8-p_KTeOyNsM23.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 18 Dec 2024 09:10:25 GMT</pubDate>
-        <guid>https://x.com/paulsonnentag/status/1869309232895684884#m</guid>
-        <link>https://x.com/paulsonnentag/status/1869309232895684884#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: a full guarantee of review doesn&apos;t seem possible in the retrofitting approach. sure an automation could *claim* that it&apos;ll always ask for review, and it usually will... but how do you know?</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>a full guarantee of review doesn't seem possible in the retrofitting approach. sure an automation could *claim* that it'll always ask for review, and it usually will... but how do you know?</p>]]></description>
-        <pubDate>Wed, 18 Dec 2024 15:25:37 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1869403652194279595#m</guid>
-        <link>https://x.com/geoffreylitt/status/1869403652194279595#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: this seems like a huge challenge for the incremental approach of &quot;retrofit automation on top of UIs for humans&quot;...
-
-what I want in a future OS: provide guarantees that certain actions will be reviewed by a human. AI automations will go speculate but we&apos;ll need to confirm.</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>this seems like a huge challenge for the incremental approach of "retrofit automation on top of UIs for humans"...<br>
-<br>
-what I want in a future OS: provide guarantees that certain actions will be reviewed by a human. AI automations will go speculate but we'll need to confirm.</p>]]></description>
-        <pubDate>Wed, 18 Dec 2024 15:24:45 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1869403437265531189#m</guid>
-        <link>https://x.com/geoffreylitt/status/1869403437265531189#m</link>
-      </item>
-      <item>
-        <title>A puzzler:
-
-I want to automate a monthly payment that I do manually in my bank website.
-
-Would be a simple thing for a web UI automation. But how can I trust that to be reliable? I don’t want a robot clicking the wrong buttons on my bank. 
-
-What’s state of the art here?</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>A puzzler:<br>
-<br>
-I want to automate a monthly payment that I do manually in my bank website.<br>
-<br>
-Would be a simple thing for a web UI automation. But how can I trust that to be reliable? I don’t want a robot clicking the wrong buttons on my bank. <br>
-<br>
-What’s state of the art here?</p>]]></description>
-        <pubDate>Wed, 18 Dec 2024 15:21:30 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1869402616050118869#m</guid>
-        <link>https://x.com/geoffreylitt/status/1869402616050118869#m</link>
       </item>
 
   </channel>
