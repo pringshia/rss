@@ -16,6 +16,62 @@
       <height>128</height>
     </image>
       <item>
+        <title># the shift from buying apps -&gt; malleable software
+
+It&apos;s riveting seeing how fast the &quot;build vs buy&quot; tradeoff is shifting in software.
+
+This is a perfect example from @random_walker: he built a little reading app with ChatGPT, rather than trying to find an existing one.
+https://x.com/random_walker/status/1883344558618190176
+
+As he points out in the quoted thread: because most educational apps are terrible, it&apos;s actually faster to just make your own good one with AI!
+
+I&apos;ve had lots of similar experiences recently. For example, it was faster to build a custom workout app for myself with Claude than to find one from the endless sea of workout apps in the App Store...
+https://x.com/geoffreylitt/status/1875213046366511516
+
+No nonsense, just exactly what I needed. And it&apos;s malleable: I can iterate further at any time when I hit new needs.
+
+This reminds me of how sometimes it&apos;s actually faster to cook a good meal for yourself than to order takeout. None of the menu items on UberEats quite match what you&apos;re craving... so just make it yourself!
+
+Of course, the issue with DIY (whether cooking or software) is that sometimes we don&apos;t have the time. But when the time to DIY suddenly comes down by 10x or more, the tradeoffs look very different. As @simonw says, &quot;AI-enhanced development makes me more ambitious with my projects.&quot;
+
+Building custom software doesn&apos;t work all the time—I&apos;m not gonna whip up a good text editor or drawing app in 5 minutes with AI. There is still lots of value in professionally built, well crafted apps in many cases.
+
+But! for narrowly focused apps targeted at a particular personal use case - cooking, workouts, learning - the tradeoffs are shifting fast. The value of personalization is immense, and usually I don&apos;t need anything that fancy.
+
+The thing is... I&apos;m pretty sure the longterm endgame here is not little micro-apps running inside a ChatGPT or Claude window, while the rest of our OS stays unchanged. There&apos;s a bigger change lurking...
+
+To me that&apos;s the big exciting challenge of malleable software - how will we reimagine the ideas of &quot;apps&quot; and &quot;app stores&quot; to accommodate this new reality, where people can whip up new software in minutes?</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p># the shift from buying apps -&gt; malleable software<br>
+<br>
+It's riveting seeing how fast the "build vs buy" tradeoff is shifting in software.<br>
+<br>
+This is a perfect example from <a href="https://x.com/random_walker" title="Arvind Narayanan">@random_walker</a>: he built a little reading app with ChatGPT, rather than trying to find an existing one.<br>
+<a href="https://x.com/random_walker/status/1883344558618190176">x.com/random_walker/status/1…</a><br>
+<br>
+As he points out in the quoted thread: because most educational apps are terrible, it's actually faster to just make your own good one with AI!<br>
+<br>
+I've had lots of similar experiences recently. For example, it was faster to build a custom workout app for myself with Claude than to find one from the endless sea of workout apps in the App Store...<br>
+<a href="https://x.com/geoffreylitt/status/1875213046366511516">x.com/geoffreylitt/status/18…</a><br>
+<br>
+No nonsense, just exactly what I needed. And it's malleable: I can iterate further at any time when I hit new needs.<br>
+<br>
+This reminds me of how sometimes it's actually faster to cook a good meal for yourself than to order takeout. None of the menu items on UberEats quite match what you're craving... so just make it yourself!<br>
+<br>
+Of course, the issue with DIY (whether cooking or software) is that sometimes we don't have the time. But when the time to DIY suddenly comes down by 10x or more, the tradeoffs look very different. As <a href="https://x.com/simonw" title="Simon Willison">@simonw</a> says, "AI-enhanced development makes me more ambitious with my projects."<br>
+<br>
+Building custom software doesn't work all the time—I'm not gonna whip up a good text editor or drawing app in 5 minutes with AI. There is still lots of value in professionally built, well crafted apps in many cases.<br>
+<br>
+But! for narrowly focused apps targeted at a particular personal use case - cooking, workouts, learning - the tradeoffs are shifting fast. The value of personalization is immense, and usually I don't need anything that fancy.<br>
+<br>
+The thing is... I'm pretty sure the longterm endgame here is not little micro-apps running inside a ChatGPT or Claude window, while the rest of our OS stays unchanged. There's a bigger change lurking...<br>
+<br>
+To me that's the big exciting challenge of malleable software - how will we reimagine the ideas of "apps" and "app stores" to accommodate this new reality, where people can whip up new software in minutes?</p>]]></description>
+        <pubDate>Sun, 26 Jan 2025 17:34:23 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1883569187182047262#m</guid>
+        <link>https://x.com/geoffreylitt/status/1883569187182047262#m</link>
+      </item>
+      <item>
         <title>R to @geoffreylitt: Next newsletter is going out in a couple weeks and should have some fun stuff in it 🤓</title>
         <dc:creator>@geoffreylitt</dc:creator>
         <description><![CDATA[<p>Next newsletter is going out in a couple weeks and should have some fun stuff in it 🤓</p>]]></description>
@@ -240,18 +296,6 @@ The story comes alive, and it feels so natural that the person is telling their 
         <pubDate>Fri, 03 Jan 2025 16:43:39 GMT</pubDate>
         <guid>https://x.com/geoffreylitt/status/1875221495804539383#m</guid>
         <link>https://x.com/geoffreylitt/status/1875221495804539383#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: An important note about this process: I didn’t start with the intent of “make me an app for X”
-
-I started with a chat about a problem, and realized after the first step that some interactivity would help!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>An important note about this process: I didn’t start with the intent of “make me an app for X”<br>
-<br>
-I started with a chat about a problem, and realized after the first step that some interactivity would help!</p>]]></description>
-        <pubDate>Fri, 03 Jan 2025 16:42:47 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1875221279642665287#m</guid>
-        <link>https://x.com/geoffreylitt/status/1875221279642665287#m</link>
       </item>
 
   </channel>
