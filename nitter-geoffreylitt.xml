@@ -16,6 +16,253 @@
       <height>128</height>
     </image>
       <item>
+        <title>RT by @geoffreylitt: 16/ bonus tactical tip: here&apos;s the workflow I use for Cursor + Composer on complex changes to keep quality high.
+
+key idea: move conservatively, catch mistakes early,  &quot;slow is smooth, smooth is fast&quot; -- and &quot;slow&quot; by AI standards is still fast by manual coding standards. you really wanna avoid going off the rails at any point.
+
+- start with detailed prompt up front, like a ticket for a junior eng. think thru the desired UX and the architecture, identify tricky bits that require care.
+- end first message with &quot;ask me clarifying questions before proceeding&quot;
+- clear up the questions.
+- then say &quot;show me a plan before you code&quot;
+- review the plan carefully and give feedback. you should catch bugs and weird misunderstandings here, not later!
+- then once the plan is done, tell it to implement (all at once or in testable stages, depending on size)
+- if the result is close, you can iterate a couple times
+- if it totally went off the rails, i recommend bailing out: start over, or do the change yourself. don&apos;t try to iterate out of a confused place in the chat.
+
+basically in summary, apply the classic skillset of &quot;senior eng working with junior eng&quot;!
+
+this may seem tedious at first, but in my experience once you get the hang of it, it feels pretty natural.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>16/ bonus tactical tip: here's the workflow I use for Cursor + Composer on complex changes to keep quality high.<br>
+<br>
+key idea: move conservatively, catch mistakes early,  "slow is smooth, smooth is fast" -- and "slow" by AI standards is still fast by manual coding standards. you really wanna avoid going off the rails at any point.<br>
+<br>
+- start with detailed prompt up front, like a ticket for a junior eng. think thru the desired UX and the architecture, identify tricky bits that require care.<br>
+- end first message with "ask me clarifying questions before proceeding"<br>
+- clear up the questions.<br>
+- then say "show me a plan before you code"<br>
+- review the plan carefully and give feedback. you should catch bugs and weird misunderstandings here, not later!<br>
+- then once the plan is done, tell it to implement (all at once or in testable stages, depending on size)<br>
+- if the result is close, you can iterate a couple times<br>
+- if it totally went off the rails, i recommend bailing out: start over, or do the change yourself. don't try to iterate out of a confused place in the chat.<br>
+<br>
+basically in summary, apply the classic skillset of "senior eng working with junior eng"!<br>
+<br>
+this may seem tedious at first, but in my experience once you get the hang of it, it feels pretty natural.</p>
+<img src="https://x.com/pic/media%2FGjm6vVkWIAE1Hxr.jpg" style="max-width:250px;" />
+<img src="https://x.com/pic/media%2FGjm61RHWMAAr7rj.jpg" style="max-width:250px;" />
+<img src="https://x.com/pic/media%2FGjm61j5X0AAxQfe.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 18:47:33 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889748193744920580#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889748193744920580#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 15/ Anyway, that&apos;s the lens I&apos;m finding helpful these days. tldr: in the wild west, speed wins, and AI is fast. So we can thoughtfully apply AI to make better prototypes.
+
+If you&apos;re using similar techniques would be curious how you think about it.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>15/ Anyway, that's the lens I'm finding helpful these days. tldr: in the wild west, speed wins, and AI is fast. So we can thoughtfully apply AI to make better prototypes.<br>
+<br>
+If you're using similar techniques would be curious how you think about it.</p>
+<img src="https://x.com/pic/media%2FGjmNIYtWUAAZKI4.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:38 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697378740920539#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697378740920539#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 14/ As the models improve, it&apos;s even feeling like the combo is possible sometimes: move faster than ever before, at higher quality.
+
+I&apos;m cautious with the super high speeds though: preserving creative agency does require a lot of iteration and pondering the essential problem.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>14/ As the models improve, it's even feeling like the combo is possible sometimes: move faster than ever before, at higher quality.<br>
+<br>
+I'm cautious with the super high speeds though: preserving creative agency does require a lot of iteration and pondering the essential problem.</p>
+<img src="https://x.com/pic/media%2FGjmM1oRWMAAeoFS.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:38 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697376262119811#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697376262119811#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 13/ It does take constant vigilance to pull this off. When I&apos;m doing serious UI prototyping I try to maintain a clear separation where I&apos;m driving the big ideas and the UI details, and the AI&apos;s role is only implementation assistance.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>13/ It does take constant vigilance to pull this off. When I'm doing serious UI prototyping I try to maintain a clear separation where I'm driving the big ideas and the UI details, and the AI's role is only implementation assistance.</p>]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:37 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697374781505600#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697374781505600#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 12/ OK, but what about the UI itself? am I abdicating too much responsibility to the AI?
+
+Perhaps. I do worry about this a lot... But I actually think the opposite may be true? I can be more attentive to UI detail when I&apos;m not furiously slinging around code.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>12/ OK, but what about the UI itself? am I abdicating too much responsibility to the AI?<br>
+<br>
+Perhaps. I do worry about this a lot... But I actually think the opposite may be true? I can be more attentive to UI detail when I'm not furiously slinging around code.</p>
+<img src="https://x.com/pic/media%2FGjmJbN-XYAA4eeh.png" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:37 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697372462039525#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697372462039525#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 11/ This is not one sentence prompts. It&apos;s long detailed prompts, iteration, code review. In the weeds!
+
+I can make a proper plan for how something should work... and then the AI executes it in minutes! So we&apos;re still moving fast enough for prototyping.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>11/ This is not one sentence prompts. It's long detailed prompts, iteration, code review. In the weeds!<br>
+<br>
+I can make a proper plan for how something should work... and then the AI executes it in minutes! So we're still moving fast enough for prototyping.</p>
+<img src="https://x.com/pic/media%2FGjmIkzfXcAAfuzP.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:36 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697369337237523#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697369337237523#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 10/ There&apos;s a second move I find more subtle and interesting:
+
+While maintaining my previous speed of prototyping, I can build at much higher quality.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>10/ There's a second move I find more subtle and interesting:<br>
+<br>
+While maintaining my previous speed of prototyping, I can build at much higher quality.</p>
+<img src="https://x.com/pic/media%2FGjmIL2TW8AAUJVQ.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:35 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697367462392273#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697367462392273#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 9/ There&apos;s an obvious here: MOVE FAST 🏎️. One sentence prompt, make an app, boom you&apos;re done!
+
+This makes for fun demos and can be useful for random throwaway tools...
+
+But not useful at all when I&apos;m trying to prototype a good UI that hasn&apos;t been made before.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>9/ There's an obvious here: MOVE FAST 🏎️. One sentence prompt, make an app, boom you're done!<br>
+<br>
+This makes for fun demos and can be useful for random throwaway tools...<br>
+<br>
+But not useful at all when I'm trying to prototype a good UI that hasn't been made before.</p>
+<img src="https://x.com/pic/media%2FGjmGCw5XcAAQbfw.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:35 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697365453308211#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697365453308211#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 8/ From my personal experience, AI *significantly* pushes out the speed-quality frontier for rapidly prototyping web UIs in React.
+
+(I mainly use Cursor Composer w/ 3.5-sonnet, plus a smattering of other tools)
+
+The question is: what do we do with this power?</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>8/ From my personal experience, AI *significantly* pushes out the speed-quality frontier for rapidly prototyping web UIs in React.<br>
+<br>
+(I mainly use Cursor Composer w/ 3.5-sonnet, plus a smattering of other tools)<br>
+<br>
+The question is: what do we do with this power?</p>
+<img src="https://x.com/pic/media%2FGjmH5-_XIAAYr2s.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:34 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697363268161595#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697363268161595#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 7/ Let&apos;s first address the 💼 Land of proper engineering.
+
+Maybe AI helps you move faster at constant quality? Maybe your codebase turns to slop and things are terrible?
+
+Honestly I have no idea! Not the topic here. Let&apos;s move on to the wild west where I typically operate.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>7/ Let's first address the 💼 Land of proper engineering.<br>
+<br>
+Maybe AI helps you move faster at constant quality? Maybe your codebase turns to slop and things are terrible?<br>
+<br>
+Honestly I have no idea! Not the topic here. Let's move on to the wild west where I typically operate.</p>
+<img src="https://x.com/pic/media%2FGjmE024XsAA1tHa.png" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:34 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697361301045716#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697361301045716#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 6/ ok, now we&apos;re ready to discuss AI.
+
+The green line is my extremely scientific estimate of how AI support moves the boundary today.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>6/ ok, now we're ready to discuss AI.<br>
+<br>
+The green line is my extremely scientific estimate of how AI support moves the boundary today.</p>
+<img src="https://x.com/pic/media%2FGjmEainXIAAbkYC.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:34 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697359371661358#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697359371661358#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 5/ The thing is...code quality still matters out here!
+
+A well-built prototype often provides better signal by holding up to real use, and makes it easier to try out new ideas.
+
+I think a lot about surfing the speed/quality tradeoff here and trying to push the boundary.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>5/ The thing is...code quality still matters out here!<br>
+<br>
+A well-built prototype often provides better signal by holding up to real use, and makes it easier to try out new ideas.<br>
+<br>
+I think a lot about surfing the speed/quality tradeoff here and trying to push the boundary.</p>
+<img src="https://x.com/pic/media%2FGjmFYRnWsAAwWUI.png" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:33 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697357438005413#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697357438005413#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 4/ But personally... I&apos;m usually out in the 🤠 Wild west of UI prototyping! (I research tools for thought and programming interfaces.)
+
+Here there&apos;s a min *speed*: try many ideas, discard most. Which implies a quality *ceiling* - no time to engineer perfectly.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>4/ But personally... I'm usually out in the 🤠 Wild west of UI prototyping! (I research tools for thought and programming interfaces.)<br>
+<br>
+Here there's a min *speed*: try many ideas, discard most. Which implies a quality *ceiling* - no time to engineer perfectly.</p>
+<img src="https://x.com/pic/media%2FGjmCbIEW4AEuil1.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:33 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697355559039232#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697355559039232#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 3/ if you&apos;re in the 💼 Land of proper engineering (production engineering), you&apos;re gonna impose some minimum quality bar, which in turn imposes a speed limit.</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>3/ if you're in the 💼 Land of proper engineering (production engineering), you're gonna impose some minimum quality bar, which in turn imposes a speed limit.</p>
+<img src="https://x.com/pic/media%2FGjmCTzNWQAANUqz.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:32 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697353398915147#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697353398915147#m</link>
+      </item>
+      <item>
+        <title>R to @geoffreylitt: 2/ first, some preliminaries before we talk AI:
+
+for anyone building software, there&apos;s some tradeoff between speed and code quality. (obviously you can work to push the frontier, but the tradeoff exists)</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>2/ first, some preliminaries before we talk AI:<br>
+<br>
+for anyone building software, there's some tradeoff between speed and code quality. (obviously you can work to push the frontier, but the tradeoff exists)</p>
+<img src="https://x.com/pic/media%2FGjmBZgSWsAAqg17.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:32 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697351192776879#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697351192776879#m</link>
+      </item>
+      <item>
+        <title>1/ here&apos;s a visual model for how AI support makes me better at UI prototyping
+
+with the surprising conclusion that AI may *improve* code quality in some specific cases!
+
+lets walk thru it step by step...</title>
+        <dc:creator>@geoffreylitt</dc:creator>
+        <description><![CDATA[<p>1/ here's a visual model for how AI support makes me better at UI prototyping<br>
+<br>
+with the surprising conclusion that AI may *improve* code quality in some specific cases!<br>
+<br>
+lets walk thru it step by step...</p>
+<img src="https://x.com/pic/media%2FGjmBFGTWMAAGlxb.jpg" style="max-width:250px;" />]]></description>
+        <pubDate>Wed, 12 Feb 2025 15:25:31 GMT</pubDate>
+        <guid>https://x.com/geoffreylitt/status/1889697349233987656#m</guid>
+        <link>https://x.com/geoffreylitt/status/1889697349233987656#m</link>
+      </item>
+      <item>
         <title>R to @geoffreylitt: notably i was still pretty involved in the details here - decided the strategy, reviewed the plan, reviewed the code... and yet, still probably saved me at least 15min, maybe more? 
 
 i love staying in the flow of UI ideas and not needing to activate math brain</title>
@@ -52,269 +299,6 @@ no detour into math puzzles, no searching for a library. keeps me in flow!</p>]]
         <pubDate>Tue, 11 Feb 2025 18:07:40 GMT</pubDate>
         <guid>https://x.com/geoffreylitt/status/1889375768632856778#m</guid>
         <link>https://x.com/geoffreylitt/status/1889375768632856778#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: when you&apos;re tired after a work day, it really helps to have tasks broken down like this:</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>when you're tired after a work day, it really helps to have tasks broken down like this:</p>
-<img src="https://x.com/pic/media%2FGjeau4EXgAA2wMs.jpg" style="max-width:250px;" />]]></description>
-        <pubDate>Tue, 11 Feb 2025 03:05:49 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1889148811127173308#m</guid>
-        <link>https://x.com/geoffreylitt/status/1889148811127173308#m</link>
-      </item>
-      <item>
-        <title>pro tip: Claude Projects as executive function assistance
-
-i&apos;m dealing with an international bureaucracy thing that&apos;s gonna take months... tedious but has to get done
-
-so i made a Project with docs explaining the process, now Claude tells me exactly what to do next and helps me do it faster 😎</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>pro tip: Claude Projects as executive function assistance<br>
-<br>
-i'm dealing with an international bureaucracy thing that's gonna take months... tedious but has to get done<br>
-<br>
-so i made a Project with docs explaining the process, now Claude tells me exactly what to do next and helps me do it faster 😎</p>]]></description>
-        <pubDate>Tue, 11 Feb 2025 03:02:34 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1889147993284043181#m</guid>
-        <link>https://x.com/geoffreylitt/status/1889147993284043181#m</link>
-      </item>
-      <item>
-        <title>something i&apos;ve been hacking on w/ @alexwarth!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>something i've been hacking on w/ <a href="https://x.com/alexwarth" title="Alex Warth">@alexwarth</a>!</p>
-<p><a href="https://x.com/alexwarth/status/1886915048309973164#m">nitter.privacydev.net/alexwarth/status/1886915048309973164#m</a></p>]]></description>
-        <pubDate>Tue, 04 Feb 2025 23:24:58 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1886918903659442377#m</guid>
-        <link>https://x.com/geoffreylitt/status/1886918903659442377#m</link>
-      </item>
-      <item>
-        <title># the shift from buying apps -&gt; malleable software
-
-It&apos;s riveting seeing how fast the &quot;build vs buy&quot; tradeoff is shifting in software.
-
-This is a perfect example from @random_walker: he built a little reading app with ChatGPT, rather than trying to find an existing one.
-https://x.com/random_walker/status/1883344558618190176
-
-As he points out in the quoted thread: because most educational apps are terrible, it&apos;s actually faster to just make your own good one with AI!
-
-I&apos;ve had lots of similar experiences recently. For example, it was faster to build a custom workout app for myself with Claude than to find one from the endless sea of workout apps in the App Store...
-https://x.com/geoffreylitt/status/1875213046366511516
-
-No nonsense, just exactly what I needed. And it&apos;s malleable: I can iterate further at any time when I hit new needs.
-
-This reminds me of how sometimes it&apos;s actually faster to cook a good meal for yourself than to order takeout. None of the menu items on UberEats quite match what you&apos;re craving... so just make it yourself!
-
-Of course, the issue with DIY (whether cooking or software) is that sometimes we don&apos;t have the time. But when the time to DIY suddenly comes down by 10x or more, the tradeoffs look very different. As @simonw says, &quot;AI-enhanced development makes me more ambitious with my projects.&quot;
-
-Building custom software doesn&apos;t work all the time—I&apos;m not gonna whip up a good text editor or drawing app in 5 minutes with AI. There is still lots of value in professionally built, well crafted apps in many cases.
-
-But! for narrowly focused apps targeted at a particular personal use case - cooking, workouts, learning - the tradeoffs are shifting fast. The value of personalization is immense, and usually I don&apos;t need anything that fancy.
-
-The thing is... I&apos;m pretty sure the longterm endgame here is not little micro-apps running inside a ChatGPT or Claude window, while the rest of our OS stays unchanged. There&apos;s a bigger change lurking...
-
-To me that&apos;s the big exciting challenge of malleable software - how will we reimagine the ideas of &quot;apps&quot; and &quot;app stores&quot; to accommodate this new reality, where people can whip up new software in minutes?</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p># the shift from buying apps -&gt; malleable software<br>
-<br>
-It's riveting seeing how fast the "build vs buy" tradeoff is shifting in software.<br>
-<br>
-This is a perfect example from <a href="https://x.com/random_walker" title="Arvind Narayanan">@random_walker</a>: he built a little reading app with ChatGPT, rather than trying to find an existing one.<br>
-<a href="https://x.com/random_walker/status/1883344558618190176">x.com/random_walker/status/1…</a><br>
-<br>
-As he points out in the quoted thread: because most educational apps are terrible, it's actually faster to just make your own good one with AI!<br>
-<br>
-I've had lots of similar experiences recently. For example, it was faster to build a custom workout app for myself with Claude than to find one from the endless sea of workout apps in the App Store...<br>
-<a href="https://x.com/geoffreylitt/status/1875213046366511516">x.com/geoffreylitt/status/18…</a><br>
-<br>
-No nonsense, just exactly what I needed. And it's malleable: I can iterate further at any time when I hit new needs.<br>
-<br>
-This reminds me of how sometimes it's actually faster to cook a good meal for yourself than to order takeout. None of the menu items on UberEats quite match what you're craving... so just make it yourself!<br>
-<br>
-Of course, the issue with DIY (whether cooking or software) is that sometimes we don't have the time. But when the time to DIY suddenly comes down by 10x or more, the tradeoffs look very different. As <a href="https://x.com/simonw" title="Simon Willison">@simonw</a> says, "AI-enhanced development makes me more ambitious with my projects."<br>
-<br>
-Building custom software doesn't work all the time—I'm not gonna whip up a good text editor or drawing app in 5 minutes with AI. There is still lots of value in professionally built, well crafted apps in many cases.<br>
-<br>
-But! for narrowly focused apps targeted at a particular personal use case - cooking, workouts, learning - the tradeoffs are shifting fast. The value of personalization is immense, and usually I don't need anything that fancy.<br>
-<br>
-The thing is... I'm pretty sure the longterm endgame here is not little micro-apps running inside a ChatGPT or Claude window, while the rest of our OS stays unchanged. There's a bigger change lurking...<br>
-<br>
-To me that's the big exciting challenge of malleable software - how will we reimagine the ideas of "apps" and "app stores" to accommodate this new reality, where people can whip up new software in minutes?</p>]]></description>
-        <pubDate>Sun, 26 Jan 2025 17:34:23 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1883569187182047262#m</guid>
-        <link>https://x.com/geoffreylitt/status/1883569187182047262#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: Next newsletter is going out in a couple weeks and should have some fun stuff in it 🤓</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Next newsletter is going out in a couple weeks and should have some fun stuff in it 🤓</p>]]></description>
-        <pubDate>Wed, 22 Jan 2025 20:06:51 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1882158004675698849#m</guid>
-        <link>https://x.com/geoffreylitt/status/1882158004675698849#m</link>
-      </item>
-      <item>
-        <title>We&apos;re now sending out monthly email newsletters at &gt;@inkandswitch -- sign up at the bottom of the lab website if you wanna follow along!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>We're now sending out monthly email newsletters at <a href="https://x.com/inkandswitch" title="Ink & Switch">@inkandswitch</a> -- sign up at the bottom of the lab website if you wanna follow along!</p>
-<p><a href="https://x.com/inkandswitch/status/1882156324236198272#m">nitter.privacydev.net/inkandswitch/status/1882156324236198272#m</a></p>
-<img src="https://x.com/pic/media%2FGh7Ebz5WsAAPhAw.png" style="max-width:250px;" />]]></description>
-        <pubDate>Wed, 22 Jan 2025 20:05:45 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1882157726715072897#m</guid>
-        <link>https://x.com/geoffreylitt/status/1882157726715072897#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: Alright, back to building for now --
-
-we&apos;re thinking of writing up some of this malleable software vision soon, would be curious what questions/topics you&apos;d want to see covered in such a piece!</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Alright, back to building for now --<br>
-<br>
-we're thinking of writing up some of this malleable software vision soon, would be curious what questions/topics you'd want to see covered in such a piece!</p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:34:42 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879567899901530535#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879567899901530535#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: We&apos;re building a malleable software environment called Patchwork that weaves together all these hunches.
-
-It&apos;s a web-based tool where you can edit all kinds of docs with your team... and you can edit the tools too.
-
-Excited to share more about this soon.</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>We're building a malleable software environment called Patchwork that weaves together all these hunches.<br>
-<br>
-It's a web-based tool where you can edit all kinds of docs with your team... and you can edit the tools too.<br>
-<br>
-Excited to share more about this soon.</p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:34:08 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879567755550318810#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879567755550318810#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: 3) Shared data
-
-When every app manages its own data, it&apos;s hard for your tools to work together and coordinate.
-
-We need a &quot;next-gen filesystem&quot; for the modern web: a place to put our stuff so that all our tools can share info and context.</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>3) Shared data<br>
-<br>
-When every app manages its own data, it's hard for your tools to work together and coordinate.<br>
-<br>
-We need a "next-gen filesystem" for the modern web: a place to put our stuff so that all our tools can share info and context.</p>
-<p><a href="https://x.com/geoffreylitt/status/1810442615264796864#m">nitter.privacydev.net/geoffreylitt/status/1810442615264796864#m</a></p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:30:27 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879566828944642457#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879566828944642457#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: 2) Version control
-
-Every dev knows the value of version control. It matters even more in malleable software, when every user is making tweaks.
-
-Unfortunately, git is complicated. So we need to invent simple version control that everyone can use...</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>2) Version control<br>
-<br>
-Every dev knows the value of version control. It matters even more in malleable software, when every user is making tweaks.<br>
-<br>
-Unfortunately, git is complicated. So we need to invent simple version control that everyone can use...</p>
-<p><a href="https://x.com/geoffreylitt/status/1825923322518884448#m">nitter.privacydev.net/geoffreylitt/status/1825923322518884448#m</a></p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:28:09 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879566250839552067#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879566250839552067#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: 3 hunches we&apos;ve been developing as we work:
-
-1) Dynamic documents. The best starting point for many problems is to jot down some notes. Then you *gradually* enrich that note with computation as needed... until it becomes a little tool just for you.</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>3 hunches we've been developing as we work:<br>
-<br>
-1) Dynamic documents. The best starting point for many problems is to jot down some notes. Then you *gradually* enrich that note with computation as needed... until it becomes a little tool just for you.</p>
-<p><a href="https://x.com/geoffreylitt/status/1727043882524037502#m">nitter.privacydev.net/geoffreylitt/status/1727043882524037502#m</a></p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:26:13 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879565765743124945#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879565765743124945#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: That&apos;s the vision of &quot;malleable software&quot; that we&apos;re pursuing at &gt;@inkandswitch -- rethinking the OS from the ground up, with the assumption that everyone is a creator.
-
-It&apos;s a big scope: we need to unbundle the app metaphor, rip apart tools from their underlying data, make it 10x lighter to deploy collaborative software, and allow everyone to actually own their tools so they have the right to change them.</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>That's the vision of "malleable software" that we're pursuing at <a href="https://x.com/inkandswitch" title="Ink & Switch">@inkandswitch</a> -- rethinking the OS from the ground up, with the assumption that everyone is a creator.<br>
-<br>
-It's a big scope: we need to unbundle the app metaphor, rip apart tools from their underlying data, make it 10x lighter to deploy collaborative software, and allow everyone to actually own their tools so they have the right to change them.</p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:23:28 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879565070499279340#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879565070499279340#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: There are many tools popping up that empower regular people to do more with AI codegen.
-
-I&apos;m a big fan...but I think we can push so much further!
-
-The future is not merely &quot;make me an app&quot;.
-
-it&apos;s &quot;no more apps&quot;; a new OS where you casually build/mod software every day.</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>There are many tools popping up that empower regular people to do more with AI codegen.<br>
-<br>
-I'm a big fan...but I think we can push so much further!<br>
-<br>
-The future is not merely "make me an app".<br>
-<br>
-it's "no more apps"; a new OS where you casually build/mod software every day.</p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:20:15 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879564262357803153#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879564262357803153#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: The typical dev workflow for the app world is so damn heavy: PMs juggling the needs of millions, engineers carefully scaling and QAing...
-
-We&apos;ll want far lighter tools when building for just ourselves or just our teams. More like spreadsheets than &quot;app dev&quot;.</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>The typical dev workflow for the app world is so damn heavy: PMs juggling the needs of millions, engineers carefully scaling and QAing...<br>
-<br>
-We'll want far lighter tools when building for just ourselves or just our teams. More like spreadsheets than "app dev".</p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:16:40 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879563359546437897#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879563359546437897#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: The idea of an &quot;app&quot;—a hermetically sealed bundle of functionality built by a team trying to anticipate your needs—will no longer be as relevant.
-
-We&apos;ll want looser clusters, amenable to change at the edges. Everyone owns their tools, rather than all of us renting cloned ones.</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>The idea of an "app"—a hermetically sealed bundle of functionality built by a team trying to anticipate your needs—will no longer be as relevant.<br>
-<br>
-We'll want looser clusters, amenable to change at the edges. Everyone owns their tools, rather than all of us renting cloned ones.</p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:13:31 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879562569989628001#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879562569989628001#m</link>
-      </item>
-      <item>
-        <title>R to @geoffreylitt: Today&apos;s software ecosystem evolved around a central assumption that code is expensive, so it makes sense to centrally develop and then distribute at low marginal cost.
-
-If code becomes 100x cheaper, the choices no longer make sense! Build-buy tradeoffs often flip.</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Today's software ecosystem evolved around a central assumption that code is expensive, so it makes sense to centrally develop and then distribute at low marginal cost.<br>
-<br>
-If code becomes 100x cheaper, the choices no longer make sense! Build-buy tradeoffs often flip.</p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:11:03 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879561947299115433#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879561947299115433#m</link>
-      </item>
-      <item>
-        <title>Regular people using AI code generation in today&apos;s software world is like showing up to your rented apartment with a construction crew.
-
-We all have increasing capability, but what are we allowed to do with it?</title>
-        <dc:creator>@geoffreylitt</dc:creator>
-        <description><![CDATA[<p>Regular people using AI code generation in today's software world is like showing up to your rented apartment with a construction crew.<br>
-<br>
-We all have increasing capability, but what are we allowed to do with it?</p>]]></description>
-        <pubDate>Wed, 15 Jan 2025 16:09:12 GMT</pubDate>
-        <guid>https://x.com/geoffreylitt/status/1879561481022529667#m</guid>
-        <link>https://x.com/geoffreylitt/status/1879561481022529667#m</link>
       </item>
 
   </channel>
