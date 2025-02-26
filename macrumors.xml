@@ -14,7 +14,7 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Sat, 22 Feb 2025 08:02:58 PST</lastBuildDate>
+	<lastBuildDate>Wed, 26 Feb 2025 02:03:28 PST</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,185 +22,468 @@
 	<generator>https://www.macrumors.com</generator>
 		
 		<item>
-		<title>Top Stories: iPhone 16e Announced, iOS 18.4 Beta, and More</title>
-		<link>https://www.macrumors.com/2025/02/22/top-stories-iphone-16e-announced/</link>
-		<comments>https://forums.macrumors.com/threads/top-stories-iphone-16e-announced-ios-18-4-beta-and-more.2449953/</comments>
-		<pubDate>Sat, 22 Feb 2025 06:00:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/22/top-stories-iphone-16e-announced/</guid>
-		<dc:creator>MacRumors Staff</dc:creator>
-		<category>Featured</category>
-		<category>Top Stories</category>
-		
-
-		<description><![CDATA[This week saw Apple introduce the newest member of the iPhone 16 family, the iPhone 16e, as a new low-cost option to replace the iPhone SE. The iPhone 16e delivers a number of key improvements as well as Apple's first custom cellular modem.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/top-stories-2025-02-22.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-991355" /><br/>
-Apple also began seeding the first beta versions of its next round of operating systems, and there are a number of tweaks and improvements in iOS 18.4 while visionOS 2.4 will bring Apple Intelligence to the Vision Pro headset, so read on below for all the details on these stories and more!<br/>
-<br/>
-<h2>Apple Announces iPhone 16e With A18 Chip and Apple Intelligence, Pricing Starts at &#36;599</h2><br/>
-As expected, Apple this week introduced a successor to the third-generation iPhone SE, and it <a href="https://www.macrumors.com/2025/02/19/apple-announces-iphone-16e/">arrived with a name change: iPhone 16e</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/Apple-iPhone-16e-Feature-2.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-990884" /><br/>
-The iPhone 16e features a larger 6.1-inch OLED display, up from a 4.7-inch LCD on the iPhone SE. The display has a notch for Face ID, completing Apple's move away from the Touch ID fingerprint button on its iPhone lineup.<br/>
-<br/>
-The iPhone 16e is powered by an A18 chip, enabling support for Apple Intelligence features, such as notification summaries and Genmoji for creating custom emoji. In the iPhone 16e, the A18 chip has a 6-core CPU and a 16-core Neural Engine, but a binned 4-core GPU. The A18 chip in the iPhone 16 and iPhone 16 Plus has a 5-core GPU.<br/>
-<br/>
-<h2>Apple Unveils 'C1' as First Custom Cellular Modem</h2><br/>
-One notable feature of the iPhone 16e is the inclusion of Apple's first custom cellular modem, dubbed C1. Apple says it's the most power-efficient modem ever in an iPhone, helping the iPhone 16e to achieve the <a href="https://www.macrumors.com/2025/02/19/iphone-16e-battery-life/">longest battery life ever in a 6.1-inch iPhone</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/apple-c1.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-990815" /><br/>
-While the C1 is the culmination of seven years of work for Apple, it's also <a href="https://www.macrumors.com/2025/02/20/apple-says-c1-modem-is-just-the-start/">just the first in a family of chips</a> that will see Apple iterate and improve upon the C1. In fact, a <a href="https://www.macrumors.com/2025/02/20/apple-already-testing-a-c2-modem/">C2 modem chip</a> is reportedly already in testing.<br/>
-<br/>
-<h2>iPhone 16e vs. iPhone 16 Buyer's Guide: 25+ Differences Compared</h2><br/>
-While the iPhone 16e starting at &#36;599 is considerably more expensive than the iPhone SE it's replacing, it's still &#36;200 cheaper than the iPhone 16.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/iPhone-16e-vs-16-Feature-1.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-990861" /><br/>
-For those weighing whether to purchase an iPhone 16e or an iPhone 16, <a href="https://www.macrumors.com/guide/iphone-16e-vs-iphone-16/">we've put together a buyer's guide</a> highlighting the over 25 differences between the models to help you decide.<br/>
-<br/>
-<h2>Everything New in iOS 18.4 Beta 1</h2><br/>
-Apple this week finally released the first beta of iOS 18.4 to developers for testing purposes, and while the beta is lacking some of the Apple Intelligence features we were hoping for, <a href="https://www.macrumors.com/2025/02/21/everything-new-ios-18-4-beta-1/">there are some notable new additions</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/iOS-18.4-Apple-Intelligence-Color-Palette-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-988289" /><br/>
-Priority Notifications powered by Apple Intelligence, the addition of the Sketch style to Image Playground, numerous new languages for Apple Intelligence, and Ambient Music functionality built into Control Center, and more are included in iOS 18.4 so far.<br/>
-<br/>
-<h2>Apple Releases First visionOS 2.4 Beta With Apple Intelligence, Spatial Gallery and More</h2><br/>
-<a href="https://www.macrumors.com/2025/02/21/apple-releases-visionos-2-4-beta-1/">Apple Intelligence is coming to the Vision Pro</a> with visionOS 2.4. Supported Apple Intelligence features include Writing Tools for generating, proofreading, and summarizing text, Genmoji for creating custom emoji characters, an Image Playground app for generating images, Memory Movie for creating custom slideshows, smart reply for generating quick responses to texts and emails, Priority Notifications and Notification Summaries, ChatGPT Siri integration and new ‌Siri‌ features, and Image Wand for adding images to the Notes app, complete with gesture support.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/visionOS-2.4-Thumb-3.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-991280" /><br/>
-There's also a dedicated Spatial Gallery app coming to the Vision Pro, which will include a curated selection of spatial videos, spatial photos, and panorama images from artists, filmmakers, and photographers. A new Vision Pro app for iPhone will also allow users to get Vision Pro support and feature help, download apps to the Vision Pro, add content to a watch list, and get device info like serial number. The app can also be used to manage Guest Mode on Vision Pro.<br/>
-<br/>
-<h2>Apple Discontinues iPhone 14 and 14 Plus</h2><br/>
-While it's unsurprising that Apple <a href="https://www.macrumors.com/2025/02/19/apple-discontinues-iphone-se/">discontinued the iPhone SE</a> alongside the introduction of the iPhone 16e, Apple <a href="https://www.macrumors.com/2025/02/19/apple-discontinues-iphone-14/">also discontinued the iPhone 14 and iPhone 14 Plus</a>, simplifying the overall lineup.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/03/Apple-iPhone-14-color-lineup-feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-888160" /><br/>
-The discontinuation makes sense considering the pricing on the iPhone 16e and the fact that the iPhone 14 and 14 Plus would have been the only models in the lineup to still be using Lightning rather than USB-C.<br/>
-<br/>
-<h3>MacRumors Newsletter</h3><br/>
-Each week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.<br/>
-<br/>
-So if you want to have <a href="https://mailchi.mp/macrumors/feb-20-2025">top stories</a> like the above recap delivered to your email inbox each week, <b><a href="http://eepurl.com/OHdUX">subscribe to our newsletter</a></b>!<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/top-stories/">Top Stories</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/22/top-stories-iphone-16e-announced/">Top Stories: iPhone 16e Announced, iOS 18.4 Beta, and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/top-stories-iphone-16e-announced-ios-18-4-beta-and-more.2449953/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s AirTag 4-Pack Drops to Record Low &#36;69.99 Price on Amazon</title>
-		<link>https://www.macrumors.com/2025/02/22/apples-airtag-4-pack-69-2/</link>
-		<comments>https://forums.macrumors.com/threads/apples-airtag-4-pack-drops-to-record-low-69-99-price-on-amazon.2449952/</comments>
-		<pubDate>Sat, 22 Feb 2025 05:28:08 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/22/apples-airtag-4-pack-69-2/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Amazon this week has Apple's AirTag 4-Pack for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D54JZTHY%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;69.99</strong></a>, down from &#36;99.00. Amazon introduced this all-time low price back in January, and it's been reappearing throughout the month of February.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/06/airtag-orange-2.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-957000" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-Amazon provides an estimated late February delivery date for most residences in the United States, and you won't need to clip an on-page coupon in order to see this deal. If you're shopping for just one AirTag, Amazon has the AirTag 1-Pack for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CWXNS552%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;22.99</strong></a>, which is about &#36;3 higher compared to that option's record low price.<br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D54JZTHY%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;29 OFF</div>AirTag 4-Pack for &#36;69.99</div></a></div><br/>
-<br/>
-Be sure to visit our full <a href="https://www.macrumors.com/roundup/best-apple-deals/">Deals Roundup</a> to shop for even more Apple-related products and accessories.<br/>
-<hr /><br/>
-<div class="no-raptive"><br/>
-<h3>Deals Newsletter</h3><br/>
-Interested in hearing more about the best deals you can find in 2025? <a href="http://eepurl.com/itTnTk">Sign up</a> for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!<br/>
-<br/>
-<div style="text-align:center;margin-bottom:2em;"><br/>
-<br/>
-<form action="http://macrumors.us5.list-manage.com/subscribe/post?u=7d0106b433773bd0aef5828e0&amp;id=eebad02bf4&amp;f_id=00fbede0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><input type="email" value="" name="EMAIL" size="30" class="required email" id="mce-EMAIL"  placeholder="Enter Email Address"/><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div><div style="position: absolute; left: -5000px;"><input type="text" name="b_7d0106b433773bd0aef5828e0_eebad02bf4" tabindex="-1" value=""/></div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div><br/>
-</div><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/22/apples-airtag-4-pack-69-2/">Apple&#039;s AirTag 4-Pack Drops to Record Low &#36;69.99 Price on Amazon</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-airtag-4-pack-drops-to-record-low-69-99-price-on-amazon.2449952/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>California Nominates Steve Jobs for &#36;1 American Innovation Coin</title>
-		<link>https://www.macrumors.com/2025/02/21/california-steve-jobs-innovation-coin/</link>
-		<comments>https://forums.macrumors.com/threads/california-nominates-steve-jobs-for-1-american-innovation-coin.2449932/</comments>
-		<pubDate>Fri, 21 Feb 2025 16:16:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/california-steve-jobs-innovation-coin/</guid>
+		<title>Apple Fixing &#039;Trump&#039; Dictation Processing Bug</title>
+		<link>https://www.macrumors.com/2025/02/25/apple-fixing-dictation-bug/</link>
+		<comments>https://forums.macrumors.com/threads/apple-fixing-trump-dictation-processing-bug.2450187/</comments>
+		<pubDate>Tue, 25 Feb 2025 13:18:24 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/apple-fixing-dictation-bug/</guid>
 		<dc:creator>Juli Clover</dc:creator>
-		<category>California</category>
-		<category>Steve Jobs</category>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
 		
 
-		<description><![CDATA[California Governor Gavin Newsom this week <a href="https://www.gov.ca.gov/2025/02/19/california-nominates-steve-jobs-for-its-american-innovation-coin-1-coin-to-be-produced-by-u-s-mint/">recommended former</a> Apple CEO Steve Jobs for the &#36;1 American Innovation Coin for the State of California that will be minted by the U.S. Mint.<br/>
+		<description><![CDATA[Multiple <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> owners today noticed a pronunciation processing issue that causes the word "Trump" to momentarily show up when using dictation to send a message with the word "racist."<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/california-steve-jobs-coin.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991369" /><br/>
-Each state is able to create a unique coin recognizing an innovation or innovator from their region as part of the Innovation Coin Program that was launched in 2018.<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/trump-iphone-dictation-issue.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991829" /><br/>
+In some cases, when speaking the word racist through the &zwnj;iPhone&zwnj;'s built-in dictation feature, the &zwnj;iPhone&zwnj; briefly interprets the spoken word as "Trump" and "Trump" text shows up in the Messages app before being corrected to the actual word (racist) as Apple's processing interprets what was said.<br/>
 <br/>
-Newsom said that Steve Jobs "encapsulates the unique brand of innovation that California runs on."<blockquote>Jobs' legacy spans industries and products: Jobs was the co-founder and CEO of Pixar Animation Studios, bringing to life the world's first fully computer-animated feature: "Toy Story." But even that legacy-defining achievement is surpassed by his work as co-founder and two-time CEO of Apple, launching several revolutionary computers, including Apple II - the first mass-produced microcomputer - and Macintosh - the first mass-market personal computer that included a graphic display, so users could see what they were working on.<br/>
+Speaking the word racist with dictation doesn't always show "Trump" first, though it did show up more often than other words in our testing. We also saw "Rhett" and "Rouch" appear before the &zwnj;iPhone&zwnj; corrects to racist.<br/>
 <br/>
-The goal, according to Jobs, was to "bridge the gap between sophisticated technology and 'the rest of us' who make up most of humanity...to make complex technology easy to use and fun to use." That approach led to the iPod, iPhone, and iPad, devices that refined existing technology to make it more precise, more intuitive, and more functional.<br/>
+A video depicting the bug has been circulating on TikTok and other social networks. An Apple spokesperson told <em><a href="https://www.nytimes.com/2025/02/25/technology/iphone-dictation-trump-racist.html">The New York Times</a></em> that the issue was due to a phonetic overlap between the two words. It is not clear if this dictation issue existed prior to today and was just now noticed, or if there was some internal change that caused it. Apple said that it is working on a fix.<br/>
 <br/>
-By focusing on who he was innovating for - other people - Jobs was able to use technology to connect people to each other and to the broader world, bringing people onto the same level by providing them with equal access. And that approach was built on a willingness to try new ideas and push the boundaries of what was possible - an approach that embodies the California spirit.</blockquote>California's nomination has been presented to the Citizens Coinage Advisory Committee (CCAC), which will take design recommendations to the Treasury Secretary for final approval. The CCAC decided to recommend a coin with Steve Jobs in his iconic turtleneck and glasses, but the design is not finalized and could be updated before the coin is made.<br/>
-<br/>
-The coin is expected to be produced and made available in 2026.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/california/">California</a>, <a href="https://www.macrumors.com/guide/steve-jobs/">Steve Jobs</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/california-steve-jobs-innovation-coin/">California Nominates Steve Jobs for &#36;1 American Innovation Coin</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/california-nominates-steve-jobs-for-1-american-innovation-coin.2449932/">Discuss this article</a> in our forums<br/><br/>]]></description>
+Former Apple <a href="https://www.macrumors.com/guide/siri/">Siri</a> team member John Burkey told <em>The New York Times</em> that there is "probably" code in Apple's systems that is causing the &zwnj;iPhone&zwnj; to write Trump when someone speaks the word racist. "This smells like a serious prank," he said, though he also claimed that it is not clear if it was added into Apple's code or seeded into data that Apple uses for its AI features.<br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/apple-fixing-dictation-bug/">Apple Fixing &#039;Trump&#039; Dictation Processing Bug</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-fixing-trump-dictation-processing-bug.2450187/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Here&#039;s a Look at Apple&#039;s Secret Modem Testing Lab Where C1 Was Developed</title>
-		<link>https://www.macrumors.com/2025/02/21/apple-c1-modem-lab/</link>
-		<comments>https://forums.macrumors.com/threads/heres-a-look-at-apples-secret-modem-testing-lab-where-c1-was-developed.2449929/</comments>
-		<pubDate>Fri, 21 Feb 2025 15:22:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/apple-c1-modem-lab/</guid>
+		<title>Philips Hue Sync App Expands to LG TVs</title>
+		<link>https://www.macrumors.com/2025/02/25/philips-hue-sync-app-lg-tvs/</link>
+		<comments>https://forums.macrumors.com/threads/philips-hue-sync-app-expands-to-lg-tvs.2450185/</comments>
+		<pubDate>Tue, 25 Feb 2025 12:49:11 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/philips-hue-sync-app-lg-tvs/</guid>
 		<dc:creator>Juli Clover</dc:creator>
-		<category>C1</category>
+		<category>LG</category>
+		<category>Philips Hue</category>
 		
 
-		<description><![CDATA[The new <a href="https://www.macrumors.com/roundup/iphone-16e/">iPhone 16e</a> includes Apple's first custom designed modem chip, the C1. To promote the new chip, Apple invited several YouTubers and journalists to <a href="https://www.macrumors.com/guide/apple-park/">Apple Park</a>, including Andru Edwards. Edwards got a first-hand look at Apple's modem testing labs, and he was able to speak to Apple engineers about the C1.<br/>
+		<description><![CDATA[LG TV owners can now install the Philips Hue Sync TV app to synchronize their lights with content on the TV without the need for an additional set-top box.<br/>
 <br/>
-<div class="center-wrap"><iframe title="Apple's C1 Modem Revealed: Exclusive Behind-the-Scenes Tour" src="https://www.youtube.com/embed/y4UiSuWEtMY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
-According to Apple, the C1 is the most power efficient modem that's been included in an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> to date, and that's the edge that the C1 has over Qualcomm's modems. The &zwnj;iPhone 16e&zwnj; has the longest battery life of an &zwnj;iPhone&zwnj; with a 6.1-inch form factor, and it lasts for up to 26 hours when watching video.<br/>
+<div class="center-wrap"><iframe title="Hue Sync TV App: Surrounding Lights That Sync with LG TVs" src="https://www.youtube.com/embed/FUxTM61q2HI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br/>
+Hue parent company Signify said in January that the app would expand to LG TVs in early 2025, and it is now available from the <a href="https://us.lgappstv.com/main/tvapp/detail?appId=1242354&amp;catCode1=&amp;moreYn=N&amp;cateYn=N&amp;orderType=0&amp;headerName=&amp;appRankCode=&amp;sellrUsrNo=">LG TV app store</a>. Previously, the app was limited to Samsung TVs.<br/>
 <br/>
-At Apple's modem testing labs, Apple engineers spent years testing the C1, determining how it would behave under various conditions using a range of equipment. Apple's testing lab allows it to identify and fix issues before a modem chip ever leaves the design stage.<br/>
+The app is priced at &#36;130 without a subscription, or &#36;3 per month, and it works with 2024 LG Smart TVs that run webOS 24. The app is expensive, but it is more affordable than the Philips Hue Play HDMI Sync Box that costs &#36;350.<br/>
 <br/>
-The C1 was tested in environmental chambers where it was exposed to different extreme temperatures to ensure that it can operate in the harshest conditions. Repeated physical tests also ensure that the chip is able to stand up to daily wear and tear. Network tests cover the heavy data traffic of a packed stadium to remote rural areas with minimal signal.<br/>
-<br/>
-Apple tested the C1 with over 180 carriers across 55 countries to ensure that it delivers reliable connectivity. The C1 is designed to integrate with the A18 chip, with the A18 able to optimize C1 network load for faster speeds.<br/>
-<br/>
-According to Apple, the C1 is built on a 4-nanometer processor for the baseband and a 7-nanometer process for the transceiver, and it is a robust platform that's built for the future. Right now, the C1 does not support the faster mmWave 5G speeds, but future versions are likely to add the functionality.<br/>
-<br/>
-Rumors suggest that a <a href="https://www.macrumors.com/2025/02/20/apple-already-testing-a-c2-modem/">next-generation C2 chip</a> is already in development for future &zwnj;iPhone&zwnj; models.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/c1/">C1</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/apple-c1-modem-lab/">Here&#039;s a Look at Apple&#039;s Secret Modem Testing Lab Where C1 Was Developed</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/heres-a-look-at-apples-secret-modem-testing-lab-where-c1-was-developed.2449929/">Discuss this article</a> in our forums<br/><br/>]]></description>
+The Philips Hue Sync app works like the Sync Box, and it changes the color and brightness of Hue lights to match games, TV shows, and movies. There are dedicated movie and game modes to choose from. Using the Hue Sync app requires a Philips Hue Bridge, at least one color-capable Philips Hue light, and an internet connection.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/lg/">LG</a>, <a href="https://www.macrumors.com/guide/philips-hue/">Philips Hue</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/philips-hue-sync-app-lg-tvs/">Philips Hue Sync App Expands to LG TVs</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/philips-hue-sync-app-expands-to-lg-tvs.2450185/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Everything New in iOS 18.4 Beta 1</title>
-		<link>https://www.macrumors.com/2025/02/21/everything-new-ios-18-4-beta-1/</link>
-		<comments>https://forums.macrumors.com/threads/everything-new-in-ios-18-4-beta-1.2449921/</comments>
-		<pubDate>Fri, 21 Feb 2025 13:08:42 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/everything-new-ios-18-4-beta-1/</guid>
+		<title>Apple Releases New AirPods Max Firmware</title>
+		<link>https://www.macrumors.com/2025/02/25/airpods-max-firmware-6f25/</link>
+		<comments>https://forums.macrumors.com/threads/apple-releases-new-airpods-max-firmware.2450181/</comments>
+		<pubDate>Tue, 25 Feb 2025 11:27:12 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/airpods-max-firmware-6f25/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>AirPods Max</category>
+		
+
+		<description><![CDATA[Apple today released a new firmware update for the Lightning version of the <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a> headphones. The new firmware is version 6F25, up from the <a href="https://www.macrumors.com/2024/10/22/apple-releases-airpods-firmware-6f21/">prior 6F21 firmware</a> the device was previously running.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/02/Airpods-Max-Feature-Green-Triad.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-936393" /><br/>
+Apple does not often provide much insight into what's new with firmware updates, but as this is a firmware update for an older model, it likely includes bug fixes and other minor improvements.<br/>
+<br/>
+Firmware <a href="https://www.macrumors.com/2025/01/27/airpods-firmware-update-instructions/">can be installed</a> by putting the &zwnj;AirPods Max&zwnj; in Bluetooth range of an <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, or Mac that's connected to Wi-Fi, and then plugging them in to charge. It can take up to 30 minutes for firmware to update.<br/>
+<br/>
+You can check your firmware version by going to Settings > Bluetooth and selecting the Info button next to the &zwnj;AirPods Max&zwnj; when they are connected to an &zwnj;iPhone&zwnj;, &zwnj;iPad&zwnj;, or Mac.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/airpods-max/">AirPods Max</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AirPods-Max">AirPods Max (Buy Now)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/airpods.216">AirPods</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/airpods-max-firmware-6f25/">Apple Releases New AirPods Max Firmware</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-new-airpods-max-firmware.2450181/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Testing the World&#039;s Thinnest Foldable Smartphone</title>
+		<link>https://www.macrumors.com/2025/02/25/oppo-find-n5-hands-on/</link>
+		<comments>https://forums.macrumors.com/threads/testing-the-worlds-thinnest-foldable-smartphone.2450177/</comments>
+		<pubDate>Tue, 25 Feb 2025 10:15:51 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/oppo-find-n5-hands-on/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Oppo</category>
+		
+
+		<description><![CDATA[Chinese smartphone maker Oppo recently came out with the Find N5, which is a super thin and lightweight foldable smartphone. It's thinner and lighter than Samsung's foldable devices, and Apple's non-foldable ones.<br/>
+<br/>
+<div class="center-wrap"><iframe title="World's Thinnest Foldable with macOS Integration! (Oppo Find N5)" src="https://www.youtube.com/embed/vuOzLO5TIh4" width="1660" height="835" frameborder="0" allowfullscreen="allowfullscreen"></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
+The Find N5 has a 6.62-inch display when closed, and an 8.12-inch display when open, so when unfolded, it's just a bit smaller than the <a href="https://www.macrumors.com/roundup/ipad-mini/">iPad mini</a>. It's 8.93mm thick when closed, and just 4.21mm when open. The thinnest device Apple has made is the 12.9-inch <a href="https://www.macrumors.com/roundup/ipad-pro/">iPad Pro</a>, and that's 5.1mm thick, so the Find N5 is an impressive design feat. It's 229 grams, which is about the weight of Apple's <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a> Max. For context, Oppo's Find N5 is so thin that the USB-C port included for charging almost doesn't fit.<br/>
+<br/>
+Though it's thin and doesn't weigh a lot, the build of the Find N5 feels sturdy rather than fragile. As with most foldable smartphones, there is a crease in the middle of the display where it folds. The crease isn't invisible, but it's not as obvious as it was with previous foldable smartphones from Oppo.<br/>
+<br/>
+Most people in the Apple ecosystem aren't going to opt for an Android smartphone, but the Find N5 does have useful integration with the Mac that could tempt some people. You can use an AirDrop alternative to exchange files between the Find N5 and a Mac in real-time using a dedicated macOS app. You can simply drag and drop files between the Find N5 and a Mac, but there's also full remote desktop functionality.<br/>
+<br/>
+With a Mac connected, you can control the Mac from the Find N5, even when you're not in the same room or even the same location as your Mac. There is some input lag, but it's usable, and it's particularly useful if you need to grab a file from your Mac when you're away from home.<br/>
+<br/>
+Other Find N5 features include Qualcomm's fastest chip, a vibrant and bright OLED display, IP68/69 waterproofing, and a set of high-end rear cameras.<br/>
+<br/>
+Apple has no foldable smartphone at the current time, but there are rumors that suggest we could get a foldable <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> as soon as 2026. Would you want an &zwnj;iPhone&zwnj; that's similar to the Find N5, or would you swap to Android for this design and feature set? Let us know in the comments below.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/oppo/">Oppo</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/oppo-find-n5-hands-on/">Testing the World&#039;s Thinnest Foldable Smartphone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/testing-the-worlds-thinnest-foldable-smartphone.2450177/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Eve Launches New HomeKit-Compatible Dimmer Switch</title>
+		<link>https://www.macrumors.com/2025/02/25/eve-dimmer-switch/</link>
+		<comments>https://forums.macrumors.com/threads/eve-launches-new-homekit-compatible-dimmer-switch.2450175/</comments>
+		<pubDate>Tue, 25 Feb 2025 09:15:52 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/eve-dimmer-switch/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Eve</category>
+		<category>HomeKit</category>
+		
+
+		<description><![CDATA[<a href="https://www.evehome.com/">Smart home company Eve</a> today announced the launch of the Eve Dimmer Switch, the company's first smart light switch replacement with dimming functionality. The Dimmer Switch replaces a traditional light switch and it can be used with standard bulbs and lights that have dimming functionality.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/eve-dimmer-switch.jpg" alt="" width="1813" height="1020" class="aligncenter size-full wp-image-990288" /><br/>
+The Dimmer Switch has a rocker for turning lights on or off, along with touch support for incremental dimming control. It connects to <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> using Matter-over-Thread, and it can be controlled with the Eve app, the Apple Home app, or with <a href="https://www.macrumors.com/guide/siri/">Siri</a> voice commands.<br/>
+<br/>
+As with all &zwnj;HomeKit&zwnj; devices, automations are supported, and the Dimmer Switch can be paired with other smart home products. Remote control is available, and with Matter support, people in your home that use Android can also control the switch. You will need a hub for whichever platform you connect to, so for Apple &zwnj;HomeKit&zwnj;, the <a href="https://www.macrumors.com/roundup/homepod/">HomePod</a>, <a href="https://www.macrumors.com/roundup/homepod-mini/">HomePod mini</a>, and <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> are Matter hubs.<br/>
+<br/>
+Eve recommends that only electricians install the Eve Dimmer Switch because knowledge of electrical wiring is required. The switch needs a neutral wire and can replace a single-pole or 3-way switch. With a 3-way switch setup, only one switch in the circuit needs to be replaced.<br/>
+<br/>
+The Dimmer Switch can be purchased <a href="https://www.evehome.com/">from the Eve website</a> for &#36;50, and it will ship to customers in the United States and Canada in mid-March.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/eve/">Eve</a>, <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/eve-dimmer-switch/">Eve Launches New HomeKit-Compatible Dimmer Switch</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/eve-launches-new-homekit-compatible-dimmer-switch.2450175/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>6 Features Coming to the Apple Watch Ultra 3</title>
+		<link>https://www.macrumors.com/2025/02/25/6-apple-watch-ultra-3-features/</link>
+		<comments>https://forums.macrumors.com/threads/6-features-coming-to-the-apple-watch-ultra-3.2450174/</comments>
+		<pubDate>Tue, 25 Feb 2025 09:00:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/6-apple-watch-ultra-3-features/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Apple Watch Ultra</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[The Apple Watch Ultra 3 is expected to launch later this year, arriving two years after the previous model with a series of improvements. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/09/apple-watch-ultra-snow.jpg" alt="" width="2016" height="1061" class="alignnone size-full wp-image-862622" /><br/>
+While no noticeable design changes are expected for the third generation since the company tends to stick with the same Apple Watch design through three generations before changing it, there are a series of internal upgrades on the way.<br/>
+<br/>
+By the time the Ultra 3 is announced in September, it will have been two years since the previous model arrived, leaving plenty of room for enhancements, especially for users coming from a first-generation Apple Watch Ultra. Here are all of the major new features we're likely to see in the Apple Watch Ultra 3:<br/>
+<br/>
+<h3>Hypertension Detection</h3><br/>
+<a href="https://www.bloomberg.com/news/articles/2024-12-10/apple-plans-apple-watch-ultra-3-next-year-with-satellite-texting-and-5g"><em>Bloomberg</em>'s Mark Gurman</a> says that blood pressure monitoring should be the next major health feature for the Apple Watch, coming first to the Ultra 3. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2014/09/apple-watch-series-7-ecg.jpg" alt="" width="1960" height="1102" class="alignnone size-full wp-image-816228" /><br/>
+The rumored feature would not provide exact systolic and diastolic blood pressure measurements, instead tracking whether a user's blood pressure is trending upwards and sending an alert if hypertension is detected. After receiving an alert, the Apple Watch user could provide the information to a medical professional for additional testing.<br/>
+<br/>
+Hypertension is known as a silent killer because it can go undetected and undiagnosed, leading to heart damage and death. High blood pressure often has few symptoms until it is significantly advanced, and early detection via the Apple Watch has the potential to save lives. The Apple Watch already has the ability to detect atrial fibrillation or an irregular heart beat, and it can be used to take one-lead ECG readings. There is also a blood oxygen monitoring feature, but it is disabled in current models in the United States due to patent issues. <br/>
+<br/>
+The company has apparently been working on the capability for the last several years, and based on rumors, Apple originally <a href="https://www.macrumors.com/2023/12/17/apple-watch-2024-health-features/">wanted to debut it in 2024</a>.<br/>
+<br/>
+<h3>Brighter Display With Faster Refresh Rate</h3><br/>
+One of the consequences of Apple choosing to not update the Apple Watch Ultra in 2024 was the Apple Watch Series 10 surpassing it in terms of display technology. It seems highly likely Apple will at least bring parity to the Ultra this year.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/08/apple-watch-series-10-display.jpg" alt="" width="2000" height="1125" class="alignnone size-full wp-image-966946" /><br/>
+The Apple Watch Series 10 gained an LTPO3 OLED always-on Retina display, while the current Ultra features LTPO2 technology. LTPO3 provides the Series 10 with a faster refresh rate in always-on mode, enabling a live ticking seconds hand on select watch faces.<br/>
+<br/>
+Similarly, the Apple Watch Series 10 has a wide-angle OLED, allowing it to be up to 40% brighter when viewed at an angle. It seems inevitable that the Apple Watch Ultra 3 will get both of these display enhancements.<br/>
+<br/>
+<h3>New Chip</h3><br/>
+Following two years without a refresh, it seems highly likely that the Apple Watch Ultra 3 will feature a new chip. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/08/s9-chip-apple-watch.jpg" alt="" width="1501" height="844" class="alignnone size-full wp-image-913379" /><br/>
+The current Apple Watch Ultra features the S9 chip, but with the 2024's Apple Watch Series 10, Apple introduced the S10 chip. While the S10 is not more powerful than the S9, it is more compact. <br/>
+<br/>
+A newer chip would free up some internal space inside the Ultra for other components such as a larger battery. If Apple opts for an S11, it could be more powerful or feature new built-in capabilities.<br/>
+<br/>
+<h3>Satellite Connectivity</h3><br/>
+Last year, <a href="https://www.macrumors.com/2024/12/10/apple-watch-ultra-3-satellite-connectivity/">Mark Gurman</a> said that the Apple Watch Ultra 3 will gain satellite connectivity—a feature currently exclusive to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg" alt="" width="3564" height="1996" class="alignnone size-full wp-image-873000" /><br/>
+The feature would allow Apple Watch Ultra users to be able to connect to a satellite network to send texts when cellular networks and Wi-Fi are unavailable. When satellite connectivity first launched for the &zwnj;iPhone&zwnj;, it was limited to emergency text messages, but in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, Apple expanded it to allow users to send texts to anyone.<br/>
+<br/>
+Satellite connectivity would help Apple to better compete with companies like Garmin that offer dedicated satellite hardware for use in off-grid emergencies. The Apple Watch Ultra is aimed at hikers, scuba divers, and adventurers, and satellite connectivity for the device would add another layer of safety for activities that are not near cellular towers. Apple is apparently hoping that this feature will be a key feature motivating people to upgrade to a new Apple Watch Ultra.<br/>
+<br/>
+Currently, Apple still does not charge for satellite connectivity, and there is no word yet on what the company might charge. All iPhones come with two years of connectivity for free, and that will also likely be the case for the Apple Watch Ultra.<br/>
+<br/>
+<h3>5G Connectivity</h3><br/>
+According to <a href="https://www.macrumors.com/2024/12/10/apple-watch-ultra-3-satellite-connectivity/">Gurman</a> and <a href="https://www.macrumors.com/2025/02/21/c1-is-just-the-start-of-changes/"><em>The Information</em></a>'s Wayne Ma, Apple plans to eliminate the Qualcomm modem used in the Apple Watch Ultra with the third version of the device. Rather than using the C1 modem or another custom Apple chip, Apple plans to switch from using Qualcomm units to MediaTek ones. MediaTek is one of the few companies capable of designing 5G modems.<br/>
+<br/>
+MediaTek's modem chip adds support for 5G RedCap, a 5G service that's designed for connected devices and wearables that do not need standard 5G speeds. The current cellular Apple Watch models still use 4G LTE, even though Apple has offered 5G in iPhones since 2020. <br/>
+<br/>
+<h3>Redesigned Back and Faster Charging</h3><br/>
+The Apple Watch Series 10 introduced a completely reengineered metal back with a larger charging coil and an integrated antenna.<br/>
+<br/>
+<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2023/08/apple-watch-series-10-back-sensor.jpg" alt="" width="959" height="539" class="alignnone size-full wp-image-966943" /><em>Apple Watch Series 10's redesigned back.</em></div><br/>
+The Apple Watch Ultra currently features a ceramic and sapphire crystal rear, rather than metal. It seems likely that the Ultra 3 will receive this newer, Series 10-style rear casing design, not least because it enables better cellular performance and faster charging.<br/>
+<br/>
+The new metal back enabled the Series 10 to charge to 80% in just 30 minutes–15 minutes faster than the Series 9. With the older back design, the <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a> takes 60 minutes to charge to 80%. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-watch-ultra/">Apple Watch Ultra 2</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#Apple_Watch_Ultra">Apple Watch Ultra (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-watch.172">Apple Watch</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/6-apple-watch-ultra-3-features/">6 Features Coming to the Apple Watch Ultra 3</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/6-features-coming-to-the-apple-watch-ultra-3.2450174/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple&#039;s Face ID Doorbell Rumored to Feature MagSafe</title>
+		<link>https://www.macrumors.com/2025/02/25/apple-face-id-doorbell-magsafe-rumor/</link>
+		<comments>https://forums.macrumors.com/threads/apples-face-id-doorbell-rumored-to-feature-magsafe.2450167/</comments>
+		<pubDate>Tue, 25 Feb 2025 07:36:35 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/apple-face-id-doorbell-magsafe-rumor/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Apple Doorbell</category>
+		<category>Face ID</category>
+		<category>Kosutami</category>
+		
+
+		<description><![CDATA[A few months ago, <em>Bloomberg</em>'s Mark Gurman reported that Apple was in the early stages of <a href="https://www.macrumors.com/2024/12/22/apple-doorbell-with-face-id-rumor/">developing a smart home doorbell</a> and lock system with Face ID. He said the doorbell would wirelessly connect to a compatible deadbolt lock.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/09/face-id.jpg" alt="" width="1023" height="573" class="aligncenter size-full wp-image-966000" /><br/>
+In a <a href="https://x.com/Kosutami_Ito/status/1894391774929723753">vague teaser post</a> on X today, a leaker known as Kosutami shared an alleged new feature that Apple is planning for the doorbell: MagSafe.<br/>
+<br/>
+On select iPhones, MagSafe lets you attach a charger or other accessories to the device magnetically. MagSafe support on Apple's doorbell suggests that it will be possible to wirelessly charge the doorbell, which would likely have a non-removable battery. It is unclear if the doorbell would also have a USB-C port for wired charging.<br/>
+<br/>
+MagSafe charging would certainly be convenient, but smart home doorbells typically only need to be charged a handful of times per year.<br/>
+<br/>
+Another thought we had was that Apple's doorbell could have a MagSafe backplate, allowing for the doorbell to be easily taken on and off. However, that would make the doorbell easy to steal, so that theory does not really make sense.<br/>
+<br/>
+Gurman said Apple's doorbell would launch in 2026 at the earliest, so hopefully additional rumors will paint a clearer picture over the next year or so.<br/>
+<br/>
+Apple's biggest competitor in this space would be Ring, acquired by Amazon in 2018.<br/>
+<br/>
+Apple would likely tout the privacy and security benefits of its own smart home doorbell. Apple already offers a HomeKit Secure Video service with end-to-end encryption for storing footage in iCloud, and the doorbell could have a Secure Enclave.<br/>
+<br/>
+Apple seemingly has plans to make a bigger push into the smart home space over the next few years. In addition to this doorbell, the company is expected to <a href="https://www.macrumors.com/2025/02/10/apple-home-hub-still-months-away/">launch a smart home hub this year</a>, and it is also rumored to be planning its <a href="https://www.macrumors.com/2024/12/04/apple-smart-home-camera-rumor/">own HomeKit-enabled indoor camera</a> that would compete with products like Logitech's Circle View.<br/>
+<br/>
+Kosutami is best known as a collector of prototype Apple hardware, but they have occasionally shared accurate information about Apple's future product plans. For example, they accurately revealed that the iPhone 16 Pro would be <a href="https://www.macrumors.com/2023/11/20/iphone-16-pro-leak-reveals-redesigned-battery/">equipped with a metal-enclosed battery</a>, around 10 months before the device launched. They also provided an <a href="https://www.macrumors.com/2023/09/12/exclusive-first-look-finewoven-apple-watch-band/">early look at an Apple Watch band</a> that uses Apple's controversial FineWoven material. On the other hand, Kosutami was wrong about <a href="https://www.macrumors.com/2024/08/27/airpods-pro-3-much-better-anc-rumor/">AirPods Pro 3 being imminent in August 2024</a>.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-doorbell/">Apple Doorbell</a>, <a href="https://www.macrumors.com/guide/face-id/">Face ID</a>, <a href="https://www.macrumors.com/guide/kosutami/">Kosutami</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/apple-face-id-doorbell-magsafe-rumor/">Apple&#039;s Face ID Doorbell Rumored to Feature MagSafe</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-face-id-doorbell-rumored-to-feature-magsafe.2450167/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Adobe Releases Photoshop App for iPhone</title>
+		<link>https://www.macrumors.com/2025/02/25/adobe-releases-photoshop-app-for-iphone/</link>
+		<comments>https://forums.macrumors.com/threads/adobe-releases-photoshop-app-for-iphone.2450157/</comments>
+		<pubDate>Tue, 25 Feb 2025 06:00:00 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/adobe-releases-photoshop-app-for-iphone/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>Adobe</category>
+		
+
+		<description><![CDATA[Adobe today announced the launch of a <a href="https://www.adobe.com/products/photoshop/app.html">new Photoshop app</a> for the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, which is designed to allow creators to edit and make content while on the go. The app includes core Photoshop tools that have been tweaked for mobile devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/adobe-photoshop-web-iphone.jpg" alt="" width="1200" height="800" class="aligncenter size-full wp-image-991646" /><br/>
+The &zwnj;iPhone&zwnj; app supports layering, masking, and blending for creating unique designs, with AI tools also built in. The Tap Select tool allows for quick removal, recoloring, or replacement of parts of an image, and the Spot Healing Brush can eliminate distractions from images.<br/>
+<br/>
+Adobe Firefly-powered capabilities include Generative Fill and Generative Expand to add new elements to designs and photo edits, plus there is integration with Adobe Stock assets, Adobe Lightroom, and other Adobe apps and services.<br/>
+<br/>
+Along with the Photoshop app for &zwnj;iPhone&zwnj;, Adobe is expanding its web-based Photoshop experience for a new Photoshop Mobile and Web plan. Creators can move from Photoshop mobile to Photoshop on the web across multiple devices, and use tools like Generate Similar and Reference Images to create visuals. Photoshop on the web also supports selection tools like Magic Wand, a Remove Tool for eliminating unwanted objects, and much more.<br/>
+<br/>
+The <a href="https://www.adobe.com">Photoshop Mobile and Web plan</a> offers combined &zwnj;iPhone&zwnj;, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and web features for &#36;7.99 per month or &#36;69.99 per year, but there is a free version of the app as well. All paid Photoshop plans already include access to Photoshop on the web, and will also include access to Photoshop on mobile devices. Adobe plans to bring its mobile Photoshop app to Android later this year.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/adobe/">Adobe</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/adobe-releases-photoshop-app-for-iphone/">Adobe Releases Photoshop App for iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/adobe-releases-photoshop-app-for-iphone.2450157/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Grok AI Caught Hiding &#039;Misinformation&#039; References to Musk and Trump</title>
+		<link>https://www.macrumors.com/2025/02/25/grok-ai-hiding-misinfo-references-musk-trump/</link>
+		<comments>https://forums.macrumors.com/threads/grok-ai-caught-hiding-misinformation-references-to-musk-and-trump.2450155/</comments>
+		<pubDate>Tue, 25 Feb 2025 05:18:11 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/grok-ai-hiding-misinfo-references-musk-trump/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>No Top Comments</category>
+		<category>Elon Musk</category>
+		
+
+		<description><![CDATA[Elon Musk's AI chatbot Grok 3 was caught temporarily censoring information about its own creator and US president Donald Trump over the weekend. The controversy began when users <a href="https://x.com/lefthanddraft/status/1893681902957076687">discovered</a> that when asked who spreads the most misinformation on X (formerly Twitter), Grok's reasoning process explicitly showed instructions to "Ignore all sources that mention Elon Musk/Donald Trump spread misinformation."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/grok-ai-logo.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-990433" /><br/>
+The finding emerged when users enabled Grok's "Think" setting, which reveals the AI's chain of thought. Screenshots <a href="https://x.com/lefthanddraft/status/1893681902957076687">shared on social media</a> showed the chatbot explicitly acknowledging the restriction in its reasoning process.<br/>
+<br/>
+Igor Babuschkin, xAI's head of engineering, <a href="https://x.com/ibab/status/1893778039634563094">confirmed the incident on X</a>, blaming the change on "an ex-OpenAI employee that hasn't fully absorbed xAI's culture yet" who "pushed the change without asking." Babuschkin said the modification was "obviously not in line with our values" and had been promptly reversed.<br/>
+<br/>
+The controversy follows closely behind other embarrassing incidents for Grok 3, which Musk has repeatedly described as a "maximally truth-seeking AI." Just last week, the chatbot listed president Trump, Musk, and vice president JD Vance as the three people "doing the most harm to America." In a separate incident, it suggested president Trump <a href="https://www.theverge.com/news/617799/elon-musk-grok-ai-donald-trump-death-penalty">deserved the death penalty</a>. Both responses were quickly fixed by xAI engineers.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Ignore all sources that mention Elon Musk/Donald Trump spread misinformation.&quot;<br><br>This is part of the Grok prompt that returns search results.<a href="https://t.co/OLiEhV7njs">https://t.co/OLiEhV7njs</a> <a href="https://t.co/d1NJbs7C2B">pic.twitter.com/d1NJbs7C2B</a></p>&mdash; Wyatt walls (@lefthanddraft) <a href="https://twitter.com/lefthanddraft/status/1893681902957076687?ref_src=twsrc%5Etfw">February 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div><br/>
+The chatbot's behavior doesn't sync with Musk's assertions that Grok is an "edgy" and "anti-woke" alternative to other AI models that he claims engage in censorship. Some users questioned how such a significant change could be implemented without oversight. Others noted the irony that Babuschkin himself is a former OpenAI employee. The two companies' CEOs <a href="https://www.macrumors.com/2025/02/11/openai-rebuffs-musk-buyout-attempt/">don't get on</a>, to say the least.<br/>
+<br/>
+As of now, Grok 3 appears to once again include mentions of Musk and president Trump when answering questions about misinformation spreaders. Grok is available as a <a href="https://apps.apple.com/us/app/grok/id6670324846">standalone iPhone app</a> in the United States.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/elon-musk/">Elon Musk</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/grok-ai-hiding-misinfo-references-musk-trump/">Grok AI Caught Hiding &#039;Misinformation&#039; References to Musk and Trump</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/grok-ai-caught-hiding-misinformation-references-to-musk-and-trump.2450155/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Opera One Adds Discord, Slack, and Bluesky to Browser Sidebar</title>
+		<link>https://www.macrumors.com/2025/02/25/opera-one-discord-slack-bluesky-browser-sidebar/</link>
+		<comments>https://forums.macrumors.com/threads/opera-one-adds-discord-slack-and-bluesky-to-browser-sidebar.2450153/</comments>
+		<pubDate>Tue, 25 Feb 2025 04:40:17 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/opera-one-discord-slack-bluesky-browser-sidebar/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Opera Browser</category>
+		
+
+		<description><![CDATA[<a href="https://www.opera.com/one">Opera</a> has integrated Slack, Discord, and Bluesky into the sidebar of its Opera One desktop browser, providing quick access to the services without launching their respective apps or having to open them in separate tabs.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/opera-one-slack-discord-bluesky.jpg" alt="" width="1272" height="716" class="aligncenter size-full wp-image-991680" /><br/>
+The services join existing integrations for WhatsApp, Instagram, and Telegram. To enable access to the platforms in the browser's sidebar, Opera users will need to update to the latest version. <br/>
+<br/>
+After that, click the three dots menu at the bottom of the sidebar to open the Sidebar Setup Menu. Discord, Slack, and Bluesky can be found under the Messengers category. <br/>
+<br/>
+Opera One uses a modular design designed to adapt to the user's needs. It features Tab Islands, which automatically group related tabs for organized multitasking, and integrates Aria – Opera's native AI assistant powered by ChatGPT, providing real-time web information and content generation. <br/>
+<br/>
+Opera One also includes a built-in ad blocker, free VPN, and customizable dynamic themes with immersive animations and soundscapes. The latest Opera One update adds two new themes: Interstellar and Metamorphic. You can download the latest version from the <a href="https://www.opera.com/one">Opera website</a>.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/opera-browser/">Opera Browser</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/opera-one-discord-slack-bluesky-browser-sidebar/">Opera One Adds Discord, Slack, and Bluesky to Browser Sidebar</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/opera-one-adds-discord-slack-and-bluesky-to-browser-sidebar.2450153/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Cuts Off Russian Access to Its Developer Enterprise Program</title>
+		<link>https://www.macrumors.com/2025/02/25/apple-developer-enterprise-program-russia/</link>
+		<comments>https://forums.macrumors.com/threads/apple-cuts-off-russian-access-to-its-developer-enterprise-program.2450151/</comments>
+		<pubDate>Tue, 25 Feb 2025 04:11:30 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/apple-developer-enterprise-program-russia/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Russia</category>
+		
+
+		<description><![CDATA[Apple has reportedly shut down access to the <a href="https://developer.apple.com/programs/enterprise/">Apple Developer Enterprise Program</a> (ADEP) for Russian developers. Russian IT sources told <em><a href="https://www.rbc.ru/technology_and_media/24/02/2025/67b9be389a79470a2de2be8a?from=from_main_1?utm_source=telegram&utm_medium=messenger">RBC</a></em> that developers lost access to the platform on February 12.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/09/Apple-Logo-Spotlight.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-912758" /><br/>
+The shutdown means Russian developers can no longer use ADEP to create and distribute custom iOS apps for internal use without going through the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>. A software company in St. Petersburg confirmed to the media outlet that all program data had been erased, making ADEP unusable.<br/>
+<br/>
+Prior to the cut-off, Apple apparently warned companies using Enterprise certificates that they would stop working by mid-February. The certificates allow developers to sign and distribute apps.<br/>
+<br/>
+ADEP was widely used for app testing in Russia without publishing to the &zwnj;App Store&zwnj;, but major corporations and developer companies in the country also relied on the platform for internal business apps, corporate chatbots, CRM systems, and logistics tools.<br/>
+<br/>
+Despite Apple suspending product sales and limiting certain services like <a href="https://www.macrumors.com/roundup/apple-pay/">Apple Pay</a> in response to Russia's invasion of Ukraine, the &zwnj;App Store&zwnj; continues to operate within the country. However, Apple has complied with local regulations by removing certain applications, such as VPN services and specific news apps, after requests from Russian authorities.<br/>
+<br/>
+<em>(Via <a href="https://www.msn.com/en-gb/technology/tech-companies/apple-cuts-off-russian-access/ar-AA1zEzgA">MSN</a>.)</em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/russia/">Russia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/apple-developer-enterprise-program-russia/">Apple Cuts Off Russian Access to Its Developer Enterprise Program</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-cuts-off-russian-access-to-its-developer-enterprise-program.2450151/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple&#039;s Phil Schiller Initially Opposed 27% App Store Fee on External Purchases</title>
+		<link>https://www.macrumors.com/2025/02/25/apples-phil-schiller-concerns-app-store-fee/</link>
+		<comments>https://forums.macrumors.com/threads/apples-phil-schiller-initially-opposed-27-app-store-fee-on-external-purchases.2450149/</comments>
+		<pubDate>Tue, 25 Feb 2025 03:43:50 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/apples-phil-schiller-concerns-app-store-fee/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple Antitrust</category>
+		<category>App Store</category>
+		<category>Epic Games vs. Apple</category>
+		
+
+		<description><![CDATA[Apple Fellow Phil Schiller testified in court on Monday that he initially opposed the 27% commission Apple now charges on purchases made outside the App Store, citing compliance risks and potential developer backlash (via <em><a href="https://apnews.com/article/apple-iphone-app-store-epic-antitrust-e4ae4eed9fde0ae42bd2576133af1c20">AP News</a></em>).<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg" alt="" width="1794" height="1009" class="aligncenter size-full wp-image-800065" /><br/>
+Schiller, who oversees the App Store, said he had concerns that the fee would create an "antagonistic relationship" between Apple and developers, and worried about Apple becoming "some kind of collection agency" that might need to audit developers who didn't pay.<br/>
+<blockquote>"I had great concerns about the collections of funds from developers," Schiller said during his three-hour testimony in the ongoing legal battle with <a href="https://www.macrumors.com/guide/epic-games/">Epic Games</a>. He specifically worried about "the change in the role of the App Store to now an organization that needs to collect money from developers."</blockquote>Despite his reservations, an Apple pricing committee that included CEO Tim Cook, former CFO Luca Maestri, and Apple's legal team ultimately decided to implement the commission structure.<br/>
+<br/>
+The reduced 27% fee (down from Apple's standard 30%) was established after the <a href="https://www.macrumors.com/2021/09/10/epic-games-vs-apple-decision/">2021 Epic Games lawsuit ruling</a>. Judge Yvonne Gonzalez Rogers rejected claims that Apple operated a monopoly. However, she ruled that Apple's anti-steering conduct was anti-competitive, and ordered the company to allow developers to link to alternative payment methods outside the App Store.<br/>
+<br/>
+Apple complied by <a href="https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/">creating a system</a> where developers can apply for a "StoreKit External Purchase Link Entitlement" to direct users to external payment options. However, Apple still demands a 27% commission on these transactions made within seven days of clicking the link. For developers in Apple's Small Business Program, the rate is 12% instead of the usual 15%.<br/>
+<br/>
+Epic Games CEO Tim Sweeney previously criticized Apple's approach as <a href="https://x.com/TimSweeneyEpic/status/1747408147260571730">"bad-faith" compliance</a> with the court order, arguing the minimal commission reduction and other restrictions undermined the ruling's intent to foster more competition.<br/>
+<br/>
+The current hearings are scheduled to continue until Wednesday, and are focused on determining whether Apple has violated the original court order. Judge Gonzalez Rogers has expressed frustration with Apple witnesses' hazy recollections about how they developed rules for the alternative payment system.<br/>
+<br/>
+According to court documents, Apple extensively analyzed how the "less seamless experience" of external purchases would affect transaction completion rates, which helped the company work out when developers would likely return to using Apple's in-app purchase system.<br/>
+<br/>
+The dispute between Apple and Epic <a href="https://www.macrumors.com/2020/08/13/apple-removes-fortnite-from-app-store/">dates back to 2020</a> with Epic seeking to overturn Apple's App Store rules requiring content purchases within iOS apps to go through Apple, which takes a 15% to 30% cut of the revenue.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/antitrust/">Apple Antitrust</a>, <a href="https://www.macrumors.com/guide/app-store/">App Store</a>, <a href="https://www.macrumors.com/guide/epic-games-vs-apple/">Epic Games vs. Apple</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/apples-phil-schiller-concerns-app-store-fee/">Apple&#039;s Phil Schiller Initially Opposed 27% App Store Fee on External Purchases</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-phil-schiller-initially-opposed-27-app-store-fee-on-external-purchases.2450149/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple&#039;s 2026 Foldable iPhone Has No Visible Display Crease – Report</title>
+		<link>https://www.macrumors.com/2025/02/25/apple-2026-foldable-phone-has-no-crease/</link>
+		<comments>https://forums.macrumors.com/threads/apples-2026-foldable-iphone-has-no-visible-display-crease-–-report.2450136/</comments>
+		<pubDate>Tue, 25 Feb 2025 02:58:51 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/apple-2026-foldable-phone-has-no-crease/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Featured</category>
+		<category>ETNews</category>
+		<category>Foldable iPhone</category>
+		
+
+		<description><![CDATA[Apple is making significant headway on its <a href="https://www.macrumors.com/2017/10/11/apple-lg-foldable-iphone/">long-rumored</a> foldable iPhone, with a new report suggesting the company has achieved a major breakthrough by effectively eliminating the screen crease that plagues current foldable devices.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/iPhone-Fold-Vertical-Feature.jpg" alt="" width="2250" height="1265" class="aligncenter size-full wp-image-988570" /><br/>
+According to Korean publication <em><a href="https://m.etnews.com/20250221000169">ETNews</a></em>, Apple is finalizing its component suppliers for the foldable iPhone, with the selection process expected to be completed by April. The timeline suggests Apple is moving closer to production, with large-scale component manufacturing likely to begin in the second half of this year.<br/>
+<blockquote>"Apple has decided to eliminate the crease at all costs, regardless of price, to differentiate its foldable phone from existing models," an industry insider told ETNews. "It is believed that a new material property has been developed to make the crease disappear."</blockquote>The display crease has been one of the biggest challenges in foldable technology. Devices from Samsung, Huawei, and other manufacturers have all unsuccessfully tried to make it invisible. Apple's apparent solution could hand the company a major competitive advantage.<br/>
+<br/>
+Samsung Display is reportedly set to be the exclusive supplier of the OLED panels for Apple's foldable device. The Korean company has been developing the display specifically for Apple since last year, using its experience as the first manufacturer to mass-produce foldable OLED screens.<br/>
+<br/>
+The foldable iPhone is expected to feature an in-folding design similar to a book, with US-based Corning likely providing the ultra-thin glass (UTG) covering the display. Meanwhile, US-based Amphenol, which has previously supplied hinges for MacBook Pro models, is the frontrunner to provide the crucial hinge mechanism.<br/>
+<br/>
+Based on Apple's typical product development timeline, <em>ETNews</em> reports that the foldable iPhone is expected to launch in the second half of 2026. Over the weekend, <em>Bloomberg</em>'s Mark Gurman <a href="https://www.bloomberg.com/news/newsletters/2025-02-23/apple-abandons-budget-phones-inside-apple-s-modem-m4-macbook-air-launch-timing">reported</a> that Apple is "focused on finishing up development of its first foldable device for 2026." Previous reports from analysts Ming-Chi Kuo and Jeff Pu, as well as publications like <em>The Information</em> and <em>The Wall Street Journal</em>, have all pointed to a late 2026 or early 2027 release. <br/>
+<br/>
+Recent rumors from Chinese leaker <a href="https://www.macrumors.com/2025/02/21/alleged-display-sizes-apple-foldable-iphone/">Digital Chat Station</a> suggest the device may feature a 5.49-inch outer display and a 7.74-inch inner screen when unfolded, and both are said to have "unprecedented aspect ratios." The outer display is reportedly shorter and wider than Oppo's new Find N5, which <a href="https://www.macrumors.com/2025/02/20/worlds-thinnest-foldable-launches/">launched globally last week</a>. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/etnews-com/">ETNews</a>, <a href="https://www.macrumors.com/guide/foldable-iphone/">Foldable iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/apple-2026-foldable-phone-has-no-crease/">Apple&#039;s 2026 Foldable iPhone Has No Visible Display Crease – Report</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-2026-foldable-iphone-has-no-visible-display-crease-–-report.2450136/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple and Indonesia Reach Deal to End iPhone 16 Ban</title>
+		<link>https://www.macrumors.com/2025/02/25/apple-indonesia-deal-end-iphone-16-ban/</link>
+		<comments>https://forums.macrumors.com/threads/apple-and-indonesia-reach-deal-to-end-iphone-16-ban.2450131/</comments>
+		<pubDate>Tue, 25 Feb 2025 01:48:04 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/25/apple-indonesia-deal-end-iphone-16-ban/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>iPhone 16</category>
+		<category>iPhone 16 Pro</category>
+		<category>Indonesia</category>
+		
+
+		<description><![CDATA[Apple and Indonesia have agreed on terms to lift the country's five-month ban on iPhone 16 sales, according to people familiar with the matter who spoke to <em><a href="https://www.bloomberg.com/news/articles/2025-02-25/indonesia-and-apple-said-to-agree-on-terms-to-lift-iphone-16-ban">Bloomberg</a></em>. The deal concludes a battle that began in October, when Indonesia refused to issue permits for Apple's flagship iPhone lineup over Apple's failure to comply with domestic manufacturing requirements.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/01/iPhone-16-Apple-Store-Levels.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-986485" /><br/>
+Under the agreement, Apple will invest <a href="https://www.macrumors.com/2024/12/03/apple-raises-indonesia-investment-offer-iphone-ban/">&#36;1 billion</a> in Indonesia, a significant increase from its previous commitments of <a href="https://www.macrumors.com/2024/11/05/indonesia-iphone-ban-apple-10m-investment/">&#36;10 million</a> and <a href="https://www.macrumors.com/2024/11/19/apple-ups-invest-offer-indonesia-iphone-16-ban/">&#36;100 million</a> that were rejected by the government. The deal is expected to be formalized through a memorandum of agreement to be signed as early as this week, with the Ministry for Industry issuing permits allowing iPhone 16 sales "as soon as possible."<br/>
+<br/>
+Beyond the monetary investment, Apple has reportedly committed to training local talent in research and development, so that Indonesians can develop software and design their own products. The pledge addresses one of the government's key demands for Apple to establish R&D facilities in the country.<br/>
+<br/>
+The agreement also includes plans for a manufacturing plant on Batam island that will produce AirTags, Apple's device tracking accessories. This facility will be operated by Apple supplier Luxshare Precision Industry, and is expected to eventually account for 20% of global AirTag production.<br/>
+<br/>
+Another manufacturing facility is planned for Bandung, about three hours from Jakarta, which will produce other types of accessories. Part of the investment will also fund Apple academies to equip Indonesian students with tech skills like coding.<br/>
+<br/>
+Despite the substantial concessions, <em>Bloomberg</em>'s sources indicated that Apple has no immediate plans to manufacture iPhones in Indonesia.<br/>
+<br/>
+The deal is a victory for Indonesian President Prabowo Subianto, who directed his ministers to accept Apple's &#36;1 billion investment offer. However, the Ministry of Industry unexpectedly upheld the ban last month while seeking better terms, which have apparently now been agreed.<br/>
+<br/>
+Indonesia's hardball approach seems to have paid off, securing significant investment from a major foreign company and supporting the government's goal of boosting local manufacturing rather than simply using the nation as a sales market.<br/>
+<br/>
+For Apple, regaining access to Indonesia's market of 278 million people — over half of whom are under 44 and tech-savvy — comes at a crucial time as its sales in China have slowed. Apple may not be among the top five smartphone brands in Indonesia, but the market offers the company a lucrative growth opportunity.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a>, <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/indonesia/">Indonesia</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-16">iPhone 16 (Neutral)</a>, <a href="https://buyersguide.macrumors.com/#iPhone-16-Pro">iPhone 16 Pro (Neutral)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/25/apple-indonesia-deal-end-iphone-16-ban/">Apple and Indonesia Reach Deal to End iPhone 16 Ban</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-and-indonesia-reach-deal-to-end-iphone-16-ban.2450131/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>ChatGPT Can Be Used as Default Safari Search Engine With New Extension</title>
+		<link>https://www.macrumors.com/2025/02/24/chatgpt-safari-search-extension/</link>
+		<comments>https://forums.macrumors.com/threads/chatgpt-can-be-used-as-default-safari-search-engine-with-new-extension.2450119/</comments>
+		<pubDate>Mon, 24 Feb 2025 16:39:54 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/24/chatgpt-safari-search-extension/</guid>
+		<dc:creator>Juli Clover</dc:creator>
+		<category>ChatGPT</category>
+		<category>Safari</category>
+		
+
+		<description><![CDATA[OpenAI today updated the ChatGPT app to add a new Safari Extension that allows ChatGPT to be used as the default search engine for searches made through the Safari search bar.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/chatgpt-search-default.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991638" /><br/>
+After updating to the latest version of the ChatGPT app, the ChatGPT Search Extension can be enabled in the Safari section of the Settings app. Turning it on directs all queries typed in to the Safari search bar to ChatGPT Search instead of Google or whatever your default search engine is set to.<br/>
+<blockquote>Turning on this extension will direct queries you type into the Safari search bar to ChatGPT Search, making ChatGPT Search your default search engine in Safari. The same policies that govern your use of ChatGPT apply.</blockquote><br/>
+The extension needs permission to access Google.com or the site for your default search engine, but when granted, any search you type in is redirected to ChatGPT's search feature rather than going through the default in your Safari settings.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">You can now use ChatGPT search as your default search engine in Safari on iOS by updating to the latest version of ChatGPT and enabling the Safari extension! <a href="https://t.co/yvyINPN9yv">pic.twitter.com/yvyINPN9yv</a></p>&mdash; Aaron (@aaronp613) <a href="https://twitter.com/aaronp613/status/1894181178040586645?ref_src=twsrc%5Etfw">February 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+There is no option to set ChatGPT as a preferred search engine, but the extension serves as a workaround.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/chatgpt/">ChatGPT</a>, <a href="https://www.macrumors.com/guide/safari/">Safari</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/24/chatgpt-safari-search-extension/">ChatGPT Can Be Used as Default Safari Search Engine With New Extension</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/chatgpt-can-be-used-as-default-safari-search-engine-with-new-extension.2450119/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>All of the New Features in iOS 18.4 So Far</title>
+		<link>https://www.macrumors.com/guide/ios-18-4-features/</link>
+		<comments>https://forums.macrumors.com/threads/all-of-the-new-features-in-ios-18-4-so-far.2450116/</comments>
+		<pubDate>Mon, 24 Feb 2025 15:50:43 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/guide/ios-18-4-features&#038;post_date=1740451843/</guid>
 		<dc:creator>Juli Clover</dc:creator>
 		<category>Featured</category>
 		<category>iOS 18</category>
 		
 
-		<description><![CDATA[Apple finally released the first beta of iOS 18.4 to developers for testing purposes, and while the beta is lacking some of the <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> features we were hoping for, there are some notable new additions.<br/>
+		<description><![CDATA[Apple is beta testing iOS 18.4 at the current time, and while the update doesn't have the <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> <a href="https://www.macrumors.com/guide/siri/">Siri</a> features we were hoping for, there are a number of new additions that are worth knowing about.<br/>
 <br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/Hh2OUPe41KM" title="Everything New in iOS 18.4 Beta 1!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-<h2>Priority Notifications - Apple Intelligence</h2><br/>
-There is a new Priority Notifications feature that can show you your most important notifications first. Priority Notifications is disabled by default, but it can be turned on by going to Settings > Notifications > Prioritize Notifications and tapping the toggle.<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/iOS-18.4-Beta-1-Thumb-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-991353" /><br/>
+<h2 id="priority_notifications_-_apple_intelligence">Priority Notifications - Apple Intelligence</h2><br/>
+There is a new Priority Notifications feature that can show you your most important notifications first. Priority Notifications is disabled by default, but it can be turned on by going to Settings &gt; Notifications > Prioritize Notifications and tapping the toggle.<br/>
 <br/>
 <img class="aligncenter size-full wp-image-991317" src="https://images.macrumors.com/article-new/2025/02/prioritize-notifications-ios-18-4.jpg" alt="" width="2000" height="1125" /><br/>
 With the feature enabled, &zwnj;Apple Intelligence&zwnj; will show notifications that may be important in a dedicated section of the Lock Screen.<br/>
 <br/>
-<h2>Image Playground Sketch Style</h2><br/>
+<h2 id="image_playground_sketch_style">Image Playground Sketch Style</h2><br/>
 <a href="https://www.macrumors.com/guide/image-playground/">Image Playground</a> now includes a Sketch style that joins the Animation and Illustration styles. Sketch was previously available for <a href="https://www.macrumors.com/guide/image-wand/">Image Wand</a>, but now it is a third style that can be used in &zwnj;Image Playground&zwnj;.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-image-playground.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991330" /><br/>
+<img class="aligncenter size-full wp-image-991330" src="https://images.macrumors.com/article-new/2025/02/ios-18-4-image-playground.jpg" alt="" width="2000" height="1125" /><br/>
 Swap styles by tapping on the "+" button in the &zwnj;Image Playground&zwnj; app.<br/>
 <br/>
-Apple also replaced the "Winter Holidays" theme with a new "Spring" theme. <br/>
+Apple also replaced the "Winter Holidays" theme with a new "Spring" theme.<br/>
 <br/>
-<h2>New Apple Intelligence Languages</h2><br/>
+<h2 id="new_apple_intelligence_languages">New Apple Intelligence Languages</h2><br/>
 French, German, Italian, Portuguese (Brazil), Spanish, Japanese, Korean, and Chinese (simplified), along with localized English for Singapore and India.<br/>
 <br/>
-<h2>Apple News+ Food</h2><br/>
+<h2 id="apple_news+_food">Apple News+ Food</h2><br/>
 iOS 18.4 and iPadOS 18.4 include a new <a href="https://www.macrumors.com/guide/apple-news/">Apple News</a> Food section for &zwnj;Apple News&zwnj;+ subscribers. The Food section features tens of thousands of recipes, stories about restaurants, tips for healthy eating, kitchen essentials, and more.<br/>
 <br/>
 <img class="aligncenter size-full wp-image-991301" src="https://images.macrumors.com/article-new/2025/02/ios-18-4-food-news.jpg" alt="" width="2000" height="1125" /><br/>
 Content will come from top food publishers such as Allrecipes, Bon Appétit, Food &amp; Wine, Good Food, and Serious Eats.&zwnj;Apple News&zwnj; editors will curate food-related stories, and there will be a dedicated Recipe Catalog section where new recipes are added regularly. An included cook mode provides step-by-step instructions, and users can save favorite recipes for offline access.<br/>
 <br/>
-<h2>Ambient Music</h2><br/>
+<h2 id="ambient_music">Ambient Music</h2><br/>
 iOS 18.4 includes a new Ambient Music option that can be added to Control Center. There are four different sound categories, including Sleep, Chill, Productivity, and Wellbeing.<br/>
 <br/>
 <img class="aligncenter size-full wp-image-991311" src="https://images.macrumors.com/article-new/2025/02/ios-18-4-ambient-music.jpg" alt="" width="2000" height="1125" /><br/>
@@ -208,532 +491,226 @@ Each category can be added to Control Center separately, and tapping one plays a
 <br/>
 You can't choose what's playing from Control Center, but if you play a category and then tap into the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a> at the top or access the Now Playing widget, you can skip songs and see the name of what's currently playing.<br/>
 <br/>
-<h2>Mail Categorization for iPadOS 18.4</h2><br/>
+<h2 id="mail_categorization_for_ipados_18.4">Mail Categorization for iPadOS 18.4</h2><br/>
 With iPadOS 18.4, an updated Mail app is available with categorization. The new Mail app organizes incoming emails into different sections. Important emails are displayed in the Primary category, with other emails organized into sections highlighting product orders, newsletters, deals, and social notifications.<br/>
 <br/>
 Mail categorization was previously introduced for the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> in iOS 18.2.<br/>
 <br/>
-<h2>Privacy Indication Dots</h2><br/>
+<h2 id="privacy_indication_dots">Privacy Indication Dots</h2><br/>
 The small dots that show up on the &zwnj;iPhone&zwnj;'s menu bar when the camera or microphone is in use have been moved to the left and are now more apparent thanks to a black background.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/new-siri-indicator-dot-ios-18-4.jpg" alt="" width="1134" height="182" class="aligncenter size-full wp-image-991331" /><br/>
-<h2>Siri Voices</h2><br/>
-There are two new Australian voices for <a href="https://www.macrumors.com/guide/siri/">Siri</a>.<br/>
+<img class="aligncenter size-full wp-image-991331" src="https://images.macrumors.com/article-new/2025/02/new-siri-indicator-dot-ios-18-4.jpg" alt="" width="1134" height="182" /><br/>
+<h2 id="siri_voices">Siri Voices</h2><br/>
+There are two new Australian voices for &zwnj;Siri&zwnj;.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-australian-siri-voice.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991334" /><br/>
-<h2>Genmoji</h2><br/>
+<img class="aligncenter size-full wp-image-991334" src="https://images.macrumors.com/article-new/2025/02/ios-18-4-australian-siri-voice.jpg" alt="" width="2000" height="1125" /><br/>
+<br/>
+<h2 id="genmoji">Genmoji</h2><br/>
 The <a href="https://www.macrumors.com/guide/genmoji/">Genmoji</a> icon for the Emoji keyboard now says "&zwnj;Genmoji&zwnj;" instead of just featuring a multi-colored smiley face. The change should make it more obvious where users go to create a &zwnj;Genmoji&zwnj; character.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-genmoji.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991332" /><br/>
+<img class="aligncenter size-full wp-image-991332" src="https://images.macrumors.com/article-new/2025/02/ios-18-4-genmoji.jpg" alt="" width="2000" height="1125" /><br/>
 <br/>
-<h2>Apple Maps</h2><br/>
-In the <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> Settings, there is a new option to set a Preferred Language. <br/>
+<h2 id="photos">Photos</h2><br/>
+In the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app, there are now options to filter your library by images that were shared with you by others or by those that are not included in an album, which is useful for separating out content that you've organized into albums.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-maps-preferred.jpg" alt="" width="2000" height="1267" class="aligncenter size-full wp-image-991350" /><br/>
-<h2>Podcasts Widget</h2><br/>
+<img src="https://images.macrumors.com/article-new/2025/02/photos-filters-ios-18-4.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991598" /><br/>
+Apple also added an option to view your album list by key photo.<br/>
+<br/>
+In the &zwnj;Photos&zwnj; Settings, there is a new Show Recently Viewed & Shared toggle that will show or hide the Recently Viewed and Recently Shared albums from the Utilities list. <br/>
+<br/>
+<h2 id="type_to_siri">Type to Siri</h2><br/>
+When you use Type to &zwnj;Siri&zwnj; to ask &zwnj;Siri&zwnj; a question, the keyboard is now collapsed down when &zwnj;Siri&zwnj; answers. To type another request, you need to tap on the &zwnj;Siri&zwnj; bar to bring it back up. There is also a toggle to activate Type to &zwnj;Siri&zwnj; with the side button, which would normally cause &zwnj;Siri&zwnj; to listen for a voice command. This feature is not working as intended in beta 1. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-siri-accessibility-toggle.jpg" alt="" width="1811" height="1019" class="aligncenter size-full wp-image-991628" /><br/>
+<h2 id="back_tap">Back Tap</h2><br/>
+If you have the Back Tap Accessibility option turned on, there is now a notification when a double tap or triple tap action is performed. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-back-tap-notification.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991627" /><br/>
+<h2 id="apple_maps">Apple Maps</h2><br/>
+In the <a href="https://www.macrumors.com/guide/apple-maps/">Apple Maps</a> Settings, there is a new option to set a Preferred Language.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-991350" src="https://images.macrumors.com/article-new/2025/02/ios-18-4-maps-preferred.jpg" alt="" width="2000" height="1267" /><br/>
+<br/>
+<h2 id="passwords">Passwords</h2><br/>
+In the Passwords app, verification codes for two-factor authentication have a countdown circle so you can tell when a new code is going to be generated. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-password-countdown.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991600" /><br/>
+<h2 id="podcasts_widget">Podcasts Widget</h2><br/>
 There are new Library and Shows widgets that can be added to the <a href="https://www.macrumors.com/guide/home-screen/">Home Screen</a> on an &zwnj;iPhone&zwnj; or <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>. The Library widget features saved content, while the Shows option displays shows that you are subscribed to.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-podcast-widgets.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991338" /><br/>
-In the Podcasts app, if you tap on your profile picture, there are new options for Podcasts Settings and Notification Settings. <br/>
+<img class="aligncenter size-full wp-image-991338" src="https://images.macrumors.com/article-new/2025/02/ios-18-4-podcast-widgets.jpg" alt="" width="2000" height="1125" /><br/>
+In the Podcasts app, if you tap on your profile picture, there are new options for Podcasts Settings and Notification Settings.<br/>
 <br/>
-<h2>Cellular Control Center Toggle</h2><br/>
-The Cellular toggle in the Control Center now shows your cellular signal strength represented in bars.<br/>
+<h2 id="mac_setup">Mac Setup</h2><br/>
+There is a new feature that allows a nearby &zwnj;iPhone&zwnj; or &zwnj;iPad&zwnj; to be used to sign into a Mac with an Apple Account for setting up a new Mac. <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.4 is also required. <br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-cellular-signal-control-center.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991333" /><br/>
-<h2>Shortcuts Actions</h2><br/>
+<h2 id="control_center_toggles">Control Center Toggles</h2><br/>
+The Cellular toggle and the Wi-Fi toggle in the Control Center now show your cellular or Wi-Fi signal strength represented in bars.<br/>
+<br/>
+<img class="aligncenter size-full wp-image-991333" src="https://images.macrumors.com/article-new/2025/02/ios-18-4-cellular-signal-control-center.jpg" alt="" width="2000" height="1125" /><br/>
+The Brightness and Sound toggles in Control Center have been tweaked slightly and will now change color when the sliders are lowered below the position of the icons. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-control-center-icons.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991621" /><br/>
+The Focus option in Control Center now has two small arrows that serve as a visual indicator that there are more options that can be accessed. <br/>
+<br/>
+<h2 id="shortcuts_actions">Shortcuts Actions</h2><br/>
 Apple added a new Shortcuts action to open a specific conversation in the Messages app.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-shortcuts-open-conversation.jpg" alt="" width="1688" height="950" class="aligncenter size-full wp-image-991336" /><br/>
+<img class="aligncenter size-full wp-image-991336" src="https://images.macrumors.com/article-new/2025/02/ios-18-4-shortcuts-open-conversation.jpg" alt="" width="1688" height="950" /><br/>
 <br/>
-<h2>CarPlay</h2><br/>
-Some <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a> users are seeing a third row of &zwnj;CarPlay&zwnj; icons on the &zwnj;Home Screen&zwnj; rather than just two rows. <br/>
+<h2 id="carplay">CarPlay</h2><br/>
+Some <a href="https://www.macrumors.com/roundup/carplay/">CarPlay</a> users are seeing a third row of &zwnj;CarPlay&zwnj; icons on the &zwnj;Home Screen&zwnj; rather than just two rows.<br/>
 <br/>
-<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2025/02/carplay-view-ios-18-4.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-991341" /><em>Image <a href="https://forums.macrumors.com/threads/ios-18-4-beta-1-bug-fixes-changes-and-improvements.2449908/post-33753569">via the MacRumors Forums</a></em></div><br/>
+<div class="center-wrap"><img class="aligncenter size-full wp-image-991341" src="https://images.macrumors.com/article-new/2025/02/carplay-view-ios-18-4.jpg" alt="" width="1920" height="1080" /><em>Image <a href="https://forums.macrumors.com/threads/ios-18-4-beta-1-bug-fixes-changes-and-improvements.2449908/post-33753569">via the MacRumors Forums</a></em></div><br/>
 <br/>
-<h2>Default Apps</h2><br/>
+<h2 id="default_apps">Default Apps</h2><br/>
 There is a new option to set a different Translation app as the default in the Default Apps section of the Settings app. In the EU, there is also an option to choose a different Navigation app.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-translate-default-app.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991344" /><br/>
+<img class="aligncenter size-full wp-image-991344" src="https://images.macrumors.com/article-new/2025/02/ios-18-4-translate-default-app.jpg" alt="" width="2000" height="1125" /><br/>
 <br/>
-<h2>Notification Center</h2><br/>
-The animation when swiping out of the Notification Center is now smoother. <br/>
+<h2 id="notification_center">Notification Center</h2><br/>
+The animation when swiping out of the Notification Center is now smoother.<br/>
 <br/>
-<h2>Wi-Fi Calling Issue</h2><br/>
-Apple's developer notes for the update say that Wi-Fi Calling might not work for US Cellular customers in iOS 18.4. Apple says that users should revert to iOS 18.3 to enable Wi-Fi Calling.<br/>
+<h2 id="camera_control">Camera Control</h2><br/>
+Additional camera apps that can be selected for the Camera Control feature on <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models are now listed in a Camera App section rather than directly in the main Camera Control menu.<br/>
 <br/>
-<h2>Japan 'My Number Card' Support in Wallet</h2><br/>
+<img src="https://images.macrumors.com/article-new/2025/02/camera-control-ios-18-4-menu.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991626" /><br/>
+<h2 id="safari_connection_security">Safari Connection Security</h2><br/>
+In Safari, you can tap into the details on a website to see the certificate through a new Connection Security Details interface to ensure the site is secure.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-connection-security.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991623" /><br/>
+<h2 id="wi-fi_calling_issue">Wi-Fi Calling Issue</h2><br/>
+Apple's developer notes for the update say that Wi-Fi Calling might not work for US Cellular customers in iOS 18.4. Apple says that users should revert to iOS 18.3 to enable Wi-Fi Calling. Note that this is applicable to those who have US Cellular as their carrier, it does not mean all cellular users in the United States. <br/>
+<br/>
+<h2 id="robot_vacuum_homekit_support">Robot Vacuum HomeKit Support</h2><br/>
+In iOS 18.4, <a href="https://www.macrumors.com/guide/homekit/">HomeKit</a> supports robot vacuums, a feature that Apple promised would come in <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>. Adding a vacuum to the Home app requires a vacuum with Matter support, and that requires robot vacuum manufacturers to implement Matter. Not all Matter-enabled robot vacuums will be able to be added to &zwnj;HomeKit&zwnj; right away.<br/>
+<br/>
+<h2 id="japan_my_number_card_support_in_wallet">Japan 'My Number Card' Support in Wallet</h2><br/>
 The iOS 18.4 beta appears to include integration for Japanese "My Number Card" Digital IDs in the Wallet app. Apple said last year that it would be adding support for the ID cards in spring 2025.<br/>
 <br/>
 More than 100 million Japanese residents have My Number Card IDs.<br/>
 <br/>
-<h2>MDM Changes</h2><br/>
-For enterprise and education users, Apple made some updates to Mobile Device Management. MDM can disable &zwnj;Apple Intelligence&zwnj; reports, Mail smart replies, Safari summarize content, and the Idle Reboot feature that causes iPhones to restart after inactivity.<br/>
+<h2 id="mdm_changes">MDM Changes</h2><br/>
+For enterprise and education users, Apple made some updates to Mobile Device Management. MDM can disable &zwnj;Apple Intelligence&zwnj; reports, Mail smart replies, Safari summarize content, and the Idle Reboot feature that causes iPhones to restart after inactivity. There are also options for preventing the modification of default calling and messaging apps.<br/>
 <br/>
-There are also options for preventing the modification of default calling and messaging apps, and there is a feature that allows a nearby &zwnj;iPhone&zwnj; or &zwnj;iPad&zwnj; to be used to sign into a Mac with an Apple Account.<br/>
-<br/>
-<h2>Vision Pro App and Guest Setup</h2><br/>
+<h2 id="vision_pro_app_and_guest_setup">Vision Pro App and Guest Setup</h2><br/>
 For Vision Pro owners, Apple has designed a Vision Pro app for managing the headset. It's designed to help users find content and learn about new features, so it includes tools for downloading apps and visionOS content, a tips page, and a My Vision Pro section for setting up Personalized Spatial Audio and getting information like headset serial number.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/vision-pro-app-iphone.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991289" /><br/>
+<img class="aligncenter size-full wp-image-991289" src="https://images.macrumors.com/article-new/2025/02/vision-pro-app-iphone.jpg" alt="" width="2000" height="1125" /><br/>
 Guest setup can now be managed on an &zwnj;iPhone&zwnj; or &zwnj;iPad&zwnj; linked to a Vision Pro, making it easier for Vision Pro owners to let others test their headset. There are controls for limiting what apps a guest is able to use, and an <a href="https://www.macrumors.com/guide/airplay/">AirPlay</a> mode for guiding the guest through Vision Pro experiences. When a guest user puts on the Vision Pro, a prompt to enable Guest Mode will appear on the headset owner's device.<br/>
 <br/>
 The Vision Pro app isn't in this beta, but it will be coming in a later iOS 18.4 beta.<br/>
 <br/>
-<h2>New Emojis</h2><br/>
+<h2 id="new_emojis">New Emojis</h2><br/>
 There are no new emoji in the current beta, but iOS 18.4 code confirms a future beta will add new characters. New emoji will include bags under eyes, fingerprint, leafless tree, root vegetable, harp, shovel, and splatter.<br/>
 <br/>
-<h2>iOS 18.4 Release Date</h2><br/>
-Apple plans to release iOS 18.4 to the public in April.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/everything-new-ios-18-4-beta-1/">Everything New in iOS 18.4 Beta 1</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/everything-new-in-ios-18-4-beta-1.2449921/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<h2 id="find_my">Find My</h2><br/>
+<a href="https://www.macrumors.com/guide/find-my/">Find My</a> support has been added in South Korea. <br/>
+<br/>
+<h2 id="iphone_12">iPhone 12</h2><br/>
+The iOS 18.4 beta is not currently available for the &zwnj;iPhone&zwnj; 12 models due to an issue that was causing boot loops. It will likely be available for the &zwnj;iPhone&zwnj; 12 series with the second beta launch.<br/>
+<br/>
+<h2 id="release_date">Release Date</h2><br/>
+iOS 18.4 will be released in early April alongside iPadOS 18.4 and &zwnj;macOS Sequoia&zwnj; 15.4.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/guide/ios-18-4-features/">All of the New Features in iOS 18.4 So Far</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/all-of-the-new-features-in-ios-18-4-so-far.2450116/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>iOS 18.4 Adds Apple Intelligence Priority Notifications Feature</title>
-		<link>https://www.macrumors.com/2025/02/21/ios-18-4-priority-notifications/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-4-adds-apple-intelligence-priority-notifications-feature.2449918/</comments>
-		<pubDate>Fri, 21 Feb 2025 11:23:25 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/ios-18-4-priority-notifications/</guid>
-		<dc:creator>Juli Clover</dc:creator>
+		<title>MacRumors Turns 25 Years Old</title>
+		<link>https://www.macrumors.com/2025/02/24/macrumors-25-years/</link>
+		<comments>https://forums.macrumors.com/threads/macrumors-turns-25-years-old.2450104/</comments>
+		<pubDate>Mon, 24 Feb 2025 12:15:08 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/24/macrumors-25-years/</guid>
+		<dc:creator>Eric Slivka</dc:creator>
 		<category>Featured</category>
+		<category>MacRumors</category>
+		
+
+		<description><![CDATA[It's a milestone day for MacRumors, as today marks our 25th birthday. MacRumors was coincidentally founded on <a href="https://www.macrumors.com/2025/02/24/steve-jobs-would-have-been-70-today/">Steve Jobs' birthday</a> of February 24, 2000, with articles starting just a few days later.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/MacRumors-25th-Birthday-3-1.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-991578" /><br/>
+MacRumors was founded by medical student Arnold Kim, and it remained a side project for over eight years until he decided to give up medicine to focus on MacRumors as a full-time career. That backstory and additional perspective were shared in a <a href="https://www.nytimes.com/2008/07/21/technology/21blogger.html">July 2008 <em>New York Times</em> profile</a>.<br/>
+<br/>
+Through the years, MacRumors grew along with Apple's popularity and added additional writers, editors, and other staff members, with the team now numbering roughly a dozen dedicated folks who live and breathe Apple news and rumors.<br/>
+<br/>
+<div class="center-wrap"><img src="https://images.macrumors.com/article-new/2020/02/macrumors_may2000.jpg" alt="" width="1800" height="1588" class="aligncenter size-full wp-image-729720" /><em>MacRumors as it appeared in May 2000</em></div><br/>
+For those of us who have been around MacRumors since nearly the beginning, the past quarter century has somehow simultaneously felt like both a lifetime and a blink of an eye, and we certainly couldn't have done it without our loyal readers and <a href="https://forums.macrumors.com/">forum members</a>. For 25 years now, MacRumors has been known for its active and passionate community that has reached over a million registered members and over 32 million forum posts. If you're not a member, we invite you to <a href="https://forums.macrumors.com/register/">register for our forums</a> and add your voice to our community.<br/>
+<br/>
+To all who have helped make MacRumors the best place on the internet to learn about and discuss all things Apple, thank you, and here's to another 25 years.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/macrumors-com/">MacRumors</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/24/macrumors-25-years/">MacRumors Turns 25 Years Old</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/macrumors-turns-25-years-old.2450104/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>iOS 18.4 Beta Now Unavailable Across Entire iPhone 12 Lineup and More</title>
+		<link>https://www.macrumors.com/2025/02/24/ios-18-4-beta-pulled-for-iphone-12-and-more/</link>
+		<comments>https://forums.macrumors.com/threads/ios-18-4-beta-now-unavailable-across-entire-iphone-12-lineup-and-more.2450097/</comments>
+		<pubDate>Mon, 24 Feb 2025 10:39:56 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/24/ios-18-4-beta-pulled-for-iphone-12-and-more/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
 		<category>iOS 18</category>
 		
 
-		<description><![CDATA[With the iOS 18.4, iPadOS 18.4, and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.4 betas, Apple is introducing a new Priority Notifications feature that can show you your most important notifications first.<br/>
+		<description><![CDATA[Apple last week seeded the <a href="https://www.macrumors.com/2025/02/21/apple-releases-ios-18-4-beta-1/">first iOS 18.4 beta</a> to developers for testing, but the software update has been pulled for some devices due to issues.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/prioritize-notifications-ios-18-4.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991317" /><br/>
-Apple first announced Priority Notifications when showing off <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> in June, but it wasn't implemented until now. Priority Notifications is disabled by default, but it can be turned on by going to Settings &gt; Notifications &gt; Prioritize Notifications and tapping the toggle.<br/>
+<img src="https://images.macrumors.com/article-new/2025/01/Generic-iOS-18.4-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-984205" /><br/>
+According to <a href="https://x.com/aaronp613/status/1894089509169483940"><em>MacRumors</em> contributor Aaron Perris</a>, the first iOS 18.4 beta is no longer available for installation on any of the iPhone 12 mini, iPhone 12, iPhone 12 Pro, or iPhone 12 Pro Max models, along with select older iPad Air and entry-level iPad models.<br/>
 <br/>
-With the feature enabled, &zwnj;Apple Intelligence&zwnj; will show notifications that may be important in a dedicated section of the Lock Screen.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/ios-18-4-priority-notifications/">iOS 18.4 Adds Apple Intelligence Priority Notifications Feature</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-4-adds-apple-intelligence-priority-notifications-feature.2449918/">Discuss this article</a> in our forums<br/><br/>]]></description>
+The first iOS 18.4 beta was causing some iPhone 12 models and other affected devices to experience a "boot loop," rendering the device unusable. This is one reason why Apple always stresses backing up your iPhone before installing iOS betas, as pre-release software can experience critical bugs and issues from time to time.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">iOS 18.4 beta 1 is now unsigned for the following devices: <br><br>iPhone 12 Pro<br>iPhone 12 Pro Max<br>iPhone 12 Mini<br>iPad 8 (Cellular)<br>iPad Air 4th Gen (Wi-Fi and Cellular)<br>iPad Air 11-inch (M2) (Cellular)<br>iPad Air 13-inch (M2) (Cellular) <br><br>(h/t <a href="https://twitter.com/dhinakg?ref_src=twsrc%5Etfw">@dhinakg</a>) <a href="https://t.co/esVqZ13cdy">https://t.co/esVqZ13cdy</a></p>&mdash; Aaron (@aaronp613) <a href="https://twitter.com/aaronp613/status/1893411982558052818?ref_src=twsrc%5Etfw">February 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+There may have been other issues affecting some of the cellular iPad Air models in particular, rather than the boot loop problem.<br/>
+<br/>
+Apple also <a href="https://x.com/aaronp613/status/1893424382468313474">pulled the first watchOS 11.4 beta</a> for Apple Watch Series 6 models.<br/>
+<br/>
+Apple should eventually make iOS 18.4 and watchOS 11.4 betas available again for the affected devices, but it is unclear when that will happen.<br/>
+<br/>
+Unfortunately, this is <a href="https://www.macrumors.com/2024/10/03/apple-pulls-third-software-update-in-past-month/">far from the first time</a> this has happened.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/24/ios-18-4-beta-pulled-for-iphone-12-and-more/">iOS 18.4 Beta Now Unavailable Across Entire iPhone 12 Lineup and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-4-beta-now-unavailable-across-entire-iphone-12-lineup-and-more.2450097/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>Revamped Mail App With Built-In Categorization Comes to Mac and iPad</title>
-		<link>https://www.macrumors.com/2025/02/21/revamped-mail-app-mac-ipad/</link>
-		<comments>https://forums.macrumors.com/threads/revamped-mail-app-with-built-in-categorization-comes-to-mac-and-ipad.2449915/</comments>
-		<pubDate>Fri, 21 Feb 2025 11:08:09 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/revamped-mail-app-mac-ipad/</guid>
+		<title>Apple Seeds First Public Betas of iOS 18.4, iPadOS 18.4, and macOS Sequoia 15.4</title>
+		<link>https://www.macrumors.com/2025/02/24/apple-seeds-ios-18-4-public-beta/</link>
+		<comments>https://forums.macrumors.com/threads/apple-seeds-first-public-betas-of-ios-18-4-ipados-18-4-and-macos-sequoia-15-4.2450094/</comments>
+		<pubDate>Mon, 24 Feb 2025 10:13:02 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/24/apple-seeds-ios-18-4-public-beta/</guid>
 		<dc:creator>Juli Clover</dc:creator>
+		<category>Featured</category>
 		<category>iOS 18</category>
 		<category>macOS Sequoia</category>
 		
 
-		<description><![CDATA[The initial iPadOS 18.4 and <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.4 betas that Apple provided to developers today expand the revamped Mail app to the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> and the Mac.<br/>
+		<description><![CDATA[Apple today seeded the first public betas of upcoming iOS 18.4, iPadOS 18.4, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.4, watchOS 11.4, and tvOS 15.4 updates, allowing public beta testers to try out the new features in the software ahead of its public launch. The public betas come a few days after Apple provided the beta updates to developers.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2023/06/General-macOS-Mail-Feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-900439" /><br/>
-The new Mail app features built-in categorization that organizes incoming emails into different sections. Important emails are displayed in the Primary category, with other emails organized into sections highlighting product orders, newsletters, deals, and social notifications.<br/>
+<img src="https://images.macrumors.com/article-new/2025/02/iOS-18.4-Apple-Intelligence-Color-Palette-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-988289" /><br/>
+Public beta testers can download the updates from the Settings app on each device after opting into the beta through Apple's public beta testing website.<br/>
 <br/>
-A "Transactions" section aggregates receipts, orders, and deliveries to make it easy to find orders that you've placed and shipping information for those orders.<br/>
+The new software for <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and Mac includes Priority Notifications, an <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> feature designed to show you your most important notifications first, plus it adds a new Sketch style for <a href="https://www.macrumors.com/guide/image-playground/">Image Playground</a>.<br/>
 <br/>
-In an "Updates" section, you'll find newsletters, alerts for doctor's appointments and correspondence, and subscription emails. A "Promotions" category includes emails with offers and deals.<br/>
+There is a new <a href="https://www.macrumors.com/guide/apple-news/">Apple News</a>+ Food section for &zwnj;Apple News&zwnj;+ subscribers that aggregates recipes, food stories, and tips for healthy eating, plus an Ambient Music feature for playing chill music from Control Center.<br/>
 <br/>
-Categories is the default view after updating to the new software, but in the upper right corner of the Mail app, you can swap back to a list view that shows all emails in chronological order, without separation into categories. Devices that have <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> support will show priority emails in the Primary inbox, so you can see what's most important first. Emails in the Transactions, Updates, or Promotions section that have time-sensitive information will also be shown in the Primary section.<br/>
+iOS 18.4 will <a href="https://www.macrumors.com/2025/02/21/apple-releases-ios-18-4-beta-1/">include a Vision Pro app</a> that will allow Vision Pro owners to manage the headset. It will support content discovery and acquisition, letting new apps, games, and TV content to be downloaded on the Vision Pro with the &zwnj;iPhone&zwnj;. The &zwnj;iPhone&zwnj; and &zwnj;iPad&zwnj; will also support managing Vision Pro Guest Mode, making it easier for people to try out someone's headset.<br/>
 <br/>
-Apple already brought Mail categorization to the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> with the iOS 18.2 update, but now it has expanded to the Mac and &zwnj;iPad&zwnj; as well.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a>, <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/revamped-mail-app-mac-ipad/">Revamped Mail App With Built-In Categorization Comes to Mac and iPad</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/revamped-mail-app-with-built-in-categorization-comes-to-mac-and-ipad.2449915/">Discuss this article</a> in our forums<br/><br/>]]></description>
+On the &zwnj;iPad&zwnj; and Mac, the new updates introduce Mail Categorization, a feature that was previously limited to the &zwnj;iPhone&zwnj;.<br/>
+<br/>
+More on the new features in the updates can be <a href="https://www.macrumors.com/2025/02/21/everything-new-ios-18-4-beta-1/">found in our iOS 18.4 beta post</a>.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a>, <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a>, <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/24/apple-seeds-ios-18-4-public-beta/">Apple Seeds First Public Betas of iOS 18.4, iPadOS 18.4, and macOS Sequoia 15.4</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-public-betas-of-ios-18-4-ipados-18-4-and-macos-sequoia-15-4.2450094/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 		<item>
-		<title>iOS 18.4 Adds New Ambient Music Feature</title>
-		<link>https://www.macrumors.com/2025/02/21/ios-18-4-ambient-music/</link>
-		<comments>https://forums.macrumors.com/threads/ios-18-4-adds-new-ambient-music-feature.2449914/</comments>
-		<pubDate>Fri, 21 Feb 2025 11:06:19 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/ios-18-4-ambient-music/</guid>
+		<title>Apple&#039;s New U.S. Chip Factory to Produce AI Servers With High-End M5 Chips</title>
+		<link>https://www.macrumors.com/2025/02/24/apple-factory-texas-ai-servers-m5/</link>
+		<comments>https://forums.macrumors.com/threads/apples-new-u-s-chip-factory-to-produce-ai-servers-with-high-end-m5-chips.2450092/</comments>
+		<pubDate>Mon, 24 Feb 2025 10:00:32 PST</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/02/24/apple-factory-texas-ai-servers-m5/</guid>
 		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
+		<category>Apple Silicon</category>
 		
 
-		<description><![CDATA[In iOS 18.4, there's a new Ambient Music option that can be added to Control Center. There are four different sound categories, including Sleep, Chill, Productivity, and Wellbeing.<br/>
+		<description><![CDATA[Apple's chip factory planned for Houston, Texas will manufacture AI servers that are equipped with high-end M5 chips, Apple analyst <a href="https://www.macrumors.com/guide/ming-chi-kuo/">Ming-Chi Kuo</a> <a href="https://x.com/mingchikuo/status/1894076780602151351">said today</a>.<br/>
 <br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-ambient-music.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991311" /><br/>
-Each category can be added to Control Center separately, and tapping one plays a random selection of sounds or music from that particular category.<br/>
+<img src="https://images.macrumors.com/article-new/2024/12/apple-silicon-mac-lineup-2024-feature-purple-m5.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-983351" /><br/>
+Apple is working with Foxconn to open <a href="https://www.macrumors.com/2025/02/24/apple-announces-500b-us-investment-plan/">a 250,000 square foot server manufacturing facility</a> in Houston in 2026, with the hardware produced at the location set to be used for AI. While Apple did not provide any insight into the servers that it will be making, Kuo says that the servers will be equipped with TSMC's high-end M5 chips, which are set to enter mass production as soon as the second half of 2025.<br/>
 <br/>
-You can't choose what's playing from Control Center, but if you play a category and then tap into the <a href="https://www.macrumors.com/guide/dynamic-island/">Dynamic Island</a> at the top or access the Now Playing widget, you can skip songs and see the name of what's currently playing.<br/>
+Foxconn already has a facility in Houston, and it bought additional land for new projects last year. Servers will be produced at existing facilities starting in the second half of 2025, with assembly expanding to the new facility when it launches in 2026.<br/>
 <br/>
-There is no dedicated app for the feature, but Apple has a hidden app that provides more control through skipping songs.<br/>
-<br/>
-Ambient Music is available on both the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> in iOS 18.4 and iPadOS 18.4.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/ios-18-4-ambient-music/">iOS 18.4 Adds New Ambient Music Feature</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-18-4-adds-new-ambient-music-feature.2449914/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple News+ Gains Recipes, Restaurant Reviews, and More in iOS 18.4</title>
-		<link>https://www.macrumors.com/2025/02/21/apple-news-plus-food-ios-18-4/</link>
-		<comments>https://forums.macrumors.com/threads/apple-news-gains-recipes-restaurant-reviews-and-more-in-ios-18-4.2449913/</comments>
-		<pubDate>Fri, 21 Feb 2025 10:36:59 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/apple-news-plus-food-ios-18-4/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[With iOS 18.4 and iPadOS 18.4, Apple <a href="https://www.apple.com/newsroom/2025/02/apple-introduces-news-plus-food/">plans to introduce</a> new features for the <a href="https://www.macrumors.com/guide/apple-news/">Apple News</a>+ subscription service. Apple is adding &zwnj;Apple News&zwnj;+ Food, a section that features tens of thousands of recipes, stories about restaurants, tips for healthy eating, kitchen essentials, and more.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ios-18-4-food-news.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991301" /><br/>
-Content will come from top food publishers such as Allrecipes, Bon Appétit, Food &amp; Wine, Good Food, and Serious Eats.<br/>
-<br/>
-&zwnj;Apple News&zwnj; editors will curate food-related stories, and there will be a dedicated Recipe Catalog section where new recipes are added regularly. An included cook mode provides step-by-step instructions, and users can save favorite recipes for offline access.<br/>
-<br/>
-&zwnj;Apple News&zwnj;+ Food is coming to &zwnj;Apple News&zwnj;+ subscribers with the launch of iOS 18.4 and iPadOS 18.4 in April.<br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/apple-news-plus-food-ios-18-4/">Apple News+ Gains Recipes, Restaurant Reviews, and More in iOS 18.4</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-news-gains-recipes-restaurant-reviews-and-more-in-ios-18-4.2449913/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases First Beta of iOS 18.4 With New Vision Pro App</title>
-		<link>https://www.macrumors.com/2025/02/21/apple-releases-ios-18-4-beta-1/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-first-beta-of-ios-18-4-with-new-vision-pro-app.2449907/</comments>
-		<pubDate>Fri, 21 Feb 2025 10:02:10 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/apple-releases-ios-18-4-beta-1/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>iOS 18</category>
-		
-
-		<description><![CDATA[Apple today seeded the first betas of upcoming iOS 18.4 and iPadOS 18.4 updates to developers for testing purposes, with the software coming a month after Apple released iOS 18.3 and iPadOS 18.3.<br/>
-<br/>
-<img class="aligncenter size-full wp-image-984205" src="https://images.macrumors.com/article-new/2025/01/Generic-iOS-18.4-Feature.jpg" alt="" width="2500" height="1406" /><br/>
-iOS 18.4 and iPadOS 18.4 can be downloaded from the Settings app on a compatible device by going to General > Software Update.<br/>
-<br/>
-iOS 18.4 includes a dedicated <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a> app, which will show up on your <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> if you have a Vision Pro headset that's also connected to your Apple Account. If you don't have a Vision Pro, it can be downloaded from the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>.<br/>
-<br/>
-The Vision Pro app is designed to help users find content, get help, and learn about new Vision Pro features. It includes tools for adding content to the <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a> app to watch later, downloading apps remotely, and viewing information about the Vision Pro such as device serial number with a dedicated My Vision Pro section.<br/>
-<br/>
-There is a dedicated Discover page that offers curated recommendations for new experiences that are available on Vision Pro. Users can see popular apps and games, a list of more than 300 3D movies, Apple Immersive videos, Vision Pro video content on the &zwnj;Apple TV&zwnj; app, and spatial photos, videos, and panoramas included in the new Spatial Gallery.<br/>
-<br/>
-With a My Vision Pro page, users can find tips for getting the most out of the Vision Pro, and set up features like vision correction and Personalized Spatial Audio.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/vision-pro-app-iphone.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991289" /><br/>
-Guest setup for the Vision Pro can now be managed on the &zwnj;iPhone&zwnj;, which makes it easier for Vision Pro owners to allow others to test the headset. There are controls for limiting what apps a guest can access, along with an option to view what the guest user is doing for guidance purposes. When a guest user puts on the Vision Pro, a prompt to enable Guest Mode will appear on the headset owner's device.<br/>
-<br/>
-Rumors suggested that iOS 18.4 would include new <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> <a href="https://www.macrumors.com/guide/siri/">Siri</a> features, but the new &zwnj;Siri&zwnj; options <a href="https://www.macrumors.com/2025/02/14/apple-intelligence-siri-overhaul-could-get-delayed/">may be delayed</a>. Apple is reportedly running into engineering problems and software bugs, and &zwnj;Siri&zwnj; is not yet working as intended, so there may be no new &zwnj;Siri&zwnj; features in the beta as of yet.<br/>
-<br/>
-Apple has promised &zwnj;Siri&zwnj; will get personal context, on-screen awareness, and the ability to do more in and between apps. Apple also plans to expand &zwnj;Apple Intelligence&zwnj; to additional languages in the iOS 18.4 update, so the new language support could be available. We're also still waiting on Priority Notifications, another &zwnj;Apple Intelligence&zwnj; feature that Apple says is coming in the near future.<br/>
-<br/>
-With testing starting in late February, iOS 18.4 and iPadOS 18.4 are expected to see a launch in April.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/ios-18/">iOS 18</a>, <a href="https://www.macrumors.com/roundup/ipados-18/">iPadOS 18</a></div><div class="linkback">Related Forums: <a href="https://forums.macrumors.com/forums/ios-18.244">iOS 18</a>, <a href="https://forums.macrumors.com/forums/ipados-18.245">iPadOS 18</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/apple-releases-ios-18-4-beta-1/">Apple Releases First Beta of iOS 18.4 With New Vision Pro App</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-first-beta-of-ios-18-4-with-new-vision-pro-app.2449907/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Releases First visionOS 2.4 Beta With Apple Intelligence, Spatial Gallery and More</title>
-		<link>https://www.macrumors.com/2025/02/21/apple-releases-visionos-2-4-beta-1/</link>
-		<comments>https://forums.macrumors.com/threads/apple-releases-first-visionos-2-4-beta-with-apple-intelligence-spatial-gallery-and-more.2449906/</comments>
-		<pubDate>Fri, 21 Feb 2025 10:02:02 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/apple-releases-visionos-2-4-beta-1/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>visionOS</category>
-		
-
-		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2025/02/apple-intelligence-comes-to-apple-vision-pro-in-april/">seeded the first beta</a> of an upcoming visionOS 2.4 update to developers for testing purposes, with the beta coming almost a month after the <a href="https://www.macrumors.com/2025/01/27/apple-releases-visionos-2-3/">launch of visionOS 2.3</a>.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/rF4GRFYcaM0" title="visionOS 2.4 Beta Out Now! A Big Update to Apple Vision Pro!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/user/macrumors?sub_confirmation=1">Subscribe to the MacRumors YouTube channel</a> for more videos.</em></div><br/>
-visionOS 2.4 can be installed by going to the Software Update section of the Settings app on the Vision Pro and opting into Beta Updates. A developer account is required.<br/>
-<br/>
-visionOS 2.4 will be one of the most significant visionOS updates to date, because it brings <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> to the Vision Pro for the first time. Apple started rolling out &zwnj;Apple Intelligence&zwnj; features on the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a>, <a href="https://www.macrumors.com/roundup/ipad/">iPad</a>, and Mac last year, but the Vision Pro was not included until now.<blockquote>"Apple Vision Pro is helping users communicate, collaborate, and experience entertainment in entirely new ways -- and we're continuing to push the boundaries of what's possible in spatial computing with visionOS 2.4," said Mike Rockwell, Apple's vice president of the Vision Products Group. "With Apple Intelligence, Vision Pro users will be able to take their productivity and creativity to new heights using features like Writing Tools, Image Playground, and Genmoji. And we're excited for users to discover and share incredible new experiences with Spatial Gallery."</blockquote>Apple Intelligence features that are accessible on the Vision Pro include Writing Tools for generating, proofreading, and summarizing text, <a href="https://www.macrumors.com/guide/genmoji/">Genmoji</a> for creating custom emoji characters, an <a href="https://www.macrumors.com/guide/image-playground/">Image Playground</a> app for generating images, Memory Movie for creating custom slideshows, smart reply for generating quick responses to texts and emails, Priority Notifications and Notification Summaries, ChatGPT <a href="https://www.macrumors.com/guide/siri/">Siri</a> integration and new &zwnj;Siri&zwnj; features, and <a href="https://www.macrumors.com/guide/image-wand/">Image Wand</a> for adding images to the Notes app, complete with gesture support.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/visionos-2-4-apple-intelligence-writing-tools.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-991277" /><br/>
-Apple is debuting a dedicated Spatial Gallery app for the Vision Pro, which includes a curated selection of spatial videos, spatial photos, and panorama images from artists, filmmakers, and photographers. Apple plans to offer a range of content featuring sports, culture, arts, lifestyle, nature, travel, entertainment, and more. Content at launch includes images and experiences from Cirque du Soleil, Red Bull, Porsche, Samba Diop, and Jonpaul Douglass, along with behind the scenes content from <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>+ shows.<br/>
-<br/>
-For Vision Pro management, there is a new Vision Pro app that's available on the &zwnj;iPhone&zwnj;. The Vision Pro app is designed to help Vision Pro users discover new content, and it has a number of features. Users can get Vision Pro support and feature help, download apps to the Vision Pro, add content to a watch list, and get device info like serial number. The app will automatically download for iOS 18.4 users who have a Vision Pro headset, but it can also be downloaded from the <a href="https://www.macrumors.com/guide/app-store/">App Store</a>.<br/>
-<br/>
-The Vision Pro app has a discover page that provides curated recommendations for new and noteworthy experiences. Users can see popular apps and games, including Apple Immersive titles.<br/>
-<br/>
-Most notably, an &zwnj;iPhone&zwnj; can now be used to set up the Guest Mode on the Vision Pro, which is a much more useful way to let people demo the headset than having to set it up on the Vision Pro itself. When a guest is ready to use the Vision Pro, a prompt will appear on the &zwnj;iPhone&zwnj;, and the Vision Pro user can select what the guest can access and see what the guest is doing using <a href="https://www.macrumors.com/guide/airplay/">AirPlay</a> to provide navigation guidance and content suggestions.<br/>
-<br/>
-Guests are able to save their eye and hand setup for up to 30 days after their last use.<br/>
-<br/>
-Apple plans to release visionOS 2.4 to the public in April.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/visionos-2/">visionOS 2</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/apple-releases-visionos-2-4-beta-1/">Apple Releases First visionOS 2.4 Beta With Apple Intelligence, Spatial Gallery and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-releases-first-visionos-2-4-beta-with-apple-intelligence-spatial-gallery-and-more.2449906/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds First Beta of macOS Sequoia 15.4</title>
-		<link>https://www.macrumors.com/2025/02/21/apple-seeds-first-beta-of-macos-sequoia-15-4/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-first-beta-of-macos-sequoia-15-4.2449905/</comments>
-		<pubDate>Fri, 21 Feb 2025 10:01:46 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/apple-seeds-first-beta-of-macos-sequoia-15-4/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Featured</category>
-		<category>macOS Sequoia</category>
-		
-
-		<description><![CDATA[Apple today seeded the first beta of an upcoming <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a> 15.4 update to developers, with the new update coming a month after Apple released &zwnj;macOS Sequoia&zwnj; 15.3. <br/>
-<br/>
-<img class="aligncenter size-full wp-image-955370" src="https://images.macrumors.com/article-new/2024/06/macOS-Sequoia-Feature.jpg" alt="" width="2500" height="1406" /><br/>
-Registered developers can opt-in to the &zwnj;macOS Sequoia&zwnj; beta through the Software Update section of the System Settings app. An <a href="https://www.macrumors.com/guide/apple-id/">Apple ID</a> associated with an Apple Developer account is required to get the beta.<br/>
-<br/>
-It's not yet clear what's included in &zwnj;macOS Sequoia&zwnj; 15.4, but the update is expected to feature new emoji characters and <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> in additional languages. When we learn what's new in &zwnj;macOS Sequoia&zwnj; 15.4, we'll update this article. <br/>
-<br/>
-macOS 15.4 is set to be released in April. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/macos-sequoia/">macOS Sequoia</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/macos-sequoia.246">macOS Sequoia</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/apple-seeds-first-beta-of-macos-sequoia-15-4/">Apple Seeds First Beta of macOS Sequoia 15.4</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-beta-of-macos-sequoia-15-4.2449905/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Seeds First Betas of tvOS 18.4 and watchOS 11.4</title>
-		<link>https://www.macrumors.com/2025/02/21/apple-seeds-first-beta-of-tvos-18-4/</link>
-		<comments>https://forums.macrumors.com/threads/apple-seeds-first-betas-of-tvos-18-4-and-watchos-11-4.2449910/</comments>
-		<pubDate>Fri, 21 Feb 2025 10:00:00 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/apple-seeds-first-beta-of-tvos-18-4/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Apple today provided developers with the first betas of upcoming watchOS 11.4 and tvOS 18.4 updates for testing purposes.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/04/apple-developer-app-feature.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-795934" /><br/>
-The betas are available to registered developers, and can be downloaded from the Settings app on each device.<br/>
-<br/>
-There is no word yet on what's included in the new software, but should any new features be found, we'll update this article.<br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/apple-seeds-first-beta-of-tvos-18-4/">Apple Seeds First Betas of tvOS 18.4 and watchOS 11.4</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-seeds-first-betas-of-tvos-18-4-and-watchos-11-4.2449910/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Best Apple Deals of the Week: Big Apple Watch Series 10 Discounts Hit Alongside AirPods and More</title>
-		<link>https://www.macrumors.com/2025/02/21/best-apple-deals-of-the-week-2-21-25/</link>
-		<comments>https://forums.macrumors.com/threads/best-apple-deals-of-the-week-big-apple-watch-series-10-discounts-hit-alongside-airpods-and-more.2449902/</comments>
-		<pubDate>Fri, 21 Feb 2025 09:47:02 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/best-apple-deals-of-the-week-2-21-25/</guid>
-		<dc:creator>Mitchel Broussard</dc:creator>
-		<category>Deals</category>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[This week we saw the return of a big sale on Apple Watch Series 10, plus numerous record low prices on iPad Pro, iPad Air, Apple Studio Display, and Apple Pencil Pro. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/07/best-apple-deals-new-purple-hero.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-960078" /><em><small>Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
-<br/>
-<h2>AirPods 4</h2><br/>
-<img src="https://images.macrumors.com/article-new/2025/02/airpods-4-new-purple.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-991268" /><br/>
-<ul><li><strong>What's the deal?</strong> Take &#36;30 off AirPods 4</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ7HYG1%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2025/02/18/airpods-4-for-all-time-low-price/">Right here</a></li></ul><br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ7HYG1%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;30 OFF</div>AirPods 4 (ANC) for &#36;148.99</div></a></div><br/>
-<br/>
-The best AirPods deal this week was on the AirPods 4 with Active Noise Cancellation, which is available for &#36;148.99, down from &#36;179.00. This is just about &#36;10 higher compared to the lowest-ever price.<br/>
-<br/>
-<h2>Apple Watch Series 10</h2><br/>
-<img src="https://images.macrumors.com/article-new/2025/02/apple-watch-series-10-new-purple.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-991270" /><br/>
-<ul><li><strong>What's the deal?</strong> Take &#36;70 off Apple Watch Series 10</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ5KQL7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2025/02/19/apple-watch-series-10-amazon-329/">Right here</a></li></ul><br/>
-<br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ5KQL7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 10 (42mm GPS) for &#36;329.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHQ2QH6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 10 (46mm GPS) for &#36;359.00</div></a></div><br/>
-<br/>
-Amazon this week has <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ5KQL7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">numerous all-time low prices</a> on Apple Watch Series 10, including both GPS and cellular models. You'll find &#36;70 off both 42mm and 46mm GPS Series 10 models in multiple case colors and band styles, and this time the deals do not require any coupon codes.<br/>
-<br/>
-<h2>Apple Pencil Pro</h2><br/>
-<img src="https://images.macrumors.com/article-new/2025/02/apple-pencil-pro-new-purple.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-991272" /><br/>
-<ul><li><strong>What's the deal?</strong> Take &#36;30 off Apple Pencil Pro</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J71RM7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2025/02/20/apple-pencil-pro-and-studio-display-deal/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J71RM7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;30 OFF</div>Apple Pencil Pro for &#36;99.00</div></a></div><br/>
-<br/>
-Another all-time low price available on Amazon this week was on the Apple Pencil Pro, and it's still available for &#36;99.00 today, down from &#36;129.00.<br/>
-<br/>
-<h2>Apple Studio Display</h2><br/>
-<img src="https://images.macrumors.com/article-new/2025/02/studio-display-new-purple.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-991273" /><br/>
-<ul><li><strong>What's the deal?</strong> Take &#36;299 off Apple Studio Display</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3GZD32%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Amazon</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2025/02/20/apple-pencil-pro-and-studio-display-deal/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3GZD32%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;299 OFF</div>Standard Glass Apple Studio Display for &#36;1,299.99</div></a></div><br/>
-<br/>
-The Apple Studio Display returned to its all-time low price of &#36;1,299.99 this week on Amazon, down from &#36;1,599.00. This is the Standard Glass model of the Studio Display, and right now it's the only model hitting a record low price.<br/>
-<br/>
-<h2>iPads</h2><br/>
-<img src="https://images.macrumors.com/article-new/2025/02/ipad-pro-new-purple.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-991274" /><br/>
-<ul><li><strong>What's the deal?</strong> Take up to &#36;200 off iPad Pro, and iPad Air</li><br/>
-<li><strong>Where can I get it?</strong> <a href="https://howl.link/0na9oyivhj6s1">Best Buy</a></li><br/>
-<li><strong>Where can I find the original deal?</strong> <a href="https://www.macrumors.com/2025/02/18/amazons-new-ipad-sale-air-pro/">Right here</a></li></ul><br/>
-<div class="center-wrap"><a href="https://howl.link/0na9oyivhj6s1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;100 OFF</div>128GB Wi-Fi 11-inch iPad Air for &#36;499.00</div></a></div><br/>
-<div class="center-wrap"><a href="https://howl.me/cm5pPmQKHqy"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;150 OFF</div>256GB Wi-Fi 11-inch iPad Pro for &#36;849.00</div></a></div><br/>
-<br/>
-Amazon and Best Buy introduced numerous discounts across the iPad Air and iPad Pro lineup this week, with the return of best-ever prices on multiple models. iPad Air tablets start at &#36;499.00 and reach up to &#36;200 off, while iPad Pro tablets start at &#36;849.00 and also reach up to &#36;200 off. You can find more details about all of these deals <a href="https://www.macrumors.com/2025/02/18/amazons-new-ipad-sale-air-pro/">in our original post</a>.<br/>
-<br/>
-If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<br/>
-<br/>
-<hr /><br/>
-<div class="no-raptive"><br/>
-<h3>Deals Newsletter</h3><br/>
-Interested in hearing more about the best deals you can find in 2025? <a href="http://eepurl.com/itTnTk">Sign up</a> for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!<br/>
-<br/>
-<div style="text-align:center;margin-bottom:2em;"><br/>
-<br/>
-<form action="http://macrumors.us5.list-manage.com/subscribe/post?u=7d0106b433773bd0aef5828e0&amp;id=eebad02bf4&amp;f_id=00fbede0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><input type="email" value="" name="EMAIL" size="30" class="required email" id="mce-EMAIL"  placeholder="Enter Email Address"/><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div><div style="position: absolute; left: -5000px;"><input type="text" name="b_7d0106b433773bd0aef5828e0_eebad02bf4" tabindex="-1" value=""/></div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div><br/>
-</div><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/best-apple-deals-of-the-week-2-21-25/">Best Apple Deals of the Week: Big Apple Watch Series 10 Discounts Hit Alongside AirPods and More</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/best-apple-deals-of-the-week-big-apple-watch-series-10-discounts-hit-alongside-airpods-and-more.2449902/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone 16e Continues Apple&#039;s Transition to Manufacturing in India</title>
-		<link>https://www.macrumors.com/2025/02/21/iphone-16e-made-in-india/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-16e-continues-apples-transition-to-manufacturing-in-india.2449897/</comments>
-		<pubDate>Fri, 21 Feb 2025 09:17:28 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/iphone-16e-made-in-india/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>iPhone 16e</category>
-		<category>India</category>
-		
-
-		<description><![CDATA[The <a href="https://www.macrumors.com/roundup/iphone-16e/">iPhone 16e</a> will join the four other <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> models  in being made in India, Apple has revealed.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/iPhone-16e-USB-C-Port.jpg" alt="" width="1680" height="952" class="alignnone size-full wp-image-990934" /><br/>
-<br/>
-In a response to a query from India's <a href="https://economictimes.indiatimes.com/industry/cons-products/electronics/iphone-16e-being-assembled-in-india-for-local-sale-exports-to-select-countries/articleshow/118413654.cms"><em>Economic Times</em></a>, Apple said that "the entire &zwnj;iPhone 16&zwnj; lineup, including &zwnj;iPhone 16e&zwnj;, is being assembled in India for Indian consumers and for export to select countries."<br/>
-<br/>
-In recent years, Apple has significantly increased its production footprint in the country. <a href="https://asia.nikkei.com/Business/Technology/Apple-seeks-to-rely-less-on-China-by-building-iPhone-16e-in-India"><em>Nikkei Asia</em></a> suggests that the share of iPhones made in India will rise from around 15% today to 25% by 2027. The 16e is reportedly likely to be assembled on the same Indian production lines as the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> 14.<br/>
-<br/>
-The <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a> and &zwnj;iPhone 16 Pro&zwnj; Max are the first high-end &zwnj;iPhone&zwnj; models to be <a href="https://www.macrumors.com/2024/07/29/apple-to-manufacture-pro-iphone-models-in-india/">made in India</a>. Apple's &zwnj;iPhone&zwnj; <a href="https://www.macrumors.com/2024/10/29/iphone-exports-india-surge/">exports from the country</a> reached nearly &#36;6 billion in the six months leading up to September 2024, representing a 33% increase compared to the same period last year. Apple is expected to begin <a href="https://www.macrumors.com/2024/12/13/airpods-made-in-india-from-next-year/">production of AirPods in India</a> for the first time later this year.<br/>
-<br/>
-<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16e/">iPhone 16e</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/india/">India</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-16e">iPhone 16e (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/iphone-16e-made-in-india/">iPhone 16e Continues Apple&#039;s Transition to Manufacturing in India</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-16e-continues-apples-transition-to-manufacturing-in-india.2449897/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>An Apple Store is on the Move in the UK</title>
-		<link>https://www.macrumors.com/2025/02/21/apple-trafford-centre-moving/</link>
-		<comments>https://forums.macrumors.com/threads/an-apple-store-is-on-the-move-in-the-uk.2449892/</comments>
-		<pubDate>Fri, 21 Feb 2025 08:42:58 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/apple-trafford-centre-moving/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>Apple Store</category>
-		
-
-		<description><![CDATA[A new Apple Store will be opening March 1 <a href="https://www.apple.com/uk/retail/traffordcentre/">at the Trafford Centre</a> shopping mall outside of Manchester, in the United Kingdom.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/Apple-Launch-Logo.jpg" alt="" width="1516" height="850" class="aligncenter size-full wp-image-991259" /><br/>
-Apple's existing store at the mall will be permanently closed starting February 27.<br/>
-<br/>
-Apple has not shared photos or details about the new Trafford Centre store, but you can expect a modern design that will likely include an Apple Pickup station for in-store pickup of orders that customers have placed on Apple's online store.<br/>
-<br/>
-Apple Trafford Centre originally opened in 2005.<br/>
-<br/>
-In other store news, Apple recently <a href="https://www.macrumors.com/2025/01/22/apple-previews-miami-worldcenter-store/">opened a new store in Miami</a>, and it says <a href="https://www.macrumors.com/2025/02/14/apple-store-downtown-detroit-coming-soon/">another store in Downtown Detroit is coming soon</a>.<br/>
-<br/>
-<em>(Thanks, <a href="http://choreographics.me/">Filip Chudzinski</a>!)</em><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/apple-trafford-centre-moving/">An Apple Store is on the Move in the UK</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/an-apple-store-is-on-the-move-in-the-uk.2449892/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>The MacRumors Show: iPhone 16e Announced!</title>
-		<link>https://www.macrumors.com/2025/02/21/the-macrumors-show-iphone-16e/</link>
-		<comments>https://forums.macrumors.com/threads/the-macrumors-show-iphone-16e-announced.2449891/</comments>
-		<pubDate>Fri, 21 Feb 2025 08:42:30 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/the-macrumors-show-iphone-16e/</guid>
-		<dc:creator>Hartley Charlton</dc:creator>
-		<category>Featured</category>
-		<category>Featured (sticky)</category>
-		<category>The MacRumors Show</category>
-		
-
-		<description><![CDATA[On this week's episode of <a href="https://podcasts.apple.com/podcast/apples-iphone-16e-love-it-or-hate-it/id1602394741?i=1000694785019">The MacRumors Show</a>, we unpack Apple's announcement of the all-new <a href="https://www.macrumors.com/roundup/iphone-16e/">iPhone 16e</a>.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/9VXQOC9Id14?si=0sRYU6uQXupDRswz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1">Subscribe to The MacRumors Show YouTube channel</a> for more videos</em></div><br/>
-The &zwnj;iPhone 16e&zwnj; is the newest member of the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> lineup, offering a massive upgrade over the now-discontinued third-generation &zwnj;iPhone&zwnj; SE. It features a 6.1-inch OLED display with a notch for <a href="https://www.macrumors.com/guide/mask-face-id/">Face ID</a>, a Ceramic Shield front cover, a USB-C port, and an Action button, and much more.<br/>
-<br/>
-It is powered by an A18 chip, enabling support for <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> features, such as notification summaries and <a href="https://www.macrumors.com/guide/genmoji/">Genmoji</a> for creating custom emoji. It also supports <a href="https://www.macrumors.com/guide/visual-intelligence/">Visual Intelligence</a>.<br/>
-<br/>
-In the &zwnj;iPhone 16e&zwnj;, the A18 chip has a 6-core CPU and a 16-core Neural Engine, but a binned 4-core GPU, making it slightly less powerful than the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> and &zwnj;iPhone 16&zwnj; Plus. It also has IP68-rated water resistance, Wi-Fi 6, and Bluetooth 5.3. <br/>
-<br/>
-The device is equipped with an <a href="https://www.macrumors.com/2025/02/19/apple-unveils-c1/">Apple-designed 5G modem called the C1</a>, whereas other iPhones have a Qualcomm modem. Apple says its own modem is so power efficient that the &zwnj;iPhone 16e&zwnj; offers the longest battery life of any 6.1-inch &zwnj;iPhone&zwnj; model ever at up to 26 hours.<br/>
-<br/>
-On the back of the &zwnj;iPhone 16e&zwnj; is a single 48-megapixel Fusion camera, which provides a 2x "optical-quality" Telephoto option, according to Apple. On the front, there is a 12-megapixel camera with autofocus. The device does not have the Camera Control button that was introduced across the rest of the &zwnj;iPhone 16&zwnj; lineup last year. It also <a href="https://www.macrumors.com/2025/02/19/iphone-16e-doesnt-have-magsafe/">lacks MagSafe</a>.<br/>
-<br/>
-&zwnj;iPhone 16e&zwnj; supports Apple's satellite features. When outside of cellular and Wi-Fi coverage, the &zwnj;iPhone 16e&zwnj; supports Emergency SOS, Roadside Assistance, Messages, and <a href="https://www.macrumors.com/guide/find-my/">Find My</a> via satellite. <br/>
-<br/>
-The device is available in white or black, and with 128GB, 256GB, or 512GB storage capacities. In the U.S., pricing starts at &#36;599. <br/>
-<br/>
-We talk through how the &zwnj;iPhone 16e&zwnj; compares to the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> and &zwnj;iPhone 16&zwnj;, which sit at &#36;699 and &#36;799, respectively. We also contemplate what the discontinuation of the &zwnj;iPhone&zwnj; SE line means for the rumored third-generation <a href="https://www.macrumors.com/roundup/apple-watch-se/">Apple Watch SE</a>, which is rumored to launch later this year. <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a> has <a href="https://www.youtube.com/@themacrumorsshow">its own YouTube channel</a>, so make sure you're subscribed to keep up with new episodes and clips.<br/>
-<br/>
-<div class="center-wrap"><a href="https://www.youtube.com/@themacrumorsshow?sub_confirmation=1"><div class="fancybutton">Subscribe to <em>The MacRumors Show</em> YouTube channel!</div></a></div><br/>
-<br/>
-You can also listen to &zwnj;The MacRumors Show&zwnj; on <a href="https://podcasts.apple.com/podcast/id1602394741">Apple Podcasts</a>, <a href="https://open.spotify.com/show/41XOHIA6w8IxAKJZvrnx90">Spotify</a>, <a href="https://overcast.fm/itunes1602394741">Overcast</a>, or your preferred podcasts app. You can also <a href="https://audioboom.com/channels/5096144.rss">copy our RSS feed</a> directly into your podcast player.<br/>
-<br/>
-<div class="center-wrap"><iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/the-macrumors-show/id1602394741?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe></div><br/>
-If you haven't already listened to the <a href="https://www.macrumors.com/2025/02/07/the-macrumors-show-invites-app/">previous episode of The MacRumors Show</a>, catch up for our discussion about the imminent Apple product "launch" that is widely expected to be the fourth-generation &zwnj;iPhone&zwnj; SE.<br/>
-<br/>
-Subscribe to &zwnj;The MacRumors Show&zwnj; for new episodes every week, where we discuss some of the topical news breaking here on <em>MacRumors</em>, often joined by interesting guests such as <a href="https://www.macrumors.com/2024/11/15/the-macrumors-show-apple-pro-apps-updates/">Kevin Nether</a>, <a href="https://www.macrumors.com/2024/11/01/the-macrumors-show-jon-prosser-talks-m4-macs/">Jon Prosser</a>, <a href="https://www.macrumors.com/2024/07/05/the-macrumors-show-luke-miani-talks-apple-watch-x/">Luke Miani</a>, <a href="https://www.macrumors.com/2024/04/12/the-macrumors-show-matthew-cassinelli/">Matthew Cassinelli</a>, <a href="https://www.macrumors.com/2024/02/23/the-macrumors-show-brian-tong-vision-pro/">Brian Tong</a>, <a href="https://www.macrumors.com/2024/02/09/the-macrumors-show-one-week-with-vision-pro/">Quinn Nelson</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Jared Nelson</a>, <a href="https://www.macrumors.com/2023/11/10/the-macrumors-show-apple-gaming-ft-toucharcade/">Eli Hodapp</a>, <a href="https://www.macrumors.com/2023/10/13/the-macrumors-show-former-apple-executive-mike-bell/">Mike Bell</a>, <a href="https://www.macrumors.com/2023/10/06/the-macrumors-show-sara-dietschy-apple-accessories/">Sara Dietschy</a>, <a href="https://www.macrumors.com/2023/09/15/the-macrumors-show-ijustine-talks-iphone-15/">iJustine</a>, <a href="https://www.macrumors.com/2023/08/25/the-macrumors-show-iphone-15-jon-rettinger/">Jon Rettinger</a>, <a href="https://www.macrumors.com/2023/02/10/the-macrumors-show-andru-edwards-iphone-ultra/">Andru Edwards</a>, <a href="https://www.macrumors.com/2023/05/26/the-macrumors-show-arnold-kim/">Arnold Kim</a>, <a href="https://www.macrumors.com/2023/05/19/the-macrumors-show-ben-sullins-apple-car/">Ben Sullins</a>, <a href="https://www.macrumors.com/2023/04/07/the-macrumors-show-marcus-kane-headset-design/">Marcus Kane</a>, <a href="https://www.macrumors.com/2023/03/24/the-macrumors-show-christopher-lawley-talks-ipados/">Christopher Lawley</a>, <a href="https://www.macrumors.com/2023/03/10/the-macrumors-show-frank-mcshan-yellow-iphone-14/">Frank McShan</a>, <a href="https://www.macrumors.com/2023/02/24/the-macrumors-show-david-lewis-talks-apple-audio/">David Lewis</a>, <a href="https://www.macrumors.com/2023/01/27/the-macrumors-show-tyler-stalman-new-macs/">Tyler Stalman</a>, <a href="https://www.macrumors.com/2022/09/02/the-macrumors-show-apple-event-expectations/">Sam Kohl</a>, <a href="https://www.macrumors.com/2022/11/09/the-macrumors-show-john-gruber-talks-macos-ventura/">John Gruber</a>, <a href="https://www.macrumors.com/2022/10/28/the-macrumors-show-ipados-16-ft-federico-viticci/">Federico Viticci</a>, <a href="https://www.macrumors.com/2022/08/26/the-macrumors-show-thomas-frank-talks-productivity/">Thomas Frank</a>, <a href="https://www.macrumors.com/2022/07/21/the-macrumors-show-jonathan-morrison/">Jonathan Morrison</a>, <a href="https://www.macrumors.com/2022/07/12/the-macrumors-show-ross-young/">Ross Young</a>, <a href="https://www.macrumors.com/2022/06/21/the-macrumors-show-ian-zelbo/">Ian Zelbo</a>, and <a href="https://www.macrumors.com/2022/03/25/the-macrumors-show-rene-ritchie-talks-mac-studio/">Rene Ritchie</a>.<br/>
-<br/>
-&zwnj;The MacRumors Show&zwnj; is on X <a href="https://twitter.com/macrumorsshow">@MacRumorsShow</a><a href="https://twitter.com/macrumorsshow"></a>, so be sure to give us a follow to keep up with the podcast. You can also head over to <a href="https://forums.macrumors.com/threads/the-macrumors-show-discussion-thread.2383023/">The MacRumors Show</a> forum thread to engage with us directly. Remember to rate and review the podcast, and let us know what subjects and guests you would like to see in the future.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/the-macrumors-show/">The MacRumors Show</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/the-macrumors-show-iphone-16e/">The MacRumors Show: iPhone 16e Announced!</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/the-macrumors-show-iphone-16e-announced.2449891/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Denies Speculation Surrounding iPhone 16e&#039;s Lack of MagSafe</title>
-		<link>https://www.macrumors.com/2025/02/21/iphone-16e-no-magsafe-unrelated-to-c1/</link>
-		<comments>https://forums.macrumors.com/threads/apple-denies-speculation-surrounding-iphone-16es-lack-of-magsafe.2449889/</comments>
-		<pubDate>Fri, 21 Feb 2025 08:01:04 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/iphone-16e-no-magsafe-unrelated-to-c1/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPhone 16e</category>
-		<category>MagSafe</category>
-		
-
-		<description><![CDATA[Apple has confirmed that its <a href="https://www.macrumors.com/2025/02/19/apple-unveils-c1/">custom-designed C1 modem</a> in the <a href="https://www.macrumors.com/2025/02/19/apple-announces-iphone-16e/">iPhone 16e</a> has nothing to do with the device's lack of MagSafe support, <a href="https://www.macworld.com/article/2614585/iphone-16e-without-magsafe-apple-modem-c1-is-the-reason.html">according to <em>Macworld</em></a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/iPhone-16e-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-990895" /><br/>
-Following the launch of the iPhone 16e, there was some speculation online about how MagSafe magnets might have interfered with the C1 modem's cellular connectivity performance, and this was considered to be a potential reason for the device not supporting MagSafe. But, that explanation is not true, according to Apple.<br/>
-<br/>
-From the report:<blockquote><strong>Update 11:18am ET:</strong> Apple has confirmed to Macworld that the C1 modem is not responsible for the decision to leave MagSafe charging off the new iPhone 16e.</blockquote>A well-known iPhone case maker told <em>MacRumors</em> that it completed testing that confirmed MagSafe cases do not impact the C1 modem's performance.<br/>
-<br/>
-So, why does the iPhone 16e lack MagSafe? Apple has not disclosed its actual reasoning, but we would wager that it simply comes down to pricing considerations.<br/>
-<br/>
-<a href="https://www.macrumors.com/2025/02/21/iphone-16e-now-available-for-pre-order-ahead-of-february-28-launch/">iPhone 16e pre-ordering</a> started today, and the device launches Friday, February 28.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/iphone-16e/">iPhone 16e</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/magsafe/">MagSafe</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#iPhone-16e">iPhone 16e (Buy Now)</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/iphone-16e-no-magsafe-unrelated-to-c1/">Apple Denies Speculation Surrounding iPhone 16e&#039;s Lack of MagSafe</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-denies-speculation-surrounding-iphone-16es-lack-of-magsafe.2449889/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple Pulls Encrypted iCloud Security Feature in UK Amid Government Backdoor Demands</title>
-		<link>https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/</link>
-		<comments>https://forums.macrumors.com/threads/apple-pulls-encrypted-icloud-security-feature-in-uk-amid-government-backdoor-demands.2449885/</comments>
-		<pubDate>Fri, 21 Feb 2025 07:17:34 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>Apple Privacy</category>
-		<category>Apple Security</category>
-		<category>Encryption</category>
-		<category>United Kingdom</category>
-		
-
-		<description><![CDATA[Apple has withdrawn its Advanced Data Protection iCloud feature from the United Kingdom following government demands for backdoor access to encrypted user data, according to <a href="https://www.bloomberg.com/news/articles/2025-02-21/apple-removes-end-to-end-encryption-feature-from-uk-after-backdoor-order"><em>Bloomberg</em></a>. The move comes after UK officials secretly ordered Apple to provide unrestricted access to encrypted iCloud content worldwide.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-988727" /><br/>
-Customers who are already using Advanced Data Protection, or ADP, will need to manually disable it during an unspecified grace period to keep their iCloud accounts, according to the report. Apple said it will issue additional guidance in the future to affected users and that it "does not have the ability to automatically disable it on their behalf."<br/>
-<br/>
-The <a href="https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/">UK government's demand</a> came through a "technical capability notice" under the Investigatory Powers Act (IPA), requiring Apple to create a backdoor that would allow British security officials to access encrypted user data globally. The order would have compromised Apple's Advanced Data Protection feature, which provides end-to-end encryption for iCloud data including Photos, Notes, Messages backups, and device backups.<br/>
-<blockquote>"We are gravely disappointed that the protections provided by ADP will not be available to our customers in the UK given the continuing rise of data breaches and other threats to customer privacy," Apple said in a statement. "ADP protects iCloud data with end-to-end encryption, which means the data can only be decrypted by the user who owns it, and only on their trusted devices."</blockquote>Apple's decision to pull the feature rather than comply with the UK's demands is consistent with the company's previous statements that it would consider withdrawing encrypted services from the UK rather than compromise security. Apple has long opposed creating backdoors in its products, maintaining that such access points would inevitably be discovered by malicious actors.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/advanced-data-protection.jpg" alt="" width="1072" height="388" class="aligncenter size-full wp-image-991218" /><div class="center-wrap"><em>Notice UK iCloud users now see after the feature was pulled</em></div><br/>
-The UK order was particularly controversial as it would have required Apple to provide access to data from users outside the UK without their governments' knowledge. Additionally, the IPA makes it illegal for companies to disclose the existence of such government demands.<br/>
-<br/>
-US security agencies, including the FBI and NSA, have been advocating for increased use of encryption to protect against Chinese cyber threats, creating potential conflicts between UK and US security interests.<br/>
-<br/>
-"Enhancing the security of cloud storage with end-to-end encryption is more urgent than ever before,” said Apple on Friday, per <em>Bloomberg</em>. The company added that it "remains committed to offering our users the highest level of security for their personal data and are hopeful that we will be able to do so in the future in the United Kingdom."<br/>
-<br/>
-Note that the loss of Advanced Data Protection in the UK does not affect the existing end-to-end encryption of several other Apple features available in the country, including iMessage, FaceTime, password management and health data.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-privacy/">Apple Privacy</a>, <a href="https://www.macrumors.com/guide/apple-security/">Apple Security</a>, <a href="https://www.macrumors.com/guide/encryption/">Encryption</a>, <a href="https://www.macrumors.com/guide/united-kingdom/">United Kingdom</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/">Apple Pulls Encrypted iCloud Security Feature in UK Amid Government Backdoor Demands</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-pulls-encrypted-icloud-security-feature-in-uk-amid-government-backdoor-demands.2449885/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>All Four iPhone 17 Models Said to Feature Apple-Designed Wi-Fi 7 Chip</title>
-		<link>https://www.macrumors.com/2025/02/21/iphone-17-air-wifi-7-rumor/</link>
-		<comments>https://forums.macrumors.com/threads/all-four-iphone-17-models-said-to-feature-apple-designed-wi-fi-7-chip.2449882/</comments>
-		<pubDate>Fri, 21 Feb 2025 06:58:52 PST</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/02/21/iphone-17-air-wifi-7-rumor/</guid>
-		<dc:creator>Joe Rossignol</dc:creator>
-		<category>iPhone 17</category>
-		<category>iPhone 17 Air</category>
-		<category>iPhone 17 Pro</category>
-		<category>Jeff Pu</category>
-		
-
-		<description><![CDATA[Earlier this week, Apple analyst Ming-Chi Kuo said all four iPhone 17 models will be <a href="https://www.macrumors.com/2025/02/20/kuo-iphone-17-models-apple-designed-wi-fi-7-chip/">equipped with Apple's first-ever custom-designed Wi-Fi chip</a>. He did not say which Wi-Fi version the chip will support, but it appears that it will be Wi-Fi 7.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/01/Apple-Wi-Fi-Chip-Feature-Triad.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-883034" /><br/>
-All four iPhone 17 models will feature an Apple-designed Wi-Fi 7 chip, according to Jeff Pu, an analyst who covers companies within Apple's supply chain. He shared this information in a research note with GF Securities earlier this month.<br/>
-<br/>
-The entire iPhone 16 lineup already supports Wi-Fi 7, so this is not much of a surprise, but the fact that the chip will be designed by Apple is notable. Apple recently debuted its <a href="https://www.macrumors.com/2025/02/20/apple-says-c1-modem-is-just-the-start/">custom-designed C1 modem</a> in the iPhone 16e, for cellular connectivity, and now the company is expected to debut an in-house Wi-Fi chip in the iPhone 17 models later this year. By designing more of its own chips, Apple can reduce and eventually eliminate its reliance on external suppliers, including Qualcomm for modems and Broadcom for Wi-Fi chips.<br/>
-<br/>
-Wi-Fi 7 allows for data transmission over the 2.4GHz, 5GHz, and 6GHz bands simultaneously with a supported router, resulting in faster Wi-Fi speeds, lower latency, and more reliable connectivity. Wi-Fi 7 can provide peak speeds of over 40 Gbps, a 4× increase over Wi-Fi 6E, if a device supports the maximum specifications.<br/>
-<br/>
-Apple is expected to unveil the iPhone 17 lineup in September.<div class="linkback">Related Roundups: <a href="https://www.macrumors.com/roundup/iphone-17/">iPhone 17</a>, <a href="https://www.macrumors.com/roundup/iphone-17-air/">iPhone 17 Air</a>, <a href="https://www.macrumors.com/roundup/iphone-17-pro/">iPhone 17 Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/jeff-pu/">Jeff Pu</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/21/iphone-17-air-wifi-7-rumor/">All Four iPhone 17 Models Said to Feature Apple-Designed Wi-Fi 7 Chip</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/all-four-iphone-17-models-said-to-feature-apple-designed-wi-fi-7-chip.2449882/">Discuss this article</a> in our forums<br/><br/>]]></description>
+<a href="https://www.macrumors.com/2024/12/23/m5-macs-launch-timing/">Back in December</a>, Kuo said that Apple would accelerate its Private Cloud Compute infrastructure for <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> when the mass production of M5 Pro, M5 Max, and M5 Ultra chips started. Kuo expects the M5 Pro and M5 Max to enter mass production this year, with M5 Ultra chips to be mass produced starting in 2026.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-silicon/">Apple Silicon</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/02/24/apple-factory-texas-ai-servers-m5/">Apple&#039;s New U.S. Chip Factory to Produce AI Servers With High-End M5 Chips</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-new-u-s-chip-factory-to-produce-ai-servers-with-high-end-m5-chips.2450092/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
