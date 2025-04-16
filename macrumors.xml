@@ -14,12 +14,311 @@
 	<link>https://www.macrumors.com</link>
 	
 	<description>Apple, iPhone, iPad, Mac News and Rumors</description>
-	<lastBuildDate>Wed, 16 Apr 2025 03:03:46 PDT</lastBuildDate>
+	<lastBuildDate>Wed, 16 Apr 2025 09:04:34 PDT</lastBuildDate>
 
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://www.macrumors.com</generator>
+		
+		<item>
+		<title>Reveal Hidden Folder Sizes in macOS Finder With These Tricks</title>
+		<link>https://www.macrumors.com/how-to/reveal-finder-folder-sizes-macos/</link>
+		<comments>https://forums.macrumors.com/threads/reveal-hidden-folder-sizes-in-macos-finder-with-these-tricks.2455433/</comments>
+		<pubDate>Wed, 16 Apr 2025 08:28:10 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/how-to/reveal-finder-folder-sizes-macos&#038;post_date=1744828090/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[When using macOS Finder in List view, you'll see the sizes of individual files – but not folders.<br/>
+Instead, folders show a pair of dashes (--) in the Size column. macOS skips calculating folder sizes by default to keep List view performance fast, especially in directories with many nested files. But if you want to keep an eye on folder sizes in certain locations, or even globally, there are a few ways to do it. Here's how.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/04/finder-window-list-view-1.jpg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-998961" /><br/>
+What if you want to use List view and still keep an eye on the size of a handful of folders in a specific location – in Documents, for instance, or in a directory synced to a cloud storage service? Or what if you have a super-fast SSD that can handle the pressure of calculating the size of lots of folders on the fly? Thankfully, there are several ways to make Finder show folder sizes, even in List view.<br/>
+<br/>
+<h2>Enable Calculate All Sizes</h2><br/>
+<img src="https://images.macrumors.com/article-new/2025/04/calculate-folder-sizes.jpg" alt="finder" width="2650" height="1742" class="aligncenter size-full wp-image-998962" /><br/>
+Open the folder in question, select <strong>View ➝ Show View Options</strong> from the menu bar or press the keys <strong>Command+J</strong>, and check <strong>Calculate All Sizes</strong>. Finder will now remember your viewing preference for that particular location only.<br/>
+<br/>
+<h2>Turn On Preview Panel</h2> <br/>
+If you're looking for a more global solution for keeping tabs on folder sizes that will work in any Finder view mode, you might consider enabling the Preview panel. To do this, open a Finder window and select the menu bar option <strong>View ➝ Show Preview</strong>, or press the keys <strong>Shift+Command+P</strong>. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/04/finder-folder-preview.jpg" alt="finder" width="2502" height="1178" class="aligncenter size-full wp-image-998964" /><br/>
+In the Preview panel, the size of the selected folder always appears immediately below the folder name. If this is the only folder information you want to see in the Preview panel, you can select the menu bar option <strong>View ➝ Show Preview Options</strong> and uncheck all other metadata options.<br/>
+<br/>
+<h2>Use Get Info</h2><br/>
+Of course, you may find that relying on the Preview panel to keep a check on individual folder sizes isn't an ideal use of Finder window space. This is where the menu bar option <strong>File ➝ Get Info</strong> (or key combo <strong>Command+I</strong>) can come in helpful. Opening a separate Get Info panel lets you see the size of the item in question, regardless of whether it's a file or a folder. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/04/get-info-windows.jpg" alt="finder" width="2622" height="1890" class="aligncenter size-full wp-image-998965" /><br/>
+The downside? Each Get Info panel is static and specific to the item selected. Opening several at once can clutter your desktop, since each new window stays open until manually closed.<br/>
+<br/>
+<h2>Use Inspector for Live Folder Info</h2><br/>
+<img src="https://images.macrumors.com/article-new/2025/04/finder-inspector.jpg" alt="finder" width="2304" height="1616" class="aligncenter size-full wp-image-998967" /><br/>
+Fortunately, this inconvenience can be easily solved: Click <strong>File</strong> in the menu bar and hold the <strong>Option</strong> key, and <strong>Get Info</strong> will turn into <strong>Show Inspector</strong>. Unlike a Get Info panel, the Inspector panel is dynamically updated and will always display information for the active Finder window's currently selected file or folder – including, of course, its size.<br/>
+<br/>
+In summary, for casual folder-size checking, use the Preview panel. For detailed or multiple folders, enable Calculate All Sizes in View Options. And if you need real-time updates without clutter, use Show Inspector.<br/>This article, &quot;<a href="https://www.macrumors.com/how-to/reveal-finder-folder-sizes-macos/">Reveal Hidden Folder Sizes in macOS Finder With These Tricks</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/reveal-hidden-folder-sizes-in-macos-finder-with-these-tricks.2455433/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple &#039;Vision Air&#039; Headset Rumored to Feature Thinner, Lighter Design With &#039;Midnight&#039; Finish</title>
+		<link>https://www.macrumors.com/2025/04/16/apple-vision-air-rumored-with-new-design/</link>
+		<comments>https://forums.macrumors.com/threads/apple-vision-air-headset-rumored-to-feature-thinner-lighter-design-with-midnight-finish.2455430/</comments>
+		<pubDate>Wed, 16 Apr 2025 08:14:54 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/04/16/apple-vision-air-rumored-with-new-design/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Vision Pro</category>
+		<category>Kosutami</category>
+		
+
+		<description><![CDATA[An all new Apple "Vision Air" headset featuring a thinner, lighter design and a "Midnight" blue finish is in the works, according to the prototype collector and leaker known as "<a href="https://www.macrumors.com/guide/kosutami/">Kosutami</a>."<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/06/apple-vision-pro-expanded.jpg" alt="" width="2949" height="1659" class="alignnone size-full wp-image-898909" /><br/>
+In a new <a href="https://x.com/Kosutami_Ito/status/1912515498480193846">post on X</a>, the leaker explained that the "Vision Air" will feature a thinner design and switch the battery enclosure and several of its internal structures to titanium to reduce the device's overall weight. Most of the exterior of the device will continue to be aluminum, except with a "Midnight" bluish-black finish. Today's Vision Pro is only available in silver.<br/>
+<br/>
+The leaker also recently shared a series of images of a new, Lightning-style connector in Midnight purportedly for the next-generation Vision device.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our next Vision <a href="https://t.co/VGAK9rNsrU">pic.twitter.com/VGAK9rNsrU</a></p>&mdash; Kosutami (@Kosutami_Ito) <a href="https://twitter.com/Kosutami_Ito/status/1911069453170999702?ref_src=twsrc%5Etfw">April 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+<br/>
+The Vision Pro uses a similar connector, except with 12 pins instead of eight, suggesting that the new cable is part of a more substantial redesign.<br/>
+<br/>
+Apple is expected to release a <a href="https://www.macrumors.com/2025/04/08/vision-pro-2-now-in-production/">second-generation Vision Pro headset</a> with the <a href="https://www.macrumors.com/2024/11/03/apple-vision-pro-with-m5-chip-rumor/">M5 chip</a> between <a href="https://www.macrumors.com/2025/04/08/vision-pro-2-now-in-production/">fall 2025 and spring 2026</a>, but the company's work on a lower-cost headset is <a href="https://www.macrumors.com/2024/11/03/apple-vision-pro-with-m5-chip-rumor/">widely rumored</a>. The latter could be the "Vision Air" device Kosutami is today referring to.<br/>
+<br/>
+Kosutami has a mixed track record for Apple rumors, but they were the <a href="https://www.macrumors.com/2023/08/09/new-apple-watch-magnetic-band/">first to say</a> that Apple would replace its leather Modern Buckle band with a FineWoven version in 2023. They also went on to provide the <a href="https://www.macrumors.com/2023/09/12/exclusive-first-look-finewoven-apple-watch-band/">first real-world images</a> of the FineWoven Apple Watch bands prior to their official unveiling, the <a href="https://www.macrumors.com/2023/08/25/iphone-15-pro-usb-c-thunderbolt-cable/">new Thunderbolt 4 cable</a> released alongside the <a href="https://www.macrumors.com/roundup/iphone-15/">iPhone 15</a> Pro, the <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a>'s <a href="https://www.macrumors.com/2023/11/16/iphone-16-new-thermal-design/">improved thermal design</a> and <a href="https://www.macrumors.com/2023/11/20/iphone-16-pro-leak-reveals-redesigned-battery/">redesigned battery</a>, and more. <div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/apple-vision-pro/">Apple Vision Pro</a></div><div class="linkback">Tag: <a href="https://www.macrumors.com/guide/kosutami/">Kosutami</a></div><div class="linkback">Buyer's Guide: <a href="https://buyersguide.macrumors.com/#AppleVisionPro">Vision Pro (Neutral)</a></div><div class="linkback">Related Forum: <a href="https://forums.macrumors.com/forums/apple-vision-pro.209">Apple Vision Pro</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/16/apple-vision-air-rumored-with-new-design/">Apple &#039;Vision Air&#039; Headset Rumored to Feature Thinner, Lighter Design With &#039;Midnight&#039; Finish</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-vision-air-headset-rumored-to-feature-thinner-lighter-design-with-midnight-finish.2455430/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Announces Major Reduction in Greenhouse Gas Emissions</title>
+		<link>https://www.macrumors.com/2025/04/16/apple-announces-major-reduction-in-gas-emissions/</link>
+		<comments>https://forums.macrumors.com/threads/apple-announces-major-reduction-in-greenhouse-gas-emissions.2455426/</comments>
+		<pubDate>Wed, 16 Apr 2025 07:28:28 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/04/16/apple-announces-major-reduction-in-gas-emissions/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Apple Environment</category>
+		<category>Environment</category>
+		<category>Environmental Responsibility</category>
+		
+
+		<description><![CDATA[Apple today <a href="https://www.apple.com/newsroom/2025/04/apple-surpasses-60-percent-reduction-in-global-greenhouse-gas-emissions/">announced</a> that it has now reduced its global greenhouse gas emissions by more than 60 percent compared to 2015 levels, as part of its commitment to achieving full carbon neutrality across its entire business footprint by 2030.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2022/05/apple-park-sunset.jpg" alt="" width="2000" height="1125" class="alignnone size-full wp-image-844498" /><br/>
+The update was shared ahead of Earth Day as part of the company's <a href="https://www.apple.com/environment/">2025 Environmental Progress Report</a>. The 60% milestone includes emissions from corporate operations, manufacturing, and the full product life cycle. The company aims to cut its emissions by 75% overall by 2030, with the remaining 25% to be offset through what it describes as "high-quality carbon credits." According to Apple, its efforts in 2024 alone prevented around 41 million metric tons of greenhouse gas emissions.<br/>
+<br/>
+The report outlines several areas of recent progress, particularly in clean energy adoption across its supply chain and the use of recycled materials in Apple-designed components. As of this year, Apple has achieved the use of 99% recycled rare earth elements in all magnets across its product lines, including in the Taptic Engine found in the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and Apple Watch. The company also reports 99% recycled cobalt usage in batteries that are designed in-house, which it says accounts for over 97% of its total cobalt consumption. The goal is to reach 100% for both materials during 2025.<br/>
+<br/>
+Apple said that there are now 17.8 gigawatts of renewable electricity in use across its supply chain–a significant increase from previous years. In 2024, the renewable energy used by suppliers helped avoid 21.8 million metric tons of emissions, an increase of more than 17% compared to 2023. Suppliers are also working with Apple to improve energy efficiency, avoiding almost two million metric tons of emissions.<br/>
+<br/>
+Apple has additionally focused on reducing emissions from the manufacturing of semiconductors and displays, processes that release potent fluorinated greenhouse gases. The company said that 26 of its semiconductor suppliers, as well as all of its direct display suppliers, have now committed to abate at least 90% of fluorinated emissions related to Apple production by 2030.<br/>
+<br/>
+Since the launch of its Supplier Clean Water Program in 2013, Apple and its suppliers have apparently saved more than 90 billion gallons of fresh water. The company reports that 14 billion gallons were saved in 2024 alone, and that participating suppliers achieved an average reuse rate of 42%. Apple has set a target to replenish 100% of freshwater used in high-stress areas by 2030 and has now initiated partnerships expected to account for over 40% of that goal.<br/>
+<br/>
+The company's "Zero Waste" program continued to expand last year. Suppliers involved in the program redirected roughly 600,000 metric tons of waste from landfills in 2024, bringing the total to 3.6 million metric tons since the program began in 2015. Moreover, the new <a href="https://www.macrumors.com/roundup/macbook-air/">MacBook Air</a> is produced using more than 55 percent recycled content—the highest proportion yet in any Apple device. <br/>
+<br/>
+As part of its Earth Day initiatives, Apple is encouraging users to <a href="https://www.macrumors.com/2025/04/16/apple-earth-day-recycling-promotion/">recycle eligible devices</a> by offering 10% off a new Apple accessory when recycling in-store before May 16. It is also launching a range of themed content and challenges; Apple Watch users will be able to earn a limited-edition award on April 22 by completing a 30-minute workout.<br/>
+<br/>
+A new episode of Time to Walk featuring actress and environmental advocate Shailene Woodley will be available from April 21 in Apple Fitness+. Additional episodes of Time to Run explore locations such as Lake Tahoe, Zion National Park, and Yellowstone. These are accompanied by a guided ocean breathing meditation.<br/>
+<br/>
+<a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>+ is also promoting a selection of nature-themed content for Earth Day, including original series such as <em>Prehistoric Planet</em>, <em>Tiny World</em>, <em>Earth at Night in Color</em>, and <em>The Secret Lives of Animals</em> in a curated collection titled "The Future Is Up to Us." The Tips app now includes a dedicated Earth Day collection that suggests ways &zwnj;iPhone&zwnj; users can reduce environmental impact, such as identifying plants in the <a href="https://www.macrumors.com/guide/photos/">Photos</a> app or using downloadable Maps for offline outdoor exploration.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-environment/">Apple Environment</a>, <a href="https://www.macrumors.com/guide/environment/">Environment</a>, <a href="https://www.macrumors.com/guide/environmental-responsibility/">Environmental Responsibility</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/16/apple-announces-major-reduction-in-gas-emissions/">Apple Announces Major Reduction in Greenhouse Gas Emissions</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-announces-major-reduction-in-greenhouse-gas-emissions.2455426/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Amazon Takes Up to &#36;79 Off Apple Watch SE and Apple Watch Series 10</title>
+		<link>https://www.macrumors.com/2025/04/16/amazon-apple-watch-se-series-10/</link>
+		<comments>https://forums.macrumors.com/threads/amazon-takes-up-to-79-off-apple-watch-se-and-apple-watch-series-10.2455425/</comments>
+		<pubDate>Wed, 16 Apr 2025 07:01:24 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/04/16/amazon-apple-watch-se-series-10/</guid>
+		<dc:creator>Mitchel Broussard</dc:creator>
+		<category>Deals</category>
+		<category>Featured</category>
+		
+
+		<description><![CDATA[Amazon today is discounting <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ5KQL7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">numerous models</a> of the Apple Watch Series 10 and Apple Watch SE, including both GPS and cellular models.<br/>
+<br/>
+<h2>Apple Watch Series 10</h2><br/>
+<img src="https://images.macrumors.com/article-new/2025/01/apple-watch-series-10-new-blue.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-984049" /><em><small>Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.</small></em><br/>
+<br/>
+Amazon has the 42mm GPS Apple Watch Series 10 for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ5KQL7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;329.00</strong></a>, down from &#36;399.00, as well as the 46mm GPS model for <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHQ2QH6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"><strong>&#36;359.00</strong></a>, down from &#36;429.00. Both of these are solid second-best prices on the Apple Watch Series 10, and they're available in numerous case colors and band styles, all of which you can find in the lists below.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ5KQL7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 10 (42mm GPS) for &#36;329.00</div></a></div><br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHQ2QH6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;70 OFF</div>Apple Watch Series 10 (46mm GPS) for &#36;359.00</div></a></div><br/>
+<h3>42mm GPS Apple Watch Series 10</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ5KQL7%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Jet Black Aluminum Case with Black Sport Band (S/M)</a> - &#36;329.00, down from &#36;399.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJBRKHV%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Jet Black Aluminum Case with Ink Sport Loop</a> - &#36;329.00, down from &#36;399.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHV8NLZ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Rose Gold Aluminum Case with Plum Sport Loop</a> - &#36;329.00, down from &#36;399.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHYQ1VJ%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Rose Gold Aluminum Case with Light Blush Sport Loop</a> - &#36;329.00, down from &#36;399.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ2C3YR%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Silver Aluminum Case with Blue Cloud Sport Loop</a> - &#36;329.00, down from &#36;399.00</li></ul><br/>
+<h3>46mm GPS Apple Watch Series 10</h3><br/>
+<ul><li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHQ2QH6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Jet Black Aluminum Case with Black Sport Band (M/L)</a> - &#36;359.00, down from &#36;429.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHNXP5Y%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Jet Black Aluminum Case with Ink Sport Loop</a> - &#36;359.00, down from &#36;429.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ3WKR6%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1%26psc%3D1">Rose Gold Aluminum Case with Light Blush Sport Band (M/L)</a> - &#36;359.00, down from &#36;429.00</li><br/>
+<li><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHVB7QS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1">Silver Aluminum Case with Blue Cloud Sport Loop</a> - &#36;359.00, down from &#36;429.00</li></ul> <br/>
+<br/>
+<h2>Apple Watch SE</h2><br/>
+<img src="https://images.macrumors.com/article-new/2024/03/apple-watch-se-orange.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-944157" /><br/>
+<br/>
+In addition to Series 10 deals, Amazon is discounting the 40mm GPS Apple Watch SE to <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ73CFS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;169.97</strong></a> today, down from &#36;249.00. This is the best price we've tracked so far in 2025, and it's available in Starlight, Silver, and Midnight Aluminum color options.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGJ73CFS%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;79 OFF</div>Apple Watch SE (40mm GPS) for &#36;169.97</div></a></div><br/>
+<br/>
+Additionally, you can get the 44mm GPS Apple Watch SE at an all-time low price of <a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHRBF1J%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"><strong>&#36;199.97</strong></a> today on Amazon, down from &#36;279.00. This one is also available in Midnight, Silver, and Starlight Aluminum colors, and multiple band sizes.<br/>
+<br/>
+<div class="center-wrap"><a href="https://buy.geni.us/Proxy.ashx?TSID=3088&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DGHRBF1J%3Ftag%3Dmacrumors-20%26linkCode%3Dogi%26th%3D1"target="_blank"><div class="fancybutton"><div class="fancybadge">&#36;79 OFF</div>Apple Watch SE (44mm GPS) for &#36;199.97</div></a></div><br/>
+<br/>
+If you're on the hunt for more discounts, be sure to visit our <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a> roundup where we recap the best Apple-related bargains of the past week.<br/>
+<hr /><br/>
+<div class="no-raptive"><br/>
+<h3>Deals Newsletter</h3><br/>
+Interested in hearing more about the best deals you can find in 2025? <a href="http://eepurl.com/itTnTk">Sign up</a> for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!<br/>
+<br/>
+<div style="text-align:center;margin-bottom:2em;"><br/>
+<br/>
+<form action="http://macrumors.us5.list-manage.com/subscribe/post?u=7d0106b433773bd0aef5828e0&amp;id=eebad02bf4&amp;f_id=00fbede0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><input type="email" value="" name="EMAIL" size="30" class="required email" id="mce-EMAIL"  placeholder="Enter Email Address"/><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div><div style="position: absolute; left: -5000px;"><input type="text" name="b_7d0106b433773bd0aef5828e0_eebad02bf4" tabindex="-1" value=""/></div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div><br/>
+</div><div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/best-apple-deals/">Apple Deals</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/16/amazon-apple-watch-se-series-10/">Amazon Takes Up to &#36;79 Off Apple Watch SE and Apple Watch Series 10</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/amazon-takes-up-to-79-off-apple-watch-se-and-apple-watch-series-10.2455425/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Launches 2025 Earth Day Promotion With Discounted Accessories</title>
+		<link>https://www.macrumors.com/2025/04/16/apple-earth-day-recycling-promotion/</link>
+		<comments>https://forums.macrumors.com/threads/apple-launches-2025-earth-day-promotion-with-discounted-accessories.2455421/</comments>
+		<pubDate>Wed, 16 Apr 2025 06:00:52 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/04/16/apple-earth-day-recycling-promotion/</guid>
+		<dc:creator>Joe Rossignol</dc:creator>
+		<category>Featured</category>
+		<category>Apple Store</category>
+		<category>Earth Day</category>
+		
+
+		<description><![CDATA[Apple today launched an <a href="http://apple.com/promo">Earth Day promotion</a> that offers customers 10% off eligible Apple accessories when they recycle eligible devices at participating Apple Stores. The offer is available from today through May 16 in many countries, including the U.S., Canada, U.K., Australia, France, Germany, Italy, Spain, China, Japan, and others.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2025/01/Trade-in-Feature-3.jpg" alt="" width="1770" height="996" class="aligncenter size-full wp-image-985656" /><br/>
+Keep in mind that this promotion seems to be geared towards devices that are not eligible for trade-in credit at Apple Stores. The idea is that you can help the planet by bringing in old electronics to Apple for free recycling, as has long been possible, but now with the added bonus of receiving 10% off an accessory for a limited time.<br/>
+<br/>
+The offer is available at physical Apple Store locations only. Each customer may recycle up to five eligible devices for a promotional discount on eligible accessories. Recycling of the eligible device and purchase of an eligible accessory must be completed in the same transaction. Full terms and conditions <a href="http://apple.com/promo">can be found on Apple's website</a>.<br/>
+<br/>
+Eligible devices for recycling, according to Apple:<ul><li>AirPods</li><br/>
+  <li>AirPort</li><br/>
+  <li>AirTag</li><br/>
+  <li>Apple TV</li><br/>
+  <li>Computers</li><br/>
+  <li>Displays</li><br/>
+  <li>Hard Drives & Storage</li><br/>
+  <li>Headphones & Speakers</li><br/>
+  <li>HomePod</li><br/>
+  <li>Mice & Keyboards</li><br/>
+  <li>Networking</li><br/>
+  <li>Printers & Scanners</li><br/>
+  <li>Smartphones</li><br/>
+  <li>Tablets</li><br/>
+  <li>Watches</li><br/>
+  <li>iPod</li></ul>Accessories eligible for the 10% discount:<ul><li>AirPods 4</li><br/>
+  <li>AirPods 4 with Active Noise Cancellation</li><br/>
+  <li>AirTag (1-pack)</li><br/>
+  <li>AirTag (4-pack)</li><br/>
+  <li>Apple Pencil</li><br/>
+  <li>Apple TV 4K</li><br/>
+  <li>HomePod mini</li><br/>
+  <li>Apple Watch bands</li><br/>
+  <li>Apple-branded adapters, cables, and chargers</li><br/>
+  <li>Apple-branded iPhone and iPad cases</li><br/>
+  <li>Magic Mouse</li><br/>
+  <li>Magic Trackpad</li><br/>
+  <li>Magic Keyboard (excluding the iPad version)</li></ul>While a 10% discount is not massive, Apple rarely offers direct savings on its products beyond its annual Back to School and Black Friday events.<br/>
+<br/>
+Earth Day is on Tuesday, April 22.<div class="linkback">Tags: <a href="https://www.macrumors.com/guide/apple-store/">Apple Store</a>, <a href="https://www.macrumors.com/guide/earth-day/">Earth Day</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/16/apple-earth-day-recycling-promotion/">Apple Launches 2025 Earth Day Promotion With Discounted Accessories</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-launches-2025-earth-day-promotion-with-discounted-accessories.2455421/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Apple Abruptly Changes Product Marketing Materials Amid Apple Intelligence Controversy</title>
+		<link>https://www.macrumors.com/2025/04/16/apple-abruptly-changes-marketing-materials/</link>
+		<comments>https://forums.macrumors.com/threads/apple-abruptly-changes-product-marketing-materials-amid-apple-intelligence-controversy.2455417/</comments>
+		<pubDate>Wed, 16 Apr 2025 05:18:17 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/04/16/apple-abruptly-changes-marketing-materials/</guid>
+		<dc:creator>Hartley Charlton</dc:creator>
+		<category>Apple Intelligence</category>
+		
+
+		<description><![CDATA[Apple has seemingly changed the marketing strategy for the <a href="https://www.macrumors.com/roundup/iphone-16/">iPhone 16</a> lineup and other products amid the delay in releasing key <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a> features.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/09/iphone-16-pro-apple-intelligence.jpg" alt="" width="2000" height="1125" class="alignnone size-full wp-image-964666" /><br/>
+The global marketing campaign for the &zwnj;iPhone 16&zwnj; and <a href="https://www.macrumors.com/roundup/iphone-16-pro/">iPhone 16 Pro</a> centered around the tagline "Hello, &zwnj;Apple Intelligence&zwnj;." The company now seems to have universally changed this to "Built for &zwnj;Apple Intelligence&zwnj;," often in a smaller font. The alteration seems to be a subtle acknowledgment that &zwnj;Apple Intelligence&zwnj; isn't ready, moving emphasis from &zwnj;Apple Intelligence&zwnj; in the present to support in the future.<br/>
+<br/>
+<div class="center-wrap"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Apple has updated its slogan from “Hello, Apple Intelligence” to “Built for Apple Intelligence” across its entire product lineup. <a href="https://t.co/jO3qzbrKT1">pic.twitter.com/jO3qzbrKT1</a></p>&mdash; Basic Apple Guy (@BasicAppleGuy) <a href="https://twitter.com/BasicAppleGuy/status/1912163132245725361?ref_src=twsrc%5Etfw">April 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><br/>
+<br/>
+The change also extends to the <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> and Mac, which also carried the "Hello, &zwnj;Apple Intelligence&zwnj;" tagline. They too now simply say "Built for &zwnj;Apple Intelligence&zwnj;." Meanwhile, some people have noticed a growing number of &zwnj;iPhone 16&zwnj; marketing materials such as billboards with <a href="https://x.com/ParkerOrtolani/status/1912258868148858923">no reference to Apple Intelligence</a> at all.<br/>
+<br/>
+Apple has been hit with multiple <a href="https://www.macrumors.com/2025/04/10/apple-hit-with-more-siri-delay-lawsuits/">class action lawsuits</a> over its <a href="https://www.macrumors.com/2025/03/07/apple-intelligence-siri-features-delayed/">delayed Apple Intelligence features</a>. They allege that Apple violated false advertising and unfair competition laws by marketing features that are still not available. Plaintiffs claim they never would have purchased or been willing to pay as much for an &zwnj;iPhone 16&zwnj; had they known that Apple's marketing surrounding the features was false and misleading.<br/>
+<br/>
+Apple first previewed &zwnj;Apple Intelligence&zwnj; during its WWDC 2024 keynote last June, including personalized <a href="https://www.macrumors.com/guide/siri/">Siri</a>, which it said would be rolling out over the course of the following year. That gave Apple until <a href="https://www.macrumors.com/roundup/wwdc/">WWDC 2025</a> this June to roll out the &zwnj;Siri&zwnj; features, but last month the company announced that it needed more time and anticipated rolling out the features <a href="https://www.macrumors.com/2025/03/07/apple-intelligence-siri-features-delayed/">at some point "in the coming year"</a> from then. The debacle has become the subject of <a href="https://www.macrumors.com/2025/03/12/gruber-says-something-is-rotten-at-apple/">intense criticism</a>.<br/>
+<br/>
+The features were <a href="https://www.macrumors.com/2024/07/09/ios-18-4-apple-intelligence-powered-siri/">initially expected to launch in iOS 18.4</a>, but they are now expected to arrive at some point during the <a href="https://www.macrumors.com/roundup/ios-19/">iOS 19</a> cycle. Many well-connected Apple reporters and observers believe the features will not be available until 2026. The <em>New York Times</em> <a href="https://www.macrumors.com/2025/04/11/apple-ai-struggles-2023-chip-budget-dispute/">still believes</a> that they will be released in the fall. <div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-intelligence/">Apple Intelligence</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/16/apple-abruptly-changes-marketing-materials/">Apple Abruptly Changes Product Marketing Materials Amid Apple Intelligence Controversy</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-abruptly-changes-product-marketing-materials-amid-apple-intelligence-controversy.2455417/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Security Database Used by Apple Goes Independent After Funding Cut [Updated]</title>
+		<link>https://www.macrumors.com/2025/04/16/security-database-used-apple-goes-independent/</link>
+		<comments>https://forums.macrumors.com/threads/security-database-used-by-apple-goes-independent-after-funding-cut-updated.2455415/</comments>
+		<pubDate>Wed, 16 Apr 2025 05:10:17 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/04/16/security-database-used-apple-goes-independent/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Cybersecurity</category>
+		
+
+		<description><![CDATA[<strong>Update</strong>: Following the CVE Foundation's announcement (below), CISA has said the U.S. government is extending funding to ensure no continuity issues with the critical Common Vulnerabilities and Exposures (CVE) program (via <em><a href="https://www.bleepingcomputer.com/news/security/cisa-extends-funding-to-ensure-no-lapse-in-critical-cve-services/">Bleeping Computer</a></em>). Original story follows.<br/>
+<br/>
+<hr /><br/>
+<br/>
+Apple, along with other tech companies, relies on the Common Vulnerabilities and Exposures (CVE) program to identify and track security flaws in its software. This critical cybersecurity resource now faces an uncertain future, after federal funding was today abruptly cut off.<br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-896108" /><br/>
+In response to the crisis, a coalition of longtime CVE Board members announced today the formation of the <a href="https://www.thecvefoundation.org">CVE Foundation</a>, a non-profit organization dedicated to ensuring the continued operation of the vulnerability identification system.<br/>
+<blockquote>"CVE, as a cornerstone of the global cybersecurity ecosystem, is too important to be vulnerable itself," said Kent Landfield, an officer of the newly formed Foundation. "Cybersecurity professionals around the globe rely on CVE identifiers and data as part of their daily work—from security tools and advisories to threat intelligence and response. Without CVE, defenders are at a massive disadvantage against global cyber threats."</blockquote>The CVE program provides a standardized system for identifying and cataloging security vulnerabilities across all software and hardware, including Apple's macOS, iOS, iPadOS, and other products. When security researchers discover flaws, they're assigned unique CVE identifiers that allow companies like Apple to coordinate patches and updates.<br/>
+<br/>
+MITRE Corporation, which has managed the program under contract with the U.S. Department of Homeland Security, confirmed that government funding expired on April 16. <em>Reuters</em> <a href="https://www.reuters.com/technology/us-funding-running-out-critical-cyber-vulnerability-database-manager-says-2025-04-15/">reports</a> that the expiry may be linked to the federal government undergoing a radical downsizing driven in part by the Department of Government Efficiency (DOGE). The U.S. Cybersecurity and Infrastructure Security Agency (CISA), which is exposed to the downsizing, stated it is "urgently working to mitigate impact," as the sudden funding gap threatened to disrupt vulnerability management worldwide.<br/>
+<br/>
+Security experts warned that without CVE, cybersecurity efforts would face "total chaos" as the common language used to communicate about vulnerabilities would effectively disappear. One researcher compared it to "suddenly deleting all dictionaries."<br/>
+<br/>
+The newly established CVE Foundation aims to transition the program to a dedicated non-profit model that isn't dependent on a single government sponsor. The Foundation's organizers revealed they had been preparing for this possibility for the past year.<br/>
+<br/>
+"For the international cybersecurity community, this move represents an opportunity to establish governance that reflects the global nature of today's threat landscape," the Foundation stated in its <a href="https://www.thecvefoundation.org">announcement</a>.<br/>
+<br/>
+The funding cut also affects the related Common Weakness Enumeration (CWE) program, which helps companies like Apple identify potential security issues before they become vulnerabilities.<br/>
+<br/>
+The CVE Foundation is expected to release more details about its structure and funding plans in the coming days. Apple and other major tech companies will likely play a significant role in supporting it as a critical part of cybersecurity infrastructure.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/cybersecurity/">Cybersecurity</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/16/security-database-used-apple-goes-independent/">Security Database Used by Apple Goes Independent After Funding Cut [Updated]</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/security-database-used-by-apple-goes-independent-after-funding-cut-updated.2455415/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
+		
+		<item>
+		<title>Anthropic&#039;s Claude AI Chatbot Expected to Gain &#039;Voice Mode&#039; This Month</title>
+		<link>https://www.macrumors.com/2025/04/16/anthropics-claude-ai-voice-mode-this-month/</link>
+		<comments>https://forums.macrumors.com/threads/anthropics-claude-ai-chatbot-expected-to-gain-voice-mode-this-month.2455412/</comments>
+		<pubDate>Wed, 16 Apr 2025 03:34:27 PDT</pubDate>
+		<guid isPermaLink="false">https://www.macrumors.com/2025/04/16/anthropics-claude-ai-voice-mode-this-month/</guid>
+		<dc:creator>Tim Hardwick</dc:creator>
+		<category>Apple</category>
+		<category>Rumors</category>
+		<category>Mac</category>
+		<category>iOS</category>
+		<category>iPhone</category>
+		<category>iPad</category>
+		
+
+		<description><![CDATA[<a href="https://www.anthropic.com">Anthropic</a>, makers of the <a href="https://claude.ai/login?returnTo=%2F%3F">Claude AI chatbot</a>, are close to launching a new voice assistant to rival OpenAI's similar option for interacting with ChatGPT, according to <em><a href="https://www.bloomberg.com/news/articles/2025-04-15/anthropic-is-readying-a-voice-assistant-feature-to-rival-openai">Bloomberg</a></em>. <br/>
+<br/>
+<img src="https://images.macrumors.com/article-new/2024/05/claude-ios-app.jpeg" alt="" width="1920" height="1080" class="aligncenter size-full wp-image-948971" /><br/>
+Unless plans change, the new "voice mode" feature could be released as soon as this month – nearly a year after OpenAI began rolling out its own equivalent to users.<br/>
+<br/>
+The feature, which will be available in the <a href="https://apps.apple.com/app/claude/id6473753684">Claude iOS app</a> and likely elsehwhere, reportedly includes three voices named Airy, Mellow, and British-accented Buttery. <br/>
+<br/>
+Anthropic has previously said it is working on a voice mode for Claude, but it has not officially revealed a planned launch window or any other details. The feature was discovered in Anthropic's code by app researcher M1Astra.<br/>
+<br/>
+Anthropic recently launched a new feature for its Claude AI assistant called "Research," aimed at providing thorough, citation-supported answers by drawing from online sources and corporate customer data. The tool is Anthropic's answer to OpenAI's Deep Research, which debuted earlier this year.<br/>
+<br/>
+In addition, Claude is gaining support for Gmail, Google Calendar, and Google Docs, enabling users to query and interact with their Google Workspace content for more efficient task and information management.<br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/16/anthropics-claude-ai-voice-mode-this-month/">Anthropic&#039;s Claude AI Chatbot Expected to Gain &#039;Voice Mode&#039; This Month</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/anthropics-claude-ai-chatbot-expected-to-gain-voice-mode-this-month.2455412/">Discuss this article</a> in our forums<br/><br/>]]></description>
+		</item>
 		
 		<item>
 		<title>iPhone Fold: New Leak Corroborates Camera Setup on Outer Display</title>
@@ -39,9 +338,9 @@ Expected to launch next year, Apple's book-style foldable is rumored to feature 
 <br/>
 While previous reports noted that the unfolded state will utilize an <a href="https://www.macrumors.com/2025/04/14/iphone-fold-display-resolutions-cameras/">under-screen camera (USC)</a>, there was less information about the front camera in the folded state – until now.<br/>
 <br/>
-According to <a href="https://m.blog.naver.com/PostView.naver?blogId=yeux1122&logNo=223835009454&navType=by">Korean news aggregator yeux1122</a>, citing an unknown Weibo-based source, Apple has opted for a punch-hole front-facing camera on the outer display. The design is said to be "almost identical to current foldables" on the market, such as Google's Pixel 9 Pro Fold (pictured below). The blog also cited previously revealed information on the <a href="https://www.macrumors.com/2025/03/06/kuo-apple-foldable-iphone-book-style-2000/">display sizes</a> and <a href="https://www.macrumors.com/2025/04/14/iphone-fold-display-resolutions-cameras/">screen resolutions</a>.<br/>
+According to <a href="https://m.blog.naver.com/PostView.naver?blogId=yeux1122&logNo=223835009454&navType=by">Korean news aggregator yeux1122</a>, citing an unknown Weibo-based source, Apple has opted for a hole-punch front-facing camera on the outer display. The design is said to be "almost identical to current foldables" on the market, such as Google's Pixel 9 Pro Fold (pictured below). The blog also cited previously revealed information on the <a href="https://www.macrumors.com/2025/03/06/kuo-apple-foldable-iphone-book-style-2000/">display sizes</a> and <a href="https://www.macrumors.com/2025/04/14/iphone-fold-display-resolutions-cameras/">screen resolutions</a>.<br/>
 <br/>
-It remains unclear whether the punch-hole will be visible during active use or encased in a smaller Dynamic Island, but Face ID is not expected to be part of the equation. Instead, Apple is believed to have <a href="https://mingchikuo.craft.me/84AOn3Ll8Zah6f">integrated Touch ID into the side button</a>, in order to conserve internal space for other components.<br/>
+It remains unclear whether the hole-punch will be visible during active use or encased in a smaller Dynamic Island, but Face ID is not expected to be part of the equation. Instead, Apple is believed to have <a href="https://mingchikuo.craft.me/84AOn3Ll8Zah6f">integrated Touch ID into the side button</a>, in order to conserve internal space for other components.<br/>
 <br/>
 <img src="https://images.macrumors.com/article-new/2025/04/google-pixel-9-fold.jpg" alt="pixel" width="1920" height="1080" class="aligncenter size-full wp-image-998892" /><br/>
 Kuo says final hardware specifications will be locked in during the second quarter of this year (April 1 - June 30), suggesting some elements are still subject to change. However, analyst Jeff Pu claims the device has already entered the <a href="https://www.macrumors.com/2025/03/16/apple-foldables-mass-production-2026/">New Product Introduction (NPI) phase</a> at Foxconn – a critical stage in Apple's product development cycle – indicating that key specs may already be finalized.<br/>
@@ -528,252 +827,6 @@ According to a reliable source of iOS-related information, iOS 19 will be <a hre
 <br/>
 <h2>More</h2><br/>
 Read our <a href="https://www.macrumors.com/roundup/ios-19/">iOS 19 roundup</a> for more details about the upcoming software update.<div class="linkback">Related Roundup: <a href="https://www.macrumors.com/roundup/ios-19/">iOS 19</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/15/ios-19-will-add-these-new-features/">iOS 19 Will Add These New Features to Your iPhone</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/ios-19-will-add-these-new-features-to-your-iphone.2455358/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Beats Launches New Collection of Charging Cables</title>
-		<link>https://www.macrumors.com/2025/04/15/beats-charging-cables/</link>
-		<comments>https://forums.macrumors.com/threads/beats-launches-new-collection-of-charging-cables.2455355/</comments>
-		<pubDate>Tue, 15 Apr 2025 07:00:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/04/15/beats-charging-cables/</guid>
-		<dc:creator>Eric Slivka</dc:creator>
-		<category>Beats</category>
-		
-
-		<description><![CDATA[In line with <a href="https://www.macrumors.com/2025/03/26/new-beats-charging-cable-listings/">reseller leaks from last month</a>, Apple's Beats brand is launching its <a href="https://www.beatsbydre.com/products/charging-cables">first-ever set of charging cables</a> today. Available in up to four color options, the new cables include USB-C to USB-C, USB-A to USB-C, and USB-C to Lightning options.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/04/Beats-Color-Matched-Charging-Cables-Feature.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-998656" /><br/>
-All three cable types are available in 1.5-meter (5-foot) and 20-centimeter (8-inch) lengths and both lengths are priced at &#36;18.99 for a single cable. The 1.5-meter versions of USB-C to USB-C and USB-A to USB-C are also available in 2-packs for &#36;34.99.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/04/beats-cable-red-pill.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-998622" /><br/>
-The 1-pack versions of the 1.5-meter cables are available in Bolt Black, Surge Stone, and Rapid Red, though the Rapid Red versions of the USB-A to USB-C and USB-C to Lightning won't be available until summer. The USB-C to USB-C cable is also available in a Nitro Navy color.<br/>
-<br/>
-The 2-pack versions of the 1.5-meter USB-C to USB-C and USB-A to USB-C cables, as well as the three 20-centimeter cables, are available only in Bolt Black.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/04/beats-cable-stone-desk.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-998623" /><br/>
-The new Beats cables are made with a woven design for increased durability and to prevent tangles, with the USB-C to USB-C cables supporting charging at up to 60 watts while the USB-A to USB-C cables support charging at up to 15 watts. Data speeds on both are limited to USB 2.0 rates. The USB-C to Lightning cables support fast charging on select <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and <a href="https://www.macrumors.com/roundup/ipad/">iPad</a> models, though Beats did not specify an exact wattage limit.<br/>
-<br/>
-<div class="center-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/W5TbUlxv3t0?si=wuTqAyUIS2DQrYWS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br/>
-To promote the launch, the Beats "Pill People" have returned in a brief ad spot voiced by comedians Ben Marshall, Desi Banks and Megan Stalter.<br/>
-<br/>
-The new cables are <a href="https://www.apple.com/shop/accessories/all/new-arrivals?page=1&s=newest">available to order starting today</a> at apple.com in the United States, with on-shelf availability starting this Thursday, April 17.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/04/beats-cable-navy-phone.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-998625" /><br/>
-The debut of the new cables from Beats follows the launch of <a href="https://www.macrumors.com/2024/09/09/apple-beats-iphone-16-cases/">cases for the iPhone 16 series</a> back in September <a href="https://www.macrumors.com/2024/12/11/beats-iphone-16-cases-pink-blue/">and December</a> as the brand has worked to expand its product portfolio into new accessory categories.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/beats/">Beats</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/15/beats-charging-cables/">Beats Launches New Collection of Charging Cables</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/beats-launches-new-collection-of-charging-cables.2455355/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple&#039;s 20th Anniversary iPhone May Finally Go All Screen</title>
-		<link>https://www.macrumors.com/2025/04/15/20th-anniversary-iphone-truly-all-screen-model/</link>
-		<comments>https://forums.macrumors.com/threads/apples-20th-anniversary-iphone-may-finally-go-all-screen.2455353/</comments>
-		<pubDate>Tue, 15 Apr 2025 06:31:01 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/04/15/20th-anniversary-iphone-truly-all-screen-model/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		
-
-		<description><![CDATA[Apple is preparing a "bold" new iPhone Pro model for the iPhone's 20th anniversary in 2027, according to <a href="https://www.bloomberg.com/news/newsletters/2025-04-06/will-apple-raise-iphone-prices-in-the-us-after-trump-tariffs-iphone-17-details"><em>Bloomberg</em>'s Mark Gurman</a>. As part of what's being described as a "major shake-up," Apple is said to be developing a design that makes more extensive use of glass – and this could point directly to the display itself.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2021/04/Beyond-iPhone-13-Better-Triad.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-793994" /><br/>
-Here's the case for Apple releasing a truly all-screen iPhone with no display cutout for its premium 20th anniversary model.<br/>
-<br/>
-<h2>The Road to All-Screens</h2><br/>
-Gurman recently reported that the Pro models are expected to gain a smaller Dynamic Island in 2026 or 2027, as Apple moves more of its front-facing components beneath the display. While it's not yet clear whether the selfie camera or the TrueDepth system behind Face ID will make the move first, display analyst Ross Young has said under-screen Face ID is currently slated to <a href="https://x.com/DSCCRoss/status/1786098652420911128">arrive in 2026</a>.<br/>
-<br/>
-That would mean under-display Face ID could debut as early as next year, in the iPhone 18 Pro and iPhone 18 Pro Max. In that scenario, the Dynamic Island would shrink but remain, housing a front-facing camera via a small cutout. The next logical step – for 2027's flagship – would be to move that camera under the display as well, finally achieving the full-screen design that has long been rumored. That progression aligns with <a href="https://x.com/DSCCRoss/status/1642942985976578049">Young's display roadmap</a>, which has predicted this shift since 2023.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2023/04/Beyond-iPhone-13-Better-Blue-Face-ID-Single-Camera-Hole.jpg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-891051" /><br/>
-Backing this up, Weibo-based leaker Digital Chat Station recently claimed the next two iPhone generations – iPhone 17 and iPhone 18 – will both retain the Dynamic Island. But for the 2027 model, Apple may be on track to complete its transition to a seamless display.<br/>
-<br/>
-<h2>Foldable Innovations</h2><br/>
-Apple is reportedly already testing the technologies that could make this possible. The company is developing an 18.8-inch foldable device, and one prototype is said to feature a "<a href="https://www.macrumors.com/2025/03/10/foldable-ipad-pro-under-display-face-id/">metal superstructure lens</a>" that integrates the transmitter and receiver components used for Face ID, enabling facial recognition under the display.<br/>
-<br/>
-Meanwhile, the long-rumored foldable iPhone, which could launch as soon as next year, reportedly uses an under-display front-facing camera and forgoes Face ID entirely, instead <a href="https://mingchikuo.craft.me/84AOn3Ll8Zah6f">relying on Touch ID built into the side button</a>. If accurate, that would signal Apple is actively experimenting with multiple under-display camera systems across its product lines – some with Face ID, some without.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-995556" /><br/>
-Together, these developments suggest Apple may already have the foundational technologies in place to hide both the TrueDepth system and selfie camera beneath the screen – key requirements for a truly all-screen iPhone. That would set the stage for a major design milestone in 2027, in line with what former design chief Jony Ive long envisioned.<br/>
-<br/>
-<h2>Engineering Advances</h2><br/>
-Of course, this all depends on Apple overcoming some significant engineering hurdles. For Face ID to work under the display, its sensors – especially those that use infrared light – need to operate without interference from the display layers above them. That's difficult with current OLED and LCD technology, which tend to scatter or absorb infrared signals.<br/>
-<br/>
-There are, however, several emerging display solutions that might enable this. Transparent OLED panels can allow infrared light to pass through specific areas of the screen, though current implementations suffer from reduced brightness and clarity. LTPO displays with subpixels that can temporarily deactivate may also allow sensors to "see" through the panel during authentication. <br/>
-<br/>
-Another possibility involves integrating optical waveguide layers into the display to channel infrared signals to and from the sensors with minimal distortion. Apple could also incorporate advanced IR-pass materials to create invisible sensor zones that preserve display quality while enabling accurate facial recognition.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2017/09/faceidscaniphonex.jpg" alt="" width="800" height="493" class="aligncenter size-full wp-image-588776" /><br/>
-It's likely that a future under-display Face ID system would require a combination of these technologies to meet Apple's high standards for privacy, performance, and visual consistency.<br/>
-<br/>
-As for the front camera, industry progress is further along. Several Android phones already feature under-display selfie cameras, and Apple has reportedly been working on its own solution for some time. According to an <a href="https://www.macrumors.com/2023/12/06/iphone-under-display-camera/">April 2024 report</a>, LG Innotek – one of Apple's Korean suppliers – is developing under-display cameras that leave no visible hole when inactive. These systems use a "freeform optic" multiple lens array designed to reduce image distortion and improve brightness, compensating for the light loss that typically occurs when a camera sits behind a display.<br/>
-<br/>
-<h2>20th Anniversary iPhone</h2><br/>
-<img src="https://images.macrumors.com/article-new/2025/04/iphone-x-front-back-feature-1.jpg" alt="" width="868" height="488" class="aligncenter size-full wp-image-997833" /><br/>
-If Apple intends to mark the iPhone's 20th anniversary with a hardware leap on the scale of 2017's iPhone X – which removed the Home button and introduced Face ID in a top-screen notch – then a true all-screen design would certainly make a splash.<br/>
-<br/>
-As for naming, it's unclear whether Apple will stick with its annual numbering pattern, which would put us at iPhone 19 in 2027, or choose a commemorative name like "iPhone 20" to align with the milestone year – just as it introduced the iPhone 8 and the radically redesigned iPhone X side by side in 2017.<br/>
-<br/>
-Either way, a full-screen, all-glass iPhone would be a fitting way to celebrate two decades of Apple's most iconic product.<br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/15/20th-anniversary-iphone-truly-all-screen-model/">Apple&#039;s 20th Anniversary iPhone May Finally Go All Screen</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apples-20th-anniversary-iphone-may-finally-go-all-screen.2455353/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>iPhone Feature for Tracking Lost Baggage Expands to 2 More Airlines</title>
-		<link>https://www.macrumors.com/2025/04/15/iphone-tracking-lost-baggage-china-airlines/</link>
-		<comments>https://forums.macrumors.com/threads/iphone-feature-for-tracking-lost-baggage-expands-to-2-more-airlines.2455348/</comments>
-		<pubDate>Tue, 15 Apr 2025 04:06:49 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/04/15/iphone-tracking-lost-baggage-china-airlines/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>AirTag</category>
-		<category>Find My</category>
-		<category>Taiwan</category>
-		
-
-		<description><![CDATA[Taiwan's China Airlines and Air India now support Apple's iPhone feature that makes it easier to share the location of AirTag-equipped baggage at airports, according to <a href="https://news.ltn.com.tw/news/life/breakingnews/5012598">local</a> <a href="https://indianexpress.com/article/technology/tech-news-technology/air-india-apple-airtag-support-how-to-track-9930422/">media</a>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/11/AirTag-on-Baggage.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-977065" /><br/>
-With iOS 18.2, Apple introduced a new Find My feature that lets you temporarily share the location of an AirTag-equipped item – such as a bag – with others, including participating airline staff, to help track it if it's lost or delayed.<br/>
-<br/>
-Users running iOS 18.2, iPadOS 18.2, or macOS Sequoia 15.2 and later can generate a "Share Item Location" link in the Find My app. Recipients can view the item's location on a live-updating web map.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/11/iOS-18-2-Share-Item-Location.jpg" alt="" width="1600" height="900" class="aligncenter size-full wp-image-976718" /><br/>
-Apple says it collaborated with airlines to enable private and secure access to these links. Only a small number of people can view each link, and airline staff must authenticate using an Apple ID or a verified partner email to gain access.<br/>
-<br/>
-China Airlines said that as soon as customers find their item, location sharing is disabled. The owner can also stop sharing their location at any time, and the sharing link automatically expires after 7 days to ensure the privacy of passengers.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2024/11/Apple-Share-Item-Location-iPhone-iPad-Mac.jpg" alt="" width="1960" height="1102" class="aligncenter size-full wp-image-976679" /><br/>
-American Airlines rolled out support for the feature in February. Other airlines that also offer the feature include <a href="https://www.macrumors.com/2024/12/16/united-delta-air-canada-find-my-luggage/">Delta, United, Air Canada</a>, <a href="https://www.macrumors.com/2025/02/06/airtag-lost-baggage-feature-more-airlines/">Virgin Atlantic, Lufthansa</a>, and more. <div class="linkback">Tags: <a href="https://www.macrumors.com/roundup/airtag/">AirTag</a>, <a href="https://www.macrumors.com/guide/find-my/">Find My</a>, <a href="https://www.macrumors.com/guide/taiwan/">Taiwan</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/15/iphone-tracking-lost-baggage-china-airlines/">iPhone Feature for Tracking Lost Baggage Expands to 2 More Airlines</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/iphone-feature-for-tracking-lost-baggage-expands-to-2-more-airlines.2455348/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Foldable iPhone Set to Use Exclusively Samsung OLED Panels</title>
-		<link>https://www.macrumors.com/2025/04/15/foldable-iphone-samsung-oled-panels/</link>
-		<comments>https://forums.macrumors.com/threads/foldable-iphone-set-to-use-exclusively-samsung-oled-panels.2455347/</comments>
-		<pubDate>Tue, 15 Apr 2025 03:38:02 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/04/15/foldable-iphone-samsung-oled-panels/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Foldable iPhone</category>
-		
-
-		<description><![CDATA[Apple's upcoming foldable iPhone (aka "iPhone Fold") will use OLED panels exclusively supplied by Samsung Display, reports <em><a href="https://www.businesskorea.co.kr/news/articleView.html?idxno=239775">Business Korea</a></em>.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/02/iPhone-Fold-Vertical-Feature.jpg" alt="" width="2250" height="1265" class="aligncenter size-full wp-image-988570" /><br/>
-Apple's decision to rely exclusively on Samsung Display is noteworthy, as it marks a departure from Apple's usual strategy of sourcing components from multiple suppliers to reduce costs and ensure consistent quality.<br/>
-<br/>
-Apple's decision to use Samsung as the sole supplier of the OLED panels, leaving out LG Display and China's BOE, was reportedly down to Samsung's "technological edge in minimizing screen creases." <br/>
-<br/>
-"For Apple, which prioritizes quality over price when selecting component suppliers, Samsung was the only viable choice," stated an industry insider quoted in the report.<br/>
-<br/>
-Based on previous reports, when the device is folded, users will interact with a 5.5-inch outer display that is similar to a typical iPhone screen, while unfolding it will reveal a larger 7.8-inch iPad-style screen with a punch-hole camera. The inner display is said to be <a href="https://www.macrumors.com/2025/02/25/apple-2026-foldable-phone-has-no-crease/">virtually crease-free</a>, and the screen dimensions have been corroborated by two <a href="https://www.macrumors.com/2025/03/06/kuo-apple-foldable-iphone-book-style-2000/">reputable</a> <a href="https://www.macrumors.com/2025/02/21/alleged-display-sizes-apple-foldable-iphone/">sources</a>. Instead of Face ID, Apple is said to be using <a href="https://mingchikuo.craft.me/84AOn3Ll8Zah6f">Touch ID integrated into the side button</a> to save internal space. <br/>
-<ul><li><a href="https://www.macrumors.com/2025/04/07/foldable-iphone-expected-2026-rumored-features/">Foldable iPhone Expected Next Year: All the Rumored Features So Far</a></li></ul><br/>
-According to Business Korea, the supply volume for Apple's foldable iPhone, expected to launch late next year, has not yet been finalised. However, industry expectations suggest it could exceed its initially projected annual level of 9 million units, and potentially reach over 15 million units.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/foldable-iphone/">Foldable iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/15/foldable-iphone-samsung-oled-panels/">Foldable iPhone Set to Use Exclusively Samsung OLED Panels</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/foldable-iphone-set-to-use-exclusively-samsung-oled-panels.2455347/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Foldable iPhone&#039;s Under-Screen Camera Likely Won&#039;t Include Face ID</title>
-		<link>https://www.macrumors.com/2025/04/15/foldable-iphone-under-screen-camera-no-face-id/</link>
-		<comments>https://forums.macrumors.com/threads/foldable-iphones-under-screen-camera-likely-wont-include-face-id.2455343/</comments>
-		<pubDate>Tue, 15 Apr 2025 02:43:05 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/04/15/foldable-iphone-under-screen-camera-no-face-id/</guid>
-		<dc:creator>Tim Hardwick</dc:creator>
-		<category>Featured</category>
-		<category>Digital Chat Station</category>
-		<category>Foldable iPhone</category>
-		
-
-		<description><![CDATA[Apple's rumored foldable iPhone currently in development features an under-screen camera integrated into the folding display, but the module is unlikely to include TrueDepth components that make up Face ID. That's according to Weibo-based leaker <a href="https://weibo.com/6048569942/PnngRFfih">Digital Chat Station</a> who has sources within the Chinese supply chain. <br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-Search.jpg" alt="" width="2250" height="1266" class="aligncenter size-full wp-image-995557" /><br/>
-On Monday, the leaker revealed the alleged <a href="https://www.macrumors.com/2025/04/14/iphone-fold-display-resolutions-cameras/">screen resolutions</a> for the 7.76-inch inner display and the 5.49-inch outer display of Apple's book-style foldable device, and they also claimed that the inner display uses "under-screen camera technology." However, it was not clear whether this meant the TrueDepth system that underlies Face ID would be integrated beneath the screen along with the selfie camera.<br/>
-<br/>
-The latest tidbit of information clears this up, and suggests that the display will have a single punch-hole camera. It also aligns with industry analyst Ming-Chi Kuo's claim that Apple's foldable iPhone will <a href="https://mingchikuo.craft.me/84AOn3Ll8Zah6f">forgo Face ID authentication</a>, instead using a Touch ID side button as a means to save precious internal space. Apple already integrates Touch ID into the side button on some iPads, so there's precedent for this.<br/>
-<br/>
-Integrating Face ID under the screen is difficult because the core components that make up the TrueDepth camera system – like the dot projector and infrared camera – need a clear, unobstructed view to accurately scan your face. Current display layers block or distort infrared light, which degrades the system's ability to create a secure 3D facial map. Fully under-display Face ID will remain a technical hurdle until displays can transmit infrared light cleanly.<br/>
-<br/>
-That said, it's possible that Apple has already made advances toward achieving such a feat. Apple is also developing a larger 18.8-inch foldable device, and according to Digital Chat Station, one of Apple's engineering prototypes features a "<a href="https://www.macrumors.com/2025/03/10/foldable-ipad-pro-under-display-face-id/">metal superstructure lens</a>" that integrates the receiver and transmitter components of Face ID for under-display facial recognition. <br/>
-<br/>
-<em>Bloomberg</em>'s Mark Gurman has suggested the "giant" foldable tablet will <a href="https://www.macrumors.com/2024/12/16/foldable-ipad-likely-set-for-2028-launch/">launch in 2028</a>. Whether the new Face ID technology makes it into the finished device is unknown. <br/>
-<br/>
-Apple will launch its long-rumored foldable iPhone late next year with a ~&#36;2,000 premium price tag attached, <a href="https://www.macrumors.com/2025/03/24/foldable-iphone-to-launch-next-year/">according to Gurman</a>. <div class="linkback">Tags: <a href="https://www.macrumors.com/guide/digital-chat-station/">Digital Chat Station</a>, <a href="https://www.macrumors.com/guide/foldable-iphone/">Foldable iPhone</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/15/foldable-iphone-under-screen-camera-no-face-id/">Foldable iPhone&#039;s Under-Screen Camera Likely Won&#039;t Include Face ID</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/foldable-iphones-under-screen-camera-likely-wont-include-face-id.2455343/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Apple TV+ Comedy &#039;Mythic Quest&#039; Canceled</title>
-		<link>https://www.macrumors.com/2025/04/14/mythic-quest-canceled/</link>
-		<comments>https://forums.macrumors.com/threads/apple-tv-comedy-mythic-quest-canceled.2455325/</comments>
-		<pubDate>Mon, 14 Apr 2025 15:54:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/04/14/mythic-quest-canceled/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple TV Plus</category>
-		
-
-		<description><![CDATA[Apple is canceling popular comedy series Mythic Quest after a four season run, with the show to wrap up after a re-released season 4 finale that's coming later this week.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/04/mythic-quest-season-4.jpg" alt="" width="2000" height="1125" class="aligncenter size-full wp-image-998666" /><br/>
-Mythic Quest starred Rob McElhenney, Charlotte Nicdao, Danny Pudi, and David Hornsby, all of whom played characters that worked at the fictional Mythic Quest Studios creating, designing, and running a massively multiplayer online roleplaying game. The show provided a satirical and humorous look at the inner workings of video game development.<br/>
-<br/>
-Season four was not initially meant to be the show's final season, so the season four finale has been updated with a new ending that will provide Mythic Quest fans with closure. In a statement to <em><a href="https://deadline.com/2025/04/mythic-quest-canceled-apple-no-season-5-finale-updated-1236367033/">Deadline</a></em>, series producers Megan Ganz, David Hornsby and Rob McElhenney said they wanted to be able to say goodbye.<br/>
-<blockquote>Endings are hard. But after four incredible seasons, Mythic Quest is coming to a close. We're so proud of the show and the world we got to build -- and deeply grateful to every cast and crew member who poured their heart into it. To all our fans, thank you for playing with us. To our partners at Apple, thank you for believing in the vision from the very beginning. Because endings are hard, with Apple's blessing we made one final update to our last episode -- so we could say goodbye, instead of just game over.</blockquote><br/>
-Mythic Quest was one of the first shows that launched on <a href="https://www.macrumors.com/roundup/apple-tv/">Apple TV</a>+, debuting in February 2020. There have been four seasons and two special episodes, including one that was filmed remotely on iPhones during the COVID-19 pandemic.<br/>
-<br/>
-Apple's decision to cancel Mythic Quest follows reports of &zwnj;Apple TV&zwnj;+ losses. &zwnj;Apple TV&zwnj;+ is losing <a href="https://www.macrumors.com/2025/03/20/report-tv-losing-1-billion-annually/">as much as &#36;1 billion per year</a> as Apple works to lure subscribers and add more content to the streaming service.  <br/>
-<br/>
-Mythic Quest has spawned a spinoff show called Side Quest, a four episode miniseries that explores the lives of Mythic Quest employees and players. The final episode of season four aired on March 26 and ended with a cliffhanger. The re-edited final episode with a new ending will be available this week.<div class="linkback">Tag: <a href="https://www.macrumors.com/guide/apple-tv-plus/">Apple TV Plus</a></div><br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/14/mythic-quest-canceled/">Apple TV+ Comedy &#039;Mythic Quest&#039; Canceled</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/apple-tv-comedy-mythic-quest-canceled.2455325/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Trump Planning Semiconductor Tariffs That Will Impact Apple, No One &#039;Getting Off the Hook&#039;</title>
-		<link>https://www.macrumors.com/2025/04/14/trump-semiconductor-tariffs-apple/</link>
-		<comments>https://forums.macrumors.com/threads/trump-planning-semiconductor-tariffs-that-will-impact-apple-no-one-getting-off-the-hook.2455322/</comments>
-		<pubDate>Mon, 14 Apr 2025 15:22:00 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/04/14/trump-semiconductor-tariffs-apple/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Apple will not be exempt from tariffs after all, with U.S. President Donald Trump working on new semiconductor levies that will likely impact Apple devices, chips from companies like Nvidia, and other electronics.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/01/m2-macbook-air-blue.jpeg" alt="" width="2500" height="1406" class="aligncenter size-full wp-image-987864" /><br/>
-Over the weekend, the U.S. Customers and Border Protection agency <a href="https://www.macrumors.com/2025/04/12/apple-tariff-exemptions/">shared a long list of electronic devices</a> excluded from the current tariffs, including iPhones, iPads, Macs, the Apple Watch, and more. Apple scored a reprieve from the 145 percent tariff impacting goods imported from China and the 10 percent tariff on goods imported from other countries, but it doesn't sound like it's going to last.<br/>
-<br/>
-On his <a href="https://truthsocial.com/@realDonaldTrump/posts/114332337028519855">Truth Social</a> network, Trump said that no one is "getting off the hook" and there "was no tariff exception." Apple and other tech companies are "just moving to a different tariff bucket," with the 20 percent "Fentanyl Tariffs" still in place, and additional tariffs coming.<br/>
-<br/>
-Trump said that his administration will be "taking a look" at semiconductors and the electronics supply chain in the National Security Tariff Investigations. He also reiterated that "we need to make products in the United States." Trump is expected to announce some kind of semiconductor tariff in the coming days.<br/>
-<br/>
-Trump has suggested that Apple could manufacture the <a href="https://www.macrumors.com/guide/iphone/">iPhone</a> and other products <a href="https://www.macrumors.com/2025/04/08/trump-apple-us-iphone-manufacturing/">in the United States</a>, but even if such a move were not wildly expensive, Apple would not be able to find enough people with the necessary skillset to assemble devices in the quantities needed. U.S. manufacturing would also drive the cost of the &zwnj;iPhone&zwnj; up significantly.<br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/14/trump-semiconductor-tariffs-apple/">Trump Planning Semiconductor Tariffs That Will Impact Apple, No One &#039;Getting Off the Hook&#039;</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/trump-planning-semiconductor-tariffs-that-will-impact-apple-no-one-getting-off-the-hook.2455322/">Discuss this article</a> in our forums<br/><br/>]]></description>
-		</item>
-		
-		<item>
-		<title>Chipolo Launches Colorful New &#039;Pop&#039; Trackers Compatible With Find My</title>
-		<link>https://www.macrumors.com/2025/04/14/chipolo-pop-tracker/</link>
-		<comments>https://forums.macrumors.com/threads/chipolo-launches-colorful-new-pop-trackers-compatible-with-find-my.2455321/</comments>
-		<pubDate>Mon, 14 Apr 2025 14:53:03 PDT</pubDate>
-		<guid isPermaLink="false">https://www.macrumors.com/2025/04/14/chipolo-pop-tracker/</guid>
-		<dc:creator>Juli Clover</dc:creator>
-		<category>Apple</category>
-		<category>Rumors</category>
-		<category>Mac</category>
-		<category>iOS</category>
-		<category>iPhone</category>
-		<category>iPad</category>
-		
-
-		<description><![CDATA[Chipolo today introduced a series of new Bluetooth-enabled item trackers that are compatible with Apple's <a href="https://www.macrumors.com/guide/find-my/">Find My</a> network. Called <a href="https://chipolo.net/en-us/products/chipolo-pop">the Pop</a>, these trackers come in a range of bright colors, including blue, yellow, red, and green, along with black and white.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/04/chipolo-pop-tracker.jpg" alt="" width="1400" height="787" class="aligncenter size-full wp-image-998705" /><br/>
-The Chipolo Pop item trackers work with Apple &zwnj;Find My&zwnj;, so you can use them just like AirTags. The Pop can be added to your Items tab in the &zwnj;Find My&zwnj; app, and once added, it is trackable over Bluetooth and can be placed on an item like a bag or a suitcase for tracking purposes.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/04/chipolo-pop-tracker-blue.jpg" alt="" width="1350" height="758" class="aligncenter size-full wp-image-998707" /><br/>
-When the item is out of range, the Pop is able to connect to the &zwnj;Find My&zwnj; network to leverage the iPhones of other people to locate your item and relay its location.<br/>
-<br/>
-Like an <a href="https://www.macrumors.com/guide/airtags/">AirTag</a>, the Chipolo Pop is equipped with a CR2032 battery that lasts for up to a year before it needs to be replaced. The Pop is 6.6mm thick (so a little thinner than an &zwnj;AirTag&zwnj;) and it has a 300 ft range, plus it comes with a loop at the top for attaching a keyring or strap.<br/>
-<br/>
-<img src="https://images.macrumors.com/article-new/2025/04/chipolo-pop-tracker-yellow.jpg" alt="" width="1228" height="691" class="aligncenter size-full wp-image-998708" /><br/>
-Compared to prior-generation Chipolo trackers, the Pop has a louder sound when the Play Sound option is selected in &zwnj;Find My&zwnj;, a longer range, and IP55 dust and water resistance.<br/>
-<br/>
-Chipolo is selling the Pop for &#36;29, and it can be purchased from the Chipolo website. Four Pops are priced at &#36;89, and six Pops are priced at &#36;121, or a little over &#36;20 per tracker.<br/>This article, &quot;<a href="https://www.macrumors.com/2025/04/14/chipolo-pop-tracker/">Chipolo Launches Colorful New &#039;Pop&#039; Trackers Compatible With Find My</a>&quot; first appeared on <a href="https://www.macrumors.com">MacRumors.com</a><br/><br/><a href="https://forums.macrumors.com/threads/chipolo-launches-colorful-new-pop-trackers-compatible-with-find-my.2455321/">Discuss this article</a> in our forums<br/><br/>]]></description>
 		</item>
 		
 	</channel>
